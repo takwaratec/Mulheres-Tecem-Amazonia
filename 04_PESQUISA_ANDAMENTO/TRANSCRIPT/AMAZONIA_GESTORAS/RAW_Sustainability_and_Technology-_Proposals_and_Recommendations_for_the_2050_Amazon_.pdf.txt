@@ -1,0 +1,313 @@
+RGSA – Revista de Gestão Social e Ambiental ISSN: 1981-982X
+Data de submissão: 10/11/2022
+Data de aceite: 03/02//2023
+DOI: https://doi.org/10.24857/rgsa.v17n1-020 Organização: Comitê Científico Interinstitucional
+Editora Chefe: Christian Luiz da Silva Avaliação: Double Blind Review pelo SEER/OJS
+SUSTAINABILITY AND TECHNOLOGY: PROPOSALS AND RECOMMENDATIONS FOR THE 2050 AMAZON
+Maria do Céu de Sena Moura1 Bruno Lopes Silva2 Marcos Felipe Falcão Sobral3 Geórgia Patrícia da Silva Ferko4
+ ABSTRACT
+Purpose: To Identify and catalog the sustainable practices adopted in the Amazon Region. Sustainable development in the Amazon region is fundamental for the balance between human presence and the preservation of nature. Every productive chain that involves Amazon needs to avoid the degradation of the region.
+Theoretical framework: The theoretical bases that supported the research were extracted from scientific articles indexed by SCOPUS, from books about sustainability practices in the Amazon.
+Methods: We perform a Systematic Literature Review (SLR) using the PRISMA protocol. The study covered articles published in SCOPUS from 1989 to 2022. As an inclusion criterion, the articles should cover topics related to sustainable development practices in the Amazon region. The articles were cataloged by journal, study area, economic sector, and sustainability practices.
+Results and conclusions: Researchers from Latin America, mainly from Brazil, are the ones who are most dedicated to studying sustainable practices and actions in the Amazon region. The studies indicate a connection between production activities and actions that seek and are concerned with environmental sustainability. The researcher's interest in the Brazilian Amazon forest was identified, with emphasis on studies of sustainable forest management, deforestation, the study of rubber, geographic information systems for better monitoring of the region to contribute to planning and management, and the study of environmental degradation driven by the deficiency of government management.
+Research implications: The sustainable actions and practices characterized in the Amazon examined show what is being studied by the scientific community globally in the Amazon region and in which economic segments the practices of technological sustainability can be observed.
+Originality/value: Expands understanding of sustainable actions and presents proposals and recommendations for studies up to 2050 in the Amazon.
+Keywords: Sustainable, Rainforest, Amazon, Technology.
+1 Universidade Federal de Roraima (UFRR), Boa Vista, Roraima, Brasil. E-mail: maria.sena@ufrr.br Orcid: https://orcid.org/0000-0003-2439-2814
+2 Universidade Federal Rural de Pernambuco (UFRPE), Recife, Pernambuco, Brasil.
+E-mail: bruno.lopess@ufrpe.br Orcid: https://orcid.org/0000-0001-9159-2782
+3 Universidade Federal Rural de Pernambuco (UFRPE), Recife, Pernambuco, Brasil. E-mail: marcos.sobral@ufrpe.br Orcid: https://orcid.org/0000-0002-4768-2622
+4 Universidade Federal de Roraima (UFRR), Boa Vista, Roraima, Brasil. E-mail: georgia.ferko@ufrr.br Orcid: https://orcid.org/0000-0002-0020-6557
+Rev. Gest. Soc. Ambient. | Miami | v.17.n.1 | p.1-17 | e03166 | 2023.
+          1
+
+ Sustainability and Technology: Proposals and Recommendations for the 2050 Amazon ___________________________________________________________________________
+SUSTENTABILIDADE E TECNOLOGIA: PROPOSTAS E RECOMENDAÇÕES PARA A AMAZÔNIA DE 2050
+RESUMO
+Objetivo: Identificar e catalogar as práticas sustentáveis adotadas na Região Amazônica. O desenvolvimento sustentável na região amazônica é fundamental para o equilíbrio entre a presença humana e a preservação da natureza. Toda cadeia produtiva que envolve a Amazônia precisa evitar a degradação da região.
+Marco teórico: As bases teóricas que sustentaram a pesquisa foram extraídas de artigos científicos indexados pela SCOPUS, de livros sobre práticas de sustentabilidade na Amazônia.
+Métodos: Realizamos uma Revisão Sistemática da Literatura (SLR) utilizando o protocolo PRISMA. O estudo abrangeu artigos publicados no SCOPUS de 1989 a 2022. Como critério de inclusão, os artigos deveriam cobrir tópicos relacionados às práticas de desenvolvimento sustentável na região amazônica. Os artigos foram catalogados por revista, área de estudo, setor econômico e práticas de sustentabilidade.
+Resultados e conclusões: Os pesquisadores da América Latina, principalmente do Brasil, são os mais dedicados ao estudo das práticas e ações sustentáveis na região amazônica. Os estudos indicam uma conexão entre atividades de produção e ações que buscam e se preocupam com a sustentabilidade ambiental. O interesse do pesquisador pela floresta amazônica brasileira foi identificado, com ênfase nos estudos de manejo florestal sustentável, desmatamento, estudo da borracha, sistemas de informação geográfica para melhor monitoramento da região para contribuir com o planejamento e o manejo, e o estudo da degradação ambiental impulsionada pela deficiência do manejo governamental.
+Implicações da pesquisa: As ações e práticas sustentáveis caracterizadas na Amazônia examinadas mostram o que está sendo estudado pela comunidade científica mundial na região amazônica e em que segmentos econômicos as práticas de sustentabilidade tecnológica podem ser observadas.
+Originalidade/valor: Expande o entendimento das ações sustentáveis e apresenta propostas e recomendações para estudos até 2050 na Amazônia.
+Palavras-chave: Sustentável, Floresta Tropical, Amazônia, Tecnologia.
+RGSAadota a Licença de Atribuição CC BY do Creative Commons (https://creativecommons.org/licenses/by/4.0/).
+1 INTRODUCTION
+Sustainability is a term that has become common in the most diverse environments, such as corporate executives, investors, politicians, social activists, academics, and workers, among others (Agustini & Giannetti, 2018). It is a term used to define actions and activities that address human needs without compromising future generations (Un, 2022).
+Sustainable development arose in 1980 in the document World Conservation Strategy, produced by the International Union for the Conservation of Nature (IUNC) (Barbiere, 2020). From 1987 onwards, sustainable development began to be more widely disseminated by the World Commission on the Environment and Development (CMMAD), known as the Brundtland Commission, for the document Our Common Future, with concepts and proposals with vast worldwide repercussions.
+Sachs (2008) considers that sustainable development obeys a double ethical imperative of solidarity with present and future generations and, above all, requires the clarification of criteria in the social, environmental, and economic viability dimensions.
+In this direction, in the 2030 agenda, 17 Sustainable Development Goals (SDGs) were defined and approved by 193 countries, including Brazil. The SDGs form an integrated and
+Rev. Gest. Soc. Ambient. | Miami | v.17.n.1 | p.1-17 | e03166 | 2023.
+    2
+
+ Sustainability and Technology: Proposals and Recommendations for the 2050 Amazon ___________________________________________________________________________
+indivisible set of global priorities for sustainable development, and it is up to each government to set its targets according to national circumstances. The aims of SDGs are Poverty eradication; Zero hunger and sustainable agriculture; Health and well-being; 4 – Quality education; Gender equality; Clean water and sanitation; Accessible and clean energy; Decent work and economic growth; Industry innovation and infrastructure; Reduction of inequalities; Sustainable cities and communities; Responsible consumption and production; Action against global climate change; life in water; Earth life; Peace, justice and effective institutions and partnerships and means of implementation (Barbiere, 2020).
+Grejo and Lunkes (2022) found that sustainability maturity contributes to the SDGs and that organizations can align their management practices with the SDGs by directing their business towards sustainability issues as companies end up contributing to the rational use of sustainable resources while generating economic development.
+The Amazon Basin contains the largest contiguous tropical forest in the world, covers much of northwestern Brazil, and extends into Venezuela, Colombia, Peru, Guyana, Bolivia, Ecuador, and Paraguay, with an area of approximately 700 miles (46). Therefore, the importance of its biodiversity goes beyond Brazilian borders. The Amazon rainforest plays a valuable role in the global flow of carbon and the water cycle (50); tropical forests play vital roles in contributing to biodiversity, carbon cycles, hydrology, and climate patterns (Salisbury & Schmink, 2007).
+From the sustainability perspective in the Amazon, the most discussed topics are the expansion of the agricultural frontier, food security, the introduction of biofuels, and the need for socio-environmental services as development progress (Martorano et al., 2016).
+Projections of the Food and Agriculture Organization of the United Nations indicate that the demand for food will continue to grow due to the need to meet the production of human and animal food, estimated at 3 billion tons by 2050 (FAO, 2009). In this sense, the central issue reconciles different objectives involving economic development and environmental sustainability, which often proves necessary tradeoffs (Perz, 2004).
+Given this context, this study aimed to identify and catalog sustainable practices, impacts in the region, technologies developed, and areas of supply channels adopted in the Amazon Region. The articles dealt with topics related to sustainability practices in the Amazon region.
+2 METHODS
+This Systematic Literature Review was developed based on the PRISMA protocol (Mohe, Shamseer et al., 2016) to answer the research question: What sustainable practices are adopted in the Amazon Region?
+The study's relevance is that tropical forests play a vital role in contributing to biodiversity, carbon cycles, hydrology, and climate patterns (Salisbury & Schmink, 2007) and are the global cornerstone of biological diversity (Peres, et al., 2016).
+The preservation of forests has returned to the global agenda with the severe consequences of imminent climate change. Forest conversion contributes 17% to global CO2 emissions, and the world's forest stocks store more carbon than is contained in the atmosphere. Amazon region, which is suffering from severe deforestation, is the global community's focus because measures to halt the destructive dynamics of land use can significantly reduce future carbon emissions and protect biodiversity (IPCC, 2022).
+In this context, the 2022 Intergovernmental Panel on Climate Change (IPCC) shows the protection, restoration, and sustainable management of carbon-rich ecosystems (such as forests and peatlands). Together with the reduction of Greenhouse Gases (GHG) in food production, the containment of waste and switching to more sustainable diets are relatively low-cost measures that can mitigate the reduction of global warming by 2050 (IPCC, 2022).
+Rev. Gest. Soc. Ambient. | Miami | v.17.n.1 | p.1-17 | e03166 | 2023.
+ 3
+
+ Sustainability and Technology: Proposals and Recommendations for the 2050 Amazon ___________________________________________________________________________
+2.1 Eligibility Criteria
+The Systematic Literature Review process took place through a search in the SCOPUS database, applying the inclusion criteria. The choice of the database was due to the recognized insertion in the theme, maximizing the possibility of returning essential articles on the theme that answered the research question.
+Only articles from journals in English and there was no time range limitation, and the articles should present sustainable practices in the Amazon.
+As exclusion criteria, we set Literature Review articles, discussion on environmental conservation policies, and articles that came in a language other than English.
+2.2 Search Strategy, Selection Process, Data Collection Process, and Synthesis Methods
+Articles were from journals indexed in the SCOPUS database. The research took place in August 2022 through a qualitative and quantitative approach.
+The selection first took place using the inclusion and exclusion criteria, and two researchers from August to October 2022, working independently at all stages, carried out the cataloging.
+In the first phase, for selecting articles after reading the title and abstract, the pairs used the START program (Fabbr, et al., 2016). Then, after reading the introduction and conclusion, it was performed using a tool Excel spreadsheet to catalog the individual results as accepted or rejected after reading and analysis.
+The analysis included identifying the main findings to systematically categorize the content of the articles and identify relationships about what is being discussed in the field of sustainable practices in the Amazon.
+In the second phase, 70 articles were analyzed and selected by reviewers, and after reading the introduction and conclusion, 14 articles were selected. In the third phase was performed a complete reading of the 14 articles. Figure 1 demonstrates how the systematic review process took place.
+Figure 1 – Phases of the systematic literature review Source: elaboration of the authors (2022)
+To identify and catalog the journal articles, we used the strings as shown in table 1.
+Rev. Gest. Soc. Ambient. | Miami | v.17.n.1 | p.1-17 | e03166 | 2023.
+  4
+
+ Sustainability and Technology: Proposals and Recommendations for the 2050 Amazon ___________________________________________________________________________
+Table 1. Strings used in the database search
+Database Search String
+Scopus TITLE-ABS-KEY ( ( amazon AND rainforest OR amazon AND forest ) AND ( sustainability ) )
+AND ( LIMIT-TO ( SRCTYPE, "j" ) ) AND ( LIMIT-TO ( DOCTYPE, "ar" ) ) AND ( LIMIT- TO
+( LANGUAGE, "English" ) ). Source: elaboration of the authors (2022).
+The descriptive analysis aims to identify the main findings, whose objective was to systematically categorize the content of the articles to find relationships between the sustainable practices carried out in the Amazon. Furthermore, the descriptive analysis also evaluates the areas of the studies, the concentration by economic segmentation, and the nationalities of researchers.
+3 RESULTS AND DISCUSSION
+Of the 323 articles included in the review, 14 presented studies on sustainable actions developed in the Amazon. Table 2 presents the results of the methodology used to select and catalog the articles.
+      Table 2. PRISMA methodology used in selected articles Database Identification Selection SCOPUS 323 253
+Source: elaboration of the authors (2022). 3.1 Study selection
+Eligibility Inclusion 70 14
+               From 1989 to 2022, 323 articles were selected. From 2001, a significant increase in journals per year may be related to popularization and access to the Internet and consolidating databases such as SCOPUS.
+When analyzing the timeline since the genesis of sustainable development, some important milestones can be observed from 2002. With the creation of the World Summit on Sustainable Development in Johannesburg – Rio+10, the United Nations World Summit in New York in 2005, Rio + 20 in Rio de Janeiro in 2012, and the creation of the Sustainable Development Goals (SDGs) in 2015 (UN, 2022). Consequently, those events brought together countries' governments worldwide in search of solutions to environmental issues that went beyond the local dimension and began to be dealt with within the scope of national states.
+In this context, the concern with environmental degradation began to be vehemently perceived as environmental problems increased in quantity and complexity, from climate change, air and water pollution, insecurity, soil degradation, waste generation, and overpopulation to the extinction of species (Barbiere, 2020).
+In the face of environmental problems, it became one of the significant concerns of scientists and world governments to ensure the importance of the Amazon in the scale effect of the climate system (Martorano, et al., 2016) . Also is justified by the fact that the Amazon forest harbors the most extraordinary diversity of plants and animals among all the biomes on earth, with about 40% of the remaining tropical rainforests in the world playing a pivotal role in maintaining biodiversity (Maués & Oliveira, 2010).
+Having established the importance of Amazonian studies, Figure 2 below shows the number of journals located per year and their evolution in three decades of research when referring to studies on sustainable practices in the Amazon region.
+Rev. Gest. Soc. Ambient. | Miami | v.17.n.1 | p.1-17 | e03166 | 2023.
+ 5
+
+ Sustainability and Technology: Proposals and Recommendations for the 2050 Amazon ___________________________________________________________________________
+Figure 2. Number of articles by year of publication 1889 to 2022 Source: elaboration of the authors
+3.2 Results of individual studies
+The journals included in the review come from different areas of knowledge. It was observed that the journals whose identifications (1 and 2) were from Environmental Sciences, (5) Vegetation and Cultivation, (7,23, 41 and 76) Multidisciplinary, (18) Geography, (26) Geosciences, (33) Natural Sciences, (35) Bioenergy, (38) Design, (44) Agroecology and (64) Conservation Sciences, this finding is in line with what Leff (2012 ), deals with the articulation of sciences and dialogue between knowledge, with environmental knowledge being constructed in the encounter of worldviews, in the opening of knowledge to diversity, difference and otherness. Table 3 details the articles selected for the study.
+ Table 3. Description of studies included in the review
+     Id Title 1
+2
+5
+7
+18 Does sustainable tourism offer solutions for protecting
+Author
+Publication Periodical Year
+Impact Factor
+   A global production network for ecosystem services: The emergent governance of landscape restoration in the Brazilian Amazon
+ Urzedo, D.I. and Neilson, J. and Fisher, R. and Junqueira, R.G.P .
+   2020
+ Global Environmental Change
+   11.16
+   A new approach to conservation: Using community empowerment for sustainable well-being
+  Wali, A. and Alvira, D. and Tallman, P.S. and Ravikumar, A. and Macedo, M.O.
+    2017
+  Ecologia e Sociedade
+    4.403
+   Agriculture and forest: A sustainable strategy in the Brazilian Amazon
+Martorano, L.G. and Siviero, M.A. and Tourne, D.C.M. and Vieira, S.B. and Fitzjarrald, D.R. and Vettorazzi, C.A. and Júnior, S.B. and Yeared, J.A.G. and Meyering, Élio and Lisboa, L.S.S.
+  2016
+AJCS - Australian Journal of Crop Science
+  1.632
+   Amazon entrepreneurs: Women's economic empowerment and the potential for more sustainable land use practices
+  Mello, D. and Schmink, M.
+    2017
+  Women's Studies International Forum
+    1736
+     Sijlbing, H.
+(2010). Worldwide Hospitality
+NA
+      Rev. Gest. Soc. Ambient. | Miami | v.17.n.1 | p.1-17 | e03166 | 2023.
+6
+
+ Sustainability and Technology: Proposals and Recommendations for the 2050 Amazon ___________________________________________________________________________
+     23
+26
+33
+35
+38
+41
+44
+64
+the Amazon rainforest in Suriname?
+and Tourism Themes
+   Effects of sustainable forest management on tree diversity, timber volumes, and carbon stocks in an ecotone forest in the northern Brazilian Amazon
+ Condé, T.M. and Tonini, H. and Higuchi, N. and Higuchi, F.G. and Lima, A.J.N. and Barbosa, R.I. and dos Santos Pereira, T. and Haas, M.A.
+   2022
+ Land Use Policy
+   6.189
+   Examining the sustainability and development challenges in agricultural-forest frontiers of the Amazon Basin through the eyes of locals
+ Blanco-GutiÃ©rrez, I. and Manners, R. and Varela- Ortega, C. and M. Tarquis, A. and G. Martorano, L. and Toledo, M.
+   2020
+ Natural Hazards and Earth System Sciences
+   04.58
+   Litter and soil biogeochemical parameters as indicators of sustainable logging in Central Amazonia
+  Bomfim, B. and Silva, L.C.R. and Pereira, R.S. and Gatto, A. and Emmert, F. and Higuchi, N.
+    2020
+  Science of The Total Environment
+    10.753
+   Logging wastes from sustainable forest management as alternative fuels for thermochemical conversion systems in the Brazilian Amazon
+Douglas Roque Lima, M., Poliana Santos Patrício, E. and de Oliveira Barros Junior, U. and Reis de Assis, M. and Nogueira Xavier, C. and Bufalino, L. and Fernando Trugilho, P. and Ricardo Gherardi Hein, P. and de Paula Protásio, T.
+  2020
+Biomass and Bioenergy
+  5.774
+   Material Resignification in the Amazon. A way to construct sustainability scenarios
+  Sarmento, F. and Moura, M.
+    2017
+  The Design Journal
+    38.771
+   A new pattern of socio- economic development and deforestation in the Brazilian Amazon
+ Tritsch, I. and Arvor, D.
+   2016
+ Land Use Policy
+   6.189
+   Physicochemical properties of soils in the Brazilian Amazon following fire-free land preparation and slash- and-burn practices
+ Comte, I. and Davidson, R. and Lucotte, M. and de Carvalho, C.J.R. and de Assis Oliveira, F. and da Silva, B.P. and Rousseau, G.X.
+   2012
+ Agriculture, Ecosystems & Environment
+   6.576
+   Sustainable forest use in Brazilian extractive reserves: Natural regeneration of Brazil nut in exploited populations
+ Wadt, L.H.O. and Kainer, K.A. and Staudhammer, C.L. and Serrano, R.O.P.
+   2008
+ Biological Conservation
+   7.497
+         76 Wood-logging process management in Eastern Amazonia (Brazil)
+Lima, K.S. and Castro, 2020 A.C.M. and Baptista, J.S. and
+Silva, U.
+Sustainability
+3.889
+     Source: elaboration of the authors (2022)
+The researchers are from different nationalities. Of the 70 authors counted, leading the rank in Brazil (44), USA (5), Canada (3), Portugal (3), Spain (3), Australia (2), India (2), and France (2), the other countries with only one researcher: Bolivia, Colombia, Peru, Rwanda, Solomon Island, and Suriname. Figure 3 details the nationalities of the researchers.
+Rev. Gest. Soc. Ambient. | Miami | v.17.n.1 | p.1-17 | e03166 | 2023.
+ 7
+
+ Sustainability and Technology: Proposals and Recommendations for the 2050 Amazon ___________________________________________________________________________
+Figure 3. Nationality of researchers Source: elaboration of the authors (2022)
+These data project Brazil in a prominent situation compared to other nationalities. Territorial reasons can explain this factor since 60% of the Amazon forest belongs to Brazil. In addition to the efforts of EMBRAPA (Brazilian company focused on innovation) generating knowledge and technologies for Brazilian agriculture, INPA - Instituto Nacional de Pesquisas da Amazônia and the Universities that have the role of promoting research focused on sustainability. Figure 4 shows the areas of concentration of the studies of the 14 selected articles.
+  Rev. Gest. Soc. Ambient. | Miami | v.17.n.1 | p.1-17 | e03166 | 2023.
+8
+
+ Sustainability and Technology: Proposals and Recommendations for the 2050 Amazon ___________________________________________________________________________
+Figure 4. Location of study areas Source: elaboration of the authors (2022)
+3.3 Results of syntheses
+The role of a systematic review is to compile the research set according to the above selection criteria to answer specific research questions. In this research, this review applied the PRISMA 2020 standards to identify the search strategy criteria, eligibility processes, selection, inclusion, and treatment of data and data list (Berrocoso, Fernández, & Borrega, 2022). Figure 5 presents a flow of information about the PRISMA Methodology.
+Rev. Gest. Soc. Ambient. | Miami | v.17.n.1 | p.1-17 | e03166 | 2023.
+  9
+
+ Sustainability and Technology: Proposals and Recommendations for the 2050 Amazon ___________________________________________________________________________
+Figure 5 – Information flow of the PRISMA Methodology Source: elaboration of the authors (2022)
+3.4 Certainty of evidence
+The sustainable actions and practices characterized in the Amazon examined in the 14 selected articles show what is being studied by the scientific community globally in the Amazon region and in which economic segments of technology sustainability practices can be observed.
+3.4.1 Environmental governance
+Urzedo et al., (2020) conducted an ecological restoration of the Upper Xingú in the Brazilian Amazon as an ecosystem service through a heuristic lens of the Global Production Network Theory (GPR). The Value created is actively captured through stakeholder strategies and provides practical insights for ecological restoration advocates. The governance of the catering network was to be molded by a myriad of forces, including Brazil's regulatory
+Rev. Gest. Soc. Ambient. | Miami | v.17.n.1 | p.1-17 | e03166 | 2023.
+  10
+
+ Sustainability and Technology: Proposals and Recommendations for the 2050 Amazon ___________________________________________________________________________
+frameworks; global finance and procurement, stakeholder decision-making; community participation, and technological development.
+3.4.2 Conservation market
+In this article, sustainable practices consisted of an approach used in assets for environmental conservation and human well-being, based on a biocultural framework to support the sustainable and adaptive management of natural resources by communities in regions of protected areas. The communities in each river basin associated with the sustainable management of natural resources were a map, including a scenario or inventory of the region, characteristics of the resource systems, characteristics of the human group, institutional agreements and the study of the external environment, focusing on the market of conservation and human well-being (Wali, Alvira, Tallman, Ravikumar, & Macedo, 2022).
+3.4.3 Agriculture
+In the third selected article, the authors explored the study of the cultivation of crops such as soy, corn, oil palm, and others introduced in anthropogenically modified areas in the Amazon Basin to supply the world's demand for food and energy. A successful experiment integrating the production of soybean and paricá (Glycine max L. and Schizolobium amazon com) based on previous research indicated potential top climatic zones for planting paricá in the Brazilian state of Pará (Martorano, et al., 2016).
+The research showed that a no-tillage system reduces the effects of drought concerning the conventional planting still used by many farmers in the region. The integrated system was implemented in the 2014/2015 harvest on 234.6 ha in the high potential zone of the municipality of Ulianópolis in Pará. The study points to an economic segment of great importance worldwide: agriculture (Martorano, et al., 2016).
+3.4.4 Entrepreneurship
+This work presented how sustainable practices of female empowerment through women's participation in cooperative microenterprises were essential to promote sustainable land management practices in the Amazon. It resulted in an improvement in the quality of life of rural women since, with the development of skills on social, economic, political, and environmental issues, it favored sustainable management of natural resources. Environmental and technical knowledge improved women's interventions to deal with soil nutrients, forest maintenance, the interaction between fauna and flora, stages of succession, threat and decline of biodiversity, and the impacts of these actions on the community to increasing the participation of women in decision-making processes as entrepreneurs (Mello & Schmink, 2017).
+3.4.5 Sustainable Tourism
+The study provided an overview of the sustainable tourism economic sector in Suriname, drawing attention to some important initiatives for conserving and protecting the rainforest in Suriname. It identifies the main perspectives, challenges, and weaknesses that affect the planning and management of tourism in Suriname.
+It analyzes and extracts findings from interviews with officials and key players in the tourism sector. The article reflects a balance of multiple perspectives in its investigation of the role of sustainable tourism initiatives in the effort to protect the rainforest in the Amazon region of Suriname (Sijlbing, 2010).
+Rev. Gest. Soc. Ambient. | Miami | v.17.n.1 | p.1-17 | e03166 | 2023.
+ 11
+
+ Sustainability and Technology: Proposals and Recommendations for the 2050 Amazon ___________________________________________________________________________
+3.4.6 Agroforestry
+The case study was performed in ecotone forests north of the Brazilian Amazon to demonstrate how forest management can become more sustainable through silvicultural restrictions that reduce forest degradation and soil erosion.
+The effects of sustainable forest management (SFM) on tree diversity, wood volumes, and carbon stocks were evaluated. A continuous forest inventory was carried out in nine permanent plots of 1 ha (900 subplots of 100 m2), distributed in three treatments with three replications: T1 = control without selective cutting, T2 = SFM, and T3 = SFM + silvicultural treatment of thinning release by ringing and poisoning. The SFM was performed with an average of three commercial timber trees harvested per hectare with DBH (diameter at breast height) ≥50 cm, corresponding to a wood volume of 20±6m3ha-1, equivalent to the removal of 7±2 Mg C ha-1 (5% of original C) (Conde, et al., 2022).
+The formation of clearings (gaps) resulting from the fall of exploited trees (0.12±0.09 ha) resulted in more significant impacts on the forest structure than the construction of 4 m skidder trails (0.06±0.04 ha), with an average of 7±4 damaged trees ha-1 and 5±3 dead trees ha-1. Although six tree species became locally extinct, tree diversity was little changed, and wood volumes and forest carbon stocks remained essentially constant at this average logging intensity. Based on the results, sustainable forest management can become an efficient land use model in the Amazon when harvesting is carried out with this average cutting intensity (Conde, et al., 2022).
+Participatory Fuzzy Cognitive Mapping (FCM) was implemented to examine stakeholder perceptions regarding the sustainable development of two agroforestry frontier areas in the Bolivian and Brazilian Amazon. A range of development scenarios was explored and applied to the FCM derived from stakeholders, with climate change also analyzed (Blanco- Gutiérrez, et al., 2020).
+Stakeholders in Brazil and Bolivia regions perceived landscapes of socio-economic impoverishment and environmental degradation driven by governmental and institutional deficiencies. Under such abject conditions, well-integrated governance and social and technological strategies offered socio-economic development, environmental conservation, and recovery (Blanco-Gutiérrez, et al., 2020).
+In this study, the hypothesis was tested that the biogeochemical parameters of litter and soil serve as indicators of sustainable exploitation, as forest regeneration, C stocks, and C- nutrient ratios in soil and litter become progressively similar to those of primary forests as time passes after harvesting. They used a chronosequence spanning nine years since cutting to relate litter and soil (at 0–10, 10–30, 30–50cm depth) C stocks and 12 and 15 biogeochemical parameters, respectively, as well as canopy cover and tree density seedlings (10-150 cm tall) in evergreen Amazonian forests. In a new stand and four villages sampled three, five, seven, and nine years after logging, we compared 15 permanent plots (three 0.5 ha plots replicated by time category since logging).
+Litter parameters were more sensitive to logging than soil parameters, as litter C stocks and C-nutrient ratios increased systematically after logging. Canopy cover decreased over time and was ~14% lower nine years after cutting. Total seedling density did not change consistently over time but was ~54% higher seven years after cutting. Our data suggest that the SFMP guidelines have served the purpose of maintaining soil quality and forest regeneration. Litter and soil parameters can be helpful indicators of sustainable forest management in upland evergreen forests in Central Amazonia (Bomfim, et al., 2020).
+This study focused on the energy characterization of wood residues from twenty commercial species from the Amazon harvested in a sustainable management plan and their energy equivalence to fossil fuels. The wood species were grouped by principal component analysis according to their essential density, moisture content, maximum moisture content,
+Rev. Gest. Soc. Ambient. | Miami | v.17.n.1 | p.1-17 | e03166 | 2023.
+ 12
+
+ Sustainability and Technology: Proposals and Recommendations for the 2050 Amazon ___________________________________________________________________________
+calorific Value, energy density, and chemical composition. Essential density (0.525-0.895 g cm 3), energy density (9.4-16.8 GJ m 3), ash (0.3–2.5%), and total extractives (1.8–17.9%) showed wide interspecific variations. On the other hand, the carbon content (49.2-52.4%), total lignin (30.2-38.1%), fixed carbon (16.5-22.0%), volatile matter (76. 7-82.8%), and higher calorific Value (19.1-20.9 MJkg 1) varied less between species.D. Excelsa, M. Elata, P. altissimo, e.g., glabra residues outperformed conventional plants for bioenergy applications. Wood waste formed four groups with similar properties targeting energy systems. The firewood value index classified the residues of D. excelsa wood as the most promising for bioenergy (Lima, Castro, Baptista, & Silva, 2020).
+The study consisted of presenting the process of re-signification of rubber in forest areas in the Amazon as a way of building sustainability scenarios in the Amazon and discussing, through this experience, how design strategies can contribute to optimizing processes of innovation and social development, especially in Conservation (Sarmento & Moura, 2017).
+The first stage of the study presents reflections on design and its connections and interrelationships with the Amazonian context. The second analyzes the transformations detected in the Amazon today, the aspects related to sustainability and local development, and their repercussions in the forestry context. The third stage focuses on the use of rubber by local communities as a concrete example of the challenges and opportunities related to design based on two distinct strategies: the first, the analysis of different aspects of latex extraction, its characteristics and history, and the importance of rubber in the Amazonian socio-environmental context (Sarmento & Moura, 2017).
+The study tried to highlight a transition in environmental governance in the Brazilian Amazon due to the need for a new pattern of socio-economic development. A sub-municipal analysis of socio-economic development and deforestation in the Brazilian Amazon was carried out from 2000-2010 (Tritsch & Arvor, 2016).
+The sustainability practices consist of applying the soil clearing method, combined or not with fallow enriched with legumes, which is a promising alternative technique, as the retention of organic residues in clearing can promote soil fertility. The study's objective was to evaluate the effect of tillage without fire on the physicochemical properties of the soil, comparing the effects of traditional slash and burn with: slash and mulch with enriched fallow in cultivated areas and slash and burn without enriched fallow in pastures. Cutting and covering a fallow enriched with legumes conserved soil density and significantly increased nutrient concentrations and organic matter content compared to the burned cultivated area and control forest (Comte, et al., 2012).
+The emergence of Brazilian extractive reserves reinforced the notion that the sustainable use of the forest could play a central role in conservation. Brazil nuts are considered a model non-timber product for promoting conservation through use. Demographic studies, however, have demonstrated differential impacts of nut harvesting on nut population structure.
+Thus, comparing three populations with different histories of forest use, degrees of road access, and current levels of nut harvesting, the following question was asked: are they showing regeneration failure? Are seedling/sprout densities explained by the adult Brazil nut's structure, the fruits' fate, and the forest's general structure?
+Four plots of nine ha were installed in each location to census chestnut trees P10 cm DBH to carry out the study. Within each plot, 36 subplots (25 · 25 m each) to quantify regeneration, the general structure of the forest, and fruit counts open and closed. Approximately 29-55% of the fruits were not harvested, and dispersers opened more than 90%. These practical initiatives resulted in many locally developed management plans and were accompanied by real gains in local Brazil nut prices. These initiatives that link ecologically correct management with economic gains at the local level can serve as an example for other protected areas in which local communities are vital actors in the conservation or conversion of tropical forests (Wadt, Kainer, Staudhammer, & Serrano, 2008).
+Rev. Gest. Soc. Ambient. | Miami | v.17.n.1 | p.1-17 | e03166 | 2023.
+ 13
+
+ Sustainability and Technology: Proposals and Recommendations for the 2050 Amazon ___________________________________________________________________________
+The approach focused on the observation in loco of the activities and tasks carried out during the process. As a result, it was observed that companies similarly implement activities regardless of their specific expertise. The most significant difference was identified in the transverse operation, which is carried out in several stages and interferes with the activity's efficiency and the workers' exposure to occupational risks.
+The use of geographic information systems (GIS) in planning and management activities and modern machinery equipped with safety devices, combined with continuous theoretical and practical training for workers, were identified as crucial measures to ensure operational efficiency in the four companies evaluated. Seeking to contribute to the sustainable development of the Amazon forest, a generic model of wood extraction was performed by Lima, et al., (2020), which brings together the best practices identified in the companies studied and made it possible to obtain the best benefit with the lowest exposure of workers to the risk of accidents at work.
+4 CONCLUSION
+The observed articles answered the central research question, allowing the identification and cataloging of sustainable practices adopted in the Amazon Region. Most of the studies are by researchers from Latin American countries, mainly from Brazil. It also explains why Brazilians are at the forefront of Amazonian studies. There is a concentration of study areas in the states of Amazonas, Acre, Pará, Roraima, and Mato Grosso in Brazil. In other words, researchers from the Brazilian Amazon regions are concerned about carrying out studies that aim to understand sustainable actions in the location. These are significant findings of this work, along with the actions found.
+The 14 selected articles identified sustainable actions and practices characterized in the Amazon. It was possible to map an article in the following economic segments: environmental governance, conservation market, agriculture, entrepreneurship, and sustainable tourism, and nine articles in the agroforestry segment. Identified the interest of the researchers through the Brazilian Amazon forest, studies of sustainable forest management, deforestation, a study of rubber, geographic information systems for better monitoring of the region to contribute to planning and management, and study of environmental degradation driven by the deficiency of government management.
+Using only a single database was a limitation of the work, as it could have used another international database, such as the JCR. The suggestion for future work is to expand the databases and use a regional base, especially in Latin America, since 68% of the researchers come from Latin American countries. Still, as proposals and recommendations to have a more sustainable Amazon by 2050, further studies are suggested aimed at the agribusiness and agroforestry economic segments, mainly because they can be a source of foment for the development of public policies for sustainable development.
+DECLARATIONS
+The authors declare that they do not have any known financial interests or personal relationships that could have influenced the study reported in this article. All material used in the review is available electronically.
+REFERENCES
+Agustini, C. A., & Giannetti, B. F. (2018). Assessment of environmental sustainability indexes of water supply and sewage treatment companies listed on the BM&FBOVESPA: Avaliação de variáveis de sustentabilidade ambiental nas empresas de abastecimento de água e
+Rev. Gest. Soc. Ambient. | Miami | v.17.n.1 | p.1-17 | e03166 | 2023.
+ 14
+
+ Sustainability and Technology: Proposals and Recommendations for the 2050 Amazon ___________________________________________________________________________
+saneamento listadas na BM&FBOVESPA. Gestão Produção, 25(4), 792-806.
+Barbiere, J. C. (2020). Desenvolvimento Sustentável: Das origens à agenda 2030 (1a ed.).
+Petrópolis : Vozes .
+Berrocoso, J. V., Fernández, A. G., & Borrega, J. A. (01 de janeiro de 2022). Desinformación
+y multialfabetización: Una revisión sistemática de la literatura. Comunicar , pp. 97-110.
+Blanco-Gutiérrez, I., Manners, R., Varela-Ortega, C., Tarquis, A. M., Martorano, L. G., & Toledo, M. (Março de 2020). Examining the sustainability and development challenge in agricultural forest frontiers of the Amazon Basin through the eyes of locals. Natural Hazards and Earth System Sciences, 2(3), 797–813.
+Bomfim, B., Silva, L. C., Pereira, R. S., Gatto, A., Emmert, F., & Higuchi, N. (Janeiro de 2020). Parâmetros biogeoquímicos da serapilheira e do solo como indicadores de exploração sustentável na Amazônia Central. Ciência do Meio Ambiente Total, 714, 1-9.
+Comte, I., Davidson, R., Lucotte, M., Carvalho, C. J., Oliveira, F. d., Silva, B. P., & Rousseau, G. X. (May de 2012). Physicochemical properties of soils in the Brazilian Amazon following fire-free land preparation and slash-and-burn practices. Agriculture, Ecosystems and Environment(156), 108–115.
+Conde, T. M., Tonini, H., Higuchi, N., Higuchi, F. G., Lima, A. J., Barbosa, R. I., . . . Haas, M. A. (Maio de 2022). Effects of sustainable forest management on tree diversity, timber volumes and carbon stocks in an ecotone forest in the northern Brazilian Amazon. Land Use Policy, 119.
+Fabbr, S., Silva, C., Hernandes, E., Octaviano, F., Thommazo, A. D., & Belgamo, A. (2016). Improvements in the StArt Tool to Better Support the Systematic Review Process. International Conference on Evaluation and Assessment in Software Engineering (EASE'16).
+FAO. (2009). Food and Agriculture Organization of the United Nation. In: High Level Expert Forum - How to Feed the Global agriculture towards 2050. Accessed 17 October 2022, available at https://www.fao.org: https://www.fao.org/fileadmin/templates/wsfs/docs/Issues_papers/HLEF2050_Global_Agricu lture.pdf
+Grejo, L. M., & Lunkes, R. J. (2022). A maturidade da sustentabilidade contribui para os objetivos susteentáveis? um olhar sobre a eficiência de recursos . Revista de Gestão Social e Ambiental , 16(3), 1-18.
+IPCC. (2022). https://www.wri.org/. Accessed October 17, 2022, available at https://www.wri.org/: https://www.wri.org/insights/ipcc-report-2022-mitigation-climate- change
+Leff, E. (2012). Aventuras da Epistemologia Ambiental: Da articulação das Ciências ao diálogo de saberes. São Paulo : Cortez .
+Lima, K. S., Castro, A. C., Baptista, J. S., & Silva, U. ( September de 2020). Wood-Logging Process Management in Eastern Amazonia (Brazil). Sustainability , 12(7551), 2-18.
+Lima, M. D., Patrício, E. P., Junior, U. d., Assis, M. R., Xavier, C. N., Bufalino, L., . . . Prota, T. d. (Julho de 2020). Resíduos madeireiros do manejo florestal sustentável como combustíveis
+Rev. Gest. Soc. Ambient. | Miami | v.17.n.1 | p.1-17 | e03166 | 2023.
+ 15
+
+ Sustainability and Technology: Proposals and Recommendations for the 2050 Amazon ___________________________________________________________________________
+alternativos para sistemas de conversão termoquímica na Amazônia brasileira. Biomassa e Bioenergia(140).
+Martorano, L. G., Siviero, M. A., Tourne, D. C., Vieira, S. B., Fitzjarrald, D. R., Vettorazzi, C. A., . . . Lisboa, L. S. (2016). Agriculture and forest: A sustainable strategy in the Brazilian Amazon. ACJS , 10(8), 1136-1143.
+Maués, M. M., & Oliveira, P. E. (Março de 2010). Consequências da fragmentação do habitat na ecologia com ênfase na Amazônia reprodutiva de espécies arbóreas em florestas tropicais. Oecologia Australis, 14(1), 238-250.
+Mello, D., & Schmink, M. (Dezembro de 2017). Amazon entrepreneurs: Women’s economic empowerment and the potential for more sustainable land use practices. Women's Studies International Forum(65), 28-36.
+Mohe, D., Shamseer, L., Clarke, M., Ghersi, D., Liberati, A., Petticrew, M., . . . Stewart, L. A. (2016). Ítems de referencia para publicar Protocolos de Revisiones Sistemáticas y Metaanálisis: Declaración PRISMA-P 2015. Rev Esp Nutr Hum Diet, 20(2), 148-160.
+Peres, C. A., Emilio, T., Schietti, J., M, S. J., Desmoulière, & Levi, T. (Janeiro de 2016). Dispersal limitation induces long-term biomass collapse in overhunted Amazonian forests. PNAS, 113(4), 892–897.
+Perz, S. G. (2004). Are Agricultural Production and Forest Conservation Compatible? Agricultural Diversity Agricultural Incomes and Primary Forest Cover Among Small Farm Colonists in the Amazon. World Development, 32(6), 957–977.
+Sachs, I. (2008). Desenvolvimento: includente, sustentável sustentado (1a ed.). Rio de Janeiro : Garamond .
+Salisbury, D. S., & Schmink, M. (Março de 2007). Cows versus rubber: Changing livelihoods among Amazonian extractivists. Geoforum, 38, 1233-1249.
+Sarmento, F., & Moura, M. (April de 2017). Material Resignification in the Amazon. A way to construct sustainability scenarios. The Design Journal, S1852-S1867.
+Sijlbing, H. A. (2010). Does sustainable tourism offer solutions for the protection of the Amazon rainforest in Suriname? Worldwide Hospitality and Tourism Themes, 2(2), 192-200.
+Tritsch, I., & Arvor, D. ( September de 2016). Transition in environmental governance in the Brazilian Amazon: emergence of a new pattern of socio-economic development and deforestation. Land Use Policy, 59, 446–455.
+UN. (2022). Os Objetivos de Desenvolvimento Sustentável no Brasil. Accessed October 23, 2022, available at brasil.un.org: https://brasil.un.org/pt-br/91223-onu-e-o-meio-ambiente
+Urzedo, D. I., Neilson, J., Fisher, R., & Junqueira, R. G. (Março de 2020). A global production network for ecosystem services: The emergent governance of landscape restoration in the Brazilian Amazon. Global Environmental Change, 61(102059), 1-13.
+Wadt, L., Kainer, K., Staudhammer, C., & Serrano, R. (2008). Sustainable forest use in Brazilian extractive reserves: Natural regeneration of Brazil nut in exploited populations.
+Rev. Gest. Soc. Ambient. | Miami | v.17.n.1 | p.1-17 | e03166 | 2023.
+ 16
+
+ Sustainability and Technology: Proposals and Recommendations for the 2050 Amazon ___________________________________________________________________________
+Biological Conservation (141), 3 3 2 – 3 4 6.
+Wali, A., Alvira, D., Tallman, P. S., Ravikumar, A., & Macedo, M. O. (2022). A new approach to conservation: using community empowerment for sustainable well-being. Ecology & Society, 4(6), 1--13.
+ Rev. Gest. Soc. Ambient. | Miami | v.17.n.1 | p.1-17 | e03166 | 2023.
+17

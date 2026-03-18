@@ -1,0 +1,290 @@
+ Influência da Governança Municipal no Progresso Social da Amazônia Legal Brasileira
+Influence of Municipal Governance on Social Progress in the Brazilian Legal Amazon
+Ronaldo Leão de MIRANDA1 Marcia de Azevedo HASHIZUME2 Charles Carminati de LIMA3 Rogerio SIMÃO4
+Resumo. Este artigo tem como objetivo investigar a influência da governança municipal no progresso social da Amazônia Legal Brasileira para o ano de 2021. Metodologicamente trata- se de um estudo quantitativo e descritivo, que utiliza dados de 2021 dos 772 municípios da Amazônia Legal Brasileira, que compreende os estados do Amazonas, Acre, Rondônia, Roraima, Pará, Maranhão, Amapá, Tocantins e Mato Grosso. Os principais resultados demonstraram que a região ainda enfrenta muitos problemas sociais e ambientais, incluindo o agravamento da segurança pública, a precariedade no saneamento básico, a deficiência na educação superior, a pouca garantia de direitos individuais e o aumento do desmatamento. Diante destes fatos, salienta-se que não há uma solução única para resolver as questões complexas da Amazônia Legal, porém é preciso agir de imediato, pois nesta região mais de 27 milhões de pessoas clamam por: água limpa, segurança, educação de qualidade e melhora de suas vidas, etc. Para superar esses inúmeros desafios, a governança municipal, pautada nas “Finanças”, “Gestão” e “Desempenho”, pode ser uma alternativa para mudar os números do IPS Amazônia, além de torná-lo uma ferramenta útil para guiar as políticas públicas e as ações em benefício da população amazônica.
+Palavras-chave: Governança. Governança Municipal. Progresso Social. Amazônia Legal Brasileira.
+Abstract. This article aims to investigate the influence of municipal governance on social progress in the Brazilian Legal Amazon for the year 2021. Methodologically, this is a quantitative and descriptive study, which uses 2021 data from the 772 municipalities of the
+1 Professor Adjunto do Departamento Acadêmico de Ciências Contábeis da Universidade Federal de Rondônia (UNIR). Rondônia, BRASIL
+ronaldo.miranda@unir.br
+2 Graduada em Ciências Contábeis pela Universidade Federal de Rondônia (UNIR). Rondônia, BRASIL
+marciaazevedohashizume@gmail.com
+3 Professor do curso de Ciências Contábeis da Fundação Universidade Federal de Rondônia (UNIR). Rondônia, BRASIL
+charles@unir.br
+4 Professor de matemática e estatística da Universidade Federal de Rondônia (UNIR). Rondônia, BRASIL
+rogermcgoo@unir.br
+AOS, Belém (BR), v. 14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+        1
+
+ Brazilian Legal Amazon, which comprises the states of Amazonas, Acre, Rondônia, Roraima, Pará, Maranhão, Amapá, Tocantins and Mato Grosso. The main results showed that the region still faces many social and environmental problems, including worsening public safety, precarious basic sanitation, deficiencies in higher education, little guarantee of individual rights and increased deforestation. Given these facts, it is worth highlighting that there is no single solution to resolve the complex issues of the Legal Amazon, but immediate action is needed, since in this region more than 27 million people are crying out for: clean water, safety, quality education and improvement of their lives, etc. To overcome these numerous challenges, municipal governance, based on “Finance”, “Management” and “Performance”, can be an alternative to change the IPS Amazônia numbers, in addition to making it a useful tool to guide public policies and actions to benefit the Amazon population.
+Keywords: Governance. Municipal Governance. Social Progress. Brazilian Legal Amazon.
+   AOS, Belém (BR), v. 14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+2
+
+ 1. INTRODUÇÃO
+Analisar o bem-estar dos cidadãos, bem como o progresso do ser, no que tange às suas necessidades humanas básicas e oportunidades, é um dos desafios do século XXI. A agenda global de estratégias de desenvolvimento até 2030 esta voltada às questões que vão da conservação ambiental à redução da pobreza e a saúde pública (Charles & D'Alessio, 2020; De Carvalho et al., 2020). Por outro lado, a governança pública além de formular ações, planejar políticas e cumprir funções (Bittencourt Santana Pinto, Moreira da Silva, & Tavares da Cruz, 2021), tem por obrigação de buscar prestar serviços sociais de qualidade a sociedade civil com vistas a atingir o bem-estar dos cidadãos. O Índice de Governança Municipal (IGM), lançado em 2016, fornece uma visão geral da performance dos governos municipais. Com vistas ao alcance de resultados, transparência, atendimento de questões sociais e garantia de direitos fundamentais, a governança municipal eficiente e comprometida faz parte da nova realidade político-econômica da administração pública (Barros et al., 2018).
+Como pano de fundo desta discussão, tem-se a teoria da agência, que embora seja bem utilizada no contexto empresarial (Eisenhardt, 1989), ela também ajuda a esclarecer algumas nuances no setor público, ao explicar a relação entre o agente, gestor público, e o principal, o cidadão (Da Silva et al., 2016). Diante de algumas nuances, tem-se as questões socioeconômicas que segundo a literatura precisam caminhar juntas (Suri et al. 2011), e não podem ser tratadas isoladamente, pois com olhar conjunto dão um norte para governos locais e regionais no desenvolvimento de políticas de bem-estar social (Andreoni & Miola, 2016; Moschen et al., 2019). O Produto Interno Bruto (PIB) por si só não é suficiente para orientar as estratégias de desenvolvimento social local. É com vistas para o desenvolvimento social local que o progresso social adentra, fornecendo uma lente adicional de análise ao se olhar para as necessidades humanas básicas, fundamentos de bem-estar e oportunidades dos indivíduos na sociedade civil (Charles & D'Alessio, 2020).
+O Índice de Progresso Social (IPS) foi desenvolvido por Porter et al. (2014), com base em Sen (2000), a nível de país e mede de forma humanística o bem-estar dos cidadãos (De Carvalho et al., 2020). Em 2014 criou-se na Região Norte do Brasil o Índice de Progresso Social da Amazônia, analisando 772 municípios da região. Com a publicação de 2014, 2018 e 2021 do IPS Amazônia foi possível obter insights sobre os fatores que afetam diferentes facetas do bem-estar social dos municípios da região Amazônica ao identificar seus pontos fortes e fracos socioeconômicos. O foco no progresso humano também é destacado por Giovanni e Useche
+AOS, Belém (BR), v. 14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   3
+
+ (2019), e ressaltam que em países em desenvolvimento se requerem uma maior atenção destes indicadores sociais.
+Com o olhar para o Índice de Governança Municipal (IGM) e o IPS, este artigo tem como objetivo investigar a influência da governança municipal no progresso social da Amazônia Legal Brasileira para o ano de 2021. A justificativa em desenvolver este estudo é plausível, pois se trata de um dos primeiros estudos a relacionar o impacto em nível de município da gestão municipal no índice de progresso social dos municípios que compreendem a Amazônica legal brasileira. A contribuição acadêmica e social vai ao encontro de que é preciso reforçar as discussões a nível local e regional do tema progresso social e governança municipal, ao considerar o papel da governança como meio para os municípios melhorarem seus índices sociais. Além disso, as evidências estatísticas podem contribuir em linha com as políticas públicas que estão sendo desenvolvidas nos 772 municípios analisados sobre IGM e IPS, ao relatar as conexões existentes entre os temas e as estatísticas descritivas de quais indicadores carecem ser fortalecidos.
+Metodologicamente trata-se de um estudo quantitativo e descritivo, que utiliza dados de 2021 dos 772 municípios da Amazônia Legal Brasileira, que compreende os estados do Amazonas, Acre, Rondônia, Roraima, Pará, Maranhão, Amapá, Tocantins e Mato Grosso. Por fim, antes de compreender melhor os conceitos tratados no marco teórico, salienta-se que este estudo está dividido em cinco seções e as referências: composto por esta introdução, seguido do marco teórico, que é subdividido em governança pública à luz da teoria da agência e o índice de governança municipal - CFA, e índice de progresso social e a Amazônia legal brasileira. Terceiro ponto trata dos procedimentos metodológicos, quarto, apresentação e discussão dos resultados, quinta sessão é às considerações finais e por fim as referências.
+2. MARCO TEÓRICO
+O marco teórico tem como propósito apresentar uma discussão a partir das pesquisas bibliográficas, cujos conceitos e enfoques são apresentados por autores nacionais e internacionais a respeito das temáticas pesquisadas.
+2.1 GOVERNANÇA PÚBLICA À LUZ DA TEORIA DA AGÊNCIA E O ÍNDICE DE GOVERNANÇA MUNICIPAL – CFA
+AOS, Belém (BR), v. 14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   4
+
+ Desde os anos 2000 que o conceito de governança tem ganhado destaque nas pesquisas científicas a nível nacional e internacional, tendo como base a premissa de que a estrutura do estado não é a única com capacidade para estabelecer diretrizes entre entidades públicas, agentes econômicos e sociedade civil (Kohler-Koch & Rittberger, 2006). No campo da governança, inclui-se também o processo pelo qual os governos são selecionados, monitorados e substituídos, bem como a capacidade que o governo possui em formular e implementar políticas adequadas, e em contrapartida o respeito dos cidadãos e do estado pelas instituições que geram as atividades econômicas e sociais (Cruz & Marques, 2011). No âmbito da administração pública, a governança é definida como as tradições e instituições pelas quais a autoridade é exercida num país, região ou município, e que abrange a participação de agentes públicos, privados e processos de decisão não-hierarquizados (Kohler-Koch & Rittberger, 2006).
+O conceito de governo está focado nos processos de decisões hierárquicas e na centralidade dos agentes públicos, porém, na administração pública tem-se recorrido cada vez mais ao conceito de governança do que o de governo (Kohler-Koch & Rittberger, 2006). Para Cruz e Marques (2011), esta constatação deve-se ao fato de o conceito de governança ser mais abrangente, englobando não só os governos, mas também outras instituições públicas, entidades não governamentais, os cidadãos, e até certas formas de interação com o setor privado. Embora grande parte dos atores da administração pública reconheçam que o conceito de governo também é abrangente, a sua atuação é limitada, e que o impacto e o alcance das políticas públicas dependem necessariamente da interação de diversos agentes (Koppenjan et al., 2010). Além disso, no campo da governança se estabelece relações de confiança institucional entre os entes públicos e seus stakeholders, ocorrendo assim um maior alcance das políticas públicas em prol de um contingente expressivo da sociedade (Kim et al., 2005; Cruz & Marques, 2011).
+Para Sampson (2008), a governança é um modelo gerencial trazido ao universo governamental, que por meio do diálogo, composto por negociações permanentes, e de um processo estratégico de tomada de decisão, busca sempre estar dentro do rigor da lei. Neste prisma, é notório que a governança pública passou a ser internacionalmente compreendida como um importante objeto de debate, servindo como base para a reflexão quanto a métricas nos campos democráticos, de direitos humanos ou qualidade, no modo de se gerir um Estado (Yong & Wenhao, 2012). Esta concepção de governança resume então o entendimento de que o presente momento apresenta prosperidade na evolução da forma como o Estado é gerido,
+AOS, Belém (BR), v. 14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   5
+
+ agregando tanto a sociedade quanto os demais setores representativos, descentralizando o poder, constituindo nações e esferas públicas mais igualitárias, justas e transparentes (Casady, Eriksson & Levitt, 2020).
+Como aporte teórico tem-se a Teoria da Agência como pano de fundo, que ao longo dos anos vem sendo estudada por pesquisadores de diversas áreas do conhecimento, tais como: da Sociologia (Eccles, 1985; Branco, 1985), das Ciências Políticas (Mitnick, 1986), das Ciências Econômicas (Spence & Zeckhauser, 1971), das Ciências Contábeis (Demski & Feltham, 1978) e pela Ciência da Administração, principalmente nas áreas de Finanças e Marketing (Fama, 1980; Basu, Lai, Srinivasan, & Staelin, 1985) e de Comportamento Organizacional (Eisenhardt, 1985, 1988; Kosnik, 1987). Como o estudo permeia a relação entre o cidadão e o gestor público, principal e agente (Jensen, 1983), a teoria oferece neste caso uma visão abrangente dos sistemas, resultados e riscos, além de ser uma perspectiva teórica válida (Eisenhardt, 2015), que confirma que diferentes modos de governança podem ter gênese nesta coexistência (Burau & Kjaer, 2009).
+Com origem nas ciências econômicas, a teoria da agência possui diversas interpretações, e contribui com estudos que envolvem o chamado problema da agência (Jensen & Meckling, 1976; Ross, 1973). Os efeitos das relações institucionais que podem vir a ocorrer entre o sujeito principal e o agente estão centrados nos conflitos existentes entre os desejos ou objetivos do principal e do agente (Eisenhardt, 2015). Neste caso, o conceito de governança se entrelaça com o da Teoria da Agência ao explorar a fronteiras entre o estado e a sociedade (Kjaer, 2011). De um lado a sociedade (principal) clamando por mais bem-estar social, necessidades humanas básicas e oportunidades, do outro o gestor público (agente) tentando formular políticas, agindo com políticas regulatórias e determinando que os contratos que promovam o bem-estar social dos cidadãos sejam eficientes. Uma governança pública eficiente faz parte da nova realidade político-econômica da administração pública (Barros et al., 2018), e a Teoria da Agência é parte deste contexto, ao ser aplicada tanto a fenômenos organizacionais quanto aos processos de governança (Eisenhardt, 2015).
+Além disso, para Stoker (1988), a governança vai além das estruturas formais do governo e inclui uma rede complexa de atores, tanto públicos quanto privados, que interagem para influenciar decisões políticas e administrativas. Para Bevir (2013), é preciso uma reflexão crítica sobre como as teorias de governança podem ser aplicadas para melhor compreender e responder aos desafios contemporâneos de governabilidade global. Ao se tratar de desafios
+AOS, Belém (BR), v. 14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   6
+
+ contemporâneos, no intuito de medir a governança dos municípios da Amazônia Legal, tem-se como base o Índice de Governança Municipal (IGM-CFA), que se trata de uma ferramenta criada pelo Conselho Federal de Administração (CFA), e está subdividido em três dimensões (“Finanças”, “Gestão” e “Desempenho”). Segundo o CFA (2021), o índice foi lançado em 2016, os dados são públicos e possuem o intuito de auxiliar gestores públicos a entender através de informações consolidadas, quais são as possíveis oportunidades de melhorias em seus municípios. Ao analisar as três dimensões que compõem o IGM, o gestor público pode estabelecer uma cultura de gestão inteligente baseada em dados, pois dentro da dimensão “Finanças” é avaliado o investimento per capita em saúde e educação no município, a situação de equilíbrio previdenciário e os gastos per capita com o legislativo.
+Na segunda dimensão, que se refere a “Gestão”, é avaliada a quantidade de servidores e comissionados por habitantes, se observa o planejamento das despesas, dos convênios, a aplicação da lei as micro e pequenas empresas, a disponibilidade de informação e irregularidades no cadastro único de exigências para transferências voluntárias (CAUC) e o índice de transparência do ministério público federal. Na última dimensão, “Desempenho”, é verificada a taxa de cobertura de creches, a taxa de abandono escolar ensino fundamental (anos iniciais), a cobertura vacinal, a mortalidade infantil, o acesso à água, o acesso e tratamento de esgoto, as pessoas cadastradas no Cadúnico, a taxa de homicídios e mortes no trânsito. Assim sendo, no IGM são avaliadas 30 variáveis, em 12 indicadores e 3 dimensões (pilares).
+Portanto, diante das discussões sobre governança tratadas até aqui, e buscando encontrar uma certa relação entre governança pública e o progresso social dos cidadãos, o tópico seguinte se dedica a tratar sobre o conceito / índice de progresso social e a Amazônia Legal Brasileira.
+2.2 O ÍNDICE DE PROGRESSO SOCIAL E A AMAZÔNIA LEGAL BRASILEIRA
+O conceito de progresso social é compreendido como a capacidade que uma sociedade possui para atender às necessidades humanas básicas de seus cidadãos (Miranda et al., 2020), além de criar as condições ideais para que todos os indivíduos alcancem seu pleno potencial (Choi & Park, 2019). É preciso fugir da ideia de que os países e regiões pobres não crescem porque são pobres (Birdsall, 2007). Muitas iniciativas governamentais visam promover o progresso social, embora algumas sejam mais eficientes do que outras. A partir do progresso social é possível estabelecer as condições fundamentais para desfrutar de uma vida digna, além de criar condições para que todos os indivíduos de um país ou região atinjam seu potencial
+AOS, Belém (BR), v. 14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   7
+
+ máximo (Porter, Stern, & Green, 2014). Nas sociedades desenvolvidas, o progresso social e a qualidade de vida são reconhecidos como metas a serem atingidas com o fim de beneficiar toda uma sociedade (Glatzer, 2012).
+Medidas clássicas de bem-estar, como o crescimento econômico, não são mais suficientes para compreender e medir o progresso social nas sociedades (Greve, 2017), pelo fato de não incluir questões de relações sociais, segurança econômica e pessoal, saúde, poluição etc. (Fleurbaey, 2009). Por meio do Índice de Progresso Social (IPS), criado por Porter et al. (2014) e depois utilizado pelo Imazon para avaliar o IPS na Amazônia, mede-se o progresso social de forma independente do desenvolvimento econômico. Além de possibilitar a obtenção de um score por país (De Carvalho et al., 2020) ou município (Imazon, 2018), o índice de progresso social contribui para o direcionamento de prioridades na atuação da gestão pública, e ainda é uma ferramenta útil para guiar as políticas públicas.
+A metodologia apresentada por Porter et al. (2014) e utilizada pelo Imazon, mede o IPS por meio de três dimensões (pilares). A primeira dimensão está relacionada a “Necessidades Humanas Básicas”, e tem como foco verificar se um país ou município satisfaz as necessidades mais essenciais do seu povo. A segunda diz respeito aos “Fundamentos do Bem-Estar”, que apura se existem elementos fundamentais para que as pessoas e as comunidades aumentem e mantenham o seu bem-estar. E a terceira refere-se à “Oportunidade”, que busca averiguar se existem oportunidades para que todos os indivíduos alcancem seu potencial total.
+Diante desta breve explanação sobre o que mede cada dimensão do IPS, a Figura 1 apresenta a estrutura metodológica e os principais pontos analisados no nesse índice:
+   AOS, Belém (BR), v. 14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+8
+
+ Figura 1: Estrutura do Índice de Progresso Social (IPS)
+Fonte: Adaptado de Porter et al. (2014, p.13) e Página da Internet do Imazon.
+A primeira dimensão apresentada por Porter et al. (2014) e Imazon, “Necessidades Humanas Básicas”, capta o grau em que as condições mais essenciais para a sobrevivência são atendidas. A segunda dimensão, “Fundamentos do Bem-Estar”, refere-se aos fundamentos do bem-estar, na qual se mede o grau em que um país cria um conjunto de políticas e instituições para apoiar a melhoria do bem-estar. E, por fim, a dimensão “Oportunidade” avalia o grau em que todos os cidadãos conseguem atingir seu pleno potencial. Refere-se, portanto, aos direitos pessoais, nas liberdades e na inclusão e, finalmente, no acesso à educação avançada, a qual permite um caminho para altos níveis de conquista em todos os campos da sociedade. Para Miranda et al (2020), o modelo de Porter et al. (2014), evidencia um conjunto inter-relacionado de fatores (variáveis/indicadores/dimensões), os quais combinados produzem um determinado nível de progresso social. Assim, o progresso social tem seu significado pautado na melhoria da qualidade de vida das pessoas, além do de no intento de aplicar da melhor forma os recursos disponíveis para resolver os problemas socioeconômicos.
+De acordo com o Instituto do Homem e Meio Ambiente da Amazônia (Imazon, 2018), a construção do IPS Amazônia foi concebido a partir do entendimento de que medidas de desenvolvimento baseadas apenas em indicadores econômicos são insuficientes, uma vez que o crescimento econômico sem progresso social resulta em degradação ambiental, exclusão e conflitos sociais. O IPS da Amazônia Legal oferece uma abordagem diferente na área social ao
+AOS, Belém (BR), v. 14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+  Índice de Progresso Social
+    Necessidades Humanas Básicas
+Fundamentos de Bem-Estar
+Oportunidades
+   Nutrição e Cuidados Médicos Básicos
+Água e Saneamento Moradia Segurança Pessoal
+Acesso ao Conhecimento Básico
+Acesso à Informação e Comunicação
+Saúde e Bem-Estar Sustentabilidade dos Ecossistemas
+Direitos Individuais Liberdades e Escolhas Individuais Tolerância e Inclusão Acesso à Educação Superior
+    9
+
+ enfatizar os resultados (outcomes) e não os investimentos (inputs). Nesse espaço chamado de Amazônia Legal ― que abarca 59% do território brasileiro e engloba a totalidade de nove estados: Acre, Amapá, Amazonas, Mato Grosso, Pará, Rondônia, Roraima, Tocantins e parte do Estado do Maranhão (a oeste do meridiano de 44o), com área total de 5.217.423 km2 distribuída entre 772 municípios (SUDAM, 2020) ― o IPS surgiu no intuito de melhorar o planejamento do desenvolvimento social e econômico da região amazônica.
+Em termos econômicos e ambientais, a Amazônia Legal descortina um horizonte de diversas oportunidades para o Brasil. Contudo, ao tempo que se considera essa região de floresta extremamente importante, sustenta-se também a tese de uma região altamente vulnerável, principalmente do ponto de vista socioeconômico (Oliveira Silva, 2017). Diante destas reflexões conceituais e teóricas, o tópico seguinte se dedica a apresentar os procedimentos metodológicos.
+3. PROCEDIMENTOS METODOLÓGICOS
+Metodologicamente, trata-se de um estudo descritivo, pois descreve os dados referentes à avaliação da influência da governança municipal sobre o progresso social da Amazônia Legal Brasileira, bem como as variáveis que compõem cada pilar do índice. Para Kumar (2019), a pesquisa descritiva busca descrever sistematicamente uma situação, um problema ou um fenômeno. Em relação aos procedimentos, trata-se de um estudo realizado por meio de dados secundários, no qual foram coletados os scores de 2021 de cada município nos sites do Índice de Governança Municipal (Índice de Gestão Municipal /Conselho Federal de Administração, 2018) e no Índice de Progresso Social da Amazônia Brasileira (IPS, 2018).
+Quanto à abordagem do problema, trata-se de um estudo quantitativo, que emprega a análise de regressão linear simples, com o auxílio do Statistical Package for the Social Science (SPSS) versão 23. Para Richardson (2010), a pesquisa quantitativa emprega a quantificação no processo de coleta de informações e no seu tratamento, valendo-se de técnicas estatísticas, das mais simples às mais complexas. Para a análise do IGM e do IPS, utilizou-se os escores em escala que varia de 0 a 100, na qual quanto maior o score melhor está o município no índice analisado. O número de municípios investigados correspondeu a 772, pertencentes aos 9 estados da Amazônia Legal Brasileira: Amazonas, Acre, Rondônia, Roraima, Pará, Maranhão, Amapá, Tocantins e Mato Grosso.
+A Tabela 1 ilustra a quantidade de municípios apreciados.
+AOS, Belém (BR), v. 14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   10
+
+ Tabela 1: Número de municípios estudados por estados
+  Estados da Amazônia Legal (Brasil)
+   Número de Municípios Estudados
+ Acre Amazonas Amapá Maranhão Mato Grosso Pará Rondônia Roraima Tocantins Total
+22
+62
+16
+182
+141
+143
+52
+15
+139
+772 Municípios
+                    Fonte: Dados da pesquisa (2021).
+O tópico seguinte visa apresentar e discutir os resultados da relação entre IGM e IPS, tendo como base a seguinte equação:
+Equação 1:
+IPS𝑖𝑡 = 𝛽0 + 𝛽1IGM𝑖𝑡 + 𝜀
+4. APRESENTAÇÃO E DISCUSSÃO DOS RESULTADOS
+Os primeiros dados esboçam a estatística descritiva, no qual a Tabela 2 descreve o mínimo, máximo, média, desvio padrão e o número de municípios analisados. Os valores dos índices oscilam entre 0 e 100 pontos, quanto mais próximo de 100 melhor.
+Tabela 2: Estatísticas descritivas
+Índice de Governança Municipal (IGM) 16,00 75,40 48,05 10,82 772
+AOS, Belém (BR), v. 14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+           Variáveis Mín. Máx. Média
+Desvio Padrão
+        n
+          11
+
+       Dimensão Finanças 0,00
+Dimensão Gestão 9,90
+Dimensão Desempenho 6,60
+Índice de Progresso Social na Amazônia Brasileira 43,60 (IPS)
+89,30 41,14
+87,80 58,28
+71,40 44,75
+74,42 54,59
+18,22 772
+13,26 772
+11,88 772
+3,88 772
+6,22 772
+5,37 772
+6,12 772
+Necessidades Humanas Básicas
+Fundamentos de Bem-Estar
+Oportunidades
+46,21 87,13 66,19
+41,18 77,46 55,77
+21,27 66,06 41,80 Fonte: Dados da pesquisa (2021).
+      O valor mínimo do IGM dos 772 municípios da Amazônia Legal foi de 16,00 pontos, o valor máximo foi de 75,40 e uma média de 48,05 pontos. Diante destes dados, é possível afirmar que mediano geral a grande maioria dos municípios se encontra em situação crítica, pois a média do IGM está abaixo de 50 pontos. Este resultado leva-nos a entender que os governos municipais estão tendo dificuldades em formular e implementar políticas adequadas no que tange a finanças, gestão e desempenho (Cruz & Marques, 2011). Quando se analisa as três dimensões que compõem o IGM, a “Finanças” apresenta municípios sem valores, a “Gestão” com mínimo de 9,90, e a “Desempenho” com mínimo de 6,60 pontos. Os municípios que apresentam tais valores são notabilizados por: ter quase nada de investimento per capita em saúde e educação, falta de planejamento das despesas, reduzido número de convênios, pouca aplicação da lei das micro e pequenas empresas e uma quantidade pequena de bairros contarem com acesso à água e tratamento de esgoto.
+Quando se analisa o máximo das três dimensões (“Finanças”, “Gestão” e “Desempenho”), percebe-se que alguns municípios possuem um alto valor, 89,30, 87,80 e 71,40 pontos. Nestes casos, se percebe o lado inverso, com municípios que apresentaram valores
+AOS, Belém (BR), v. 14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   12
+
+ mínimos. Porém, quando se olha para a média dessas dimensões, os valores continuam abaixo de 59 pontos, 41,14, 58,28 e 44,75 respectivamente. Portanto, a maior parte dos municípios precisam melhorar o seu IGM, para assim estabelecer relações de confiança entre governo e sociedade, com maior alcance das políticas públicas em prol de um contingente expressivo da sociedade (Kim et al., 2005; Cruz & Marques, 2011).
+A Figura 3 traz o mapa de calor do IGM, onde cada município exibe uma cor: os que apresentam cor azul escuro e azul claro são os com IGM alto; os que têm cor amarela são os municípios que se encontram em fase intermediária; e os que são mostrados em laranja e vermelho são os com os piores índices.
+Figura 3: Mapa de calor do IGM dos 772 municípios dos nove estados que compõem a Amazônia Legal Brasileira
+Fonte: Elaborado pelos Autores a partir dos dados do IGM (2021) – Software R.
+No que tange ao IPS, indicador que mede de forma holística a performance social e ambiental dos territórios (países, estados, municípios, distritos etc.), no caso dos 772 municípios da Amazônia Legal, os valores mínimos e máximos oscilaram entre 43,60 e 74,72 pontos respectivamente, sendo que Cuiabá (MT), Palmas (TO), São Luís (MA) e Manaus (AM) são as capitais com os melhores índices da região. A média dos 772 municípios ficou na casa dos 54,59 pontos, confirmando os resultados apresentados pelo Imazon (2021), ao destacar que a região amazônica enfrenta muitos problemas sociais e ambientais, incluindo: o agravamento da
+AOS, Belém (BR), v. 14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+  Roraima
+ Amapá
+ Pará
+ Amazonas
+Acre
+Tocantins
+Maranhão
+    Mato Grosso
+ Rondônia
+   13
+
+ segurança pública, a precariedade no saneamento básico e no acesso à água tratada, a deficiência na educação superior, a pouca garantia de direitos individuais e o aumento recente do desmatamento. Os municípios com piores IPS Amazônia são: São Félix de Balsas (MA), Pacajá (PA) e Recursolândia (TO).
+Em uma análise complementar, quando se observa a média do IPS da região amazônica versus o IPS do Brasil, o IPS Amazônia 2021 (54,59 pontos) permanece bem abaixo da média geral do IPS Brasil 2021 (63,29 pontos), e nenhum dos nove estados amazônicos supera a média nacional. Na análise dos estados, Mato Grosso (57,90 pontos), Rondônia (57,20 pontos) e Amapá (54,96 pontos) são os que apresentam os melhores resultados no IPS Amazônia 2021. Diante destas estatísticas, salienta-se que a Amazônia Brasileira vive uma combinação de baixo progresso social, degradação ambiental e subdesenvolvimento econômico, região essa, que segundo Oliveira Silva (2017), Região Norte é extremamente importante para o mundo no quesito biodiversidade e recursos, mas, porém, é uma região altamente vulnerável, principalmente do ponto de vista socioeconômico.
+A Figura 4 apresenta o mapa de calor do IPS dos 772 municípios dos nove estados que compõem a Amazônia Brasileira. Os municípios que apresentam cor azul escuro e azul claro são os com IPS alto; os que têm cor amarela são os municípios que se encontram em fase intermediária; e os que são mostrados em laranja e vermelho são os com os piores índices.
+   AOS, Belém (BR), v. 14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+14
+
+ Figura 4: Mapa de Calor do IPS dos 772 municípios dos nove estados que compõem a Amazônia Legal Brasileira
+Fonte: Elaborado pelos Autores a partir dos dados do IPS (2021) – Software R.
+Destarte, antes de apresentar os resultados do modelo, destaca-se ainda, na estatística descritiva, que o desvio padrão que mede a dispersão dos valores em relação à média, foi superior tanto no índice geral quanto nas dimensões do IGM, comparado com o IPS. No caso do IGM, essa discrepância retrata que alguns municípios estão muito bem ranqueados no que tange a finanças, gestão e desempenho, e em outros, não existe sequer valores em alguma das três dimensões, como os municípios que estão localizados nos estados do Pará, Acre, Tocantins e Roraima e Amapá, a exemplo de: Bagre, Cametá, Faro, Marapanim, Moju e Santarém Novo no Pará; Santa Rosa dos Purus, no Acré; Ipueiras, no Tocantins; São João da Baliza, em Roraima e Cutias, no Amapá. A Tabela 3 apresenta o modelo de regressão.
+Tabela 3: Resumo e resultados do modelo
+Constante 50,207 (β0) 0,616 81,50 <0,001
+AOS, Belém (BR), v. 14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   Amapá
+ Pará
+  Amazonas
+Acre
+Maranhão
+Tocantins
+   Rondônia
+ Mato Grosso
+Roraima
+    Modelo
+      Coeficientes não Coeficientes padronizados padronizados
+   T
+    Sig.
+        Beta Erro Beta Padrão
+            15
+
+       IGM – Índice de Governança Municipal 0,091 (β1)
+0,013
+R2
+0,064
+0,254 7,29
+R2
+Ajustado DW
+0,063 1,69
+<0,001
+Anova
+<0,001
+      Resumo do modelo
+R
+0,254
+          Nota - (a) Variável dependente: Índice de Progresso Social na Amazônia Brasileira (IPS). Preditores: (Constante), Índice de Governança Municipal (IGM). DW = Durbin-Watson.
+Fonte: Dados da pesquisa (2021).
+Primeiramente, é possível observar na Tabela 3, que o coeficiente de correlação representado pelo R possui um valor de 0,254 e o R2 (poder explicativo do modelo) tem um valor de 0,064. Neste caso, pode-se afirmar que o IGM explica 6,4% do IPS. Quanto ao teste de Durbin-Watson, pode-se salientar que ele é um dos pré-requisitos para a regressão linear e, neste caso, atesta que não existe alta correlação entre os resíduos (diferença entre o valor previsto e o valor observado). Neste caso, o Durbin-Watson foi de 1,69, próximo a dois, que é o valor ideal e demonstrando assim que os resíduos são independentes (Hair et al., 2009). Quanto aos resultados da Análise de Variância (Anova), verifica-se que o modelo de regressão linear se mostra significativo. A Equação 2 exibe o resultado com os valores dos coeficientes.
+Equação 2:
+IPS𝑖𝑡 = 50,2 + 0,09IGM𝑖𝑡
+O IGM influencia o IPS municípios analisados. Resultado este, que pode ser observado na Tabela 3, em que o IGM influencia em aproximadamente 25,4% (coeficiente de correlação R) dos resultados apresentados pelo IPS e que para cada 1 ponto de variação no IGM o IPS tende a variar 0,1 pontos, conforme modelo apresentado na Equação 2. Assim, se reforça a ideia de que a governança tende a influenciar a possível mudança de rumo do progresso social dos municípios da Amazônia. Desse modo, embora a influência entre os índices seja tímida, tal
+AOS, Belém (BR), v. 14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   16
+
+ circunstância pode ser encarada como um indício de que com mais governança ( “Finanças”, “Gestão” e “Desempenho”) os municípios podem caminhar rumo a investir e a obter mais resultados em saúde e educação, promover convênios para que sejam realizadas ações sociais e ambientais entre o setor público e privado, ter mais transparência ao disponibilizar informações, aumentar o acesso à água e tratamento de esgoto e a reduzir as taxas de homicídios e mortes no trânsito. Tudo isso irá impactar positivamente na relação entre governo e sociedade, com maior alcance das políticas públicas em prol de um contingente expressivo da sociedade (Kim et al., 2005; Cruz & Marques, 2011).
+Os gestores públicos dos municípios analisados deveriam encarar a sociedade civil com mais humanidade e evitar os conflitos entre o sujeito principal (cidadão) e o agente (governo). O progresso social e a qualidade de vida são metas que precisam ser atingidas com o fim de beneficiar toda uma sociedade (Glatzer, 2012), pois de um lado a sociedade (principal) clama por mais bem-estar social, atendimento de necessidades humanas básicas e oportunidades, e do outro o gestor público (agente), tenta formular políticas, agir com medidas regulatórias e fazer com que os contrato que promovam o bem-estar social dos cidadãos sejam eficientes. No atual contexto da Amazônia Legal, os conflitos e feridas estão expostas entre os desejos e objetivos do principal e do agente (Eisenhardt, 2015), e em muitos casos não há consenso de que o gestor público atenda as reais necessidades dos cidadãos.
+5. CONSIDERAÇÕES FINAIS
+O objetivo deste estudo foi pautado em investigar a influência da governança municipal no progresso social da Amazônia Legal Brasileira para o ano de 2021. Os principais resultados demonstraram que a região ainda enfrenta muitos problemas sociais e ambientais, incluindo o agravamento da segurança pública, a precariedade no saneamento básico, a deficiência na educação superior, a pouca garantia de direitos individuais e o aumento do desmatamento (Imazon, 2018). Diante destes fatos, salienta-se que não há uma solução única para resolver as questões complexas da Amazônia Legal, porém é preciso agir de imediato, pois nesta região mais de 27 milhões de pessoas clamam por: água limpa, segurança, educação de qualidade e melhora de suas vidas, etc. Para superar esses inúmeros desafios, a governança municipal, pautada nas “Finanças”, “Gestão” e “Desempenho”, pode ser uma alternativa para mudar os números do IPS Amazônia, além de torná-lo uma ferramenta útil para guiar as políticas públicas e as ações em benefício da população amazônica.
+AOS, Belém (BR), v. 14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   17
+
+ Os gestores públicos deveriam refletir como irão cumprir com o que a Constituição Federal determina no quesito progresso social para todos os brasileiros. A questão é urgente e a solução não será dada enquanto não houver união e sintonia entre os gestores públicos das três esferas (nacional, regional e local). É preciso, também, aproximar as empresas, os empreendedores sociais, e as organizações da sociedade civil dos governos nacionais e locais, cujo intuito deve ser propor soluções efetivas para melhorar a vida das pessoas da Região Norte do Brasil.
+O governo por meio de seus gestores públicos, possui capacidade de formular e implementar políticas adequadas (Cruz & Marques, 2011), porém, nota-se uma ausência desse poder público no quesito ações de natureza social e ambiental na Amazônia Brasileira, quando analisado o IPS. Os conflitos entre o principal e o agente podem ser evitados, contudo é indispensável a boa vontade dos gestores públicos (esfera municipal, estadual e federal) e ao mesmo tempo que esses compreendam que todos os cidadãos precisamos de bem-estar, de necessidades humanas básicas atendidas e de oportunidades em todos os seus aspectos.
+Assim sendo, como este estudo fornece evidências estatísticas de que a governança municipal possui uma relação positiva e significativa com o progresso social dos municípios da Amazônia Legal, sugere-se em futuras investigações uma visão mais holística dos indicadores sociais, possibilitando fazer uma análise aprofundada por estados, com olhar intenso nas características econômicas, sociais, culturais e ambientais dos mesmos.
+A utilização de novas medidas de desempenho dos municípios deve estar menos condicionada à economia e mais voltada para o desenvolvimento social local. Sugere-se também a realização de mais estudo com o IPS Amazônia, e o cruzamento dessas informações com variáveis como: corrupção, desempenho ambiental, competitividade e inovação dos municípios. Isso pois, quanto mais conhecimento se tem sobre tais índices e suas influências, mais adequada é a tomada de decisão dos líderes que regem tanto organizações do setor público quanto da iniciativa privada em matéria de planejamento e desenvolvimento de operações em nível local e regional.
+AOS, Belém (BR), v. 14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   18
+
+ REFERÊNCIAS
+Andreoni, V., & Miola, A. (2016). Competitiveness and sustainable development goals. Publications Office of the European Union.
+Barney, J., & Ouchi, W. (Eds.) (1986) Organizational economics. San Francisco: Jossey-Bass. Barros, A., Frazão, D., Bartoluzzio, A., Santos, M., & Vilela, M. (2018). Contabilidade do Terceiro Setor: Um Estudo Bibliométrico nos Principais Congressos de Contabilidade
+do Brasil. Revista de Administração e Contabilidade da FAT, 10(2).
+Bevir, M. (2013). A Theory of Governance. Berkeley: University of Californi.
+Birdsall, N. (2007). Do no harm: Aid, weak institutions and the missing middle in
+Africa. Development Policy Review, 25(5), 575-598.
+Bittencourt Santana Pinto, I. M., Moreira da Silva, M., & Tavares da Cruz, N. J. (2021).
+Governança Pública: Efetividade da Gestão dos Municípios Alagoanos à Luz do IGM-
+CFA. Revista FSA, 18(1).
+Burau, V., & Kjær, A. M. (2009, September). Dilemmas of hierarchy in co-governance: cases
+from different contexts. In panel on ‘Interactive Governance and Policy Making: What, How and Why’, at the Fifth General Conference of the European Consortium for Political Research, Potsdam (pp. 10-12).
+Casady, C. B., Eriksson, K., Levitt, R. E., & Scott, W. R. (2020). (Re) defining public-private partnerships (PPPs) in the new public governance (NPG) paradigm: an institutional maturity perspective. Public Management Review, 22(2), 161-183.
+Charles, V., & D'Alessio, F. A. (2020). An envelopment-based approach to measuring regional social progress. Socio-Economic Planning Sciences, 70, 100713.
+Choi, H., & Park, M. J. (2019). Evaluating the efficiency of governmental excellence for social progress: Focusing on low-and lower-middle-income countries.Social Indicators Research, 141(1), 111-130.
+Cruz, N. F. D., & Marques, R. C. (2011). Índices de governança municipal: utilidade e exequibilidade.
+Da Silva, M. C., da Silva Neto, A. F., Firmino, J. E., & da Silva, J. D. G. (2016). Avaliação de efetividade de funções sociais de governo nas capitais estaduais. Boletim Governet de Administração Pública e Gestão Municipal. Curitiba, PR, volume único, n. 58, p. 984- 1000.
+AOS, Belém (BR), v. 14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   19
+
+ De Carvalho, Í. C. S., Di Serio, L. C., Guimarães, C. M. C., & Furlanetto, K. S. (2020). The social progress on the development of global competitiveness.Competitiveness Review: An International Business Journal.
+Eisenhardt, K. M. (1989). Agency theory: An assessment and review. Academy of management review, 14(1), 57-74.
+Eisenhardt, K. M. (2015). Teoria da agência: uma avaliação e revisão. Revista de Governança Corporativa, 2(1).
+Fleurbaey, M. (2009). Beyond GDP: The quest for a measure of social welfare. Journal of Economic literature, 47(4), 1029-75.
+Glatzer, W. (2012). Comparações entre países da qualidade de vida em nações desenvolvidas, incluindo o impacto da globalização. No Manual de indicadores sociais e pesquisa de qualidade de vida (pp. 381-398). Springer, Dordrecht.
+Greve, B. (2017). Como medir o progresso social?. Social Policy & Administration , 51 (7), 1002-1022.
+Hair, J. F., Black, W. C., Babin, B. J., Anderson, R. E., & Tatham, R. L. (2009). Análise multivariada de dados. Bookman Editora.
+Hirsch, P., & Friedman, R. (1986) Collaboration or paradigm shift? Economic vs. behavioral thinking about policy? In J. Pearce & R. Robinson (Eds.), Best papers proceedings (pp. 31-35). Chicago: Academy of Management.
+Imazon. (2014). Índice de Progresso Social na Amazônia Brasileira: IPS Amazônia (p. 102). Belém: Imazon e Social Progress Imperative. Disponível em: https://imazon.org.br/publicacoes/indice-de-progresso-social-na-amazonia-brasileira- ips-amazonia-2014/ Acesso em 28 mai.2021.
+Jensen, M. (1983) Organization theory and methodology. Accounting Review, 56, 319-338. Jensen, M., & Meckling, W. (1976) Theory of the firm: Managerial behavior, agency costs, and
+ownership structure. Journal of Financial Economics, 3, 305-360.
+Kim, P.; Halligan, J.; Cho, N.; Oh, C.; Eikenberry, A. (2005), “Toward Participatory and Transparent Governance: Report on the Sixth Global Forum on Reinventing
+Government”, Public Administration Review, 65, 6, 646-654.
+Kjaer, A.M. (2011), “Rhodes’ Contribution to Governance Theory: Praise, Criticism and the
+Future Governance Debate”, Forthcoming in Public Administration.
+AOS, Belém (BR), v. 14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   20
+
+ Kohler-Koch, B., & Rittberger, B. (2006). The governance turn in EU studies. Journal of Common Market Studies., 44, 27.
+Kumar, R. (2019).Research methodology: A step-by-step guide for beginners. Sage Publications Limited.
+Miranda, R. L., Parisotto, I. R. D. S. P., Carvalho, L. C., & Bonfim, G. (2021). A Relação entre Corrupção, Progresso Social e Inovação Social: Um Estudo Multidimensional Usando Modelagem de Equações Estruturais. Gestão e Desenvolvimento, 18(1), 76-94.
+Moschen, S. A., Macke, J., Bebber, S., & da Silva, M. B. C. (2019). Sustainable development of communities: ISO 37120 and UN goals. International Journal of Sustainability in Higher Education.
+Oliveira Silva, K. B. (2017). Segurança Nacional da Amazônia Legal: uma contribuição para o progresso econômico do Brasil. Revista Novas Fronteiras, 3(2).
+Porter, M.E., Stern, S. and Green, M. (2014), Social Progress Index 2014, Social Progress Imperative, Washington, DC.
+Reyes, G. E., & Useche, A. J. (2019). Competitiveness, economic growth and human development in Latin American and Caribbean countries 2006-2015: a performance and correlation analysis. Competitiveness Review: An International Business Journal.
+Richardson, R. J (2010). Pesquisa social: métodos e técnicas. São Paulo: atlas.
+Ross, S. (1973) The economic theory of agency: The principal's problem. American Economic
+Review, 63, 134-139.
+Sampson, G. P. (Ed.). (2008). The WTO and global governance: future directions. UN.
+Sen, A. (2000). “Development as freedom”, Development in Practice – Oxford, Vol. 10 No. 2,
+pp. 258-258.
+Superintendência do Desenvolvimento da Amazônia (Sudam). Legislação. Disponível em:
+https://www.gov.br/sudam/pt-br. Acesso em: 19 mai. 2020
+Suri, T., Boozer, M. A., Ranis, G., & Stewart, F. (2011). Paths to success: The relationship
+between human development and economic growth. World Development, 39(4), 506-
+522.
+Stoker, G. (1998). Governance as theory: five propositions. International social science
+journal, 50(155), 17-28.
+Yong, G., & Wenhao, C. (2012). Developing a city governance index: based on surveys in five
+major Chinese cities. Social indicators research, 109(2), 305-316.
+AOS, Belém (BR), v. 14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   21

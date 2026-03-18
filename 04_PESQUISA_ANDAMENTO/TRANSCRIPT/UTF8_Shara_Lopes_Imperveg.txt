@@ -1,0 +1,1260 @@
+ UNIVERSIDADE FEDERAL DO TOCANTINS PROGRAMA DE PÓS-GRADUAÇÃO EM AGROENERGIA
+SHARA CARVALHO LOPES
+AVALIAÇÃO DE UM MATERIAL COMPÓSITO POLIMÉRICO BIOINSPIRADO REFORÇADO COM FIBRA DE BAGAÇO DE CANA- DE-AÇÚCAR
+PALMAS 2020
+
+SHARA CARVALHO LOPES
+AVALIAÇÃO DE UM MATERIAL COMPÓSITO POLIMÉRICO BIOINSPIRADO REFORÇADO COM FIBRA DE BAGAÇO DE CANA- DE-AÇÚCAR
+Dissertação apresentada ao Programa de Pós- Graduação em Agroenergia da Universidade Federal do Tocantins como parte dos requisitos para a obtenção do título de Mestre em Agroenergia.
+Orientador: Prof. Dr. Juan Carlos Valdés Serra
+PALMAS 2020
+
+ 
+UNIVERSIDADE FEDERAL DO TOCANTINS PROGRAMA DE PÓS-GRADUAÇÃO EM AGROENERGIA
+SHARA CARVALHO LOPES
+AVALIAÇÃO DE UM MATERIAL COMPÓSITO POLIMÉRICO BIOINSPIRADO REFORÇADO COM FIBRA DE BAGAÇO DE CANA DE AÇÚCAR
+Data de aprovação: 13/11/2020
+Banca Examinadora
+Dissertação apresentada ao Programa de Pós-Graduação em Agroenergia da Universidade Federal do Tocantins. Foi avaliada para obtenção do título de Mestre em Agroenergia e aprovada em sua forma final pelo orientador e pela Banca Examinadora.
+ PALMAS – TO, 2020
+
+Dedico essa dissertação a Deus, ao meu avô “In Memoriam”, aos meus pais, irmãos e sobrinho, meus maiores incentivadores e apoiadores.
+
+AGRADECIMENTOS
+A Deus, pela minha vida, e por me permitir ultrapassar todos os obstáculos encontrados ao longo da realização deste trabalho.
+Aos meus pais, Daldir e Revina, por todo apoio emocional, psicológico e financeiro, não medindo esforços para que os meus sonhos fossem realizados, além de todo amor e carinho dedicado a mim. Sem vocês, nada disso seria possível.
+Aos meus irmãos, Débora e Anderson, ao meu sobrinho, Eduardo, e a Célia por todo apoio, palavras de incentivo, amor e cuidado para comigo, sempre confiantes no meu potencial, me fazendo acreditar que posso sempre mais.
+Ao Prof. Dr. Juan Carlos, por ter sido meu orientador, desempenhando tal função com maestria, dedicação e amizade, sempre com palavras de incentivo e possuindo a percepção de se preocupar também com o ser humano que existe em cada aluno.
+Ao Prof. Dr. Fernando Antônio da Silva Fernandes, pelo seu entusiasmo e apoio a pesquisa científica, e pelo seu incentivo ao meu ingresso no Mestrado, possuindo minha total gratidão e admiração.
+Ao Murilo, amigo e namorado, por todas as vezes que não mediu esforços para ajudar- me em minha pesquisa, por suas palavras de incentivo e apoio, por sua paciência, e, por todas as vezes que não permitiu que eu desistisse ou desanimasse.
+Aos amigos, que sempre estiveram ao meu lado, pela amizade incondicional e pelo apoio demonstrado ao longo de todo o período de tempo em que me dediquei a este trabalho, em especial a Vanessa, amiga e colega de mestrado, um exemplo de força e coragem para mim. Dedico também as amigas Karla e Isabela, que estiveram sempre ao meu lado e torcendo pelo meu sucesso.
+Aos técnicos de laboratório da Universidade Federal do Tocantins (Alexandre, Raquel, Mirelle, Fabrício e Jéssica) pelo auxílio na realização deste trabalho.
+A todos aqueles que contribuíram, de alguma forma, para a realização deste trabalho.
+
+RESUMO
+Inspirada na baixa densidade da madeira e em painéis de fibras de madeira, o presente estudo, aborda uma análise acerca da caracterização de um material compósito polimérico bioinspirado, ou inspirado na natureza. Este material compósito polimérico foi fabricado em laboratório a partir da mistura da resina poliuretana à base de óleo de mamona com diferentes porcentagens de adição de fibra de bagaço de cana-de-açúcar (10%, 20%, 30%, 40% e 50%). Foi realizada comparação das propriedades físico-mecânicas (densidade, teor de umidade, inchamento em espessura por 24h, absorção de água por 24h, tração e flexão) entre os compósitos poliméricos bioinspirados com adição de bagaço de cana-de-açúcar, entre diferentes espécies de madeira natural e painéis compósitos de baixa densidade. O objetivo deste estudo foi obter um material compósito polimérico bioinspirado na baixa densidade das madeiras, fabricado a partir da resina poliuretana à base de óleo de mamona, em substituição ao uso da resina ureia-formaldeído, com adição de bagaço de cana-de-açúcar como reforço e em substituição integral ao uso de partículas de madeira. Os resultados do ensaio de densidade configuram o material como como painel aglomerado de baixa densidade. Nos ensaios de inchamento em espessura todos os materiais estão dentro do recomendado pela norma CS 236 (1966), apresentaram resultados inferiores a 30%. Através do ensaio de absorção de água foi constatado que os compósitos poliméricos bioinspirados apresentaram uma melhora em relação hidrofilicidade em comparação com os painéis aglomerados de fibras associadas as partículas de madeira. Entretanto, o teor de umidade permaneceu abaixo da faixa recomendada (entre 5% e 13%) pela norma NBR 14810:2 (2018) para painéis aglomerados. Os compósitos avaliados apresentaram os valores de módulo de elasticidade inferiores ao exigido pela norma CS 236 (1966), e apenas o percentual de 30% de adição de fibra de bagaço de cana-de-açúcar atendeu a referida norma para o resultado de módulo de ruptura. Não foi constatado decréscimo significativo nas propriedades físico-mecânicas nos compósitos poliméricos bioinspirados utilizando resina poliuretana à base de óleo de mamona, em substituição ao adesivo ureia-formaldeído, e fibra de bagaço de cana-de-açúcar em substituição as partículas de madeira, sendo viável ambas substituições. Ao levar em consideração todos os parâmetros avaliados, o percentual que apresentou melhores propriedades físico-mecânicas foram os corpos de prova com 30% de adição de fibra de bagaço de cana-de-açúcar.
+Palavras-chaves: compósito, bioinspirado, baixa densidade, resíduo agroindustrial.
+
+ABSTRACT
+Inspired by the low density of wood and wood fiber boards, the present study addresses an analysis about the characterization of a bio-inspired polymer composite material, or inspired by nature. This polymeric composite material was manufactured in the laboratory from a mixture of polyurethane resin based on castor oil with different percentages of added sugarcane bagasse fiber (10%, 20%, 30%, 40% and 50%). A comparison of the physical- mechanical properties (density, moisture content, swelling in thickness for 24h, water absorption for 24h, traction and flexion) between the bioinspired polymeric composites with the addition of sugarcane bagasse, between different species of natural wood and low density composite panels. The objective of this study was to obtain a polymeric composite material bioinspired in the low density of the woods, manufactured from polyurethane resin based on castor oil, replacing the use of urea-formaldehyde resin, with the addition of sugarcane bagasse as a reinforcement and as a complete replacement for the use of wood particles. The results of the density test configure the material as a low density board. In thickness swelling tests, all materials are within the recommended by the CS 236 standard (1966), presented results below 30%. In the water absorption test it was found that the bioinspired polymeric composites showed an improvement in relation to hydrophilicity in comparison with the agglomerated fiber panels associated with the wood particles. However, the moisture content remained below the recommended range (between 5% and 13%) by the Brazilian Stardard 14810: 2 (2018) for chipboard panels. The composites evaluated presented values of modulus of elasticity lower than that required by the CS 236 standard (1966), and only the percentage of 30% of addition of sugarcane bagasse fiber met the referred norm for the result of rupture modulus. There was no significant decrease in the physical-mechanical properties of bioinspired polymeric composites using castor oil-based polyurethane resin, replacing the urea-formaldehyde adhesive, and sugarcane bagasse fiber to replace wood particles, both substitutions feasible. When taking into account all the parameters evaluated, the percentage that presented the best physical-mechanical properties were the specimens with 30% of addition of sugarcane bagasse fiber.
+Keywords: composite, bioinspired, low density, agroindustrial waste.
+
+LISTA DE FIGURAS
+Figura 1 – Caracterização estrutural da madeira natural e madeira polimérica ....................... 21
+Figura 2 – Estrutura Hierárquica da Madeira ...................................................................................... 24
+Figura 3 – Esboço de ensaio de tração paralela às fibras ......................................................... 38
+Figura 4 - Forma de colocação do corpo-de-prova sobre os apoios da máquina universal de ensaios ......................................................................................................................................39
+Figura 5 – Esquema de medição para ensaio de Densidade ....................................................41
+Figura 6 – Placas sendo cortadas com auxílio de Serra Tico Tico...........................................50
+Figura 7 – Corpos de prova posicionados no liofilizador.........................................................51
+Figura 8 – Corpos de prova marcados para ensaio de densidade ............................................52
+Figura 9 – Corpo de prova posicionado na máquina para ensaio de tração perpendicular ......54
+Figura 10 – Ensaio de Flexão Estática ................................................................................................... 55
+Figura 11 – Perfil dos corpos de prova de 50%, 40%, 30%, 20% e 10% de adição de fibra de bagaço de cana-de-açúcar.........................................................................................................58
+Figura 12 – Corpos de prova após rompimento em ensaio de tração perpendicular (10% e 20%, respectivamente)..............................................................................................................73
+Figura 13 – MEV para percentual de 10% de adição de fibra de bagaço de cana-de-açúcar . 89 Figura 14 – MEV para percentual de 20% de adição de fibra de bagaço de cana-de-açúcar...90 Figura 15 – MEV para percentual de 30% de adição de fibra de bagaço de cana-de-açúcar...90 Figura 16 – MEV para percentual de 40% de adição de fibra de bagaço de cana-de-açúcar...91 Figura 17 – MEV para percentual de 50% de adição de fibra de bagaço de cana-de-açúcar...91
+
+LISTA DE TABELAS
+Tabela 1 – Densidade para as madeiras em estado verde.........................................................28
+Tabela 2 – Densidade para as madeiras a 15% de umidade ...............................................................28
+Tabela 3 – Tração normal às fibras para as madeiras em estado verde ...................................28
+Tabela 4 – MOR para as madeiras em estado verde.................................................................29
+Tabela 5 – MOR para as madeiras a 15% de umidade.............................................................29
+Tabela 6 – MOE para as madeiras em estado verde ............................................................................29
+Tabela 7 – Tipos de painéis de fibra de madeira e suas respectivas densidades .....................31
+Tabela 8 – Requisitos de propriedades físico-mecânicas para painéis aglomerados LDF ....... 32
+Tabela 9 – Resultados dos ensaios físico-mecânicos de Soares et al. (2017) .........................32
+Tabela 10 – Resultados dos ensaios físico-mecânicos de Cravo et al. (2015) ........................33
+Tabela 11 – Resultados dos ensaios físico-mecânicos de Guimarães Junior et al. (2016) .....34
+Tabela 12 – Resultados dos ensaios físico-mecânicos de Battistelle, Marcilio e Lahr (2009) 34
+Tabela 13 – Resultados dos ensaios físico-mecânicos de Faria et al. (2018) ..........................35
+Tabela 14 - Velocidade de avanço a ser utilizada, em relação à espessura do material ensaiado .................................................................................................................................................. 39
+Tabela 15 – Proporções de cada material nas placas de diferentes porcentagens de adição de fibra de cana-de-açúcar para os ensaios de compressão, tração, umidade e densidade ..........48
+Tabela 16 – Proporções de cada material nas placas de diferentes porcentagens de adição de fibra de cana-de-açúcar para o ensaio de flexão e análise de MEV ........................................49
+Tabela 17 – Espessura de cada placa produzida de dimensões 20x20 cm ..............................49 Tabela 18 – Espessura de cada placa produzida de dimensões 25x15 cm ..............................50
+Tabela 19 – Faixa de adição de fibra vegetal a resina mais utilizada em trabalhos acadêmicos sobre compósitos .....................................................................................................................57
+Tabela 20 – Resultados de densidade para cada percentual de adição de fibra de bagaço de cana-de-açúcar .......................................................................................................................... 59
+Tabela 21 – Resultados dos intervalos de densidade encontrados por cada autor ..................61
+
+Tabela 22 – Densidade básica dos compósitos poliméricos bioinspirados x densidade básica das madeiras naturais em estado verde ....................................................................................62
+Tabela 23 – Densidade básica dos compósitos poliméricos bioinspirados x densidade básica das madeiras naturais a 15% de umidade ................................................................................62
+Tabela 24 – Resultados de teor de umidade retirado dos percentuais de adição de fibra de bagaço de cana-de-açúcar através da liofilização ....................................................................63
+Tabela 25 – Resultados de teor de umidade dos corpos de prova prontos para uso para cada percentual de adição de fibra de bagaço de cana-de-açúcar ....................................................64
+Tabela 26 – Resultados de inchamento em espessura por 24h dos corpos de prova para todos os percentuais de adição de fibra de bagaço de cana-de-açúcar ..............................................67
+Tabela 27 – Intervalo de resultados de inchamento em espessura por 24h por autor .............68
+Tabela 28 – Resultados de absorção de água por 24h para todos os percentuais de adição de fibra de bagaço de cana-de-açúcar ...........................................................................................69
+Tabela 29 – Intervalo de resultados absorção de água por 24h por autor ...............................70
+Tabela 30 – Resultados de TP para cada percentual de adição de fibra de bagaço de cana-de- açúcar .......................................................................................................................................71
+Tabela 31 – Intervalo de resultados de tração perpendicular (TP) por autor ..........................73
+Tabela 32 – Resistência a tração dos compósitos poliméricos bioinspirados x resistência a traçao das madeiras naturais em estado verde .........................................................................74
+Tabela 33 – Resultados de MOR para cada percentual de adição de fibra de bagaço de cana- de-açúcar ..................................................................................................................................79
+Tabela 34 – Intervalo de resultados de módulo de ruptura (MOR) por autor .........................79
+Tabela 35 – MOR dos compósitos poliméricos bioinspirados x MOR das madeiras naturais em estado verde .......................................................................................................................81
+Tabela 36 – MOR dos compósitos poliméricos bioinspirados x MOR das madeiras naturais a 15% de umidade ......................................................................................................................82
+Tabela 37 – Resultados de MOE para cada percentual de adição de fibra de bagaço de cana- de-açúcar ..................................................................................................................................82
+Tabela 38 – Intervalo de resultados de módulo de elasticidade (MOE) por autor ...................83
+Tabela 39 – MOE dos compósitos poliméricos bioinspirados x MOE das madeiras naturais em estado verde .............................................................................................................................85
+
+Tabela 40 – Desvio Padrão e Coeficiente de Variabilidade de cada percentual de adição de fibra de bagaço de cana-de-açúcar para o Ensaio de Densidade ............................................ 93
+Tabela 41 – Desvio Padrão e Coeficiente de Variabilidade de cada percentual de adição de fibra de bagaço de cana-de-açúcar para o Ensaio de Teor de Umidade retirado dos CPs pela liofilização .............................................................................................................................. 94
+Tabela 42 – Desvio Padrão e Coeficiente de Variabilidade de cada percentual de adição de fibra de bagaço de cana-de-açúcar para o Ensaio de Teor de Umidade dos CPs prontos para uso ........................................................................................................................................... 94
+Tabela 43 – Desvio Padrão e Coeficiente de Variabilidade de cada percentual de adição de fibra de bagaço de cana-de-açúcar para o Ensaio de Inchamento em Espessura por 24 h ..... 95
+Tabela 44 – Desvio Padrão e Coeficiente de Variabilidade de cada percentual de adição de fibra de bagaço de cana-de-açúcar para o Ensaio de Absorção de Água por 24 h ................. 95
+Tabela 45 – Desvio Padrão e Coeficiente de Variabilidade de cada percentual de adição de fibra de bagaço de cana-de-açúcar para o Ensaio de Tração Perpendicular ........................... 96
+Tabela 46 – Desvio Padrão e Coeficiente de Variabilidade de cada percentual de adição de fibra de bagaço de cana-de-açúcar para MOR ........................................................................ 96
+Tabela 47 – Desvio Padrão e Coeficiente de Variabilidade de cada percentual de adição de fibra de bagaço de cana-de-açúcar para MOE ........................................................................ 97
+
+LISTA DE GRÁFICOS
+Gráfico 1 – Densidade básica para cada percentual de adição de fibra de bagaço de cana-de- açúcar (0%, 10%, 20%, 30%, 40% e 50%) .............................................................................60
+Gráfico 2 – Teor de umidade retirado do compósito através do processo de liofilização para cada percentual de adição de fibra de bagaço de cana-de-açúcar (10%, 20%, 30%, 40% e 50%) ........................................................................................................................................65
+Gráfico 3 – Teor de umidade do compósito pronto para utilização para cada percentual de adição de fibra de bagaço de cana-de-açúcar (10%, 20%, 30%, 40% e 50%) ........................66
+Gráfico 4 – Inchamento de espessura por 24h para cada percentual de adição de fibra de bagaço de cana-de-açúcar (10%, 20%, 30%, 40% e 50%) ......................................................68
+Gráfico 5 – Absorção de água por 24h para cada percentual de adição de fibra de bagaço de cana-de-açúcar (10%, 20%, 30%, 40% e 50%)........................................................................70
+Gráfico 6 – Resultados de resistência a tração perpendicular para cada percentual de adição de fibra de bagaço de cana-de-açúcar ...........................................................................................73
+Gráfico 7 – Gráfico Tensão x Deformação – Ensaio de Tração para o percentual de 10% ....75
+Gráfico 8 – Gráfico Tensão x Deformação – Ensaio de Tração para o percentual de 20% ....75
+Gráfico 9 – Gráfico Tensão x Deformação – Ensaio de Tração para o percentual de 30% ....76
+Gráfico 10 – Gráfico Tensão x Deformação – Ensaio de Tração para o percentual de 40% .. 77
+Gráfico 11 – Gráfico Tensão x Deformação – Ensaio de Tração para o percentual de 50% ..78
+Gráfico 12 – Resultados de MOR para cada percentual de adição de fibra de bagaço de cana- de-açúcar ..................................................................................................................................80
+Gráfico 13 – Resultados de Takada (2014) para MOR para cada percentual de adição de fibra de palha de cana-de-açúcar ......................................................................................................81
+Gráfico 14 – Resultados de MOE para cada percentual de adição de fibra de bagaço de cana- de-açúcar ..................................................................................................................................84
+Gráfico 15 – Resultados de Takada (2014) para MOE para cada percentual de adição de fibra de palha de cana-de-açúcar ......................................................................................................84
+Gráfico 16 – Diagrama tensão x deformação para percentual de adição de fibra de bagaço de cana-de-açúcar de 10%.............................................................................................................85
+Gráfico 17 – Diagrama tensão x deformação para percentual de adição de fibra de bagaço de cana-de-açúcar de 20% ............................................................................................................86
+
+Gráfico 18 – Diagrama tensão x deformação para percentual de adição de fibra de bagaço de cana-de-açúcar de 30%.............................................................................................................87
+Gráfico 19 – Diagrama tensão x deformação para percentual de adição de fibra de bagaço de cana-de-açúcar de 40% ............................................................................................................87
+Gráfico 20 – Diagrama tensão x deformação para percentual de adição de fibra de bagaço de cana-de-açúcar de 50% ............................................................................................................88
+
+LISTA DE ABREVIATURAS E SIGLAS
+HDF High Density Fiberboard
+MDF Medium Density Fiberboard
+LDF Low Density Fiberboard
+MOE Módulo de Elasticidade
+MOR Módulo de Ruptura
+MEV Microscopia Eletrônica de Varredura
+TP Resistência à Tração Perpendicular
+P Carga de Ruptura
+S Área de Superfície de Corpo de Prova
+D1 Distância entre os Apoios da Máquina
+B Largura do Corpo de Prova
+E Espessura Média
+P1 Carga no Limite Proporcional
+d Deflexão
+g Grama
+D Densidade
+M Massa do Corpo de Prova
+MU Massa Úmida
+MS Massa Seca
+U Umidade Residual
+E1 Espessura do Corpo de Prova após o Período de Imersão
+E0 Espessura do Corpo de Prova antes do Período de Imersão
+M1 Peso do Corpo de Prova após o Período de Imersão
+M0 Peso do Corpo de Prova antes do Período de Imersão
+V Volume
+D% Variação Percentual entre a Densidade do Corpo de Prova e a
+Densidade Média Dméd Densidade Média
+CP Corpo de Prova
+Uméd Umidade Média
+I% Inchamento por 24h
+Iméd Inchamento por 24h Médio
+AB% Absorção de Água por 24h ABméd Absorção de Água por 24h Médio DP Desvio Padrão
+CV Coeficiente de Variabilidade TPméd Tração Perpendicular Média FRméd Força de Ruptura Média
+FEméd Força de Escoamento Média
+SUMÁRIO
+1. INTRODUÇÃO ..................................................................................................................18 1.1 OBJETIVOS ......................................................................................................................20
+1.1.1 Objetivo Geral ..............................................................................................................20 1.1.2 Objetivos Específicos.....................................................................................................20 2. REFERENCIAL TEÓRICO ............................................................................................21
+2.1 MADEIRA POLIMÉRICA BIOINSPIRADA ..................................................................21
+2.2 MADEIRA COMO UM MATERIAL BIOINSPIRANTE ...............................................23
+2.3 MADEIRA NATURAL ....................................................................................................24
+2.3.1 Principais Desvantagens ...............................................................................................25
+2.3.2 Principais Aplicações ....................................................................................................26
+2.3.3 Madeiras Naturais Mais Utilizadas no Brasil ............................................................27
+2.4 LOW DENSITY FIBERBOARD (LDF) .............................................................................29
+2.4.1 Commercial Standard CS 236 (1966) ...........................................................................31
+2.4.2 Valorização do Bagaço de Cana-De-Açúcar na Produção de Painéis Aglomerados de Baixa Densidade ................................................................................................................32
+2.4.3 Painel Aglomerado de Resíduos Agroindustriais ......................................................33 2.4.4 Inclusão de Resíduo da Cultura de Sorgo em Painéis Aglomerados de Eucalipto 33
+2.4.5 Emprego do Bagaço da Cana-De-Açúcar (Saccharum Officinarum) e das Folhas Caulinares do Bambu da Espécie Dendrocalamus Giganteus na Produção de Chapas de Partículas .............................................................................................................................. 34
+2.4.6 Qualidade de Painéis Aglomerados Produzidos com Sabugo de Milho ..................35
+2.5 MATERIAIS .................................................................................................................... 35 2.5.1 Bagaço de Cana-de-Açúcar ........................................................................................ 35 2.5.2 Resina Poliuretana à Base de Óleo de Mamona ........................................................ 36 2.6 ENSAIOS E ANÁLISE DE CARACTERIZAÇÃO DESSE MATERIAL .................... 37
+2.6.1 Microscopia Eletrônica de Varredura (MEV) ........................................................ 37
+2.6.2 Tração Perpendicular ................................................................................................ 37
+2.6.3 Flexão Estática ........................................................................................................... 38
+2.6.4 Densidade .................................................................................................................... 40
+2.6.5 Teor de Umidade ........................................................................................................ 42
+2.6.6 Inchamento por 24h e Absorção de Água por 24h .................................................. 42
+3. MATERIAIS E MÉTODOS ............................................................................................ 44
+3.1 MATERIAIS ..................................................................................................................... 44 3.2 MÉTODOS ....................................................................................................................... 44 3.3 CONDUÇÃO DO EXPERIMENTO ............................................................................... 46 3.3.1 Fabricação do Compósito Polimérico Bioinspirado .................................................. 46 3.3.2 Ensaios Físico-Mecânicos ............................................................................................ 51 3.3.2.1 Densidade ................................................................................................................... 51 3.3.2.2 Teor de Umidade ........................................................................................................ 52 3.3.2.3 Inchamento por 24h e Absorção De Água por 24h .................................................... 53 3.3.2.4 Tração Perpendicular .................................................................................................. 53 3.3.2.5 Flexão Estática ............................................................................................................ 54 3.3.3 Análise de Microscopia Eletrônica de Varredura (MEV) ...................................... 56 4. RESULTADOS E DISCUSSÕES .................................................................................... 57 4.1 CARACTERIZAÇÃO FÍSICA ........................................................................................ 58 4.1.1 Densidade ..................................................................................................................... 58 4.1.2 Teor de Umidade ......................................................................................................... 63 4.1.3 Inchamento em Espessura e Absorção de Água por 24h ......................................... 66 4.2 CARACTERIZAÇÃO MECÂNICA ............................................................................... 71 4.2.1 Tração Perpendicular ................................................................................................. 71 4.2.2 Flexão Estática ............................................................................................................. 78 4.3 ANÁLISE DE MICROSCOPIA ELETRÔNICA DE VARREDURA (MEV) ............... 89
+4.4 ANÁLISE ESTATÍSTICA ............................................................................................... 92 5. CONCLUSÕES ................................................................................................................. 98 6. RECOMENDAÇÕES PARA TRABALHOS FUTUROS .......................................... 100 REFERÊNCIAS ................................................................................................................. 101
+1. INTRODUÇÃO
+Inspirado na madeira, o autor Yu et al. (2018) relata uma nova abordagem para a síntese em massa de uma família de madeiras poliméricas artificiais (material compósito bioinspirado) com aparência realista. A madeira polimérica bioinspirada surgiu na China, através do estudo do autor Yu et al. (2018), produzida utilizando a resina fenólica fenol- formaldeído e quitosana adicionadas a diferentes nano materiais. Esta estratégia eficiente em termos de tempo contrasta com as décadas ou centenas de anos necessários para o cultivo da madeira natural.
+A madeira é um dos materiais naturais que inspirou a humanidade muito cedo a imitar algumas de suas características para desenvolver novos materiais artificiais “inteligentes”. As propriedades da madeira são otimizadas em vários aspectos e em várias áreas e exibem, por exemplo, excelentes propriedades mecânicas juntamente com baixa densidade, ambas determinadas pelo seu projeto estrutural (STANZL-TSCHEGG, 2010).
+Em contrapartida, os painéis de fibras de madeira se caracterizam como um produto de estrutura altamente homogênea e isotrópica, devido ao seu processo de fabricação. A utilização de fibras de madeira individualizadas e sua deposição de forma aleatória ao plano da chapa, confere ao produto, grandes vantagens em termos de homogeneidade de propriedades e facilidade de produção (IWAKIRI et al., 2002).
+Os painéis de fibra de madeira são divididos conforme sua densidade, sendo definido pela norma CS 236 (1966) entre de alta densidade, o High Density Fiberboard (HDF), Medium Density Fiberboard (MDF) de média densidade e o Low Density Fiberboard (LDF) para painéis de baixa densidade. Painéis de fibra de baixa densidade são relativamente mais baratos em comparação com madeiras convencionais (BEHZAD, HOSSEIN, ABDOLLAH, 2016). Os painéis de aglomerados de baixa densidade são utilizados em paredes de divisórias internas, móveis, portas e enchimento de portas, molduras e revestimentos em geral.
+A ureia-formaldeído tem sido a resina mais utilizada pelas indústrias de painéis de madeira reconstituída. Os perigos à saúde humana causados por essa resina são provocados por inalação, ingestão e contato com a pele ou olhos. Os sintomas para as estas exposições podem ser: sensação de queimação, tosse, vermelhidão, dores de cabeça, náuseas, falta de ar, choque e colapso. Os efeitos de contaminação ambiental são mínimos para o meio terrestre,
+porém o composto é considerado tóxico para organismos aquáticos, apresentando risco ambiental (KATSUKAKE, 2009), o que justifica a busca pela utilização de uma resina não tóxica para produção de painéis aglomerados. Pesquisadores estão continuamente buscando desenvolver outros materiais que possam oferecer um desempenho competitivo que substituiria ou reforçaria a madeira nos painéis aglomerados, para reduzir a utilização de materiais de madeira em uso comercial ou industrial, para isso os painéis de fibra lignocelulósicas foram introduzidos (ANYANWU et al., 2019).
+O objetivo deste estudo foi a obtenção de um material compósito polimérico bioinspirado na baixa densidade das madeiras, fabricado a partir da resina poliuretana à base de óleo de mamona em substituição ao uso da resina ureia-formaldeído, com adição de bagaço de cana-de-açúcar em substituição ao uso de partículas de madeira. A importância desta pesquisa é justificada pela necessidade de diminuição dos impactos ambientais produzidos pelo setor da agroindústria e da construção civil, além da produção de novos materiais utilizando fontes renováveis e aglomerante atóxico e biodegradável.
+Portanto, inspirado no estudo do autor Yu et al. (2018) e em painéis de fibras de madeira, o presente estudo aborda uma análise acerca da caracterização de um material compósito polimérico bioinspirado na baixa densidade das madeiras, fabricado em laboratório a partir da mistura da resina poliuretana à base de óleo de mamona com diferentes porcentagens de adição de fibra de bagaço de cana-de-açúcar (10%, 20%, 30%, 40% e 50%). Os percentuais de adição são em relação ao volume total da mistura da resina poliuretana à base de óleo de mamona e a fibra de bagaço de cana-de-açúcar necessário para preenchimento do molde.
+O presente trabalho está organizado em capítulos: o primeiro capítulo trata-se de uma breve introdução acerca de seu conteúdo; o segundo capítulo aborda a base teórica utilizada para a produção do trabalho; o terceiro capítulo descreve o programa experimental que foi realizado; o quarto capítulo trata-se dos resultados e discussões; o quinto capítulo aborda as conclusões acerca do presente estudo; e o sexto e último capítulo trata das recomendações para trabalhos futuros.
+1.1 OBJETIVOS
+1.1.1 Objetivo Geral
+Obter e caracterizar um material compósito polimérico a partir da resina poliuretana à base de óleo de mamona com adição de fibra de bagaço de cana-de-açúcar como reforço.
+1.1.2 Objetivos Específicos
+• Formular, com base na revisão de literatura, a metodologia para produção do material compósito polimérico bioinspirado;
+• Caracterizar o material com ensaios físico-mecânicos (densidade, teor de umidade, inchamento em espessura por 24h, absorção de água por 24h, tração e flexão) e comparar os resultados com as propriedades físico-mecânicas de diferentes espécies de madeira natural e com painéis aglomerados de baixa densidade;
+• Avaliar a partir dos resultados dos ensaios de caracterização do material a viabilidade da substituição da resina ureia-formaldeído pela resina poliuretana à base de mamona e a substituição das partículas de madeira pela fibra de bagaço de cana-de-açúcar.
+2. REFERENCIAL TEÓRICO
+2.1 MADEIRA POLIMÉRICA BIOINSPIRADA
+A madeira polimérica bioinspirada surgiu na China, através do estudo do autor Yu et al. (2018), produzida utilizando a resina fenólica fenol-formaldeído e quitosana, adicionados a diferentes nano materiais, que cumprem a função da lignina nas madeiras naturais. Essa nova família de madeiras poliméricas bioinspiradas deve substituir a madeira natural. Na figura 1 é realizada a comparação entre as estruturas da madeira natural e da madeira polimérica, (A) madeira natural tipo balsa, (D, G e J) diferentes tipos de madeira polimérica bioinspirada, (B e C) seção transversal da madeira natural tipo balsa, (E, F, H, I, K e L) seção transversal das madeiras poliméricas bioinspiradas, (M) reconstrução 3D da madeira polimérica bioinspirada (D).
+Figura 1 – Caracterização estrutural da madeira natural e madeira polimérica.
+FONTE: Yu et al., 2018.
+Inspirado na madeira natural, Yu et al. (2018) relata uma nova abordagem para a obtenção de madeiras poliméricas artificiais (compósito polimérico bioinspirado) com aparência realista e estruturas celulares semelhantes à da madeira natural. Esta estratégia eficiente em termos de tempo, contrasta com as décadas ou centenas de anos necessários para o cultivo da madeira natural. Essas madeiras artificiais bioinspiradas exibem não apenas boa controlabilidade em microestruturas, mas também propriedades mecânicas comparáveis às da
+22
+ madeira natural. A metodologia utilizada pelo autor Yu et al. (2018) seguiu-se da seguinte forma:
+• Foram misturados fenol e solução de formaldeído (formol PA 37%) a solução aquosa de NaOH (hidróxido de sódio), agitado em um becker a uma temperatura de 70oC durante uma hora em um agitador magnético;
+• O pH foi ajustado para neutro, utilizando o HCl (ácido clorídrico) adicionado aos poucos, com verificação de pH utilizando a fita universal indicadora, até atingir pH 7;
+• Posteriormente foi adicionado álcool etílico e filtrada a mistura para separar o NaCl (cloreto de sódio), seguido de evaporação do álcool etílico em agitador magnético para obtenção do resol fenólico de baixo peso molecular. E armazenado em freezer;
+• Para preparar a solução de quitosana: misturou-se quitosana e HAc (ácido acético) a água deionizada sob agitação. A solução resultante foi transparente e viscosa;
+• Então foi adicionado resol a solução de quitosana, seguido por vibrar intensamente por 5 minutos;
+• A solução quitosana/resol, posteriormente foi misturada a diferentes nano materiais;
+• Em seguida, a solução quitosana/resol foi despejada em um molde colocado em uma plataforma de cobre fria e congelado com nitrogênio líquido, com temperatura de cobre fria ajustada em no mínimo -10°C;
+• Finalizado com uma cura térmica a 180°C e liofilização da amostra.
+A madeira polimérica bioinspirada se encaixa na categoria de compósito e destaca-se mesmo de outros materiais de engenharia, tais como materiais cerâmicos celulares e materiais do tipo aerogel, em termos de resistência mecânica e propriedades de isolamento térmico (YU et al., 2018).
+De acordo com a norma ASTM D3878 (2004), um compósito consiste em dois ou mais materiais (fases) intrinsecamente insolúveis, com formas, constituições e/ou propriedades diferentes, que formam um novo material. Para ser considerado um compósito, este novo material precisa ter propriedades distintas daquelas de seus constituintes. Os constituintes, por sua vez, devem estar separados por uma interface de escala microscópica,
+    
+mesmo que o material pareça homogêneo em escala macroscópica. Também é necessário que haja melhora em uma ou mais propriedades, por exemplo, aumento da resistência à tração, ao impacto, à corrosão, redução do peso ou custo, isolamento acústico e/ou térmico, brilho, ou então que certa propriedade seja atingida.
+A classificação de materiais compósitos pode ser feita de acordo com a sua natureza (natural ou sintético), com o tipo de matriz (polimérica, metálica ou cerâmica), o tipo de fase dispersa (partículas, fibras ou lâminas), e ainda, conforme o tamanho da fase dispersa (macro, micro ou nano compósito) (LORANDI, 2016).
+2.2 MADEIRA COMO UM MATERIAL BIOINSPIRANTE
+As madeiras poliméricas bioinspiradas mostram a promessa de uso como novos materiais de engenharia biomimética e uma alternativa à madeira natural (YU et al., 2018). A raiz etimológica do termo biomimética, termo esse, utilizado em larga escala, essencialmente derivado do grego, significa de forma literal “imitação da vida”. Esse termo foi mais esotericamente usado como “bioinspirado” e em alguns casos como “utilizando biologicamente”, e, utilizado em trabalhos acadêmicos como compósitos biomiméticos (ANSELL, 2015). Portanto, a engenharia biomimética estuda os princípios criativos e estratégias da natureza, visando a criação de soluções para os problemas atuais da humanidade, unindo funcionalidade, estética e sustentabilidade.
+A partir da engenharia biomimética, surgiram os materiais bioinspirados, ou seja, materiais inspirados na natureza, que desempenham um papel cada vez maior em muitos campos de aplicação prática hoje. Durante a última década, as características estruturais de materiais naturais, como madeira, ossos, conchas e seda de aranha, foram caracterizadas cada vez mais detalhadamente por novas técnicas físicas e químicas (STANZL-TSCHEGG, 2010).
+A madeira é um dos materiais naturais que inspirou a humanidade desde muito cedo a imitar algumas de suas características para desenvolver novos materiais artificiais “inteligentes”. As propriedades da madeira exibem, por exemplo, excelentes propriedades mecânicas juntamente com baixa densidade, e ambas são determinadas pelo seu projeto estrutural (STANZL-TSCHEGG, 2010). Na Figura 2 é demonstrada a estrutura hierárquica da madeira em diferentes níveis microscópicos.
+Figura 2 – Estrutura Hierárquica da Madeira.
+Fonte: Ansell, 2015.
+Uma estratégia “inteligente” da natureza é construir células de madeira não apenas como células simétricas, mas como tubos fortemente alongados (traqueídeos). Isto leva a alta rigidez da madeira na direção da carga longitudinal, ou seja, alto módulo de elasticidade e maior resistência à compressão e à tração na direção longitudinal do que transversalmente. (STANZL-TSCHEGG, 2010).
+Resumindo, uma das consequências mais importantes da estrutura de poros da madeira e muitos outros materiais biológicos é a baixa densidade (estrutura celular), que além disso é frequentemente combinado com alta rigidez, flexibilidade e alta tenacidade (STANZL- TSCHEGG, 2010).
+2.3 MADEIRA NATURAL
+A madeira é um nanocompósito, onde as microfibrilas de celulose estão embutidas em uma matriz de hemicelulose e lignina. Este nanocompósito é o material básico da parede celular. A parede celular tem vários micrômetros de espessura e é formada por várias camadas diferentes. A célula de madeira clássica em árvores coníferas, a traqueídea, pode ser descrita
+como um tubo oco e alongado. As fibras de celulose enrolam-se helicoidalmente dentro da parede celular. As células de madeira em forma de tubo são conectadas umas às outras pela chamada lamela intermediária. Na escala de comprimento de milímetros, as células da madeira estão dispostas paralelamente ao eixo da haste (WEINKAMER; FRATZL, 2010).
+Segundo Zenid (2009), dentre as principais características a serem observadas para especificar e inspecionar madeiras serradas e beneficiadas dizem respeito a espécies de madeira, teor de umidade e defeitos naturais e de processamento.
+Quanto a espécie da madeira, na inspeção de recebimento a madeira deve ser identificada pela sua anatomia ou enviada a um laboratório especializado. Recomenda-se esse procedimento em virtude da grande variabilidade de madeiras que existem no mercado, cujas características sensoriais (cor e densidade, principalmente) são semelhantes, porém com propriedades mecânicas e de durabilidade natural distintas. Já acerca das propriedades da madeira, várias são afetadas pelo teor de umidade das peças. As propriedades mecânicas da madeira seca são superiores e a movimentação dimensional é menor do que quando a madeira está verde, ou seja, quando o teor de umidade esteja acima do ponto de saturação das fibras, ao redor de 30%, e, a presença de defeitos naturais (nós e bolsas de resina) ou de processamento (empenamentos e rachas de secagem) afeta a qualidade e desempenho das peças de madeira serrada (ZENID, 2009).
+2.3.1 Principais Desvantagens
+Dentre as desvantagens da madeira, as principais estão relacionadas a variação da massa específica, influência da temperatura, teor de umidade e idade da madeira. Há grande variação das propriedades mecânicas da madeira relacionada à variação da massa específica do material. Outra desvantagem é não ser possível determinar as propriedades mecânicas de uma espécie baseando-se apenas em pedaço de madeira, como um disco ou uma única tora, para haver representatividade, é necessário que se utilize um número de amostras representativo à população de indivíduos que se pretende avaliar, dificultando assim a avaliação das propriedades mecânicas deste material (MORESCHI, 2014).
+Ainda segundo Moreschi (2014), a madeira é muito influenciada externamente pela temperatura, onde altas temperaturas ocasionam baixas resistências à madeira, como consequência da dilatação e da movimentação térmica das moléculas de seus constituintes e não podem ser utilizadas em ambientes com altas temperaturas, uma vez que, acima de
+aproximadamente 100 °C, já começa a ocorrer degradação térmica da madeira. Outra influência externa que a madeira sofre é o teor de umidade, sendo dependente da temperatura e da umidade relativa do ar em que ela se encontra, com exceção da melhor trabalhabilidade e da maior resistência ao choque em madeiras com maior teor de umidade, este material fica mais fraco com o aumento de seu teor de umidade.
+Quanto a idade da madeira, não se deve utilizar madeira verde em construções, com teores de umidade acima de 20%, pois ela teria que se desidratar muito até atingir seu equilíbrio higroscópico com o ambiente em que seria colocada e, com isso, desenvolveria defeitos de secagem pronunciados. Além disso, até que esta desidratação ocorresse, suas propriedades de resistência estariam reduzidas e sua suscetibilidade a agentes deterioradores aumentada (MORESCHI, 2014).
+2.3.2 Principais Aplicações
+A madeira para construção é um dos muitos produtos florestais utilizados em todo o mundo e é usado em edifícios grandes e pequenos. É um dos três materiais estruturais atualmente utilizados na construção de grandes estruturas, juntamente com aço e concreto armado (RAMAGE et al., 2017).
+A madeira tem uma resistência paralela as fibras semelhantes à do concreto armado, sendo a madeira dura ligeiramente mais forte e a madeira mole é um pouco mais fraca, embora a madeira não consiga igualar o concreto moderno de alta resistência na compressão. É menos rígida que o concreto, e ambos os materiais são muito menos rígidos e fortes que o aço. No entanto, a madeira tem baixa densidade em comparação com esses outros materiais estruturais convencionais. Isso resulta em eficiência para estruturas longas ou altas, nas quais uma parte significativa da carga a ser transportada pela estrutura é seu próprio peso (RAMAGE et al., 2017).
+Segundo Zenid (2009), os principais usos da madeira na construção civil brasileira são para construção civil pesada interna; construção civil leve externa e leve interna estrutural; construção civil leve interna decorativa; construção civil leve interna de utilidade geral; em esquadrias; assoalhos domésticos.
+Outra aplicação da madeira é na indústria moveleira, segundo Azizi, Mohebbi e Felice (2016), a indústria de móveis representa atualmente uma parcela considerável do comércio global. A estrutura da cadeia produtiva de móveis compreende vários processos de produção
+que têm início na extração de matéria-prima bruta de vários tipos (madeiras brutas das áreas florestais, algodão e minérios) e sua continuidade na transformação de matérias-primas elaboradas (chapas de madeira processada, metais, plásticos, tecidos etc.) em diferentes indústrias (dos setores madeireiro, químico, metalúrgico), sendo, por sua vez, transformados em produtos mobiliários na indústria de móveis (RIGUEIRA, 2015).
+No Brasil, uma das principais matérias primas utilizadas na produção industrial moveleira é a madeira. Com o crescimento industrial, aumenta o uso de matéria prima, lançamento de novos produtos e produção em massa (MALLMAN, 2017).
+Essa produção se desenvolveu em razão do aumento do consumo, do surgimento de um mercado para móveis padronizados (de desenho mais simples, retilíneos e modulados) e da adoção da matéria-prima mais barata e padronizada industrialmente, sobretudo chapas de madeira processada (RIGUEIRA, 2015).
+2.3.3 Principais Tipos de Madeira, Aplicabilidades e Propriedades Físico-Mecânicas
+Dentro das diversas necessidades de mercado que utiliza madeira, algumas árvores são as mais procuradas dentro de determinados segmentos, entre essas estão a madeira de Cedro, Imbuia, Mogno, Eucalipto e Pinus (MUNDO HUSQVARNA, 2016).
+As madeiras de Cedro, Imbuia e Mogno são utilizadas na construção civil em áreas internas, como esquadrias (portas, venezianas e caixilhos), como decoração (lambris, painéis, molduras, guarnições e forros), em mobiliário de alta qualidade (móveis finos e móveis decorativos), e para outros usos como chapas compensadas, embalagens, molduras para quadros, moldes e modelos, decoração e adorno (escultura e entalhe), instrumentos musicais ou parte deles, e embarcações (coberturas, pisos, forros). A madeira de Cedro apresenta durabilidade moderada ao ataque de organismos e verificou-se que a durabilidade desta madeira é inferior a 12 anos de serviço em contato com o solo (IPT, 1989).
+As madeiras de Eucalipto e Pinus são usadas na construção civil em áreas internas (ripas e partes secundárias de estruturas, cordões, guarnições, rodapés, forros e lambris), como uso temporário (pontaletes e andaimes), assoalhos (tábuas, tacos e parquetes), mobiliário de utilidade geral (móveis estândar e partes internas de móveis inclusive daqueles decorativos), e em outros usos como lâminas decorativas, chapas compensadas e embalagens. Essa madeira possui baixa durabilidade aos fungos de podridão mole e cupins-de-solo (IPT, 1989).
+As propriedades físico-mecânicas das madeiras citadas, estão reunidas nas Tabelas de 1 a 6 os resultados referentes aos ensaios para densidade, tração normal às fibras, módulo de ruptura (MOR) e módulo de elasticidade (MOE) para madeira em estado verde e a 15% de umidade.
+Na Tabela 1, reúnem-se os resultados de densidade para as madeiras em estado verde. Tabela 1 – Densidade para as madeiras em estado verde.
+Imbuia Mogno Pinus
+MADEIRA
+RESULTADO
+540 kg/m3 520 kg/m3 400 kg/m3
+    Cedro   440 kg/m3
+  Eucalipto   420 kg/m3
+       umidade.
+Fonte: IPT, 1989.
+Na Tabela 2, reúnem-se os resultados de densidade para as madeiras a 15% de
+Tabela 2 – Densidade para as madeiras a 15% de umidade.
+    Cedro   530 kg/m3
+  Eucalipto   500 kg/m3
+  Imbuia Mogno Pinus
+MADEIRA
+Fonte: IPT, 1989.
+RESULTADO
+650 kg/m3 630 kg/m3 480 kg/m3
+     Na Tabela 3, reúnem-se os resultados de tração normal às fibras para as madeiras em estado verde.
+Tabela 3 – Tração normal às fibras para as madeiras em estado verde.
+    Cedro   5,10 MPa
+  Eucalipto   -
+  Imbuia Mogno Pinus
+MADEIRA
+Fonte: IPT, 1989.
+RESULTADO
+6,70 MPa 6,00 MPa 3,00 MPa
+     
+Na Tabela 4, reúnem-se os resultados de módulo de ruptura (MOR) para as madeiras em estado verde.
+Tabela 4 – MOR para as madeiras em estado verde.
+Imbuia Mogno Pinus
+MADEIRA
+RESULTADO
+76,90 MPa 80,50 MPa 48,00 MPa
+    Cedro   62,80 MPa
+  Eucalipto   53,80 MPa
+       Fonte: IPT, 1989.
+Na Tabela 5, reúnem-se os resultados de módulo de ruptura (MOR) para as madeiras a
+15% de umidade.
+Tabela 5 – MOR para as madeiras a 15% de umidade.
+  MADEIRA
+RESULTADO
+91,60 MPa 90,60 MPa 69,60 MPa
+  Cedro   81,20 MPa
+  Eucalipto   75,60 MPa
+  Imbuia Mogno Pinus
+     Fonte: IPT, 1989.
+Na Tabela 6, reúnem-se os resultados de módulo de elasticidade (MOE) para as
+madeiras em estado verde.
+Tabela 6 – MOE para as madeiras em estado verde.
+    Cedro   8336 MPa
+  Eucalipto   9689 MPa
+  Imbuia Mogno Pinus
+MADEIRA
+Fonte: IPT, 1989.
+RESULTADO
+7738 MPa 9110 MPa 6463 MPa
+     Os resultados contidos nas Tabelas 1 a 6 serão utilizados no tópico Resultados e Discussões para comparação com os resultados dos ensaios físico-mecânicos realizados no compósito polimérico bioinspirado.
+2.4 LOW DENSITY FIBERBOARD (LDF)
+Os painéis de fibras de madeira se caracterizam como um produto de estrutura altamente homogênea e isotrópica, devido ao seu processo de fabricação. A utilização de fibras de madeira individualizadas e sua deposição de forma aleatória ao plano da chapa, confere ao produto, grandes vantagens em termos de homogeneidade de propriedades. As
+
+chapas de fibras podem ser destinadas a uma ampla gama de aplicações, como painéis de isolamento térmico e acústico, paredes de divisórias internas, móveis, portas, molduras, revestimentos em geral, entre outros, em função da densidade da chapa e do processo de produção (IWAKIRI et al., 2002).
+Iwakiri et al. (2002), relata que a origem da utilização de chapas de fibras de madeira foi no Japão, no século VI A.C., na forma de papéis pesados utilizados como divisórias internas de casas. A cronologia do desenvolvimento da tecnologia de produção de chapas de fibras, pode ser apresentada pela sua significância, a partir dos meados do século XIX.
+As principais matérias primas utilizadas na fabricação de painéis de fibra são resinas a base de ureia-formaldeído e fenólicas, e, fibras de madeira. Porém deve-se atentar para o aumento do consumo de madeira, as reservas de espécies lenhosas nativas vêm diminuindo, ocasionando a busca por novos materiais lignocelulósicos renováveis que possam atender com eficiência a demanda. Essa pressão ambiental apoia a pesquisa de novos produtos e o melhor aproveitamento da matéria-prima disponível (TROGER et al., 1998; NEMLI et al., 2003; BEKTAS et al., 2005; GUNTEKIN E KARAKUS, 2008). Matérias-primas alternativas, como resíduos agrícolas e espécies de rápido crescimento, podem desempenhar um papel importante na indústria de painéis aglomerados (NEMLI et al., 2009; MELO et al., 2014, 2015).
+Portanto, os pesquisadores estão continuamente buscando desenvolver outros materiais que podem oferecer um desempenho competitivo que substituiria ou reforçaria a madeira. Para reduzir a utilização de materiais de madeira em uso comercial ou industrial, para isso os painéis de fibra foram introduzidos (ANYANWU et al., 2019).
+Atualmente a ureia-formaldeído tem sido a resina mais utilizada pelas indústrias de painéis de madeira reconstituída, por apresentar várias vantagens como: baixo custo, “cura” rápida, baixa influência na coloração, alto teor de sólidos e “tempo de gel”. Com relação às desvantagens, as principais são: a emissão de formol e a baixa resistência à água. Os perigos a saúde humana são provocados por inalação, ingestão e contato com a pele ou olhos. Os sintomas para as estas exposições podem ser: sensação de queimação, tosse, vermelhidão, dores de cabeça, náuseas, falta de ar, choque e colapso. Os efeitos de contaminação ambiental são mínimos para o meio terrestre, porém o composto é considerado tóxico para organismos aquáticos, apresentando risco ambiental (KATSUKAKE, 2009), o que justifica a busca pela utilização de uma resina não tóxica para produção de painéis aglomerados.
+Os painéis de fibra de madeira são divididos conforme sua densidade, sendo definido pela norma CS 236 (1966) entre de alta densidade, o High Density Fiberboard (HDF), Medium Density Fiberboard (MDF) de média densidade e o Low Density Fiberboard (LDF) para painéis de baixa densidade. Segue na Tabela 19 os tipos de painéis de fibra de madeira e suas respectivas densidades.
+Tabela 7 – Tipos de painéis de fibra de madeira e suas respectivas densidades. TIPO DENSIDADE
+     High Density Fiberboard
+Acima de 800 kg/m3
+  Medium Density Fiberboard
+Entre 600 e 800 kg/m3
+   Low Density Fiberboard
+Abaixo de 600 kg/m3
+ Fonte: CS 236, 1966.
+Painéis de fibra de baixa densidade são relativamente mais baratos e oferecem bons valores estéticos em comparação com madeiras convencionais. No entanto, possuem baixa resistência, durabilidade e vida útil, tornando-os suscetíveis a danos durante o uso (BEHZAD, HOSSEIN, ABDOLLAH, 2016).
+Novos estudos têm sido fomentados quanto às diferentes opções de partículas e adesivos ou resinas, empregados na produção de painéis de fibra (LACOMBE, 2015), e também quanto a densidade, sendo os painéis de fibra de baixa densidade, denominados pela sigla LDF, pouco estudados no Brasil, não possuindo norma regulamentadora nacional. A norma mais utilizada entre os estudos acerca dos painéis de madeira aglomerada de baixa densidade (LDF) é a Commercial Standard CS 236 (1966), que indica propriedades a serem observadas e ensaiadas para esse tipo de material, além dos resultados esperados. Por isso, foram elencadas algumas das mais atuais investigações acerca dos painéis aglomerados de baixa densidade, juntamente com as propriedades mínimas exigidas pela norma CS 236 (1966), para que pudessem ser avaliados seus resultados e assim contribuir para o presente trabalho. Todos os trabalhos possuem diferenças de resíduo entre si e com o presente trabalho, e com a resina utilizada, mas justifica-se sua correlação devido a densidade dos painéis aglomerados e da utilização de fibra lignocelulósica e resina em sua fabricação.
+2.4.1 Commercial Standard CS 236 (1966)
+A norma CS 236 (1966) abrange dois tipos de painéis aglomerados de partículas de madeira, um para aplicações internas e um para certas aplicações externas. Cada tipo é ainda dividido em vários graus de densidade (baixa, média e alta) que são subdivididos em
+
+                  classificações de resistência, essa subdivisão é realizada para que as aplicações dos produtos sejam consistentes com as propriedades dos respectivos graus de densidade e classificações de resistência. Nessa norma também estão inclusos definições, tolerâncias dimensionais, métodos de teste, práticas de inspeção, métodos de marcação e certificação para identificar produtos que atendam a todos os requisitos exigidos por ela.
+Como o foco do presente trabalho são painéis aglomerados de baixa densidade (Low Density Fiberboard – LDF), segue na Tabela 20 os requisitos das propriedades físicas (densidade e inchamento por 24h) e das propriedades mecânicas (MOE, MOR e tração).
+Tabela 8 – Requisitos de propriedades físico-mecânicas para painéis aglomerados LDF.
+TIPO
+Inchamento por 24h
+DENSIDADE
+Abaixo de 600 kg/m3
+30%
+     Densidade
+    MOE   1030 MPa
+  MOR   5,50 MPa
+  Tração   0,14 MP
+ Fonte: CS 236, 1966.
+Os resultados contidos na Tabela 20 serão utilizados no tópico Resultados e Discussões para comparação com os resultados dos ensaios físico-mecânicos realizados no compósito polimérico bioinspirado.
+2.4.2 Valorização do Bagaço de Cana-De-Açúcar na Produção de Painéis Aglomerados de Baixa Densidade
+Soares et al. (2017), teve por objetivo avaliar as propriedades físicas e mecânicas de painéis aglomerados de baixa densidade produzidos com diferentes quantidades de bagaço de cana-de-açúcar e madeira de Eucalyptus Grandis. Na Tabela 9 estão contidos os resultados dos ensaios físico-mecânicos realizados pela autora para cada porcentagem de resíduo utilizada.
+Tabela 9 – Resultados dos ensaios físico-mecânicos de Soares et al. (2017).
+     ENSAIO
+Densidade
+Inchamento por 24h
+0%
+550 kg/m3
+14%
+20%
+530 kg/m3
+19%
+40%
+520 kg/m3
+24%
+60%
+530 kg/m3
+31%
+                 Absorção de Água 24h 129% 137% 124% 145%
+      MOE 600 MPa 500 MPa 350 MPa 190 MPa
+      MOR 7,70 MPa 5,90 MPa 4,20 MPa 2,80 MPa
+      Tração 0,178 MPa 0,157 0,138 MPa 0,110 MPa
+ Fonte: Soares et al., 2017.
+
+Os painéis foram produzidos com o adesivo ureia-formaldeído na proporção de 10% em relação à massa do painel e as porcentagens de resíduo (bagaço de cana-de-açúcar) utilizadas foram de 0%, 20%, 40% e 60% em associação com madeira de eucalipto. Para a avaliação da qualidade das chapas foram realizados ensaios físicos e mecânicos de densidade, inchamento por 24h e absorção de água, módulo de elasticidade, módulo de ruptura e tração.
+2.4.3 Painel Aglomerado de Resíduos Agroindustriais
+Cravo et al. (2015), teve por objetivo desenvolver painéis de partículas aglomeradas de baixa densidade com casca de amendoim, fibra da casca do coco-verde (híbrido) e resina poliuretana bicomponente à base de óleo de mamona. Na Tabela 10 estão contidos os resultados dos ensaios físico-mecânicos realizados pelo autor para cada porcentagem de resíduo utilizada.
+Tabela 10 – Resultados dos ensaios físico-mecânicos de Cravo et al. (2015).
+   ENSAIO
+Densidade
+Inchamento por 24h
+50%/50%
+503,04 kg/m3
+18,1%
+100%
+542,06 kg/m3
+18,92%
+           Absorção de Água 24h 68,33% 61,13%
+    MOE 445,20 MPa 333,80 MPa
+    MOR 3,88 MPa 1,82 MPa
+    Tração 0,256 MPa 0,159 MPa
+ Fonte: Cravo et al., 2015.
+Os painéis experimentais foram fabricados com 15% de resina poliuretana, e foram produzidos com 100% de casca de amendoim (CA) e painéis híbridos, com casca de amendoim e fibra da casca do coco (50% casca de amendoim e 50% fibra de coco). Seguido da determinação das propriedades físico-mecânicas do material através dos ensaios de densidade, inchamento por 24h e absorção de água, módulo de elasticidade, módulo de ruptura e tração.
+2.4.4 Inclusão de Resíduo da Cultura de Sorgo em Painéis Aglomerados de Eucalipto
+Para Guimarães Junior et al. (2016), o objetivo de seu trabalho consistiu em avaliar as qualidades físico-mecânicas de chapas aglomeradas de eucalipto produzidas com diferentes quantidades de resíduos da cultura de sorgo. Na Tabela 11 estão contidos os resultados dos ensaios físico-mecânicos realizados pelo autor para cada porcentagem de resíduo utilizada.
+
+Tabela 11 – Resultados dos ensaios físico-mecânicos de Guimarães Junior et al. (2016).
+ENSAIO
+Densidade
+Inchamento por 24h
+0%
+480 kg/m3
+25,82%
+15%
+460 kg/m3
+31,41%
+30%
+440 kg/m3
+30,72%
+45%
+460 kg/m3
+33,42%
+                      Absorção de Água 24h 95,79% 150,58% 151,91% 175,65%
+      MOE 1234,48 MPa 914,80 MPa 927,20 MPa 823,86 MPa
+      MOR 6,23 MPa 5,35 MPa 5,35 MPa 3,53 MPa
+      Tração 0,289 MPa 0,179 MPa 0,141 MPa 0,139 MPa
+ Fonte: Guimarães Junior et al., 2016.
+Os painéis foram produzidos com 0%, 15%, 30% e 45% de bagaço do sorgo e 12% do adesivo ureia-formaldeído. A qualidade das chapas foi avaliada por ensaios físico-mecânicos de densidade, absorção de água e inchamento em espessura por 24h, tração, módulo de ruptura e módulo de elasticidade.
+2.4.5 Emprego do Bagaço da Cana-De-Açúcar (Saccharum Officinarum) e das Folhas Caulinares do Bambu da Espécie Dendrocalamus Giganteus na Produção de Chapas de Partículas
+Battistelle, Marcilio e Lahr (2009), produziram chapas de partículas compostas de bagaço de cana-de-açúcar e das folhas de bambu com adesivo de ureia-formaldeído com o objetivo de determinar as propriedades físicas e mecânicas das chapas. Na Tabela 12 estão contidos os resultados dos ensaios físico-mecânicos realizados pelo autor para cada porcentagem de resíduo utilizada.
+Tabela 12 – Resultados dos ensaios físico-mecânicos de Battistelle, Marcilio e Lahr (2009). ENSAIO 100%/0% 75%/25% 50%/50% 25%/75%
+Fonte: Battistelle, Marcilio e Lahr, 2009.
+Foram produzidas chapas em 4 proporções, 100%/0%, 75%/25%, 50%/50% e 25%/75% de bagaço em relação à massa total de compósitos e completadas com as partículas de bambu, e um teor de adesivo de 12%. As propriedades físicas e mecânicas determinadas através do estudo foram densidade, módulo de ruptura e módulo de elasticidade.
+           Densidade 560 kg/m3 600 kg/m3 610 kg/m3 610 kg/m3
+      MOE 1167 MPa 1009 MPa 998,50 MPa 1028 MPa
+      MOR 9,83 MPa 7,65 MPa 7,17 MPa 9,30 MPa
+ 
+2.4.6 Qualidade de Painéis Aglomerados Produzidos com Sabugo de Milho
+Faria et al. (2018) descreve como objetivo de seu trabalho avaliar as propriedades físicas e mecânicas dos painéis aglomerados confeccionadas com três quantidades do adesivo ureia-formaldeído: 12%, 15% e 20%, e 60% de sólidos provenientes do sabugo de milho. Na Tabela 13 estão contidos os resultados dos ensaios físico-mecânicos realizados pelo autor (densidade, absorção de água e inchamento em espessura por 24h, tração, módulo de elasticidade e módulo de ruptura) para cada porcentagem de adesivo.
+Tabela 13 – Resultados dos ensaios físico-mecânicos de Faria et al. (2018).
+    ENSAIO
+Densidade
+Inchamento por 24h
+12%
+550 kg/m3
+23,53%
+15%
+560 kg/m3
+28,11%
+20%
+500 kg/m3
+8,35%
+              Absorção de Água 24h 91,69% 107,90% 84,69%
+     MOE 1652 MPa 2188 MPa 2914 MPa
+     MOR 4,88 MPa 6,21 MPa 8,47 MPa
+     Tração 0,190 MPa 0,211 MPa 0,232 MPa
+ Fonte: Faria et al., 2018.
+Os resultados contidos nas Tabelas 8 a 13 serão utilizados no tópico Resultados e Discussões para comparação com os resultados dos ensaios físico-mecânicos realizados no compósito polimérico bioinspirado.
+2.5 MATERIAIS
+2.5.1 Bagaço de Cana-de-Açúcar
+A cultura da cana-de-açúcar para o processo de produção de açúcar e álcool produz matéria prima que em tempos passados eram considerados resíduos a serem descartados no meio ambiente. Hoje, resíduos como o bagaço, vinhoto ou vinhaça, torta de filtro e levedura são aproveitados na produção, reduzindo os custos através da substituição de outras matérias primas utilizadas na atividade, principalmente no setor energético (LIMA, 2006).
+Historicamente, a cana-de-açúcar sempre foi um dos principais produtos agrícolas do Brasil e, hoje, o país tem novamente a primeira posição no ranking mundial da cultura. A agroindústria canavieira nacional é tecnicamente qualificada e com os menores custos de produção do mundo, além de contar com bom potencial para aumento da produção (RODRIGUES, 2010).
+O Tocantins durante a safra de cana-de-açúcar de 2017-2018 produziu cerca de 2,188 milhões de toneladas de cana-de-açúcar, não teve nenhuma produção interna de açúcar, 176
+
+milhões de litros de etanol (anidro e hidratado). Tendo pequena participação ainda na produção nacional, que foi de 641,066 milhões de toneladas de cana-de-açúcar, 38,596 milhões de toneladas de açúcar, 27,859 bilhões de litros de etanol (anidro e hidratado) (UNICA, 2018). Porém, demonstrando um crescimento de 2.303% na produção de cana-de- açúcar desde o primeiro registro de safra no Tocantins, safra 2005-2006, e um aumento de 4.400% na produção estadual de etanol (ÚNICA, 2006). O que demonstra a necessidade do reaproveitamento dos resíduos agroindustriais produzidos por este tipo de indústria.
+Aproximadamente 30% da cana-de-açúcar moída é convertida em bagaço, onde uma tonelada de cana-de-açúcar gera cerca de 140 kg de bagaço, dos quais 90% são usados na produção de energia (LIMA, 2006). Apesar desses 90% de bagaço de cana-de-açúcar serem utilizados na produção de energia, cerca de 14kg de bagaço por tonelada ainda é descartado no meio ambiente, no Brasil a safra 2017-2018 produziu 641,066 milhões de toneladas de cana-de-açúcar, totalizando em aproximadamente, 8,974 milhões de kg de bagaço sem destinação específica e descartado na natureza. É necessário que se faça um reaproveitamento de todo esse resíduo gerado pela indústria do açúcar e etanol. Um dos processos fundamentais na transição energética é a possibilidade de produzir e transformar a biomassa de maneira econômica e ambientalmente sustentável (GRASSI; PEREIRA, 2019).
+2.5.2 Resina Poliuretana à Base de Óleo de Mamona
+Segundo a ficha técnica fornecida pela empresa Imperveg (2019), a resina poliuretana à base de óleo de mamona (Imperveg AGT 1315), bi-componente, biodegradável, 100% sólido (isento de solventes) não liberando vapores tóxicos, formulado pela mistura a frio de um pré-polímero (componente A) e um poliol (componente B), resultando em polímeros com diferentes características, de excepcional estabilidade físico-química, elasticidade, impermeabilidade. Apresenta excelente resistência à ação do intemperismo e águas contendo substâncias agressivas como sais, ácidos e álcali.
+Ainda segundo a ficha técnica fornecida pela empresa Imperveg (2019), os compósitos obtidos com esta resina apresentam as seguintes características: alta durabilidade; grande resistência aos raios ultravioleta; estanqueidade a líquidos e gases; excelente penetração nos poros da superfície, garantindo uma boa aderência; e, não apresenta retração volumétrica após a cura. Utilizado como adesivo e aglomerante para formação de compósitos com fibras vegetais, pó de serragem de madeiras, inservíveis e outros. Varia de 10 a 50 % em relação à
+massa do material a ser utilizado, dependendo das características e resistências mecânicas que se queira dar ao compósito.
+2.6 ENSAIOS E ANÁLISE DE CARACTERIZAÇÃO DESSE MATERIAL
+O desempenho dos materiais se relaciona com uma série de características significativas, chamadas de propriedades. Essas propriedades podem ser divididas em três grupos: propriedades físicas, propriedades químicas e propriedades físico-químicas (MANO, 1991).
+Já as propriedades físicas, são subdivididas em propriedades mecânicas, térmicas, elétricas e óticas, que são aquelas que não envolvem qualquer modificação estrutural a nível molecular dos materiais. Quanto as propriedades mecânicas, estas são manifestadas pela capacidade do material de desenvolver deformações reversíveis e irreversíveis, e resistirem às fraturas em resposta às influências mecânicas externas (MANO, 1991).
+2.6.1 Microscopia Eletrônica de Varredura (MEV)
+Segundo Dedavid, Gomes e Machado (2007), a principal função de qualquer microscópio é tornar visível ao olho humano o que for muito pequeno para tal. Um microscópio eletrônico de varredura (MEV) utiliza um feixe de elétrons no lugar de fótons utilizados em um microscópio óptico convencional, o que permite solucionar o problema de resolução relacionado com a fonte de luz branca.
+Pela possibilidade de apresentarem menor comprimento de onda do que os contidos no espectro de luz visível, os elétrons acelerados são capazes de resolver detalhes na superfície de uma amostra, obtendo melhor resolução de imagem do que a gerada em microscopia óptica (ABREUA et al., 2017).
+2.6.2 Tração Perpendicular
+O ensaio de tração, de acordo com a NBR 14810-2 (2018), se inicia com a homogeneização das faces realizando o lixamento, seguido da medição das dimensões da seção transversal dos corpos-de-prova, que devem possuir dimensões de 50x50 mm. Então cola-se o corpo de prova nos blocos de tração pelas superfícies, aplicando pressão moderada, formando o conjunto bloco de tração – corpo de prova – bloco de tração, conforme a Figura 3. Em seguida encaixar o conjunto bloco de tração - corpo de prova - bloco de tração nas garras
+e acionar o equipamento, com uma velocidade de 1 mm/min, até a ruptura do corpo-de-prova, e registrar a carga máxima atingida para romper o corpo-de-prova, expressa em newtons.
+Figura 3 – Esboço de ensaio de tração paralela às fibras.
+FONTE: NBR 14810-2, 2018 (adaptada).
+Então, se calcula a resistência à tração perpendicular, utilizando a Equação 1:
+Equação (1)
+Equação (2)
+Sendo:
+TP → resistência à tração perpendicular (N/mm2); P→carga na ruptura (N);
+S→área da superfície do corpo de prova (mm2); b1→dimensão 1 do corpo de prova (mm); b2→dimensão 2 do corpo de prova (mm).
+O carregamento deve ser monotônico crescente, correspondente a uma taxa de 10 MPa/min.
+2.6.3 Flexão Estática
+Segundo a NBR 14810-2 (2018), para o ensaio de flexão deve-se colocar os extremos do corpo-de- prova sobre os dois apoios da máquina universal de ensaios (Figura 4), sendo
+que o comprimento do vão é de 10 vezes a dimensão da espessura, com comprimento mínimo de 200 mm, de modo que o dispositivo para aplicar a carga coincida com o centro do corpo- de-prova. Previamente à colocação dos corpos-de-prova, medir as dimensões de suas seções transversais, com resolução de 0,1 mm.
+Figura 4 - Forma de colocação do corpo-de-prova sobre os apoios da máquina universal de ensaios.
+ Fonte: NBR 14810-2, 2018.
+A velocidade de avanço a ser utilizada é determinada conforme à espessura do
+material ensaiado como mostra a tabela 14.
+Tabela 14 - Velocidade de avanço a ser utilizada, em relação à espessura do material ensaiado.
+ESPESSURA VELOCIDADE mm mm/min
+≤6 3 > 6 e ≤ 12 6 > 12 e ≤ 18 7 > 18 e ≤ 25 9
+> 25 12
+Fonte: NBR 14810-2, 2018.
+Após a realização do ensaio, calcular a resistência à flexão do corpo-de-prova através da Equação 3:
+Equação (3)
+Sendo:
+MOR → módulo de ruptura (MPa);
+P→carga de ruptura (N);
+                 
+D→distância entre apoios do aparelho (mm); B→largura do corpo de prova (mm);
+E→espessura média tomada em três pontos do corpo de prova (mm).
+Então, calcular o módulo de elasticidade do corpo-de-prova através da Equação 4: Equação (4)
+Sendo:
+MOE → módulo de elasticidade (MPa);
+P1→carga no limite (N);
+D1→distância entre apoios do aparelho (mm); d→deflexão (mm);
+B→largura do corpo de prova (mm);
+E→espessura média tomada em três pontos do corpo de prova (mm).
+O resultado deve ser expresso com exatidão de 0,1 MPa para o MOR e de 100 MPa para o MOE.
+2.6.4 Densidade
+Segundo a NBR 14810-2 (2018), define que o ensaio de densidade se inicia com a determinação da massa dos corpos de prova individualmente e registrar os valores medidos com precisão de 0,1 g, e determinar as dimensões dos corpos de prova individualmente. Utilizando um micrômetro ou outro instrumento equivalente, medir a espessura (e) dos corpos de prova individualmente. A espessura deve ser medida no ponto de interseção das diagonais de cada corpo de prova, e medir b1 e b2, em dois pontos paralelos às extremidades dos corpos de prova, conforme ilustrado na Figura 5.
+Figura 5 – Esquema de medição para ensaio de Densidade.
+Fonte: NBR 14810-2, 2018.
+Para então realizar o cálculo da densidade do corpo de prova, da Equação 5:
+Equação (5)
+Sendo:
+D → densidade do corpo de prova (m3);
+M→massa do corpo de prova (g). Equação (6)
+Sendo:
+V → volume do corpo de prova (mm3);
+L→largura do corpo de prova (mm);
+C → comprimento do corpo de prova (mm); E→espessura do corpo de prova (mm).
+O resultado deve ser a média das densidades dos corpos-de-prova ensaiados, expressos em kg/m3, com exatidão de 1 kg/m3.
+2.6.5 Teor de Umidade
+Segundo a NBR 14810-2 (2018), o primeiro passo para o ensaio de teor de umidade é pesar os corpos-de-prova individualmente, com resolução de 0,1 g, e anotar os dados como sendo massa úmida (MU). Colocar os corpos-de-prova em estufa mantida a (103 ± 2) °C até obter-se massa constante. Esta deve ser considerada constante quando, passadas 6 h da introdução na estufa, a massa não variar mais que 0,1%. Após terem esfriado em dessecador, pesar individualmente os corpos-de-prova com resolução de 0,1 g, anotando-os como massa seca (MS). Para o cálculo da porcentagem do teor de umidade, utilizar a Equação 7:
+Equação (7)
+Sendo:
+U → umidade residual do corpo de prova (%);
+MU→massa úmida do corpo de prova (g); MS → massa seca do corpo de prova (g).
+O resultado deve ser referente à média dos corpos-de-prova analisados, expresso em porcentagem, com exatidão de 0,1%.
+2.6.6 Inchamento por 24 h e Absorção de Água por 24h
+A NBR 14810-2 (2018), define que o ensaio de inchamento por 24h se inicia com a retirada de dez corpos de prova medindo, 50x50 mm, devem ser extraídos do painel de madeira, seguido da identificação dos corpos de prova, para determinar a espessura com resolução de 0,1 mm. Após colocar os corpos de prova imersos em recipiente com água deionizada, a uma temperatura de 20 oC, de modo que o nível da água esteja cerca de 25 mm acima da superfície superior do corpo de prova. Decorrido um período de 24 h ± 36 min de imersão, retirar corpo de prova do recipiente e remover excesso de água com papel absorvente, medir espessura novamente. Para cálculo do Inchamento por 24 h, utiliza-se a Equação 8:
+Equação (8)
+Sendo:
+I(%) → inchamento do corpo de prova por 24h (%);
+E1→espessura do corpo de prova após o período de imersão de 24h (mm); E0 → espessura do corpo de prova antes da imersão (mm).
+Onde E1 é a espessura do corpo de prova após o período de imersão considerado, expressa em milímetros (mm); E0 é a espessura do corpo de prova antes da imersão, expressa em milímetros (mm). O resultado é a média dos inchamentos dos corpos de prova analisados, expresso em porcentagem, com precisão de 0,1 %.
+Para o ensaio de Absorção de Água usa-se o mesmo procedimento do ensaio de Inchamento por 24 h, diferindo apenas pela pesagem dos corpos de prova antes e após a imersão. Calcula-se a absorção de água pela Equação 9:
+Equação (9)
+Sendo:
+AB(%) → absorção de água do corpo de prova por 24h (%);
+M1→peso do corpo de prova após o período de imersão de 24h (g); M0 → peso do corpo de prova antes da imersão (g).
+O resultado é a média dos resultados dos corpos de prova analisados para absorção de água, expresso em porcentagem, com precisão de 0,1 %.
+3. MATERIAIS E MÉTODOS
+Neste tópico são especificados os materiais e métodos deste trabalho. Desse modo, o capítulo aborda os seguintes assuntos: os materiais (bagaço de cana-de-açúcar e resina poliuretana à base de óleo de mamona); métodos utilizados e condução do experimento (descrição da fabricação do material compósito bioinspirado); e os procedimentos de caracterização físico-mecânica.
+3.1 MATERIAIS
+O resíduo da cana-de-açúcar utilizado foi o bagaço, que é resultante da moagem no processo de extração do caldo para a fabricação do açúcar e álcool. Este material foi recolhido na feria livre de Paraíso do Tocantins entre os feirantes que vendem caldo de cana-de-açúcar. Após seu recolhimento, o bagaço de cana-de-açúcar foi seco a uma temperatura de 60 °C durante 48 horas em estufa, para retirada da umidade e evitar que o bagaço apodrecesse. Em seguida, foi realizada a trituração do bagaço de cana-de-açúcar em moinho de facas utilizando peneira de mesh 20, que possui abertura de 0,841 mm, sendo as fibras que passaram as utilizadas no presente trabalho.
+A resina utilizada foi a poliuretana à base de óleo de mamona, tipo Imperveg AGT 1315, fornecida pela empresa Imperveg localizada na cidade de Aguaí – SP. Esta resina é fornecida em dois componentes A e B, sendo a resina o componente A e o reagente o componente B, que devem ser misturados na proporção de 1:1,5 (uma parte do componente A + uma parte e meia do componente B, em volume respectivamente). Após a mistura o tempo de trabalho gira em torno de 15 minutos, quando a resina entra no ponto de gel dificultando o manuseio do material, gerando consequentemente perdas. Possui consistência fluída, cor após cura âmbar, resistência ao calor, não libera elementos tóxicos, com secagem ao toque entre 60 e 90 minutos dependendo da temperatura ambiente, tempo mínimo de retirada do molde de 6 horas e tempo de cura e manuseio de 24 horas.
+3.2 MÉTODOS
+Os ensaios de densidade, teor de umidade, inchamento em espessura por 24h e absorção de água por 24h, foram realizados no Laboratório de Materiais Compósitos (LMC) da Universidade Federal do Tocantins. A realização dos ensaios de tração e flexão
+aconteceram no Laboratório de Materiais de Construção da Universidade Federal do Tocantins, e a análise de microscopia eletrônica de varredura (MEV) foi realizado no Laboratório Multiusuário de Microscopia de Alta Resolução da Universidade Federal de Goiás.
+Foi utilizado o método de pesquisa exploratória com a finalidade de relacionar a pesquisa teórica com experimentações práticas, ao realizar ensaios de caracterização de um material compósito bioinspirado com diferentes porcentagens de adição de fibra de bagaço de cana-de-açúcar a resina poliuretana à base de óleo de mamona e, analisar os resultados obtidos. O estudo terá caráter essencialmente quantitativo, expresso em números com a utilização de gráficos e tabelas, com ênfase na observação e estudo prático.
+As porcentagens mais utilizadas dentre os trabalhos acadêmicos na mesma linha de pesquisa de compósitos de resina e fibra vegetal são entre 10% a 30% de adição da fibra vegetal a resina, sendo encontrado também em outras proporções para mais ou para menos. Como objeto empírico, foram escolhidas cinco porcentagens de adições de fibra de bagaço de cana-de-açúcar, misturadas à resina poliuretana à base de óleo de mamona, sendo as porcentagens de 10%, 20%, 30%, 40% e 50%.
+Segundo a NBR 14810-2 (2018), são necessários 10 corpos de prova para execução dos ensaios de tração e flexão. Entretanto, mediante ao prazo para execução dos mesmos, reduziu-se o número de corpos de prova para 03 unidades para cada porcentagem de adição de fibra de bagaço de cana-de-açúcar, por meio da metodologia da triplicata para os ensaios de tração e flexão. Outros estudos sobre compósitos fabricados a partir de resina e fibra vegetal também tiveram como referência a NBR 14810-2, e adotaram variadas quantidades de corpos de prova para amostragem, como Belini et al. (2014) que utilizou 3 (três) repetições, Santos et al. (2013) utilizou 4 (quatro) repetições, Belini et al. (2015) utilizou 3 (três) repetições, Silva et al. (2019) utilizou 5 (cinco) repetições, Sousa (2013) utilizou 9 (nove) repetições, Rocha (2016) utilizou 6 (seis) repetições, Barros Filho (2019) utilizou 3 (três) repetições.
+Portanto, o método de repetição utilizado no presente trabalho é chamado de triplicata, uma vez que, cada processo para cada porcentagem de adição de fibra, foi repetido por três vezes, portanto, cada porcentagem de adição de fibra, possui três placas e dessas três placas derivou-se as três amostras para os ensaios de tração e flexão, retiradas de locais diferentes em cada placa e sendo uma amostra por placa. Para o ensaio de densidade, foram utilizadas 10 unidades de corpos de prova conforme NBR 14810-2 (2018) indica e para os ensaios de teor de umidade, inchamento e absorção de água por 24h, foram utilizados 09 corpos de prova.
+3.3 CONDUÇÃO DO EXPERIMENTO
+Foram realizadas produções preliminares para adaptação da metodologia do compósito, utilizando a resina poliuretana à base de óleo de mamona e a fibra de bagaço de cana-de-açúcar para observação do comportamento do material e só então determinação de quantidades utilizadas. Fabricados primeiramente pequenos corpos de prova de tamanho 4x3x2 cm, sem prensagem, misturado manualmente a resina poliuretana à base de óleo de mamona as diferentes porcentagens de adição de fibra de bagaço de cana-de-açúcar, os corpos de provas obtidos, não possuíam vazios como havia sido identificada a necessidade, para obtenção de um material com baixa densidade, assim como as madeiras naturais.
+Então, decidiu-se utilizar um bagaço de cana-de-açúcar úmido, permanecendo imerso em água por pelo menos 48h, para então retirar o excesso de água, e sendo misturado a resina poliuretana à base de óleo de mamona, manualmente, e sem prensagem. O material obtido, foi mais leve do que o obtido anteriormente, formando vazios. Observou-se também que durante a cura a frio da resina misturada a fibra, o material borbulhava e inchava até atingir o ponto de início de endurecimento. Foi determinado que o material deveria ser prensado em prensa hidráulica com força de 0,5 toneladas, para controle do inchamento e aumentar a homogeneidade entre resina e fibra e a utilização do liofilizador para retirada da umidade das placas, com vácuo a uma pressão em torno de 1500 μHg, condensação com uma temperatura média de -30 °C, durante 48 horas.
+3.3.1 Fabricação do Compósito Polimérico Bioinspirado
+O molde escolhido para produção das placas para retirada de amostras dos ensaios de tração, umidade e densidade, foi de dimensões 20x20x3 cm, de metal, com as laterais removíveis para maior facilidade de retirada da placa. Tais dimensões de molde foram necessárias, uma vez que é suficiente para retirada de uma amostra de cada placa para cada ensaio, e o liofilizador comporta amostras de até 15 cm, fazendo-se necessário ensaios de caracterização que exigissem corpos de prova de no máximo essa dimensão de comprimento.
+Para o ensaio de flexão e análise de Microscopia Eletrônica de Varredura (MEV), os corpos de prova foram feitos separadamente, uma vez que era necessária uma amostra de até 5 mm de espessura, para que pudesse reduzir o comprimento, destinada ao ensaio de flexão, para 15 cm, conforme NBR 14810-2 (2018), possibilitando a inserção da amostra na câmara de vácuo do liofilizador. A análise de MEV, exige uma amostra de menores dimensões, então
+optou-se por retirá-las desses corpos de prova de menor espessura. O molde para o ensaio de flexão e análise de MEV possui dimensões de 25x15x2 cm.
+Como na fabricação preliminar das placas observou-se que a resina poliuretana à base de óleo de mamona misturada a fibra de bagaço de cana-de-açúcar reagia de forma a expandir em até 50% do volume original, variando conforme porcentagem de adição de fibra, e o molde tendo capacidade de até 1.200 ml, optou-se por padronizar o volume por corpo de prova em 600 ml para o molde de dimensões 20x20x3 cm. Já para o molde dos corpos de prova para o ensaio de flexão e análise de MEV, de dimensões 25x15x2 cm, foi utilizado um volume de 75 ml, uma vez que, mesmo com a expansão do material, não ultrapassaria o valor máximo da espessura determinada em norma, NBR 14810-2 (2018), de 5 mm para amostras com comprimento de 15 cm.
+Para início do experimento, com a fibra de bagaço de cana-de-açúcar seca e moída, submergia-se a fibra em água por no mínimo 48h, para só então ser utilizada na produção das placas, e era previamente retirado o excesso de umidade utilizando uma peneira. Com a fibra pronta, revestia-se o molde com uma camada de papel alumínio e duas camadas de papel filme, uma vez que, quanto menor a porcentagem de adição de fibra, mais fluída era mistura de resina e fibra, podendo vazar pelo molde, e por ser muito aderente ao toque, para não ocorrer de colar no mesmo, danificando assim a placa.
+Com fibra e molde preparados, iniciava-se o processo de mistura entre a resina poliuretana à base de óleo de mamona e a fibra de bagaço de cana-de-açúcar. A resina é composta por dois componentes, A e B, e seguindo orientações do fabricante, a proporção utilizada dos componentes é de 1:1,5, respectivamente. Os dois componentes eram medidos em becker graduado, e misturados na batedeira (de uso doméstico) em velocidade baixa por 1 (um) minuto, tempo necessário para que a mistura dos dois componentes se tornasse homogênea. Então, era misturada a fibra a resina de forma manual e delicada com uma colher, para que a água presente na fibra não se desprendesse, por 2 minutos, tempo suficiente para que a mistura se tornasse homogênea.
+Seguia-se de despejar a mistura de fibra e resina no molde revestido, deixando-a reagir e endurecer por aproximadamente 2h, para só então ser prensada, devido sua fluidez. Durante esse tempo, a fibra de bagaço de cana-de-açúcar úmida reagia com a resina poliuretana à base de óleo de mamona, expandindo e borbulhando, gerando vazios. Essa reação inicia-se após 10
+minutos de misturar a fibra úmida a resina, e vai até 60 minutos depois da mistura, quando ela começa o processo de endurecimento.
+O molde com a mistura de resina e fibra, era levado a prensa hidráulica, para ser prensada a 0,5t por uma hora, para melhor homogeneidade entre os materiais, mas não mais que isso, para não prejudicar o surgimento de vazios. Após uma hora de permanência do molde na prensa hidráulica, era retirado e deixado reagir e endurecer no molde por mais 24h. Então era retirado do mesmo, e deixado descansar por no mínimo mais 48h, para só então ser manuseado.
+Os percentuais de adição de fibra de bagaço de cana-de-açúcar são referentes ao volume da resina poliuretana à base de óleo de mamona (componente A + componente B). Segue na Tabela 15, as proporções de cada material nas placas de diferentes porcentagens de adição de fibra de bagaço de cana-de-açúcar para os ensaios tração, densidade e teor de umidade (placa produzida de dimensões 20x20 cm).
+Tabela 15 – Proporções de cada material nas placas de diferentes porcentagens de adição de fibra de cana-de- açúcar para os ensaios de compressão, tração, umidade e densidade.
+    ADIÇÃO DE FIBRA DE CANA-DE-AÇÚCAR (%)
+10% 20% 30% 40% 50%
+PESO DA FIBRA DE BAGAÇO DE CANA-DE-AÇÚCAR (g)
+            60g
+            120g
+            180g
+            240g
+            300g
+FONTE: Própria, 2020.
+COMPONENTE A (ml)
+216 ml 192 ml 168 ml 144 ml 120 ml
+COMPONENTE B (ml)
+324 ml 288 ml 252 ml 216 ml 180 ml
+                     Segue na Tabela 16, as proporções de cada material nas placas de diferentes porcentagens de adição de fibra de bagaço de cana-de-açúcar para o ensaio de flexão e análise de MEV (placa produzida de dimensões 25x15 cm).
+
+Tabela 16 – Proporções de cada material nas placas de diferentes porcentagens de adição de fibra de cana-de- açúcar para o ensaio de flexão e análise de MEV.
+    ADIÇÃO DE FIBRA DE CANA-DE-AÇÚCAR (%)
+10% 20% 30% 40% 50%
+PESO DA FIBRA DE BAGAÇO DE CANA-DE-AÇÚCAR (g)
+7,5g 15g 22,5g 30g 37,5g
+FONTE: Própria, 2020.
+COMPONENTE A (ml)
+27 ml 24 ml 21 ml 18 ml 15 ml
+COMPONENTE B (ml)
+40,5 ml 36 ml 31,5 ml 27 ml 22,5 ml
+                      Todos os materiais foram pesados, medidos e misturados rigorosamente para obter sempre as mesmas condições de fabricação para todas as placas, em busca da menor variação possível entre os corpos de prova. Foram obtidas então, placas de dimensões 20x20 cm com variação na espessura, para retirada das amostras para ensaios de compressão, tração, umidade e densidade. Segue na Tabela 17, a espessura de cada placa produzida de dimensões 20x20 cm.
+Tabela 17 – Espessura de cada placa produzida de dimensões 20x20 cm.
+  ADIÇÃO DE FIBRA DE CANA- DE-AÇÚCAR (%)
+N1 10% N2 10% N3 10% N1 20% N2 20% N3 20% N1 30% N2 30% N3 30% N1 40% N2 40% N3 40% N1 50% N2 50% N3 50%
+ESPESSURA (mm)
+27 mm 28 mm 39 mm 32 mm 41 mm 33 mm 24 mm 32 mm 30 mm 23 mm 27 mm 31 mm 20 mm 21 mm 18,5 mm
+                                FONTE: Própria, 2020.
+Nas placas de dimensões 25x15 cm obtidas, houve variação na espessura também, para retirada de amostras para o ensaio de flexão e análise de MEV. Segue na Tabela 18, a espessura de cada placa produzida de dimensões 25x15 cm.
+
+Tabela 18 – Espessura de cada placa produzida de dimensões 25x15 cm.
+  ADIÇÃO DE FIBRA DE CANA- DE-AÇÚCAR (%)
+N1 10% N2 10% N3 10% N1 20% N2 20% N3 20% N1 30% N2 30% N3 30% N1 40% N2 40% N3 40% N1 50% N2 50% N3 50%
+ESPESSURA (mm)
+3,5 mm 4 mm 4,1 mm 4,8 mm 4,4 mm 4,5 mm 4,7 mm 4,5 mm 3,9 mm 4,2 mm 4,4 mm 4,7 mm 4,5 mm 4,1 mm 4,3 mm
+                                FONTE: Própria, 2020.
+Os corpos de prova foram marcados nos painéis, possuindo dimensões de 50x50 mm os corpos de prova para ensaios de tração, densidade e umidade, dimensões de 150x50 mm os corpos de prova para ensaio de flexão, conforme exigido pela NBR 14810:2 (2018) e de 10x10 mm os corpos de prova para análise de MEV. Com todos os painéis marcados, foi iniciada a etapa de corte com o auxílio da Serra Tico Tico para realizar um corte limpo e retilíneo (Figura 6).
+Figura 6 – Placas sendo cortadas com auxílio de Serra Tico Tico.
+FONTE: Própria, 2020.
+Imediatamente após o corte das placas, todos os corpos de prova foram pesados em
+balança de precisão para realizar comparação de peso antes e após a liofilização, a fim de mensurar a perca de água dos corpos de prova após o procedimento. Para iniciar o processo de
+ 
+liofilização, o material precisa estar congelado, portanto, todos os corpos de prova foram congelados em freezer com temperatura mínima de -10oC por 72h para serem levados para a câmara de vácuo do liofilizador imediatamente após a retirada do freezer (Figura 7).
+Figura 7 – Corpos de prova posicionados no liofilizador.
+FONTE: Própria, 2020.
+Os corpos de prova permaneceram na câmara de vácuo por 48h, uma vez que, o processo de liofilização ocorre de forma lenta. Após as 48h, os corpos de prova foram retirados da câmara a vácuo e pesados em balança de precisão para análise quantitativa de água retirada do material durante o processo de liofilização. O liofilizador utilizado modelo Interprise I da marca Terroni. Todos os corpos de provas prontos, foram iniciados as análises e ensaios físico-mecânicos.
+3.3.2 Ensaios Físico-Mecânicos
+3.3.3.1 Densidade
+O ensaio de densidade foi realizado em corpos de prova (CP) com dimensões 50x50 mm, com 10 CPs conforme indica a NBR 14810-2 (2018). Inicialmente todos os CPs foram
+identificados, marcados conforme a Figura 8, para realizar a medição da espessura, e das dimensões b1 e b2 com paquímetro digital.
+Figura 8 – Corpos de prova marcados para ensaio de densidade.
+FONTE: Própria, 2020.
+Após a medição foi realizada a pesagem dos corpos de prova individualmente, em
+balança eletrônica de precisão 0,01g modelo AD3300 Marte.
+A densidade foi calculada para cada corpo de prova individualmente, para então calcular a média da densidade para cada porcentagem de adição de fibra de bagaço de cana- de-açúcar em planilha no programa Excel.
+3.3.3.2 Teor de Umidade
+O ensaio de teor de umidade foi realizado conforme a NBR 14810-2 (2018), onde foram pesados os corpos de prova em balança eletrônica de precisão 0,01g modelo AD3300 Marte (Figura 14) anterior a secagem em estufa. Então foram colocados os corpos de prova em estufa com controle da tempera em (103 ± 2) °C, repetindo a pesagem a cada 6h até que a massa dos CPs não variasse mais do que 0,1% de uma pesagem para outra.
+Após terem esfriado em dessecador, os CPs foram pesados individualmente e foi calculado o teor de umidade para cada corpo de prova individualmente, para então calcular a média do teor de umidade para cada porcentagem de adição de fibra de bagaço de cana-de- açúcar em planilha no programa Excel.
+3.3.3.3 Inchamento por 24h e Absorção De Água por 24h
+Para o ensaio de inchamento por 24h, os CPs foram confeccionados com dimensões 50x50 mm, utilizando 10 unidades para cada porcentagem de adição de fibra de bagaço de cana-de-açúcar. Na sequência, os CP foram inseridos em um recipiente com água destilada (a 20oC), conforme recomendações do documento normativo NBR 14810-2 (2018), garantindo que o nível da água estivesse cerca de 25 mm acima da superfície superior do CP. A massa e a espessura dos CPs foram determinadas antes de realizar a imersão e após 24h ± 36 min de imersão, utilizando-se a mesma balança eletrônica de precisão 0,01g modelo AD3300 Marte da Figura 14 e o mesmo paquímetro digital da Figura 13.
+Foi calculada o inchamento e absorção de água por 24h para cada corpo de prova individualmente, para então calcular a média do inchamento e absorção de água por 24h para cada porcentagem de adição de fibra de bagaço de cana-de-açúcar em planilha no programa Excel.
+3.3.3.4 Tração Perpendicular
+O ensaio de tração realizado, foi o perpendicular, com o objetivo de avaliar o comportamento do compósito sob uma força de tração, a fim de se calcular a resistência a tração perpendicular, ou a adesão interna entre resina e fibra. A análise foi feita a fim de comparar os resultados do ensaio de tração, para analisar em qual percentual de adição de fibra de bagaço de cana-de-açúcar o compósito apresenta maior resistência.
+Os ensaios de tração foram realizados com três corpos de provas para cada formulação, por meio de testes na máquina de ensaios mecânicos marca Quanteq, modelo UTM – Q30.000, operando com célula de carga de 5kN e velocidade de 4mm/min. Os parâmetros utilizados para a realização dos ensaios seguem a norma NBR 14810-2 (2018). Todos os corpos de prova foram colados em blocos de madeira de Jatobá para serem presos as travas da máquina de ensaio, utilizando cola super bonder (Figura 9).
+Figura 9 – Corpo de prova posicionado na máquina para ensaio de tração perpendicular.
+FONTE: Própria, 2020.
+Após a realização do ensaio, foi calculada a resistência à tração do corpo-de-prova através da
+ Equação 1:
+ Equação (1)
+Equação (2)
+Sendo:
+TP → resistência à tração perpendicular (N/mm2); P→carga na ruptura (N);
+S→área da superfície do corpo de prova (mm2); b1→dimensão 1 do corpo de prova (mm); b2→dimensão 2 do corpo de prova (mm).
+ 3.3.3.5 Flexão Estática
+O ensaio de flexão realizado, foi o de três pontos, flexão estática, com o objetivo de avaliar o comportamento do compósito sob uma força de flexão, a fim de se calcular o
+
+módulo de ruptura na flexão, e o módulo de elasticidade. A análise foi feita com o intuito de comparar os resultados do ensaio de flexão, para analisar em qual percentual de adição de fibra de bagaço de cana-de-açúcar o compósito apresenta maior resistência.
+Os ensaios de flexão foram realizados, com três corpos de provas para cada formulação, por meio de testes na máquina de ensaios mecânicos marca Quanteq, modelo UTM – Q30.000, operando com célula de carga de 5kN, velocidade de 3 mm/min e uma distância entre apoios de 100 mm (Figura 10). Módulo de ruptura (MOR), módulo de elasticidade (MOE) e resistência a flexão, foram determinados. Os parâmetros utilizados para a realização dos ensaios seguem a norma NBR 14810-2 (2018).
+Figura 10 – Ensaio de Flexão Estática.
+FONTE: Própria, 2020.
+Após a realização do ensaio, foi calculada o módulo de ruptura através da Equação 3 e o
+módulo de elasticidade através da Equação 4:
+Equação (3)
+Sendo:
+MOR → módulo de ruptura (MPa);
+P→carga de ruptura (N); D→distância entre apoios do aparelho (mm);
+B→largura do corpo de prova (mm);
+E→espessura média tomada em três pontos do corpo de prova (mm).
+Equação (4)
+Sendo:
+MOE → módulo de elasticidade (MPa);
+P1→carga no limite (N);
+D1→distância entre apoios do aparelho (mm); d→deflexão (mm);
+B→largura do corpo de prova (mm);
+E→espessura média tomada em três pontos do corpo de prova (mm).
+3.3.3 Análise de Microscopia Eletrônica de Varredura (MEV)
+A Microscopia Eletrônica de Varredura (MEV) foi realizada no Laboratório Multiusuário de Microscopia de Alta Resolução (LabMic) da Universidade Federal de Goiás (UFG), para analisar a microestrutura do material, dispersão da fibra na resina e interação entre matriz e fibra.
+4. RESULTADOS E DISCUSSÕES
+Segue na Tabela 19 referências de trabalhos acadêmicos sobre compósitos fabricados a partir de resina misturada a fibra vegetal e a faixa de adição de fibra vegetal em porcentagem.
+Tabela 19 – Faixa de adição de fibra vegetal a resina mais utilizada em trabalhos acadêmicos sobre compósitos.
+  AUTOR
+Pereira (2015)
+Quinayá (2017)
+Benini (2011)
+Silva et al. (2019) Sousa (2013) Própria (2020)
+Fonte: Própria, 2020.
+FAIXA DE ADIÇÃO DE
+FIBRA VEGETAL (%)
+10% a 30%
+10% a 30%
+10% a 30%
+10% a 30% 25% a 55% 10% a 50%
+                 A partir desses dados foram utilizadas adições de 10%, 20%, 30%, 40% e 50% de bagaço de cana-de-açúcar em relação ao peso da resina poliuretana à base de óleo de mamona. Todos os percentuais de adição de fibra de bagaço de cana-de-açúcar são apresentados na Figura 11, onde pode-se observar e comparar homogeneidade, índice de vazios e espessura entre eles.
+
+Figura 11 – Perfil dos corpos de prova de 50%, 40%, 30%, 20% e 10% de adição de fibra de bagaço de cana-de- açúcar.
+FONTE: Própria, 2020.
+É possível observar que quanto menor a quantidade de adição de fibra de bagaço de cana-de-açúcar a resina poliuretana à base de óleo de mamona, menos homogênea é a mistura entre elas, uma vez que, o processo de expansão e borbulhamento que gera os vazios, empurra a fibra para a parte superior da placa, sendo visível a divisão entre a fibra e a resina após a cura. Essa segregação se torna leve e quase imperceptível a partir da porcentagem de adição de fibra de bagaço de cana-de-açúcar de 30%.
+4.1 CARACTERIZAÇÃO FÍSICA
+4.1.1 Densidade
+Após a realização do ensaio de densidade para cada porcentagem de adição de fibra de bagaço de cana-de-açúcar, foram calculadas as densidades dos corpos de prova individualmente e a média para cada nível de adição.
+A Tabela 20 apresenta os resultados para a média de densidade, dimensões, volume e massa de cada percentual de adição de fibra de bagaço de cana-de-açúcar, e a variação percentual da densidade em relação a média (D%).
+Tabela 20 – Resultados de densidade para cada percentual de adição de fibra de
+bagaço de cana-de-açúcar.
+        CORPO DE PROVA
+CP10% CP20% CP30% CP40% CP50%
+b1 b2 (mm) (mm)
+48,6 49,2 49,2 49,9 48,6 49,3 49,4 49,1 49,1 49,3
+e (mm)
+30,8 34,4 29,3 27,7 19,5
+V (mm3)
+73439,44 84228,51 70156,49 67316,50 47083,52
+2020.
+M D D% (g) (kg/m3)
+31,04 429,42 9,74 26,26 314,87 6,94 24,36 350,09 7,20 23,72 355,27 7,06 18,58 395,14 1,95
+                                         FONTE: Própria,
+Segundo a NBR 14810-2 (2018) que trata de chapas de madeira aglomerada de média densidade a densidade média deve situar-se entre 551-750 kg/m3, e a densidade para todos os percentuais de adição de fibra de bagaço de cana-de-açúcar é igual estão abaixo do intervalo indicado pela norma, caracterizando o material compósito bioinspirado como de baixa densidade.
+Segundo a autora Sousa (2013), a densidade média da resina poliuretana à base de óleo de mamona pura, sem adição de fibras vegetais, é de 1086 kg/m3, esse valor será utilizado para comparação com as densidades dos diferentes percentuais de adição de fibra de cana-de-açúcar como Dméd 0%.
+Segue no Gráfico 1, a comparação entre as densidades médias da resina poliuretana à base de óleo de mamona pura (Dméd 0%) conforme apresentado pela autora Sousa (2013) em seu trabalho científico, percentual de 10% de adição de fibra de bagaço de cana-de-açúcar (Dméd 10%), percentual de 20% de adição de fibra de bagaço de cana-de-açúcar (Dméd 20%), percentual de 30% de adição de fibra de bagaço de cana-de-açúcar (Dméd 30%), percentual de 40% de adição de fibra de bagaço de cana-de-açúcar (Dméd 40%), percentual de 50% de adição de fibra de bagaço de cana-de-açúcar (Dméd 50%).
+
+Gráfico 1 – Densidade básica para cada percentual de adição de fibra de bagaço de cana-de-açúcar (0%, 10%, 20%, 30%, 40% e 50%).
+FONTE: Própria, 2020.
+A partir do Gráfico 1, observa-se que a variação em percentual da densidade média dos diferentes percentuais de adição de fibra de cana-de-açúcar em relação a resina poliuretana à base de óleo de mamona pura está entre 60,46% e 71,01% para menos, sendo indicada esta adição de fibra para obtenção de um material mais leve. É demonstrado também que a Dméd 10% é a maior em relação aos diferentes percentuais de adição de fibra de bagaço de cana-de-açúcar, e a Dméd 20% sendo a mais leve. Este fato aconteceu para o percentual de 20% de adição de fibra de bagaço de cana-de-açúcar devido à uma maior interação entre resina e água presente na fibra, resultando em um inchamento durante a secagem maior dentre todas as adições e um maior índice de vazios. A partir da Dméd 30%, é possível identificar uma estabilização da interação entre a resina e a água presente na fibra de bagaço de cana-de- açúcar, aumentando levemente a densidade a partir desse percentual de adição, uma vez que o inchamento durante a secagem diminuiu gradualmente ocorrendo a diminuição da espessura dos CPs.
+Como em todas porcentagens de adição de fibra de bagaço de cana-de-açúcar foram obtidas baixas densidades e no Brasil não há norma regulamentadora para painéis aglomerados de baixa densidade, os resultados serão comparados com as recomendações que constam na norma CS 236 (1966), norma de comercialização norte americana, que trata de painéis aglomerados de baixa, média e alta densidade, e é amplamente utilizada em trabalhos científicos que estudam painéis aglomerados de baixa densidade. A norma CS 236 (1966)
+indica que painéis aglomerados com densidade abaixo de 600 kg/m3 são considerados de baixa densidade.
+Outros trabalhos acadêmicos, pesquisados e relacionados no referencial teórico, sobre painéis aglomerados de baixa densidade obtiveram os resultados para densidade nos intervalos que estão contidos na Tabela 21.
+Tabela 21 – Resultados dos intervalos de densidade encontrados por cada autor. AUTOR D
+    Soares et al. (2017)
+Cravo et al. (2015) Guimarães Junior et al. (2016) Battistelle, Marcilio e Lahr (2009) Faria et al. (2018)
+(kg/m3)
+520 - 550 503,04 – 542,06 440 - 480 560 - 610 500 - 560
+         FONTE: Própria, 2020.
+As densidades médias (Dméd) encontradas no presente trabalho (Gráfico 1), estão bem abaixo das densidades relatadas pelos autores relacionados, a não ser pelo autor Guimarães Junior et al. (2016), onde utilizou apenas bagaço de sorgo, que possui resultados muito próximos aos compósitos poliméricos bioinspirados. Isso se deve ao fato dos demais trabalhos relacionados, associarem algum tipo de partícula de madeira a fibra lignocelulósica, aumentando o resultado de suas densidades. Portanto, painéis aglomerados que utilizem apenas fibras lignocelulósicas, tendem a ter menores densidades.
+Apesar das densidades médias (Dméd) do presente trabalho serem semelhantes ao do autor Guimarães Junior et al. (2016), ainda são inferiores ao do citado autor, uma vez que, a água contida na fibra de bagaço de cana-de-açúcar fez com que a resina poliuretana à base de óleo de mamona reagisse, gerando um inchamento durante sua cura, aumentando a espessura e teor de vazios dos painéis e consequentemente, diminuindo sua densidade.
+Já em comparação com a madeira natural, a densidade é considerada a propriedade física mais importante para a caracterização nas indústrias de móveis e chapas, assim como para a construção civil, precisa ser levada em consideração para análise da qualidade de uma madeira (MELO, 2007). Na Tabela 22 é exposto a comparação entre a densidade média (Dméd) das diferentes porcentagens de adição de fibra de bagaço de cana-de-açúcar (compósito polimérico bioinspirado) e a densidade das madeiras naturais que constam no referencial teórico, para madeira verde.
+
+Tabela 22 – Densidade básica dos compósitos poliméricos bioinspirados x densidade básica das madeiras naturais em estado verde.
+      MADEIRA NATURAL (kg/m3)
+Cedro (IPT, 1989) Eucalipto (IPT, 1989) Imbuia (IPT, 1989) Mogno (IPT, 1989) Pinus (IPT, 1989)
+10% 20% (kg/m3) (kg/m3)
+429,42 314,87
+FONTE: Própria, 2020.
+30% (kg/m3)
+350,09 440 420 540 520 400
+40% (kg/m3)
+355,27
+50% (kg/m3)
+395,14
+                    Ao compararmos as densidades dos compósitos poliméricos bioinspirados com as densidades das madeiras naturais em seu estado verde, pode-se observar a semelhança entre as densidades das madeiras de Cedro, Eucalipto e Pinus e das diferentes porcentagens de adição de fibra de bagaço de cana-de-açúcar das madeiras poliméricas bioinspiradas, especificamente, possuindo mais proximidade com as porcentagens de adição de 10% e 50%. É possível observar também que as madeiras de Cedro, Eucalipto, Imbuia, Mogno e Pinus, possuem baixa densidade (densidade inferior a 600 kg/m3), como todas as porcentagens de adição de fibra de bagaço de cana-de-açúcar dos compósitos poliméricos bioinspirados.
+Na Tabela 23 é exposto a comparação entre a densidade média (Dméd) das diferentes porcentagens de adição de fibra de bagaço de cana-de-açúcar (compósito polimérico bioinspirado) e a densidade das madeiras naturais que constam no referencial teórico, para madeira a 15% de umidade.
+Tabela 23 – Densidade básica dos compósitos poliméricos bioinspirados x densidade básica das madeiras naturais a 15% de umidade.
+      MADEIRA NATURAL (kg/m3)
+Cedro (IPT, 1989) Eucalipto (IPT, 1989) Imbuia (IPT, 1989) Mogno (IPT, 1989) Pinus (IPT, 1989)
+10% 20% (kg/m3) (kg/m3)
+429,42 314,87
+FONTE: Própria, 2020.
+30% (kg/m3)
+350,09 530 500 650 630 480
+40% (kg/m3)
+355,27
+50% (kg/m3)
+395,14
+                    Ao compararmos as densidades dos compósitos poliméricos bioinspirados com as densidades das madeiras naturais a 15% de umidade, pode-se observar a semelhança entre as densidades das madeiras de Cedro, Eucalipto e Pinus e das diferentes porcentagens de adição
+
+de fibra de bagaço de cana-de-açúcar dos compósitos poliméricos bioinspirados, especificamente, possuindo mais proximidade com as porcentagens de adição de 10% e 50%.
+4.1.2 Teor de Umidade
+Foram realizados 02 testes de teor de umidade, um para conhecer o peso antes e após a liofilização para que pudesse ser calculado o teor de umidade nos painéis de compósitos poliméricos bioinspirados que foi retirado do material por meio da liofilização, com o intuito de verificar se a mesma foi eficiente ou não em termos de retirada de umidade, por meio de sublimação da água contida nos corpos de prova. O outro teste foi realizado para conhecer o teor de umidade dos painéis já prontos para utilização.
+Após a realização dos ensaios de teor de umidade para cada porcentagem de adição de fibra de bagaço de cana-de-açúcar, foram calculados os teores de umidade dos corpos de prova individualmente e a média para cada nível de adição.
+A Tabela 24 apresenta os resultados de massa úmida (antes da liofilização), massa seca (após a liofilização) e a média do teor de umidade retirado do material para todos os percentuais de adição de fibra de bagaço de cana-de-açúcar através da liofilização, conforme tratamento de dados indicados pela norma NBR 14810-2 (2018) para este ensaio.
+Tabela 24 – Resultados de teor de umidade retirado dos percentuais de adição de fibra de bagaço de cana-deaçúcar através da liofilização.
+CORPO DE MASSA PRÉ MASSA PÓS U PROVA LIOFILIZAÇÃO LIOFILIZAÇÃO (%)
+        CP10% CP20% CP30% CP40% CP50%
+(g) (g)
+30,93 30,69 0,80 27,44 26,36 3,92 26,20 25,08 4,25
+            27,17 22,84 23,99 18,95
+FONTE: Própria, 2020.
+15,94 20,60
+     A Tabela 25 apresenta os resultados de massa úmida (MU), massa seca (MS) e a média do teor de umidade do compósito polimérico bioinspirado, para cada percentual de adição de bagaço de cana-de-açúcar, pronto para utilização, conforme tratamento de dados indicados pela norma NBR 14810-2 (2018) para este ensaio.
+
+Tabela 25 – Resultados de teor de umidade dos corpos de prova prontos para uso para cada percentual de adição de fibra de bagaço de cana-de-açúcar.
+    CORPO DE PROVA
+CP10% CP20% CP30% CP40% CP50%
+MASSA PRÉ LIOFILIZAÇÃO (g)
+30,69 26,36 25,08 22,84 18,95
+MASSA PÓS U LIOFILIZAÇÃO (%)
+(g)
+30,37 1,03 26,18 0,68 24,89 0,76 22,53 1,37 18,59 1,87
+                     FONTE: Própria, 2020.
+Ao realizar a comparação entre as Tabelas 24 e 25, pode-se perceber que os valores do Uméd que identifica o teor de umidade médio retirado do compósito polimérico bioinspirado através da liofilização e o Uméd do mesmo, pronto para uso são próximos. Para o percentual de 10% de adição de fibra de bagaço de cana-de-açúcar, a liofilização foi capaz de retirar cerca de 43,67% do teor de umidade dos corpos de prova, evidenciando que o processo de liofilização para retirada de água dos corpos de prova não foi eficiente para esse percentual de adição de fibra de bagaço de cana-de-açúcar. A causa da ineficiência da liofilização neste caso, se deve ao baixo teor de umidade contido nos painéis com percentual de adição de bagaço de cana-de-açúcar de 10%, que apresentou pouca água a ser sublimada, uma vez que o teor de umidade total (Uméd antes da liofilização somado ao Uméd após a liofilização) é de 1,83% do peso total do corpo de prova.
+Para os percentuais de 20%, 30%, 40% e 50% de adição de fibra de bagaço de cana- de-açúcar, a liofilização foi capaz de retirar entre 84,82% e 92,09% do teor de umidade dos corpos de prova, evidenciando que o processo de liofilização para retirada de água para esses percentuais de adição de bagaço de cana-de-açúcar foi eficiente.
+Segue no Gráfico 2 a comparação entre os teores de umidade retirados do compósito através da liofilização, para percentual de 10% de adição de fibra de bagaço de cana-de- açúcar (10%), percentual de 20% de adição de fibra de bagaço de cana-de-açúcar (20%), percentual de 30% de adição de fibra de bagaço de cana-de-açúcar (30%), percentual de 40% de adição de fibra de bagaço de cana-de-açúcar (40%), percentual de 50% de adição de fibra de bagaço de cana-de-açúcar (50%).
+
+Gráfico 2 – Teor de umidade retirado do compósito através do processo de liofilização para cada percentual de adição de fibra de bagaço de cana-de-açúcar (10%, 20%, 30%, 40% e 50%).
+FONTE: Própria, 2020.
+A partir da análise do Gráfico 2, é possível identificar que o processo de liofilização é eficaz e significativo a partir do percentual de 20% de adição de fibra de bagaço de cana-de- açúcar. Portanto, para os percentuais estudados de 20% a 50% de adição, a liofilização atendeu ao intuito de retirada da água contida na fibra de bagaço de cana-de-açúcar, evitando que a mesma levasse ao apodrecimento dos painéis.
+Segue no Gráfico 3 a comparação entre os teores de umidade dos corpos de prova prontos para serem utilizados, para percentual de 10% de adição de fibra de bagaço de cana- de-açúcar (10%), percentual de 20% de adição de fibra de bagaço de cana-de-açúcar (20%), percentual de 30% de adição de fibra de bagaço de cana-de-açúcar (30%), percentual de 40% de adição de fibra de bagaço de cana-de-açúcar (40%), percentual de 50% de adição de fibra de bagaço de cana-de-açúcar (50%).
+Gráfico 3 – Teor de umidade do compósito pronto para utilização para cada percentual de adição de fibra de bagaço de cana-de-açúcar (10%, 20%, 30%, 40% e 50%).
+FONTE: Própria, 2020.
+A partir da análise do Gráfico 3, é possível identificar uma tendência para a aumento do teor de umidade para os compósitos com maiores percentuais de adição de fibra de bagaço de cana-de-açúcar, visto que quanto mais fibra era adicionada mais água era adicionado junto a ela. O teor de umidade no percentual de 10% de adição de fibra está fora dessa regra devido a ineficiência do processo de liofilização para esse percentual, causado pela maior quantidade de resina que encapsulou a água contida na fibra de bagaço de cana-de-açúcar, não permitindo a sublimação da mesma.
+A norma CS 236 (1966) não possui o ensaio de teor de umidade, então para esse ensaio físico foi utilizada a NBR 14810:2 (2018) para verificar se os resultados médios obtidos são aceitáveis para painéis aglomerados. A NBR 14810:2 (2018) indica que o teor de umidade deve ficar entre 5% e 13%, os painéis aglomerados fabricados no presente trabalho não estão de acordo com as exigências da referida norma, devido ao processo de liofilização, sendo necessário o ajuste do mesmo
+4.1.3 Inchamento em Espessura e Absorção de Água por 24h
+Após a realização do ensaio de inchamento em espessura e absorção de água por 24h para cada porcentagem de adição de fibra de bagaço de cana-de-açúcar, foram calculados os percentuais de inchamento e absorção de água dos corpos de prova individualmente e a média para cada nível de adição.
+A Tabela 26 apresenta as médias da espessura antes da imersão em água por 24h (E0), espessura após da imersão em água por 24h (E1) e dos resultados de percentual de inchamento em espessura por 24h para todos os percentuais de adição de fibra de bagaço de cana-de-açúcar
+Tabela 26 – Resultados de inchamento em espessura por 24h dos corpos de prova para todos os percentuais de adição de fibra de bagaço de cana-de-açúcar.
+CORPO DE PROVA
+I%
+0,289 0,364 0,566 0,814 1,236
+    E0 E1 (mm) (mm)
+31,63 31,72 34,79 34,91 29,52 29,69 28,11 28,34 19,69 19,93
+FONTE: Própria, 2020.
+    CP10% CP20% CP30% CP40% CP50%
+                 Pode-se perceber por meio dos dados apresentados pela Tabela 26, que o I% indica que todos os percentuais de adição de fibra de bagaço de cana-de-açúcar submetidos ao ensaio de inchamento em espessura por 24h, se mantiveram com percentual abaixo de 30% exigido pela norma CS 236 (1966) que limita a até 30% o percentual de inchamento, portanto, os percentuais de 10%, 20%, 30%, 40% e 50% de adição de fibra de bagaço de cana-de-açúcar estão dentro do recomendado pela norma.
+Segue no Gráfico 4, a comparação entre os percentuais médios de inchamento de espessura por 24h, para o percentual de 10% de adição de fibra de bagaço de cana-de-açúcar (Iméd 10%), percentual de 20% de adição de fibra de bagaço de cana-de-açúcar (Iméd 20%), percentual de 30% de adição de fibra de bagaço de cana-de-açúcar (Iméd 30%), percentual de 40% de adição de fibra de bagaço de cana-de-açúcar (Iméd 40%), percentual de 50% de adição de fibra de bagaço de cana-de-açúcar (Iméd 50%).
+
+Gráfico 4 – Inchamento de espessura por 24h para cada percentual de adição de fibra de bagaço de cana-de- açúcar (10%, 20%, 30%, 40% e 50%).
+FONTE: Própria, 2020.
+A partir do Gráfico 4, observa-se que a variação dos percentuais médios de inchamento de espessura por 24h para os diferentes percentuais de adição de fibra de cana-de- açúcar está entre 0,289% e 1,236%, possuem uma tendência crescente, ou seja, quanto maior a adição de fibra de bagaço de cana-de-açúcar, maior será o percentual de inchamento do material. No referencial teórico levantado para comparação, encontra-se resultados para inchamento em espessura por 24h entre 8,35% e 33,42%, os intervalos de resultados para cada autor estão expressos na Tabela 27.
+Tabela 27 – Intervalo de resultados de inchamento em espessura por 24h por autor.
+   AUTOR
+Soares et al. (2017)
+Cravo et al. (2015)
+Guimarães Junior et al. (2016) Faria et al. (2018)
+Iméd (%)
+14% – 31% 18,10% – 18,92% 25,82% – 33,42% 8,35% – 28,11%
+         FONTE: Própria, 2020.
+Ao realizar a comparação entre o intervalo de percentual de inchamento obtido no presente trabalho com o intervalo do percentual dos demais autores, observa-se uma grande diferença, sendo os percentuais dos compósitos poliméricos bioinspirados bem abaixo dos resultados obtidos por eles. Entretanto, semelhante aos resultados do autor Silva et al. (2019), que obteve percentuais entre 0,3% e 1,0% para um compósito produzido com resina poliuretana a base de óleo de mamona reforçado com bagaço de cana-de-açúcar, semelhante
+
+ao presente trabalho, com percentuais de adição de fibra de bagaço de cana-de-açúcar entre 0% e 30%. Então, é possível concluir que a grande diferença entre os resultados obtidos pelo presente trabalho e os resultados dos demais autores, se deve a utilização da fibra lignocelulósica associada a partículas de madeira e a utilização do adesivo de ureia- formaldeído que possibilitam um maior percentual de inchamento de espessura, já a resina poliuretana à base de óleo de mamona reforçada com bagaço de cana-de-açúcar, tende a ter um menor percentual de inchamento de espessura.
+A Tabela 28 apresenta as médias da massa antes da imersão em água por 24h (M0), massa após da imersão em água por 24h (M1) e dos resultados de absorção de água por 24h para todos os percentuais de adição de fibra de bagaço de cana-de-açúcar
+Tabela 28 – Resultados de absorção de água por 24h para todos os percentuais de adição de fibra de bagaço de cana-de-açúcar.
+CORPO DE PROVA
+AB%
+24,79 30,78 34,04 39,40 41,76
+    M0 M1 (g) (g)
+31,65 42,53 26,80 40,19 24,70 37,61 23,73 39,43 18,95 32,57
+FONTE: Própria, 2020.
+    CP10% CP20% CP30% CP40% CP50%
+                 Segue no Gráfico 5, a comparação entre os percentuais médios de absorção de água por 24h, para o percentual de 10% de adição de fibra de bagaço de cana-de-açúcar (ABméd 10%), percentual de 20% de adição de fibra de bagaço de cana-de-açúcar (ABméd 20%), percentual de 30% de adição de fibra de bagaço de cana-de-açúcar (ABméd 30%), percentual de 40% de adição de fibra de bagaço de cana-de-açúcar (ABméd 40%), percentual de 50% de adição de fibra de bagaço de cana-de-açúcar (ABméd 50%).
+
+Gráfico 5 – Absorção de água por 24h para cada percentual de adição de fibra de bagaço de cana-de-açúcar (10%, 20%, 30%, 40% e 50%).
+FONTE: Própria, 2020.
+A partir do Gráfico 5, observa-se que a variação dos percentuais médios de absorção de água por 24h para os diferentes percentuais de adição de fibra de bagaço de cana-de-açúcar está entre 24,79% e 41,76%, possuindo uma tendência crescente. Como já foi observado, o maior índice de inchamento durante a cura dos compósitos poliméricos bioinspirados gerando um maior índice de vazios, foi entre os percentuais de adição de fibra entre 10% e 30%, percentuais estes que demonstram maior aumento de absorção de água de um para o outro. A partir do percentual de 40% de adição de fibra, o percentual de absorção de água começa a aumentar de um percentual de adição de fibra para outro de forma menos acentuada, por possuírem menores índices de vazios.
+No referencial teórico levantado para comparação, encontra-se resultados para absorção de água por 24h entre 61,13% e 175,65%, os intervalos de resultados para cada autor estão expressos na Tabela 29.
+Tabela 29 – Intervalo de resultados absorção de água por 24h por autor.
+   AUTOR
+Soares et al. (2017)
+Cravo et al. (2015)
+Guimarães Junior et al. (2016) Faria et al. (2018)
+ABméd (%)
+124% – 145% 61,13% – 68,33% 95,79% – 175,65%
+84,69% – 107,90%
+         FONTE: Própria, 2020.
+
+Ao realizar a comparação entre o intervalo de percentual de absorção de água obtido no presente trabalho com o intervalo do percentual dos demais autores, observa-se uma grande diferença, sendo os percentuais dos compósitos poliméricos bioinspirados bem abaixo dos resultados obtidos pelos autores, o que está relacionado ao índice de vazios do material. Quanto maior o índice de vazios, maior percentual de absorção de água pelo material ocorrerá, uma vez que, a água absorvida ocupa estes vazios.
+Segundo Takada (2014), é importante salientar que o inchamento em espessura não é proporcional à absorção de água. Isso se deve às diferentes concentrações dos constituintes nos compósitos. Reforços lignocelulósicos são higroscópicos, possuindo a capacidade de absorver água, logo, quanto maior o teor de reforço, maior a capacidade do compósito em absorver água. Quanto a resina, a absorção de água é desfavorecida pela mesma, uma vez que, quanto mais resina, menor a absorção. E a proporção reforço/resina influencia a formação de espaços vazios, quanto maior o teor de reforço, menor o teor de resina, e, quanto maior for a proporção reforço/resina, maior a formação de espaços vazios e maior a absorção de água pelo compósito.
+4.2 CARACTERIZAÇÃO MECÂNICA
+4.2.1 Tração Perpendicular
+Após a realização do ensaio de tração perpendicular para cada porcentagem de adição de fibra de bagaço de cana-de-açúcar, foi calculada a resistência à tração perpendicular (TP) ou adesão interna.
+Na Tabela 30 são apresentados os resultados de resistência à tração perpendicular (TP) para todos os percentuais de adição de fibra de bagaço de cana-de-açúcar, além da força de ruptura (N), coeficiente de variação em porcentagem (CV), comprimento do corpo de prova em mm (b1), largura do corpo de prova em mm (b2) e área do corpo de prova em mm2 (A).
+Tabela 30 – Resultados de TP para cada percentual de adição de fibra de bagaço de cana-de-açúcar.
+       CORPO DE PROVA
+CP10% CP20% CP30% CP40% CP50%
+FORÇA DE CV RUPTURA (N)
+b1 b2 (mm) (mm)
+A TP (mm2) (MPa)
+2421,88 0,312 2460,34 0,296 2404,55 0,418 2357,45 0,507 2440,09 0,451
+       753,11 11,22 48,63
+753,11 27,31 49,60 1004,09 18,18 49,70 1196,16 8,13 48,80
+1099,59 13,09 49,23
+49,80 49,60 48,37 48,33 49,57
+                             FONTE: Própria, 2020.
+
+A norma CS 236 (1966) indica que o resultado mínimo para TP, em painéis aglomerados de baixa densidade, não deve ser inferior a 0,14 MPa. Como pode ser observado na Tabela 62, todos os percentuais atendem ao exigido pela referida norma.
+Gráfico 6 – Resultados de resistência a tração perpendicular para cada percentual de adição de fibra de bagaço de cana-de-açúcar.
+FONTE: Própria, 2020.
+No Gráfico 6 é possível identificar a tendência dos resultados para TP onde o percentual de 40% de adição de fibra de bagaço de cana-de-açúcar possui um melhor resultado do que os percentuais de 10% e 20%, apesar de todos atenderem a referida norma CS 236 (1966). Entretanto, durante os ensaios, os corpos de prova pertencentes aos percentuais a partir de 30% atingiram resistências superiores à da cola utilizada para colar os CPs aos blocos de madeira e dos blocos de madeira utilizados para fixar os CPs as garras da máquina de ensaio. Assim, ocorria o descolamento entre CPs e blocos de madeira e a quebra dos blocos de madeira, antes que o corpo de prova rompesse. Portanto os resultados a partir de 30% de adição de fibra de bagaço de cana-de-açúcar não são os resultados reais dos CPs, mas podemos observar com os resultados, o que será observado na Análise de Microscopia Eletrônica de Varredura (MEV), que a partir desse percentual a resina envolve a fibra de forma mais homogênea, possuindo uma melhor interação fibra-resina e maior adesão interna por consequência.
+Figura 12 – Corpos de prova após rompimento em ensaio de tração perpendicular (10% e 20%, respectivamente).
+FONTE: Própria, 2020.
+Os percentuais de 10% e 20% de adição de fibra de bagaço de cana-de-açúcar possuem as menores resistências à tração perpendicular por serem os percentuais com menor índice de homogeneidade entre a resina e a fibra, sendo perceptível visualmente a segregação (Figura 11), por conseguinte, o rompimento ocorreu na transição entre resina e fibra (Figura 12), no local de maior fragilidade dos CPs.
+Outros trabalhos acadêmicos, pesquisados e relacionados no referencial teórico, sobre painéis aglomerados de baixa densidade obtiveram os resultados para a resistência à tração perpendicular (TP) que estão expressos na Tabela 31.
+Tabela 31 – Intervalo de resultados de tração perpendicular (TP) por autor.
+    AUTOR
+Soares et al. (2017)
+Cravo et al. (2015)
+Guimarães Junior et al. (2016) Faria et al. (2018)
+TP (MPa)
+0,110 – 0,178 0,159 – 0,256 0,139 – 0,289 0,132 – 0,190
+         FONTE: Própria, 2020.
+Os resultados dos autores referenciados, em que todos conseguiram resultados que atendessem as exigências da norma CS 236 (1966) para TP, indicam que quanto maior a quantidade de resina maior será o resultado para resistência a tração perpendicular, uma vez que, esses resultados têm ligação direta com a adesão interna entre resina e fibra. Indicam também quanto menor o percentual do resíduo agroindustrial lignocelulósico em relação as partículas de madeira, maior o resultado para resistência a tração perpendicular. A faixa de resultados encontrados entre os autores é de 0,110 MPa e 0,289 MPa, e a faixa encontrada no presente trabalho está entre 0,296 MPa e 0,507 MPa, resultados superiores aos encontrados pelos autores referenciados.
+
+Na Tabela 32 é exposto a comparação entre a resistência à tração das diferentes porcentagens de adição de fibra de bagaço de cana-de-açúcar (no compósito polimérico bioinspirado) e a resistência à tração das madeiras naturais que constam no referencial teórico, para madeira verde.
+Tabela 32 – Resistência a tração dos compósitos poliméricos bioinspirados x resistência a tração das madeiras naturais em estado verde.
+      MADEIRA NATURAL (kg/m3)
+Cedro (IPT, 1989) Imbuia (IPT, 1989) Mogno (IPT, 1989) Pinus (IPT, 1989)
+10% 20% (MPa) (MPa)
+0,312 0,296
+30% 40% (MPa) (MPa)
+0,418 0,507 5,10
+6,70 6,00 3,00
+50% (MPa)
+0,451
+                   FONTE: Própria, 2020.
+Ao compararmos as resistências à tração dos compósitos poliméricos bioinspirados com as resistências à tração das madeiras naturais em seu estado verde, pode-se observar que a maior proximidade de resultados está entre o percentual de adição de fibra de bagaço de cana-de-açúcar e a madeira de Pinus, que dentre as referenciadas possui o menor valor. Entretanto ainda assim, a madeira de Pinus possui resistência muito superior aos compósitos poliméricos bioinspirados, quanto a resistência à tração.
+O Gráfico 7 é um diagrama de tensão x deformação para o percentual de adição de fibra de bagaço de cana-de-açúcar de 10%, com pontos importantes a serem observados para entender o comportamento do compósito polimérico bioinspirado de baixa densidade submetido a esforços de tração.
+
+Gráfico 7 – Gráfico Tensão x Deformação – Ensaio de Tração para o percentual de 10%.
+CP1 ------------------ CP2 ------------------ CP3 ------------------ FONTE: Própria, 2020.
+O percentual de 10% de adição de fibra de bagaço de cana-de-açúcar, tem como tendência no gráfico um comportamento plástico, devido a sua maior zona de plasticidade em relação a sua curta zona elástica. A tendência do material é resistir a baixas tensões e deformações reversíveis, logo entrando em regime plástico, onde as deformações se tornam permanentes e continuam até o ponto de ruptura do corpo de prova.
+O Gráfico 8 é um diagrama de tensão x deformação para o percentual de adição de fibra de bagaço de cana-de-açúcar de 20%, com pontos importantes a serem observados para entender o comportamento do compósito polimérico bioinspirado de baixa densidade submetido a esforços de tração.
+Gráfico 8 – Gráfico Tensão x Deformação – Ensaio de Tração para o percentual de 20%.
+  CP1 ------------------ CP2 ------------------ CP3 ------------------ FONTE: Própria, 2020.
+
+O comportamento do percentual de 20% de adição de fibra de bagaço de cana-de- açúcar submetido a esforços de tração muito se assemelha ao comportamento do percentual de 10% de adição de fibra de bagaço de cana-de-açúcar, possuindo também como tendência, um comportamento plástico, devido a sua maior zona de plasticidade em relação a sua curta zona elástica. A tendência do material é resistir a baixas tensões e deformações reversíveis, logo entrando em regime plástico, onde as deformações se tornam permanentes e continuam até o ponto de ruptura do corpo de prova.
+O Gráfico 9 é um diagrama de tensão x deformação para o percentual de adição de fibra de bagaço de cana-de-açúcar de 30%, com pontos importantes a serem observados para entender o comportamento do compósito polimérico bioinspirado de baixa densidade submetido a esforços de tração.
+Gráfico 9 – Gráfico Tensão x Deformação – Ensaio de Tração para o percentual de 30%.
+CP1 ------------------ CP2 ------------------ CP3 ------------------ FONTE: Própria, 2020.
+O comportamento do percentual de 30% de adição de fibra de bagaço de cana-de- açúcar submetido a esforços de tração se difere do comportamento do percentual de 10% e 20% de adição de fibra de bagaço de cana-de-açúcar, uma vez que, possui um regime plástico menor e suporta maiores tensões antes de ocorrer a ruptura. Mas ainda possui como tendência, um comportamento plástico, devido a sua maior zona de plasticidade em relação a sua curta zona elástica. Entretanto, não ocorreu a ruptura do corpo de prova nesse percentual, mas sim, o descolamento entre corpo de prova e blocos de tração de madeira (linha amarela do gráfico) e o rompimento dos blocos de tração (linha verde e linha vermelha do gráfico), demonstrando a tendência após o ponto de maior tensão, da cola e da madeira.
+O Gráfico 10 é um diagrama de tensão x deformação para o percentual de adição de fibra de bagaço de cana-de-açúcar de 40%, com pontos importantes a serem observados para entender o comportamento do compósito polimérico bioinspirado de baixa densidade submetido a esforços de tração.
+Gráfico 10 – Gráfico Tensão x Deformação – Ensaio de Tração para o percentual de 40%.
+CP1 ------------------ CP2 ------------------ CP3 ------------------ FONTE: Própria, 2020.
+O comportamento do percentual de 40% de adição de fibra de bagaço de cana-de- açúcar submetido a esforços de tração se difere do comportamento do percentual de 10% e 20% de adição de fibra de bagaço de cana-de-açúcar e se assemelha ao percentual de 30%, uma vez que, possui um regime plástico menor e suporta maiores tensões antes de ocorrer a ruptura. Mas ainda possui como tendência, um comportamento plástico, devido a sua maior zona de plasticidade em relação a sua curta zona elástica. Entretanto, não ocorreu a ruptura do corpo de prova nesse percentual, mas sim, o descolamento entre corpo de prova e blocos de tração de madeira (linha vermelha do gráfico) e o rompimento dos blocos de tração (linha verde e linha amarela do gráfico), demonstrando a tendência após o ponto de maior tensão, da cola e da madeira.
+O Gráfico 11 é um diagrama de tensão x deformação para o percentual de adição de fibra de bagaço de cana-de-açúcar de 40%, com pontos importantes a serem observados para entender o comportamento do compósito polimérico bioinspirado de baixa densidade submetido a esforços de tração.
+Gráfico 11 – Gráfico Tensão x Deformação – Ensaio de Tração para o percentual de 50%.
+CP1 ------------------ CP2 ------------------ CP3 ------------------ FONTE: Própria, 2020.
+O comportamento do percentual de 50% de adição de fibra de bagaço de cana-de- açúcar submetido a esforços de tração se assemelha ao percentual de 30% e 40% de adição de fibra de bagaço de cana-de-açúcar, uma vez que, possui um regime plástico menor e suporta maiores tensões antes de ocorrer a ruptura. Mas ainda possui como tendência, um comportamento plástico, devido a sua maior zona de plasticidade em relação a sua curta zona elástica. Entretanto, não ocorreu a ruptura do corpo de prova nesse percentual, mas sim, o descolamento entre corpo de prova e blocos de tração de madeira (linha vermelha do gráfico) e o rompimento dos blocos de tração (linha verde e linha amarela do gráfico), demonstrando a tendência após o ponto de maior tensão da cola e da madeira.
+Apesar de não ter ocorrido a ruptura dos corpos de prova a partir do percentual de 30% de adição de fibra de bagaço de cana-de-açúcar, é possível analisar os Gráficos 7, 8, 9, 10 e 11 entre si, e observar uma tendência plástica e rígida do material como um todo.
+4.2.2 Flexão Estática
+Após a realização do ensaio de flexão estática para cada porcentagem de adição de fibra de bagaço de cana-de-açúcar, foram calculados os módulos de ruptura (MOR) e os módulos de elasticidade (MOE) para cada percentual de adição de fibra de bagaço de cana-de- açúcar.
+Na Tabela 33 são apresentados os resultados de módulo de ruptura (MOR) para todos os percentuais de adição de fibra de bagaço de cana-de-açúcar, além da força de ruptura (N), desvio padrão, distância entre apoios (mm), largura do corpo de prova (mm) e espessura do corpo de prova (mm).
+Tabela 33 – Resultados de MOR para cada percentual de adição de fibra de bagaço de cana-de-açúcar.
+       CORPO DE PROVA
+CP10% CP20% CP30% CP40% CP50%
+FORÇA DE RUPTURA (N)
+22,70 17,08 66,29 20,26 12,83
+DESVIO DISTÂNCIA ENTRE PADRÃO APOIOS (mm)
+2,56 100
+5,17 100 17,70 100 8,09 100 1,04 100
+FONTE: Própria, 2020.
+L (mm)
+50 50 50 50 50
+E (mm)
+3,87 4,57 4,37 4,43 4,30
+MOR (MPa)
+4,55
+2,45 10,41 3,10 2,08
+                                    A norma CS 236 (1966) indica que o resultado mínimo para MOR, em painéis aglomerados de baixa densidade, não deve ser inferior a 5,50 MPa. Como pode ser observado na Tabela 33, apenas o resultado para o percentual de 30% de adição de fibra de bagaço de cana-de-açúcar, atende ao exigido pela referida norma, estando todos os outros percentuais abaixo.
+Outros trabalhos acadêmicos, pesquisados e relacionados no referencial teórico, sobre painéis aglomerados de baixa densidade obtiveram os resultados para o módulo de ruptura (MOR) que estão expressos na Tabela 34.
+Tabela 34 – Intervalo de resultados de módulo de ruptura (MOR) por autor.
+  AUTOR
+Soares et al. (2017)
+Cravo et al. (2015)
+Battistelle, Marcilio e Lahr (2009) Faria et al. (2018)
+FONTE: Própria, 2020.
+MOR (MPa)
+2,80 – 7,70 1,82 – 3,88 7,17 – 9,83 4,88 – 8,47
+         Dos resultados dos autores referenciados, poucos conseguiram que os mesmos atendessem as exigências da norma CS 236 (1966) e em apenas alguns de seus tratamentos, o que indica que quanto maior a quantidade de resina e quanto maior o percentual do resíduo agroindustrial lignocelulósico em relação as partículas de madeira, maior o valor do módulo de ruptura (MOR). A faixa de resultados encontrados entre os autores é de 1,82 MPa e 9,83
+
+MPa, e a faixa encontrada no presente trabalho está entre 2,08 MPa e 10,41 MPa, permanecendo dentro dos intervalos encontrados por outros autores.
+Gráfico 12 – Resultados de MOR para cada percentual de adição de fibra de bagaço de cana-de-açúcar.
+FONTE: Própria, 2020.
+No Gráfico 12 é possível identificar a tendência dos resultados para MOR onde o percentual de 30% de adição de fibra de bagaço de cana-de-açúcar possui um melhor resultado do que os percentuais de 10%, 20%, 40% e 50%. Ao compararmos com os gráficos apresentados pelos autores Soares et al. (2017), Cravo et al. (2015), Guimarães Júnior et al. (2016), Battistelle, Marcilio e Lahr (2009), Faria et al. (2018) em seus respectivos trabalhos, que possuem tendência decrescente conforme é reduzida a quantidade de resina, nota-se uma discrepância. Entretanto, a autora Takada (2014) que utilizou resina ureia-formaldeído e fibra da palha da cana-de-açúcar, encontra a mesma tendência de melhores resultados para o percentual de adição de 30% de resíduo, conforme demonstrado no Gráfico 13.
+Gráfico 13 – Resultados de Takada (2014) para MOR para cada percentual de adição de fibra de palha de cana-de-açúcar.
+FONTE: Takada, 2014 (adaptado).
+O que confirma o resíduo agroindustrial adicionado a resina em percentual de 30% atuando como um reforço para a tensões de flexão sofridas pelos compósitos em que se utiliza resíduo e resina.
+Na Tabela 35 é exposto a comparação entre o módulo de ruptura (MOR) das diferentes porcentagens de adição de fibra de bagaço de cana-de-açúcar (no compósito polimérico bioinspirado) e o módulo de ruptura (MOR) das madeiras naturais que constam no referencial teórico, para madeira verde.
+Tabela 35 – MOR dos compósitos poliméricos bioinspirados x MOR das madeiras naturais em estado verde.
+       MADEIRA NATURAL (kg/m3)
+Cedro (IPT, 1989) Eucalipto (IPT, 1989) Imbuia (IPT, 1989) Mogno (IPT, 1989) Pinus (IPT, 1989)
+10% 20% 30% 40% 50%
+(MPa) (MPa) (MPa) (MPa)
+(MPa)
+     4,55 2,45 10,41 3,10 2,08 62,80
+53,80 76,90 80,50 48,00
+                FONTE: Própria, 2020.
+Ao compararmos os módulos de ruptura dos compósitos poliméricos bioinspirados com os módulos de ruptura das madeiras naturais em seu estado verde, pode-se observar que a maior proximidade de resultados está entre o percentual de adição de fibra de bagaço de cana- de-açúcar de 30% e as madeiras de Cedro, Eucalipto e Pinus. Possuem dentre as referenciadas
+
+os menores valores, mas ainda assim muito discrepantes, isso se deve a baixa densidade dessas madeiras, quanto menor a densidade menos resistente será a madeira.
+Na Tabela 36 é exposto a comparação entre o módulo de ruptura (MOR) das diferentes porcentagens de adição de fibra de bagaço de cana-de-açúcar (no compósito polimérico bioinspirado) e o módulo de ruptura (MOR) das madeiras naturais que constam no referencial teórico, para madeira a 15% de umidade.
+Tabela 36 – MOR dos compósitos poliméricos bioinspirados x MOR das madeiras naturais a 15% de umidade.
+      MADEIRA NATURAL (kg/m3)
+Cedro (IPT, 1989) Eucalipto (IPT, 1989) Imbuia (IPT, 1989) Mogno (IPT, 1989) Pinus (IPT, 1989)
+10% 20% 30% 40% 50%
+(MPa) (MPa) (MPa) (MPa)
+(MPa)
+     4,55 2,45 10,41 3,10 2,08 81,20
+75,60 91,60 90,60 69,60
+                FONTE: Própria, 2020.
+Ao compararmos os módulos de ruptura dos compósitos poliméricos bioinspirados com os módulos de ruptura das madeiras naturais a 15% de umidade, pode-se observar que a maior proximidade de resultados continua entre o percentual de adição de fibra de bagaço de cana-de-açúcar de 30% e as madeiras de Cedro, Eucalipto e Pinus, que dentre as referenciadas possuem os menores valores, isso se deve a baixa densidade dessas madeiras.
+Na Tabela 37 são apresentados os resultados de módulo de elasticidade (MOE) para todos os percentuais de adição de fibra de bagaço de cana-de-açúcar, além da força de escoamento (N), desvio padrão, deflexão (mm), distância entre apoios (mm), largura do corpo de prova (mm) e espessura do corpo de prova (mm).
+Tabela 37 – Resultados de MOE para cada percentual de adição de fibra de bagaço de cana-de-açúcar.
+        CORPO DE
+FORÇA DE ESCOAMENTO
+DISTÂNCIA ENTRE APOIOS (mm)
+PROV A (N)
+CP10% 6,15 5,21 CP20% 7,62 6,34 CP30% 36,9 7,68 CP40% 7,63 3,38 CP50% 0,45 0,36
+100
+100
+DESVIO DEFLEXÃO PADRÃO (mm)
+4,55 4,57 3,61 2,97 0,25
+FONTE: Própria, 2020.
+L E (mm) (mm)
+50 3,87 50 4,57 50 4,37 50 4,43 50 4,3
+MOE (MPa)
+116,60 87,35 612,41 147,75 113,20
+                                         
+A norma CS 236 (1966) indica que o resultado mínimo para MOE, em painéis aglomerados de baixa densidade, não deve ser inferior a 1030 MPa. Como pode ser observado na Tabela 34, nenhum resultado atende ao exigido pela referida norma, estando todos os percentuais abaixo. O maior resultado para o módulo de elasticidade é do percentual de adição de fibra de bagaço de cana-de-açúcar de 30%, tornando o compósito polimérico bioinspirado com esse percentual de adição de fibra o mais difícil de ser deformado.
+Outros trabalhos acadêmicos, pesquisados e relacionados no referencial teórico, sobre painéis aglomerados de baixa densidade obtiveram os resultados para o módulo de elasticidade (MOE) que estão expressos na Tabela 38.
+Tabela 38 – Intervalo de resultados de módulo de elasticidade (MOE) por autor.
+AUTOR
+Soares et al. (2017)
+Cravo et al. (2015)
+Guimarães Junior et al. (2016) Battistelle, Marcilio e Lahr (2009) Faria et al. (2018)
+MOE (MPa)
+190 - 500 333,80 – 445,20 823,86 – 914,80 998,50 - 1167 1652 - 2914
+             FONTE: Própria, 2020.
+Sobre os resultados dos autores referenciados, poucos conseguiram resultados que atendessem as exigências da norma CS 236 (1966) e em apenas alguns de seus tratamentos. Os únicos autores que conseguiram atender a norma parcialmente ou em sua totalidade de tratamentos com resíduo e partículas de madeira, foram Battistelle, Marcilio e Lahr (2009) e Faria et al. (2018), que afirmam ser consequência do aumento do teor de adesivo e da forma que o material é prensado. A faixa de resultados encontrados entre os autores é bem ampla, sendo entre 190 MPa e 2914 MPa, e a faixa encontrada no presente trabalho está entre 87,35 MPa e 612,41 MPa, permanecendo próximo aos intervalos encontrados por outros autores.
+
+84 Gráfico 14 – Resultados de MOE para cada percentual de adição de fibra de bagaço de cana-de-açúcar.
+FONTE: Própria, 2020.
+No Gráfico 14 é possível identificar a tendência dos resultados para MOE onde o percentual de 30% de adição de fibra de bagaço de cana-de-açúcar possui um melhor resultado do que os percentuais de 10%, 20%, 40% e 50%. Ao compararmos com os gráficos apresentados pelos autores Soares et al. (2017), Cravo et al. (2015), Guimarães Júnior et al. (2016), Battistelle, Marcilio e Lahr (2009), Faria et al. (2018) em seus respectivos trabalhos, que possuem tendência decrescente conforme é reduzida a quantidade de resina, nota-se uma discrepância. Entretanto, a autora Takada (2014), encontra a mesma tendência de melhores resultados de MOE para o percentual de adição de 30% de resíduo, conforme demonstrado no Gráfico 15.
+Gráfico 15 – Resultados de Takada (2014) para MOE para cada percentual de adição de fibra de palha de cana- de-açúcar.
+  FONTE: Takada, 2014 (adaptado).
+
+Na Tabela 39 é exposto a comparação entre o módulo de elasticidade (MOE) das diferentes porcentagens de adição de fibra de bagaço de cana-de-açúcar (no compósito polimérico bioinspirado) e o módulo de elasticidade (MOE) das madeiras naturais que constam no referencial teórico, para madeira verde.
+Tabela 39 – MOE dos compósitos poliméricos bioinspirados x MOE das madeiras naturais em estado verde.
+MADEIRA NATURAL (kg/m3)
+Cedro (IPT, 1989) Eucalipto (IPT, 1989) Imbuia (IPT, 1989) Mogno (IPT, 1989) Pinus (IPT, 1989)
+10% 20% (MPa) (MPa)
+116,60 87,35
+30% (MPa)
+612,41 8336
+   7738
+   6463
+40% (MPa)
+147,75
+50% (MPa)
+113,20
+                           FONTE: Própria, 2020.
+Ao compararmos os módulos de elasticidade (MOE) dos compósitos poliméricos bioinspirados com os módulos de elasticidade (MOE) das madeiras naturais em seu estado verde, pode-se observar que as madeiras naturais possuem módulos de elasticidade muito superiores, demonstrando sua maior rigidez.
+Gráfico 16 – Diagrama tensão x deformação para percentual de adição de fibra de bagaço de cana-de-açúcar de 10%.
+FONTE: Própria, 2020.
+O Gráfico 16 é um diagrama de tensão x deformação para o percentual de adição de fibra de bagaço de cana-de-açúcar de 10%, com pontos importantes a serem observados para entender o comportamento do compósito polimérico bioinspirado de baixa densidade. Os
+ 
+pontos numerados como 1 se referem as tensões de escoamento do material que delimitam a zona elástica dele, ou seja, a deformação sofrida até essa tensão é reversível, uma vez que, as ligações químicas se mantêm preservadas. Até esse ponto a tensão e deformação são proporcionais, após, entra-se na zona denominada como plástica, onde as deformações não são reversíveis e ocorre um escorregamento dos planos atômicos. Os pontos numerados como 2 se referem a tensão máxima suportada pelo material, a partir desse ponto as tensões se mantém praticamente constantes e a deformação continua até o ponto numerado como 3, quando ocorre a fratura do material. Esses pontos aplicam-se também para os Gráficos 17, 18, 19 e 20.
+O percentual de 10% de adição de fibra de bagaço de cana-de-açúcar, tem como tendência no gráfico um comportamento plástico, devido a sua maior zona de plasticidade em relação a sua curta zona elástica, mas que teve sua ruptura logo após atingir a tensão máxima (linhas vermelha e amarela). O que faz desse material com um percentual de 10% de adição de fibra, um material não dúctil, ou seja, frágil, devido ao seu patamar de plastificação pequeno.
+Gráfico 17 – Diagrama tensão x deformação para percentual de adição de fibra de bagaço de cana-de-açúcar de 20%.
+FONTE: Própria, 2020.
+O percentual de 20% de adição de fibra de bagaço de cana-de-açúcar, tem como tendência no gráfico um comportamento plástico, devido a sua maior zona de plasticidade em relação sua curta zona elástica. Possui a mesma tendência do percentual de adição de fibra de bagaço de cana-de-açúcar de 10%, um material não dúctil, ou seja, frágil, devido ao patamar
+de plastificação pequeno. A exceção do CP2 que apresentou um comportamento elástico, possuindo uma zona plástica inexpressiva.
+Gráfico 18 – Diagrama tensão x deformação para percentual de adição de fibra de bagaço de cana-de- açúcar de 30%.
+FONTE: Própria, 2020.
+O percentual de 30% de adição de fibra de bagaço de cana-de-açúcar, que apresentou os melhores resultados, tem como tendência no gráfico um comportamento equilibrado entre a zona elástica e a zona de plasticidade, garantindo maior rigidez, mas também se caracterizando como um material frágil.
+Gráfico 19 – Diagrama tensão x deformação para percentual de adição de fibra de bagaço de cana-de-açúcar de 40%.
+  FONTE: Própria, 2020.
+
+O percentual de 40% de adição de fibra de bagaço de cana-de-açúcar, tem como tendência no gráfico um comportamento plástico, devido a sua maior zona de plasticidade em relação sua curta zona elástica, mas com pequeno patamar de plasticidade. O que faz desse material com um percentual de 40% de adição de fibra, um material não dúctil, ou seja, frágil. O CP2 apresentou uma reta mais acentuada, sendo necessário uma tensão maior para causar deformação, em relação aos outros corpos de prova.
+Gráfico 20 – Diagrama tensão x deformação para percentual de adição de fibra de bagaço de cana-de-açúcar de 50%.
+FONTE: Própria, 2020.
+O percentual de 50% de adição de fibra de bagaço de cana-de-açúcar, tem como tendência no gráfico um comportamento plástico, devido a sua maior zona de plasticidade em relação sua curta zona elástica, mas com pequeno patamar de plasticidade. O que faz desse material com um percentual de 50% de adição de fibra, um material não dúctil, ou seja, frágil. O CP2 apresentou erro e não foi registrado pela máquina de ensaio sua tensão de escoamento e deformação, mas que pela tendência dos outros dois corpos de prova, deve ter acontecido onde está circulado
+Analisando os Gráficos 16, 17, 18, 19 e 20 entre si, é possível observar uma tendência plástica e frágil do material como um todo, não possuindo um patamar de plastificação definido. A exceção do percentual de 30% de adição de fibra de bagaço de cana-de-açúcar, que apresentou os melhores resultados para os módulos de ruptura, módulos de elasticidade e tensões máximas, sendo necessário maiores tensões para causar sua deformação e fratura,
+possuindo uma maior rigidez em relação aos demais percentuais de adição de fibra de bagaço de cana-de-açúcar.
+4.3 ANÁLISE DE MICROSCOPIA ELETRÔNICA DE VARREDURA (MEV)
+As micrografias do CP10% (corpo de prova do compósito polimérico bioinspirado com 10% de adição de fibra de bagaço de cana-de-açúcar) foram ampliadas de 30 (Figura 14) e 500 vezes (Figura 15). Observa-se no CP10% um material altamente poroso, característica intrínseca das resinas poliuretanas (LOPES, 2009), como também apresenta grande quantidade de vazios irregulares ao longo da micrografia (Figura 13a). Nota-se ainda uma dispersão pouco uniforme da fibra na matriz que aparece ao longo de todo o CP10%, e uma distribuição superficial da fibra na resina, não sendo totalmente envolta pela mesma, como demonstram as setas na Figura 13b.
+Figura 13 – MEV para percentual de 10% de adição de fibra de bagaço de cana-de-açúcar.
+a) x30 b) x500 FONTE: Própria, 2020.
+As micrografias do CP20% (corpo de prova do compósito polimérico bioinspirado com 20% de adição de fibra de bagaço de cana-de-açúcar) foram ampliadas de 30 (Figura 14a) e 500 vezes (Figura 14b). Observa-se no CP20% um material altamente poroso, como também apresenta grande quantidade de vazios irregulares ao longo da micrografia (Figura 14a), como foi observado no CP10%, mas no CP20% as irregularidades são mais expressivas. Nota-se ainda uma dispersão uniforme da fibra na matriz que aparece ao longo de todo o CP20%, e uma distribuição superficial da fibra na resina, não sendo totalmente envolta pela mesma, como demonstram as setas na Figura 14b.
+Figura 14 – MEV para percentual de 20% de adição de fibra de bagaço de cana-de-açúcar.
+a) x30 b) x500 FONTE: Própria, 2020.
+As micrografias do CP30% (corpo de prova do compósito polimérico bioinspirado com 30% de adição de fibra de bagaço de cana-de-açúcar) foram ampliadas de 30 (Figura 15a) e 500 vezes (Figura 15b). Observa-se no CP30% um material menos poroso, como também apresenta vazios em quantidade e dimensões reduzidos se comparado aos CP10% e CP20% (Figura 15a). Nota-se ainda uma dispersão pouco uniforme da fibra na matriz que aparece ao longo de todo o CP30%, e uma diminuição da interação fibra/matriz se comparado aos CP10% e CP20% (figura 15b).
+Figura 15 – MEV para percentual de 30% de adição de fibra de bagaço de cana-de-açúcar.
+    a) x30 b) x500 FONTE: Própria, 2020.
+As micrografias do CP40% (corpo de prova do compósito polimérico bioinspirado com 40% de adição de fibra de bagaço de cana-de-açúcar) foram ampliadas de 30 (Figura 16a) e 100 vezes (Figura 16b). Observa-se no CP40% um material com menos poros, mas de maiores dimensões, como também apresenta vazios em quantidade e dimensões reduzidos em
+
+comparação aos outros CPs (Figura 16a). Nota-se ainda uma dispersão pouco uniforme da fibra na matriz que aparece ao longo de todo o CP40%, e uma interação fibra/matriz semelhante aos CP30% (Figura 16b).
+Figura 16 – MEV para percentual de 40% de adição de fibra de bagaço de cana-de-açúcar.
+a) x30 b) x100 FONTE: Própria, 2020.
+As micrografias do CP50% (corpo de prova do compósito polimérico bioinspirado com 50% de adição de fibra de bagaço de cana-de-açúcar) foram ampliadas de 100 (Figura 17a) e 500 vezes (Figura 17b). Observa-se no CP50% um material extremamente poroso, possuindo poros de menores dimensões em comparação aos outros CPs (Figura 17a). Nota-se ainda uma dispersão uniforme da fibra na matriz que aparece ao longo de todo o CP50%, e a pior interação fibra/matriz se comparado aos CPs dos outros percentuais de adição de fibra de bagaço de cana-de-açúcar, com grande quantidade de fibras soltas, sem estarem envolvidas pela resina, devido a redução da quantidade da mesma, como demonstram as setas na Figura 17b.
+Figura 17 – MEV para percentual de 50% de adição de fibra de bagaço de cana-de-açúcar.
+    a) x30 b) x500 FONTE: Própria, 2020.
+
+Todas as micrografias corroboraram para confirmar o que já havia sido observado nos ensaios físico-mecânicos. Conforme a quantidade de resina é diminuída no CP por uma maior adição de percentual de fibra de bagaço de cana-de-açúcar, perde-se em interação entre a fibra e resina, aumentando a quantidade de fibras soltas, mas ganha-se o aumento da resistência à tração. A resina que apresenta o melhor resultado dentre os percentuais de adição de fibra de bagaço de cana-de-açúcar pelo equilíbrio apresentado entre bons resultados de características físicas e mecânicas, foi o CP30%.
+4.4 ANÁLISE ESTATÍSTICA
+Nessa seção são apresentados os dados estatísticos como média, desvio padrão e coeficiente de variância para análise da dispersão dos dados e classificá-los em homogêneos, média dispersão ou heterogêneos. Esse tipo de análise possui como princípio básico analisar a dispersão de cada observação em relação à média dessas observações (FERREIRA, 2015). O Desvio Padrão e o Coeficiente de Variabilidade são dados pelas Equações 10 e 11, respectivamente:
+Equação (10) Onde:
+→ Massa específica do corpo-de-prova i
+→ Média aritmética das massas específicas dos “n” corpos-de-prova → Número de corpos-de-prova medidos
+→ Desvio-padrão estimado
+Equação (11) Onde:
+→ Desvio-padrão
+→ Média dos dados
+→ Coeficiente de variação
+Como o coeficiente de variação analisa a dispersão em termos relativos, ele será dado em percentual. Segundo Ferreira (2015), quanto menor for o valor do coeficiente de variação, mais homogêneos serão os dados, ou seja, menor será a dispersão em torno da média. De uma forma geral e como regra empírica, alguns autores consideram:
+• Coeficiente de variação (CV) inferior ou igual a 15%: significa que os dados possuem baixa dispersão e são homogêneos;
+• Coeficiente de variação (CV) entre 15 e 30%: significa que os dados possuem média dispersão;
+• Coeficiente de variação (CV) maior que 30%: significa que os dados possuem alta dispersão e são heterogêneos.
+A Tabela 40 apresenta o resultado de Densidade Média (Dméd), o Desvio Padrão (DP) e o Coeficiente de Variabilidade (CV) para cada percentual de adição de fibra de bagaço de cana-de-açúcar.
+Tabela 40 – Desvio Padrão e Coeficiente de Variabilidade de cada percentual de adição de fibra de bagaço de cana-de-açúcar para o Ensaio de Densidade.
+          CP10% CP20% CP30% CP40% CP50%
+Dméd (kg/m3)
+429,43 314,87 350,09 355,27 395,14
+DP (kg/m3)
+46,07 27,01 26,58 26,98 8,56
+CV (%)
+10,73 8,58 7,59 7,59 2,14
+                 FONTE: Própria, 2020.
+A partir da análise dos Coeficientes de Variabilidade contidos na Tabela 40 é possível observar que todos os percentuais se mantiveram abaixo de 15%, o que significa que os dados possuem baixa dispersão e são homogêneos.
+A Tabela 41 apresenta o resultado de Teor de Umidade Médio (Uméd) retirado dos CPs pelo processo de liofilização, o Desvio Padrão e o Coeficiente de Variabilidade para cada percentual de adição de fibra de bagaço de cana-de-açúcar.
+
+Tabela 41 – Desvio Padrão e Coeficiente de Variabilidade de cada percentual de adição de fibra de bagaço de cana-de-açúcar para o Ensaio de Teor de Umidade retirado dos CPs pela liofilização.
+        CP10% CP20% CP30% CP40% CP50%
+Uméd (%)
+0,80 3,92 4,25 15,94 20,60
+DP (%)
+0,36 1,53 1,38 1,76 5,08
+CV (%)
+45,00 39,03 32,47 11,04 24,66
+                 FONTE: Própria, 2020.
+A partir da análise dos Coeficientes de Variabilidade contidos na Tabela 41 é possível observar que apenas para o percentual de 40% de adição de fibra de bagaço de cana-de-açúcar o CV se manteve abaixo de 15% e para o percentual de 50% de adição de fibra de bagaço de cana-de-açúcar ficou entre 15% e 30%, demonstrando média dispersão dos dados. Entretanto para os demais percentuais de adição, o CV permaneceu acima de 30%, o que indica que os dados possuem alta dispersão e são heterogêneos. Este fato é justificado pela falta de controlabilidade no processo de retirada de umidade dos CPs através do processo de liofilização.
+A Tabela 42 apresenta o resultado de Teor de Umidade Médio (Uméd) dos CPs prontos para uso, o Desvio Padrão e o Coeficiente de Variabilidade para cada percentual de adição de fibra de bagaço de cana-de-açúcar.
+Tabela 42 – Desvio Padrão e Coeficiente de Variabilidade de cada percentual de adição de fibra de bagaço de cana-de-açúcar para o Ensaio de Teor de Umidade dos CPs prontos para uso.
+        CP10% CP20% CP30% CP40% CP50%
+Uméd (%)
+1,03 0,68 0,76 1,37 1,87
+DP (%)
+0,15 0,39 0,40 0,25 0,26
+CV (%)
+14,56 57,35 52,63 18,25 13,90
+                 FONTE: Própria, 2020.
+A partir da análise dos Coeficientes de Variabilidade contidos na Tabela 42 é possível observar que apenas para os percentuais de 10% e 50% de adição de fibra de bagaço de cana- de-açúcar se mantiveram abaixo de 15%, para o percentual de 40% de adição de fibra de bagaço de cana-de-açúcar o CV ficou entre 15% e 30%, demonstrando média dispersão dos dados. Entretanto para os demais percentuais de adição, o CV permaneceu acima de 30%, o que indica que os dados possuem alta dispersão e são heterogêneos. Este fato é consequência da falta de controlabilidade no processo de retirada de umidade dos CPs através do processo
+
+de liofilização que ocasionou em variados teores de umidades nos CPs de mesmo percentual de adição de fibra de bagaço de cana-de-açúcar.
+A Tabela 43 apresenta o resultado de Inchamento em Espessura por 24 h Médio (Iméd), o Desvio Padrão e o Coeficiente de Variabilidade para cada percentual de adição de fibra de bagaço de cana-de-açúcar.
+Tabela 43 – Desvio Padrão e Coeficiente de Variabilidade de cada percentual de adição de fibra de bagaço de cana-de-açúcar para o Ensaio de Inchamento em Espessura por 24 h.
+        CP10% CP20% CP30% CP40% CP50%
+Iméd (%)
+0,29 0,36 0,57 0,81 1,24
+DP (%)
+0,21 0,16 0,22 0,48 0,55
+CV (%)
+72,41 44,44 38,60 59,26 44,35
+                 FONTE: Própria, 2020.
+A partir da análise dos Coeficientes de Variabilidade contidos na Tabela 43 é possível observar que todos os percentuais de adição de fibra de bagaço de cana-de-açúcar se mantiveram com CV acima de 30%, o que caracteriza dados com alta dispersão e heterogêneos.
+A Tabela 44 apresenta o resultado de Absorção de Água por 24 h Média (ABméd), o Desvio Padrão e o Coeficiente de Variabilidade para cada percentual de adição de fibra de bagaço de cana-de-açúcar.
+Tabela 44 – Desvio Padrão e Coeficiente de Variabilidade de cada percentual de adição de fibra de bagaço de cana-de-açúcar para o Ensaio de Absorção de Água por 24 h.
+        CP10% CP20% CP30% CP40% CP50%
+ABméd (%)
+24,79 30,78 34,04 39,40 41,76
+DP (%)
+6,33 12,21 4,37 4,79 2,26
+CV (%)
+25,53 39,67 12,84 12,16 5,41
+                 FONTE: Própria, 2020.
+A partir da análise dos Coeficientes de Variabilidade contidos na Tabela 44 é possível observar que os percentuais de adição de fibra de bagaço de cana-de-açúcar de 30%, 40% e 50% se mantiveram com CV abaixo de 15%, o percentual de 10% de adição possui média dispersão e o percentual de 20% de adição possui dados com alta dispersão e heterogêneos.
+
+A Tabela 45 apresenta o resultado de Tensão de Ruptura Média para o Ensaio de Tração Perpendicular (TPméd), o Desvio Padrão e o Coeficiente de Variabilidade para cada percentual de adição de fibra de bagaço de cana-de-açúcar.
+Tabela 45 – Desvio Padrão e Coeficiente de Variabilidade de cada percentual de adição de fibra de bagaço de cana-de-açúcar para o Ensaio de Tração Perpendicular.
+        CP10% CP20% CP30% CP40% CP50%
+TPméd (MPa)
+0,312 0,296 0,452 0,507 0,451
+DP (MPa)
+0,042 0,072 0,116 0,031 0,060
+CV (%)
+13,45 24,36 25,68 6,16 13,24
+                 FONTE: Própria, 2020.
+A partir da análise dos Coeficientes de Variabilidade contidos na Tabela 45 é possível observar que os percentuais de adição de fibra de bagaço de cana-de-açúcar de 10%, 40% e 50% se mantiveram com CV abaixo de 15%, e os percentuais de 20% e 30% de adição possuem média dispersão.
+A Tabela 46 apresenta o resultado de Força de Ruptura Média para o Ensaio de Flexão (FRméd), o Desvio Padrão e o Coeficiente de Variabilidade para cada percentual de adição de fibra de bagaço de cana-de-açúcar.
+Tabela 46 – Desvio Padrão e Coeficiente de Variabilidade de cada percentual de adição de fibra de bagaço de cana-de-açúcar para MOR.
+        CP10% CP20% CP30% CP40% CP50%
+FRméd (MPa) DP (MPa)
+22,7 2,56 17,08 5,17 66,29 17,7 20,26 8,09 12,83 1,04
+FONTE: Própria, 2020.
+CV (%)
+11,28 30,27 26,70 39,93 8,11
+                 A partir da análise dos Coeficientes de Variabilidade contidos na Tabela 46 é possível observar que os percentuais de adição de fibra de bagaço de cana-de-açúcar de 10% e 50% se mantiveram com CV abaixo de 15%, o percentual de 30% possui média dispersão e os percentuais de 20% e 40% de adição possuem dados com alta dispersão e heterogêneos.
+A Tabela 47 apresenta o resultado de Força de Escoamento Média para o Ensaio de Flexão (FEméd), o Desvio Padrão e o Coeficiente de Variabilidade para cada percentual de adição de fibra de bagaço de cana-de-açúcar.
+
+Tabela 47 – Desvio Padrão e Coeficiente de Variabilidade de cada percentual de adição de fibra de bagaço de cana-de-açúcar para MOE.
+        CP10% CP20% CP30% CP40% CP50%
+FEméd (MPa)
+6,15
+7,62 36,90 7,63 0,45
+DP (MPa)
+5,21 6,34 7,68 3,38 0,36
+CV (%)
+84,72 83,20 20,81 44,30 80,00
+                 FONTE: Própria, 2020.
+A partir da análise dos Coeficientes de Variabilidade contidos na Tabela 47 é possível observar que os percentuais de adição de fibra de bagaço de cana-de-açúcar de 10%, 20%, 40% e 50% se mantiveram com CV acima de 30%, e o percentual de 30% de adição possui média dispersão.
+A alta dispersão e heterogeneidade dos dados dos Ensaios de Inchamento em Espessura por 24h e Flexão ocorreu devido a reação entre resina e fibra que não pôde ser controlada, acarretando em alta variabilidade entre os CPs, e a produção manual destes, sendo necessário a mecanização para uma melhor padronização.
+
+5. CONCLUSÕES
+Foi produzido com sucesso um material compósito bioinspirado na baixa densidade da madeira e biodegradável, a partir da mistura de resina poliuretana à base de óleo de mamona com diferentes porcentagens de adição de fibra de bagaço de cana-de-açúcar como reforço.
+Algumas propriedades físicas deste novo material foram avaliadas, apresentando ótimos resultados, levando em consideração a densidade, foram classificados em painéis aglomerados de fibra de baixa densidade (Low Density Fiberboard – LDF). Nos ensaios de inchamento em espessura todos os materiais estão dentro do recomendado pela norma CS 236 (1966), apresentaram resultados inferiores a 30%, o resultado máximo foi de 1,24%.
+Através do ensaio de absorção de água foi avaliado a hidrofilicidade dos compósitos em relação as fibras, os compósitos poliméricos bioinspirados apresentaram uma melhora em relação hidrofilicidade em comparação com os painéis aglomerados de fibras associadas as partículas de madeira. Comprovada pela queda significativa no percentual de absorção de água com a retirada das partículas de madeira, que é de extrema importância quando se pretende utilizar esse material para uso em exteriores. Entretanto o teor de umidade permaneceu abaixo da faixa recomendada pela norma NBR 14810:2 (2018) para painéis aglomerados, entre 5 e 13%. Isso ocorreu devido ao processo de liofilização que precisa ser ajustado, por meio da diminuição do tempo de permanência dos corpos de prova no liofilizador ou ajustar as configurações do mesmo (pressão e temperatura), para que seja retirada uma menor quantidade de água do material durante o processo.
+Em relação às propriedades mecânicas, os compósitos avaliados apresentaram os valores do módulo de elasticidade (MOE) inferiores ao exigido pela norma CS 236 (1966) de 1030 MPa, e apenas o percentual de 30% de adição de fibra de bagaço de cana-de-açúcar que obteve resultado de 10,41 MPa atendeu a referida norma para o resultado de módulo de ruptura, que exige MOR superior a 5,50 MPa. A norma CS 236 (1966) indica que o resultado mínimo para TP, em painéis aglomerados de baixa densidade, não deve ser inferior a 0,14 MPa, assim, todos os percentuais atendem ao exigido pela referida norma, se mantendo entre 0,296 MPa e 0,507 MPa.
+A avaliação da interação interfacial foi observada através da análise de Microscopia Eletrônica de Varredura dos compósitos poliméricos bioinspirados, pelo qual foi observado
+que quanto maior a quantidade de resina, melhor será a interação fibra/resina, e quanto maior o percentual de adição de fibra de bagaço de cana-de-açúcar, menor teor de vazios e menos poroso será o material. Entretanto, devido ao alto índice de inchamento durante a cura das placas dos percentuais de 10% e 20% de adição de fibra de bagaço de cana-de-açúcar, ocorreu a segregação entre fibra e resina ao empurrar toda a fibra para a parte superior da placa, esses percentuais apresentaram os piores resultados de adesão interna se comparados aos demais. Uma vez que, apesar de todas as fibras estarem bem envoltas pela resina, o local do corpo de prova onde ocorreu a segregação entre ambos, se tornou o ponto de fragilidade para a ruptura no ensaio de tração perpendicular (TP) ou adesão interna.
+Ao levar em consideração todos os parâmetros avaliados, o percentual que apresentou melhores propriedades físico-mecânicas foram os CP30% (corpos de prova com 30% de adição de fibra de bagaço de cana-de-açúcar).
+Não foi constatado decréscimo significativo nas propriedades físico-mecânicas nos compósitos poliméricos bioinspirados utilizando resina poliuretana à base de óleo de mamona, em substituição ao adesivo ureia-formaldeído, e fibra de bagaço de cana-de-açúcar em substituição as partículas de madeira, se comparadas com os autores referenciados que utilizaram adesivo ureia-formaldeído e fibras associadas as partículas de madeira em seus painéis. O que demonstra a viabilidade da substituição do adesivo ureia-formaldeído, uma substância tóxica, pela resina poliuretana à base de óleo de mamona, uma substância não tóxica. É viável também, substituir 100% das partículas de madeira por fibras de bagaço de cana-de-açúcar, que se mostra como uma alternativa para que ocorra o abandono da utilização da madeira, para produção de painéis aglomerados.
+6. RECOMENDAÇÕES PARA TRABALHOS FUTUROS
+Como recomendações para trabalhos futuros nesta linha de pesquisa é sugerido:
+• O ajuste do processo de liofilização para que a umidade do compósito se mantenha dentro da faixa exigida por norma.
+• A utilização de uma cola mais resistente para colar o CP aos blocos de tração para não ocorrer descolamento.
+• A utilização de uma madeira com resistência superior a resistência do Jatobá para que os blocos de tração não rompam antes do CP.
+• A mecanização do processo de fabricação dos CPs.
+• Sugere-se também o controle do inchamento das placas durante a cura para que seja possível o controle do índice de vazios e para evitar a segregação entre resina e fibra.
+REFERÊNCIAS
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS – ABNT. NBR 14810-2 Painéis
+de partículas de média densidade, Parte 2: Requisitos e métodos de ensaio. 2018. ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS – ABNT. NBR 7190 – Projeto de
+Estrutura de Madeira. 1997.
+ASTM D3878-04a. Standard Terminology for Composite Materials. 2004, ASTM
+International: West Conshohocken, PA.
+ABREUA, R. M. et al. Análise em microscopia eletrônica de varredura (MEV) de
+resíduo de tiro. Revista Militar De Ciência E Tecnologia, [S. l.], p. 1-3, 1 set. 2017. ANSELL, M. P. Wood Composites. 1o Ed. Waltham, MA, EUA: Elsevier, 2015. 435 p.
+ANYANWU, B. U. et al. Effects of kenaf core and bast fibers as dispersing phases on low density fiberboards (engineered wood). Journal of Physics: Conference Series, 1a Ed., p. 1- 12, 2019.
+AZIZI, M.; MOHEBBI, N.; FELICE, F. Evaluation of Sustainable Development of Wooden Furniture Industry Using Multi criteria Decision Making Method. Agriculture and Agricultural Science Procedia, [S. l.], p. 387-394, 1 jun. 2016.
+BARROS FILHO, R. M. Painéis Aglomerados a Base de Bagaço de Cana-de-açúcar e Resinas Ureia Formaldeído e Melamina Formaldeído. Dissertação (Mestre em Engenharia de Materiais) - Universidade Federal de Ouro Preto, Ouro Preto - MG, 2009.
+BATTISTELLE, R. A. G.; MARCILIO, C.; LAHR, F. A. R. Emprego do bagaço da cana- deaçúcar (Saccharum Officinarum) e das folhas caulinares do bambu da espécie Dendrocalamus Giganteus na produção de chapas de partículas. Pesquisa e Tecnologia Minerva, v. 5, ed. 3, p. 297-305, 2009.
+BELINI, U. L.et al. Compósitos multicamadas com reforço de fibras amazônicas: propriedades mecânicas. II Congresso Brasileiro de Ciência e Tecnologia da Madeira, Belo Horizonte - MG, 1 set. 2015.
+BELINI, U. L. et al. Painel multicamada com reforço de partículas de bambu. Scientia Forestalis, v. 42, ed. 103, p. 421-427, 1 set. 2014.
+BENINI, K. C. C. C. Desenvolvimento e caracterização de compósitos poliméricos reforçados com fibras lignocelulósicas: hips/fibra da casca do coco verde e bagaço de cana de açúcar. Dissertação (Mestre em Engenharia Mecânica) - Universidade Estadual Paulista, Guaratinguetá - SP, 2011.
+BEHZAD, K., HOSSEIN, Z., ABDOLLAH, H. Evaluation of the mechanical and physical properties of particleboard manufactured from canola (Brassica napus) Straws. Woods Science and Technology, Vol. 18 (1), p. 9-18, 2016.
+COMMERCIAL STANDARD - CS. CS 236-66: Mat-formed wood particleboard. 1968.
+CRAVO, J. C. M. et al. Painel aglomerado de resíduos agroindustriais. Ciência Florestal, Santa Maria, v. 25, ed. 3, p. 721-730, 2015.
+ÇENGEL, Y. A. Heat and mass transfer: fundamentals & applications. 5th. New York: McGraw-Hill Education, 2014.
+DEDAVID, B. A.; GOMES, C. I.; MACHADO, G. Microscopia Eletrônica de Varredura Microscopia Eletrônica de Varredura - Aplicações e Preparação de Amostras (Materiais Poliméricos, Metálicos e Semicondutores). Porto Alegre: EDIPUCRS, 2007.
+FARIA, D. L. et al. Qualidade de painéis aglomerados produzidos com sabugo de milho. Enciclopédia Biosfera, Goiânia, v. 15, ed. 27, p. 1361-1369, 2018.
+FERREIRA, V. Estatística Básica. 1a Ed. Rio de Janeiro - RJ: Estácio, 2015. 202 p. ISBN 978-85-5548-129-1.
+GRASSI, M. C. B.; PEREIRA, G. A. G. Energy-cane and RenovaBio: Brazilian vectors to boost the development of Biofuels. Industrial Crops and Products, p. 201-205, 1 mar. 2019.
+GUIMARÃES JUNIOR, J. B. et al. Inclusão de resíduo da cultura de sorgo em painéis aglomerados de eucalipto. Pesquisa Florestal Brasileira, Colombo, v. 36, ed. 88, p. 435-442, 2016.
+HAN, Q. et al. Preparing phenolic resins using pulping spent liquor. International Journal of Adhesion and Adhesives, [S. l.], p. 72-77, 1 set. 2017.
+IMPERVEG. In: IMPERVEG AGT 1315. Aguaí - SP, 2019. Disponível em: http://imperveg.com.br/wp-content/uploads/2015/05/FICHA-T%C3%89CNICA- IMPERVEG-AGT-1315.pdf. Acesso em: 13 jan. 2020.
+IPT, INSTITUTO DE PESQUISAS TECNOLÓGICAS DO ESTADO DE SÃO PAULO, Informações Sobre Madeira. SÃO PAULO - SP, 1989. Disponível em: https://www.ipt.br/busca?modo=pesquisar&palavra_chave=informa%E7%F5es+sobre+madei ras&x=13&y=39&madeiras=1. Acesso em: 5 ago. 2020.
+IWAKIRI, Setsuo et al. Painéis de madeira. 1a ed. Curitiba, 2002. 196 p.
+KATSUKAKE, A. Uma revisão sobre a resina uréia-formaldeído (RUF) empregada na produção de painéis de madeira reconstituída. 53 p. Trabalho de Conclusão de Curso (Licenciatura em Química) - Universidade Estadual Paulista, Bauru, 2009.
+LACOMBE, J. E. A. Painéis de madeira aglomerada produzidas com resíduos de serragem e poliestireno expandido para aplicações na construção civil. 217 p. Tese (Doutora em Arquitetura e Urbanismo) - Universidade de São Paulo, São Carlos, 2015.
+LIMA, A. D. Modelos matemáticos aplicados a problemas na cultura da cana-de-açúcar e no aproveitamento da energia da biomassa. 2006. 83 f. Dissertação (Mestrado em Agronomia/Energia na Agricultura) – Faculdade de Ciências Agronômicas, Universidade Estadual Paulista. Botucatu, 2006.
+LOPES, R. V. V. Poliuretanos obtidas a partir dos óleos de linhaça (Linum Usitatissimun L.) e maracujá (Passiflora Edulis Sims F. Flavicarpa Degener) – Preparação e Caracterização. Tese de Doutorado: Univeridade de Brasilia. 2009.
+LORANDI, N. P. Estudo das Propriedades Dinâmico-Mecânicas e Fluência de Compósitos Epóxi/Tecido Não-Dobrável de Carbono Produzidos por Vartm e Rfi. 2016.
+Dissertação (Mestre Em Engenharia E Ciência Dos Materiais) - Universidade De Caxias Do Sul, Caxias do Sul - RS, 2016.
+MALLMAN, C. R. Aplicação de compósitos de madeira na criação de produtos para mobiliário: pé para móvel. 2017. Trabalho De Conclusão De Curso (Bacharel Em Design) - Universidade Do Vale Do Taquari Univates, Lajeado - RS, 2017.
+MANO, E. B. Polímeros como materiais de engenharia. 1° ed. São Paulo: Blucher, 1991. 182 p. ISBN 9788521200604.
+MELO, R. L. Projetar em Madeira: Uma Nova Abordagem. Dissertação (Mestre em Arquitetura) - Universidade de Brasília, Brasília, 2007.
+MORESCHI, J. C. Propriedades da madeira. 4o. ed. atual. Curitiba - PR, 2014. 208 p. 2021.
+NOVA CANA. Cana-de-açúcar deu origem a 17,5% de toda energia do Brasil em 2016. Brasil, 14 jul. 2017. Disponível em: https://www.novacana.com/n/cana/meio-ambiente/cana- de-acucar-origem-17-energia-brasil-2016-140717. Acesso em: 3 de maio de 2019.
+PEREIRA, M. S. Preparação e caracterização de compósitos de fibras de curauá (Ananas Euructifolius) e poliuretano obtido a partir do óleo de mamona (Ricinus Communis). Trabalho de Conclusão de Curso (Bacharel em Engenharia de Energia) - Universidade de Brasília, Brasília – DF, 2015.
+PERIAYAH, M. H.; HALIM, A. S.; SAAD, A. Z. M. Chitosan: A Promising Marine Polysaccharide for Biomedical Research. Pharmacognosy Review, [S. l.], p. 39-42, 1 jun. 2016.
+QUINAYÁ, D. C. P. Fabricação e Caracterização de Materiais Compósitos Resina Epóxi/Fibras de Bucha (Luffa cylindrica). 2017. Tese (Doutor em Engenharia de Materiais e de Processos Químicos e Metalúrgicos) - Pontifícia Universidade Católica do Rio de Janeiro, Rio de Janeiro - RJ, 2017.
+RAMAGE, M. H. et al. The wood from the trees: The use of timber in construction. Renewable and Sustainable Energy Reviews, [S. l.], p. 333-359, 1 fev. 2017.
+RIGUEIRA, C. V. L. Implantação da Metodologia da P+L no Processo Fabril da Empresa Moveleira do Polo de Ubá, MG: a Empresa Vitália Móveis Ltda. 2015. Dissertação (Mestrado em Sustentabilidade Socioeconômica Ambiental) - Universidade Federal de Ouro Preto, Ouro Preto - MG, 2015.
+ROCHA, B. B. Aproveitamento De Resíduos De Madeira E Bagaço De Cana-De-Açúcar Na Produção E Avaliação De Painéis Aglomerados. 2016. Dissertação (Mestre em Engenharia Civil) - UNESP, Ilha Solteira - SP, 2016.
+RODRIGUES, L. D. A cana-de-açúcar como matéria-prima para a produção de biocombustíveis: impactos ambientais e o zoneamento agroecológico como ferramenta para mitigação. 2010. Trabalho de Conclusão de Curso (Especialização em Análise Ambiental) - Universidade Federal de Juiz de Fora, Juiz de Fora - MG, 2010.
+MUNDO HUSQVARNA. E-book: As principais madeiras brasileiras e possibilidades de
+  uso. 8° ed., 2016. 27 p. Disponível em: www.mundohusqvarna.com.br. Acesso em: 25 fev.
+
+SANTOS, C. V. F. Método de ensaio para a determinação da resistência ao cisalhamento em elementos estruturais de madeira de Pinus spp. 2016. Dissertação (Mestre em Ciências) - UNIVERSIDADE DE SÃO PAULO, São Carlos - SP, 2016.
+SANTOS, W. L. F. et al. Fabricação de painéis de partículas de madeira tauari (Couratari Oblongifolia) utilizando resina poliuretana de mamona. Scientia Agraria, Curitiba - PR, v. 14, ed. 3, p. 95-101, 1 set. 2013.
+SILVA, V. B. et al. Análise de absorção de água em compósitos de óleo de mamona reforçado com bagaço de cana de açúcar. Congresso Brasileiro de Engenharia Química em Iniciação Científica, Uberlândia - MG, 24 jul. 2019.
+SILVA, V. B. et al. Propriedades e características estruturais de compósitos poliméricos de resina poliuretana de óleo de mamona (Ricinus Communis L.) reforçados com fibras do bagaço de cana-de-açúcar. Revista Perspectivas Online: Exatas & Engenharia, Campos dos Goytacazes - RJ, v. 09, ed. 26, p. 35-44, 1 dez. 2019.
+SOARES, S. S. et al. Valorização do bagaço de cana-de-açúcar na produção de painéis aglomerados de baixa densidade. Ciência da Madeira (Brazilian Journal of Wood Science), v. 8, ed. 2, p. 64-73, 2017.
+SOUSA, L. K. Produção e Caracterização Mecânica de Compósitos de Resina Poliuretana à Base de Óleo de Mamona e Fibras de Rami, Sisal e Bucha Vegetal. Dissertação (Mestre em Engenharia Civil) - Universidade Federal de Uberlândia, Uberlândia - MG, 2013.
+STANZL-TSCHEGG, S. E. Wood as a bioinspiring material. Materials Science and Engineering C, [S. l.], p. 1174-1183, 10 dez. 2010.
+TAKADA, C. R. S. Obtenção de materiais compósitos a partir de resíduo agroenergético: caso do aproveitamento da palha da cana-de-açúcar. Orientador: Juan Carlos Valdés Serra. 60 p. Dissertação (Mestre em Agroenergia) - Universidade Federal do Tocantins, Palmas, 2014.
+UNICA - UNIÃO DA INDÚSTRIA DE CANA-DE-AÇÚCAR. Moagem de cana-de-açúcar e produção de açúcar e etanol - safra 2017/2018. Brasil, 2018. Disponível em: http://www.unicadata.com.br/historico-de-producao-e- moagem.php?idMn=32&tipoHistorico=4&acao=visualizar&idTabela=1984&safra=2017%2F 2018&estado=TO. Acesso em: 3 de maio de 2019.
+UNICA - UNIÃO DA INDÚSTRIA DE CANA-DE-AÇÚCAR. Moagem de cana-de-açúcar e produção de açúcar e etanol - safra 2005/2006. Brasil, 10 dez. 2006. Disponível em: http://www.unicadata.com.br/historico-de-producao-e- moagem.php?idMn=32&tipoHistorico=4&acao=visualizar&idTabela=1984&safra=2005%2F 2006&estado=TO. Acesso em: 3 de maio de 2019.
+WEINKAMER, R.; FRATZL, P. Mechanical adaptation of biological materials — The examples of bone and wood. Materials Science and Engineering C, [S. l.], p. 1164-1173, 15 dez. 2010.
+YU, Zhi-Long et al. Bioinspired polymeric woods. Science Advances, [S. l.], p. 1-10, 10 ago. 2018.
+ZHANG, L. et al. Phenolic resin modified by boron-silicon with high char yield. Polymer Testing, p. 208-2013, 1 fev. 2019.
+ZENID, G. J. Madeira: uso sustentável na construção civil. 2o Ed. São Paulo: IPT, 2009. 99p.

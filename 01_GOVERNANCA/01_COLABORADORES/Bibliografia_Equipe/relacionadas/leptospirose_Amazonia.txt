@@ -1,0 +1,335 @@
+  10.18606/2318-1419/amazonia.sci.health.v12n4p107-120
+ ARTIGO ORIGINAL
+<<Recebido em: 08/08/2024 Aceito em: 11/11/2024. >>
+Aspectos epidemiológicos e sociais relacionados à ocorrência de leptospirose humana no estado do Pará na Amazônia Brasileira.
+Epidemiological and social aspects related to the occurrence of human leptospirosis in the state of Pará in the Brazilian Amazon.
+   Andréia Ferreira da Silva1, Roberta, Renato Germano3, André Roberto de Oliveira Santos4
+RESUMO Modesto Braga2
+Foram avaliados os dados relacionados à ocorrência de leptospirose humana no período de 2007-2017 no estado do Pará/Brasil, com o objetivo de avaliar a ocorrência de leptospirose, os aspectos epidemiológicos, sociais e fatores de risco que podem favorecer a ocorrência da doença em humanos. Os dados secundários do Sinan foram analisados estatisticamente quanto às frequências das variáveis, teste qui-quadrado, razão de ODDS e regressão múltipla. O primeiro semestre apresentou maior incidência de casos, sendo mais frequentes em homens entre 20 e 39 anos. O fator de risco contato/limpeza de local com sinais de roedores (n=839; 63,61%) foi o preditor mais frequente e variável de casos (Beta = 0,27, F(499) = 7,5); bem como sexo (Beta = 0,13, F(499) = 4,18); e contato com água e lama (Beta = 0,12, F(499) = 3,57). Concluímos que a ocorrência da leptospirose foi mais frequente em pessoas domiciliadas na área urbana, do sexo masculino e está relacionada à deficiência de infraestrutura de saneamento básico, haja vista que foram indicados pela regressão linear como fatores preditores para a infecção humana. Além disso, indicamos a adoção de políticas que garantam a completude do preenchimento das informações na base de dados do Sinan.
+Palavras-chave: Leptospirose. Epidemiologia. Amazônia. Saneamento básico.
+ABSTRACT
+Data related to the occurrence of human leptospirosis in the period 2007-2017 in the state of Pará/Brazil were evaluated, to evaluate the occurrence of leptospirosis, the epidemiological, social aspects, and risk factors that may favor the occurrence of the disease in humans. Secondary data from Sinan were statistically analyzed regarding variable frequencies, chi-square test, ODDS ratio, and multiple regression. The first semester showed a higher incidence of cases, more frequent in men between 20 and 39 years old. The risk factor of contact/cleaning a place with signs of rodents (n=839; 63.61%) was the most frequent and variable predictor of cases (Beta = 0.27, F(499) = 7.5); as well as sex (Beta = 0.13, F(499) = 4.18); and contact with water and mud (Beta = 0.12, F(499) = 3.57). We concluded that leptospirosis was more frequent in people living in urban areas, males, and is related to the deficiency of basic sanitation infrastructure, given that they were indicated by linear regression as predictive factors for human infection. Furthermore, we recommend adopting policies that guarantee the completeness of filling out information in the Sinan database.
+Keywords: Leptospirosis. Epidemiology. Amazon. Basic Sanitation
+1 Doutora Universidade Federal do Pará - UFPA. Faculdade de Matemática, Castanhal, Brasil. https://orcid.org/0000-0002-1160- 2109
+E-mail: andreiasilva@ufpa.br
+2 Doutora Universidade Federal do Pará - UFPA. Faculdade de Matemática, Castanhal, Brasil. https://orcid.org/0000-0003-3747- 5862
+3 Doutor Universidade Federal do Pará - UFPA. Faculdade de Matemática, Castanhal, Brasil. https://orcid.org/0000-0001-7052- 2152
+4 Graduado Universidade Federal do Pará - UFPA. Faculdade de Matemática, Castanhal, Brasil. https://orcid.org/0000-0002-4895- 6111
+     107
+
+DOI: 10.18606/2318-1419/amazonia.sci.health.v12n4p707-120 Revista Amazônia Science & Health
+2024, Vol. 12, No 4
+1. INTRODUÇÃO
+DA SILVA, AF; BRAGA, RM; GERMANO, R; SANTOS, ARO
+Aspectos epidemiológicos e sociais relacionados à ocorrência de leptospirose humana no estado do Pará na Amazônia Brasileira
+    A leptospirose é uma enfermidade zoonótica transmitida pela bactéria Leptospira spp., disseminada no ambiente por meio da urina de indivíduos infectados.1 Pode causar a infecção por meio do contato direto das mucosas e pele com a urina, ou pela ingestão de alimentos e água contaminados.2
+Em áreas urbanas, os roedores são os animais sinantrópicos incriminados como
+ reservatórios do agente.1 Entretanto, na extensa Amazônia brasileira que possui grande biodiversidade, já foram identificados outros animais com leptospirose, tais como marsupiais, mamíferos aquáticos como os peixes-boi amazônicos, botos-cinzas e tucuxis, bovinos, bubalinos, equinos e caninos, representando uma diversidade de espécies portadoras e disseminadoras da bactéria no meio ambiente silvestre, rural e urbano.3-8
+Em áreas urbanas, os surtos em humanos têm ocorrido, principalmente em período de chuvas, pois favorece o contato do homem e animais com a bactéria durante as inundações e alagamentos9-10; mas também pode estar relacionada com atividades ocupacionais11-12 e de recreação, assim como desastres ambientais.2,13-16
+Após infectado pela bactéria, o ser humano apresenta quadro sintomático inicial semelhante a de outras enfermidades que ocorrem no mesmo período de alta pluviosidade, assim como também pode ser diagnosticada como co-infecção à outras enfermidades, tais como dengue, malária e Chikungunya.1,17 Devido a isso, torna-se necessário maior atenção no diagnóstico clínico epidemiológico, assim como a utilização de testes diagnósticos diferenciais, de modo a iniciar o tratamento correto e impedir a rápida evolução clínica do paciente para o óbito.1 Além disso, o diagnóstico correto
+ propicia a redução da possibilidade de subnotificação da leptospirose.
+Considerando as características epidemiológicas, territoriais e socioeconômicas, o estado do Pará apresentou 32,4% casos confirmados de leptospirose na região norte, no período de 2007 a 2017.18 Está localizado na Amazônia brasileira, sendo o segundo maior estado em extensão territorial do Brasil, com 1.245.870,704 km2, onde somente 1.745,77 km2 constitui a área urbanizada, ocupada pelos habitantes dos 144 municípios19 (Figura 1). Além disso, possui características ambientais favoráveis à manutenção do agente da leptospirose como clima quente e úmido durante todo o ano, alto índice
+ 108
+
+DOI: 10.18606/2318-1419/amazonia.sci.health.v12n4p707-120 Revista Amazônia Science & Health
+2024, Vol. 12, No 4
+DA SILVA, AF; BRAGA, RM; GERMANO, R; SANTOS, ARO
+Aspectos epidemiológicos e sociais relacionados à ocorrência de leptospirose humana no estado do Pará na Amazônia Brasileira
+   pluviométrico, principalmente durante o inverno amazônico (dezembro a junho), assim como pobreza, analfabetismo, deficiência de saneamento básico e variada biodiversidade animal de possíveis portadores da bactéria.1, 20-22
+     Figura 1: Localização do estado do Pará no Brasil. Fonte: Elaborado pelos autores, 2024.
+ Também se configura como um dos estados brasileiros de menor índice de saneamento básico, pois no ano 2021, 51,5% da população não tinha acesso à água, 91,6% não tinha coleta de esgoto, indicando que somente 9,7% da água consumida que se transformava em esgoto era tratado, assim como possuía o menor percentual (79%) de população com atendimento de coleta de resíduo sólido domiciliar (lixo).22
+Globalmente a ocorrência da leptospirose tem sido subestimada através da subnotificação/ausência de registro correto dos casos, e por estar relacionada aos baixos
+ 109
+
+DOI: 10.18606/2318-1419/amazonia.sci.health.v12n4p707-120 Revista Amazônia Science & Health
+2024, Vol. 12, No 4
+DA SILVA, AF; BRAGA, RM; GERMANO, R; SANTOS, ARO
+Aspectos epidemiológicos e sociais relacionados à ocorrência de leptospirose humana no estado do Pará na Amazônia Brasileira
+   níveis socioeconômicos, às precárias condições de infraestrutura e de saneamento básico, e à alta infestação de roedores nos domicílios nas áreas urbanas.23
+Diante do exposto, este estudo objetiva avaliar os dados registrados no SINAN, referente aos casos de leptospirose em pessoas residentes no estado do Pará, no período de 2007 a 2017, discriminando aspectos epidemiológicos, sociais, fatores de risco que podem favorecer a ocorrência da doença em humanos.
+ 2. MATERIAIS E MÉTODOS
+2.1 Comitê de ética
+A pesquisa não foi submetida ao Comitê de ética, por utilizar informações de acesso e domínio público (https://www.gov.br/acessoainformacao/pt-br), com dados secundários já agregados e sem possibilidade de identificação individual (Resolução do Conselho Nacional de Saúde do Brasil - CNS n°674 de 06 de maio de 2022).
+2.2 Dados
+Foi realizado estudo epidemiológico retrospectivo descritivo de casos confirmados de leptospirose, em pessoas residentes no estado do Pará no período de 2007 a 2017, utilizando-se a base de dados do Sistema de Informação de Agravos de Notificação (Sinan) do Ministério da Saúde do Brasil, alimentada a partir das respostas do formulário de notificação da doença.
+Os dados originais estão disponíveis no repositório (https://doi.org/10.48331/scielodata.YIGZUS), foram tabulados e analisados estatisticamente com o software estatístico, de uso livre, jamovi®24.
+Foram avaliados os casos de pacientes com leptospirose (n=1.319) diagnosticados no estado durante o período estudado, considerando as variáveis: semestre do ano em que ocorreram os primeiros sintomas, de acordo com a data informada na ficha de investigação epidemiológica, sexo, idade (categorizada a cada 10 anos de idade), escolaridade (considerando o nível de estudo completo e incompleto da mesma categoria), situação de risco, zona provável de infecção do paciente e ambiente de infecção.
+Os dados foram analisados considerando as frequências relativas aos casos confirmados, correlação (teste de qui-quadrado de pearson com nível de significância ρ<0,005 e intervalo de confiança de 95%), e ODDS ratio para avaliar as chances de
+ 110
+
+DOI: 10.18606/2318-1419/amazonia.sci.health.v12n4p707-120 Revista Amazônia Science & Health
+2024, Vol. 12, No 4
+DA SILVA, AF; BRAGA, RM; GERMANO, R; SANTOS, ARO
+Aspectos epidemiológicos e sociais relacionados à ocorrência de leptospirose humana no estado do Pará na Amazônia Brasileira
+  infecção. Também foi realizada regressão linear múltipla a fim de identificar quais variáveis foram preditoras da infecção humana no estado durante o período estudado.
+Na realização do teste de qui-quadrado não foram consideradas as informações “ausentes” (campos sem preenchimento de informações), e das categorias “ignorado”, “outro” e “não se aplica” por não apresentarem informações válidas de interesse epidemiológico para cada variável estudada
+3. RESULTADOS
+Observamos 7.225 notificações de casos suspeitos de leptospirose em pacientes residentes no estado durante o período de 2007 a 2017, no entanto somente 1.319 notificações foram confirmadas como leptospirose, totalizando 18,26% (1.319/7.225) de casos confirmados, demonstrados na Figura 2.
+Figura 2: Casos notificados e casos confirmados (doentes) residentes no estado do Pará no período de 2007 a 2017. Fonte: Sinan (Ministério da Saúde).
+Os três municípios do estado em que mais ocorreram casos durante o período estudado foram Belém 47,61% (628/1.319), Santarém 6,37% (84/1.319) e Ananindeua 5,76% (76/1.319), cuja densidade populacional é 1.230,25 hab/km2, 18,55 hab/km2 e 2.512,20 hab/km2, respectivamente.18
+   111
+
+                                         DOI: 10.18606/2318-1419/amazonia.sci.health.v12n4p707-120 Revista Amazônia Science & Health
+2024, Vol. 12, No 4
+DA SILVA, AF; BRAGA, RM; GERMANO, R; SANTOS, ARO
+Aspectos epidemiológicos e sociais relacionados à ocorrência de leptospirose humana no estado do Pará na Amazônia Brasileira
+  Na Tabela 1 estão discriminadas as frequências das variáveis epidemiológicas e sociais avaliadas, considerando os casos confirmados no estado durante o período, as informações do teste de qui-quadrado de pearson e ODDS ratio.
+Tabela 1: Características das variáveis epidemiológicas e sociais dos casos confirmados de leptospirose humana no estado do Pará, do período de 2007 a 2017.
+   Variáveis
+Casos confirmados
+(n=1319) (%)
+Frequência
+ρ<0,005ODDS
+ratio
+      SEMESTRE DE INÍCIO DOS PRIMEIROS SINTOMAS
+       1° semestre
+914
+69,30
+       2° semestre
+395
+29,95
+       Informações “ausente”*
+10
+0,75
+       SEXO
+        Masculino
+1011
+76,65
+222,58
+     Feminino
+308
+23,35
+        IDADE (anos)
+        0-9
+50
+3,79
+       10-19
+249
+18,88
+         20-29
+286
+21,68
+       30-39
+242
+18,35
+89,32 -
+       40-49
+208
+15,77
+       50-59
+161
+12,21
+         60-ou mais
+123
+9,33
+        ESCOLARIDADE (completo e incompleto)
+      Analfabeto
+   Ensino fundamental
+   Ensino médio
+   Ensino superior
+   Informações “ausente” + “ignorado” + “não se aplica”
+      SITUAÇÃO DE RISCO* (Contato/limpeza de:)
+        Local com sinais de roedores
+839
+63,61
+558,88
+       Água ou lama
+680
+51,55
+394,12
+       Lixo ou entulho
+529
+40,11
+239,42
+       Roedores diretamente
+454
+34,42
+304,28
+       Terreno baldio
+391
+29,64
+45,31
+       Criação de animais
+308
+23,35
+1,013
+       Fossa, caixa de gordura ou esgoto
+257
+19,48
+60,41
+       Rio, córrego, lagoa ou represa
+242
+18,35
+0,10
+       Caixa d'água
+132
+10,01
+1,23
+       Plantio/colheita (lavoura)
+75
+5,69
+3,77
+       Armazenamento de grãos/ alimento
+44
+3,34
+0,004
+      AMBIENTE DA INFECÇÃO
+ 19,73
+1,10 0,82
+1,41 0,50
+    13
+522
+236
+25
+250
+0,99 39,58 17,89 1,90
+39,65
+32,37 -
+2,15 2,13 1,99 2,45 1,40 1,05 1,69 0,97
+0,90 0,79 0,98
+                     112
+
+DOI: 10.18606/2318-1419/amazonia.sci.health.v12n4p707-120 Revista Amazônia Science & Health
+2024, Vol. 12, No 4
+DA SILVA, AF; BRAGA, RM; GERMANO, R; SANTOS, ARO
+Aspectos epidemiológicos e sociais relacionados à ocorrência de leptospirose humana no estado do Pará na Amazônia Brasileira
+    Domiciliar
+   Trabalho
+   Lazer
+   Informações “ausente” + ”outro”+ “ignorado”
+      ZONA PROVÁVEL DE INFECÇÃO
+      Urbana   851 64,52
+      Rural   124 9,40
+38,49
+         Periurbana   33 2,50
+         Informações “ausente” + “ignorado” 311 23,58
+    Fonte:
+    616 160 23
+520
+46,70 12,13 1,75
+39,42
+67,22
+            Base de dados SINAN sobre leptospirose em residentes no estado do Pará no período de 2007-2017. Legenda: ρ - valor de ρ (teste qui-quadrado); “Ausente” são informações não preenchidas na ficha de notificação da doença, disponível na base de d
+Identificamos relação estatisticamente significativa entre as variáveis de: situação de risco contato com local com sinais de roedores Beta = 0,27, F(499) = 7,5; sexo Beta = 0,13, F(499) = 4,18; contato com água e lama Beta = 0,12, F(499) = 3,57. Configurando características preditoras mais fortes da infecção humana no estado durante o período estudado. O modelo de regressão múltipla obteve um coeficiente de determinação ajustado (R2) de 0,220, F=15,9 mostra que esse resultado é improvável de ter sido obtido apenas devido ao erro amostral, dado que a hipótese nula seja verdadeira (valor p<0,01). Além disso, os testes de significância estatística para cada coeficiente de regressão, foram estatisticamente significativos (p<0,05), sugerindo que estas variáveis independentes têm um efeito significativo na quantidade de casos confirmados de leptospirose dos dados estudados.
+Adicionalmente, identificamos que existem 46,08% dos campos sem preenchimento no banco de dados (“ausentes”) e outros campos que tinham a opção de preenchimento como “ignorado”, “não se aplica” ou “outro”, conforme apresentado na Tabela 1.
+4. DISCUSSÃO
+As características epidemiológicas analisadas dos casos registrados de leptospirose no período de 2007-2017 no Pará, Brasil, corroboram com outros estudos nacionais e mundiais relacionados a populações pobres residentes de áreas com deficiência de
+ ados utilizada. As informações “Ausente +ignorado=não se
+ aplica” não foram contabilizadas para fins de análise do qui-quadrado.
+  113
+
+DOI: 10.18606/2318-1419/amazonia.sci.health.v12n4p707-120 Revista Amazônia Science & Health
+2024, Vol. 12, No 4
+DA SILVA, AF; BRAGA, RM; GERMANO, R; SANTOS, ARO
+Aspectos epidemiológicos e sociais relacionados à ocorrência de leptospirose humana no estado do Pará na Amazônia Brasileira
+  saneamento, e sujeitas a inundações e alagamentos, embora a região amazônica apresente grande biodiversidade de hospedeiros da bactéria.25-27
+Entretanto, são necessárias políticas públicas mais eficazes para modificação do contexto de ocorrência da doença e prevenção, principalmente na região Amazônica, pois possui características ambientais favoráveis à manutenção da Leptospira spp. (altos índices pluviométricos, a diversidade biológica e grande rede hidrográfica), assim como grande biodiversidade de animais possíveis portadores da bactéria e a histórica falta de investimento em saneamento.28-30
+A Figura 2 apresenta grande quantidade de casos notificados (suspeitos) em relação aos casos confirmados, o que pode sugerir a necessidade de capacitação profissional no diagnóstico clínico, ou a ocorrência de outras enfermidades com os mesmos sintomas e no mesmo período.1
+Os municípios que se destacaram com maior ocorrência de casos (Belém, capital do estado; Ananindeua, região metropolitana de Belém, e Santarém) são municípios economicamente importantes na sua região e têm grande densidade populacional, entretanto dispõem de infraestrutura urbana de saneamento inadequada para absorver os trabalhadores como residentes no município.25,29,31
+A ocorrência da leptospirose está relacionada à maior incidência de chuvas no estado do Pará, e a maior frequência de casos coincidiu com os primeiros seis meses do ano (período de inverno amazônico), assim como observado por outros estudos.28, 31 A análise estatística indicou a correlação entre a maior chance de ocorrência dos casos no primeiro semestre do ano, reforçando a necessidade de ações preventivas neste período.
+Salienta-se que nesse período também ocorrem as maiores cheias dos corpos hídricos no estado, que agravadas pelas maiores cotas de maré, e associadas ao alto índice pluviométrico, afetam as populações que residem às proximidades dos corpos d’água, assim como também ocasionam alagamentos das vias públicas, e o acúmulo de água em áreas de topografia mais baixas.25,31,32
+A maior ocorrência da doença foi em pessoas do sexo masculino, categoria estatisticamente relacionada à ocorrência da doença, assim como tem maior chance de se infectar. Essa condição pode estar associada à possibilidade de maior exposição à bactéria, devido a práticas de atividades ocupacionais e recreativas ao ar livre, ou à exposição no ambiente domiciliar.2,15,33 Embora a frequência da leptospirose em homens seja maior,
+ 114
+
+DOI: 10.18606/2318-1419/amazonia.sci.health.v12n4p707-120 Revista Amazônia Science & Health
+2024, Vol. 12, No 4
+DA SILVA, AF; BRAGA, RM; GERMANO, R; SANTOS, ARO
+Aspectos epidemiológicos e sociais relacionados à ocorrência de leptospirose humana no estado do Pará na Amazônia Brasileira
+  cogitamos que o cenário real da doença pode não estar sendo notificado, pois as pessoas do sexo masculino são mais resistentes à utilização de serviços de saúde, e os casos são notificados somente quando a situação está mais agravada.21,34
+Entre os casos confirmados, houve maior frequência e correlação estatisticamente significativa na faixa etária de 20 a 29 anos, corroborando com o apresentado por outros estudos.18,27,35 A segunda maior frequência foi na faixa etária de pessoas de 10 a 19 anos, o que sugere que o cenário de infectados nessa faixa etária possa ser maior, considerando que é menos frequente o diagnóstico da doença, por apresentar sintomas mais leves ou sugestivos de outras doenças.36-37. Dessa forma, é necessário investigar a situação de exposição desses indivíduos à bactéria, considerando o meio ambiente, a situação de pobreza, a ocupação do indivíduo, e também as características predominantes da economia e saneamento em cada região do estado.
+Neste estudo, as maiores frequências foram no grupo de pessoas com ensino fundamental completo e incompleto, indicando que o menor nível de escolaridade pode estar associado à maior possibilidade de exposição aos riscos de infecção, devido à vulnerabilidade social e econômica, como já apresentado em outros trabalhos.27,31 Nas análises estatísticas observamos significância relacionada ao grau de escolaridade, ou seja, o grau de instrução e de informação do indivíduo pode favorecer a infecção humana.
+A avaliação estatística das possíveis múltiplas respostas referentes aos fatores de risco indicaram correlação estatisticamente significativa com os fatores contato com local com sinais de roedores, contato com água ou lama, e contato direto com roedores, respectivamente.
+Entretanto, o contato direto com roedores e com local com sinal de roedores, apresentaram duas vezes mais chance de infecção humana, reforçando a necessidade de infraestrutura e saneamento para evitar a aproximação desses animais sinantrópicos aos domicílios. Constatamos que a segunda maior frequência está relacionada à importância da água como via de contaminação humana, por meio do contato com água de alagamentos e inundações no período de grande incidência de chuvas e cheia dos corpos d’água ou lama e limpeza dos ambientes.1,18,38
+Foi observada a maior frequência de infecção ocorrida no ambiente domiciliar, assim como significância estatística relacionada à maior probabilidade de infecção neste ambiente, o que reforça a importância de políticas públicas que visem a redução da
+ 115
+
+DOI: 10.18606/2318-1419/amazonia.sci.health.v12n4p707-120 Revista Amazônia Science & Health
+2024, Vol. 12, No 4
+DA SILVA, AF; BRAGA, RM; GERMANO, R; SANTOS, ARO
+Aspectos epidemiológicos e sociais relacionados à ocorrência de leptospirose humana no estado do Pará na Amazônia Brasileira
+  pobreza, a melhoria da infraestrutura urbana e de saneamento básico, haja vista o Pará ser um dos estados de menor índice de cobertura dos serviços de saneamento em todo o Brasil.23,24
+A maior frequência de casos foi observada em pessoas residentes em áreas urbanas, assim como a significância estatística.27,2 Esses dados reforçam a importância de políticas públicas que priorizem o saneamento básico como medida de prevenção para doenças, além da educação em saúde, principalmente em áreas urbanas do estado. No entanto há de se ressaltar que a menor frequência de casos na área rural, pode ser ocasionada por populações rurais e tradicionais isoladas, que acometidas e sem atendimento em saúde, podem evoluir para a cura sem intervenção médica ou ao óbito sem registro pelos órgãos de saúde.
+Os resultados da regressão linear confirmaram que o gênero é um fator preditor para
+a infecção de leptospirose em humanos, notadamente em pessoas do sexo masculino,
+conforme já observada na correlação e na análise de qui-quadrado. A deficiência na
+infraestrutura e saneamento básico oferecido à população, proporciona situações de maior
+exposição humana ao contato com locais com sinais de roedores, assim como água e lama.15,27,33,39-41
+O grande percentual de campos de variáveis “ausentes”, “ignorado” ou “outro” reforçam a preocupação com a incompletude no preenchimento dos dados no Sinan, pois retrata parcialmente o perfil da ocorrência da doença. Essa condição pode ocasionar impacto no direcionamento das políticas públicas sociais e de saúde no Brasil, colaborando para a manutenção silenciosa desta enfermidade no estado.25,40
+5. CONSIDERAÇÕES FINAIS
+Através dos dados avaliados, concluímos que a ocorrência da leptospirose no estado do Pará é mais frequente em pessoas domiciliadas na área urbana, do sexo masculino e está relacionada à deficiência de infraestrutura de saneamento básico nos municípios, haja vista que foram indicados pela regressão linear como fatores preditores para a infecção humana.
+Além disso, identificamos que são necessárias políticas mais eficazes que garantam a assistência à saúde para as populações domiciliadas na área rural/de difícil acesso, a completude do preenchimento das informações na base de dados do Sinan, para que
+  116
+
+DOI: 10.18606/2318-1419/amazonia.sci.health.v12n4p707-120 Revista Amazônia Science & Health
+2024, Vol. 12, No 4
+DA SILVA, AF; BRAGA, RM; GERMANO, R; SANTOS, ARO
+Aspectos epidemiológicos e sociais relacionados à ocorrência de leptospirose humana no estado do Pará na Amazônia Brasileira
+  possam representar o cenário real da ocorrência da leptospirose no estado, e que os dados possam ser utilizados como base para a adoção de políticas públicas eficazes para combate e prevenção da doença no estado do Pará.
+REFERÊNCIAS
+1. Ministério da Saúde (Brasil). Secretaria de Vigilância em Saúde. Coordenação-Geral de Desenvolvimento da Epidemiologia em Serviços. Guia de Vigilância em Saúde. In: Leptospirose. 3a edição. Brasília - DF: Ministério da Saúde; 2019. p. 595-614.
+2. Rahim FF, Maideen SFK, Abdulrahman SA, Rashid A. Multinational municipal waste collectors and leptospirosis prevention: Assessment of knowledge, attitudes, practices and the associated factors. Clin Epidemiol Glob Health. 2023;20(2):1-6. https://doi.org/10.1016/j.cegh.2023.101235
+   3. Mesquita GSS, Rocha KS, Monteiro TRM, Rosário MKS, Baia IWM, Pereira HS, et al. Detection of antibodies against Leptospira spp in free-living marsupials caught in the Eastern Amazon. Short Communication. Rev Soc Bras Med Trop. 2018;51(03):368-371. https://doi.org/10.1590/0037-8682-0236-2017
+  4. Rodrigues TCS, Santos ALQ, Pinheiro ES, Piatti RM, Castro V, Buiatte ABG, et al. Levantamento de Leptospira e Brucella em peixes-boi amazônicos, botos do rio Amazonas e um tucuxi na Amazônia brasileira. Dis Aquat Org. 2022;150:17-29. https://doi.org/10.3354/dao03667
+5. Negrão AMG, Barra ECM, Rodrigues EDL, Brito TC, Moura TPC, Junior FAB, et al. Inquérito sorológico da leptospirose em animais domésticos de propriedades rurais da Ilha do Marajó - região amazônica, Brasil. Ver Educ Cont Med Vet Zoot CRMV-SP. 2016:14(2):93-93. https://www.revistamvez- crmvsp.com.br/index.php/recmvz/article/view/32161
+6. Rodrigues TCS, Homem VSF, Heinemann MB, Moraes ZM, Vasconcellos AS, Ferreira F, et al. ESTUDO EPIDEMIOLÓGICO DA LEPTOSPIROSE BOVINA E HUMANA NA
+    AMAZÔNIA ORIENTAL BRASILEIRA. Ver Soc Bras Med Trop. 2001;34(2):173- 180.https://doi.org/10.1590/S0037-86822001000200004
+7. Negrão AMG, Molnar E, Molnar L. Leptospirose em bovinos abatidos em matadouros no Estado do Pará. Ver Ciên Agr. 2000:(33): 77-86. https://ajaes.ufra.edu.br/index.php/ajaes/article/view/1941/572
+8. Sousa IKF, Silva RLC, Sousa RS, Vieira CEM, Melo S, Quevedo GP, et al. Frequência de leptospirose em equinos em Manaus e região metropolitana do Estado do Amazonas, Brasil. J Veterinário Res Anima Ciência. 2020:57(4):e172607. https://doi.org/10.11606/issn.1678-4456.bjvras.2020.172607
+    117
+
+DOI: 10.18606/2318-1419/amazonia.sci.health.v12n4p707-120 Revista Amazônia Science & Health
+2024, Vol. 12, No 4
+DA SILVA, AF; BRAGA, RM; GERMANO, R; SANTOS, ARO
+Aspectos epidemiológicos e sociais relacionados à ocorrência de leptospirose humana no estado do Pará na Amazônia Brasileira
+   9. Duarte JL, Giatti LL. Incidência da leptospirose em uma capital da Amazônia Ocidental brasileira e sua relação com a variabilidade climática e ambiental, entre os anos de 2008 e 2013. Epidemiol Serv Saude. 2019:28(1):e2017224. https://doi.org/10.5123/S1679- 49742019000100009
+10. Alves SFL, Pereira AL, Marques LM, Noguchi SKT, Teixeira RC, Cunha KC. Análise temporal da relação entre incidência de casos de leptospirose e precipitação pluviométrica. Brazilian Journal of Development. 2022:8(4):31411-31422. https://doi.org/10.34117/bjdv8n4-564
+    11. Dias HLT, Santos WRR, Lima PDL, Araújo CV, Negrão AMG, Vasconcellos AS. Inquérito sorológico para leptospirose em condutores de carroças e equídeos de tração em Belém, Pará. Revista de Ciências Agrárias. 2015:58(4):396-401. http://dx.doi.org/10.4322/rca.2013
+12. Machado GB, Seixas Neto AC, Dewes C, Fortes TP, Pacheco PS, Freitas LS, et al. LEPTOSPIROSE HUMANA: UMA REVISÃO SOBRE A DOENÇA E OS FATORES DE RISCO ASSOCIADOS À ZONA RURAL. Science and animal health. 2017:5(3): 238-250. https://periodicos.ufpel.edu.br/index.php/veterinaria/article/download/11412/8351/
+  13. Rehan ST, Ali E, Sheikh A, Nashwan AJ. Urban flooding and risk of leptospirosis; Pakistan on the verge of a new disaster: A call for action. Int J Hyg Environ Health. 2023;248(2):1-3. https://doi.org/10.1016/j.ijheh.2022.114081.
+14. Toemjai T, Thongkrajai P, Nithikathkul C. Factors affecting preventive behavior against leptospirosis among the population at risk in Si Sa Ket, Thailand. One Health. 2022;14(1):1- 7. https://doi.org/10.1016/j.onehlt.2022.100399.
+15. Pelissari DM, Maia-Elkhoury ANS, Arsky M de LNS, Nunes ML. Revisão sistemática dos fatores associados à leptospirose no Brasil, 2000-2009. Epidemiol Serv Saude. 2011;20(4):565–74. https://doi.org/10.5123/S1679-49742011000400016.
+16. Oliveira PPV, Ohara PM, Hoffmann JL, Silva FWF, De Lima AM., Patrício MIA, et al. Fatores de risco para leptospirose, relacionados à atividade laboral em agricultores de arroz em uma cidade do nordeste do Brasil, 2008. J Health Biol Sci. 2014;(3):99-107. doi: https://doi.org/10.12662/2317-3076jhbs.v2i3.92.p99-107.2014.
+18. Ministério da Saúde (Brasil). Saúde de A - Z. Leptospirose. Situação epidemiológica. Casos confirmados e óbitos por leptospirose no Brasil e Grandes regiões do Brasil. [cited 2022 July 12]. Available from: https://https://www.gov.br/saude/pt-br/assuntos/saude-de-a- a-z/l/leptospirose/situacao-epidemiologica
+     17. Meguins LC, Júnior HOM. Relato de caso. Coinfecção por leptospirose e dengue em um paciente da Amazônia. Rev Pan-Amaz Saude. 2010:1(4):97-99. http://dx.doi.org/10.5123/S2176-62232010000400014
+    118
+
+DOI: 10.18606/2318-1419/amazonia.sci.health.v12n4p707-120 Revista Amazônia Science & Health
+2024, Vol. 12, No 4
+DA SILVA, AF; BRAGA, RM; GERMANO, R; SANTOS, ARO
+Aspectos epidemiológicos e sociais relacionados à ocorrência de leptospirose humana no estado do Pará na Amazônia Brasileira
+  19. Instituto Brasileiro de Geografia e Estatística – IBGE (Brasil). Cidades @. Informações sobre o estado do Pará. 2022 [cited 2023 Nov 02 ]. Available from: https://cidades.ibge.gov.br/brasil/pa/panorama
+20. Secretaria de Saúde do estado do Pará – SESPA (Brasil). Plano Estadual de Saúde 2016-2019 [cited 2019 Oct 15]. p. 1–264. Available from: https://www.conass.org.br/pdf/planos-estaduais-de-saude/PA_Plano-estadual-saude- 2016-2019.pdf
+21. Secretaria de Saúde do estado do Pará – SESPA (Brasil). Plano estadual de saúde do Pará 2012 – 2015. [cited 2018 Apr 10]. p. 1–248. Available from: https://www2.mppa.mp.br/sistemas/gcsubsites/upload/37/PES-2012-2015.pdf
+22. Instituto Trata Brasil. Painel do Saneamento Brasil. Comparação de indicadores do saneamento por localidade. 2021. [cited 2023 April 22]. Available from: http://https://www.painelsaneamento.org.br/
+23. Costa F, Ribeiro GS, Felzemburgh RDM, Santos N, Reis RB, Santos AC, et al. Influence of Household Rat Infestation on Leptospira Transmission in the Urban Slum Environment. PLoS Negl Trop Dis. 2014;8(12):e3338. https://doi.org/10.1371/journal.pntd.0003338
+24. NAVARRO, Danielle; FOXCROFT. David. Learning statistics with jamovi: a tutorial for psychology students and other beginners, Oxford, 2022.
+25. Gonçalves NV, Araujo EN, Sousa Júnior AS, Pereira WMM, Miranda CSC, Campos PS da S, et al. Distribuição espaço-temporal da leptospirose e fatores de risco em Belém, Pará, Brasil. Cien Saude Colet. 2016;21(12):3947-3955. https://doi.org/10.1590/1413- 812320152112.07022016
+26. Donaires LF, Céspedes MJ, Sihuincha MG, Pachas PE. Environmental and social determinant factors for the reemergence of leptospirosis in the Amazon region of Peru, 2012. Rev Peru Med Exp Salud Publica. 2012;29(2):280–284. https://doi.org/10.1590/s1726-46342012000200020
+27. Vasconcelos CH, Fonseca FR, Lise MLZ, Arsky M de LNS. Fatores ambientais e socioeconômicos relacionados à distribuição de casos de leptospirose no Estado de Pernambuco, Brasil, 2001–2009. Cad Saude Colet. (Rio J.) jan/mar de 2012; XX(1)49–56.
+28. Duarte JL, Giatti LL. Incidência da leptospirose em uma capital da Amazônia Ocidental brasileira e sua relação com a variabilidade climática e ambiental, entre os anos de 2008 e 2013*. Epidemiol Serv Saude. 2019;28(1):1-9. https://doi.org/10.5123/S1679- 49742019000100009
+29. Calado EJR, Oliveira VDS, Dias FCF, Lopes AB, Oliveira AA, De Santana VMX, et al. Leptospirose na região Norte do Brasil: Uma revisão da literatura e perfil epidemiológico comparativo. Rev Patol do Tocantins. 2017;4(2):65-71. http://dx.doi.org/10.20873/uft.2446- 6492.2017v4n2p65
+              119
+
+DOI: 10.18606/2318-1419/amazonia.sci.health.v12n4p707-120 Revista Amazônia Science & Health
+2024, Vol. 12, No 4
+DA SILVA, AF; BRAGA, RM; GERMANO, R; SANTOS, ARO
+Aspectos epidemiológicos e sociais relacionados à ocorrência de leptospirose humana no estado do Pará na Amazônia Brasileira
+  30. Jesus MS, Silva LA, Lima KMS, Fernandes OCC. Cases distribution of leptospirosis in City of Manaus, State of Amazonas, Brazil, 2000-2010 TT - Distribuição de casos de leptospirose no Município de Manaus, Estado do Amazonas, Brasil, 2000-2010. Rev Soc Bras Med Trop. 2012;45(6):713–716. https://doi.org/10.1590/S0037-86822012000600011
+31. Lima RJS, Abreu EMN, Ramos FLP, Santos RD, Santos DD, Santos FAA, et al. Análise da distribuição espaço-temporal da leptospirose humana em Belém, Estado do Pará, Brasil. Rev Panamazonica Saude. 2012;3(2):33–40. http://dx.doi.org/10.5123/S2176- 62232012000200005
+32. Martins MHM, Spink MJP. Comunicação em saúde nas campanhas de prevenção à leptospirose humana em Maceió, Alagoas, Brasil TT - Comunicación en salud en las campañas de prevención de la leptospirosis humana en Maceió, Alagoas, Brasil. Interface (Botucatu)- Comun Saúde Educ. 2019;23(68):1-18. https://doi.org/10.1590/Interface.180709
+33. Lara JM, Von Zuben A, Costa JV, Donalisio MR, Francisco PMSB. Leptospirose no município de Campinas, São Paulo, Brasil: 2007 a 2014. Rev Bras Epidemiol. 2019;22(1):1- 13e190016. https://doi.org/10.1590/1980-549720190016
+34. Torgerson PR, Hagan JE, Costa F, Calcagno J, Kane M, Martinez-Silveira MS, et al. Global Burden of Leptospirosis: Estimated in Terms of Disability Adjusted Life Years. PLoS Negl Trop Dis. 2015;9(10):1-14e0004122. https://doi.org/10.1371/journal.pntd.0004122
+35. Thong KL, Min NC, Verasahib KB, Galloway RL, Hartskeerl RA, Souris M, et al. Epidemiology of human leptospirosis in Malaysia, 2004-2012. Acta Trop. May 2016; 157:162–168. https://doi.org/10.1016/j.actatropica.2016.01.031.
+36. Marotto PCF, Marotto MS, Santos DL, Souza TNL, Seguro AC. Outcome of leptospirosis in children. Am J Trop Med Hyg. 1997;56(3):307-310. https://doi.org/10.4269/ajtmh.1997.56.307.
+37. Rezende RS, Barcelos Y, Vinicius T, Laurindo F, Alberto C, Mattos G, et al. Epidemiology of leptospirosis: cases from 2011 to 2015 in the Brazilian northern region. Biota Amazônia 2016;6(4):94-99. 10.18561/2179-5746/biotaamazonia.v6n4p94-99
+38. Naing C, Reid SA, Aye SN, Htet NH, Ambu S. Risk factors for human leptospirosis following flooding: A meta-analysis of observational studies. PLoS One. 2019; 14(5):e0217643. https://doi.org/10.1371/journal.pone.0217643
+39. Felzemburgh RDM, Ribeiro GS, Costa F, Reis RB, Hagan JE, Melendez AXTO, et al. Prospective Study of Leptospirosis Transmission in an Urban Slum Community: Role of Poor Environment in Repeated Exposures to the Leptospira Agent. PLoS Negl Trop Dis. 2014;8(5):e2927. https://doi.org/10.1371/journal.pntd.0002927
+           120
+
+DOI: 10.18606/2318-1419/amazonia.sci.health.v12n4p707-120 Revista Amazônia Science & Health
+2024, Vol. 12, No 4
+DA SILVA, AF; BRAGA, RM; GERMANO, R; SANTOS, ARO
+Aspectos epidemiológicos e sociais relacionados à ocorrência de leptospirose humana no estado do Pará na Amazônia Brasileira
+  40. Rodrigues CM. O círculo vicioso da negligência da leptospirose no Brasil The vicious circle of the leptospirosis negligence in Brazil. Rev Inst Adolfo Lutz (São Paulo). 2017;76:1– 11.
+ 41. Silveira RP, Pinheiro R. Entendendo a necessidade de médicos no interior da Amazônia - Brasil. Rev Bras Educ Med. 2014;38(4):451–459. https://doi.org/10.1590/S0100-55022014000400006;
+   121

@@ -1,0 +1,298 @@
+ Amazônia, Organizações e Sustentabilidade
+Amazon, Organizations and Sustainability
+e-ISSN: 2238-8893
+Synergistic Alignment Between Knowledge Management and Management by Objectives: A Multidimensional Model to Sustain Competitive Advantage in the Knowledge Economy
+Igor Gammarano1 Miralda Sousa Martins2 Cléber Beleza Soares3 Cleberson Williams dos Santos4 Camilla Guimarães5
+Abstract
+In this study, we propose to develop an integrated theoretical framework that articulates Knowledge Management (KM) and Management by Objectives (MBO) as complementary levers to catalyze organizational performance and competitive sustainability. We go beyond the fundamental principles of MBO, expanding the relevance of establishing SMART goals (Specific, Measurable, Achievable, Relevant, and Time-bound) to include a new dimension: 'Cognitive Adaptability'. Additionally, we apply contemporary theories on social capital, organizational intelligence, and organizational ambidexterity to examine how KM can be instrumentalized to enhance the effectiveness of MBO. Through a robust conceptual model, it is demonstrated how the strategic convergence of the two approaches can unlock sustainable organizational value, optimize decision-making, and drive innovation.
+Keywords: Knowledge Management, Management by Objectives, Organizational Intelligence, Organizational Ambidexterity,Competitive Sustainability.
+Recebido em (manuscript first received): 24/12/2023 Aprovado em (manuscript accepted): 24/06/2024
+1 Doutor e Pós-Doutor em Administração, com área de concentração em Gestão Estratégica para Sustentabilidade, pela UNAMA.
+2 Mestranda em administração PPAD/UNAMA.
+3 Graduado em Administração pela UNAMA, especialista em Hoteleira pela UFJF e em Tecnologia para a Educação Ambiental pela UFPA.
+4 Doutor em Administração (FGV), e mestre Administração (UNAMA). 5 Doutora em Administração (FGV).
+     1
+AOS, Belém (BR), v. 13, n. 1, 2024 | e-ISSN: 2238-8893 | http://revistas.unama.br/index.php/aos
+ 
+Synergistic Alignment Between Knowledge Management and Management by Objectives
+Igor Gammarano, Miralda Sousa Martins, Cléber Beleza Soares, Cleberson Williams dos Santos, Camilla Guimarães
+ 1 Introduction
+In an increasingly knowledge-driven world, the effective management of intellectual and human capital has become a matter of organizational survival (Davenport & Prusak, 1998). Within this domain, Knowledge Management (KM) has emerged as a vital discipline that intertwines with various managerial and strategic paradigms (Spender, 1996; Nonaka & Takeuchi, 1995). Concurrently, Management by Objectives (MBO), a managerial approach that gained popularity in the mid-20th century (Drucker, 1954), continues to be applicable in setting organizational goals and strategic alignment. However, while both paradigms are well-studied in their respective literatures, little is known about the synergistic efficacy that can arise from their careful integration. This theoretical and practical gap constitutes the core of our investigation.
+In this context, we formulate the following research question: "How can Knowledge Management and Management by Objectives practices be synergistically aligned to sustain competitive advantage and organizational resilience in volatile and complex environments?" In response to this question, this study aspires to provide an original and substantial contribution by merging two generally isolated bodies of literature into an integrated conceptual model.
+The primary objective is to construct a robust multidimensional theoretical framework to articulate the interaction between KM and MBO. Sub-objectives include: Investigating how the concept of SMART goals (Specific, Measurable, Achievable, Relevant, and Time-bound) can be enriched and adapted in the context of 'Cognitive Adaptability' (Wegner, 1987; Stanovich, 2009); Incorporating and synthesizing contemporary theories of social capital (Putnam, 2000; Bourdieu, 1986), organizational intelligence (March, 1991; Simon, 1991), and organizational ambidexterity (Gibson & Birkinshaw, 2004; O'Reilly & Tushman, 2004) to offer a more holistic and multidimensional view; Deriving practical implications and theoretically grounded managerial prescriptions for implementation in heterogeneous organizational environments.
+This paper is divided into several main sections, beginning with a comprehensive literature review to establish the current state of the field. Following this, we introduce the multidimensional conceptual model. The subsequent section addresses managerial implications, and finally, a conclusion that summarizes the main findings and points towards future research directions.
+By developing this framework, we hope to shed new light on how the intersection between KM and MBO can be systematically exploited to create and sustain competitive advantages in organizations operating in the complex landscape of the knowledge economy.
+2 Literature Review
+2.1 A Foundations and Evolution of Knowledge Management
+The need to understand and manage knowledge within organizations dates back to the last decades of the 20th century. Drucker (1993) was among the first to recognize that
+ 2
+AOS, Belém (BR), v. 13, n. 1, 2024 | e-ISSN: 2238-8893 | http://revistas.unama.br/index.php/aos
+ 
+Synergistic Alignment Between Knowledge Management and Management by Objectives
+Igor Gammarano, Miralda Sousa Martins, Cléber Beleza Soares, Cleberson Williams dos Santos, Camilla Guimarães
+ knowledge had become the most important economic resource, replacing capital and labor. Since then, research in Knowledge Management (KM) has evolved considerably, polarizing around two distinct approaches: the tacit perspective, as articulated by Nonaka and Takeuchi (1995), and the more explicit view, which considers knowledge as something that can be codified and stored in databases and manuals (Wiig, 1997; Davenport & Prusak, 1998).
+Nonaka and Takeuchi (1995) pioneered the introduction of the SECI model, involving the processes of socialization, externalization, combination, and internalization. This model is fundamental in understanding how tacit knowledge is transformed into explicit knowledge and vice versa, a dynamic process they termed the "knowledge spiral." Nonaka and Takeuchi's contribution was monumental in shifting the focus of knowledge management from a purely technical effort to one that integrates social and contextual dimensions.
+On the other hand, Davenport and Prusak (1998) propose a more structured and technological approach to KM, where the capture, codification, and distribution of knowledge are seen as the central pillars. They argue that explicit knowledge can be easily transferred and utilized for decision-making and problem-solving, a view that resonates with Senge's (1990) concept of "learning organizations."
+Over time, there have been several attempts to integrate these perspectives. For instance, Wenger (1998) introduced the concept of "communities of practice" as a space where tacit and explicit knowledge could be effectively integrated. Similarly, Cook and Brown's (1999) Organizational Knowledge Theory proposed an "epistemology of practice" that attempts to synthesize tacit and explicit knowledge by introducing a fifth category of "knowing" as a dynamic activity.
+KM has been studied in relation to innovation (Nonaka, Toyama & Konno, 2000; Von Krogh, 1998), intellectual capital (Edvinsson & Malone, 1997), and even strategic management (Grant, 1996; Spender, 1996). These investigations have broadened the domain of KM, linking it to other disciplines and management practices, making the need for effective integration with traditional approaches like Management by Objectives all the more crucial.
+The evolution of KM research has been marked by a continuous expansion of its scope and depth. However, there is a visible gap in the literature on how KM can be synergistically aligned with traditional management methods, which this study aims to address. This literature review serves as a foundation for exploring this crucial intersection, paving the way for the formulation of a multidimensional theoretical model that could offer new perspectives in the practice of KM and its relationship with Management by Objectives.
+2.2 Foundations and Evolution of Management by Objectives
+Management by Objectives (MBO) was formally introduced by Peter Drucker in his seminal work "The Practice of Management" (1954), although similar concepts can be traced back to Frederick Taylor's scientific management. MBO represents a management approach that aims to align organizational objectives with those of individuals and departments within an organization. It places strong emphasis on setting SMART goals (Specific, Measurable,
+ 3
+AOS, Belém (BR), v. 13, n. 1, 2024 | e-ISSN: 2238-8893 | http://revistas.unama.br/index.php/aos
+ 
+Synergistic Alignment Between Knowledge Management and Management by Objectives
+Igor Gammarano, Miralda Sousa Martins, Cléber Beleza Soares, Cleberson Williams dos Santos, Camilla Guimarães
+ Achievable, Relevant, and Time-bound) and subsequently monitoring and evaluating performance based on these goals (Locke & Latham, 2002).
+The body of literature on MBO has evolved over the decades to address the increasing complexity of business environments. Models have evolved to incorporate a broader range of factors, including motivation (Maslow, 1954; Herzberg, 1968), continuous feedback (London & Smither, 1995), and the concept of stretch goals (Kerr & Landauer, 2004). However, the approach has been criticized for being overly mechanistic and insufficiently adaptable to business environments that are inherently dynamic and volatile (Miner, 1984; Cunningham & Eberle, 1990).
+Management by Objectives has also been studied in relation to organizational culture (Schein, 1985), leadership (Bass, 1985), and organizational performance (Rumelt, 1974; Kaplan & Norton, 1992). However, its integration with contemporary paradigms like Knowledge Management has been largely neglected. This study aspires to fill this gap, providing insights on how MBO can be revitalized and made more effective through its integration with knowledge management practices.
+2.3 Previous Integrated Approaches and Limitations
+Although there is a wealth of literature addressing Knowledge Management and Management by Objectives separately, few studies have attempted to integrate the two concepts meaningfully. One of the earliest was the work of Stewart (2001), who investigated how intellectual capital could be assessed in an MBO system. However, the research was limited in scope and did not consider the dynamic process of knowledge creation.
+Other attempts include Scarborough's (2008) exploration of how performance management systems could be informed by knowledge management. However, the research did not provide an operationalizable model and focused only on isolated cases. Moreover, Mavrinac and Siesfeld (1998) attempted to map metrics of intangible assets like knowledge and innovation to the Balanced Scorecard, but lacked a deeper exploration of the synergy between these two managerial disciplines.
+These previous integrated approaches show a certain level of conceptual maturity but fail to provide robust frameworks that can be applied in diverse organizational environments. They also lack a solid theoretical base that cohesively combines the underlying principles of each domain (Argyris & Schön, 1996; Senge et al., 1999).
+The major limitation, however, is that these earlier studies do not adequately address the need for adaptability and continuous learning in rapidly changing business environments (Teece, 2007; Eisenhardt & Martin, 2000). This article aspires to overcome these limitations by proposing a multidimensional theoretical model that not only integrates MBO and KM but is also flexible enough to adapt to changes in the business environment.
+While there is a wealth of research in each of the domains of Knowledge Management and Management by Objectives, there is a notable gap when it comes to their alignment and integration. This article seeks to fill this theoretical gap by offering a framework that can catalyze future empirical research and provide practical insights for leaders and managers.
+ 4
+AOS, Belém (BR), v. 13, n. 1, 2024 | e-ISSN: 2238-8893 | http://revistas.unama.br/index.php/aos
+ 
+Synergistic Alignment Between Knowledge Management and Management by Objectives
+Igor Gammarano, Miralda Sousa Martins, Cléber Beleza Soares, Cleberson Williams dos Santos, Camilla Guimarães
+ 3 Supporting Theories and Conceptual Construction
+The aim of this section is to contextualize the underlying theoretical bases that support the integrated model proposed in this article. Specifically, we will discuss Social Capital Theory and Organizational Intelligence as theoretical foundations that provide a richer understanding of the synergy between Knowledge Management and Management by Objectives.
+The concept of Social Capital was initially popularized by Bourdieu (1986), who defined it as "the actual or potential resources which are linked to possession of a durable network of more or less institutionalized relationships of mutual acquaintance and recognition." In the context of Knowledge Management, social capital becomes essential for the creation and transfer of knowledge, especially in complex organizations (Nahapiet & Ghoshal, 1998).
+Social Capital Theory also has significant implications for Management by Objectives. SMART goals, which are crucial for MBO, can be more effectively defined and achieved when there is a high degree of social capital within the organization. Essentially, trust relationships and collaboration networks can facilitate the exchange of information and ideas, leading to better-formulated goals that align with organizational capabilities (Tsai & Ghoshal, 1998).
+Therefore, Social Capital Theory offers a framework for understanding how relationships within organizations can be optimized to achieve goals and maximize knowledge transfer and creation (Coleman, 1988; Burt, 1992). By integrating Social Capital Theory into the proposed model, we aspire to develop a more cohesive and robust framework to examine the synergy between Knowledge Management and Management by Objectives.
+The term "Organizational Intelligence" was initially used by March (1991) to describe an organization's ability to effectively process information to solve problems and adapt to new environments. In this vein, Choo (1996) introduced the "Learning Organization" model, where organizational intelligence is seen as a critical function for effective knowledge management and decision-making.
+Applied to Management by Objectives, organizational intelligence can provide the means to make the goal-setting process more adaptable and responsive to changes in market conditions or the organizational environment (Simon, 1976; Daft & Weick, 1984). The idea is that by understanding the internal and external environment, leaders can establish goals that are not only SMART but also adaptable (Huber, 1991).
+Furthermore, Organizational Intelligence can facilitate Knowledge Management through the identification of knowledge gaps and enabling the organization to seek innovative solutions (Davenport & Prusak, 1998; Nonaka, 1994). In summary, it provides the context in which knowledge is not only generated but also effectively applied to achieve organizational objectives.
+By addressing these theories as conceptual pillars, this study aims to create an integrated model that is not only theoretically sound but also highly applicable in practice. The inclusion of these theories supports the idea that an integrated approach to Knowledge Management and Management by Objectives is not only desirable but theoretically
+ 5
+AOS, Belém (BR), v. 13, n. 1, 2024 | e-ISSN: 2238-8893 | http://revistas.unama.br/index.php/aos
+ 
+Synergistic Alignment Between Knowledge Management and Management by Objectives
+Igor Gammarano, Miralda Sousa Martins, Cléber Beleza Soares, Cleberson Williams dos Santos, Camilla Guimarães
+ sustainable. The challenge, therefore, is to construct this theoretical model in a way that allows for future empirical investigations and practical application.
+The term "Organizational Ambidexterity" was initially coined by Duncan (1976) and has received significant attention in subsequent research, especially through the works of O'Reilly & Tushman (2004). Organizational ambidexterity refers to an organization's ability to efficiently balance its exploratory and exploitative activities. In other words, it's about the organization's capacity to be efficient in the present while being adaptable for the future (Gibson & Birkinshaw, 2004).
+This concept is vitally important for both Knowledge Management and Management by Objectives. Exploration, in this context, refers to the creation, acquisition, and sharing of new knowledge, skills that are central to effective Knowledge Management (Nonaka & Takeuchi, 1995). Conversely, exploitation aligns more with Management by Objectives, seeking efficiency and effectiveness through well-defined goals and rigorous evaluation mechanisms (Locke & Latham, 1990).
+Organizational Ambidexterity allows a synthesis of these two approaches, suggesting that the most successful organizations are those capable of navigating between operational efficiency and innovation without compromising either (Adler et al., 1999; Raisch & Birkinshaw, 2008). Thus, the inclusion of Organizational Ambidexterity theory adds an additional layer of complexity and richness to the model, enabling a more in-depth analysis of factors contributing to success in integrating KM and MBO.
+The proposal to integrate Social Capital Theory, Organizational Intelligence, and Organizational Ambidexterity into a single theoretical model stems from the recognition that the complexity and volatility of the contemporary business environment require a more holistic and multifaceted approach (Porter, 1985; Mintzberg, 1990). Each theory offers valuable insights into different aspects of organizational dynamics and can, therefore, contribute to a more complete understanding of the advantages and challenges inherent in the integration of Knowledge Management and Management by Objectives.
+Social Capital provides the fertile ground for knowledge sharing and collaboration (Putnam, 2000), while Organizational Intelligence offers the cognitive mechanism to process this knowledge and adapt it to organizational needs (Huber, 1991). Organizational Ambidexterity, on the other hand, provides a framework for balancing the contradictory demands of efficiency and innovation (He & Wong, 2004). Together, these theories can provide a comprehensive and robust framework for the effective integration of KM and MBO (Eisenhardt & Martin, 2000).
+By weaving these theories into a unified framework, this study aims not only to fill a significant gap in the existing literature but also to provide an applicable model that can guide managers in practice. Furthermore, the integration of these theories also establishes a rich ground for future empirical investigations, allowing researchers to explore various facets of this complex phenomenon in a more detailed and contextualized manner.
+ 6
+AOS, Belém (BR), v. 13, n. 1, 2024 | e-ISSN: 2238-8893 | http://revistas.unama.br/index.php/aos
+ 
+Synergistic Alignment Between Knowledge Management and Management by Objectives
+Igor Gammarano, Miralda Sousa Martins, Cléber Beleza Soares, Cleberson Williams dos Santos, Camilla Guimarães
+ 4 Proposal of the Multidimensional Theoretical Model
+4.1 Components of the Model
+The first component of the model focuses on KM as an ongoing mechanism for the creation, storage, transfer, and application of knowledge (Davenport & Prusak, 1998; Nonaka & Takeuchi, 1995). This aspect is based on the idea that capitalizing on institutional knowledge is essential for innovation and competitive advantage (Teece, 1998).
+The second central component is MBO, which provides a structured mechanism for goal setting, progress monitoring, and performance evaluation (Drucker, 1954; Locke & Latham, 1990). This approach aims to align the actions of employees with the strategic objectives of the organization, ensuring effectiveness and efficiency.
+The third component, Social Capital, acts as the connective tissue in the model, facilitating knowledge sharing and collaboration within the organization (Bourdieu, 1986; Putnam, 2000). It serves as a bridge between KM and MBO, enabling effective communication and the building of trust relationships, essential for the successful integration of these two systems (Nahapiet & Ghoshal, 1998).
+In this model, Organizational Intelligence functions as the central nervous system, allowing the organization to adapt and evolve in response to environmental changes (March, 1991; Alavi & Leidner, 2001). This component enables the information and insights generated through KM and MBO to be interpreted and strategically applied.
+Finally, Organizational Ambidexterity is incorporated as a feature of adaptability, allowing organizations to effectively balance the conflicting demands of exploration and exploitation (O'Reilly & Tushman, 2004; Gibson & Birkinshaw, 2004). This component provides a lens through which we can understand how effectiveness in KM and MBO can be optimized.
+The proposed multidimensional theoretical model not only addresses the complexity and interdependence between KM and MBO but also enriches the existing literature by integrating Social Capital, Organizational Intelligence, and Organizational Ambidexterity as supporting theories. Thus, the model has the potential to serve both as an analytical framework for future academic research and as a practical guide for leaders and managers in implementing effective KM and MBO strategies.
+4.2 Articulation Between Km and Mbo in the Model
+The articulation between Knowledge Management (KM) and Management by Objectives (MBO) in the proposed model is vital for constructing a holistic organizational strategy. The model is designed to capture the interdependence and synergy of these two approaches, aiming to maximize organizational performance and effectiveness.
+The model advances the understanding of the co-dependency between KM and MBO by identifying "linking mechanisms" that act as points of interface between the two domains. The literature has typically treated these two areas in separate compartments, a gap that the model seeks to fill (Spender, 1996; Locke & Latham, 1990). An organization's ability to set
+ 7
+AOS, Belém (BR), v. 13, n. 1, 2024 | e-ISSN: 2238-8893 | http://revistas.unama.br/index.php/aos
+ 
+Synergistic Alignment Between Knowledge Management and Management by Objectives
+Igor Gammarano, Miralda Sousa Martins, Cléber Beleza Soares, Cleberson Williams dos Santos, Camilla Guimarães
+ SMART goals (Specific, Measurable, Achievable, Relevant, and Time-bound) can be significantly enhanced when informed by insights gained through robust KM practices.
+In this model, MBO not only sets goals but also provides a mechanism for the circulation of knowledge. Similarly, KM is not just a repository of knowledge, but a catalyst that provides the necessary knowledge to establish and adjust effective goals (Nonaka, 1994; Kaplan & Norton, 1996).
+A key feature of this model is the continuous feedback system. Data generated from the MBO process can directly feed into KM systems, contributing to a learning "loop" (Argyris & Schön, 1978). The incorporation of continuous feedback acts as an additional layer of intelligence, allowing organizations to effectively adjust in complex and rapidly changing environments (Simon, 1991).
+The model incorporates a new dimension called "Cognitive Adaptability," which is facilitated by organizational intelligence and social capital. The idea is that goals are not static; they require adaptability to respond to the flow of new information and knowledge (Weick & Sutcliffe, 2001). This aspect offers a way to incorporate organizational adaptability within the traditional framework of MBO, making organizations more resilient and flexible (Brown & Eisenhardt, 1997).
+The theoretical framework presented here serves not only for academic analysis but also offers several entry points for practical application. It provides managers with a cognitive map for the integrated implementation of KM and MBO strategies (Mintzberg, 1994; Senge, 1990).
+The multidimensional theoretical model and its articulation between KM and MBO add depth and nuance to the understanding of organizational management. Besides being theoretically robust, the model is designed to be flexible and adaptable, reflecting the complexity and dynamics of the modern business environment. In doing so, it fills a significant gap in the literature and provides a foundation for future research and practical applications.
+4.3 Incorporation of Smart Goals and Cognitive Adaptability
+The integration of SMART goals (Specific, Measurable, Achievable, Relevant, and Time-bound) and the emerging concept of "Cognitive Adaptability" constitute one of the central innovations of the multidimensional model. This section explores how these elements amalgamate to create a more holistic and adaptable managerial approach.
+The concept of SMART goals has been a cornerstone in the MBO literature since its initial conceptualization by Locke (1968) and later popularized by Drucker (1954). These principles assist managers in defining goals that are not only clear and directed but also measurable and achievable. However, a common criticism of this approach has been its rigidity and lack of adaptability in rapidly changing business environments (Dweck, 1986).
+"Cognitive Adaptability" emerges as a logical extension of SMART goals, providing the element of flexibility and learning necessary for organizations to thrive in volatile environments (Martin, 2007; Heifetz, 1994). Cognitive adaptability implies a growth mindset and the ability to reconfigure goals as new information and insights emerge (Bandura, 1997).
+ 8
+AOS, Belém (BR), v. 13, n. 1, 2024 | e-ISSN: 2238-8893 | http://revistas.unama.br/index.php/aos
+ 
+Synergistic Alignment Between Knowledge Management and Management by Objectives
+Igor Gammarano, Miralda Sousa Martins, Cléber Beleza Soares, Cleberson Williams dos Santos, Camilla Guimarães
+ Introducing Cognitive Adaptability into the model allows for "Adaptive Decision Modeling," which combines the rigor of SMART goals with the necessary flexibility for adaptation (Gavetti & Levinthal, 2000). This approach enables organizations to react more effectively to changes in the environment, without compromising the directionality and focus that SMART goals provide (Eisenhardt & Martin, 2000).
+The intersection between SMART goals and Cognitive Adaptability is further strengthened when considering supporting theories like Social Capital (Bourdieu, 1986), Organizational Intelligence (March, 1991), and Organizational Ambidexterity (O'Reilly & Tushman, 2004). Social Capital facilitates the generation of knowledge necessary for adaptability; Organizational Intelligence contributes to effective goal reconfiguration; and Organizational Ambidexterity allows balancing exploration and exploitation, making cognitive adaptability not just possible but effective.
+The incorporation of SMART goals with Cognitive Adaptability is not merely an academic exercise but has tangible practical applications. It offers managers a more dynamic toolkit for strategic and operational decision-making, enabling a more agile and informed response to emerging challenges and opportunities (Teece, 2007).
+The conjunction of SMART goals and Cognitive Adaptability in the proposed model creates a robust mechanism for effective navigation in complex and volatile business environments. This element of the model not only enriches existing literature but also provides a solid foundation for the development of more effective and adaptable organizational strategies.
+The diagram titled “Synergistic Model of Strategic Alignment and Organizational Adaptability” (Figure 1) seeks to show how the intersection of KM and MBO, when anchored in social capital and reinforced by organizational intelligence and ambidexterity, can result in more effective strategic and operational alignment. Furthermore, the model emphasizes that such alignment is most effective when structured around SMART goals and enriched with elements of cognitive adaptability. This theoretical integration fills a significant gap in the literature, offering a more holistic and applicable framework for strengthening organizational performance.
+Figure 1
+Synergistic Model of Strategic Alignment and Organizational Adaptability
+ 9
+AOS, Belém (BR), v. 13, n. 1, 2024 | e-ISSN: 2238-8893 | http://revistas.unama.br/index.php/aos
+ 
+Synergistic Alignment Between Knowledge Management and Management by Objectives
+Igor Gammarano, Miralda Sousa Martins, Cléber Beleza Soares, Cleberson Williams dos Santos, Camilla Guimarães
+  It is observed that the concept of "Social Capital," highlighted in Figure 1, serves as a central pillar guiding and strengthening both Knowledge Management (KM) (Nonaka & Takeuchi, 1995) and Management by Objectives (MBO) (Drucker, 1954). Social capital, as described by Bourdieu (1986), is an intangible resource that can enhance information exchange and strengthen relationships within an organization. By fostering environments of trust and collaboration, it serves as a catalyst for the effectiveness of both KM and MBO.
+This model proposes that KM and MBO are not just complementary but also synergistic. KM is effective in capturing, storing, and disseminating knowledge, while MBO focuses on setting clear, measurable goals and evaluating performance. The intersection of these two concepts can create an organizational ecosystem where knowledge is not only generated and applied but also strategically aligned with organizational objectives (O'Reilly & Tushman, 2004).
+The model highlights "Organizational Intelligence" (March, 1991) and "Organizational Ambidexterity" (O'Reilly & Tushman, 2004) as conceptual pillars that reinforce the intersection of KM and MBO. Organizational Intelligence addresses the organization's ability to collect, interpret, and apply knowledge, which is amplified when combined with the structuring and guidance provided by MBO. Organizational Ambidexterity refers to a company's ability to balance exploration and exploitation, something that becomes more achievable when KM and MBO are aligned.
+At a more practical level, the model incorporates "SMART Goals" (Specific, Measurable, Achievable, Relevant, Time-bound) and "Cognitive Adaptability" as applicable outputs of the synergy between KM and MBO. SMART Goals provide a framework for translating abstract strategies into concrete actions. "Cognitive Adaptability" adds a dynamic dimension, enabling organizations to respond effectively to changes and uncertainties (Lipshitz & Strauss, 1997).
+5 DISCUSSION
+5.1 Validation of the Proposed Mode
+ 10
+AOS, Belém (BR), v. 13, n. 1, 2024 | e-ISSN: 2238-8893 | http://revistas.unama.br/index.php/aos
+ 
+Synergistic Alignment Between Knowledge Management and Management by Objectives
+Igor Gammarano, Miralda Sousa Martins, Cléber Beleza Soares, Cleberson Williams dos Santos, Camilla Guimarães
+ The "Synergistic Model of Strategic Alignment and Organizational Adaptability" was designed to address the multifaceted challenges of the knowledge economy, uniting the theories of Knowledge Management (KM) and Management by Objectives (MBO) through the theoretical frameworks of Social Capital and Dynamic Intelligence. However, the robustness and applicability of any theoretical model require empirical validation to establish its credibility.
+Firstly, the validation of this model begins with theoretical convergence. The theoretical support compiles established theories in the field of management, such as Social Capital Theory (Bourdieu, 1986), the concept of Organizational Intelligence (March, 1991), and Organizational Ambidexterity (O'Reilly & Tushman, 2004). These theories not only reinforce the solidity of the respective model but also align the two management approaches (KM and MBO) in a way that is theoretically cohesive.
+Empirical validation is a critical step in establishing the reliability and validity of the proposed model. Quantitative methods, such as questionnaires applied to a representative sample of organizations, and qualitative methods, such as case studies and interviews with senior-level managers, can provide deep insights into the effectiveness of the model.
+Validation must also consider the model's compatibility with existing management practices. The versatility and adaptability of the model in diverse organizational scenarios (e.g., industries, company sizes, organizational cultures) are crucial factors for its validation. Moreover, the integration of SMART Goals and the concept of 'Cognitive Adaptability' offers practical application, making the model not only theoretically sound but also functional and practical.
+Finally, a rigorous comparison with previous theoretical models and existing management frameworks is essential to validate the uniqueness and contribution of the model to academic literature and managerial practice (Barney, 1991; Wernerfelt, 1984).
+The validation of the "Synergistic Model of Strategic Alignment and Organizational Adaptability" demands a multidimensional effort, involving theoretical coherence, empirical confirmation, alignment with existing managerial practices, and clear differentiation from previous models. Through this rigorous validation process, the model aspires to fill a significant gap in the strategy and management literature, offering a robust and applicable framework for the knowledge economy.
+5.2 Theoretical Implications
+The presentation and subsequent validation of the "Synergistic Model of Strategic Alignment and Organizational Adaptability" bring forth several theoretical implications that warrant emphasis. This model has the potential to reshape the understanding of possible synergies between Knowledge Management (KM) and Management by Objectives (MBO), and how these synergies can be amplified through a variety of theoretical frameworks, such as Social Capital, Organizational Intelligence, and Organizational Ambidexterity.
+Firstly, the model contributes to the literature by expanding and redefining the traditional boundaries of these two well-established domains. The synergistic fusion between
+ 11
+AOS, Belém (BR), v. 13, n. 1, 2024 | e-ISSN: 2238-8893 | http://revistas.unama.br/index.php/aos
+ 
+Synergistic Alignment Between Knowledge Management and Management by Objectives
+Igor Gammarano, Miralda Sousa Martins, Cléber Beleza Soares, Cleberson Williams dos Santos, Camilla Guimarães
+ KM and MBO, supported by a multifaceted theoretical framework, opens new avenues for research and practice (Nonaka & Takeuchi, 1995; Drucker, 1954).
+The model also enhances existing literature on goal-setting, specifically SMART goals, and introduces the concept of 'Cognitive Adaptability' as a necessary complement (Locke & Latham, 2006). This theoretical refinement offers a new angle to the effectiveness of goal- setting, making the process more agile and responsive to the rapid changes in the business environment.
+The model reinforces the importance of Social Capital Theory (Bourdieu, 1986) in organizational environments, especially those highly dependent on knowledge flows. In doing so, it adds a new dimension to the existing literature, demonstrating how social capital can act as a bridge between KM and MBO.
+The inclusion of Organizational Intelligence (March, 1991) and Organizational Ambidexterity (O'Reilly & Tushman, 2004) as conceptual pillars makes the model theoretically robust and reflects its multifunctional relevance. These additions suggest a future research path on how organizations can become more adaptable and intelligent by integrating these different theories and approaches.
+Finally, the proposed model suggests several new variables that can be the subject of future empirical research, such as the interaction between cognitive adaptability and SMART goals, or the role of social capital in facilitating strategic alignments between KM and MBO.
+The theoretical implications of the "Synergistic Model of Strategic Alignment and Organizational Adaptability" are substantial. It not only fills a significant gap in the existing literature but also establishes a solid foundation for future academic studies and practical applications in the knowledge economy.
+6 Managerial Implications and Practical Prescriptions
+The effective implementation of the "Synergistic Model of Strategic Alignment and Organizational Adaptability" goes beyond a theoretical contribution; it offers various practical implications for leaders and managers seeking to sustain competitive advantage in the dynamic knowledge economy.
+Firstly, this model provides a structured pathway for organizational transformation based on knowledge. The synergistic alignment between KM and MBO fosters an organizational culture where knowledge is not just acquired but also strategically applied to achieve well-defined goals (Davenport & Prusak, 1998; Kaplan & Norton, 1996).
+For the practical implementation of the model, we suggest a phased approach that begins with assessing the existing social capital within the organization (Nahapiet & Ghoshal, 1998). With this, leaders can determine to what extent collaboration networks and trust are already in place and how these can be strengthened to facilitate the integration between KM and MBO.
+The model also has direct implications for goal-setting. SMART Goals, already well- established in managerial literature, gain a new aspect of cognitive adaptability, which facilitates a rapid response to changes in the business environment (Locke & Latham, 2006).
+ 12
+AOS, Belém (BR), v. 13, n. 1, 2024 | e-ISSN: 2238-8893 | http://revistas.unama.br/index.php/aos
+ 
+Synergistic Alignment Between Knowledge Management and Management by Objectives
+Igor Gammarano, Miralda Sousa Martins, Cléber Beleza Soares, Cleberson Williams dos Santos, Camilla Guimarães
+ The model suggests a renewed focus on the importance of competency development as an integral part of human capital management (Becker, 1964). This holistic perspective on human capital goes beyond the mere accumulation of knowledge, encompassing adaptability, continuous learning, and practical application of knowledge in varying contexts (Argyris & Schön, 1978).
+The model emphasizes the need for continuous monitoring and evaluation of performance metrics, aligned with both KM and MBO objectives. This may include metrics of organizational learning, employee engagement levels, and the ROI of knowledge (Kaplan & Norton, 1996).
+Lastly, the effective implementation of this model requires leadership that is versatile and adaptable, capable of fostering a culture of learning and innovation. Leadership must be able to clearly articulate the strategic vision and engage the team in a collective pursuit of excellence and innovation (Kotter, 1996).
+The "Synergistic Model of Strategic Alignment and Organizational Adaptability" is not just a theoretical addition to the literature but a robust practical guide for organizations seeking to adapt and thrive in the complex contemporary business landscape.
+ 13
+AOS, Belém (BR), v. 13, n. 1, 2024 | e-ISSN: 2238-8893 | http://revistas.unama.br/index.php/aos
+ 
+Synergistic Alignment Between Knowledge Management and Management by Objectives
+Igor Gammarano, Miralda Sousa Martins, Cléber Beleza Soares, Cleberson Williams dos Santos, Camilla Guimarães
+ 6.1 Guidelines for Implementation
+The effective implementation of the "Synergistic Model of Strategic Alignment and Organizational Adaptability" requires a deep understanding not only of the underlying theories but also of the practical mechanisms that facilitate its operationalization. The following guidelines offer a practical pathway for managers and organizational leaders to navigate the complexity of this multidimensional model.
+The first step in implementing this model is to secure the engagement and understanding of the organization's executives and decision-makers (Kotter, 1996). Leadership should be educated about the strategic benefits of integrating KM and MBO, as well as the added value of components like Social Capital and Cognitive Adaptability.
+Before implementation, conducting an organizational diagnosis to assess the current state of KM and MBO in the organization is crucial (Nadler & Tushman, 1980). This will provide insights into available resources and the gaps that need to be filled.
+Training should be provided to ensure that all levels of the organization understand the components of the model, including setting SMART goals and the importance of Cognitive Adaptability (Argyris & Schön, 1978). This training should not be a one-time activity but a continuous process.
+Implementing strategies to foster social capital among employees can act as a force multiplier for both KM and MBO paradigms (Bourdieu, 1986). This may include encouraging interdepartmental collaboration, knowledge sharing, and the formation of professional networks.
+A monitoring system should be established to measure the success of the model's implementation (Kaplan & Norton, 1992). This should include key performance indicators (KPIs) that are aligned with SMART goals and reflect the effectiveness of Cognitive Adaptability.
+Given the volatile nature of the knowledge economy, the model should be flexible enough for rapid adaptations and adjustments (Teece, 2007). This implies a continuous feedback cycle and a commitment to organizational learning and adaptation. Finally, the implementation of the model should be conducted with full adherence to ethical principles and best practices in sustainability (Carroll & Shabana, 2010).
+The above guidelines provide a robust and theoretically grounded roadmap for the practical implementation of the "Synergistic Model of Strategic Alignment and Organizational Adaptability." Its adoption not only offers a pathway to sustainable competitive advantage but also contributes to the emerging literature on integrated management strategies.
+7 Conclusion
+This article proposed the "Synergistic Model of Strategic Alignment and Organizational Adaptability," a multidimensional conceptual framework that synthesizes practices and theories from Knowledge Management (KM) and Management by Objectives (MBO). The model incorporates elements of social capital, organizational intelligence, and
+ 14
+AOS, Belém (BR), v. 13, n. 1, 2024 | e-ISSN: 2238-8893 | http://revistas.unama.br/index.php/aos
+ 
+Synergistic Alignment Between Knowledge Management and Management by Objectives
+Igor Gammarano, Miralda Sousa Martins, Cléber Beleza Soares, Cleberson Williams dos Santos, Camilla Guimarães
+ organizational ambidexterity, offering a robust and flexible framework for achieving competitive advantage in uncertain and volatile environments.
+In response to the research question, the study demonstrated that KM and MBO practices can be synergistically aligned through a model that integrates SMART goals with a new dimension of 'Cognitive Adaptability'. This alignment allows organizations not only to define and achieve strategic objectives but also to proactively adapt to environmental changes, thus sustaining competitive advantage and organizational resilience. The article also successfully met its objectives, establishing a conceptual model, grounding it theoretically, and providing practical insights for its implementation.
+This study contributes to the literature on strategy and management by filling a significant gap in understanding the relationship between KM and MBO. Furthermore, it offers a structured model for organizations seeking to transform their strategic approach in a constantly changing business environment. While the proposed model is robust and grounded in well-established theories, it is crucial to recognize its limitations. The model needs to be empirically tested in different organizational contexts to verify its universality and applicability. Moreover, the integration of multiple theories may lead to a degree of complexity that can be challenging to implement in practice.
+Future research could address the empirical application of the model in different sectors or geographical contexts to test its robustness. Additionally, the role of leaders in the effective implementation of the model is an area that deserves greater attention. The development of specific metrics to assess the success of implementation is also a research gap that could be explored. In conclusion, this study provides a new perspective on how KM and MBO can be integrated synergistically to enhance organizational effectiveness. It offers a solid model that is theoretically grounded and practically applicable, thus establishing a new paradigm in strategic management literature.
+References
+Adler, P. S., Kwon, S., & Heckscher, C. (1999). Professional work: The emergence of collaborative community. Organization Science, 19(2), 359-376.
+Alavi, M., & Leidner, D. E. (2001). Knowledge management and knowledge management systems: Conceptual foundations and research issues. MIS Quarterly, 25(1), 107-136.
+Argyris, C., & Schön, D. A. (1978). Organizational Learning: A Theory of Action Perspective. Addison-Wesley.
+Bandura, A. (1997). Self-efficacy: The exercise of control. W.H. Freeman and Company.
+Barney, J. (1991). Firm resources and sustained competitive advantage. Journal of Management, 17(1), 99-120.
+Becker, G. S. (1964). Human capital: A theoretical and empirical analysis, with special reference to education. The University of Chicago Press.
+Bourdieu, P. (1986). The forms of capital. In J. G. Richardson (Ed.), Handbook of Theory and Research for the Sociology of Education (pp. 241-258). Greenwood.
+ 15
+AOS, Belém (BR), v. 13, n. 1, 2024 | e-ISSN: 2238-8893 | http://revistas.unama.br/index.php/aos
+ 
+Synergistic Alignment Between Knowledge Management and Management by Objectives
+Igor Gammarano, Miralda Sousa Martins, Cléber Beleza Soares, Cleberson Williams dos Santos, Camilla Guimarães
+ Brown, S. L., & Eisenhardt, K. M. (1997). The art of continuous change: Linking complexity theory and time-paced evolution in relentlessly shifting organizations. Administrative Science Quarterly, 42(1), 1-34.
+Burt, R. S. (1992). Structural holes: The social structure of competition. Harvard University Press.
+Carroll, A. B., & Shabana, K. M. (2010). The business case for corporate social responsibility: A review of concepts, research and practice. International Journal of Management Reviews, 12(1), 85-105.
+Choo, C. W. (1996). The knowing organization: How organizations use information to construct meaning, create knowledge, and make decisions. Oxford University Press.
+Coleman, J. S. (1988). Social capital in the creation of human capital. American Journal of Sociology, 94, S95-S120.
+Daft, R. L., & Weick, K. E. (1984). Toward a model of organizations as interpretation systems. Academy of Management Review, 9(2), 284-295.
+Davenport, T. H., & Prusak, L. (1998). Working knowledge: How organizations manage what they know. Harvard Business School Press.
+Drucker, P. F. (1954). The practice of management. Harper & Row.
+Duncan, R. B. (1976). The ambidextrous organization: Designing dual structures for innovation. In R. H. Kilmann, L. R. Pondy, D. Slevin (Eds.), The management of organization design: Strategies and implementation (pp. 167-188). Elsevier North- Holland, Inc.
+Dweck, C. S. (1986). Motivational processes affecting learning. American Psychologist, 41(10), 1040-1048.
+Edvinsson, L., & Malone, M. S. (1997). Intellectual capital: Realizing your company's true value by finding its hidden brainpower. HarperBusiness.
+Eisenhardt, K. M., & Martin, J. A. (2000). Dynamic capabilities: What are they? Strategic Management Journal, 21(10-11), 1105-1121.
+Gavetti, G., & Levinthal, D. (2000). Looking forward and looking backward: Cognitive and experiential search. Administrative Science Quarterly, 45(1), 113-137.
+Grant, R. M. (1996). Toward a knowledge-based theory of the firm. Strategic Management Journal, 17(S2), 109-122.
+He, Z. L., & Wong, P. K. (2004). Exploration vs. exploitation: An empirical test of the ambidexterity hypothesis. Organization Science, 15(4), 481-494.
+Heifetz, R. A. (1994). Leadership without easy answers. Harvard University Press.
+Herzberg, F. (1968). One more time: How do you motivate employees? Harvard Business Review, 46(1), 53-62.
+ 16
+AOS, Belém (BR), v. 13, n. 1, 2024 | e-ISSN: 2238-8893 | http://revistas.unama.br/index.php/aos
+ 
+Synergistic Alignment Between Knowledge Management and Management by Objectives
+Igor Gammarano, Miralda Sousa Martins, Cléber Beleza Soares, Cleberson Williams dos Santos, Camilla Guimarães
+ Huber, G. P. (1991). Organizational learning: The contributing processes and the literatures. Organization Science, 2(1), 88-115.
+Kaplan, R. S., & Norton, D. P. (1996). The balanced scorecard: Translating strategy into action. Harvard Business School Press.
+Kotter, J. P. (1996). Leading change. Harvard Business School Press.
+Lipshitz, R., & Strauss, O. (1997). Coping with uncertainty: A naturalistic decision-making analysis. Organizational Behavior and Human Decision Processes, 69(2), 149-163.
+Locke, E. A., & Latham, G. P. (1990). A theory of goal setting and task performance. Prentice- Hall, Inc.
+Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation: A 35-year odyssey. American Psychologist, 57(9), 705-717.
+E. A., & Latham, G. P. (2006). New directions in goal-setting theory. Current Directions in Psychological Science, 15(5), 265-268.
+Locke, E. A. (1968). Toward a theory of task motivation and incentives. Organizational Behavior and Human Performance, 3(2), 157-189.
+March, J. G. (1991). Exploration and exploitation in organizational learning. Organization Science, 2(1), 71-87.
+Martin, R. L. (2007). The opposable mind: How successful leaders win through integrative thinking. Harvard Business Press.
+Maslow, A. H. (1954). Motivation and personality. Harper & Row.
+Mintzberg, H. (1990). The design school: Reconsidering the basic premises of strategic management. Strategic Management Journal, 11(3), 171-195.
+Mintzberg, H. (1994). The fall and rise of strategic planning. Harvard Business Review, 72(1), 107-114.
+Nadler, D. A., & Tushman, M. L. (1980). A model for diagnosing organizational behavior. Organizational Dynamics, 9(2), 35-51.
+Nahapiet, J., & Ghoshal, S. (1998). Social capital, intellectual capital, and the organizational advantage. Academy of Management Review, 23(2), 242-266.
+Nonaka, I., & Takeuchi, H. (1995). The knowledge-creating company: How Japanese companies create the dynamics of innovation. Oxford University Press.
+Nonaka, I., Toyama, R., & Konno, N. (2000). SECI, Ba and leadership: A unified model of dynamic knowledge creation. Long Range Planning, 33(1), 5-34.
+O'Reilly, C. A., & Tushman, M. L. (2004). The ambidextrous organization. Harvard Business Review, 82(4), 74-81.
+ 17
+AOS, Belém (BR), v. 13, n. 1, 2024 | e-ISSN: 2238-8893 | http://revistas.unama.br/index.php/aos
+ 
+Synergistic Alignment Between Knowledge Management and Management by Objectives
+Igor Gammarano, Miralda Sousa Martins, Cléber Beleza Soares, Cleberson Williams dos Santos, Camilla Guimarães
+ Porter, M. E. (1985). Competitive advantage: Creating and sustaining superior performance. Free Press.
+Putnam, R. D. (2000). Bowling alone: The collapse and revival of American community. Simon & Schuster.
+Raisch, S., & Birkinshaw, J. (2008). Organizational ambidexterity: Antecedents, outcomes, and moderators. Journal of Management, 34(3), 375-409.
+Spender, J. C. (1996). Making knowledge the basis of a dynamic theory of the firm. Strategic Management Journal, 17(S2), 45-62.
+Stanovich, K. E. (2009). What intelligence tests miss: The psychology of rational thought. Yale University Press.
+Stewart, T. A. (2001). The wealth of knowledge: Intellectual capital and the twenty-first century organization. Currency.
+Teece, D. J. (1998). Capturing value from knowledge assets: The new economy, markets for know-how, and intangible assets. California Management Review, 40(3), 55-79.
+Teece, D. J. (2007). Explicating dynamic capabilities: The nature and microfoundations of (sustainable) enterprise performance. Strategic Management Journal, 28(13), 1319- 1350.
+Tsai, W., & Ghoshal, S. (1998). Social capital and value creation: The role of intrafirm networks. Academy of Management Journal, 41(4), 464-476.
+Von Krogh, G. (1998). Care in knowledge creation. California Management Review, 40(3), 133-156.
+Wegner, D. M. (1987). Transactive memory: A contemporary analysis of the group mind. In B. Mullen & G. R. Goethals (Eds.), Theories of group behavior (pp. 185-208). Springer- Verlag.
+Weick, K. E., & Sutcliffe, K. M. (2001). Managing the unexpected: Assuring high performance in an age of complexity. Jossey-Bass.
+Wenger, E. (1998). Communities of practice: Learning, meaning, and identity. Cambridge University Press.
+Wernerfelt, B. (1984). A resource-based view of the firm. Strategic Management Journal, 5(2), 171-180.
+Wiig, K. M. (1997). Knowledge management: Where did it come from and where will it go? Expert Systems with Applications, 13(1), 1-14.
+ 18
+AOS, Belém (BR), v. 13, n. 1, 2024 | e-ISSN: 2238-8893 | http://revistas.unama.br/index.php/aos
+ 
+Synergistic Alignment Between Knowledge Management and Management by Objectives
+Igor Gammarano, Miralda Sousa Martins, Cléber Beleza Soares, Cleberson Williams dos Santos, Camilla Guimarães
+ Dados dos autores:
+Igor Gammarano
+ORCID: https://orcid.org/0000-0001-7769-8265
+Doutor e Pós-Doutor em Administração, com área de concentração em Gestão Estratégica para Sustentabilidade, pela UNAMA.
+Belém, Pará, Brasil. E-mail: pesquisadoutoradoigor@gmail.com.
+Miralda Sousa Martins
+Mestranda em administração PPAD/UNAMA.
+Belém, Pará, Brasil. E-mail: miralda7584@gmail.com.
+Cléber Beleza Soares
+Graduado em Administração pela UNAMA, especialista em Hoteleira pela UFJF e em Tecnologia para a Educação Ambiental pela UFPA.
+Belém, Pará, Brasil. E-mail: cleberbelwzasoares@gmail.com.
+Cleberson Williams dos Santos
+ORCID: https://orcid.org/0000-0002-2775-8300
+Doutor em Administração (FGV), e mestre Administração (UNAMA). Belém, Pará, Brasil. E-mail: cwsdireito@gmail.com.
+Camilla Guimarães
+ORCID: https://orcid.org/0000-0002-7353-6215 Doutora em Administração (FGV).
+Belém, Pará, Brasil. E-mail: camillamcg@hotmail.com.
+Como citar este artigo:
+Gammarano, I., Martins, M. S., Soares, C. B., Santos, C. W. dos, & Guimarães, C. (2024). Synergistic alignment between knowledge management and management by objectives: A multidimensional model to sustain competitive advantage in the knowledge economy. Amazônia, Organizações e Sustentabilidade, 13(1), 1–19.
+       19
+AOS, Belém (BR), v. 13, n. 1, 2024 | e-ISSN: 2238-8893 | http://revistas.unama.br/index.php/aos
+ 

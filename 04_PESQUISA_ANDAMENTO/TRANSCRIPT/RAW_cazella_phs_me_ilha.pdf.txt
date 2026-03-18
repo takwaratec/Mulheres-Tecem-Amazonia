@@ -1,0 +1,1384 @@
+UNIVERSIDADE ESTADUAL PAULISTA “JÚLIO DE MESQUITA FILHO” FACULDADE DE ENGENHARIA
+CÂMPUS DE ILHA SOLTEIRA
+PEDRO HENRIQUE DA SILVA CAZELLA
+AVALIAÇÃO DE PAINÉIS AGLOMERADOS HOMOGÊNEOS DE PINUS COM INCORPORAÇÃO DE PARTÍCULAS DE PET AGLUTINADOS COM ADESIVO POLIURETANO DERIVADO DE ÓLEO DE MAMONA
+Ilha Solteira 2022
+
+PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA CIVIL
+PEDRO HENRIQUE DA SILVA CAZELLA
+AVALIAÇÃO DE PAINÉIS AGLOMERADOS HOMOGÊNEOS DE PINUS COM INCORPORAÇÃO DE PARTÍCULAS DE PET AGLUTINADOS COM ADESIVO POLIURETANO DERIVADO DE ÓLEO DE MAMONA
+Dissertação apresentada à Faculdade de Engenharia de Ilha Solteira - UNESP, como parte dos requisitos para obtenção do título de Mestre em Engenharia Civil. Especialidade: Estruturas.
+Prof. Dr. Sergio Augusto Mello da Silva
+Orientador
+Ilha Solteira 2022
+ 
+ 
+ 
+DEDICATÓRIA
+Dedico este trabalho ao meu pai Marcos, minha mãe Marlene e meu irmão Marcos.
+Também dedico a todos que torceram por mim nessa trajetória.
+
+AGRADECIMENTOS
+Primeiramente à Deus, por me conceder saúde, forças para buscar este objetivo e me preparar para lidar com as situações diárias.
+À minha mãe Marlene Aparecida da Silva Cazella, meu pai Marcos Antônio Cazella, pela criação, pelo amor, por sempre me incentivarem e serem compreensivos nos momentos difíceis.
+Ao meu irmão Marcos Antônio da Silva Cazella por sempre me aconselhar e ser um exemplo em minha vida.
+Ao orientador Professor Dr. Sergio Augusto de Mello da Silva, pela orientação no decorrer da pesquisa, pela amizade e pelos ensinamentos em todos os aspectos.
+Aos companheiros Matheus e Felipe, que foram extremamente importantes na trajetória do mestrado, estiveram comigo desde os momentos de preocupação até altas gargalhadas no laboratório e também fora dele. Vou levar o companheirismo para a vida toda.
+Aos companheiros de linha de pesquisa Rodrigo, Mariana e também pelos momentos compartilhados com amigos feitos nesta etapa de vida em Ilha Solteira.
+Aos companheiros Gean e Letícia, pela parceria de sempre, pela troca de experiências de vida ao longo do mestrado e também momentos de descontração sensacionais.
+Aos professores da pós-graduação da FEIS – UNESP, que me acrescentaram conhecimento na jornada pelo mestrado.
+Aos técnicos do laboratório de engenharia civil Gilson e Flávio, que me ajudaram na produção dos painéis e execução dos ensaios.
+À Professora Dra. Aline Redondo Martins e Tainah Eduarda Boian Carneiro do Laboratório de Estudos de Morfologia e Anatomia Vegetal – LEMAV pela disponibilidade e auxílio na obtenção das imagens aumentadas por lupa utilizados nesta pesquisa.
+Ao técnico Elton do laboratório do Departamento de Física e Química – DFQ por executar os ensaios de Microscopia Eletrônica de Varredura (MEV).
+Ao Funcionário Luiz Doniseti Belezze da Marcenaria da UNESP, por todos os serviços realizados sempre com muita dedicação.
+À Universidade Estadual Paulista “Júlio de Mesquita Filho” UNESP Faculdade de Engenharia de Ilha Solteira FEIS por me conceder a oportunidade de ministrar as
+
+disciplinas de Estruturas de Madeira e Construção de Pontes ao curso de graduação em Engenharia Civil, sob a orientação do Professor Dr. Sérgio Augusto de Mello da Silva.
+Ao grupo de pesquisa Materiais Alternativos de Construção – MAC, o qual faço parte.
+Ao Departamento de Engenharia Civil – DEC e a todos os servidores.
+À empresa IMPERVEG® Polímeros Indústria e Comércio Ltda, pela doação da resina poliuretana bicomponente derivada do óleo de mamona.
+À Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) pela concessão da bolsa de mestrado, importante auxílio para o desenvolvimento da pesquisa.
+Agradeço a todos que auxiliaram direta ou indiretamente à produção deste trabalho.
+O presente trabalho foi realizado com apoio da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) - Código de Financiamento 001.
+
+RESUMO
+A alta demanda de produtos para a construção civil e o crescente descarte de resíduos plásticos, florestais e agroindustriais motivaram o desenvolvimento deste trabalho e, considerando-se o aproveitamento desses resíduos, que podem possibilitam a proteção e manutenção de espécies florestais nativas, este trabalho avaliou a influência de partículas de Politereftalato de Etileno (PET) em misturas com partículas de madeira de Pinus elliottii, aglutinadas com Poliuretano derivado de óleo de mamona (PUR), para produção de painéis aglomerados. As partículas de madeira foram secas até atingirem 3% de umidade e, em seguida, elaborou-se quatro misturas com partículas de madeira e PET e uma mistura de referência sem PET. Foram produzidos 3 painéis para cada mistura com densidade nominal de 0,7 g/cm3, pressão de 5 MPa, temperatura de 110 0C e 10 min de tempo de prensagem. As propriedades físicas e mecânicas foram avaliadas utilizando-se a ABNT NBR 14810-2 (2018) e ANSI A208.1 (2016) e foram realizadas análises morfológicas por meio de Microscopia Eletrônica de Varredura (MEV). Os resultados foram avaliados por meio do teste de contraste de médias Tukey, ao nível de 5% de significância e, com base nas análises realizadas, verificou-se que as misturas com 50% Pinus, 50% PET e 10% de PUR apresentaram valores de 3,88% de inchamento em espessura; 28,79 MPa no módulo de resistência à flexão; 3159,15 MPa no módulo de elasticidade na flexão e 2,49 MPa na tração perpendicular, valores superiores aos mínimos exigidos pelos documentos normativos utilizados.
+Palavras-chave: painéis aglomerados; Pinus elliottii; PET; PUR.
+
+ABSTRACT
+The high demand for products for civil construction and the increasing disposal of plastic, forest and agro-industrial waste motivated the development of this work and, considering the use of this waste, which can enable the protection and maintenance of native forest species, this work evaluated the influence of Polyethylene Terephthalate (PET) particles in mixtures with Pinus elliottii wood particles, agglutinated with Castor Oil Polyurethane (PUR), to produce agglomerated panels. The wood particles were dried until they reached 3% humidity and then four mixtures were prepared with wood particles and PET and a reference mixture without PET. Three panels were produced for each mixture with a nominal density of 0.7 g/cm3, pressure of 5 MPa, temperature of 110 °C and 10 min pressing time. Physical and mechanical properties were evaluated using ABNT NBR 14810-2 (2018) and ANSI A208.1 (2016) and morphological analyses were performed using Scanning Electron Microscopy (SEM). The results were evaluated using the Tukey mean contrast test at 5% significance level and, based on the analyses performed, it was found that the mixtures with 50% Pinus, 50% PET and 10% PUR showed values of 3.88% swelling in thickness; 28.79 MPa in flexural strength modulus; 3159.15 MPa in modulus of elasticity in flexion and 2.49 MPa in perpendicular traction, values higher than the minimum required by the normative documents used.
+Keywords: Particleboard; Pinus elliottii; PET; Castor oil-based polyurethane adhesive.
+
+LISTA DE FIGURAS
+Figura 1 – Esquemas de distribuição de partículas dos painéis aglomerados ..........22 Figura 2 – Área de florestas plantadas no Brasil.......................................................28 Figura 3 – Produção global anual de plástico em milhões de toneladas...................32 Figura 4 – Garrafas PET ...........................................................................................34 Figura 5 – Infográfico de aplicações para o PET reciclado .......................................35 Figura 6 – Maravalhas de Pinus elliottii.....................................................................41 Figura 7 – PET em flakes..........................................................................................42 Figura 8 – Painéis preliminares produzidos ..............................................................43 Figura 9 – Processamento de maravalhas no moinho de facas................................45 Figura 10 – Agitador elétrico de peneiras..................................................................46 Figura 11 – Agitador elétrico de peneiras para o ensaio de determinação da composição granulométrica.......................................................................................47 Figura 12 – Amostras do ensaio de determinação da composição granulométrica ..48 Figura 13 – Calibração do picnômetro ao fluido........................................................50 Figura 14 – Processo de homogeneização das misturas..........................................53 Figura 15 – Preparação do colchão de partículas.....................................................54 Figura 16 – Prensagem dos painéis..........................................................................55 Figura 17 – Painel da mistura M50P 50PET10...........................................................55 Figura 18 – Aferição de dimensões dos exemplares para cálculo da densidade......56 Figura 19 – Aferição da massa dos exemplares para cálculo da densidade.............56 Figura 20 – Secagem dos cps em estufa ..................................................................58 Figura 21 – Procedimento de verificação de inchamento em espessura 24h ...........59 Figura 22 – Ensaio de flexão de corpo de prova .......................................................60 Figura 23 – Limpeza dos suportes metálicos ............................................................62 Figura 24 – Colagem dos suportes metálicos nos cps ..............................................62 Figura 25 – Aspectos gerais do ensaio de para determinação da TP .......................63 Figura 26 – Procedimento para visualização ampliada por lupa ...............................65 Figura 27 – Densidade média das misturas ..............................................................71 Figura 28 – Teor de umidade dos painéis das misturas............................................74 Figura 29 – Inchamento em espessura após 24h das misturas ................................76 Figura 30 – MOR dos painéis das misturas ..............................................................79 Figura 31 – MOE dos painéis das misturas...............................................................81
+
+Figura 32 – TP dos painéis das misturas ..................................................................83 Figura 33 – Região de ruptura dos cps com aproximação 16x .................................89 Figura 34 – Superfície do cp da mistura M100P 0PET10...........................................91 Figura 35 – Imagens de MEV das misturas madeira/PET/PUR ................................92 Figura 36 – Superfície do cp da mistura M100P 0PET10...........................................93 Figura 37 – Imagens de MEV das misturas madeira/PET/PUR ................................94
+
+LISTA DE TABELAS
+Tabela 1 – Propriedades físicas e mecânicas de espécies de Pinus ........................27 Tabela 2 – Propriedades físicas e mecânicas do PET ..............................................34 Tabela 3 – Misturas propostas para confecção dos painéis......................................44 Tabela 4 – Misturas experimentais delineadas .........................................................64 Tabela 5 – Composição granulométrica 100% Pinus................................................66 Tabela 6 – Composição granulométrica 100% PET..................................................67 Tabela 7 – Composição granulométrica 70% Pinus 30% PET..................................67 Tabela 8 – Composição granulométrica 50% Pinus 50% PET..................................68 Tabela 9 – Teor de umidade das partículas de Pinus e PET ....................................69 Tabela 10 – Massa específica das partículas e das misturas ...................................69 Tabela 11 – Classificações normativas de Densidade ..............................................70 Tabela 12 – Densidade dos painéis ..........................................................................70 Tabela 13 – Densidade dos painéis e razão de compactação ..................................72 Tabela 14 – Teor de umidade médio dos painéis......................................................73 Tabela 15 – Inchamento em espessura após 24h e absorção de água ....................74 Tabela 16 – Valores médios de MOR dos painéis ....................................................78 Tabela 17 – Valores médios de MOE dos painéis.....................................................80 Tabela 18 – Valores médios de TP dos painéis ........................................................83 Tabela 19 – Parâmetros físicos e mecânicos ABNT NBR 14810-2 (2018) ...............85 Tabela 20 – Parâmetros mecânicos ANSI A208.1 (2016).........................................87 Tabela 21 – Resultados do teste de contraste de médias de Tukey .........................88 Tabela 22 – Comparação geral dos resultados de propriedades físicas e mecânicas
+..................................................................................................................................95
+
+SUMÁRIO
+1 INTRODUÇÃO ...........................................................................................16
+2 OBJETIVOS ...............................................................................................19
+2.1 OBJETIVO GERAL.....................................................................................19
+2.2 OBJETIVOS ESPECÍFICOS ......................................................................19
+3 REVISÃO BIBLIOGRÁFICA ......................................................................20
+3.1 PAINÉIS À BASE DE MADEIRA ................................................................20
+3.2 PAINÉIS DE PARTÍCULAS DE MADEIRA AGLOMERADA.......................20
+3.2.1 Breve histórico .........................................................................................20
+3.2.2 Características gerais dos painéis aglomerados ..................................21
+3.2.3 Utilizações e produção ............................................................................23
+3.2.4 Requisitos normativos das propriedades físico-mecânicas e
+classificação .............................................................................................23
+3.2.5 Fatores que afetam o desempenho dos painéis....................................25
+3.3 MADEIRA DE PINUS .................................................................................26
+3.4 ADESIVOS .................................................................................................28
+3.4.1 Adesivo Ureia Formaldeído (UF) .............................................................29
+3.4.2 Adesivo poliuretano bicomponente derivado de mamona (PUR) ........30
+3.5 POLÍMEROS PLÁSTICOS .........................................................................31
+3.5.1 PET (Politereftalato de Etileno) ...............................................................33
+3.5.1.1 Compósitos madeira-plástico com termoplásticos reciclados.....................36
+3.5.1.2 Painéis aglomerados com PET reciclado ...................................................38
+4 MATERIAIS E MÉTODOS .........................................................................41
+4.1 MATERIAIS ................................................................................................41
+4.1.1 Maravalhas de Pinus elliottii....................................................................41
+4.1.2 Adesivo poliuretano bicomponente derivado de mamona (PUR) ........41
+
+4.1.3 Politereftalato de Etileno (PET) ...............................................................42
+4.2 METODOLOGIA.........................................................................................42
+4.2.1 Testes preliminares..................................................................................42
+4.2.2 Definição das misturas ............................................................................44
+4.2.3 Produção e processamento de maravalhas...........................................45
+4.2.4 Classificação granulométrica das partículas.........................................45
+4.2.5 Análise da composição granulométrica.................................................46
+4.2.6 Regularização da umidade ......................................................................48
+4.2.7 Massa específica das partículas das misturas ......................................49
+4.2.8 Determinação da massa total das misturas para produção dos painéis
+...................................................................................................................52
+4.2.9 Produção dos painéis ..............................................................................53
+4.2.10 Ensaios físicos .........................................................................................55
+4.2.10.1 Densidade (D) ............................................................................................56
+4.2.10.2 Teor de umidade (U) ..................................................................................57
+4.2.10.3 Inchamento em espessura 24h (I24h) e Absorção após 24h (A24h)..........58
+4.2.11 Ensaios mecânicos ..................................................................................60
+4.2.11.1 Ensaio de flexão estática............................................................................60
+4.2.11.2 Módulo de Resistência à Flexão Estática (MOR) .......................................61
+4.2.11.3 Módulo de Elasticidade (MOE) ...................................................................61
+4.2.11.4 Resistência à Tração Perpendicular (TP)...................................................62
+4.2.12 Análise estatística dos resultados..........................................................64
+4.2.13 Imagem ampliada da região de ruptura dos cps de resistência TP .....64
+4.2.14 Microscopia eletrônica de varredura (MEV) ...........................................65
+5 RESULTADOS E DISCUSSÕES ...............................................................66
+5.1 COMPOSIÇÃO GRANULOMÉTRICA ........................................................66
+5.2 TEOR DE UMIDADE DAS PARTÍCULAS ..................................................68
+5.3 MASSA ESPECÍFICA DAS PARTÍCULAS .................................................69
+5.4 DENSIDADE (D).........................................................................................70
+
+5.5 TEOR DE UMIDADE (U) ............................................................................73
+5.6 INCHAMENTO EM ESPESSURA 24H (I24H) E ABSORÇÃO APÓS 24H (A24H) ........................................................................................................74
+5.6 MÓDULO DE RESISTÊNCIA À FLEXÃO ESTÁTICA (MOR) ....................78
+5.7 MÓDULO DE ELASTICIDADE (MOE) .......................................................80
+5.8 RESISTÊNCIA À TRAÇÃO PERPENDICULAR (TP) .................................82
+5.9 CLASSIFICAÇÃO DE ACORDO COM A ABNT NBR 14810-2 (2018) E ANSI A208.1 (2016) ...................................................................................85
+5.10 ANÁLISE ESTATÍSTICA DOS RESULTADOS ..........................................87
+5.11 IMAGEM AMPLIADA DA REGIÃO DE RUPTURA DE CORPOS DE PROVA DE PAINÉIS SUBMETIDOS A ENSAIO DE TP ............................89
+5.12 MICROSCOPIA ELETRÔNICA DE VARREDURA (MEV)..........................90
+5.13 CONSIDERAÇÕES ....................................................................................95
+6 CONCLUSÃO ............................................................................................97 REFERÊNCIAS..........................................................................................99
+
+1 INTRODUÇÃO
+A escassez de madeira decorrente dos desmatamentos das florestas ao longo do tempo e também as limitações de seu uso na forma natural, devido a problemas de heterogeneidade e anisotropia, incentivaram os estudos sobre sua utilização de maneira racional, possibilitando maior aproveitamento da matéria-prima (BANCO NACIONAL DE DESENVOLVIMENTO ECONÔMICO E SOCIAL - BNDES, 2018).
+Embasado em tais necessidades, os painéis de madeira são produtos fabricados em diferentes estágios de desagregação ou em lâminas de madeira aglutinadas por meio de resinas (BNDES, 2018).
+Os MDP (Medium Density Particleboard) são exemplos de painéis formados por partículas lignocelulósicas que, após serem umedecidas com adesivo sintético, são submetidas à ação de pressão e calor, para conformação de chapas que possuem uma ampla gama de aplicações, sendo o setor moveleiro, fabricação de pisos e construção civil as principais (IWAKIRI; TRIANOSKI, 2020; MENDES et al., 2012).
+Ao longo dos anos, inovações surgiram no setor industrial com o desenvolvimento de prensas contínuas, que permitiram maior produtividade e menores custos de produção. O avanço da modernização e, a ampliação da capacidade de produção, também possibilitaram aumentar a flexibilidade operacional das fábricas de painéis de madeira reconstituída (REVISTA DA MADEIRA - REMADE, 2014).
+Atualmente o Brasil possui fábricas de elevada tecnologia, sendo considerado um dos países mais avançados em fabricação de painéis (INDÚSTRIA BRASILEIRA DE ÁRVORES - IBÁ, 2017).
+Diante da evolução fabril, a escassez de madeiras advindas de florestas plantadas para atender à demanda do mercado, gera certa preocupação, pois, o problema afeta principalmente a indústria moveleira e também a cadeia produtiva da madeira (INSTITUTO BRASILEIRO DE FLORESTAS - IBF, 2018).
+Apesar do potencial produtivo do Brasil de painéis particulados, dados do IBÁ (2020) revelam que a distribuição e comercialização desses produtos no mercado nacional não têm obedecido aos requisitos mínimos das normas técnicas, tanto em suas propriedades físicas quanto mecânicas.
+Uma solução viável que gradativamente vem sendo utilizada é a fabricação de painéis particulados de madeira com o incremento de resíduos para agregar valor ao produto e criar novas alternativas de matéria prima, bem como melhorar suas características de resistência à umidade (SILVA, 2016).
+Além de agregar valor aos resíduos, pode contribuir para melhorar a produção industrial de painéis, que, por conseguinte reduz a necessidade de novos plantios florestais e evita a utilização de madeiras ilegais, caso ocorra a falta de madeiras provenientes de áreas plantadas (PROTÁSIO et al., 2015).
+Dentre a diversidade de resíduos existentes, os plásticos (polímeros) são os que se apresentam em maior abundância nos descartes de lixos domésticos, em consequência do elevado crescimento mundial na utilização desse material para produção de inúmeros artefatos (CATTO et al., 2014). Estima-se que cerca de 40% dos produtos plásticos se tornam lixo com menos de um mês (ATLAS DO PLÁSTICO, 2020).
+Outro fator preocupante atualmente, é a utilização do adesivo sintético à base Ureia Formaldeído (UF) para produção de uma grande parcela dos painéis aglomerados no Brasil, pois, o mesmo tem apresentado aspectos negativos, como a baixa resistência à umidade e a produção de gás formaldeído quando aquecido, que é considerado prejudicial ao meio ambiente e ao ser humano (GILIO, 2020).
+O adesivo Poliuretano derivado de óleo de mamona (PUR) é uma possível opção para substituição da UF, pois, diferentemente dos adesivos a base de formol, os gases produzidos não prejudicam ao ser humano.
+Neste sentido, o presente estudo propôs a produção de painéis aglomerados com partículas de Pinus Elliottii misturadas com partículas de Politereftalato de Etileno (PET) reciclado oriundo de garrafas e aglutinados com PUR.
+A garrafa PET foi desenvolvida para armazenar e transportar líquidos de maneira segura e é 100% reciclável, porém, devido à alta demanda de produção, geralmente não passam por processo de reciclagem ou destinação correta, sendo despejadas na natureza a céu aberto ou nos mares, o que promove perturbações ambientais.
+De acordo com Pereira, Oliveira Junior e Fineza (2017), estima-se que a produção de PET em 2016 foi de 840 mil toneladas, um aumento de 16,6% em relação a 2014 e 229,4% em relação ao ano 2000. Em 2012 o Brasil reciclou cerca
+de 60% de todo o montante de garrafa PET descartada, sendo considerado um dos países com maior índice de reciclagem de PET do mundo na época.
+De acordo com a Associação Brasileira da Indústria do PET – ABIPET (2020) o 11o Censo da Reciclagem do PET no Brasil apontou que o país reciclou 55% das embalagens de PET descartadas pela população em 2019, volume equivalente a 311 mil toneladas do produto. Os 45% restantes foram destinados aos aterros, lixões ou descartados na natureza de forma incorreta.
+De acordo com Stark et al. (2021) o PET é um material que apresenta alta resistência química para suportar o contato com agentes agressivos, possuir baixa higroscopicidade e é um polímero termoplástico, consequentemente, desperta o interesse de pesquisadores para sua reutilização, associado a materiais sensíveis à umidade, como, por exemplo, os painéis aglomerados de madeira.
+Na América do Norte e Europa, os elementos de madeira têm sido combinados com termoplásticos há várias décadas, como em estudos envolvendo a utilização de termoplásticos reciclados combinados com fibra de coco (DHARMARATNE et al., 2021), termoplásticos com proporções de serragem sem a utilização de adesivos (LOPEZ et al., 2018; LOPEZ et al., 2020; ALLAF et al., 2020; CHOTIKHUN et al., 2022) e painéis aglomerados utilizando proporções de PET (SANTOS et al., 2011; DOTUN, ADESOJI e OLUWATIMILEHIN, 2018; FERREIRA e KNUTH, 2019; ARIANTI e RAFANI, 2021).
+O adesivo PUR, além de não causar danos ao homem e ao meio ambiente, é proveniente de recurso natural e renovável. O óleo utilizado na fabricação do poliol, componente do adesivo, é obtido da semente da planta Ricinus communis, popularmente conhecida como Mamona, que é facilmente encontrada em regiões tropicais e subtropicais, sendo uma alternativa para substituir os adesivos derivados de origem não natural (AZAMBUJA, 2006; MARINHO et al., 2013).
+Além da redução do consumo de energia, devido a menores temperaturas requeridas durante a prensagem dos painéis, de acordo com Buzo et al. (2019) e Sugahara et al. (2019), a utilização do adesivo PUR evidenciou melhorias nas propriedades físicas e mecânicas dos painéis, se comparado à utilização de UF.
+De acordo com Silva et al. (2021), em seus estudos de ciclo de vida dos painéis de partículas aglomeradas associados à economia circular de materiais de construção, a utilização de resíduos da madeira de Pinus em painéis de média densidade utilizando-se adesivo PUR, reduzem cerca de 98% dos impactos gerados
+pela produção linear industrial, que utiliza madeira virgem e adesivo UF, além de, gerarem impactos reduzidos se comparados à utilização do resíduo de madeira de eucalipto empregando-se PUR, pois, as atividades de silvicultura dessa espécie requerem maior utilização de caminhões e tratores movidos à diesel na preparação do solo, plantação e aplicação de fertilizantes, o que reflete em menor redução dos impactos ambientais no ciclo de vida dos painéis provenientes dessa espécie.
+2 OBJETIVOS
+2.1 OBJETIVO GERAL
+O objetivo deste trabalho é produzir e avaliar as propriedades físicas e mecânicas de painéis aglomerados homogêneos de partículas de Pinus elliottii considerando-se substituições parciais das partículas de madeira por partículas de PET, aglutinando-as com PUR.
+2.2 OBJETIVOS ESPECÍFICOS
+• Produzir e avaliar painéis aglomerados homogêneos de madeira com composições de Pinus, PET e PUR;
+• Analisar a influência do PET na composição das misturas;
+• Avaliar as propriedades físicas e mecânicas de acordo com os parâmetros de ensaios dos documentos normativos ABNT NBR 14810-2 (2018) e ANSI
+A208.1 (2016);
+• Classificar os painéis produzidos de acordo com os documentos
+normativos.
+• Analisar comparativamente as propriedades dos painéis obtidas com 0%,
+30% e 50% de PET utilizando variações de 5% e 10% de adesivo PUR nas
+misturas;
+• Analisar a morfologia dos painéis por meio de imagens de MEV.
+3 REVISÃO BIBLIOGRÁFICA
+3.1 PAINÉIS À BASE DE MADEIRA
+De acordo com Stark et al. (2021), painéis à base de madeira representam qualquer material derivado de madeira colado com algum tipo de adesivo. Os mesmos também são conhecidos como compósitos à base de madeira, em que abrangem uma gama de produtos que podem ser classificados em não estruturais e estruturais, sendo utilizados em linhas de produtos que vão desde painéis para revestimento interior e mobiliário, a painéis para uso exterior, em estruturas de apoio de edificações.
+Stark et al. (2021) define que o elemento básico para os compósitos à base de madeira é a fibra lignocelulósica, que pode ser utilizada em chapas maiores compostas de muitas fibras, partículas ou fibras unitárias. Os elementos típicos produzidos incluem fibras, partículas, flocos, folheados e laminados, onde o tamanho e a geometria dos elementos ditam em grande parte o produto final fabricado e seu desempenho.
+Maloney (1986) definiu a seguinte classificação para o conjunto de compósitos à base de madeira: compensados, aglomerado orientado, aglomerado de partículas e aglomerado de fibras.
+3.2 PAINÉIS DE PARTÍCULAS DE MADEIRA AGLOMERADA
+3.2.1 Breve histórico
+As chapas de madeira aglomerada têm sua primeira patente em 1901, entretanto, somente nos anos 40, durante a 2a Guerra mundial, a escassez de madeira na Alemanha estimulou a criação da primeira planta para a produção de chapas de partículas de madeira aglomerada. As partículas eram lascas grossas que procediam de resíduos cortados com auxílio de moinhos (NASCIMENTO; LAHR; CHRISTOFORO, 2015).
+Segundo Iwakiri e Trianoski (2020), devido à redução da disponibilidade de matéria-prima para fabricação de resina, tendo em vista a prioridade de uso do petróleo para finalidade militar, a produção foi paralisada. Em 1946 e somente após
+a guerra a produção e desenvolvimento de chapas de madeira aglomerada foi retomado nos Estados Unidos. A partir da década de 60, a expansão em termos de instalações industriais e avanços tecnológicos foram grandes e, em meados da década de 70, iniciou-se o desenvolvimento de chapas estruturais mais resistentes dos tipos waferboard e oriented strandboard (OSB).
+De acordo com a Associação Brasileira da Indústria de Painéis de Madeira – ABIPA (2010), no Brasil, a produção de painéis de madeira aglomerada teve início em 1966 em Curitiba-PR. No ano de 1970 houve a instalação de uma fábrica localizada em Taquari (RS) e, na mesma década, foram instaladas mais fábricas, do grupo nacional Peixoto de Castro (Madeplan e Alplan) e as do grupo alemão Freundemberg, que em 1984 foram compradas pela Duratex.
+A partir da metade da década de 1990, após investimentos em modernização tecnológica das empresas brasileiras, o procedimento de prensagem dos painéis, que era realizado de forma cíclica, passou a ser contínua, melhorando as características de resistência do produto. Sendo assim, na tentativa de dissociar o novo produto do aglomerado tradicional, ocorreu a modificação da nomenclatura de aglomerado para MDP (Medium Density Particleboard). Entretanto, a sigla MDP ainda é frequentemente referenciada pelo termo aglomerado em algumas fontes bibliográficas e também no meio industrial (TRIANOSKI, 2010).
+3.2.2 Características gerais dos painéis aglomerados
+Os painéis de madeira aglomerada são produzidos com pequenas partículas de madeira, incorporando um adesivo sintético e reconstituídos numa matriz randômica onde são consolidados através da aplicação de calor e pressão (IWAKIRI; TRIANOSKI, 2020).
+De acordo com a Organização das Nações Unidas para Agricultura e Alimentação – FAO (2016), um painel de partículas pode ser fabricado a partir de pequenos pedaços de madeira, como chips, flocos, partículas ou outros materiais lignocelulósicos.
+De acordo com ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS - ABNTNBR 14810-1 (2013), os painéis de partículas de média densidade podem ser classificados em conformidade com sua densidade nominal, sendo de baixa
+densidade os painéis que possuírem até 0,551 g/cm3, média densidade entre 0,551 e 0,750 g/cm3 e alta densidade para painéis acima de 0,750 g/cm3.
+Os painéis aglomerados são produzidos distribuindo-se as partículas de forma homogênea, formando uma única camada geral com diversas dimensões (painel homogêneo) ou em camadas, separadas de acordo com sua distribuição granulométrica, de forma que as partículas menores sejam distribuídas próximas às superfícies e as maiores no núcleo do painel (painel heterogêneo), como ilustra a Figura 1.
+Figura 1 – Esquemas de distribuição de partículas dos painéis aglomerados
+Fonte: Acervo do autor
+Segundo Iwakiri e Trianoski (2020), o processo de produção dos painéis de madeira aglomerada envolve as etapas de geração de partículas, secagem, classificação das partículas, aplicação de adesivo e aditivo químico, formação do colchão, pré-prensagem, prensagem a quente, resfriamento, acondicionamento, acabamento, classificação e armazenagem.
+De acordo com Müzel et al. (2015), Nascimento, Lahr e Christoforo (2015) e IBÁ (2017), a utilização de painéis aglomerados exibe uma série de vantagens em comparação à madeira maciça, tais como:
+• Permitem a fabricação de produtos com redução dos defeitos comuns da madeira, como anisotropia e heterogeneidade características do material natural;
+• No processo produtivo, possibilita a utilização de praticamente toda a árvore, reduzindo de modo significativo a geração de resíduos;
+• Utilização de madeiras de densidade baixa à média, incluindo as de rápido crescimento e reflorestamento;
+3.2.3
+•
+• •
+• •
+• •
+Podem ser produzidos a partir da reutilização de madeira proveniente da indústria de processamento primário do material;
+Possibilitam a produção de painéis de variadas dimensões;
+Maior estabilidade dimensional, melhoria na resistência à biodeterioração e de suas propriedades físicas e mecânicas, sendo possível incrementar propriedades termoacústicas;
+Melhor impregnação de produtos preservativos;
+Utilização de outras partículas de composição química semelhante à da
+madeira na sua fabricação;
+Menor custo;
+Menor demanda de energia para transporte e instalação.
+Utilizações e produção
+Dentre os painéis aglomerados, o MDP é geralmente indicado para a produção de móveis residenciais e comerciais de linhas retas em razão das suas características dimensionais, físicas e mecânicas. São aplicados principalmente em portas retas, laterais de móveis, prateleiras, divisórias, tampos, bases, frentes e laterais de gaveta (IBÁ, 2017).
+A demanda e produção destes painéis estão diretamente relacionadas ao crescimento da construção civil, visto que, com o aumento no fluxo deste setor, cresce a necessidade de itens mobiliários feitos com painéis aglomerados.
+Diante de um cenário de desaceleração econômica mundial e tímido crescimento do consumo de famílias brasileiras, o volume de vendas domésticas de painéis de madeira em 2020 foi de 7,1 milhões de m3, onde 2,9 milhões de m3 foram de painéis do tipo MDP, indicando o crescimento de 3,6% em relação a 2019 (IBÁ, 2021).
+3.2.4 Requisitos normativos das propriedades físico-mecânicas e classificação
+No Brasil, a verificação das condições de aplicação e da qualidade dos painéis produzidos são feitas de acordo com os resultados obtidos por meio de ensaios que
+determinam suas propriedades físicas e mecânicas, com base nos documentos normativos ABNT NBR 14810-1 (2013) e ABNT NBR 14810-2 (2018).
+Os principais parâmetros físicos analisados são a espessura, largura, comprimento, densidade aparente, esquadro, retilineidade, teor de umidade e inchamento em espessura após 24 horas, enquanto que, dentre os principais fatores analisados em relação às características mecânicas são os módulos de resistência à flexão estática (MOR) e de elasticidade (MOE), resistência à tração perpendicular ou ligação interna (TP) e arrancamento de parafuso (AP).
+A ABNT NBR 14810-2 (2018) apresenta critérios de classificação de painéis de média densidade (MDP) que levam em consideração suas características de resistência às cargas e a umidade do ambiente a qual pode ser utilizado. As classificações são:
+• P2 – Painéis não estruturais para uso interno em condições secas;
+• P3 – Painéis não estruturais para uso em condições úmidas;
+• P4 – Painéis estruturais para uso em condições secas;
+• P5 – Painéis estruturais para uso em condições úmidas;
+• P6 – Painéis estruturais para uso em condições severas de carga, em condições secas;
+• P7 – Painéis estruturais para uso em condições severas de carga, em condições úmidas.
+No cenário internacional, a norma ANSI A208.1 (2016) classifica os painéis de acordo com os parâmetros físicos e mecânicos como:
+• H (High Density – Alta Densidade);
+• M (Medium Density – Média densidade);
+• LD (Low Density – Baixa Densidade);
+• D (Manufactured Home Decking – Decks Caseiros Fabricados);
+• PBU (Underlayment – Subpavimento).
+Além das classificações referidas, são acompanhados de um segundo dígito, que pode ser 0, 1, S, 2 ou 3, que indica o grau de identificação, onde o dígito 3 possui os requisitos mais rigorosos, referentes às características especiais de durabilidade, levando em conta MOR, MOE e TP.
+3.2.5 Fatores que afetam o desempenho dos painéis
+De acordo com Moslemi (1974) e Maloney (1993), diversos fatores contribuem para a conformação das propriedades e da qualidade final dos painéis. Dentre eles, podem ser destacados os referentes à matéria-prima, tais como: espécies das árvores, características anatômicas, densidade, teor de umidade; e os fatores relativos aos processos produtivos do painel, como: densidade aparente, razão de compactação, tipo e teores de adesivo, dimensão das partículas, umidade das partículas, temperatura de prensagem e pressão específica.
+A densidade da matéria prima tem influência significativa sobre as propriedades dos painéis aglomerados e também no processo de produção, sendo que um aspecto a ser considerado na produção de painéis de madeira é a relação entre a densidade do painel e a densidade da madeira utilizada como matéria-prima, denominada razão de compactação. Esta relação representa o grau de densificação do painel, onde o intervalo considerado ideal é entre 1,3 e 1,6. Desse modo, madeiras de menor densidade auxiliam na obtenção de uma boa razão de compactação enquanto que as de maior densidade diminuem a razão de compactação. Os painéis com maior razão de compactação possuem maior quantidade de partículas de madeira e, consequentemente, maior densificação do painel, gerando a possibilidade de maior resistência mecânica (ARAUJO et al., 2019; IWAKIRI; TRIANOSKI, 2020).
+De acordo com Moslemi (1974), partículas mais curtas e espessas formam painéis que resultam em menor inchamento, entretanto, com maior instabilidade linear, visto que a maioria das partículas ficam posicionadas verticalmente durante a confecção do painel.
+A umidade das partículas, que são empregadas para produção dos painéis, também é considerada uma variável importante, em razão de que altos teores de umidade levam a um maior tempo de prensagem, pois necessita que haja a liberação de vapor e ocorra a adesão entre as partículas das camadas mais interiores, porém, as umidades abaixo dos valores mínimos acarretam uma adesão insatisfatória entre as partículas por ocasionarem a redução da transferência de calor da superfície até o centro do painel (CHAMMA, 2004).
+Kollmann (1975) menciona que a umidade das partículas após a secagem pode variar entre 3 e 12%, o que favorece uma boa colagem e permite uma boa penetração do adesivo.
+As propriedades e a quantidade de adesivo são de extrema importância, pois toda a ligação entre as partículas é criada pela resina adicionada, a qual geralmente é ativada sob calor e pressão, envolvendo adesivos termofixos e também a possível adição de termoplásticos.
+A proporção de adesivo incorporado na produção de painéis aglomera dos pode variar na faixa de 5 à 10%, dependendo da superfície específica das partículas correspondente às suas dimensões, do conteúdo de sólido resinoso e também da massa seca de partículas (IWAKIRI; TRIANOSKI, 2020). Segundo Maloney (1993), as propriedades físicas e mecânicas dos painéis aglomerados melhoram de maneira proporcional com o aumento da quantidade de adesivo, em especial a resistência à tração perpendicular (TP), porém, o custo de produção aumenta consideravelmente, tornando inviável essa prática.
+A temperatura e o tempo de prensagem são definidos em função da temperatura necessária para a cura do adesivo na camada mais interna, portanto, varia de acordo com o tipo de adesivo e espessura do painel (IWAKIRI; TRIANOSKI, 2020).
+3.3 MADEIRA DE PINUS
+O gênero Pinus produz madeiras classificadas como coníferas e pertence ao grupo das gimnospermas. De acordo com a EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA – EMBRAPA (2020) este gênero abrange mais de 100 espécies e algumas de suas principais características são: madeira de cor clara que varia entre branco e amarelado, possui fibra longa, possibilita a extração de resina em escala comercial e tem baixa densidade.
+Segundo o IPT (1989) a madeira de Pinus é de boa trabalhabilidade, fácil de desdobrar, aplainar, desenrolar, lixar, tornear, furar, fixar, colar, permite bom acabamento e é de fácil secagem.
+A ABNT NBR 7190 (1997) intitulada: Projetos de Estruturas de Madeira, possui em seu Anexo - E algumas das espécies mais frequentes no Brasil, que foram
+caracterizadas com objetivo de padronizar as propriedades médias deste gênero, algumas delas estão descritas na Tabela 1.
+Tabela 1 – Propriedades físicas e mecânicas de espécies de Pinus
+    Nome comum Pinus caribea Pinus
+Nome científico
+Massa específica aparente (umidade 12%) (kg/m3)
+Módulo de elasticidade paralelo às fibras (MPa) 8 431
+7 110 9 868
+10 904 13 304
+    Pinus oocarpa Pinus taeda
+Pinus oocarpa 538 shiede
+Pinus taeda L. 645
+Fonte: Adaptado de ABNT NBR 7190 (1997)
+Pinus caribea 579 var. caribea
+Pinus caribea 537 bahamensis var.bahamensis
+Pinus Pinus caribea 535 hondurensis var.hondurensis
+ Pinus Pinus elliottii elliottii var. elliottii
+ 560 11 889
+    O cultivo de Pinus no Brasil é realizado há pouco mais de um século, onde as primeiras espécies plantadas exigiam fatores climáticos diferentes do que se tem no país, portanto, os primeiros plantios não trouxeram bons resultados. Entretanto, por volta de 1960, criou-se o incentivo fiscal ao reflorestamento, desde então, o plantio de diversas espécies de Pinus para fins comerciais cresceu, desenvolvendo-se principalmente nas regiões Sul e Sudeste, destacando-se as espécies Pinus elliottii e Pinus taeda (EMBRAPA, 2014).
+Estes procedimentos de plantios de árvores não nativas são reconhecidos como florestas plantadas, que são produzidas intencionalmente pelo ser humano para se obter um dado objetivo, seja conservação de certa área ou atender a demanda da produção de derivados de madeira, como os painéis aglomerados (FAO, 2016).
+Segundo IBÁ (2021), em 2020, a área total de árvores plantadas totalizou 9,55 milhões de hectares, um aumento de 8,64% em relação a 2018. Desse total, a primeira maior área de plantação (78%) é representada pelo cultivo de eucalipto, com 7,47 milhões de hectares, e a segunda maior área de plantação (18%) é representada pelo cultivo de Pinus, com 1,7 milhão de hectares. Além desses cultivos, existem 0,38 milhão de hectares de outras espécies plantadas, entre elas a seringueira, acácia, teca e paricá, como ilustra a Figura 2.
+
+Figura 2 – Área de florestas plantadas no Brasil
+Fonte: Adaptado de Ibá (2021)
+Ainda de acordo com IBÁ (2021), os estados brasileiros que possuem maiores áreas de florestas plantadas de Pinus são: Paraná com 43%, Santa Catarina com 24%, Rio Grande do Sul com 18%, São Paulo com 10%, Minas Gerais com 4% e outros estados com 1% do total de 1,7 milhão de hectares.
+A maioria das madeiras utilizadas como matéria-prima para confeccionar painéis aglomerados são oriundas de florestas plantadas, sendo a de Pinus a mais utilizada na produção dos painéis. No entanto, a crescente demanda do mercado por madeira, não segue o mesmo ritmo de sua oferta, sendo necessária a busca de matérias-primas alternativas, preferencialmente reutilizando algum tipo de resíduo (CRAVO; SARTORI; FIORELLI, 2017).
+3.4 ADESIVOS
+De acordo com a ABNT NBR 14810-1 (2013), adesivo é definido como uma substância orgânica ou inorgânica utilizada com o objetivo de aglutinar partículas de madeira em um painel.
+Pelo fato do adesivo ser o componente de maior custo na produção de chapas de madeira aglomerada, a quantidade a ser utilizada deve ser otimizada de acordo com as propriedades requeridas para a finalidade a que se destina (IWAKIRI; TRIANOSKI, 2020).
+Segundo Mano (2000), os adesivos podem ser classificados segundo sua origem como adesivos naturais (obtidos de fontes animais, vegetais e minerais), adesivos semi-sintéticos (derivados dos produtos naturais e sofreram modificação
+química) e também adesivos sintéticos (formados através de reações de poliadição e policondensação).
+Os adesivos de origem sintética são atualmente os mais empregados na produção de chapas de madeira, em função das suas melhores propriedades de adesão e ao menor ataque de micro-organismos, quando comparados aos adesivos naturais (PAES et al., 2011).
+Os adesivos sintéticos mais utilizados nas indústrias de produção de painéis são a Ureia Formaldeído, seguido de Fenol-Formaldeído e Melamina Formaldeído (MALONEY, 1993).
+3.4.1 Adesivo Ureia Formaldeído (UF)
+A UF é classificada como um adesivo polimérico sintético termofixo que, quando submetida ao aquecimento, apresenta modificações químicas e físicas irreversíveis através das reações de policondensação, originando um material rígido e insolúvel (SILVA, 2015).
+Segundo Iwakiri e Trianoski (2020), a UF é o adesivo mais utilizado na produção de aglomerados por ser o adesivo de menor custo, fácil manuseio, cura rápida, além de ser incolor, o que não confere cor indesejável aos painéis.
+De acordo com Marra (1992), a UF por se tratar de um adesivo de baixa resistência à umidade, sua utilização em painéis que são expostos à umidade é limitada. Desta forma, na utilização da UF inclui-se parafina com o propósito de melhorar a resistência do painel com relação à absorção de água, porém, essa prática possui efeito significativo somente em curto prazo (IWAKIRI; TRIANOSKI, 2020).
+Além do mais, durante a prensagem e cura deste adesivo, que acontece em altas temperaturas, entre 130 e 160 oC, ocorre uma grande liberação de gás formaldeído, o que torna seu emprego problemático (DIAS, 2004).
+A Agência Internacional de Pesquisa em Câncer – IARC (2004) citado por CETESB (2017), classifica o gás formaldeído como cancerígeno para humanos (Grupo 1), embasado na comprovação de câncer de nasofaringe em trabalhadores expostos por via inalatória e recomenda a utilização de resinas que liberam menor quantidade de formaldeído.
+Além da atual tendência global em direção a produtos biodegradáveis e não poluentes, as pesquisas buscam desenvolver materiais sem solvente, com matéria- prima de fonte renovável e que não gere danos à saúde humana, tais como: poliuretano derivado de óleo de mamona, poliuretano de amido, entre outros (AZEVEDO, 2009; FIORELLI et al., 2013).
+3.4.2 Adesivo poliuretano bicomponente derivado de mamona (PUR)
+O desenvolvimento das pesquisas dos poliuretanos derivados do óleo de mamona iniciou em 1980 pelo Grupo de Química Analítica e Tecnologia de Polímeros, GQATP, do Instituto de Química de São Carlos da Universidade de São Paulo, (AZEVEDO, 1999). O óleo que é utilizado na fabricação do adesivo é obtido da semente da mamona (Ricinus communis), planta da família das euforbiáceas, encontrada abundantemente em regiões tropicais e subtropicais, podendo ser uma alternativa para substituir os adesivos derivados de origem não natural (FIORELLI et al., 2013; MARINHO et al., 2013).
+Segundo Jesus (2000), a preparação do adesivo PUR é feita em duas etapas. Primeiro, obtém-se um pré-polímero, onde a polimerização está incompleta no polímero. Este pré-polímero, quando misturado a um poliol, resulta em um poliuretano. Dependendo do conteúdo de poliol empregado, é possível obter poliuretanos com diferentes níveis de rigidez e flexibilidade (SILVA et al., 2013).
+Entre as vantagens deste adesivo pode-se destacar que é derivado de uma matéria-prima natural e renovável, é classificado como impermeável, apresenta a característica de não ser agressivo ao meio ambiente e ao ser humano em sua polimerização e, é oriundo de tecnologia brasileira (DIAS, 2005).
+A prática da utilização do adesivo PUR, por ser relativamente recente, possui maiores custos, se comparado ao adesivo UF. Entretanto, de acordo com Alves et al. (2021), atualmente as pesquisas na busca de óleos naturais como açaí, andiroba, amendoim, baru, canola, girassol, jatrofa, linhaça, mamona, maracujá, milho, soja e tungue, que podem dar origem a polióis, têm demonstrado resultados significativamente positivos, ao identificarem que os poliuretanos produzidos por polióis a partir desses óleos possuem propriedades parecidas ou superiores àqueles de origem petroquímica, o que aponta a possibilidade de aumento na oferta de tais
+adesivos alternativos em um futuro próximo e, consequentemente, a redução de custos, tornando a prática extremamente vantajosa.
+Ainda de acordo com Alves et al. (2021), dentre os óleos que estão atualmente sendo pesquisados, o óleo de mamona apresenta a vantagem de poder ser utilizado sem nenhum tratamento químico para se tornar um poliol, visto que o mesmo já é naturalmente classificado como um poliol.
+Buzo et al. (2019) avaliaram painéis de Pinus e bagaço de cana empregando- se adesivo PUR e UF para uso na construção civil. Na utilização de 10% do adesivo PUR empregou-se temperatura de 100 oC, pressão de 5 MPa para prensagem durante 10 minutos e obtiveram melhores resultados para as propriedades físicas e mecânicas em comparação aos painéis produzidos com o adesivo UF com os mesmos parâmetros de produção, diferindo apenas a temperatura de prensagem (130 °C).
+Sugahara et al. (2019) realizaram estudos de painéis de eucalipto e bagaço de cana empregando-se adesivo PUR e UF. Na produção dos painéis que envolveram o PUR, utilizaram 10% do adesivo e pressão de 5 MPa para prensagem durante 10 minutos à temperatura de 100 oC. Os resultados para as propriedades físicas e mecânicas foram melhores em comparação aos painéis produzidos com o adesivo UF.
+3.5 POLÍMEROS PLÁSTICOS
+Os polímeros plásticos de origem sintética como o Politereftalato de Etileno (PET), Polipropileno (PP), o Polietileno (PE) e o Policloreto de Vinila (PVC), são adquiridos através de reações químicas feitas pelo homem, onde os materiais são formados pela união de grandes cadeias moleculares chamadas meros, que, por sua vez, são formados por moléculas menores, chamadas monômeros e são produzidos através de um processo químico chamado polimerização, que proporciona a união química de monômeros para formar polímeros (SPINACÉ; DE PAOLI, 2005; CALLISTER et al., 2020).
+Dentre os polímeros de origem sintética, existe a classificação em termofixos e termoplásticos. Os termofixos são polímeros que se tornam permanentemente rígidos durante sua formação e não se liquefazem ao serem submetidos ao aquecimento, ou seja, não são mecanicamente recicláveis. Ao serem moldados uma
+vez, não permitem ser fundidos e remoldados. Os termoplásticos são polímeros que amolecem quando são aquecidos e endurecem quando são resfriados, permitindo que tais processos sejam repetidos diversas vezes, pois são totalmente reversíveis (CALLISTER et al., 2020).
+Atualmente, o Politereftalato de Etileno (PET), Polietileno (PE), Polipropileno (PP), Policroleto de Vinila (PVC) e Poliestireno (PS) são os polímeros sintéticos mais utilizados no setor de embalagens, sendo consideradas commodities, devido à grande produção e aplicação destes materiais (SINDICATO DA INDÚSTRIA DE MATERIAL PLÁSTICO - SINDIPLAST, 2018).
+De acordo com os dados do Atlas do Plástico (2020), em todo o mundo, foram produzidas mais de 400 milhões de toneladas de plástico a cada ano dos últimos 5 anos, onde as embalagens representam mais de um terço de todo o plástico produzido.
+A Figura 3 ilustra a produção mundial de plástico até o ano de 2019 e também uma previsão possível até o ano de 2030, segundo o Atlas do Plástico (2020).
+Figura 3 – Produção global anual de plástico em milhões de toneladas
+Fonte: Atlas do Plástico (2020)
+Ainda de acordo com as estimativas atuais do Atlas do Plástico (2020), cerca de 40% dos produtos plásticos se tornam lixo com menos de um mês. Em 2025, a produção de plástico deverá atingir mais de 600 milhões de toneladas por ano e, apesar da possível reciclagem que o material oferece, os atuais sistemas de
+reciclagem não conseguem lidar com esse volume de resíduos. Ao longo da história, apenas 10% dos mais de 9 bilhões de toneladas de plásticos produzidos desde a década de 1950 foram reciclados.
+Segundo o relatório anual da WWF-Brasil (2019), o Brasil é o 40 maior produtor de lixo plástico no mundo, alcançando 11,3 milhões de toneladas, ficando atrás apenas dos Estados Unidos, China e Índia. Deste montante, cerca de 91% foram coletadas, mas apenas 1,28% foram efetivamente recicladas, tornando este um dos menores índices da pesquisa e bem abaixo da média global de reciclagem plástica, que é de 9%.
+3.5.1 PET (Politereftalato de Etileno)
+A descoberta do PET ocorreu em 1941, no período final da Segunda Guerra Mundial, em que os químicos ingleses John Rex Whinfield e James Tennant Dickson desenvolveram um polímero plástico para a produção de fibras têxteis, nomeado como poliéster. No entanto, o material só alcançou caráter de uso como embalagens em 1973, quando Du Pont, introduziu ao processo fabril a injeção e sopro com biorientação (TEIXEIRA, 2013). Segundo a ABIPET (2018), o Brasil iniciou a utilização do PET no ano de 1988, primeiramente na indústria têxtil e, a partir do ano de 1993 no mercado de embalagens de bebidas carbonatadas.
+O PET, que também pode ser nomeado como Polietileno Tereftalato, é um poliéster, polímero termoplástico sintético, geralmente obtido pela reação de transesterificação do tereftalato de dimetila com o etilenoglicol. É um polímero linear, possui resistência ao impacto moderada, baixo peso específico e baixa porosidade, o que proporciona uma excelente barreira para gases e odores, sendo considerado o melhor e mais resistente plástico para fabricação de garrafas e embalagens em geral (MANO, 2000; ABIPET, 2017).
+Modelos de embalagens de bebidas são apresentados na Figura 4.
+Figura 4 – Garrafas PET
+Fonte: www.globalpetsa.com.br
+Algumas das propriedades físicas e mecânicas do PET estão descritas na Tabela 2.
+ Tabela 2 – Propriedades físicas e mecânicas do PET
+        Massa Específica (g/cm3)
+1,34 –1,39
+Temp. Temp. de de Transição Fusão Vítrea – Tg
+– Tm (°C) (°C)
+265 69 – 115
+Resistência à tração (MPa)
+Módulo à tração (MPa)
+Resistência à flexão (MPa)
+Módulo à flexão (MPa)
+2413 – 3102
+Absorção de água (% - 24h)
+0,1 – 0,2
+        58,6 – 72,4
+Fonte: Adaptado de Ebewele (2000); Awaja e Pavel (2005)
+2758 – 4136
+96,5 – 124,1
+         De acordo com ABIPET (2020), o 110 Censo da Reciclagem do PET no Brasil apontou que o país reciclou 55% das embalagens de PET descartadas pela população em 2019, volume equivalente a 311 mil toneladas do produto. O montante reciclado pode ser reutilizado em vários segmentos, como demonstrado naFigura 5.
+  
+Figura 5 – Infográfico de aplicações para o PET reciclado
+Fonte: Adaptado de ABIPET (2020)
+Apesar das diversas possíveis utilizações do PET reciclado, segundo a ABIPET (2020) 45% das embalagens não foram recicladas, o que gera certa preocupação, pois, possivelmente foram enviados para aterros legalizados ou clandestinos, descartados no mar ou até incinerados, desviando-se do que é o destino adequado para o material.
+Apesar dos inúmeros benefícios e facilidades gerados pelo PET, os estragos causados pela busca em atender a demanda do mercado e o descontrole no seu descarte na natureza, o tornaram um grande colaborador para um desastre ambiental de grandes proporções, pois o mesmo, em sua composição natural, é um polímero não biodegradável (ZOCH, 2013). Nesse âmbito, o processo de reciclagem e o uso destes resíduos na confecção de novos materiais é uma alternativa para amenizar o impacto ambiental causado por esse polímero e agregar valor ao material reutilizado (FONSECA et al., 2014; RODRIGUES et al., 2017).
+A utilização do PET em compósitos de madeira-plástico ou também chamado WPC (Wood Plastic Composites) tem sido alvo de pesquisas em vários países nos últimos anos. Dentre as diversas formas de utilização, em compósitos com conteúdo menor de termoplástico, este componente não é contínuo, ou seja, não atua como matriz. Sua atuação é basicamente como a de um ligante para a fibra lignocelulósica, da mesma forma que os aglutinantes em compósitos convencionais à base de madeira (MDP, MDF, OSB, entre outros), conforme descrito por Stark et al. (2021).
+3.5.1.1 Compósitos madeira-plástico com termoplásticos reciclados
+Stark et al. (2021) define os compósitos madeira-plástico em dois tipos, sendo eles: com elevado conteúdo de termoplástico e com baixo conteúdo de termoplástico. Nos compósitos com elevado conteúdo termoplástico, esse componente é uma matriz contínua e o elemento de madeira serve como reforço ou enchimento. O teor de madeira é tipicamente inferior a 60% em massa. Em compósitos com baixo conteúdo termoplástico, este componente não é contínuo, atuando mais como aglutinante das fibras, do mesmo modo que os adesivos em painéis à base de madeira. Neste contexto, o teor de termoplástico geralmente é inferior a 30% em massa.
+Ressalta-se que o processo de fabricação dos mesmos varia, podendo ser por meio de extrusão, injeção ou compressão plana em alta temperatura. Não se utiliza adesivo na mistura, diferindo-se dos painéis aglomerados de partículas, porém, podem ser utilizados agentes de acoplamento para melhorar a adesão do termoplástico às partículas lignocelulósicas.
+O reaproveitamento de termoplásticos na produção de compósitos pela prensagem plana com calor ou extrusão, envolvendo materiais lignocelulósicos residuais da agroindústria ou serragem proveniente do processamento de madeiras, está em constante desenvolvimento pelos pesquisadores em âmbito mundial, tais como, a utilização de termoplásticos reciclados combinados com fibra de coco (DHARMARATNE et al., 2021), termoplásticos com proporções de serragem sem a utilização de adesivos (LOPEZ et al., 2018; LOPEZ et al., 2020; ALLAF et al., 2020; CHOTIKHUN et al., 2022).
+Dentre as pesquisas envolvendo a confecção de compósitos utilizando PET e serragem por processo semelhante ao da produção de painéis aglomerados de partículas, Rahman et al. (2013) produziram e avaliaram compósitos madeira- plástico (CMP) com matriz composta de pó de serra e polietileno tereftalato (PET) reciclado em partículas menores que 0,25 mm, nas proporções de pó de serra/PET: 40/60, 50/50, 60/40 e 70/30 em porcentagem, sem o acréscimo de agente de acoplamento. Utilizaram o método de compressão plana com aquecimento à temperatura de 190 °C, pressão de 5 MPa, durante 25 minutos. Observaram um aumento considerável na densidade a cada aumento na proporção de PET em relação ao pó de serra, obtendo a densidade máxima média de 1,05 g/cm3 na
+proporção 40% pó de serra 60% PET. A absorção de água 24h e inchamento em espessura 24h diminuíram consideravelmente com a redução do pó de serra e o aumento da proporção de PET, variando de 29,5% (70/30) para 13,8% (40/60) e reduzindo de 10% (70/30) para 5,7% (40/60), respectivamente.
+As propriedades de MOE e MOR foram aumentadas consideravelmente com a redução do pó de serra e o aumento da proporção de PET, partindo de 1433,93 MPa (70/30) para 2008,34 MPa (40/60) e de 11,68 MPa (70/30) para 27,08 MPa (40/60), respectivamente.
+Em estudos feitos por Rahman et al. (2018), produziram compósitos madeira- plástico utilizando proporções de partículas de madeira (Albiziarichardiana King & Prain) e PET. Avaliaram os efeitos do tamanho das partículas de madeira (0,5 a 1,0 mm e 1,1 a 2,0 mm) combinadas com partículas de PET (< 0,25 mm) e das proporções de madeira/PET (40/60, 50/50, 60/40 e 70/30) nas propriedades físicas, mecânicas e de decomposição, sem a utilização de agente de acoplamento.
+Utilizaram o método de compressão plana com aquecimento à temperatura de 190 °C durante 5 minutos e 6 minutos de prensagem à frio, ambas etapas com pressão de 5 MPa.
+Observaram em seus resultados o aumento da densidade em conformidade com o aumento das proporções de PET nas misturas e, constataram que as misturas envolvendo partículas de madeira no intervalo de 0,5 a 1,0 mm resultaram em valores maiores que 1,1 a 2,0 mm nessa propriedade.
+Os resultados das propriedades físicas de absorção e inchamento 24h dos painéis envolvendo as partículas de 1,1 a 2,0 mm de madeira foram menores em relação aos compostos por partículas de 0,5 a 1,0 mm. De acordo com o aumento de PET nas misturas, houve consideráveis reduções nessas propriedades, sendo que os painéis da proporção 40/60 resultaram nos menores valores.
+Quanto às propriedades mecânicas, os autores observaram maiores valores de MOR e MOE para os painéis envolvendo as partículas de 1,1 a 2,0 mm de madeira, sendo para MOR a mistura 40/60 a de maior resultado (acima de 30 MPa) e para MOE a mistura com proporção 50/50 (2570 MPa) a de maior resultado.
+De maneira geral, concluíram que o tamanho das partículas de madeira influência nas propriedades físicas e mecânicas dos compósitos madeira-plástico. Afirmam também, que a proporção 50/50 é a mais promissora e tecnicamente viável para a fabricação dos compósitos.
+3.5.1.2 Painéis aglomerados com PET reciclado
+Pesquisas utilizando PET como substituição da madeira em painéis aglomerados de partículas, ou seja, fazendo a utilização de partículas de madeira, adesivos termofixos e partículas de PET reciclado, vem sendo realizadas em todo o mundo, buscando melhorias nas propriedades de absorção de água e também de resistência mecânica, compartilhando das mesmas preocupações ambientais e de desempenho dos painéis deste estudo.
+Santos et al. (2011) produziram painéis aglomerados a partir da utilização do resíduo da madeira de candeia (Eremanthus erythropappus). Verificaram a influência das diferentes porcentagens de plástico tipo PET e também da presença e ausência de parafina sobre as propriedades dos painéis aglomerados. Utilizaram resíduos da madeira de candeia em associação à madeira de eucalipto, na proporção de 25/75, respectivamente, adesivo UF (12%) e também a incorporação de PET na forma de partículas originadas de envases de refrigerantes em três porcentagens de incorporação (0, 25 e 50%) em tratamentos na presença (1%) e na ausência de emulsão de parafina. O ciclo de prensagem dos painéis ocorreu sob aquecimento elétrico à temperatura de 160 °C, pressão de 4 MPa durante 8 minutos.
+Para os painéis confeccionados na ausência de parafina, observaram melhoria nos resultados de MOR de 8,05 MPa (0% PET) para 8,33 MPa (50% PET), redução nos valores médios de MOE de 791,78 MPa (0% PET) para 432,56 MPa (50% PET) e redução nos valores médios de ligação interna de 0,84 MPa (0% PET) para 0,42 MPa (50%). Nos aspectos físicos, a incorporação do PET de maneira geral reduziu a absorção de água após 24h de 72,87% (0% PET) para 56,54% (50% PET) e também o inchamento em espessura 24h de 18,60% (0% PET) para 15,67% (50%).
+Os autores concluíram de modo geral, que não existe necessidade da utilização de parafina nos painéis que foram confeccionados com a incorporação de PET, pois, não foram observados efeitos significativos na absorção de água e inchamento nos painéis confeccionados com PET e parafina em conjunto. No entanto, afirmam que a redução das propriedades mecânicas pode ter sido gerada pela ausência de ligação do adesivo ao PET.
+Dotun, Adesoji e Oluwatimilehin (2018) avaliaram painéis compostos de pó de serra (SD) e PET reciclado de garrafas, fazendo-se substituições de 10, 20, 30, 40 e
+50% de SD por PET, utilizando 20% de UF em relação ao volume dos painéis. Os painéis foram feitos através da mistura do SD e do PET, seguido de um ciclo de prensagem trifásico, que consistiu em pré-prensagem em um macaco hidráulico para reduzir a altura do colchão de partículas, depois levado ao forno e deixado durante 1 h a temperatura de 80 °C. Por fim foi prensado a frio para aumentar fixação da resina. Posteriormente, o molde foi aberto e colocado sob temperatura ambiente durante 24 h e depois colocada no forno durante 3 h a 110 °C. Os autores não mencionaram a pressão de prensagem.
+Observaram que a densidade dos painéis aumentou de acordo com o aumento na substituição de SD por PET, sendo 0,537 g/cm3 para a proporção 70% SD + 30% PET e 0,710 g/cm3 para 50% SD + 50% PET.
+Os resultados das propriedades físicas revelaram menores valores de absorção e inchamento quando houve a redução de SD e aumento na quantidade de PET. Concluíram que a natureza hidrofílica da madeira, que consiste em celulose, lignina e hemicelulose, reagem prontamente com moléculas de água e, de acordo com a redução da quantidade de madeira, reduziu-se a interação da água com o painel.
+Quanto aos resultados das propriedades mecânicas, observaram aumento considerável de MOR e MOE a partir de 30% de substituição de SD por PET, sendo os painéis com 50% de substituição os de maiores valores, com MOR 9,04 MPa e MOE 964,99 MPa.
+Através dos resultados, concluíram que a mistura 50% SD + 50% PET obteve os melhores resultados, sendo considerada a de melhor interação entre as partículas de PET, adesivo UF e SD.
+Em estudos feitos por Ferreira e Knuth (2019), produziram e avaliaram painéis aglomerados utilizando madeira teca (Tectonagrandis), adesivo UF (12%) e adição de PET em proporções de 5, 10 e 15% em dois tamanhos diferentes de partículas (flakes com 0,2 x 5,0 x 8,0 mm e partículas menores que 2 mm), prensados à 160 °C, com pressão 4 MPa durante 3 minutos. Observaram que a densidade do painel aumentou com o acréscimo de 15% das partículas menores que 2 mm de PET, atingindo valores de 0,63 g/cm3. Para absorção 24h não obtiveram variação significativa nos valores médios com o acréscimo de 5, 10 e 15% das partículas menores que 2 mm de PET. Para inchamento em espessura 24h foi observado um aumento dos valores médios de 9,28% (0% PET) para 10,68% (15% PET) em
+relação à utilização das partículas menores que 2 mm e nos resultados de ligação interna obtiveram o maior resultado com o acréscimo de 5% de PET em partículas menores que 2 mm, atingindo o valor médio de 0,67 MPa.
+Arianti e Rafani (2021) estudaram o comportamento físico e mecânico de painéis
+aglomerados de serragem e partículas de PET derivado de garrafas, nas proporções 50/50, 60/40 e 70/30 (serragem/PET), com a utilização 11% de adesivo UF. A pressão utilizada foi de 2,5 MPa, temperatura de prensagem 200 °C e tempo de prensagem 20 minutos.
+Os resultados de densidade dos painéis aumentaram de acordo com o aumento da substituição de PET por serragem, variando de 0,757 g/cm3 (50/50) para 0,828 g/cm3 (70/30). A absorção de água variou de 62,15% (70/30) para 27,58% (50/50), demonstrando redução significativa nesta propriedade, enquanto que, o inchamento em espessura aumentou de acordo com o aumento da substituição de serragem por PET, sendo 9,84% para a proporção 70/30 e 14,92% para 50/50.
+Os resultados mecânicos foram reduzidos conforme as proporções das partículas de PET aumentaram, sendo os valores de MOE 862,09 MPa para 70/30 e 383,42 MPa para a proporção 50/50, os valores de MOR 4,16 MPa para 70/30 e 1,77 MPa para a proporção 50/50 e os resultados de TP 1,85 MPa para a proporção 70/30 e 0,53 MPa para 50/50.
+De acordo com os resultados obtidos, os autores concluíram que as partículas de PET não derreteram durante o processo de prensagem com calor, o que pode ter prejudicado os resultados das propriedades físicas e mecânicas, pois, não preencheram os vazios de forma adequada. Afirmam também, que seria necessário aumentar o tempo e a temperatura de prensagem.
+Sendo assim, dentre os diversos estudos com a utilização de partículas de PET em painéis aglomerados madeira, não foram observados estudos feitos a partir da utilização de proporções de partículas de Pinus e PET reciclado derivado de garrafas, utilizando-se o adesivo aglutinante PUR. O diferencial do presente trabalho resulta em um painel produzido com quantidade reduzida de madeira, agregando utilização de um polímero termoplástico reciclado (PET) e um adesivo atualmente considerado como proveniente de fonte renovável (PUR).
+4 MATERIAIS E MÉTODOS
+4.1 MATERIAIS
+4.1.1 Maravalhas de Pinus elliottii
+As maravalhas de Pinus elliottii, ilustradas na Figura 6, foram obtidas por meio do processamento de tábuas de serrarias da cidade de Ilha Solteira, São Paulo, Brasil.
+Figura 6 – Maravalhas de Pinus elliottii
+Fonte: Acervo do autor
+O processamento de tábuas com plaina desengrossadeira é um procedimento muito comum feito nas serrarias para plainar peças de madeira, para propiciar dimensões regularas às peças. Tal processamento gera as maravalhas (resíduos), como as ilustradas na Figura 6, que foram adquiridas para a presente pesquisa.
+4.1.2 Adesivo poliuretano bicomponente derivado de mamona (PUR)
+O adesivo utilizado para aglutinar as partículas foi o PUR, com nome comercial de AGT 1315, fornecido por meio de doação pela empresa IMPERVEG® Polímeros Indústria e Comércio Ltda, localizada na cidade de Aguaí, São Paulo, Brasil.
+O PUR é composto por um pré-polímero constituído por metileno difenil diisocianato (MDI) derivado do petróleo e o poliol derivado do óleo da mamona, que neste trabalho foram utilizados na proporção de 1:1.
+De acordo com a IMPERVEG, este adesivo é isento de solventes, portanto, não libera gases tóxicos. Possui resistência ao calor até 210 oC, demora de 60 a 90
+minutos para secagem e seu tempo de cura é de 24 horas, com o seu ciclo de cura finalizado em até 7 dias.
+4.1.3 Politereftalato de Etileno (PET)
+O PET utilizado é proveniente de garrafas de bebidas descartadas, em formato de flakes, como ilustra a Figura 7. Foi disponibilizado pela empresa Global PET SA, localizada na cidade de São Carlos, São Paulo, Brasil.
+Figura 7 – PET em flakes
+Fonte: Acervo do autor
+É importante ressaltar que os flakes de PET foram utilizados no formato convencional, fornecido pela empresa de reciclagem Global PET SA, sem qualquer tipo de processamento para alteração no tamanho das partículas ou tratamento químico das mesmas para utilização na pesquisa.
+4.2 METODOLOGIA
+4.2.1 Testes preliminares
+Na fase de estudos preliminares para a produção dos painéis e verificação da literatura disponível sobre o tema, foram fabricados painéis utilizando-se apenas proporções de partículas de Pinus elliottii e PET reciclado, sendo 1 painel 70% Pinus 30% PET e 1 painel 50% Pinus 50% PET, ambos prensados à temperatura de 110 °C e pressão 5 MPa.
+Tais testes foram executados para verificara interação das partículas de madeira Pinus com PET e averiguar se o termoplástico agiria como aglutinante das
+partículas de madeira, visto que, a temperatura utilizada na prensagem seria menor que a de fusão do PET (conforme indicado na Tabela 2), porém, utilizando 5 MPa de pressão para produção do painel, o que poderia alterar o comportamento do material. A Figura 8 ilustra aspectos dos painéis que foram produzidos.
+Figura 8 – Painéis preliminares produzidos
+  (a) Painel de partículas 70% Pinus 30% PET
+(b) Painéis de partículas 50% Pinus 50% PET
+  (c) Imagem aproximada 8x do fragmento do painel 50% Pinus 50% PET
+(d) Imagem aproximada 16x do fragmento do painel 50% Pinus 50%
+PET
+Fonte: Acervo do autor
+Através das Figura 8c e Figura 8d dos painéis fabricados, constatou-se que, apesar das partículas de PET não apresentarem sinais de ter atingido o ponto de fusão, foi observada uma possível transição vítrea do material, que propiciou a aderência das partículas de PET e de madeira Pinus, possibilitando aglutinação
+
+entre as partículas do painel, porém, sem a resistência mecânica mínima necessária para o esquadrejamento, seccionamento de corpos de prova e execução de ensaios. Portanto, apesar da fraca ligação gerada pelo PET entre as partículas de madeira Pinus, verificou-se que o mesmo poderia interagir com o PUR e,
+consequentemente, propiciar melhores propriedades aos painéis.
+4.2.2 Definição das misturas
+Foram definidas e propostas 4 misturas constituídas com partículas de madeira (PM), PET e PU e 1 mistura com PM e PUR, essa última considerada como mistura de referência para avaliar a influência do PET nas demais misturas.
+Foi considerado também que a massa para produção dos painéis seria definida por substituição da massa de PM por teores em massa de PET, consequentemente, propôs-se misturas com 70% PM + 30% PET e 50% PM + 50% PET com utilização de dois teores de aglutinante, 5 e 10% de PUR, respectivamente, conforme apresentado na Tabela 3.
+Tabela 3 – Misturas propostas para confecção dos painéis
+    Mistura
+M100P 0PET10 M70P 30PET10 M50P 50PET10 M70P 30PET5 M50P 50PET5
+Pinus (%)
+100 70 50 70 50
+PET (%)
+0 30 50 30 50
+Fonte: Acervo do autor
+PUR (%)
+10 10 10 5 5
+        As substituições com 30 e 50% de PET foram definidas para verificar a interação ente o PUR e o PET, pois, de acordo com resultados observados nos estudos de Ferreira e Knuth (2019), o PET nas porcentagens de 5, 10 e 15%, não exerceu mudanças em grande escala nos painéis produzidos com teca, aglutinados com 12% de UF.
+A utilização de 5 e 10% do adesivo PUR foi definido com base em estudos feitos por Iwakiri e Trianoski (2020), que define a quantidade de adesivo aglutinante entre 5 e 10% da massa seca de partículas como sendo teores viáveis economicamente. De acordo com estudos feitos por Gilio (2020), que produziu painéis com partículas de teca e seringueira aglutinados com 5 e 10% de PUR,
+
+foram observadas melhores propriedades físicas e mecânicas na utilização de 10% do adesivo, entretanto, os painéis produzidos com 5% de PUR também alcançaram classificação conforme os requisitos mínimos da ABNT NBR 14810-2 (2018). Portanto, a definição da utilização da menor quantidade de adesivo na presente pesquisa objetivou verificar se dessa forma os painéis também atenderiam a classificação normativa.
+4.2.3 Produção e processamento de maravalhas
+Para preparação das partículas de madeira, foi necessário inicialmente obter maravalhas (com dimensões de 20 a 50 mm) com o auxílio de uma plaina desengrossadeira, em seguida as maravalhas foram processadas em moinho de facas com peneira de abertura 12 mm, que geraram as partículas utilizadas para produção dos painéis.
+A Figura 9 ilustra o moinho de facas utilizado no momento da preparação das partículas para produção dos painéis.
+Figura 9 – Processamento de maravalhas no moinho de facas
+Fonte: Acervo do autor
+4.2.4 Classificação granulométrica das partículas
+A classificação granulométrica foi realizada com o objetivo de retirar as partículas menores que 1,18 mm e também as partículas maiores que 9,52 mm, proporcionando o consumo adequado de adesivo, visto que, de acordo com Iwakiri e
+Trianoski (2020), os finos possuem maior superfície específica e consequentemente geram maior consumo de adesivo.
+Para a classificação granulométrica das partículas foi utilizado o agitador elétrico de peneiras, com abertura das malhas na seguinte ordem decrescente: 12,5; 9,52; 6,36; 4,36; 2,36 e 1,18 mm, respectivamente, conforme ilustrado na Figura 10.
+Figura 10 – Agitador elétrico de peneiras
+Fonte: Acervo do autor
+O peneiramento das partículas constitui-se de etapa para determinação da granulometria das partículas. Para separação do tamanho das partículas, o material foi depositado no agitador elétrico de peneiras por 7 min e o material retido nas peneiras de 6,36; 4,36; 2,36 e 1,18 mm foi coletado e misturado para realização do ensaio de composição granulométrica de acordo com a ABNT NBR NM 248 (2003).
+4.2.5 Análise da composição granulométrica
+Após separação das partículas, foi realizado o ensaio para determinação da composição granulométrica das misturas, com base na ABNT NBR NM 248 (2003). Ressalta-se que este procedimento se constitui da realização de um ensaio adaptado da referida norma para partículas de madeira, que é utilizado para determinação da composição granulométrica de agregados miúdos e graúdos para concreto.
+O ensaio foi realizando utilizando-se o conjunto de peneiras em ordem decrescente de abertura das malhas, sendo, 1/4"; no4; no8; no16; no30 e no50 com aberturas respectivamente de 6,30; 4,76; 2,38; 1,19; 0,595 e 0,297 mm, conforme ilustrado na Figura 11.
+Figura 11 – Agitador elétrico de peneiras para o ensaio de determinação da composição granulométrica
+Fonte: Acervo do autor
+Conforme define a ABNT NBR NM 248 (2003), a massa de uma amostra deve ser no mínimo de 300 g, entretanto, é necessário que o material tenha dimensões menores e/ou iguais a malha das peneiras, para que seja possível a passagem e retenção do material em todas as peneiras que compõem o ensaio, porém, como as partículas de madeira possuem massa específica e geometria diferentes dos agregados utilizados no concreto, foi necessário definir uma amostra de até 50 g para possibilitar a realização do ensaio.
+Para avaliação da composição das partículas, foram ensaiadas quatro amostras, com 100% Pinus (Figura 12a), 100% PET (Figura 12b), 50% Pinus 50% PET (Figura 12c) e 70% Pinus 30% PET (Figura 12d).
+Figura 12 – Amostras do ensaio de determinação da composição granulométrica
+    (a) Amostra 100% (b) Amostra (d) Amostra 50% Pinus 100% PET Pinus 50%
+PET
+(c) Amostra 70% Pinus 30%
+PET
+Fonte: Acervo do autor
+As amostras de partículas de Pinus utilizadas para realização do ensaio foram secas em estufa a 103 °C ± 2 oC até atingirem umidade em torno de 3% e, em seguida, foram depositadas no agitador, que foi configurado para uma intensidade de vibração no nível 4 e tempo de 15 minutos, utilizando-se de 3 amostras para cada composição supracitada.
+De posse das massas de cada amostra retida nas peneiras, calculou-se a quantidade em massa retida em cada peneira, a porcentagem média retida e acumulada, bem como o módulo de finura, com aproximação de 0,01. O módulo de finura, determinado no cálculo da composição granulométrica, pode ser interpretado como um valor que possibilita avaliar se as partículas estão dentro do intervalo de 2 a 6 mm, conforme orienta os documentos normativos para produção de painéis aglomerados.
+4.2.6 Regularização da umidade
+As partículas de Pinus foram secas inicialmente ao ar, objetivando-se eliminar o excesso de umidade. Após este processo, verificou-se que o teor de umidade das partículas se estabilizou na faixa de 7%, havendo necessidade de secagem em estufa, até atingirem umidade em torno de 3%. Com relação às partículas de PET, se caracterizam por apresentarem baixo grau de higroscopicidade, conforme apresentado na Tabela 2.
+O processo de verificação do teor de umidade das partículas até atingir a taxa planejada foi realizado com base na ABNT NBR 9939 (2012), intitulada: Agregado graúdo – Determinação do teor de umidade total – Método de ensaio. O referido
+
+documento normativo recomenda realizar a pesagem de 3 amostras, que corresponderá à massa inicial ou massa úmida; secar as amostras em estufa e após um período de tempo na estufa, determinar a massa da amostra em intervalos sucessivos de pelo menos 2h para obter a massa seca.
+De acordo com o documento normativo, a massa seca, correspondente a massa final, é obtida quando a diferença entre as duas pesagens sucessivas não indicar mais que 0,1% de perda de massa da amostra. Por fim, o teor de umidade foi determinado pela média dos teores de umidades das amostras, que é calculado pela Equação (1).
+𝑀𝑢 − 𝑀𝑠
+U = 𝑀𝑠 𝑥100
+(1)
+  Onde:
+U = teor de umidade das partículas (%); Mu = massa úmida das partículas (g); Ms = massa seca das partículas (g).
+4.2.7 Massa específica das partículas das misturas
+Para a determinação da massa específica das partículas de Pinus, utilizou-se o método do balão volumétrico com base nas premissas da ABNT NBR 6458 (2016) e também da ABNT NBR 6457 (2016). O ensaio consistiu em utilizar o picnômetro n°02 com capacidade de 500 ml, um termômetro de mercúrio com graduação de 0,1 °C, no intervalo de -10 °C a 100 °C e uma balança de precisão.
+Pelo fato de a madeira de Pinus possuir massa específica relativamente baixa em comparação com a massa específica da água, utilizou-se álcool absoluto com concentração de 99,3% e massa específica de 0,789 g/cm3 em substituição à água, pois, dessa forma as partículas de Pinus afundariam no álcool, evitando-se erros no ensaio.
+Para a utilização do álcool absoluto, utilizou-se o gráfico de dispersão elaborado por Bispo (2021), onde foi efetuada a calibração do fluido para a utilização no ensaio.
+A Figura 13 apresenta o gráfico e a equação da reta utilizada.
+
+Figura 13 – Calibração do picnômetro ao fluido
+Fonte: Adaptado de Bispo (2021)
+Através da Equação (2) foi possível calcular a massa específica das partículas de Pinus.
+𝜌𝑠 = 𝑀𝑠 𝑥 𝜌𝑤 (2) 𝑀2−𝑀1+𝑀𝑠
+Onde:
+𝜌𝑠 = massa específica das partículas (g/cm3);
+𝑀𝑠 = massa das partículas secas em estufa (g);
+𝜌𝑤 = massa específica do álcool absoluto (g/cm3);
+𝑀2 = massa do picnômetro + álcool absoluto(g);
+𝑀1 = massa do picnômetro + álcool absoluto + partículas submersas (g).
+As amostras das partículas foram depositadas no balão volumétrico utilizando- se um funil e, em seguida, adicionado álcool absoluto até atingir o nível do menisco da vidraria.
+Após o equilíbrio térmico, a temperatura do conjunto foi aferida. A partir do valor da temperatura aferida e com o auxílio da equação da reta que consta na Figura 13, foi obtido o valor de 𝑀2.
+Utilizando-se a balança de precisão, a massa 𝑀1 foi aferida, possibilitando o emprego da Equação (2), para a determinação da massa específica das partículas.
+Para o cálculo da razão de compactação das misturas, foi necessário verificar a massa específica das mesmas, envolvendo as proporções de Pinus e PET. Porém, as partículas de PET não se adequam ao procedimento supracitado, utilizado para aferir a massa específica das partículas de Pinus, pois, de acordo com a ABNT NBR 6458 (2016), o procedimento é utilizado para materiais permeáveis e que absorvem água. Considerando-se que, de acordo com Ebewele (2000) e Awaja e Pavel (2005) o PET possui taxa de absorção de água de 0,1 a 0,2% e não é considerado permeável, conforme descrito na Tabela 2, o procedimento supracitado não foi aplicado para aferir a massa específica desse tipo de partícula.
+Levando em conta que o PET utilizado mundialmente em garrafas de bebidas possui controle rigoroso de qualidade e de suas propriedades físicas e mecânicas, optou-se por utilizar o valor de massa específica média entre os valores apresentados na Tabela 2, conforme Ebewele (2000) e Awaja e Pavel (2005), sendo esse 1,365 g/cm3.
+Considerando-se as massas específicas obtidas pelos procedimentos supracitados, fixou-se uma massa total para a mistura (𝑀𝑡𝑓). Para cada proporção de mistura envolvendo porcentagens de partículas de Pinus e de PET, obteve-se a massa proporcional de partículas em relação a mistura total. Através da massa (𝑀𝑠) de cada tipo de partícula, calculou-se o volume teórico (𝑉𝑡) através da Equação (3).
+𝑉𝑡 = 𝑀𝑠 (3) 𝜌𝑠
+Onde:
+Vt = volume teórico das partículas (cm3);
+𝑀𝑠 = massa das partículas secas (g);
+𝜌𝑠 = massa específica das partículas (g/cm3).
+Com o volume teórico (𝑉𝑡) de cada tipo de partícula encontrado, de acordo com a massa (𝑀𝑠) utilizada, foi feita a soma dos volumes obtidos, que representa o volume total teórico (𝑉𝑡𝑡) da mistura de partículas de Pinus e PET. Utilizando-se o volume total teórico e a massa total fixada(𝑀𝑡𝑓) no início do procedimento, calculou-se a massa específica da mistura (𝜌𝑠𝑚) através da Equação (4).
+𝜌𝑠𝑚 = 𝑀𝑡𝑓 𝑉𝑡𝑡
+Onde:
+𝜌𝑠𝑚 = massa específica da mistura de partículas (g/cm3);
+𝑀𝑡𝑓 = massa total fixada das partículas (g);
+Vtt = volume total teórico da mistura de partículas (cm3).
+(4)
+Utilizando-se a massa específica das misturas de partículas e a densidade média dos painéis das misturas, calculou-se a razão de compactação através da Equação (5).
+𝑅𝑐 = 𝐷𝑚 𝜌𝑠𝑚
+𝐷𝑚 = densidade média dos painéis das misturas (g/cm3); 𝜌𝑠𝑚 = massa específica da mistura de partículas (g/cm3).
+(5)
+Onde:
+𝑅𝑐 = razão de compactação;
+4.2.8 Determinação da massa total das misturas para produção dos painéis
+Para o cálculo da massa total das misturas (envolvendo a massa seca de partículas e também a massa do adesivo) a ser utilizada na produção dos painéis utilizou-se a Equação (6).
+   𝑀=𝐷𝑥𝑉
+D = densidade nominal do painel (g/cm3); V = volume do painel (cm3).
+(6)
+Onde:
+M = massa total da mistura (g);
+Para produção dos painéis, considerou-se densidade nominal de 0,7 g/cm3, visto que, os mesmos foram produzidos utilizando parâmetros de prensagem
+
+  semelhantes aos utilizados por Gilio (2020), Trevisan (2021) e Bispo (2021), que obtiveram em seus resultados densidades médias aparentes dos painéis acima de 0,7 g/cm3 e por considerar a densidade do PET. As dimensões dos painéis foram de 35 x 35 x 1,6 cm, adequadas às dimensões da formadora de colchão e da prensa hidráulica. Sendo assim, o volume do painel utilizado para o cálculo foi de 1960 cm3 e a massa total da mistura utilizada para cada painel foi de 1372 g.
+Depois da definição da massa, realizou-se as pesagens das partículas de madeira Pinus, do PET e do adesivo PUR, que foram separados de acordo com as porcentagens estabelecidas em cada mistura.
+4.2.9 Produção dos painéis
+O processo para produção dos painéis iniciou-se com a adição e homogeneização do PUR às partículas que, de acordo com Sugahara (2018), ocorre adicionando e misturando-se manualmente o poliol e, através de uma encoladeira de tambor (betoneira), mistura-se por mais 5 min; em seguida, nas partículas homogeneizadas com poliol, deve-se adicionar o pré-polímero e misturar por mais 5 min.
+De acordo com Sugahara (2018), tal procedimento de homogeneização retarda a cura do adesivo, possibilitando um melhor encapsulamento das partículas, evitando a possível formação de concentrações de adesivo e formação de bolhas no interior do painel.
+A sequência da Figura 14 ilustra as etapas de homogeneização do PUR às partículas.
+Figura 14 – Processo de homogeneização das misturas
+(a) Partículas de (b) Homogeneização (c) Homogeneização (d) Partículas e PUR Pinus e PET manual em tambor homogeneizados
+giratório Fonte: Acervo do autor
+Com as partículas previamente “encoladas”, preparou-se o colchão de partículas realizando-se inicialmente uma pré-prensagem a frio utilizando-se uma formadora de colchão com dimensões de 35 x 35 cm, conforme ilustrado na Figura 15.
+Figura 15 – Preparação do colchão de partículas
+Fonte: Acervo do autor
+Após preparação do colchão de partículas, o mesmo foi depositado entre os pratos da prensa com controle de temperatura e pressão, conforme ilustrado na Figura 16a. Os painéis foram produzidos com pressão de 5 MPa à temperatura de 110 °C, que foi previamente definida objetivando-se propiciar aceleração da cura inicial do PUR e possibilitar que as partículas de PET atinjam a fase de transição vítrea, que de acordo com Ebewele (2000), Awaja e Pavel (2005) encontra-se de 69 a 115 °C e, consequentemente, proporcionar melhor adesão entre as partículas e preenchimento de espaços vazios no interior dos painéis.
+A prensagem inicia-se com a deposição do colchão de partículas entre os pratos da prensa (Figura 16a) que em seguida é compactado empregando-se pressão de 5 MPa durante 10 minutos e 30 segundos, sendo 5 minutos iniciais, alívio de pressão por 30 segundos (Figura 16b) e mais 5 minutos finais de prensagem, visando evitar concentração de gases e, consequentemente, formação de bolhas no interior dos painéis (CAMPOS; LAHR, 2004).
+Figura 16 – Prensagem dos painéis
+(a) Colchão de partículas (b) Alívio de pressão na
+pronto para prensagem
+Fonte: Acervo do autor
+prensagem
+Os 3 painéis de cada misturas, 15 no total, foram mantidos em local coberto à temperatura ambiente por período de 7 dias para finalização do tempo de cura do PUR. A Figura 17 ilustra um painel da mistura M50P 50PET10.
+Figura 17 – Painel da mistura M50P 50PET10.
+Fonte: Acervo do autor
+Decorridos 7 dias da produção dos painéis, realizou-se o esquadrejamento e, em seguida, foram retirados, 10 corpos de prova (cps) nas dimensões de 350 x 50 mm para realização do ensaio de flexão estática.
+4.2.10 Ensaios físicos
+Os ensaios de densidade (D), teor de umidade (U) e inchamento após 24h (I24h) foram realizados considerando-se as orientações contidas na ABNT NBR 14810-2 (2018).
+4.2.10.1 Densidade (D)
+Para a determinação da densidade, foram utilizados 10 cps para cada mistura proposta, aferindo-se as dimensões e massa de cada cp utilizando-se micrômetro (precisão 0,001 mm), paquímetro (precisão 0,1 mm) e balança (precisão 0,1 g), respectivamente, conforme ilustrado na Figura 18a e Figura 18b.
+Figura 18 – Aferição de dimensões dos exemplares para cálculo da densidade
+(a) Aferição de espessura do (b) Aferição das medidas corpo de prova das arestas do corpo
+A massa de cada amostra foi aferida utilizando-se uma balança de precisão 0,01 g, conforme ilustrado na Figura 19.
+Figura 19 – Aferição da massa dos exemplares para cálculo da densidade
+Fonte: Acervo do autor
+Considerando-se as dimensões dos cps, foram calculados os volumes por meio
+  Fonte: Acervo do autor
+de prova
+ da Equação (7).
+ Onde:
+𝑉 = 𝑏1 𝑥 𝑏2 𝑥 𝑒 (7)
+
+V = volume do cp (mm3);
+b1 = dimensão de uma aresta do cp (mm); b2 = dimensão de uma aresta do cp (mm); e = espessura do cp (mm).
+Com a massa aferida e o volume calculado, foi obtida a densidade dos cps através da Equação (8).
+𝐷=𝑀 𝑥1.000 (8) 𝑉
+Com base nas densidades de cada corpo de prova, foi calculada a média aritmética para determinação da densidade média dos painéis de cada mistura. Em seguida, com auxílio da Equação (9), foi calculado o coeficiente de variação percentual da densidade de cada corpo de prova em relação à densidade média dos painéis de cada mistura.
+𝐷%=𝐷−𝐷𝑚é𝑑𝑖𝑎 𝑥100 𝐷𝑚é𝑑𝑖𝑎
+Onde:
+D% = variação percentual dadensidade (%);
+D = densidade do cp (g/cm3);
+Dmédia = densidade média dos cps (g/cm3).
+4.2.10.2 Teor de umidade (U)
+((95))
+ Onde:
+D = densidade do cp (g/cm3);
+M = massa do cp (g);
+V = volume do cp (mm3).
+  Para a determinação do teor de umidade, foram utilizados 10 cps para cada mistura proposta, com dimensões de aproximadamente 50 x 50 mm. A massa úmida (massa inicial) dos mesmos foi aferida utilizando-se uma balança de precisão 0,01 g.
+
+Em seguida, foram secos em estufa à temperatura de 103 °C ± 2 °C, como ilustrado na Figura 20. Após a secagem e esfriamento foi aferida a massa seca (massa final) de cada cp.
+Figura 20 – Secagem dos cps em estufa
+Fonte: Acervo do autor
+Considerando-se a massa úmida (massa inicial) e massa seca (massa final), foi calculado o teor de umidade por meio da Equação (10).
+U =
+Onde:
+U = teor de umidade do cp (%);
+Mu = massa úmida do cp (g); Ms = massa seca do cp (g).
+𝑀𝑢 − 𝑀𝑠
+𝑀𝑠 𝑥100
+(10)
+  4.2.10.3 Inchamento em espessura 24h (I24h) e Absorção após 24h (A24h)
+Para a determinação do inchamento em espessura após 24h, foram utilizados 10 cps para cada mistura proposta com suas espessuras aferidas (Figura 21a). Os cps foram submersos em água deionizada, utilizando-se um recipiente de PVC e telas metálicas com pesos, para garantir que os cps permanecessem submersos com uma lâmina de água de 25 mm (Figura 21b). Após 24 horas aferiu-se novamente a espessura dos cps (Figura 21c).
+
+Figura 21 – Procedimento de verificação de inchamento em espessura 24h
+𝐼 = 𝐸𝑓 − 𝐸𝑖 𝑥100 𝐸𝑖
+Onde:
+I = inchamento em espessura do cp (%);
+Ef = espessura (final) do cp após o período de imersão (mm); Ei = espessura (inicial) do cp antes da imersão (mm).
+(11)
+   (a) Aferição de espessura inicial
+(b) Cps submersos em água deionizada
+Fonte: Acervo do autor
+(c) Aferição de espessura final
+De posse das espessuras Ei e Ef dos cps, foi calculado inchamento em espessura após 24h através da Equação (11).
+  Também se realizou a aferição da massa dos cps após as medições de espessura final e inicial, permitindo-se calcular a absorção de água após 24h através da Equação (12).
+𝑀𝑢 − 𝑀𝑠 𝐴24h = 𝑀𝑠 𝑥100
+Onde:
+A24h = absorção de água após 24h do cp (%);
+Mu = massa úmida do cp (g); Ms = massa seca do cp (g).
+(12)
+  
+4.2.11 Ensaios mecânicos
+Os ensaios mecânicos para determinação do módulo de resistência à flexão estática (MOR), módulo de elasticidade (MOE) e resistência à tração perpendicular (TP) foram realizados utilizando-se a máquina universal de ensaios EMIC GR048, com capacidade máxima de 300 kN, de acordo com as orientações contidas na ABNT NBR 14810-2 (2018).
+4.2.11.1 Ensaio de flexão estática
+Para a realização do ensaio de flexão foram utilizados 10 cps extraídos dos painéis produzidos para cada mistura proposta, com dimensões de 350 x 50 x e mm, com e variando entre 10 e 16 mm. Inicialmente o a distância entre apoios (vão) a ser utilizado no ensaio dos cps foi determinado pela Equação (13).
+(13)
+Com a distância entre apoios calculada, os cps foram demarcados e submetidos ao ensaio, como ilustra a sequência da Figura 22.
+Figura 22 – Ensaio de flexão de corpo de prova
+(a) Posicionamento para ensaio de (b) Ensaio de flexão executado flexão
+Fonte: Acervo do autor
+𝐷 = 20 𝑥 𝐸 D = distância entre apoios do aparelho (mm);
+Onde:
+E = espessura média tomada em três pontos do cp (mm).
+4.2.11.2 Módulo de Resistência à Flexão Estática (MOR)
+O MOR dos cps foi calculado por meio da Equação (14), a partir do resultado da força de ruptura lido no medidor de cargas da máquina.
+𝑀𝑂𝑅 = 1,5 𝑥 ( 𝑃 𝑥 𝐷) 𝐵 𝑥 (𝐸)2
+Onde:
+MOR = módulo de resistência à flexão estática (MPa);
+P = carga de ruptura lida no indicador de cargas (N);
+D = distância entre apoios do aparelho (mm);
+B = largura do cp (mm);
+E = espessura média tomada em três pontos do cp (mm).
+4.2.11.3 Módulo de Elasticidade (MOE)
+(14)
+  O MOE dos cps foi calculado por meio da Equação (15), a partir do resultado da carga no limite proporcional e deflexão correspondente, registradas no indicador de cargas da máquina.
+𝑀𝑂𝐸 = 𝑃1 𝑥 𝐷3
+𝑑 𝑥 4 𝑥 𝐵 𝑥 𝐸3
+Onde:
+MOE = módulo de elasticidade (MPa);
+P1 = carga no limite proporcional lida no indicador de cargas (N); D = distância entre apoios do aparelho (mm);
+d = deflexão, correspondente à carga P1 (mm);
+B = largura do cp (mm);
+E = espessura média tomada em três pontos do cp (mm).
+(10) (15)
+  
+4.2.11.4 Resistência à Tração Perpendicular (TP)
+Para a realização do ensaio de TP foram utilizados 10 cps extraídos dos painéis produzidos para cada mistura proposta, com dimensões de aproximadamente 50 x 50 mm.
+Inicialmente as superfícies dos cps foram regularizadas utilizando-se uma lixadeira de fita para propiciar uma melhor adesão na colagem em suportes metálicos. Em seguida suas medidas foram aferidas utilizando-se um paquímetro de precisão 0,1 mm.
+As superfícies dos suportes metálicos foram lixadas e limpas com Thinner para proporcionar uma boa adesão da cola. A Figura 23 ilustra os suportes metálicos sendo preparados para colagem dos cps.
+Figura 23 – Limpeza dos suportes metálicos
+Fonte: Acervo do autor
+A colagem dos suportes metálicos nos cps foi realizada com adesivo epóxi Araldite Professional 90 minutos. A Figura 24 ilustra o processo.
+Figura 24 – Colagem dos suportes metálicos nos cps
+(a) Adesivo Araldite 90 (b) Aplicação de adesivo (c) Suporte colado ao cp
+    minutos utilizado
+nos cps Fonte: Acervo do autor.
+
+Após cura do adesivo, os cps foram submetidos ao ensaio para determinação da TP em máquina universal de ensaios conforme ilustrado na Figura 25.
+Figura 25 – Aspectos gerais do ensaio de para determinação da TP
+(a) Máquina universal (b) Ensaio sendo
+  de ensaios
+Fonte: Acervo do autor
+executado
+A partir dos resultados de ensaios obtidos, calculou-se a TP utilizando as Equações (16) e (17).
+𝑇𝑃 = 𝑃 𝑆
+𝑆= 𝑏1𝑥𝑏2
+Onde:
+TP = resistência à tração perpendicular (MPa);
+P = carga de ruptura (N);
+S = área da superfície do cp (mm2); b1 = dimensão do cp (mm);
+b2 = dimensão do cp (mm).
+(11) (16)
+  (17)
+
+4.2.12 Análise estatística dos resultados
+O teste de contraste de médias de Tukey (5% de significância) foi utilizado para avaliar a influência isolada dos níveis dos fatores teor de PET (30, 50%) e de adesivo PUR (5, 10%) nas propriedades físicas e mecânicas dos painéis fabricados. Para tal procedimento foi utilizado o software Minitab®.
+Na Tabela 4 são apresentadas as misturas delineadas. Tabela 4 – Misturas experimentais delineadas
+   Mistura
+M100P 0PET10 M70P 30PET10 M50P 50PET10 M70P 30PET5 M50P 50PET5
+PET (%)
+0 30 50 30 50
+Fonte: Acervo do autor
+PUR (%)
+10 10 10 5 5
+      Do teste de Tukey, a letra “A” denota a mistura associada ao maior valor médio e a letra “B”, o segundo maior valor médio e assim sucessivamente. Letras iguais implicam misturas com médias de resultados estatisticamente equivalentes entre si.
+Para tais análises, assim como no cálculo das estatísticas descritivas, cabe destacar que foram obtidos dez valores experimentais para cada propriedade dos tipos de mistura.
+4.2.13 Imagem ampliada da região de ruptura dos cps de resistência TP
+A imagem ampliada por lupa com câmera acoplada objetivou analisar a distribuição entre o PUR e as partículas de PET e Pinus. A Figura 26 ilustra o momento da utilização da lupa Leica Ez4W associada ao programa Las EZ para análise dos cps.
+O procedimento foi realizado no Laboratório de Estudos de Morfologia e Anatomia Vegetal – LEMAV, localizado no Campus II da Faculdade de Engenharia de Ilha Solteira (FEIS), Universidade Estadual Paulista (UNESP).
+
+Figura 26 – Procedimento para visualização ampliada por lupa
+(a) Realização do (b) Lupa Leica Ez4W procedimento
+Fonte: Acervo do autor
+Para a realização do ensaio posicionou-se o cp expondo a região de ruptura para uma análise visual da distribuição entre o PUR e as partículas de PET e Pinus. O uso da lupa possibilitou uma ampliação de até 16 vezes e a imagem foi capturada por meio de uma câmera acoplada na lupa, possibilitando avaliar visualmente a distribuição.
+4.2.14 Microscopia eletrônica de varredura (MEV)
+O MEV foi utilizado objetivando-se analisar a interação entre o PUR e as partículas de Pinus e de PET, principalmente com relação ao “envelopamento” das partículas de Pinus com o PUR e com o PET. A análise foi realizada na região de ruptura dos cps com dimensões de 1 x 1 x 0,4 cm.
+Para realização do ensaio os cps foram fixados com dupla face de carbono por meio da “porta Stub” e metalizados com fina camada de ouro, utilizando-se o equipamento Quarum, modelo Q150TE. Em seguida, foram levados ao equipamento ZEISS modelo EVO LS15, acoplado com EDS – OXFORD Instruments, modelo INCAx-act, para a realização do ensaio de MEV. Os procedimentos foram realizados no Departamento de Física e Química (DFQ), localizado no Campus da Faculdade de Engenharia de Ilha Solteira (FEIS), Universidade Estadual Paulista (UNESP).
+5 RESULTADOS E DISCUSSÕES 5.1 Composição granulométrica
+Se constitui de um ensaio para determinar as dimensões das partículas por faixas nas misturas.
+Com o ensaio realizado obteve-se o percentual de material retido nas peneiras e também os módulos de finura (MF) dos dois tipos de partículas. Os resultados dos ensaios com 100% de partículas de Pinus e 100% de PET estão apresentados na Tabela 5 e Tabela 6, respectivamente, e os ensaios dos dois tipos de partículas misturadas, nas proporções 70% Pinus 30% PET e 50% Pinus 50% PET estão apresentados na Tabela 7 e Tabela 8, respectivamente.
+Conforme se verifica na Tabela 5, as partículas da composição granulométrica com 100% Pinus ficaram retidas principalmente nas peneiras de no4 (11,60%), no8 (57,15%) e no16 (26,01%), correspondentes às aberturas 4,76, 2,38, 1,19 e com MF igual a 4,79.
+Tabela 5 – Composição granulométrica 100% Pinus
+      Peneira No
+Abertura Massa retida Retido (mm) (g) (%)
+Massa retida acumulada (g)
+0,43
+Retido acumulado (%)
+1,22
+99,55 99,81 99,85 -
+      1⁄4” 6,30
+30 0,595
+50 0,297 100 0,149
+0,43 1,22
+1,25 3,57
+0,09 0,26
+0,01 0,04
+34,84 34,93 34,95 0,00
+ 4 4,76
+ 4,06 11,60 4,49 12,82
+ 8 2,38
+ 20,00 57,15 24,49 69,97
+ 16 1,19
+ 9,10 26,01 33,59 95,98
+      0,00 -
+Fundo -
+Perdas (g) -
+MF - - - - 4,79
+0,05 0,15
+Fonte: Acervo do autor
+--
+      Para a composição granulométrica com 100% PET, observa-se na Tabela 6 que as partículas ficaram retidas principalmente nas peneiras de no16 (73,55%), no30 (23,37%) e MF igual a 3,73.
+
+Tabela 6 – Composição granulométrica 100% PET
+      Peneira N°
+1⁄4” 4 8
+50 100
+Conforme demonstra a Tabela 7, as partículas da composição granulométrica com 70% Pinus 30% PET ficaram retidas principalmente nas peneiras de no8 (34,93%), no16 (40,49%) e no30 (14,29%), com MF igual a 4,35, que justifica-se pela substituição de partículas maiores (Pinus) por menores (PET), conforme apresentado na Tabela 5 e Tabela 6.
+Abertura Massa retida Retido (mm) (g) (%)
+6,30 0,00 0,00 4,76 0,00 0,00 2,38 0,35 1,00
+0,297 0,61 1,75 0,149 0,09 0,26
+Massa retida acumulada (g)
+0,00 0,00 0,35
+Retido acumulado (%)
+0,00 0,00 1,00
+       16 1,19
+ 25,74 73,55 26,09 74,55
+ 30 0,595
+ 8,18 23,37 34,27 97,92
+34,98 99,94 - 0,00 - 0,00 -
+34,89 99,68
+      Fundo
+Perdas (g)
+MF - - - - 3,73
+- 0,02 0,06
+Fonte: Acervo do autor
+--
+      Tabela 7 – Composição granulométrica 70% Pinus 30% PET
+      Peneira
+1⁄4” 4
+50 100
+Fundo
+Perdas (g)
+Abertura Massa retida Retido (mm) (g) (%)
+6,30 0,44 1,26 4,76 2,57 7,33
+0,297 0,38 1,07 0,149 0,19 0,53 - 0,00 -
+Massa retida acumulada (g)
+0,44 3,01
+34,78 34,96 0,00
+Retido acumulado (%)
+1,26 8,59
+99,36 99,89 -
+       8 2,38
+ 12,23 34,93 15,23 43,51
+ 16 1,19
+ 14,17 40,49 29,40 84,00
+ 30 0,595
+ 5,00 14,29 34,40 98,29
+      - 0,04 0,11
+Fonte: Acervo do autor
+Os resultados da composição granulométrica da mistura 50% Pinus 50% PET, conforme observa-se na Tabela 8, indicam que as partículas ficaram retidas principalmente nas peneiras de no8 (28,85%), no16 (47,27%), no30 (16,34%) e com MF igual a 4,18, indicando conformidade com o esperado na substituição maior de partículas de granulometria maior (Pinus) por menor (PET).
+MF - - - - 4,35
+--
+      
+Peneira N°
+1⁄4” 4
+Abertura (mm)
+6,30 4,76
+Tabela 8 – Composição granulométrica 50% Pinus 50% PET
+Massa retida Retido média (g) (%)
+0,16 0,46 1,68 4,81
+0,61 1,73 0,15 0,42
+Fundo -
+Perdas (g) -
+MF - - - - 4,18
+Fonte: Acervo do autor
+Com a realização dos ensaios para determinação da composição granulométrica das partículas nas misturas propostas, foi possível observar que o processo de moagem propiciou a geração de partículas dentro de faixas adequadas para produção de painéis aglomerados homogêneos, ou seja, com proporções de partículas com dimensões de 1 a 6 mm.
+De acordo com Araujo et al. (2019), a geometria das partículas possui grande influência nas propriedades finais dos painéis, sendo as de maior granulometria favoráveis para a MOR e as de menor granulometria favoráveis para a TP.
+Vale ressaltar, que as partículas de PET ficaram retidas principalmente nas peneiras 0,595 e 1,19 mm, promovendo uma redução no módulo de finura, que é efeito do aumento da proporção partículas de PET em relação às partículas de Pinus. Portanto, as misturas envolvendo maiores quantidades de PET resultaram em uma composição granulométrica com partículas de menores comprimentos e, que, provavelmente propiciou melhor preenchimento de vazios e maior interação entre as partículas de Pinus.
+5.2 Teor de umidade das partículas
+O teor médio de umidade das partículas de Pinus e PET, utilizados para a produção dos painéis estão apresentados na Tabela 9.
+Massa retida acumulada (g)
+0,16 1,84
+Retido acumulado (%)
+0,46 5,27
+99,46 99,88 -
+             8 2,38
+ 10,10 28,85 11,94 34,11
+ 16 1,19
+ 16,54 47,27 28,48 81,38
+ 30 0,595
+ 5,72 16,34 34,20 97,72
+50 0,297 100 0,149
+34,81 34,96 0,00
+      0,00 - 0,04 0,12
+--
+      
+Tabela 9 – Teor de umidade das partículas de Pinus e PET
+  Partículas
+  Pinus PET
+Teor de umidade médio (%)
+3,02
+0,32 Fonte: Acervo do autor
+  Tendo em vista a utilização de dois tipos de partículas com teores de umidade diferentes (Pinus e PET) e a baixa absorção do PET, optou-se por considerar o teor de umidade para as partículas de Pinus em torno de 3% para facilitar a interação com o PUR. Entretanto, de acordo com Kolmann (1975), foi mencionado ser adequado um intervalo de umidade de 3 a 12% para produção de painéis derivados de madeira.
+Tal intervalo é indicado para a produção de painéis aglomerados visando evitar excesso de vapor, formação de bolhas e rupturas abruptas dos painéis durante o processo de prensagem com calor, e, consequentemente, não gera prejuízos à resistência mecânica dos mesmos.
+Dotun, Adesoji e Oluwatimilehin (2018) utilizaram pó de serra (SD) com 2 a 8% de umidade na produção de painéis compostos de SD e PET reciclado de garrafas, fazendo-se substituições de 10, 20, 30, 40 e 50% de SD por PET, com 20% de UF em relação ao volume dos painéis. Observaram boa interação das partículas com o adesivo na mistura.
+5.3 Massa específica das partículas
+As massas específicas das partículas de Pinus obtidas por meio de ensaio, das partículas de PET obtidas por meio da literatura consultada e das misturas das partículas de Pinus e PET, são apresentadas na Tabela 10.
+Tabela 10 – Massa específica das partículas e das misturas
+  Partículas
+Pinus PET Misturas
+M 70P 30PET M 50P 50PET
+ρs (g/cm3)
+0,63
+1,36
+ρsm (g/cm3)
+0,76
+      0,87 Fonte: Acervo do autor
+  
+A massa específica encontrada para as partículas de Pinus é semelhante à encontrada por Rodrigues (2022), que utilizou partículas de Pinus Elliottii para produção dos painéis aglomerados.
+Observa-se que as partículas de Pinus resultaram em massa específica consideravelmente menor em relação ao PET. Esse fator influenciou diretamente no aumento de massa específica das misturas M70P 30PET e M50P 50PET, em razão das substituições de Pinus por PET.
+5.4 Densidade (D)
+A Tabela 11 apresenta as classificações normativas da ABNT NBR 14810-2
+(2018) e ANSI A208.1 (2016), de acordo com o parâmetro densidade. Tabela 11 – Classificações normativas de Densidade
+   Designação
+Baixa Densidade Média Densidade Alta Densidade
+NBR 14810-2 (2018)
+D < 0,551 0,551 > D > 0,750 D > 0,750
+ANSI A208.1 (2016)
+D < 0,640 0,640 > D > 0,800 D > 0,800
+      Fonte: Adaptado de ABNT NBR 14810-2 (2018) e ANSI A208.1 (2016)
+Com base nos ensaios para determinação da densidade dos painéis, foi possível calcular a densidade (D), o coeficiente de variação, o Desvio padrão e classificar os painéis produzidos com as misturas propostas, segundo as normativas supracitadas. A Tabela 12 apresenta os resultados obtidos.
+Tabela 12 – Densidade dos painéis
+     Misturas
+M100P 0PET10 M70P 30PET10 M50P 50PET10 M70P 30PET5 M50P 50PET5
+D (g/cm3)
+CV Desvio (%) padrão
+Classificação NBR 14810-2 (2018)
+Alta Densidade Alta Densidade Alta Densidade Alta Densidade Alta Densidade
+Classificação ANSI A208.1 (2016)
+Média Densidade Alta Densidade Alta Densidade Alta Densidade Alta Densidade
+     0,764 1,79 0,014 0,929 4,75 0,047 1,063 4,01 0,045 0,901 5,95 0,056 1,027 5,59 0,061
+       Fonte: Acervo do autor
+De acordo com a classificação apresentada, é possível observar que os painéis da mistura M100P 0PET10 se enquadraram na categoria de Média Densidade
+
+somente pela ANSI A208.1 (2016), enquanto pela ABNT NBR 14810-2 (2018) os painéis de todas as misturas foram classificados como de Alta Densidade.
+Apesar da densidade nominal utilizada para o cálculo da massa total das misturas ter sido 0,7 g/cm3, conforme apresentado no item 4.2.8, houve discrepâncias consideráveis em relação ao resultado final de densidade da mistura referência (M100P 0PET10), que podem estar relacionadas aos parâmetros de prensagem utilizados, onde ocorreu maior densificação dos painéis.
+A Figura 27 ilustra os resultados de D e o desvio padrão que são apresentados na Tabela 12.
+Figura 27 – Densidade média das misturas
+      D (g/cm3)
+1,20 1,00 0,80 0,60 0,40 0,20 0,00
+    M100P 0PET10
+M70P 30PET10
+M50P 50PET10 Misturas
+M70P 30PET5
+M50P 50PET5
+Fonte: Acervo do autor
+Na Figura 27 observa-se o aumento da densidade média dos painéis com a substituição das partículas de Pinus por PET. Esses resultados ocorreram pelo fato de que o PET é um material polimérico que possui massa específica maior que a madeira Pinus, conforme pode ser observado na Tabela 10, portanto, como parte da madeira foi substituída pelo PET, ocorreu aumento significativo da massa específica devido à ao incremento da massa de PET na mistura.
+É possível observar também uma pequena redução na densidade média dos painéis das misturas que utilizaram 5% do adesivo PUR em relação aos que foram produzidos com 10% do PUR, decorrente da diminuição do teor de adesivo utilizado.
+Os resultados encontrados para as misturas M70P 30PET10 e M50P 50PET5 são próximos aos encontrado por Rahman et al. (2013), que produziram e avaliaram painéis de “madeira-plástico” em processo semelhante à produção de painéis
+
+aglomerados, ou seja, prensagem com 5 MPa, em mistura composta de pó de serra e partículas PET reciclado, durante 20 minutos de prensagem à 190 °C. Os resultados obtidos de densidade foram de 0,969 g/cm3 para a proporção 50% pó de serra 50% PET e 0,857 g/cm3 para a proporção 70% de pó de serra 30% PET; ressaltando-se que não foi utilizado nenhum adesivo.
+Em outro estudo realizado por Rahman et al. (2018), na produção de compósitos “madeira-plástico” e empregando-se compressão plana, utilizando proporções de partículas de madeira (Albiziarichardiana King & Prain) e PET, foram determinadas densidades variando de 0,801 g/cm3 para a mistura 70% madeira 30% PET à 1,047 g/cm3 para a mistura 40% madeira 60% PET, utilizando as partículas de madeira entre 1,0 e 2 mm de comprimento. Os autores observaram densidades maiores para os painéis envolvendo partículas de madeira de 0,5 a 1,0 mm, variando de 0,849 g/cm3 a 1,100 g/cm3, nas mesmas proporções de madeira e PET.
+Dotun, Adesoji e Oluwatimilehin (2018) determinaram densidades de 0,537 g/cm3 para painéis com pó de serra (SD) com PET nas proporções de 70% SD + 30% PET e 0,710 g/cm3 para 50% SD + 50% PET. Vale ressaltar que os estudos foram realizados em misturas de SD com PET reciclado de garrafas, substituindo-se 10, 20, 30 e 50% de SD por PET e utilizando 20% de UF como aglutinante.
+Apesar da diferença nos valores de densidade encontradas por Rahman et al. (2018), Dotun, Adesoji e Oluwatimilehin (2018) com relação a este trabalho, verificou-se que o incremento do PET nas misturas melhorou as propriedades dos painéis, principalmente com relação às densidades.
+A Tabela 13 apresenta o índice de compactação, que é determinado pela razão entre a densidade média dos painéis e a massa específica das partículas.
+Tabela 13 – Densidade dos painéis e razão de compactação
+    Misturas
+M100P 0PET10 M70P 30PET10
+M70P 30PET5 M50P 50PET5
+D (g/cm3)
+0,764 0,929
+0,901 1,027
+ρs (g/cm3)
+0,63 0,76
+0,76
+Índice de compactação
+1,21 1,22
+1,19 1,18
+     M50P 50PET10
+ 1,063 0,87 1,22
+0,87 Fonte: Acervo do autor
+    
+Os índices de compactação determinados para todos os painéis dessa pesquisa foram inferiores aos indicados por Araujo et al. (2019), Iwakiri e Trianoski (2020), que, segundo os pesquisadores, devem se encontrar no intervalo entre 1,3 a 1,6, para propiciar uma boa compactação e densificação para os painéis. Contudo, vale ressaltar, que todos os painéis produzidos nestes trabalhos, foram classificados entre painéis de média densidade e alta densidade, segundo critérios de classificação das normas ABNT NBR 14810-2 (2018) e ANSI A208.1 (2016), certamente devido a influência da densidade das partículas de PET.
+5.5 Teor de umidade (U)
+Com base nos ensaios realizados, foram determinados os teores médios de umidade, o coeficiente de variação e o desvio padrão para os painéis produzidos com as misturas propostas. A Tabela 14 apresenta os resultados obtidos.
+Tabela 14 – Teor de umidade médio dos painéis
+    Misturas
+M100P 0PET10 M70P 30PET10
+M70P 30PET5 M50P 50PET5
+U (%) CV (%) Desvio padrão
+6,11 2,31 0,15 4,70 5,38 0,27
+5,14 8,76 0,47
+3,55 7,76 0,29 Fonte: Acervo do autor
+     M50P 50PET10
+ 3,01 11,99 0,38
+    A ABNT NBR 14810-2 (2018) preconiza que o teor de umidade dos painéis deve se encontrar entre 5 e 13%, portanto os painéis das misturas M70P 30PET10, M50P 50PET10 e M50P 50PET5 encontram-se ligeiramente fora do intervalo exigido pela referida norma, entretanto, para os demais painéis, o teor médio de umidade determinado encontra-se dentro do exigido pela referida norma.
+Com relação ao documento normativo da ANSI A208.1 (2016), foi estabelecido 10% como valor limite. Portanto, todos os painéis atenderam aos requisitos da mesma.
+A Figura 28 ilustra os resultados de teor de umidade médio e desvio padrão dos painéis das misturas.
+
+Figura 28 – Teor de umidade dos painéis das misturas
+Fonte: Acervo do autor
+Na Figura 28 observa-se que o teor de umidade diminuiu em relação a diminuição na quantidade madeira e acréscimo do PET, esse aspecto certamente se deve à característica hidrofóbica do PET. É possível observar também a redução do teor de umidade com relação ao teor de PUR empregado, ou seja, os menores teores determinados foram para os painéis produzidos com 10% de PUR.
+5.6 Inchamento em espessura 24h (I24h) e Absorção após 24h (A24h)
+Com base nos resultados obtidos nos ensaios para determinação do inchamento em espessura e absorção após 24h, foi possível calcular o coeficiente de variação e o desvio padrão para os painéis produzidos com as misturas propostas. Os resultados obtidos estão apresentados na Tabela 15.
+Tabela 15 – Inchamento em espessura após 24h e absorção de água
+      U (%)
+7,00 6,00 5,00 4,00 3,00 2,00 1,00 0,00
+     M100P 0PET10
+M70P 30PET10
+M50P 50PET10 Misturas
+M70P 30PET5
+M50P 50PET5
+      Misturas
+M100P 0PET10 M70P 30PET10
+M70P 30PET5 M50P 50PET5
+I24h (%)
+29,81 15,78
+21,90 14,47
+CV (%)
+4,96 13,16
+Desvio padrão
+1,56 2,19
+3,56
+1,52 Fonte: Acervo do autor
+A24h (%)
+78,40 32,39
+49,82 26,74
+CV (%)
+5,29 27,02
+31,79 28,96
+       M50P 50PET10 3,88
+ 16,45 0,67 9,73
+ 43,10
+15,41 9,98
+      
+Este ensaio possibilita avaliar a variação da espessura dos painéis em função da absorção de água durante 24h. Na Tabela 15 é possível verificar uma significativa diferença no percentual médio do inchamento dos painéis da mistura M50P 50PET10 em relação aos painéis das demais misturas propostas. O resultado determinado nos painéis da mistura 50% de PET com 10% de PUR possibilita inferir sobre a boa influência das partículas de PET, propiciando aglutinação e ocupação de espaços vazios no interior dos painéis, bem um bom envelopamento das partículas por parte do PUR, e, consequentemente, resultou em uma boa resistência com relação à percolação de água no interior dos painéis.
+Verificou-se que a absorção aferida após 24h reduziu em função do aumento na substituição de madeira Pinus por PET. Os menores resultados de absorção foram apresentados pelas misturas que utilizaram 10% do adesivo PUR, evidenciando a característica impermeável do adesivo, também observada por Gilio (2020) nos seus estudos com painéis homogêneas de maravalhas utilizando madeira de hevea brasiliensis e tectonagrandis, comparando-se a utilização de 5 e 10% de adesivo PUR.
+Santos et al. (2011) em estudos com painéis aglomerados a partir da incorporação do resíduo da madeira de candeia em associação à madeira de eucalipto com 12% do adesivo UF, verificaram a influência das diferentes porcentagens de PET na presença e na ausência de parafina. Em seus resultados de absorção após 24h observaram 72,87% para a mistura com 0% de PET e 56,54% para a mistura envolvendo 50% de PET, sem a utilização de parafina.
+Rahman et al. (2013) obtiveram resultados de absorção após 24h de 29,5% para a proporção 70% pó de serra 30% PET e 16,7% para proporção 50% pó de serra 50% PET, sem o acréscimo de resina aglutinante em seus compósitos de “madeira-plástico”, compostos de pó de serra e PET reciclado em partículas. Os valores encontrados pelo autor indicam uma notável diminuição na absorção após 24h de acordo com o aumento da proporção de partículas de PET em relação às partículas de madeira, assim como foi observado na presente pesquisa. As discrepâncias entre os valores dos autores e desta pesquisa se devem às possíveis diferenças dos tipos de madeira utilizadas e aos procedimentos de prensagem, tais como tempo e temperatura utilizados.
+Em estudos feitos por Ferreira e Knuth (2019) onde produziram e avaliaram painéis aglomerados utilizando madeira Teca, adesivo UF (12%) e adição de PET
+em proporções de 5, 10 e 15% com dois tamanhos diferentes de partículas (flakes com 0,2 x 5,0 x 8,0 mm e partículas menores que 2 mm), observaram que a absorção após 24h diminuiu de acordo com a adição de 10 e 15% de PET em partículas flakes, sendo 68,36% e 66,27% respectivamente. Quanto às misturas utilizando PET em partículas menores que 2 mm, para as adições de 5, 10 e 15% obtiveram 71,07; 72 e 72,07% de absorção após 24h, respectivamente, sendo maiores em relação à mistura sem adição de PET, que obtiveram resultado de 68,55%.
+Arianti e Rafani (2021) estudaram o comportamento físico e mecânico de painéis aglomerados de serragem e partículas de PET derivado de garrafas, nas proporções 50/50, 60/40 e 70/30 (serragem/PET), com a utilização de 11% de adesivo UF. Em seus resultados a absorção de água variou de 62,15% (70/30) para 27,58% (50/50), demonstrando redução significativa nesta propriedade e semelhança aos resultados das misturas M70P 30PET5 e M50P 50PET5 desta pesquisa. Também é possível observar as melhores propriedades dos painéis produzidos com PUR em relação a UF, pois com a utilização 5% de adesivo PUR verificou-se valores equivalentes aos determinados pelos autores, que utilizaram 11% do adesivo UF.
+A Figura 29 apresenta uma análise dos resultados médios e dos desvios padrão do inchamento após 24h, conforme apresentado na Tabela 15.
+Figura 29 – Inchamento em espessura após 24h das misturas
+      I24h (%)
+35 30 25 20 15 10
+5 0
+     M100P 0PET10
+M70P 30PET10
+M50P 50PET10 Misturas
+M70P 30PET5
+M50P 50PET5
+Fonte: Acervo do autor
+
+Santos et al. (2011) produziram painéis aglomerados a partir da incorporação do resíduo da madeira de candeia em associação à madeira de eucalipto com 12% do adesivo UF e verificaram a influência das diferentes porcentagens de PET na presença e na ausência de parafina. Em seus resultados de inchamento em espessura 24h observaram 18,60% para a mistura com 0% de PET e 15,67% para a mistura envolvendo 50% de PET, ambos os resultados sem adição de parafina. A diferença em relação aos resultados de inchamento da mistura M100P 0PET10 da presente pesquisa e, os resultados encontrados por Santos et al. (2011) com relação às misturas sem PET (0%), pode estar relacionada as diferenças entre os adesivos UF e PUR, às madeiras utilizadas e aos procedimentos para produção dos painéis.
+Rahman et al. (2013) em estudos realizados em painéis de “madeira-plástico”, compostos de pó de serra e partículas de PET reciclado, obtiveram resultados de inchamento em espessura após 24h de 10% para a proporção 70% de pó de serra e 30% PET e 8% para a proporção 50% de pó de serra e 50% de PET, sem o acréscimo de resina aglutinante. Os valores obtidos pelo autor diferem dos determinados nessa pesquisa, provavelmente devido aos diferentes parâmetros de produção dos painéis, entretanto, vale ressaltar que em ambas as pesquisas se verificou uma tendência de redução do inchamento de acordo com o aumento das proporções das partículas de PET.
+Em estudos desenvolvidos por Dotun, Adesoji e Oluwatimilehin (2018), obtiveram 16,44% de inchamento após 24h para a mistura 70/30 e 11,76% para a mistura 50/50. Os autores avaliaram painéis compostos de pó de serra (SD) e PET reciclado de garrafas, fazendo-se substituições de 10, 20, 30, 40 e 50% de SD por PET, utilizando-se 20% de UF em relação ao volume dos painéis. A tendência de redução do inchamento em função do aumento da proporção de PET e redução de SD se manteve para todas as misturas.
+A tendência de redução do inchamento em espessura após 24h quando se aumenta a substituição de partículas de madeira por partículas de PET não foi observada por Arianti e Rafani (2021), pois, essa propriedade aumentou de acordo com o acréscimo da substituição de PET, sendo 9,84% para a proporção 70/30 e 14,92% para 50/50. Os autores estudaram painéis aglomerados de serragem e partículas de PET derivado de garrafas, nas proporções 50/50, 60/40 e 70/30 (serragem/PET), com a utilização 11% de adesivo UF e pressão de prensagem 2,5 MPa. A diferença de tendência observada pode ter sido ocasionada pela
+desigualdade na pressão de prensagem, que foi menor se comparado à esta pesquisa e também as encontradas na literatura.
+5.6 Módulo de Resistência à Flexão Estática (MOR)
+A Tabela 16 apresenta os resultados de MOR, coeficiente de variação e desvio
+padrão, calculados a partir dos ensaios de flexão estática.
+Tabela 16 – Valores médios de MOR dos painéis
+    Misturas
+M100P 0PET10 M70P 30PET10
+M70P 30PET5 M50P 50PET5
+MOR (MPa)
+13,53 19,74
+15,58
+19,44
+Fonte: Acervo do autor
+CV (%)
+8,13 11,22
+12,82
+Desvio padrão
+1,16 2,33
+2,11 3,26
+     M50P 50PET10
+ 28,79 9,99 3,03
+15,92
+    Os painéis da mistura M50P 50PET10 obtiveram maior resultado médio de MOR, representando um aumento de 112,79% em relação aos painéis da mistura referência M100P 0PET10. Evidencia-se também que todas as misturas envolvendo partículas de Pinus e PET resultaram em valores de MOR maiores que os painéis sem PET, inclusive com relação às misturas que utilizaram 5% de PUR, o que indica economia de adesivo na confecção dos painéis.
+Na Figura 30 são representados os resultados de MOR médio e desvio padrão que constam na Tabela 16.
+
+Figura 30 – MOR dos painéis das misturas
+      MOR (MPa)
+35 30 25 20 15 10
+5 0
+     M100P 0PET10
+M70P 30PET10
+M50P 50PET10 Misturas
+M70P 30PET5
+M50P 50PET5
+Fonte: Acervo do autor
+Observa-se que o MOR aumentou conforme houve o aumento da proporção de partículas de PET em relação às de Pinus. É possível verificar também valores muito próximos do MOR entre as misturas M70P 30PET10 e M50P 50PET5, demonstrando que é possível manter a resistência mecânica, inclusive, reduzindo a quantidade de adesivo PUR dos painéis e fazendo-se o aumento da quantidade de PET reciclado na mistura.
+Santos et al. (2011) não determinaram valores significativos para o MOR para os painéis com misturas sem parafina, sendo eles 8,05 MPa para a proporção 0% de substituição de madeira por PET; 9,02 MPa para 25% de substituição e 8,33 MPa para 50% de substituição, em seus estudos de painéis aglomerados utilizando resíduo da madeira de candeia em associação à madeira de eucalipto, fazendo-se substituições das madeiras por partículas de PET, com 12% do adesivo UF.
+O valor de MOR médio encontrado para os painéis da mistura M50P 50PET10 foi superior ao encontrado por Rahman et al. (2013) em seus compósitos “madeira- plástico” constituídos com pó de serra e partículas de PET reciclado, onde obtiveram resultado de MOR 22,99 MPa para a proporção 50% de pó de serra e 50% PET. Os resultados encontrados tanto para as misturas M70P 30PET10 quanto para M70P 30PET5 são superiores aos encontrados pelos autores, cujo MOR foi 11,68 MPa para a proporção 70% de pó de serra 30% de PET, sem o acréscimo de resina aglutinante.
+
+Nos estudos feitos por Dotun, Adesoji e Oluwatimilehin (2018), obtiveram valores de MOR inferiores a 2 MPa para a mistura 70/30 e 9,04 MPa para 50/50. Apesar do aumento da resistência mecânica de acordo com o aumento nas proporções de PET, os valores observados pelos autores se encontraram significativamente abaixo dos obtidos na presente pesquisa, podendo ser justificado pela diferença de parâmetros de produção e dos adesivos utilizados, que influenciaram significativamente nas densidades e consequentemente no MOR.
+De acordo com Cravo et al. (2017), a resina aglutinante e a variação da densidade dos painéis influenciam diretamente nos comportamentos físicos, mecânicos e térmicos dos mesmos.
+Arianti e Rafani (2021) observaram redução do MOR conforme aumentou-se a quantidade de PET em relação à serragem nos painéis. Os resultados de MOR foram 4,16 MPa para a mistura 70/30 e 1,77 MPa para 50/50, com a utilização 11% de adesivo UF, pressão de prensagem 2,5 MPa durante 20 minutos, à temperatura de 200 °C. De acordo com os autores, o PET não fundiu entre as partículas de serragem durante o processo de fabricação dos painéis, evidenciando que seria necessário utilizar maior temperatura e ajustar o tempo de prensagem.
+5.7 Módulo de Elasticidade (MOE)
+A Tabela 17 apresenta os resultados médios de MOE, o coeficiente de variação e o desvio padrão para os painéis produzidos com as misturas propostas, que foram calculados a partir do ensaio de flexão e os resultados apresentados para cada cp.
+Tabela 17 – Valores médios de MOE dos painéis
+    Misturas
+M100P 0PET10 M70P 30PET10
+M70P 30PET5 M50P 50PET5
+MOE (MPa)
+1908,39 2558,94
+2062,52
+2427,14
+Fonte: Acervo do autor
+CV (%)
+4,54 6,70
+Desvio padrão
+91,27 180,75
+200,43 249,09
+     M50P 50PET10
+ 3159,15 8,70 289,62
+9,22 9,74
+    
+Observa-se que o MOE dos painéis da mistura M50P 50PET10 apresentaram resultados 65,64% superior aos painéis da mistura M100P 0PET10, sendo os resultados médios de 3159,15 MPa e 1908,39 MPa, respectivamente.
+Os resultados de MOE aumentaram em função do aumento da proporção de partículas de PET em relação às de Pinus. É possível identificar valores semelhantes dessa propriedade mecânica entre as misturas M70P 30PET10 e M50P 50PET5, demonstrando que é possível reduzir a quantidade de adesivo PUR dos painéis e manter o mesmo padrão de rigidez, com o incremento da quantidade de PET reciclado na mistura.
+A Figura 31 apresenta os resultados dos valores médios de MOE e desvio padrão que constam na Tabela 17.
+Figura 31 – MOE dos painéis das misturas
+      MOE (MPa)
+3500
+2500
+1500
+500 0
+      M100P 0PET10
+M70P 30PET10
+M50P 50PET10 Misturas
+M70P 30PET5
+M50P 50PET5
+Fonte: Acervo do autor
+Na Figura 31 evidencia-se que todos os painéis das misturas, envolvendo partículas de madeira Pinus e PET, resultaram em valores de MOE maiores em comparação com a mistura sem PET, até mesmo as misturas que utilizaram 5% de PUR, o que pode inferir sobre a economia de adesivo na produção dos painéis, considerando que, de acordo com Iwakiri e Trianoski (2020), o adesivo é o componente de maior custo na produção dos painéis.
+Santos et al. (2011) observaram reduções significativas nos resultados de MOE conforme o aumento da substituição de madeira por PET em seus estudos de painéis aglomerados utilizando resíduo da madeira de candeia em associação à
+
+madeira de eucalipto, utilizando 12% do adesivo UF. Obtiveram MOE de 791,78 MPa para 0%, 719,07 MPa para 25% e 432,56 MPa para 50% de substituição de madeira por PET, sem a utilização de parafina.
+Nos estudos feitos por Rahman et al. (2013) com compósitos de “madeira- plástico” compostos por pó de serra e partículas de PET reciclado, obtiveram resultados de MOE de 1892,91 MPa para a proporção de 50% pó de serra e 50% de PET e 1433,93 MPa para proporção de 70% pó de serra e 30% de PET, sem o acréscimo de aglutinante. A diferença significativa entre os resultados de MOE encontrados nos painéis de todas as misturas da presente pesquisa e os encontrados pelo autor pode ser associada à utilização do adesivo PUR, que possivelmente atuou com eficácia como aglutinante propiciando boa aglutinação e maior rigidez aos painéis; diferentemente do PET, utilizado como único aglutinante para as partículas de pó de serra nos estudos de Rahman et al. (2013).
+Dotun, Adesoji e Oluwatimilehin (2018) obtiveram resultados de MOE abaixo de 200 MPa para 70% SD + 30% PET e 964,19 MPa para 50% SD + 50% PET. Observaram aumento considerável dessa propriedade mecânica de acordo com o aumento nas proporções de PET em relação ao SD. Através dos resultados, concluíram que a mistura 50% SD + 50% PET obteve o melhor valor de MOE, sendo considerada a de melhor interação entre as partículas de PET, adesivo UF e SD. A discrepância entre os resultados da presente pesquisa e dos autores pode ser explicada pelos diferentes parâmetros de prensagem, tamanhos de partículas, tipo e quantidade de adesivo.
+Arianti e Rafani (2021) verificaram redução do MOE conforme aumentou-se a quantidade de PET em relação à serragem nos painéis. Os resultados foram 862,09 MPa para a mistura 70/30 e 383,42 MPa para 50/50. Os autores ressaltam que as partículas de PET não derreteram, portanto, não houve forte interação entre as partículas.
+5.8 Resistência à Tração Perpendicular (TP)
+Os resultados médios obtidos através do ensaio de TP estão apresentados na Tabela 18.
+Tabela 18 – Valores médios de TP dos painéis
+    Misturas
+M100P 0PET10 M70P 30PET10
+M70P 30PET5 M50P 50PET5
+TP (MPa)
+0,83 0,89
+0,58
+0,89
+Fonte: Acervo do autor
+CV (%)
+13,33 16,08
+28,78
+Desvio padrão
+0,12 0,15
+0,18 0,16
+     M50P 50PET10
+ 2,49 18,97 0,50
+17,07
+    Observa-se que a TP dos painéis da mistura M50P 50PET10 apresentaram resistência 200% superior aos painéis da mistura sem PET, sendo os resultados médios de 2,49 MPa e 0,83 MPa, respectivamente.
+Os resultados de TP aumentaram conforme houve o aumento da proporção de partículas de PET em relação às de Pinus, exceto para os painéis da mistura M70P 30PET5. É possível identificar valores iguais dessa propriedade mecânica entre as misturas M70P 30PET10 e M50P 50PET5, confirmando que é possível reduzir a quantidade de adesivo PUR dos painéis e manter o mesmo padrão de ligação interna, aumentando-se a quantidade de PET reciclado na mistura.
+Na Figura 32 são representados os resultados de TP média e desvio padrão apresentados na Tabela 18.
+Figura 32 – TP dos painéis das misturas
+      TP (MPa)
+3,50 3,00 2,50 2,00 1,50 1,00 0,50 0,00
+     M100P 0PET10
+M70P 30PET10
+M50P 50PET10
+M70P 30PET5
+Misturas
+M50P 50PET5
+Fonte: Acervo do autor
+A Figura 32 evidencia que todas os painéis das misturas envolvendo partículas de madeira Pinus e PET resultaram em valores de TP maiores que os painéis sem
+
+PET, com exceção da mistura M70P 30PET5, provavelmente devido algum problema decorrente da produção dos painéis desta mistura. Os painéis da mistura M50P 50PET10 resultaram em maior resistência à TP.
+De acordo com Maloney (1993) a TP dos painéis está diretamente interligada a quantidade e ao desempenho do adesivo aglutinante utilizado, pois, o adesivo é o principal responsável pela qualidade da aglutinação entre as partículas nesta propriedade mecânica.
+Santos et al. (2011) obtiveram reduções significativas nos resultados de TP de acordo com o aumento da proporção de PET em relação madeira em seus estudos envolvendo painéis aglomerados utilizando resíduo da madeira de candeia em associação à madeira de eucalipto, utilizando 12% do adesivo UF, sendo 0,84 MPa para 0%, 0,47 MPa para 25% e 0,42 MPa para 50% de substituição de madeira por PET, sem a utilização de parafina. É possível observar a semelhança com resultados dos painéis da mistura referência M100P 0PET10 desta pesquisa, que foram 0,83 MPa. Tal comparação pode indicar também um melhor desempenho do adesivo PUR, considerando que foi utilizado na quantidade de 10% em relação à massa seca de partículas, enquanto Santos et al. (2011) utilizaram 12% do adesivo UF em seus estudos.
+Em estudos desenvolvidos por Ferreira e Knuth (2019), produziram e avaliaram painéis aglomerados utilizando madeira teca, adesivo UF (12%) e adição de PET em proporções de 5, 10 e 15% em dois tamanhos diferentes de partículas (flakes com 0,2 x 5,0 x 8,0 mm e partículas menores que 2 mm). Observaram que a resistência TP reduziu e o coeficiente de variação aumentou de acordo com a adição de 10 e 15% de PET em partículas flakes. Quanto às misturas utilizando PET em partículas menores que 2 mm, para as adições de 5% os resultados da resistência TP foram melhores em relação à mistura sem adição de PET, sendo eles 0,60 MPa para 0% de PET e 0,67 MPa para adição de 5% de PET. Os resultados das misturas com adições de 10 e 15% de PET foram respectivamente 0,57 MPa e 0,59 MPa. Vale ressaltar que o desempenho do adesivo PUR na quantidade de 10% em relação à massa seca de partículas da presente pesquisa foi melhor, evidenciando maior interação na mistura M100P 0PET10, se comparado a UF que foi utilizada na quantidade de 12% pelos autores.
+Nos estudos de Arianti e Rafani (2021) obtiveram TP de 0,19 MPa para a mistura 70/30 e 0,05 MPa para 50/50. Observaram que de acordo com o aumento
+                 nas proporções de PET em relação à serragem nas misturas, a resistência TP foi reduzida de forma significativa, revelando baixa adesão entre as partículas e o adesivo UF.
+5.9 Classificação de acordo com a ABNT NBR 14810-2 (2018) e ANSI A208.1 (2016)
+A Tabela 19 apresenta os parâmetros de classificação dos painéis de acordo com aspectos físicos e mecânicos normativos nacionais.
+Tabela 19 – Parâmetros físicos e mecânicos ABNT NBR 14810-2 (2018)
+       Classificação ABNT NBR 14810-2 (2018)
+P2
+P3
+Critérios por faixa de espessura nominal
+Espessuras > 6 a 13 mm
+Espessuras > 13 a 20 mm
+Espessuras > 6 a 13 mm
+Espessuras > 13 a 20 mm
+Espessuras > 10 a 13 mm Espessuras > 13 a 20 mm
+Espessuras > 10 a 13 mm Espessuras > 13 a 20 mm
+Inchamento durante 24 h máximo (%)
+22 17 14
+11 10
+Resistência MOR à TP mínimo mínimo
+(MPa) (MPa)
+0,40 11
+0,35 11 0,45 15 0,45 14
+0,45 18 0,45 16
+0,75 22
+MOE
+Painéis das (MPa) misturas
+1800 M70P 30PET5
+1600 - 2050 - 1950 -
+2550 - 2400 -
+3350 - 3100 -
+mínimo
+                P4
+   Espessuras > 10 a 13 mm Espessuras > 13 a 20 mm
+   16 15
+     0,40 16 2300
+  M70P30PET10 M50P 50PET5
+-
+  0,35 15 2300
+   P5
+  P6
+   Espessuras > 10 a 13 mm Espessuras > 13 a 20 mm
+   15 16
+     0,60 20 3150
+  M50P 50PET10 -
+  0,50 18 3000
+   P7
+Fonte: Adaptado de ABNT NBR 14810-2 (2018)
+0,70 20
+       
+A classificação dos painéis das misturas propostas foi realizada considerando- se que os resultados obtidos para as propriedades físicas e mecânicas se enquadrassem entre os valores máximos e mínimos propostos para cada classificação, cujas definições estão dispostas no item 3.2.4 dessa pesquisa. Portanto, os painéis da mistura M70P 30PET5 foram classificados como P2, das misturas M70P 30PET10 e M50P 50PET5 como P4 e da mistura M50P 50PET10 como P6, considerando-se que esses painéis apresentaram as melhores resistências em comparação com os demais.
+Os painéis da mistura referência M100P 0PET10 não se enquadraram em nenhuma classificação, levando-se em consideração que a propriedade de inchamento em espessura 24h foi a que se apresentou com os piores resultados.
+É importante ressaltar utilizou-se a ABNT NBR 14810-2 (2018) que é empregada para classificações de painéis MDP, entretanto, por questões de análise comparativa, foi utilizada a norma ANSI A208.1 (2016), que possibilita a classificação de painéis de Alta Densidade.
+A Tabela 20 apresenta os parâmetros de classificação dos painéis de acordo com aspectos mecânicos normativos internacionais. Através dos resultados de densidade citados na Tabela 12 e das propriedades mecânicas dos painéis das misturas, foi possível fazer a classificação.
+Tabela 20 – Parâmetros mecânicos ANSI A208.1 (2016)
+     Classificação ANSI A208.1 (2016)
+H-1
+M-0 M-1
+M-2 M-3i M-3
+D-2
+Resistência à TP mínimo (MPa)
+0,81
+0,31 0,36
+0,40 0,50 0,55
+0,55
+MOR mínimo (MPa)
+14,9
+7,6 10
+15 16,5
+16,5
+MOE mínimo (MPa)
+1380 1550
+    2500
+2750
+Painéis das misturas
+-
+- -
+- - -
+-
+      H-2 H-3
+  0,81 18,5 2160
+ M70P 30PET10 M50P 50PET5
+M50P 50PET10
+  0,90 21,1 2475
+    M-S
+ 0,36 11 1700
+ M100P 0PET10
+  PBU
+    0,40 11 1725
+  M70P 30PET5
+ D-3
+  0,55 19,5 3100
+    M50P 50PET10
+ Fonte: Adaptado de ANSI A208.1 (2016)
+É importante ressaltar que o referido documento normativo não especifica limites para a propriedade física de inchamento durante 24h, sob esse aspecto, a classificação seguiu os procedimentos citados para a ABNT NBR 14810-2 (2018) e as definições do desempenho estão dispostas no item 3.2.4 dessa pesquisa.
+5.10 Análise estatística dos resultados
+Na Tabela 21 são apresentados os resultados do teste de Tukey (5% de significância) acerca dos teores de PET e de adesivo PUR nas propriedades dos painéis.
+
+Tabela 21 – Resultados do teste de contraste de médias de Tukey
+   Propriedade
+PET (%) PUR (%) 30 50 5 10
+     DBAAA
+UABAA I24h A B A B A24h A B A B MOR B A B A MOE B A B A TP B A B A
+Letras iguais nas linhas implicam misturas com médias de resultados estatisticamente equivalentes entre si.
+Fonte: Acervo do autor
+Com base nos resultados obtidos, observa-se que o percentual de adesivo PUR não influenciou de forma significativa os valores de densidade média dos painéis, pois, o teste identificou equivalência de médias na utilização de 5 e 10% do adesivo (A, A). Porém, as variações de 30 e 50% de PET apresentaram diferença significativa entre médias (B, A), sendo que a substituição de 50% resultou no valor médio estatisticamente superior dessa propriedade.
+Para a propriedade de teor de umidade dos painéis, o fator adesivo PUR não gerou diferenças significativas estatisticamente. Entretanto, as misturas com 50% de PET resultaram em menores resultados médios (B), de acordo com o teste de Tukey, indicando que maior quantidade de PET nos painéis reduz a absorção de umidade ambiente, o que favorece o desempenho do painel nessa propriedade física.
+Com relação ao inchamento 24h e absorção, o percentual de 5% no fator adesivo PUR e também a proporção 30% no fator teor de PET influenciaram de forma significativa estatisticamente, indicando valores superiores de média com a letra (A), demonstrando que nestes percentuais e proporções os painéis possuem desempenho inferior aos que utilizaram 10% de PUR e 50% de PET.
+Quanto às propriedades mecânicas de MOR, MOE e TP, todas apresentaram influência significativa estatisticamente no percentual de adesivo, sendo que a utilização de 10% de PUR indicou maiores médias (A) em relação a utilização de 5% (B) e a proporção de 50% de PET (A) demonstrou maiores resultados em relação à proporção 30% (B). Tais resultados indicam que a substituição de 50% de partículas de madeira Pinus por PET e a utilização de 10% de PUR resultam em painéis com maior desempenho entre as misturas propostas.
+     
+5.11 Imagem ampliada da região de ruptura de corpos de prova de painéis submetidos a ensaio de TP
+A sequência da Figura 33 ilustra imagens obtidas através do procedimento utilizando lupa com câmera acoplada. As respectivas escalas estão localizadas no canto inferior direito de cada imagem.
+Figura 33 – Região de ruptura dos cps com aproximação 16x
+  (a) Região de ruptura do cp do painel da mistura M100P 0PET10
+(b) Região de ruptura do cp do painel da mistura M70P 30PET10
+  (c) Região de ruptura do cp do painel da mistura M50P 50PET10
+(d) Região de ruptura do cp do painel da mistura M70P 30PET5
+ (e) Região de ruptura do cp do painel da mistura M50P 50PET5
+Fonte: Acervo do autor
+
+Através da Figura 33a é possível notar somente a interação das partículas de Pinus com o adesivo PUR em sua superfície (aspecto brilhante e rugoso), visto que esta mistura não possui partículas de PET em sua composição.
+Através da Figura 33b, Figura 33c, Figura 33d e Figura 33e é possível visualizar de forma otimizada as partículas de PET, possibilitando inferir que aparentemente não entraram em processo de fusão mediante a utilização da temperatura de prensagem 110 °C e pressão 5 MPa, porém, é possível identificar que durante a prensagem o PET pode ter apresentado comportamento flexível e dúctil, pois ocupou os espaços entre as partículas, propiciando preenchimento de espaços vazios e bom envelopamento das partículas de madeira. Este comportamento se deve ao fato deste polímero ter atingido sua temperatura de transição vítrea, que de acordo com Ebewele (2000) e Awaja e Pavel (2005) situa entre 69 °C e 115 °C, conforme apresentado na Tabela 2 do item 3.5.1.
+É possível observar através da Figura 33c, boa interação do adesivo PUR, com as partículas de madeira Pinus e PET, demonstrando interligação entre as mesmas, sendo identificado como o material de cor brilhante de aspecto rugoso na superfície de ambos os tipos de partículas. É notável também a abundância de adesivo sobre as partículas, o que possibilitou melhor envelopamento das mesmas e, consequentemente, resultou nas melhores propriedades físicas e mecânicas dentre as misturas.
+5.12 Microscopia eletrônica de varredura (MEV)
+Através das micrografias obtidas por MEV, foi possível verificara superfície fraturada de cada mistura proposta envolvendo madeira/PUR
+Figura 34 e Figura 36) e madeira/PET/PUR (Figura 35 e Figura 37), contendo diferentes proporções de partículas de madeira e PET, com 5 e 10% de adesivo PUR.
+Figura 34 – Superfície do cp da mistura M100P 0PET10
+Fonte: Acervo do autor
+Observa-se através da Figura 34 grande quantidade de vazios entre as partículas de Pinus e pouca sobra de adesivo PUR entre as mesmas, confirmando os maiores resultados de inchamento e absorção de água, pois, permitiu maior percolação de água entre os vazios, gerando maior interação da água com as partículas de madeira.
+Pelo fato de o adesivo PUR ser considerado mais resistente à água e impermeável, como menciona Dias (2005) e Gilio (2020), e a madeira ser hidrofílica, o menor envelopamento das partículas pelo adesivo gera maior inchamento e absorção de água.
+Figura 35 – Imagens de MEV das misturas madeira/PET/PUR
+(a) Superfície do cp da mistura M70P 30PET10
+(b) Superfície do cp da mistura M50P 50PET10
+    (c) Superfície do cp da mistura M70P 30PET5
+(d) Superfície do cp da mistura M50P 50PET5
+Fonte: Acervo do autor
+Através da Figura 35a e Figura 35c é possível observar grandes diferenças no envelopamento das partículas por parte do adesivo PUR, retratando menor índice de vazios entre as partículas na mistura M70P 30PET10.
+A Figura 35b apresenta abundância de adesivo sobre as partículas, com aspecto “escorrido” sobre as mesmas, evidenciando os melhores resultados em todas as propriedades físicas e mecânicas, entre os painéis das misturas propostas. A provável sobra de adesivo que recobriu as partículas pode ter sido gerada pelo fato de que o PET possui taxa de absorção próximo a 0%, diferentemente da madeira. Nota-se também a colaboração para o preenchimento de vazios, decorrido da menor granulometria das partículas de PET em relação às de madeira Pinus.
+
+Figura 36 – Superfície do cp da mistura M100P 0PET10
+Fonte: Acervo do autor
+Observa-se por meio da Figura 36, com maior ampliação da mistura M100P 0PET10, maiores vazios entre as partículas de Pinus e menor sobra de adesivo PUR entre as mesmas, esclarecendo os maiores resultados de inchamento e absorção de água, pois, permitiu maior interação da água com as partículas de madeira.
+Figura 37 – Imagens de MEV das misturas madeira/PET/PUR
+(a) Superfície do cp da mistura M70P 30PET10
+(b) Superfície do cp da mistura M50P 50PET10
+    (c) Superfície do cp da mistura M70P 30PET5
+(d) Superfície do cp da mistura M50P 50PET5
+Fonte: Acervo do autor
+A Figura 37b confirma o bom envelopamento das partículas de madeira, evidenciando a formação de uma matriz polimérica composta pela interação de PUR e PET. Ressalta-se que de acordo com o comportamento das partículas de PET observadas no item 4.2.1, não houve fusão do material sob a temperatura e pressão utilizada, porém, verificou-se o efeito térmico de transição vítrea do material, que pode ter colaborado para melhores condições de empacotamento e fixação.
+Através da Figura 37d, observa-se menor quantidade de PUR sobre a partícula, se comparado à mistura M50P 50PET10, no entanto, verifica-se melhor envelopamento das partículas em relação a mistura M70P 30PET5, afirmando as diferenças nos resultados físicos e mecânicos entre as duas misturas.
+
+As micrografias demonstraram que quanto maior a proporção de PET na mistura, maior é a interação entre as partículas e adesivo PUR, contribuindo com o ganho de resistência mecânica e melhoria das propriedades físicas.
+5.13 Considerações
+Para melhor análise comparativa dos resultados obtidos com os ensaios nos painéis, é apresentada a Tabela 22, onde foi possível comparar todas as propriedades físicas e mecânicas dos painéis analisados neste estudo.
+Tabela 22 – Comparação geral dos resultados de propriedades físicas e mecânicas
+       Mistura
+M100P 0PET10 M70P 30PET10
+M70P 30PET5 M50P 50PET5
+D (g/cm3)
+0,763 (± 0,014)
+0,928 (± 0,046)
+0,901 (± 0,056)
+1,026 (± 0,060)
+I24h (%)
+29,81 (± 1,56)
+15,78 (± 2,19)
+21,9 (± 3,56)
+14,47 (± 1,52)
+A24h (%)
+78,40 (± 4,38)
+32,39 (± 9,22)
+49,82 (± 16,70)
+26,74 (± 8,16)
+MOR (MPa)
+13,53 (± 1,16)
+19,74 (± 2,33)
+15,58 (± 2,11)
+19,44 (± 3,26)
+MOE (MPa)
+1908,39 (± 91,27)
+2558,94 (± 180,75)
+2062,52 (± 200,43)
+2427,14 (± 249,09)
+TP (MPa)
+0,83 (± 0,12)
+0,89 (± 0,15)
+0,58 (± 0,18)
+0,89 (± 0,16)
+        M50P 50PET10
+1,062 (± 0,044)
+ 3,88 9,73 28,79 3159,15 (± 0,67) (± 4,42) (± 3,03) (± 289,62)
+ 2,49 (± 0,50)
+       () Desvio padrão. Fonte: Acervo do autor
+Na Tabela 22 observa-se o aumento considerável das propriedades MOR, MOE, TP e D, e a redução das propriedades U e I24h dos painéis da mistura M50P 50PET10 em relação aos painéis das demais misturas, evidenciando-se que as partículas de PET em associação à madeira de Pinus e o adesivo PUR geraram melhorias em todas as propriedades analisadas.
+Um ponto importante a ser destacado, é que de acordo com o aumento das substituições de partículas de Pinus por partículas de PET, houve aumento na quantidade de partículas de menor granulometria, conforme apresentado no item 5.1, evidenciando o aumento da superfície específica das partículas, que de acordo com Iwakiri e Trianoski (2020), levaria ao aumento no consumo de adesivo. Porém, as partículas de PET possuem características diferentes das partículas de madeira, pois, além de não serem porosas e não possuírem alta taxa de absorção, possibilitaram entrar em um estado de flexível, o que propiciou maior interação com
+
+o PUR e as partículas de Pinus, proporcionando maior envelopamento do conjunto e preenchimento de espaços vazios entre as partículas de madeira. O resultado dessa combinação de fatores foi maior resistência mecânica e, consequentemente, redução de inchamento dos painéis.
+6 CONCLUSÃO
+De acordo com as análises realizadas e, em conformidade com a ABNT NBR 14810-2(2018); mediante a substituição de partículas de Pinus por PET em painéis aglomerados aglutinados com PUR, concluiu-se que o PET reciclado, proporcionou melhorias significativas para as propriedades físicas e mecânicas analisadas em relação aos painéis sem PET.
+Comparando-se os resultados dos ensaios com os obtidos pelas referências nacionais e internacionais, constatou-se que o adesivo PUR apresentou boa interação com as partículas de Pinus em associação ao PET.
+De acordo com a norma ABNT NBR 14810-2 (2018), os painéis da mistura de referência (M100P 0PET10) não se enquadraram em nenhuma classificação, levando em consideração a propriedade de inchamento em espessura 24h como principal ponto crítico para a desclassificação. Os painéis da mistura M70P 30PET5 foram classificados como P2, das misturas M70P 30PET10 e M50P 50PET5 como P4 e da mistura M50P 50PET10 como P6, sendo o mais resistente entre as misturas propostas.
+Quanto a classificação pela norma ANSI A208.1 (2016), os painéis da mistura M100P 0PET10 se enquadraram como M-S, da mistura M70P 30PET5 como PBU, das misturas M70P 30PET10 e M50P 50PET5 como H-2 e da mistura M50P 50PET10 como H-3 e D-3, que são os mais exigentes segundo aos parâmetros de resistência mecânica da norma americana.
+Os painéis da mistura M50P 50PET10 revelaram os melhores resultados físicos e mecânicos, seguidos das misturas M70P 30PET10 e M50P 50PET5, que apresentaram mesma equivalência de resultados.
+Através das análises de MEV, foi possível concluir que os painéis que utilizaram 30% e 50% de PET com 10% de adesivo PUR, obtiveram melhor envelopamento das partículas e maior preenchimento de vazios, se comparados aos painéis da mistura referência (0% PET) e as misturas que empregaram 5% de PUR.
+Os resultados obtidos possibilitam indicar a utilização do PET para a produção de painéis de partículas aglomeradas, gerando assim contribuição ambiental e econômica na utilização de adesivo PUR, considerando que, é possível produzir
+painéis com menor teor de adesivo e obter propriedades físicas e mecânicas que atendam às exigências normativas.
+REFERÊNCIAS
+ALLAF, R. M. Preparation of sawdust-filled recycled-pet composites via solid- state compounding. [S. l.]: MDPI, 2020. DOI 10.3390/pr8010100. Disponível em: https://www.mdpi.com/2227-9717/8/1/100. Acesso em: 14 mar. 2022.
+ALVES, L. R. et al. A utilização de óleos vegetais como fonte de polióis para a síntese de poliuretano: uma revisão. Disciplinarum Scientia, Santa Maria, v. 22, ed. 1, p. 98-118, 2021. DOI:10.37779/nt.v22i1.3711.
+AMERICAN NATIONAL STANDARDS INSTITUTE – ANSI. A208.1: Particleboards. Gaithersburg, MD, 2016.
+ARAUJO, C. K. C. et al. Caracterização mecânica de painéis particulados de média densidade produzidos a partir de resíduos de madeira. Revista Gestão Industrial, Ponta Grossa, v. 15, n. 1, p. 197-211, 2019.
+ARIANTI, I.; RAFANI, M. The Effect of Adding Plastic Bottle PET Waste in the Making of Sawdust Particleboard. International Journal of Research Publication and Reviews, [s. l.], v. 2, ed. 11, p. 737744, 2021. Disponível em: http://repository.polnep.ac.id/xmlui/bitstream/handle/123456789/1979/The%20Effect %20of%20Adding%20Plastic%20Bottle%20PET%20Waste.pdf?sequence=1. Acesso em: 14 mar. 2022.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS – ABNT. NBR 14810-1: Painéis de partículas de média densidade: parte 1: terminologia. Rio de Janeiro, 2013.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS – ABNT. NBR 14810-2: Painéis de partículas de média densidade: parte 2: requisitos e métodos de ensaio. Rio de Janeiro, 2018.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS – ABNT. NBR NM 248: Agregados: Determinação da composição granulométrica. Rio de Janeiro, 2003.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS – ABNT. NBR 9939: Agregado graúdo – Determinação do teor de umidade total – Método de ensaio. Rio de Janeiro, 2012.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS – ABNT. NBR 6457: Amostras de solo — Preparação para ensaios de compactação e ensaios de caracterização. Rio de Janeiro, 2016.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS – ABNT. NBR 6458: Grãos de pedregulho retidos na peneira de abertura 4,8 mm - Determinação da massa específica, da massa específica aparente e da absorção de água. Rio de Janeiro, 2016.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS – ABNT. NBR. 7190: Projeto de Estruturas de Madeira. Rio de Janeiro, 1997.
+ASSOCIAÇÃO BRASILEIRA DA INDUSTRIA DO PET – ABIPET. 2017. Disponível em: https://www.abipet.org.br/. Acesso em: 18 maio 2021.
+ASSOCIAÇÃO BRASILEIRA DA INDÚSTRIA DO PET – ABIPET. Resina PET – História. [S. l.], 2018. Disponível em: www.abipet.org.br. Acesso em: 19 maio 2021.
+ASSOCIAÇÃO BRASILEIRA DA INDÚSTRIA DO PET – ABIPET. 11o Censo da Reciclagem do PET no Brasil. [S. l.], 2020. Disponível em: https://www.abipet.org.b r/. Acesso em: 18 maio 2021.
+ASSOCIAÇÃO BRASILEIRA DA INDÚSTRIA DE PAINÉIS DE MADEIRA – ABIPA. Programa Setorial da Qualidade de Painéis de Madeira. São Paulo: Tesis, 2010.
+ATLAS DO PLÁSTICO: Fatos e números sobre o mundo dos polímeros sintéticos. Rio de Janeiro: Fundação Heirich Böll, 2020. Disponível em:https://br.bo ell.org/sites/default/files/202011/Atlas%20do%20Pl%C3%A1stico%20%20vers%C3 %A3o%20digital%20%2030%20de%20novembro%20de%202020.pdf. Acesso em: 14 set. 2021.
+AWAJA, F.; PAVEL, D. Recycling of PET. European Polymer Journal, [s. l.],
+v. 41, n. 7, p.14531477, jul. 2005. DOI: http://dx.doi.org/10.1016/j.eurpolymj.2005.02. 005.
+AZAMBUJA, M. A. Estudo experimental de adesivos para fabricação de madeira laminada colada: avaliação da resistência de emendas dentadas, da durabilida de e de vigas. 2006. Tese (Doutorado) – IQSC, São Carlos, 2006.
+AZEVEDO, E. C. Síntese e Caracterização de Compósito Piezo elétrico Polímero Cerâmica 0-3. 1999. Dissertação (Mestrado) – São Carlos, 1999.
+BANCO NACIONAL DE DESENVOLVIMENTO ECONÔMICO E SOCIAL – BNDES. Painéis de madeira reconstituída. Disponível em: http://www.bndes.gov.br/. Acesso em: 25 mar. 2021.
+BISPO, R. A. Produção e avaliação de painéis de partículas de fibra de Coco, Pinus e eucalipto aglutinadas com adesivo poliuretano derivado de óleo de mamona. Dissertação (mestrado) – Universidade Estadual Paulista, Faculdade de Engenharia de Ilha Solteira. Ilha Solteira, 2021. 126 p.
+poliuretana derivado de óleo de mamona. 2009. 134 p. Tese (Doutorado em
+ AZEVEDO, E. C. Efeito da radiação nas propriedades mecânicas do adesivo de
+  Ciência e Engenharia de Materiais) - Setor de Tecnologia da Universidade Federal
+ do Paraná, [S.l.], 2009.
+
+BUZO, A. L. S. C. et. al. Painéis de Pinus e bagaço de cana empregando-se dois adesivos para uso na construção civil. Ambiente Construído, Porto Alegre, v. 19, e d. 4, p. 183-193, 2019. DOI http://dx.doi.org/10.1590/s1678-86212019000400350.
+CALLISTER JUNIOR, W. D.; RETHWISCH, D. G. Ciência e Engenharia de Materiais: Uma Introdução, LTC, Rio de Janeiro, 2020.
+CAMPOS, C. I.; LAHR, F. A. R. Production and characterization of MDF using eucalyptus fiber and castor-oil based polyurethane resin. Materials Research, São Carlos, v. 7 n. 3 p. 421-425, 2004.
+CATTO, A. L. et al. Influence of coupling agent in compatibility of post-consumer HDPE in thermoplastic composites reinforced with eucalyptus fiber. Mat. Res., São Carlos, v. 17, supl. 1, p. 203-209, 2014.
+CETESB. Ficha de Informação Toxicológica: Formaldeído. 2017. Disponível em: https://cetesb.sp.gov.br/laboratorios/wpcontent/uploads/sites/24/2013/11/Formaldeid o.pdf. Acesso em: 8 abr. 2021.
+CHAMMA, P. V. C. Produção de painéis a partir de resíduos sólidos para uso como elemento arquitetônico. 2004. 138 f. Tese (Doutorado em Agronomia) - Universidade Estadual Paulista, Faculdade de Ciências Agronômicas, 2004.
+CHOTIKHUN, A. et al. Some Properties of Wood Plastic Composites Made from Rubberwood, Recycled Plastic and Silica. MDPI - FORESTS, [s. l.], 2022. DOI https://doi.org/10.3390/f13030427.
+CRAVO, J. C. M., SARTORI, D. L., MÁRMOL, G., SCHMIDT, G. M., BALIEIRO, J. C. C., FIORELLI, J. Effect of density and resin on the mechanical, physical and thermal performance of particleboards based on cement packaging. Construction and Building Materials, Amsterdam, v. 151, p. 414-421, 2017.
+CRAVO, J. C. M.; SARTORI, D. l.; FIORELLI, J. Agro-industrial waste composites as components for rural buildings. Lignocellulosic Fiber And Biomass-based Composite Materials, [s. l.], p. 13-25, 2017.
+DHARMARATNE, P.D. et al. Preliminary Investigation of the Suitability of Coir Fiber and Thermoplastic Waste as a Construction Material. ENGINEER, [s. l.], ed. 04, p. 65-74, 2021. DOI http://doi.org/10.4038/engineer.v54i4.7471.
+DIAS, F. M.; LAHR, F. A. R. Alternative Castor Oil-Based Polyurethane Adhesive Used in the Production of Plywood. Materials Research, São Carlos, v. 7, n. 3, p.413-420, 2004.
+DIAS, F. M. Aplicação de resina poliuretana à base de mamona na fabricação de painéis de madeira compensada e aglomerada. Tese (Doutorado) – Escola de Engenharia de São Carlos – Universidade de São Paulo. 158p. São Carlos, São Paulo, 2005.
+DOTUN, A. O.; ADESOJI, A. A.; OLUWATIMILEHIN, A. C. Physical and Mechanical Properties Evaluation of Particle Board Produced From Saw Dust and Plastic Waste. International Journal of Engineering Research in Africa, [s. l.], v. 40, p. 1-8, 2018. DOI 10.4028/www.scientific.net/JERA.40.1.
+EBEWELE, R. O. Polymer science and technology. Boca Raton, New York: CRC Press, 2000. p. 504.
+EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA – EMBRAPA. Embrapa Florestas. Sistema de Produção, v. 2, n. 5, 2014. Disponível em: https://www.spo. nptia.embrapa.br/conteudo?p_p_id=conteudoportlet_WAR_sistemasdeproducaolf6_ 1ga1ceportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=col umn1&p_p_col_count=1&p_r_p_76293187_sistemaProducaoId=3715&p_r_p_- 996514994_topicoId=3229. Acesso em: 13 setembro 2021.
+EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA – EMBRAPA. Embrapa Florestas. O Pinus. [S. l.: s. n.],
+2020. Disponível em: https://www.embrapa.br/florestas/transferencia-de- tecnologia/pinus. Acesso em: 18 nov. 2021.
+FERREIRA, E.S.; KNUTH. A. Propriedades físico-mecânicas de painéis aglomerados de Tectonagrandis produzidos com adição de diferentes teores de PET. IV CBCTEM – Congresso Brasileiro de Ciência e Tecnologia da Madeira, Santarém -Pará, 2019.
+FIORELLI, J. et al. Desenvolvimento e caracterização de painéis de partículas com casca de amendoim e resina poliuretana de mamona. In: LAHR, F. A. R.; CHRISTOF ORO, A. L. Painéis de partículas de madeira e de materiais lignocelulósicos. São Carlos: [s. n.], 2013. p. 293-308. ISBN 978-85-8023-019-2.
+FONSECA, T. G; ALMEIDA, Y. M. B; VINHAS, G. M. Reciclagem química do PET pó s-consumo: caracterização estrutural do ácido tereftálico e efeito da hidrólise alcalina em baixa temperatura. Polímeros, Rio de Janeiro, v. 24, n. 5, p. 567571, 2014. http://dx.doi.org/10.1590/0104-1428.1583.
+FOOD AND AGRICULTURE ORGANIZATION OF THE UNITED NATIONS – FAO. Forest products: year book annuaire: forest products 2010-2014. Rome: Forestry Policy and Resources Division Fao, 2016.
+GILIO, C. G. Avaliação de painéis de maravalhas homogêneas empregando-se madeira de hevea brasiliensis e tectona grandis, aglutinadas com adesivo poliuretano derivado de óleo de mamona. 2020. 139 f. Dissertação (mestrado) – Universidade Estadual Paulista, Faculdade de Engenharia de Ilha Solteira, Ilha Solteira, 2020.
+INDÚSTRIA BRASILEIRA DE ÁRVORES – IBÁ. Painéis de madeira. Brasília, DF, 2017. Disponível em: https://iba.org/mdp-medium-density-particleboard-paineis-de- particulas-de-media-densidade. Acesso em: 15 abr. 2021.
+INDÚSTRIA BRASILEIRA DE ÁRVORES – IBÁ. Programa setorial da qualidade de painéis de madeira MDF e MDP. 14. ed. [S. l.: s.
+n.], 2020. Disponível em: https://iba.org/datafiles/publicacoes/outros/informativo- xiv.pdf. Acesso em: 26 mar. 2021.
+INDÚSTRIA BRASILEIRA DE ÁRVORES – IBÁ. Relatório Anual. [S. l.: s. n.], 2021. Disponível em: https://iba.org/datafiles/publicacoes/relatorios/relatorioiba2021- compactado.pdf. Acesso em: 29 mar. 2022.
+INSTITUTO BRASILEIRO DE FLORESTAS – IBF. O mercado de florestas plantad as. [S. l.: s. n.], 2018. Disponível em: https://mercadoflorestal.com.br/artigos/o- mercado-de-florest
+as-plantadas. Acesso em: 27 mar. 2021.
+INSTITUTO DE PESQUISAS TECNOLÓGICAS – IPT. Informações sobre madeiras: Pinus elliottii. [S. l.: s. n.],
+1989. Disponível em: https://www.ipt.br/informacoes_madeiras3.php?madeira=7. Acesso em: 18 nov. 2021.
+IWAKIRI, S.; TRIANOSKI, R. Painéis de madeira reconstituída. 2. ed. Curitiba: Fundação de Pesquisas Florestais do Paraná, 2020. 259 p.
+JESUS, J. M. H. Estudo do adesivo poliuretano à base de mamona em madeira laminada colada (MLC). 2000. Tese (Doutorado) – USP, São Carlos, 2000.
+KOLLMANN, F.P.; KUENZI, E.W. STAMM. J. Principles of wood science and technology. Wood based materials: properties of particleboard. nail-holding and screw holding ability. New York, 1975. p. 523-529.
+LOPEZ, Y. M. et al. Wood particleboards reinforced with thermoplastics to improve th ickness swelling and mechanical properties. Cerne, Lavras, v. 24, n. 4, p. 369-378, 2018. DOI 10.1590/01047760201824042582.
+LOPEZ, Y. M. et al. Production of wood-plastic composites using cedrela odorata sawdust waste and recycled thermoplastics mixture from post-consumer products – A sustainable approach for cleaner production in Cuba. Journal of Cleaner Production, Amsterdam, v. 244, 2020. DOI: https://doi.org/10.1016/j.jclepro.2019.118723.
+MALONEY, T.M. Terminology and products definitions - a suggested approach to uniformity world wide. In: INTERNATIONAL UNION OF FORESTER SEARCH ORGANIZATION WORLD CONGRESS, 18., Ljubljana: Yugoslavia. Proceedings [...] [S. l.]; IUFRO World Congress Organizing Committee, 1986.
+MALONEY, T. M. Modern particleboard and dry-process fiberboard manufacture. San Francisco: M. Freeman, 1993. v. 2. 689 p.
+MANO, E. B. Polímeros como materiais de engenharia. 2 ed. [S. l.]: Editora Edgard Blucher, 2000.
+MARINHO, N. P.; NASCIMENTO, E. M.; NISGOSKI, S.; MAGALHÃES, W. L. E.; NETO, S. C.; AZEVEDO, E. C. Caracterização Física e Térmica de Compósito de Poliuretano Derivado de Óleo de Mamona Associado com Partículas de Bambu. Polímeros, Rio de Janeiro, v. 23, n 2, pp. 201205, 2013.
+MARRA, A. A. Technology of wood bonding. New York: V. Nostrand Reinhold, 1992. 453 p.
+MENDES, R. F. et al. Efeito da associação de bagaço de cana, do tipo e do teor de adesivo na produção de painéis aglomerados. Ciência Florestal, Santa Maria, v. 22, n. 1, p. 161-170, 2012.
+MOSLEMI, A. A. Particleboard: materials. London: Southem University Press, v.1, 244p, 1974.
+MÜZEL, S. D. et al. MDP Panels Manufactured with Hevea Brasiliensis Overlaid with Bamboo Foil of Phyllostachys Edulis. Advanced Materials Research, Amsterdam, v. 1088, p. 686-689, 2015.
+NASCIMENTO, M. F.; LAHR, F. A. R.; CHRISTOFORO, A.L. Painéis de partículas de média densidade (MDP): fabricação e caracterização. São Carlos: EESC – USP, 2015. 74 p. ISBN 978-85-8023-030-7.
+PAES, J. B. et al. Qualidade de chapas de partículas de Pinus elliottii coladas com resina poliuretana sob diferentes combinações de pressão e temperatura. Ciência Florestal, Santa Maria, v. 21, n. 3, p. 551-558, 2011.
+PEREIRA, E. L.; OLIVEIRA JUNIOR, A. L. de; FINEZA, A. G. Optimization of mechanical properties in concrete reinforced with fibers from solid urban wastes (PET bottles) for the production of ecological concrete. Construction And Building Materials,
+Guildford, v. 149, p.837848, set. 2017. DOI: http://dx.doi.org/10.1016/j.conbuildmat.2 017.05.148.
+PROTÁSIO, T. P. et al. Thermal stability of particleboards of sugar cane bagasse and Pinus spp. Wood Science and Technology, New York, v. 43, n. 107, p. 683- 691, Sept. 2015.
+RAHMAN, K. S. et al. Flat-pressed wood plastic composites from sawdust and recycled polyethylene terephthalate (PET): physical and mechanical properties. Springer Open, n. 2, p. 629, 2013. DOI: 10.1186/2193-1801-2-629.
+RAHMAN, K. S. et al. Properties of flat-pressed wood plastic composites as a function of particle size and mixing ratio. Journal of Wood Science, [s. l.], p. 279- 286, 2018. DOI: https://doi.org/10.1007/s10086-018-1702-3.
+REVISTA DA MADEIRA - REMADE. Mercado de produtos madeireiros certificados na indústria de painéis. 140. ed. [S. l.], 2014. Disponível em: http://www.remade.com.br/br/revistadamadeira_materia.php?num=1779&subject=R M_Digital&title=Revista%20da%20Madeira%20Digital. Acesso em: 29 mar. 2021.
+RODRIGUES, F. R. Estudo da viabilidade do uso de resíduo de poliestireno e poliuretano de óleo de mamona na produção de painéis aglomerados homogêneos de pinus e eucalipito. 2022. 110 f. Dissertação (Mestrado em Engenharia Civil) – Faculdade de Engenharia de Ilha Solteira, Universidade Estadual Paulista “Júlio de Mesquita Filho”, Ilha Solteira, 2022.
+RODRIGUES, P. F.; RIBEIRO, T. P.; NEVES JUNIOR, A. Caracterização Mecânica de Compósitos Cimentícios Reforçados com Fibras de Politereftalato de Etileno Espiraladas. E&S – Engineering and Science, v. 6, 2017.
+DOI http://dx.doi.org/10.18607/ES20176068
+SANTOS, R. C. et al. Utilização de resíduos da madeira de candeia (Eremanthus erythropappus Macleish) na produção de painéis aglomerados com adição do PET. Ciência Florestal, v. 21, n. 1, p. 149-158, 2011.
+SILVA, G. C. Qualidade de painéis aglomerados produzidos com adesivos à base de lignosulfonato e ureia-formaldeído. 2015. 90 f. Tese (Doutorado) – Curso de Ciências Ambientais e Florestais, Universidade Federal Rural do Rio de Janeiro, Instituto de Florestas – UFRRJ, Rio de Janeiro, 2015.
+SILVA, S. A. M. et al. Avaliação da densidade aparente de chapas de madeira aglomerada produzidas com partículas de madeira tropical e poliuretana derivado de óleo de mamona. LAMEM 2013, Ed. EESC/USP-São Carlos/SP, p. 95-114, 2013.
+SILVA, S. A. M. da. Confecção e avaliação de painéis de partículas de madeira de média densidade com aproveitamento de resíduos industriais. 2016. 92 f. Tese (Livre-Docência em Produtos Engenheirados da Madeira) – Faculdade de Engenharia de Ilha Solteira, Universidade Estadual Paulista, Ilha Solteira, 2016.
+SILVA, V. U. et al. Circular vs. linear economy of building materials: A case study for particleboards made of recycled wood and biopolymer vs. conventional particleboard s. Construction and Building Materials, Guildford, v. 285, 2021. DOI https://doi.org /10.1016/j.conbuildmat.2021.122906.
+SINDICATO DA INDÚSTRIA DE MATERIAS PLÁSTICOS – SINDIPLAST, Transformação e Reciclagem de Material Plástico do Estado de São Paulo. Os Plásticos. [S. l.: s. n.], 2018. Disponível em: http://www.sindiplast.org.br/os- plasticos/. Acesso em: 23 ago. 2021.
+SPINACÉ, M. A. S.; PAOLI, M. A. A tecnologia da reciclagem de polímeros. Química Nova, São Paulo, v. 28, n. 1, p. 65-72, 2005.
+STARK, N.M.; CAI, Z. Wood-based composite materials: panel products, glued laminated timber, structural composite lumber, and wood-non wood composites. In: Wood handbook – wood as an engineering material. General Technical Report FPL-GTR-282. Madison. U.S. Department of Agriculture, Forest Service, Forest Products Laboratory, 2021. 543 p.
+SUGAHARA, E. S. Painéis aglomerados produzidos com partículas de eucalipto e bagaço de cana, com adesivos ureia formaldeído e poliuretano à base de mamona. 2018. 108 p. Dissertação (Mestrado) – Universidade Estadual Paulista, Faculdade de Engenharia de Ilha Solteira. Ilha Solteira, 2018.
+SUGAHARA, E. S. et al. High-density Particleboard Made from Agro-industrial Waste and Different Adhesives. Bioresources, [s. l.], p. 5162-5170, 2019. DOI: 10.15376/biores.1
+4.3.5162-5170.
+TEIXEIRA, M. F. H. B. I. Espectroscopia no infravermelho próximo associada à modelagem empírica multivariada para previsão da resistência a tração do poli(tereftalato de etileno) PET reciclado. 2013. 124 f. Dissertação (Mestrado em Engenharia Química) – Universidade Federal de Pernambuco, Recife, 2013.
+TREVISAN, C. G. Painéis aglomerados homogêneos produzidos com partículas de pinus e seringueira e aglutinados com adesivo poliuretano derivado de óleo de mamona – avaliação das propriedades físicas e mecânicas. 2021. 18-84 f. Dissertação (Mestrado em Engenharia Civil) – Faculdade de Engenharia de Ilha Solteira, Universidade Estadual Paulista “Júlio de Mesquita Filho”, Ilha Solteira, SP.
+TRIANOSKI, R. Avaliação do potencial de espécies florestais alternativas, de rápido crescimento, para produção de painéis de madeira aglomerada. Dissertação (Mestrado) – Curso de Engenharia Florestal, Universidade Federal do Paraná – UFPR, Curitiba, 2010.
+WWF-BRASIL. FUNDO MUNDIAL PARA A NATUREZA. Relatório Anual. [S. l.: s. n.], 2019.
+Disponível em: https://www.wwf.org.br/informacoes/bliblioteca/relatorioanual/. Acesso em: 19 maio 2021.
+ZOCH, V. P. Produção e propriedades de compósitos madeira-plástico utilizando resíduos minimamente processados. 2013. 44 f. Trabalho de Conclusão de Curso (Bacharelado em Engenharia Florestal) – Universidade de Brasília, Brasília, DF, 2013.

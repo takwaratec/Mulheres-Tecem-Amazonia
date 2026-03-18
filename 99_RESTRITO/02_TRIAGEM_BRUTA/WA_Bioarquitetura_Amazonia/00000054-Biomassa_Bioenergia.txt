@@ -1,0 +1,64 @@
+ Proposta de Expansão da Plataforma PU
+Vegetal: Bioenergia, Bioambiente e
+Saneamento
+A evolução da Plataforma Tecnológica Nacional, centrada no Poliuretano (PU) Vegetal de mamona, integra agora um ecossistema de bioenergia e novos materiais projetado especificamente para a realidade bioclimática da Amazônia. Este novo foco visa superar os desafios logísticos e ambientais da região, transformando o calor residual da produção de biocombustíveis na solução para o processamento de materiais bio-baseados e habitações de interesse social.
+1. Polo de P&D na Amazônia: Ciclo Térmico e
+Autonomia Energética
+A implantação de um polo de P&D focado em bioenergia na região amazônica, articulado por instituições como o INPA, UFPA e PCT Guamá, fundamenta-se na criação de um "loop térmico" que resolve o principal gargalo da região: a desidratação de resíduos lignocelulósicos.
+Solução para o Gargalo da Umidade
+A alta umidade amazônica exige processos intensivos de secagem preliminar para que a biomassa (bambu e resíduos de mamona) atinja os teores ideais para industrialização (
+). A estratégia complementar proposta utiliza o calor residual dos fornos de retorta e sistemas de gaseificação para alimentar estufas de secagem.
+● Recuperação de Calor: O uso de trocadores de calor nos fornos de carbonização permite injetar gases de menor temperatura na base do sistema, proporcionando ganhos de produtividade e eliminando a dependência de geradores a diesel ou climatizadores externos.
+● Ciclo Energético: O gás gerado no processo de pirólise rápida (   ) é reutilizado como combustível para alimentar o próprio sistema, fechando o ciclo de energia e reduzindo o custo operacional de desidratação.
+2. Bio-combustíveis Sólidos e Saneamento
+A densificação de biomassas residuais em briquetes e pellets, aliada à produção de carvão ativado, consolida a infraestrutura necessária para o desenvolvimento local.
+● Briquetes e Pellets: Produzidos a partir da torta de mamona e resíduos de bambu, estes
+ 
+ combustíveis possuem poder calorífico superior entre   e   . A
+compactação reduz custos logísticos de transporte em áreas remotas.
+● Carvão Ativado e Ecofiltros: A produção de carvão ativado a partir de caroços de açaí,
+bambu e cascas de tucumã, babaçu e outros, permite a montagem de sistemas de
+tratamento de água de baixo custo (STAC), com eficácia de   na eliminação de patógenos. Esta tecnologia garante segurança hídrica para comunidades isoladas por até 14 anos.
+3. Planejamento de Consolidação (Projeto 4 Anos -
+BNDES)
+O planejamento estratégico para a consolidação da plataforma via BNDES e Fundo Clima está estruturado para atingir escala industrial até 2026.
+     Fase
+Período
+Objetivos Principais
+Instrumentos de Fomento
+P&D e Prototipagem
+Ano 1
+Desenvolvimento de fornos de retorta com trocadores de calor; teste de secagem de bambu com calor residual.
+FINEP / BNDES Socioambiental 1
+Unidades Piloto
+Ano 2
+Instalação de micro-biofábricas de energia em 5 comunidades ribeirinhas; validação do loop térmico.
+Fundo Clima (Indústria Verde)
+Escala e Renda
+Ano 3
+Implementação de sistemas de saneamento (ecofiltros) e produção de biocompósitos para
+Mais Inovação Brasil (Missão 3)
+         
+       HIS.
+Consolidação
+Ano 4
+Certificação de créditos de carbono (Biochar); escala industrial para 50 polos regionais.
+BNDES Fundo Amazônia / COP30
+    4. Decisões da COP30 e Amparo à Iniciativa
+O "Pacote de Belém" e outras resoluções da COP30 fornecem o suporte político e financeiro para a execução deste plano:
+● BambooBoost: Parceria entre a UNFCCC e o INBAR para integrar o bambu nas políticas nacionais de adaptação até 2030.3
+● Bioeconomy Challenge: Formalização da bioeconomia como pilar da Action Agenda, com foco em soluções baseadas na natureza até 2028.4
+● NCQG: Triplicação do financiamento global para adaptação até 2035, facilitando o aporte de US$ 1,3 trilhão em infraestrutura resiliente.3
+Bibliografia Técnica (Normas ABNT)
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 13999: Determinação do resíduo (cinza) após a incineração a   . Rio de Janeiro: ABNT, 2003.
+BNDES. Nova Indústria Brasil: Plano de Ação 2024-2026. Brasília: MDIC/CNDI, 2024. 5 BRASIL. Lei no 12.484, de 8 de setembro de 2011. Política Nacional de Incentivo ao Manejo
+Sustentado e ao Cultivo do Bambu (PNMCB). Brasília: Presidência da República, 2011. 6 EMBRAPA. Produção de briquetes e péletes a partir de resíduos agrícolas,
+agroindustriais e florestais. Brasília, DF: Embrapa Agroenergia, 2012.
+MELO, Selma dos Santos. Produção de carvão ativado a partir da biomassa residual da castanha do Brasil (Bertholletia excelsa L.) para adsorção de cobre (II). 2012. Dissertação (Mestrado em Engenharia Química) - Universidade Federal do Pará, Belém, 2012.
+NOBRE, João Rodrigo Coimbra. Resíduos agroindustriais da região amazônica: potencial
+
+ na produção de carvão ativado. 2017. Tese (Doutorado) - Portal de Dados Abertos da CAPES, 2017.
+UFPA. Sistema de Tratamento de Água com Carvão Ativado (STAC) elaborado a partir do reaproveitamento de caroços de açaí (Euterpe oleracea Mart.). Belém: Repositório Institucional UFPA, 2024.
+ZAHARI, K. F. A. et al. Carvão ativado a partir de resíduos de bambu (Bambusa vulgaris)
+utilizando   como agente ativante para adsorção de azul de metileno e fenol.
+Ciência Florestal, v. 29, n. 2, p. 769–778, 2019.
