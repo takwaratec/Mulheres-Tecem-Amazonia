@@ -273,21 +273,23 @@
             border: 1px solid #fff;
         }
 
-        .floating-stats {
-            background: rgba(15, 23, 42, 0.6);
-            border-bottom: 1px solid var(--border);
-            padding: 15px;
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
+        .header-stats {
+            display: flex;
             gap: 10px;
+            margin-top: 10px;
+            font-size: 0.65rem;
+            font-weight: 800;
+            color: var(--success);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            border-top: 1px solid var(--border);
+            padding-top: 10px;
         }
 
-        @media (max-width: 768px) {
-            .floating-stats { 
-                grid-template-columns: 1fr;
-                gap: 5px;
-                padding: 10px;
-            }
+        .header-stats span {
+            display: flex;
+            align-items: center;
+            gap: 4px;
         }
 
         .stat-item {
@@ -431,13 +433,8 @@
             #close-sidebar { 
                 display: flex; 
                 z-index: 5001;
-                right: 70px; /* Move left to avoid zoom controls */
-            }
-            .floating-stats { 
-                left: 10px; 
-                top: 75px; 
-                width: 150px; 
-                padding: 10px; 
+                right: 20px; 
+                top: 20px;
             }
             #seasonal-panel {
                 left: 10px;
@@ -459,19 +456,10 @@
                 <span class="version-badge">SGMAS v6.6 | Cartilha Ilustrada</span>
                 <h1>PROJETO MULHERESQTF</h1>
                 <div class="tagline">Bioeconomia & Soberania Vegetal</div>
-            </div>
-            <div class="floating-stats">
-                <div class="stat-item">
-                    <div class="stat-label">HUBs N2 Ativos</div>
-                    <div class="stat-val" style="font-size: 0.9rem;">6 Unidades</div>
-                </div>
-                <div class="stat-item">
-                    <div class="stat-label">Alcance Social</div>
-                    <div class="stat-val" style="font-size: 0.9rem;">2.800 Famílias</div>
-                </div>
-                <div class="stat-item">
-                    <div class="stat-label">Fixação Carbono</div>
-                    <div class="stat-val" style="font-size: 0.9rem;">~41 MtCO2e</div>
+                <div class="header-stats">
+                    <span>📍 6 Hubs N2</span>
+                    <span>👥 2.800 Famílias</span>
+                    <span>🌿 ~41 MtCO2e</span>
                 </div>
             </div>
             <div class="content">
@@ -548,7 +536,7 @@
     <script>
         const map = L.map('map', { zoomControl: false }).setView([-5, -63], 5);
         L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png').addTo(map);
-        L.control.zoom({ position: 'topright' }).addTo(map);
+        L.control.zoom({ position: 'bottomright' }).addTo(map);
         let currentChart = null;
         const masterData = [
             {
