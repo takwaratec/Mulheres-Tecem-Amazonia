@@ -1,5 +1,5 @@
 ---
-description: Protocolo de Revisão Multicamadas (Advocacy 5.1)
+description: Protocolo de Revisão Multicamadas (Advocacy WTF)
 ---
 
 Este workflow deve ser acionado para revisar documentos técnicos ou de advocacy antes da publicação final.
@@ -13,4 +13,4 @@ Este workflow deve ser acionado para revisar documentos técnicos ou de advocacy
 5. **Relatório de Revisão**: Gere um breve resumo indicando se o arquivo está "Aprovado", "Aprovado com Ressalvas" ou "Necessita Revisão".
 
 // turbo
-**Comando Sugerido**: "Revise o arquivo [caminho] seguindo o protocolo de revisão Advocacy 5.1."
+**Comando Sugerido**: "Revise o arquivo [caminho] seguindo o protocolo de revisão Advocacy WTF."

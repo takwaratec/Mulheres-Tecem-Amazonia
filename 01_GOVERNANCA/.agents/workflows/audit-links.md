@@ -4,7 +4,7 @@ description: Varre o repositório em busca de link-rot nas evidências de denún
 
 # Workflow: `/audit-links`
 
-Como a Plataforma monitora ativamente FDDs, ONGs de fachada e fundos públicos que costumam promover greenwashing e desinformação legal (como no PL 6.289/2019 e a manobra da COP30), os URLs citados em dossiês e artigos frequentemente saem do ar. O `audit-links` automatiza a caçada a links quebrados antes que o acervo sofra perdas probatórias.
+Como o Projeto monitora ativamente FDDs, ONGs de fachada e fundos públicos que costumam promover greenwashing e desinformação legal (como no PL 6.289/2019 e manobras históricas do setor), os URLs citados em dossiês e artigos frequentemente saem do ar. O `audit-links` automatiza a caçada a links quebrados antes que o acervo sofra perdas probatórias.
 
 ## Instrução para o Agente:
 

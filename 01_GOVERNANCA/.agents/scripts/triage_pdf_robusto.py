@@ -15,7 +15,7 @@ except ImportError:
 # Configurações de Caminho (Relativas ao Repositório)
 # O usuário pode passar os caminhos via argumento ou usar os padrões abaixo
 PASTA_ORIGEM = sys.argv[1] if len(sys.argv) > 1 else "99_RESTRITO/02_TRIAGEM_BRUTA"
-PASTA_DESTINO = sys.argv[2] if len(sys.argv) > 2 else "01_SOMBRA_AUDITORIA/01_TECNOLOGIA_TAKWARA"
+PASTA_DESTINO = sys.argv[2] if len(sys.argv) > 2 else "02_TECNICO/02_ESTUDOS_E_PESQUISA"
 
 def extrair_texto_nativo(caminho_pdf):
     try:
@@ -29,9 +29,9 @@ def extrair_texto_nativo(caminho_pdf):
 def pedir_ao_gemini(texto, nome_arquivo):
     # Prompt de Biblioteconomista Sênior (Padrão Takwara/WTF)
     prompt = f"""
-    Aja como Biblioteconomista Sênior do Acervo Amazônia Regenerativa. 
+    Aja como Biblioteconomista Sênior do Acervo Mulheres Que Tecem a Floresta (WTF). 
     Analise este documento técnico: '{nome_arquivo}'.
-    Gere um arquivo Markdown estruturado seguindo o Padrão Advocacy 5.1:
+    Gere um arquivo Markdown estruturado seguindo o Padrão Advocacy WTF:
     
     1. Codificação: [Gerar sigla inteligente, ex: WTF-CAT-001 ou TAK-IMP-001]
     2. Área: [Categorize: Bioeconomia / Construção / Governança / etc]
@@ -50,8 +50,8 @@ def pedir_ao_gemini(texto, nome_arquivo):
     
     # Nota: Este script assume que o comando 'gemini' está no PATH do shell
     try:
-        # Usamos uma string única para o comando para evitar problemas de escape no shell
-        cmd = f"gemini '{prompt.replace(\"'\", \"'\\\\''\")}'"
+        prompt_escaped = prompt.replace("'", "'\\''")
+        cmd = f"gemini '{prompt_escaped}'"
         resultado = subprocess.run(['bash', '-c', cmd], capture_output=True, text=True)
         if resultado.returncode == 0:
             return resultado.stdout

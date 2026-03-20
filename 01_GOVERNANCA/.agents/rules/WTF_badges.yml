@@ -1,18 +1,11 @@
-# WTF Intelligent Cataloging Badges
+# WTF Institutional Cataloging Badges
 
-# Badge: Projeto WTF
+# Badge: Projeto Mulheres Que Tecem a Floresta
 projeto_wtf:
   label: "Projeto"
   message: "WTF"
   color: "orange"
-  link: "00_GOVERNANCA/GOV_projeto-mulheres-que-tecem-a-floresta.md"
-
-# Badge: Powered by PAR 5.1
-powered_by_par:
-  label: "Powered by"
-  message: "PAR 5.1"
-  color: "green"
-  link: "index.md"
+  link: "01_GOVERNANCA/GOV01_Mulheres-que-tecem-a-floresta.md"
 
 # Badge: Consórcio UnB-UFAC-UFRR
 consorcio_wtf:
@@ -22,4 +15,4 @@ consorcio_wtf:
 
 # Template de Citação (Markdown)
 citation_template: >
-  "TAKWARA, F. R.; CRUZ, T. C.; MARISE, S.; FERKO, G.; FERNANDES, V. [et al.]. **Mulheres Que Tecem a Floresta**. v1.0. 2026. Baseado na arquitetura técnica PAR 5.1."
+  "Coordenação Técnica; CRUZ, T. C.; MARISE, S.; FERKO, G.; FERNANDES, V. [et al.]. **Mulheres Que Tecem a Floresta**. v1.0. 2026. Protocolo Institucional."

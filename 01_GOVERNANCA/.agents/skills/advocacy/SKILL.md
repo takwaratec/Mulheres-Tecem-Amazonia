@@ -1,16 +1,18 @@
 ---
 name: Advocacy Skill
-description: Protocolo de redação, denúncia e advocacy estratégico sob o padrão Advocacy 5.1.
+description: Protocolo de redação, denúncia e advocacy estratégico sob o padrão Advocacy WTF.
 ---
 
 # Advocacy Skill
 
 Esta Skill orienta a produção de dossiês, cartas-denúncia, e análises críticas destinadas a influenciar políticas públicas e combater a má gestão ambiental/social.
 
-## Diretrizes de Advocacy 5.1
+## Diretrizes de Advocacy WTF (Mulheres Que Tecem a Floresta)
 - **Factualidade Radical**: Todas as alegações devem ser baseadas em evidências auditáveis ou fontes internas documentadas.
 - **Independência**: Foco no bem comum e na soberania amazônica, livre de influências corporativas ou corrupção.
 - **Linguagem de Impacto**: Termos diretos, sem eufemismos para "tecnofeudalismo", "bio-colonialismo" ou "má gestão".
+- **IA-Free Writing**: Proibição de marcadores robóticos. A escrita deve ser técnica, direta e autoral.
+- **Autoridade UnB/UFAC/UFRR**: Alinhamento com a coordenação nacional do Consórcio Proponente.
 
 ## Protocolo de Denúncia
 - **Estrutura**: Fato -> Prova/Documento -> Consequência Socioambiental -> Exigência de Reparação/Mudança.

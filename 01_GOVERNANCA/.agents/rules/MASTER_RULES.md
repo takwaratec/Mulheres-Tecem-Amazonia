@@ -1,38 +1,34 @@
-# MASTER_RULES — Governança Digital Takwara
+# MASTER_RULES — Governança Institucional Mulheres Que Tecem a Floresta
 
-Este documento é a autoridade suprema para a operação de agentes de IA na Plataforma Amazônia Regenerativa, resolvendo conflitos entre protocolos anteriores.
+Este documento é a autoridade suprema para a operação de agentes de IA no Projeto Mulheres Que Tecem a Floresta, resolvendo conflitos entre protocolos anteriores.
 
 ## 1. Regra de Ouro: Fluxo de Trabalho e Locking
-- **Locking da Pasta `docs/`**: A pasta `docs/` é estritamente de **LEITURA** para agentes de IA para conteúdo de texto. 
-    - *Exceção*: Atribuição de metadados de cabeçalho (YAML), rodapé, badges e versão é permitida quando identificado erro de conformidade pré-commit.
-- **Shadow Staging**: Todo o trabalho de pesquisa, redação e revisão ocorre em `01_SOMBRA_AUDITORIA/`.
-- **Batch Promotion**: A promoção de arquivos de `01_SOMBRA_AUDITORIA/` para `docs/` ocorre apenas em **Lote**, após auditoria humana.
-- **Zenodo Release**: Após o commit de atualização de versão em `docs/`, o agente deve criar o arquivo `.zip` correspondente para o release Zenodo.
+- **Locking da Produção Concluída**: Arquivos nas pastas `01`, `02`, `03` e `05` são estritamente de **LEITURA** para agentes de IA para conteúdo de texto após consolidados. 
+    - *Exceção*: Atribuição de metadados de cabeçalho (YAML), rodapé, badges e versão é permitida.
+- **Shadow Staging**: Todo o trabalho de pesquisa, redação e revisão ocorre em `04_PESQUISA_ANDAMENTO/`.
+- **Batch Promotion**: A promoção de arquivos de `04_PESQUISA_ANDAMENTO/` para as pastas de governança ou técnica ocorre apenas em **Lote**, após auditoria humana.
+- **Zenodo Release**: Após a consolidação, o agente deve auxiliar na preparação do pacote para o release Zenodo institucional.
 
-## 2. Padrão de Versionamento Diferenciado e Visibilidade
-- **Versão de Publicação (Zenodo)**: Fixa em **v2.0 (Consolidada)**. Todos os arquivos promovidos para `docs/` devem portar o cabeçalho de versão 2.0.
-- **Versão de Trabalho (Interna)**: **v2.2.2**. Arquivos em `01_SOMBRA_AUDITORIA/` indicam status de auditoria/catalogação.
-- **Visibilidade**: Commits em `01_SOMBRA_AUDITORIA` são permitidos apenas para backup na raiz. O conteúdo da Sombra **NUNCA** deve aparecer no MkDocs, GitHub Pages ou `index.md` público (exceto após promoção para `docs/`).
+## 2. Padrão de Versionamento e Visibilidade
+- **Versão Institucional**: **v1.0 (WTF)**.
+- **Versão de Trabalho**: Arquivos em `04_PESQUISA_ANDAMENTO/` indicam status de curadoria/catalogação.
+- **Visibilidade**: Conteúdos em `01_GOVERNANCA` e `02_TECNICO` são a base institucional. A pasta `99_RESTRITO` jamais deve ser exposta.
 
-## 3. Imutabilidade, Paridade e Auditoria de Lote
-- **Corpo do Texto**: Imutável para blogs (`07_`) e documentos com DOI.
-- **Metadados (Frontmatter)**: Edição autorizada apenas para paridade (Links, DOI, Tags v2.0).
-- **Catalogação na Sombra**: Tudo o que entra em `01_SOMBRA_AUDITORIA` deve estar catalogado com tags e status definidos (Pesquisa, Rascunho, Complemento, Nota Técnica (NT), Memorando, Memorial Descritivo). 
-- **Relacionamento de Ativos**: Cada arquivo na Sombra deve estar relacionado a um relatório, boletim ou memorando publicado (ou finalidade específica).
-- **Comprometimento Ético**: Agentes **NUNCA** devem solicitar autorização de commit ao autor. Nada é commitado sem avaliação humana prévia e report detalhado.
+## 3. Imutabilidade e Auditoria
+- **Imutabilidade Corpo do Texto**: Imutável para artigos consolidados e documentos com DOI.
+- **Metadados (Frontmatter)**: Edição autorizada para paridade de links e tags.
+- **Catalogação**: Tudo o que entra em `04_PESQUISA_ANDAMENTO` deve estar catalogado com tags e status definidos (Pesquisa, Rascunho, Nota Técnica, Memorando, Memorial Descritivo). 
+- **Comprometimento Ético**: Nada é consolidado sem avaliação humana prévia e report detalhado.
 
 ## 4. Identidade Visual (Módulo E)
-- **Material Técnico/Memoriais**: Imagens realistas (CAD).
-- **Cartilhas/Didáticos**: Versão ilustrada (Sketched/Henfil/Warhol).
-- **Procedimento**: O agente deve **SEMPRE** perguntar qual estilo utilizar para cada imagem solicitada via integração "nlm".
-- **Moldura**: Pass-partout branco e assinatura **Takwara 2026** (canto inferior esquerdo).
+- **Material Técnico/Memoriais**: Imagens realistas (CAD ou Salgado P&B).
+- **Cartilhas/Didáticos**: Versão ilustrada (Henfil/Warhol).
+- **Moldura**: Pass-partout branco e assinatura **Projeto WTF 2026** (canto inferior esquerdo).
 
-## 5. Regras de Segurança e Mentoria (Firewall)
-- **Protocolo de Triage e Gestão Compartilhada**: 
-    - **Prof. Tania** (Mentoria Global): Validação de Soberania e Estratégia.
-    - **Prof. Sônia** (Açaí-Castanhas): Autoridade técnica em Bioeconomia de base florestal.
-    - **Prof. Geórgia** (Artesanato): Guardiã da Identidade Visual e Design Social.
-    - **Prof. Vanessa** (Financeiro/Auditoria): Controle de paridade e transparência fiscal.
-- **Alerta de Mentoria**: É proibido ignorar ou desconsiderar solicitações de **Mentoria de Gestão**. Se detectado, o Agente deve emitir um alerta crítico ao Operador.
+## 5. Regras de Segurança e Mentoria
+- **Consórcio UnB/UFAC/UFRR**:
+    - **Mentoria Global**: Validação de Soberania e Estratégia.
+    - **Bioeconomia de Base Florestal**: Autoridade técnica em Castanha, Açaí e Artesanato.
+    - **Financeiro/Auditoria**: Controle de paridade BNDES Model-01.
 - **Segurança**: Dados da pasta `99_RESTRITO/` não podem ser citados em documentos públicos.
-- **Commit**: Restrito a Biblioteconomia ou Humano após report detalhado.
+- **Regra Temporal (Incorruptível)**: O projeto opera no cenário **Pós-COP30** (2026+). Todas as metas descritas como "futuro para a COP30" devem ser tratadas como legados ou marcos já superados. O foco atual é a consolidação e escala dos resultados.

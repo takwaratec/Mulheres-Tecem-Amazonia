@@ -1,0 +1,324 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFAC/UFRR
+equipe: Gestão e Parceria Regional
+tipo: Acervo de Consulta RAW (Transcrição)
+autor: Acervo Digital WTF
+data: '2025'
+---
+10.18606/2318-1419/amazonia.sci.health.v9n4p2-16
+ ARTIGO ORIGINAL
+<< Recebido em: 03/09/2021 Aceito em: 16/11/2021. >>
+Prospecção de perfis epidemiológicos de intoxicações exógenas por agrotóxicos dos Estados da Região Norte do Brasil nos anos de 2007 a 2020
+Prospection of epidemiological profiles of exogenous pesticide poisoning in the States of the Northern Region of Brazil in the years 2007 to 2020
+     Railton Dias Gomes1, João Victor Gomes Oliveira2
+RESUMO
+Em virtude do alto índice de contaminação causado pela aplicação de agrotóxicos no setor agropecuário, as necessidades de estudos tornam-se necessários quanto aos riscos enfrentados por quem desempenha atividades rurais. Os agrotóxicos comumente utilizados possibilitam alta eficiência trazendo a possibilidade de prevenir, destruir, repelir e inibir a ocorrência ou efeito de organismos prejudiciais às lavouras, deixando o Brasil nas primeiras posições mundiais em produção agrícola. Contudo a alta eficiência trouxe pontos negativos à saúde humana devido o contato excessivo com agroquímicos, gerando desde casos leves de intoxicações exógenas a graves. Neste sentido, o trabalho tem por objetivo a realização de um estudo epidemiológico retrospectivo das intoxicações por agrotóxicos na região Norte do Brasil, refletindo acerca dos possíveis fatores causais. A partir dos resultados obtidos foi possível depreender que os grupos de indivíduos mais acometidos são os do sexo masculino, que estão numa faixa etária entre 20 e 39 anos, apresentando cor da pele parda e que evoluem para cura sem sequela. Notou-se também o papel de destaque do Estado do Tocantins nas taxas de incidência. Nesta perspectiva geral, estabelecem-se pontos que devem ser avaliados pelas autoridades competentes acerca do uso de EPI’s e fiscalização da utilização de agrotóxicos.
+Palavras-chave: Lavouras. Epidemiologia. Agroquímicos. Fatores causais. ABSTRACT
+Due to the high level of contamination caused by the application of pesticides in the agricultural sector, the need for studies become necessary regarding the risks faced by those who carry out rural activities. Commonly used pesticides enable high efficiency, bringing the possibility of preventing, destroying, repelling and inhibiting the occurrence or effect of harmful organisms to crops, leaving Brazil in the first positions in the world in agricultural production. However, the high efficiency brought negative points to human health due to excessive contact with agrochemicals, generating from mild cases of exogenous to severe poisoning. In this sense, the work aims to carry out a retrospective epidemiological study of pesticide poisoning in the North of Brazil, reflecting on possible causal factors. From the results obtained, it was possible to infer that the groups of individuals most affected are males, aged between 20 and 39 years, with brown skin color and evolving to cure without sequelae. The prominent role of the State of Tocantins in incidence rates was also noted. In this general perspective, points are established that must be evaluated by the competent authorities regarding the use of PPE's and inspection of the use of pesticides.
+Keywords: Agriculture. Epidemiology. Agrochemicals. Causal factors.
+1 Graduado em Medicina pela Universidade de Gurupi (Unirg).
+E-mail: rdg995@gmail.com
+Orcid: https://orcid.org/0000- 0002-4950-6294
+2 Mestre em Agroenergia pela Universidade Federal do Tocantins. Graduado em Engenharia de Bioprocessos e Biotecnologia pela Universidade Federal do Tocantins.
+E-mail: jvoliveira@uft.edu.br Orcid: https://orcid.org/0000- 0003-0877-9461
+     2
+
+DOI: 10.18606/2318-1419/amazonia.sci.health.v9n4p2-16 Revista Amazônia Science & Health
+2021, Vol. 9, No 4
+1. INTRODUÇÃO
+OLIVEIRA, JVG.; GOMES, R.D.
+Prospecção de perfis epidemiológicos de intoxicações exógenas por agrotóxicos dos Estados da Região Norte do Brasil nos anos de 2007 a 2020.
+A
+   A utilização de agrotóxicos na agricultura é vasta e extensiva e teve início com a revolução verde em 1950, com intuito de melhorar o processo de produção, auxiliando no controle de pragas de maneira mais efetiva. Assim, aumentando a produtividade das lavouras e consequentemente maiores índices de alimentos disponíveis.1
+Os agrotóxicos, também conhecidos como defensivos agrícolas químicos, pesticidas, praguicidas, são definidos como produtos químicos empregados para prevenir, destruir, repelir ou inibir a ocorrência ou efeito de organismos vivos capazes de prejudicar as lavouras agrícolas.2
+Há diversos defensivos para diferentes contaminantes, como fungos, bactérias e plantas infestantes. Os mais utilizados no Brasil atualmente são os herbicidas, uma classe de defensivos que obteve a maior demanda pela agricultura. Pode-se atribuir essa grande demanda à expansão das lavouras brasileiras e exigência de mais insumos devido evolução de plantas infestantes resistentes.3
+Outro fator que impulsiona a utilização de agrotóxicos é a vasta área cultivável brasileira, principalmente da região norte do Estado, em que há grandes espaços de terra e climas vantajosos para produção de matrizes como soja, milho, arroz, sorgo dentre outros. Todavia, em detrimento de seus benefícios, o uso intensivo dos químicos agrícolas ao longo dos anos tem provocado o acúmulo de resíduos químicos nocivos na água, no solo e no ar. Tal situação tem implicado em diversos problemas relacionados com a contaminação ambiental e problemas na saúde pública.4,5
+O uso de agrotóxicos apresenta certo grau de toxicidade que utilizado de forma inadequada pode causar sérios danos à saúde humana, podendo promover problemas como intoxicações aguda ou crônica. A intoxicação aguda se refere a um quadro clínico de início súbito de sinais e sintomas, acontecendo isto de minutos a horas após a exposição ao agente nocivo. A intoxicação crônica se dá depois um período de meses a anos de repetidas exposições à substância, acarretando desde complicações iniciais em órgãos e sistemas até mesmo danos ao material genético, possibilitando o surgimento de neoplasias malignas.6
+Dentre os componentes usados para a fabricação dos agrotóxicos mais comercializados no Brasil, mostram-se prevalentes os organofosforados e carbamatos. Estas substâncias, classificadas como inibidores de colinesterase, que age impedindo a
+  3
+ 
+DOI: 10.18606/2318-1419/amazonia.sci.health.v9n4p2-16 Revista Amazônia Science & Health
+2021, Vol. 9, No 4
+ação da acetilcolinestarase, enzima responsável pela degradação da acetilcolina. Este impedimento leva o organismo a um acúmulo deste neurotransmissor, que evolui para manifestações tóxicas agudas, denominadas toxíndrome colinérgica ou síndrome colinérgica aguda. Ela desencadeia sintomas muscarínicos e nicotínicos, por exemplo, alterações na cinética cardíaca, alterações oculares como diminuição da acuidade visual, miose e o lacrimejamento excessivo, secreção aumentada de fluidos como salivação e sudorese exagerada, além de sintomas neurológicos como astenia, fasciculações e convulsões.7,8,9
+Dentre as consequências crônicas destacam-se a polineuropatia tardia e sintomas neuropsiquiátricos crônicos. Este apresenta cefaleia, amnesia, confusão mental, labilidade emocional e depressão e aquele se caracteriza por parestesias e diminuição de reflexos tendinosos, podendo ainda progredir para ataxia, flacidez muscular e tetraplegia.10
+A notificação por intoxicação por agrotóxicos é compulsória, regulada pelas portarias no 777, de 28 de abril de 2004 e no 104, de 25 de janeiro de 2011 devendo ser realizada pelo corpo de saúde da instituição que acolhe a vítima do infortúnio em até 24 horas. A incidência destas notificações no ano de 2014 foi de 6,26 casos a cada 100 mil habitantes, tendo o Estado do Tocantins neste ano a maior média nacional (18,71/100 mil hab.). Neste mesmo ano os Estados com maior ocorrência de óbitos foram Roraima (0,8/100 mil hab.) e Rondônia (0,46/100 mil hab.) mostrando a importância do estudo voltado a região Norte do Brasil11. Assim, o trabalho faz um estudo das consequências da utilização de agrotóxicos agrícolas. Já que este é um dos maiores geradores de notificações de intoxicações, nesse viés foram analisados via literaturas das bases do Ministério da Saúde índices de contaminação por diferentes parâmetros para as cidades Norte do Brasil.
+2. MATERIAIS E MÉTODOS
+Estudo epidemiológico, transversal e retrospectivo que teve suas informações oriundas da base de dados do Departamento de Informática do Sistema Único de Saúde (DATASUS) através da plataforma TABNET pelo endereço eletrônico: http://www2.datasus.gov.br/DATASUS/index.php?area=02 acessado no dia 25/05/2021.
+Pela seção de “epidemiológicas e morbidade”, foram selecionados os itens “Doenças e Agravos de Notificação - 2007 em diante (SINAN)”, “intoxicação exógena” e “Brasil por Região, UF e Município” subsequentemente. O agente tóxico escolhido foi: “agrotóxico agrícola”. Para análise epidemiológica, usando a Região Norte, foram incluídos os
+OLIVEIRA, JVG.; GOMES, R.D.
+Prospecção de perfis epidemiológicos de intoxicações exógenas por agrotóxicos dos Estados da Região Norte do Brasil nos anos de 2007 a 2020.
+A
+     4
+ 
+DOI: 10.18606/2318-1419/amazonia.sci.health.v9n4p2-16 Revista Amazônia Science & Health
+2021, Vol. 9, No 4
+parâmetros: “por faixa etária”, “por sexo”, “por raça”, “por ano dos primeiros sintomas” e “evolução do caso”.
+O critério de inclusão para os casos foi contabilizar as informações compreendidas no período de 2007 a 2020 (ano de análise mais recente das bases de dados), excluindo todos os dados que não se enquadraram no período. Também foram excluídos os dados de pessoas não residentes no Brasil e as duplicidades.
+Após extração de dados, foi realizado um agrupamento e tabulado por planilhas através do programa Microsoft Excel. Foram conduzidos cálculos de porcentagem simples, desvios padrão representados graficamente. Todos os gráficos foram produzidos por MS Excel e OriginPro (versão 2021). A partir de revisões bibliográficas e dados coletados da literatura foram discutidos os resultados encontrados.
+3. RESULTADOS
+A região norte compreendida na análise mostrou tamanho final de amostras de 3.331 casos entre os anos de 2007 até 2020, a saber a região Norte demonstrou o maior número de casos no Brasil. Sendo representados na figura 1 em intensidade de cor vermelha para Estados com maiores percentuais. Assim, foram registrados 1068 casos em Rondônia (32%), 155 no Amazonas (4,65%), 126 em Roraima (3,78%), 3 no Amapá (0,1%), 106 no Acre (3,18%), 602 no Pará (18%) e 1271 no Tocantins (38%).
+Os Estados com maiores índices de casos são Tocantins e Rondônia até 2020, ano mais recente registrado, e apresentaram cor mais avermelhada que os demais.
+OLIVEIRA, JVG.; GOMES, R.D.
+Prospecção de perfis epidemiológicos de intoxicações exógenas por agrotóxicos dos Estados da Região Norte do Brasil nos anos de 2007 a 2020.
+A
+     5
+ 
+DOI: 10.18606/2318-1419/amazonia.sci.health.v9n4p2-16 Revista Amazônia Science & Health
+2021, Vol. 9, No 4
+Figura 1: Valor total de casos por Estados de 2007 a 2020.
+OLIVEIRA, JVG.; GOMES, R.D.
+Prospecção de perfis epidemiológicos de intoxicações exógenas por agrotóxicos dos Estados da Região Norte do Brasil nos anos de 2007 a 2020.
+A
+   Fonte: DATASUS (2020).
+O Gráfico 1 mostra a média de casos de intoxicação entre os anos de 2011 a 2015 e entre 2016 e 2020. Os Estados que apresentaram maiores acréscimos foram Rondônia com 200%, o Pará com 340% e Tocantins com 118%. A análise partiu de cálculos de médias: o primeiro dos anos 2011 a 2015 plotados em caixote cor cinza e o segundo com linha e marcadores para 2016 até 2020.
+  6
+ 
+DOI: 10.18606/2318-1419/amazonia.sci.health.v9n4p2-16 Revista Amazônia Science & Health
+2021, Vol. 9, No 4
+Gráfico 1: Análise da evolução de casos de intoxicação em anos
+                 100
+                  80
+                  60
+                  40
+                  20
+                   0
+Fonte: DATASUS (2020).
+A
+OLIVEIRA, JVG.; GOMES, R.D.
+Prospecção de perfis epidemiológicos de intoxicações exógenas por agrotóxicos dos Estados da Região Norte do Brasil nos anos de 2007 a 2020.
+                               140
+                               120
+                               100
+                               80
+                               60
+                               40
+                               20
+                               0
+     Anos (2011-2015) Anos (2016-2020)
+       Anos (2011-2015)
+Anos (2016-2020)
+ Rondônia Acre Amazonas Roraima Pará Amapá Tocantins
+Estados
+As médias para 2011 a 2015 foram: Rondônia 67 (DP=6,27); Acre 0; Amazonas 10 (DP=5,46); Roraima 5 (DP=6,00); Pará 27 (DP=9,27); Amapá 0; Tocantins 96 (DP=28,51). Já para os anos de 2016 a 2020: Rondônia 135 (DP=65,65); Acre 20 (DP=13.72); Amazonas 19 (DP=3,67); Roraima 16 (DP=8,87); Pará 92 (DP=34,91); Amapá 0; Tocantins 114 (DP=36,92).
+O alto desvio padrão do espaço amostral dos anos 2016 até 2020 verificados nos Estados da região demonstraram que os dados estão distantes da média registrados e apresentaram uma gama de valores diferentes, por exemplo, Tocantins com 154 casos em 2019 e 54 casos em 2020 ou Rondônia com 170 casos em 2019 e 0 casos em 2020. Neste sentido, foi escolhido a utilização de intervalos de 5 em 5 anos.
+Já no grupo de gráficos da Figura 2 é possível verificar os níveis de intoxicação por idade, sendo estas de menos 1 ano até mais de 80 anos. É importante destacar que para algumas etapas como a plotagem dos gráficos (figura 2), não foi utilizado o Estado do Amapá, pois apresentou menor valor, assim, não apresentou significância numérica, pouco
+  7
+ 
+DOI: 10.18606/2318-1419/amazonia.sci.health.v9n4p2-16 Revista Amazônia Science & Health
+2021, Vol. 9, No 4
+mais de 3 casos foram coletados da plataforma TABNET, sendo 2 casos (20-39 anos), 1 caso (40-59 anos).
+Ambos os Estados representados na figura 2 mostraram perfil de maior contaminação para idades entre 20 e 39 anos. Iniciando este perfil de crescimento entre 15 e 19 anos e queda para idades 40 e 59.
+Figura 2: Grupos de gráficos em pirâmide de casos de intoxicação por idade: (a) Estados do Acre e Amazonas; (b) Estados de Roraima e Pará e (c) Estados do Tocantins e Rondônia.
+OLIVEIRA, JVG.; GOMES, R.D.
+Prospecção de perfis epidemiológicos de intoxicações exógenas por agrotóxicos dos Estados da Região Norte do Brasil nos anos de 2007 a 2020.
+A
+       80 e + anos 70-79 anos 65-69 anos 60-64 anos 40-59 anos 20-39 anos 15-19 anos 10-14 anos
+5-9 anos 1-4 anos <1 ano
+(a)
+8070605040302010 0 1020304050607080
+80 e + anos
+70-79 anos (b) 65-69 anos
+60-64 anos
+40-59 anos
+20-39 anos
+15-19 anos
+10-14 anos
+5-9 anos 1-4 anos <1 ano
+300250200150100 50 0 50 100150200250300 Roraima Pará
+Acre
+Amazonas
+80 e + anos
+70-79 anos (c) 65-69 anos
+60-64 anos
+40-59 anos
+20-39 anos
+15-19 anos
+10-14 anos
+5-9 anos 1-4 anos <1 ano
+Acre Amazonas
+Roraima Pará
+         600 500 400 300 200 100
+Rondônia
+0
+100 200 300 400 500 600 Tocantins
+Fonte: DATASUS (2020).
+No gráfico 2 é possível observar os Estados e seus respectivos impactos frente a
+intoxicação por agrotóxicos, os parâmetros utilizados aqui foram: Ign/Branco, cura sem
+Rondônia Tocantins
+      8
+ 
+DOI: 10.18606/2318-1419/amazonia.sci.health.v9n4p2-16 Revista Amazônia Science & Health
+2021, Vol. 9, No 4
+sequela, cura com sequela e óbito por intoxicação exógena. Assim, foram adicionados os dados percentuais em colunas separadamente à cada Estado correspondente na plotagem. Nota-se que todos os Estados apresentaram aos casos registrados cura sem sequela (valores acima de 60%). Amazonas e Roraima com menor percentual de óbitos,
+OLIVEIRA, JVG.; GOMES, R.D.
+Prospecção de perfis epidemiológicos de intoxicações exógenas por agrotóxicos dos Estados da Região Norte do Brasil nos anos de 2007 a 2020.
+A
+  apenas 1%, enquanto Rondônia representou maior faixa com cerca de 9%. Gráfico 2: Impactos das intoxicações ao longo dos anos
+  T ocantins Amapá Pará Roraima Amazonas Acre Rondônia
+9%
+87% 100%
+3%1%
+3%4% 4%1% 5%1%
+2% 4% 9%
+Casos registrados
+  15%
+ 79%
+  33%
+ 62%
+  12%
+ 82%
+  31%
+9%
+67%
+  Óbito por intoxicação Exógena Cura com sequela
+Cura sem sequela
+Ign/Branco
+Fonte: Adaptado DATASUS (2020).
+Os casos clínicos apresentados são em sua maioria do sexo masculino, isso pode ser constatado consoante ao Gráfico 3 que representou numericamente os índices de casos entre homens e mulheres. Neste plano a reta y (esquerda) indicada por “masculino” apresenta faixa de 0 a 1000 indivíduos e reta y (direita) indicada como “feminino” apresenta faixa de 0 a 350 indivíduos. O alto valor dos Estados do Tocantins, Rondônia e Pará ratificam a alta taxa de casos de intoxicação mesmo sem sequelas do supracitado gráfico 2.
+78%
+  9
+ 
+DOI: 10.18606/2318-1419/amazonia.sci.health.v9n4p2-16 Revista Amazônia Science & Health
+2021, Vol. 9, No 4
+Gráfico 3: Associação entre sexo e intoxicação 1000
+            800
+            600
+            400
+            200
+A
+OLIVEIRA, JVG.; GOMES, R.D.
+Prospecção de perfis epidemiológicos de intoxicações exógenas por agrotóxicos dos Estados da Região Norte do Brasil nos anos de 2007 a 2020.
+                               350
+                               300
+                               250
+                               200
+                               150
+                               100
+                               50
+     960
+   746
+  322
+118 78
+Masculino Feminino
+99
+283727 12
+397
+ 205
+311
+ Masculino
+Feminino
+00 Rondônia Acre Amazonas Roraima Pará Amapá Tocantins
+Estados
+ Fonte: Adaptado SINAN (2007) e DATASUS (2020).
+O gráfico 4 apresenta os registros de intoxicação por perfis de raça. Sendo assim, cada valor percentual representado nas colunas é do espaço amostral daquele Estado correspondente. Sendo seus valores totais: 1271, Tocantins; 1068, Rondônia; 106, Acre; 155, Amazonas; 126, Roraima; 602, Pará e 3, Amapá.
+Na classificação de raça o perfil representou um maior número de intoxicações para pardos (valor total=2428). Com exceção apenas de Rondônia e Amazonas que apresentaram altos índices para brancos (274 casos registrados, 26%e 37 casos registrados, 24%; respectivamente). Os demais Estados apresentaram baixos índices de contaminação principalmente para indígenas, amarelos, pretos e brancos.
+O Estado do Tocantins apresentou o maior índice de casos registrados, cerca de 1034 equivalente a 81% de todo o espaço amostral de registros do Estado.
+  10
+ 
+DOI: 10.18606/2318-1419/amazonia.sci.health.v9n4p2-16 Revista Amazônia Science & Health
+2021, Vol. 9, No 4
+Gráfico 4: Registros de intoxicação por raça
+100
+80
+60
+40
+20
+0
+1% 0% 5% 2% 0% 0% 0%
+OLIVEIRA, JVG.; GOMES, R.D.
+Prospecção de perfis epidemiológicos de intoxicações exógenas por agrotóxicos dos Estados da Região Norte do Brasil nos anos de 2007 a 2020.
+A
+          Ign/Branco Branca Preta Amarela Parda Indigena
+61%
+1% 7%
+5%
+0%
+89%
+3%
+81%
+57%
+0% 1%
+24%
+70%
+77%
+100%
+9% 2%6%1%
+          26%
+1%
+10% 10% 6% 6%
+6%
+9% 0% 2%
+3% 13% 5%
+Rondônia Acre AmazonasRoraima Pará Amapá Tocantins Estados
+Fonte: Adaptado SINAN (2007) e DATASUS (2020). 4. DISCUSSÃO
+Segundo a portaria no 264 de 17 de fevereiro de 2020, as Intoxicações Exógenas (por substâncias químicas, incluindo agrotóxicos, gases tóxicos e metais pesados) devem ser de notificação compulsória com uma periodicidade semanal12. Esta normativa tem por objetivo identificar dados epidemiológicos para o Ministério da Saúde para que o mesmo tome as devidas providências. Com os resultados do presente artigo é possível cogitar a possibilidade de subnotificações em alguns Estados da região, como o Amapá, que notificou apenas 3 casos no período do estudo, sendo necessárias análises posteriores das justificativas da baixa taxa de incidência nesta localização e nas demais.
+Possibilidade que deve ser levada em consideração, pois nos anos de 2007 a 2010 foram apresentados índices ínfimos e até mesmo algumas cidades não mostraram nenhum caso nas bases de busca. Sem fundamentações, há possíveis argumentos que podem ser descritos para estes resultados como: baixa procura de indivíduos com queixas de contaminação nessa faixa de tempo ou mesmo baixa produção agrícola e por sua vez utilização de agroquímicos em algumas cidades. Contudo, as implicações nessa faixa de
+   11
+ 
+DOI: 10.18606/2318-1419/amazonia.sci.health.v9n4p2-16 Revista Amazônia Science & Health
+2021, Vol. 9, No 4
+tempo promovidas pelo setor agronômico que estava em seu auge para algumas cidades da região, impulsionaram o uso intensivo de agroquímicos e corroborou para os casos gravosos já no ano seguinte, 2011.
+Quanto a taxa de evolução dos casos, notou-se que houve um acréscimo considerável no número de notificações com destaque para o Estado do Pará (340%), visto no gráfico 1. Esta maior taxa de incidência ao longo dos anos tende a ter como motivos dois prováveis fatores: melhora dos recursos de investigação, diagnóstico e divulgação de dados de intoxicações e pela maior comercialização de agrotóxicos em nível nacional 10. Esse último citado, munido à ausência de controle tende a alavancar ainda mais os números de casos, devido não somente o aumento e estimulação da agricultura, mas do uso exacerbado destes constituintes tóxicos sem se quer presença de políticas de redução na aplicação dos agroquímicos nas lavouras17,18.
+Tocantins e Rondônia foram os dois Estados com maior número de casos registrados, com n=1271 e n=1068 respectivamente, correspondendo a aproximadamente 70% de toda a região. Estes dados corroboram com o Relatório Nacional de Vigilância em Saúde de Populações Expostas a Agrotóxicos de 2018 que demonstra essas duas unidades federativas como 11a e 17a no ranque nacional10. Necessita-se diante deste cenário que os serviços de vigilância em saúde angariem esforços a fim de reduzir e buscar as causas de contaminações. Ainda, a ausência de itens básicos como Equipamentos de Proteção Individuais - EPI’s (normas exigidas por agências e serviços técnico-ambientais) não podem ser ignorados, mas, sim promovidos como principal parâmetro da fiscalização19.
+A falta de uso dos EPI’s pode ser explicada pelo fato de que algumas tecnologias não chegam a certos lugares do Brasil e os mecanismos de EPI’s apresentados são precários ou mesmo não indicados para aplicações, e por este fortuito muitos realizam suas atividades laborais sem quaisquer proteções. Historicamente, o aceite de EPI para aplicações de agrotóxicos era quase nulo principalmente pelas condições ergonômicas ruins como indesejáveis incômodos de uso, alto estresse térmico, promovendo até mesmo doenças aos trabalhadores por utilizarem destes para própria segurança.
+Notou-se que a raça mais acometida na região Norte foi a de pardos, excetuando-se casos específicos como Rondônia e Amazônia, onde os brancos foram os mais contaminados. A relação que se pode criar com esta informação é com a quantidade de brasileiros que se autodeclaram com estas cores de pele, sendo 42,7% brancos, 46,8% pardos, 9,4% como pretos e 1,1% como amarelos ou indígenas, segundo dados da
+OLIVEIRA, JVG.; GOMES, R.D.
+Prospecção de perfis epidemiológicos de intoxicações exógenas por agrotóxicos dos Estados da Região Norte do Brasil nos anos de 2007 a 2020.
+A
+    12
+ 
+DOI: 10.18606/2318-1419/amazonia.sci.health.v9n4p2-16 Revista Amazônia Science & Health
+2021, Vol. 9, No 4
+Pesquisa Nacional por Amostra de Domicílios (PNAD) 201914. Cabem pesquisas para esclarecer se a relação se dá puramente pela maior quantidade de pessoas autodeclaradas pardas ou se culturalmente/historicamente compreendem grupos prevalentes nos trabalhos rurais. Sobre esta questão coloca-se em pauta também os aspectos econômicos, podendo este auxiliar na descrição de grande parte das características dos perfis epidemiológicos da região, pois sem tecnologias adequadas geralmente os mais pobres não tem acesso a EPI’s efetivos, fator que não deveria existir uma vez que os aspectos preventivos da saúde devem ser para todos independendo a classe social que participe19.
+Em todo o período e em toda a região estudada, os índices de cura sem sequelas é maior que os que evoluem com sequelas ou óbitos e isso se dá possivelmente pelo tipo de exposição não grave, pelo tipo do agente nocivo, pela busca imediata ao sistema de saúde que garante oferta aos contaminados. Mesmo sendo maior que muitos outros países, o coeficiente de mortalidade por agrotóxicos no Brasil ainda é considerado baixo, sugerindo melhorias nas medidas de prevenção e controle, além de sucessivos debates sobre políticas no uso de agrotóxicos no que se diz respeito à contaminação de produtos alimentícios, exposição de trabalhadores e consequências sobre a saúde14,
+De acordo com o censo agropecuário de 2017, realizado pelo Instituto Brasileiro de Geografia e Estatística (IBGE), o número de estabelecimentos agropecuários por sexo e idade do produtor tem maior prevalência em homens de 45-54 anos (n=1.011.631), seguido por homens de 55-64 anos (n=983.964). Em se tratando de mulheres, a faixa etária mais comum é 45-54 anos (n=212.857)16. Relacionando estes dados, há uma fuga dos resultados esperados para este artigo sobre a faixa etária que ficou mais frequente dentro dos 20-39 anos, mas seguem concordando quanto ao sexo masculino mais prevalente no meio rural e como mais acometido com as intoxicações exógenas.
+Ainda sobre a idade, observou-se a presença de 285 casos de contaminações em crianças de 0 a 9 anos, o que apesar de ser uma quantidade relativamente baixa (8,5%), frente as outras faixas etárias, mostra um dado preocupante no tocante ao mau armazenamento dos produtos tóxicos, já que a maior parte das intoxicações nesta faixa etária ser acidental16.
+OLIVEIRA, JVG.; GOMES, R.D.
+Prospecção de perfis epidemiológicos de intoxicações exógenas por agrotóxicos dos Estados da Região Norte do Brasil nos anos de 2007 a 2020.
+A
+    13
+ 
+DOI: 10.18606/2318-1419/amazonia.sci.health.v9n4p2-16 Revista Amazônia Science & Health
+2021, Vol. 9, No 4
+5. CONSIDERAÇÕES FINAIS
+OLIVEIRA, JVG.; GOMES, R.D.
+Prospecção de perfis epidemiológicos de intoxicações exógenas por agrotóxicos dos Estados da Região Norte do Brasil nos anos de 2007 a 2020.
+A
+   Em suma, entende-se que o tema da intoxicação por agrotóxicos deve ser amplamente debatido principalmente visando medidas de prevenção como o cumprimento das Normas Regulamentadoras, principalmente a 06 - Equipamentos de Proteção Individual – EPI e 31 - Segurança e Saúde no Trabalho na Agricultura, Pecuária Silvicultura, Exploração Florestal e Aquicultura, o cuidado com a dispensação dos insumos, implantação de políticas públicas de fiscalização, além do aspecto curativo utilizando-se de profissionais de saúde treinados para os diversos tipos de intoxicações e um incentivo ao obedecimento da compulsoriedade das notificações.
+Frisam-se as posições de destaque do Estado do Tocantins, como um grande polo de incidência e prevalência de casos de intoxicações exógenas, levantado suposições sobre uma possível qualidade na padronização das notificações ou pelo maior uso de agrotóxicos ou pela ineficiência em fiscalizar o bom uso dos mesmos.
+REFERÊNCIAS
+1 Monografias de agrotóxicos [Internet]. Brasil: Agência Nacional de Vigilância Sanitária - Anvisa; 2019 [cited 2010 Aug 19]. Available from: https://www.gov.br/anvisa/pt- br/setorregulado/regularizacao/agrotoxicos/monografias
+2 Brovini EM, et al. Three-bestseller pesticides in Brazil: Freshwater concentrations and potential environmental risks. Science of The Total Environment [Internet]. 2021 Jun 01 [cited 2021 Jun 12];771 DOI 10.1016/j.scitotenv.2020.144754. Available from: https://www.sciencedirect.com/science/article/pii/S0048969720382875
+3 Bonifacio AF, Hued AC. Single and joint effects of chronic exposure to chlorpyrifos and glyphosate based pesticides on structural biomarkers in Cnesterodon decemmaculatus. Chemosphere [Internet]. 2019 [cited 2021 Jun 11];236 DOI 10.1016/j.chemosphere.2019.07.042. Available from: https://www- sciencedirect.ez6.periodicos.capes.gov.br/science/article/pii/S004565351931522X>
+4 Hendges C, et al. Human intoxication by agrochemicals in the region of South Brazil between 1999 and 2014. Journal of Environmental Science and Health, Part B [Internet]. 2019 [cited 2021 Nov 14];54:219-225. DOI 10.1080/03601234.2018.1550300. Available from: https://www.researchgate.net/publication/330169806_Human_intoxication_by_agrochemic als_in_the_region_of_South_Brazil_between_1999_and_2014
+5 Paumgartten FJR. Pesticides and public health in Brazil. Current Opinion in Toxicology [Internet]. 2020 [cited 2021 Nov 14];22:7-11. DOI 10.1016/j.cotox.2020.01.003Get. Available from: https://www.sciencedirect.com/science/article/abs/pii/S246820202030005X
+   14
+ 
+DOI: 10.18606/2318-1419/amazonia.sci.health.v9n4p2-16 Revista Amazônia Science & Health
+2021, Vol. 9, No 4
+6 Ministério da Saúde (Brasil), Secretaria de Atenção à Saúde. Protocolo de atenção à saúde dos trabalhadores expostos a agrotóxicos. 2006. Available from: http://bvsms.saude.gov.br/bvs/publicacoes/protocolo_atencao_saude_trab_exp_agrotoxic os.pdf>. Acesso em: 11/06/2021.
+7 Guida Y, et al. Atmospheric Occurrence of Organochlorine Pesticides and Inhalation Cancer Risk in Urban Areas at Southeast Brazil. Environmental Pollution [Internet]. 2021 Feb 15 [cited 2021 Nov 14];271 DOI 10.1016/j.envpol.2020.116359. Available from: https://www.sciencedirect.com/science/article/pii/S0269749120370482
+8 Ministério do Meio Ambiente (Brasil). Relatórios de comercialização de agrotóxicos - Boletim 2019 [Internet]. Brasília, 2019. Relatórios de comercialização de agrotóxicos - Boletim 2019; [cited 2021 Jun 11]; Available from: http://www.ibama.gov.br/agrotoxicos/relatorios-de-comercializacao-de-agrotoxicos
+9 King AM, Aaron CK. Organophosphate and carbamate poisoning. Emergency Medicine Clinics of North America [Internet]. 2015 [cited 2021 Jun 11];33(1):133-151. DOI 10.1016/j.emc.2014.09.010. Available from: https://pubmed.ncbi.nlm.nih.gov/25455666/.
+10 Ministério da Saúde (Brasil). Diretrizes Brasileiras para Diagnóstico e Tratamento de Intoxicações por Agrotóxicos [Internet]. 2018 [cited 2021 Aug 30]. Available from: http://conitec.gov.br/images/Relatorios/2018/Recomendacao/Relatorio_DiretrizAgrotoxico. pdf
+11 Ministério da Saúde (Brasil). Relatório Nacional de Vigilância em Saúde de Populações Expostas a Agrotóxicos [Internet]. Brasília, 2018 [cited 2021 Aug 29]. Available from: https://bvsms.saude.gov.br/bvs/publicacoes/relatorio_nacional_vigilancia_populacoes_exp ostas_agrotoxicos.pdf
+12 Brasil. Portaria MS n. 1264, de 17 de fevereiro de 2020. Define a Lista Nacional de Notificação Compulsória de doenças, agravos e eventos de saúde pública nos serviços de saúde públicos e privados em todo o território nacional e dá outras providências [Internet]. Brasil: BRASIL; 2020 Feb 17 [cited 2021 Aug 28]. Available from: https://bvsms.saude.gov.br/bvs/saudelegis/gm/2020/prt0264_19_02_2020.html
+13 Instituto Brasileiro de Geografia e Estatística (Brasil). Pesquisa Nacional por Amostra de Domicílios (PNAD) [Internet]. 2019 [cited 2021 Jul 28]. Available from: https://biblioteca.ibge.gov.br/visualizacao/livros/liv101707_informativo.pdf
+14Santana, VM.; Moura MP.; Nogueira, FF. Mortalidade por intoxicação ocupacional relacionada a agrotóxicos. Rev Saúde Pública [Internet]. 2013 [cited 2021 Aug 28];47:598- 606. Available from: https://www.scielo.br/j/rsp/a/tS57NWpLhQVXPWxYQ7Y94mQ/?format=pdf&lang=pt
+15 Instituto Brasileiro de Geografia e Estatistica (Brasil). Censo agropecuário 2017 - Produtores Rio de Janeiro, 2007 Jan 08; [cited 2021 Jul 28]; [p.1-105]. Available from: https://biblioteca.ibge.gov.br/visualizacao/periodicos/3096/agro_2017_resultados_definitiv os.pdf
+OLIVEIRA, JVG.; GOMES, R.D.
+Prospecção de perfis epidemiológicos de intoxicações exógenas por agrotóxicos dos Estados da Região Norte do Brasil nos anos de 2007 a 2020.
+A
+    15
+ 
+DOI: 10.18606/2318-1419/amazonia.sci.health.v9n4p2-16 Revista Amazônia Science & Health
+2021, Vol. 9, No 4
+16 Bucaretchi F, Baracat ECE. Exposições tóxicas agudas em crianças: um panorama. Jornal de Pediatria [Internet]. 2005 Jan 01 [cited 2021 Jun 11];81(No5(Supl/S212)):57-68. Available from: https://www.scielo.br/j/jped/a/P7TKbTYVyftzLGGLftghmFf/?lang=pt&format=pdf
+17 De Moraes RF. Agrotóxicos no Brasil : padrões de uso, política da regulação e prevenção da captura regulatória [Texto para Discussão (TD) on the Internet]. Repositório do Conhecimento do Ipea; 2019 [cited 2021 Nov 14]. Available from: http://repositorio.ipea.gov.br/browse?type=author&value=Moraes%2C+Rodrigo+Fracalossi +de
+18 Cepeda PG. A thesis submitted to the Faculty of Graduate Studies and Research in partial fulfillrnent of the requirements for the degree of [Dissertation on the Internet]. Carleton University; 1998 [cited 2021 Aug 1]. 156 p. Available from: https://www.collectionscanada.gc.ca/obj/s4/f2/dsk2/tape17/PQDD_0001/MQ36823.pdf Department of Geography.
+19 Veiga MM, et al. A contaminação por agrotóxicos e os Equipamentos de Proteção Individual (EPIs). Revista Brasileira de Saúde Ocupacional [Internet]. 2007 [cited 2021 Nov 14];32:57-68. Available from: https://www.scielo.br/j/rbso/a/b7ykZGV8W4MStxNT9hhsCMg/?lang=pt&format=pdf
+OLIVEIRA, JVG.; GOMES, R.D.
+Prospecção de perfis epidemiológicos de intoxicações exógenas por agrotóxicos dos Estados da Região Norte do Brasil nos anos de 2007 a 2020.
+A
+    16

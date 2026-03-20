@@ -29,6 +29,10 @@
 - `00003015-FORMULARIO ORCAMENTO _ COMPONENTE.docx` -> Convertido para `.md`
 - `00003016-FORMULÁRIO BNDS Roteiro_Fundo_Amazonia-Geral (1).pdf`
 
+## ✅ Documentos Consolidados (Acervo Digital WTF)
+- [TAK-MEM-T09_BALSA-CATAMARA-VAPOR.md](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/TAK-MEM-T09_BALSA-CATAMARA-VAPOR.md) (Memorial Técnico)
+- [TAK-MD-009_MEMORIAL-DESCRITIVO-BALSA.md](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/TAK-MD-009_MEMORIAL-DESCRITIVO-BALSA.md) (Memorial Descritivo)
+
 ## 🎙️ Mídias Pendentes
 - [ ] **07/03/2026 18:00:27**: Áudio da Professora Tânia (`00003020-AUDIO-2026-03-07-18-00-26.opus`). Contexto: Orientações finais sobre o envio dos formulários.
 

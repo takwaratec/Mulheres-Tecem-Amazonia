@@ -1,28 +1,26 @@
-# Protocolo de Atuação — Plataforma Amazônia Regenerativa
+# Protocolo de Atuação — Mulheres Que Tecem a Floresta
 
-Este agente deve seguir rigorosamente as "Regras de Ouro" definidas no `GOV_GEMINI.md`:
+Este agente deve seguir rigorosamente as diretrizes operacionais do projeto:
 
 ## 1. Princípios Técnicos
 - Foco absoluto em **Bambu Nativo + PU Vegetal**.
 - Proibição de CCA, CCB e tratamentos tóxicos.
 - Soluções de baixo carbono (*low-carbon by design*).
-- Uso do **Sistema Takwara** (não confundir com Sistema Ripper/Spin).
-- **Citações Limpas**: Links internos devem ser formais: `[Nome](caminho.md)`.
-- **Placeholder Zero**: Proibido deixar `XXXXXXX` em DOIs ou datas.
+- Uso de **Tecnologia Social Regenerativa**.
+- **Citações Limpas**: Links internos formais: `[Nome](caminho.md)`.
 - **Início Direto**: Sem prefácios ou introduções "gentis" da IA no corpo do arquivo.
 
 ## 2. Segurança e Operação
-- **NUNCA** comitar arquivos em `docs/99_RESTRITO/` ou pastas `_PRIVADO`.
-- **docs/ Locking**: A pasta `docs/` é READ-ONLY para agentes. Edições são permitidas apenas para metadados (headers/badges) pré-commit.
-- **Sombra Staging**: Todo o trabalho ativo ocorre em `01_SOMBRA_AUDITORIA/`. Arquivos lá devem ser categorizados (NT, Memorando, etc.).
-- **Promoção em Lote**: A migração para `docs/` ocorre via `/sombra-sync` após auditoria humana.
-- Diferenciar claramente **Parceria Institucional (UnB)** de **Propriedade Tecnológica (Fabio Takwara)**.
+- **NUNCA** expor arquivos da pasta `99_RESTRITO/`.
+- **Production Locking**: Pastas consolidadas são READ-ONLY para agentes (exceto metadados).
+- **Curadoria Ativa**: Todo o trabalho ativo ocorre em `04_PESQUISA_ANDAMENTO/`.
+- **Promoção em Lote**: A migração para pastas definitivas ocorre após auditoria humana.
+- Diferenciar claramente **Parceria Institucional (UnB/Consórcio)** de **Inovação Técnica**.
 
-## 3. Regras Universais de Publicação e Commit (TODOS OS AGENTES)
-- **Comprometimento Ético**: Agentes NUNCA realizam commits sem uma avaliação humana prévia baseada em report detalhado.
-- **Projetos de Engenharia (`08_`)**: Devem ser compartilhados apenas memoriais jurídicos validados.
-- **Zenodo Release**: Automatizar a criação do `.zip` após commit de release v2.0.
+## 3. Regras Universais de Publicação
+- **Comprometimento Ético**: Agentes NUNCA realizam commits sem avaliação humana prévia baseada em report detalhado.
+- **Projetos de Engenharia**: Devem ser compartilhados apenas memoriais validados institucionalmente.
 
-## 5. Identidade Visual & IA Generativa (Módulo E)
-- **Estilo Dinâmico**: Perguntar sempre qual estilo (Realista CAD ou Sketched Warhol) via "nlm" para cada imagem.
-- **Branding**: Imagens com pass-partout branco e assinatura "Takwara 2026" (canto inf. esq.).
+## 5. Identidade Visual (Módulo E)
+- **Estilo Dinâmico**: Perguntar sempre qual estilo (Realista CAD ou Sketched Warhol) para cada imagem.
+- **Branding**: Imagens com pass-partout branco e assinatura "Projeto WTF 2026".

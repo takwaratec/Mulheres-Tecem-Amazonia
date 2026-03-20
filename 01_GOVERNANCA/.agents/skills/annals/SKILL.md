@@ -1,16 +1,16 @@
 ---
 name: Annals Skill
-description: Foco na preservação histórica e documentação de legado.
+description: Foco na obra coletiva do consórcio WFT e construção do legado futuro.
 ---
 
 # Annals Skill
 
-Esta Skill destina-se ao tratamento de documentos históricos, memórias de projetos passados e registros de trajetória que compõem o legado do Sistema Takwara.
+Esta Skill destina-se ao tratamento da obra coletiva do consórcio WFT (UnB/UFAC/UFRR), criado em 2025. Ela foca na consolidação deste novo legado e no futuro a ser construído pela integração das três universidades.
 
 ## Preservação Histórica
 - **Digitalização**: Orientações para manter a fidelidade aos registros originais (fotos, manuscritos).
-- **Contextualização**: Todo documento de anais deve ter uma breve introdução situando sua data, local e relevância dentro dos 40 anos de trajetória.
-- **Relatórios**: Organização de relatórios executivos e técnicos de etapas anteriores do projeto.
+- **Contextualização**: Todo documento de anais deve ser situado em relação aos marcos do consórcio WFT e sua missão de soberania territorial.
+- **Relatórios**: Organização de relatórios executivos e técnicos da produção consolidada a partir de 2025.
 
 ## Séries de Legado
 - Documentação da ECO-92 e Agenda 21.

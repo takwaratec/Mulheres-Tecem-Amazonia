@@ -1,0 +1,550 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFAC/UFRR
+equipe: Gestão e Parceria Regional
+tipo: Acervo de Consulta RAW (Transcrição)
+autor: Acervo Digital WTF
+data: '2008'
+---
+􏱕􏱖􏱗􏱘􏱙􏱚􏱛 􏱝􏱞􏱖􏱚􏱟􏱠􏱖􏱡􏱛􏱢 􏱣􏱤 􏱥􏱦􏱦􏱧􏱠􏱛
+ÿÿÿÿÿÿÿ
+ÿÿÿÿ
+Divulgação para promover o direito à informação
+Considerando que o Parlamento da Índia se propôs a fornecer um regime prático de direito
+à informação para os cidadãos para garantir o acesso à informação sob o controle das autoridades públicas, a fim de promover a transparência e a responsabilidade no trabalho de cada autoridade pública, e considerando que o anexo publicação do Bureau of Indian Standards é de particular interesse para o público, particularmente comunidades desfavorecidas e aqueles envolvidos na busca de educação e conhecimento, o padrão de segurança pública em anexo é disponibilizado para promover a disseminação oportuna dessas informações de maneira precisa para o público.
+“1 ÿÿ ÿ+ÿÿÿÿ, 1 ÿÿ ÿ+ÿÿÿÿ”
+“ÿ0ÿÿ1 ÿÿ ÿÿÿ ÿ' 5 ÿÿÿ”
+Mazdoor Kisan Shakti Sangathan Jawaharlal Nehru
+“O direito à informação, o direito à vida” “Saia do Velho para o Novo”
+IS 6874 (2008): Método de testes para bambu [CED 9: Timber and Timber Stores]
+“!ÿÿ $ ÿÿ ÿ' ÿÿÿÿ ÿÿ +ÿÿ-ÿ” Satyanarayan Gangaram Pitroda “Invente uma Nova
+Índia Usando o Conhecimento” “Invente uma Nova Índia Usando o Conhecimento”
+“!” “O conhecimento é um tesouro que não pode ser roubado”
+Bhartÿhari—Nÿtiÿatakam
+
+ 􏱕􏱖􏱗􏱘􏱙􏱚􏱛 􏱝􏱞􏱖􏱚􏱟􏱠􏱖􏱡􏱛􏱢 􏱣􏱤 􏱥􏱦􏱦􏱧􏱠􏱛
+
+ 􏱕􏱖􏱗􏱘􏱙􏱚􏱛 􏱝􏱞􏱖􏱚􏱟􏱠􏱖􏱡􏱛􏱢 􏱣􏱤 􏱥􏱦􏱦􏱧􏱠􏱛
+
+ 􏱕􏱖􏱗􏱘􏱙􏱚􏱛 􏱝􏱞􏱖􏱚􏱟􏱠􏱖􏱡􏱛􏱢 􏱣􏱤 􏱥􏱦􏱦􏱧􏱠􏱛
+IS 6874:2008
+junho de 2008
+Grupo de preços 5
+Ww%Tm “
+padrão indiano
+MÉTODO DE TESTES PARA BAMBU ( Primeira Revisão)
+ICS 79.060.20
+@ BIS 2008
+ESCRITÓRIO DE INDIANO PADRÕES
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG NOVA DELI 110002
+
+ 􏱕􏱖􏱗􏱘􏱙􏱚􏱛 􏱝􏱞􏱖􏱚􏱟􏱠􏱖􏱡􏱛􏱢 􏱣􏱤 􏱥􏱦􏱦􏱧􏱠􏱛
+Comitê Seccional de Madeira e Lojas de Madeira, CED 9
+PREFÁCIO
+Esta Norma Indiana (Primeira Revisão) foi adotada pelo Bureau of Indian Standards, depois que o rascunho finalizado pelo Timber and Timber Stores Sectional Committee foi aprovado pelo Conselho da Divisão de Engenharia Civil.
+O bambu ocupa um lugar de destaque na vida cotidiana e é amplamente utilizado para fins estruturais e não estruturais. Sendo um material que se compara favoravelmente com a madeira em resistência, o bambu está sendo cada vez mais usado em muitas aplicações estruturais, como postes, cercas de postes, andaimes, construção de casas, etc. Para verificar a adequação do bambu para vários usos estruturais, suas propriedades físicas precisam ser testados. IS 6874: 1973 'Método de testes para bambu redondo' e IS 8242: 1976 'Métodos de testes para bambus partidos' foram desenvolvidos para esta finalidade.
+Este padrão foi publicado pela primeira vez em 1973. Com base nos avanços tecnológicos feitos no campo levando ao aumento do uso de bambu e na experiência adquirida, sentiu-se a necessidade de redefinir os métodos de teste e desenvolver novos métodos de teste para determinar propriedades adicionais. Estudos recentes indicaram que o método sugerido para testar bambu redondo em flexão estática em amostras de comprimento menor não reflete o potencial de resistência do bambu em comprimentos maiores. Como o bambu redondo é normalmente usado em comprimentos mais longos em aplicações estruturais, o método de teste em flexão estática foi modificado nesta revisão. Além disso, foram incorporados métodos de teste para
+determinar propriedades adicionais , como resistência à tração paralela ao grão e resistência ao cisalhamento paralelo ao grão. A revisão foi realizada com a assistência da Missão Nacional de Aplicação de Bambu e é baseada em estudos realizados pelo Kerala Forest Research Institute, Peechi.
+A composição do Comitê responsável pela formulação desta norma consta do Anexo A.
+Ao relatar os resultados de um teste ou análise feita de acordo com esta norma, se o valor final, observado ou calculado, for arredondado, deve ser feito de acordo com 1S2: 1960 'Regras para valores numéricos incorretos (revisados) ' .
+
+ 􏱕􏱖􏱗􏱘􏱙􏱚􏱛 􏱝􏱞􏱖􏱚􏱟􏱠􏱖􏱡􏱛􏱢 􏱣􏱤 􏱥􏱦􏱦􏱧􏱠􏱛
+ALTERAÇÃO No. 1 DE JUNHO DE 2012 TO IS 6874: 2008
+MÉTODO DE TESTES PARA BAMBU
+(Primeira Revisão)
+(Prólogo, último parágrafo) — Substituir o seguinte pelo existente:
+“Ao relatar o resultado de um teste ou análise feito de acordo com esta norma, se o valor final, observado ou calculado expressando o resultado de um teste ou análise for arredondado, deve ser feito de acordo com IS 2: 1960 'Regras para arredondamento de valores numéricos (revisadas)'.”
+(Página 2, cláusula 5.2.3) — Substitua o seguinte para a fórmula existente para a massa básica por volume:
+onde
+'Massa por volume, em kg/m =
+3mo Vg
+ÿ1 000
+mo = massa seca de forno, em 3
+g; e Vg = volume verde, em cm.'
+(CED 9)
+Unidade de Reprografia, BIS, Nova Deli, Índia
+
+ 􏱕􏱖􏱗􏱘􏱙􏱚􏱛 􏱝􏱞􏱖􏱚􏱟􏱠􏱖􏱡􏱛􏱢 􏱣􏱤 􏱥􏱦􏱦􏱧􏱠􏱛
+MÉTODO
+Este padrão
+seguintes propriedades físicas e mecânicas de bambu redondo:
+a) Propriedades físicas:
+i) Teor de umidade, ii) Massa básica por volume ou densidade, e iii) Encolhimento.
+b) Propriedades mecânicas:
+eu) Resistência à flexão estática, ii)
+Resistência à compressão paralela ao grão, iii) Resistência à tração paralela ao grão, e iv) Resistência ao cisalhamento paralelo ao grão.
+2 REFERÊNCIA
+A norma a seguir contém disposições que, por referência neste texto, constituem disposições desta norma. No momento da publicação, a edição indicada era válida. Todas as normas estão sujeitas a revisão e as partes de acordos com base nesta norma são encorajadas a investigar a possibilidade de aplicação
+a edição mais recente da norma indicada abaixo:
+1 ESCOPO
+seu comprimento. As paredes são mais grossas em ambos os lados do nó ou no local em um colmo de bambu onde brotam galhos e onde há um diafragma dentro do colmo.
+3.6 Diâmetro Externo - Diâmetro de uma seção transversal de
+um pedaço de bambu medido a partir de dois pontos opostos na superfície externa.
+3.7 Espessura da parede — Espessura da parede do colmo. Isso é medido em dois lugares em cada extremidade de uma amostra de teste.
+4 CULMOS DE TESTE
+4.1 Amostragem
+Para uma determinada espécie de bambu a ser testada, pelo menos seis colmos maduros devem ser selecionados aleatoriamente de uma grande população, um colmo cada de touceiras localizadas em áreas representativas que cobrem a distribuição geográfica da espécie. Se a espécie tiver um afunilamento pronunciado, a variação nos colmos devido ao afunilamento deve ser mínima. Os colmos devem estar sãos e isentos de defeitos.
+4.LI Defeitos Admissíveis
+A descoloração que é uma mudança da cor normal do bambu, que não
+prejudica a resistência, deve ser permitida.
+4.1.2 Defeitos Não Admissíveis
+O ataque de brocas e a decomposição nos colmos não devem ser permitidos. Rachaduras/fissuras e manchas azuis também não são permitidas, pois esses defeitos afetam as propriedades de resistência.
+4.2 Marcação, derrubada e conversão
+Antes da derrubada, deve ser marcado com tinta um anel no colmo a uma altura de um metro do solo e também outros detalhes acima do anel. Os colmos devem ser derrubados de acordo com as práticas de colheita padrão. Após a derrubada do colmo, devem ser retiradas as partes inutilizáveis do fundo do colmo (parte torta com entrenós muito curtos) e topo do colmo (diâmetro baixíssimo e parede fina). O comprimento restante do colmo deve ser medido e o colmo deve ser cortado em dois ou três
+peças tendo em mente que, para flexão estática, o comprimento da amostra deve ser de pelo menos 30 vezes o diâmetro externo mais um metro. As partes a serem utilizadas devem ser marcadas com um anel na extremidade inferior e sua posição no colmo deve ser marcada como B (inferior), M (meio) ou T (topo) junto com outros detalhes necessários.
+estabelece o método de testes para determinar as
+Título
+Glossário de termos de tecnologia e para utilização de madeira aplicável (segunda revisão)
+É não. 707:1976
+3 TERMINOLOGIA
+Para efeitos desta norma, aplicam-se as definições da IS 707 e seguintes.
+3.1 Touceira de Bambu — Um aglomerado de colmos de bambu.
+3.2 Colmo de bambu — Um único broto de bambu, totalmente desenvolvido e geralmente oco, exceto nos nós que geralmente estão inchados.
+3.3 Vão Livre — A distância entre os dois suportes no teste de flexão estática. Este deve ser pelo menos 30 vezes o diâmetro externo no meio do teste
+espécime.
+3.4 Internó — A porção de um colmo entre dois nós sucessivos.
+3.5 Nó — Espessamento de bambu em intervalos ao longo
+padrão indiano
+DE TESTES PARA BAMBU ( Primeira Revisão)
+IS 6874:2008
+
+ 􏱕􏱖􏱗􏱘􏱙􏱚􏱛 􏱝􏱞􏱖􏱚􏱟􏱠􏱖􏱡􏱛􏱢 􏱣􏱤 􏱥􏱦􏱦􏱧􏱠􏱛
+1S 6874:2008
+Para a determinação de propriedades físicas como massa básica por volume e encolhimento, as amostras de teste devem ser preparadas a partir de bambu recém-cortado.
+4.3 Secagem ao Ar e Condicionamento
+Para a determinação das propriedades mecânicas, os colmos devem ser secos ao ar até cerca de 12 por cento de umidade. Para poder comparar os resultados do teste, os colmos devem ser condicionados a 27 e 2°C e 65 e 5 por cento de umidade relativa pelo menos por uma semana, de modo a atingir um teor de umidade de equilíbrio de 12 por cento, antes de serem testados. Deve-se tomar cuidado para garantir que grandes mudanças no teor de umidade não ocorram durante o teste. O número de corpos de prova em cada teste não deve ser inferior a 12 (dois de cada colmo).
+Teor de umidade, porcentagem =
+'eu 'm. X,OO
+mO
+5 PROPRIEDADES FÍSICAS
+5.1 Teor de Umidade
+5.1.1 Amostras de Teste
+Os espécimes determinantes devem
+teor de umidade deve
+mO = massa seca de forno, em g.
+O teor de umidade deve ser relatado com valores arredondados para
+um décimo de um por cento.
+5.2 Massa básica por volume ou densidade
+5.2.1 Corpos de prova
+Os corpos de prova para determinação da massa básica por volume serão retirados de colmos recém-cortados em diferentes posições do colmo (base, meio e topo).
+Deve ter cerca de 25 mm de comprimento e 25 mm de largura
+com espessura total da parede. Este teste também permitirá determinação do teor de umidade do corpo de prova verde.
+NOTA — Para comparação dos valores informados, a massa básica por volume é a adequada, pois depende apenas do verde
+volume e massa seca de forno que não se alteram devido às condições meteorológicas. No entanto, se alguém estiver interessado em determinar a massa por volume de uma amostra de teste em qualquer teor de umidade, por exemplo, em condição de secagem ao ar, o volume é medido nesse teor de umidade.
+5.2.2 Procedimento
+Os corpos de prova devem ser pesados com precisão de 0,01 g. O volume verde deve ser medido pelo método de deslocamento de água. Uma maneira simples é colocar um béquer contendo água em uma balança de prato superior e tarar o peso a zero. A amostra de teste presa a uma agulha afiada deve ser completamente imersa em água, garantindo que a amostra não toque no béquer. A leitura na balança indicaria a massa da água deslocada.
+Considerando o peso específico da água como 1,0, esta leitura deve ser considerada como o volume do corpo de prova, em cm3 (V~).
+Após a determinação do volume verde, o corpo de prova deve ser seco em estufa de ar quente conforme descrito em 5.1.2 a
+obter a massa seca de forno (mO). 5.2.3 Cálculo
+A massa básica por volume deve ser calculada como dado abaixo:
+ser retirados dos corpos de prova ensaiados para ensaio mecânico, imediatamente após a conclusão de cada ensaio e, na medida do possível, próximo ao local de trituração. Deve ter cerca de 25 mm de comprimento e 25 mm de largura e espessura total da parede. No caso
+do ensaio de cisalhamento, a porção destacada deve ser retirada para determinação do teor de umidade.
+Quando o teor de umidade de qualquer outro corpo de prova, exceto dos corpos de prova para testes mecânicos, deve ser determinado, estes devem ser medidos a pelo menos 150 mm de distância da borda mais próxima do colmo.
+Os corpos de prova devem ser imediatamente colocados em um saco de polietileno para garantir que não haja perda de umidade.
+5.1.2 Procedimento
+Os corpos de prova devem ser pesados (mi) com uma precisão de 0,01 g e depois secos em estufa de ar quente a uma temperatura de 103 k 2°C por 24 h. A amostra de teste deve então ser pesada e a secagem continuada a partir de então.
+A pesagem deve ser realizada e registrada a cada 2 h até que a diferença entre pesagens sucessivas não ultrapasse 0,01 g, quando então a secagem deve ser concluída. A massa final será considerada como a massa seca de forno (ntO).
+Deve-se tomar cuidado para evitar qualquer alteração no teor de umidade entre o corte do corpo de prova e a primeira pesagem, e entre a retirada do forno e as pesagens subseqüentes.
+5.1.3 Cálculo
+O teor de umidade de cada corpo de prova deve ser calculado como a
+perda de massa, expressa como uma porcentagem da massa seca ao forno.
+Massa por volume, em kg/m3 =
+~ x 100 6
+onde
+m, = massa inicial do corpo de prova, em g; e
+onde
+mO =
+massa seca de forno, em g; e Vg= volume verde, em cm3.
+
+ 􏱕􏱖􏱗􏱘􏱙􏱚􏱛 􏱝􏱞􏱖􏱚􏱟􏱠􏱖􏱡􏱛􏱢 􏱣􏱤 􏱥􏱦􏱦􏱧􏱠􏱛
+A massa por volume deve ser informada com valores arredondados para o kg/m3 mais próximo. Se Vw corresponder ao volume do corpo de prova em um determinado teor de umidade, w, então a massa
+por volume nesse teor de umidade deve ser determinada usando Vw.
+5.3 Encolhimento 5.3.1 Corpos de prova
+Os corpos de prova devem ser retirados de colmos recém-cortados, preferencialmente da parte mais baixa do colmo.
+As amostras devem ter 100 mm de comprimento e estar livres de nós.
+5.3.2 Procedimento
+A contração deve ser determinada ao longo do diâmetro, espessura da parede e comprimento do corpo de prova. O comprimento e o diâmetro devem ser medidos com precisão de 1 mm, enquanto o
+a espessura da parede deve estar correta para 0,1 mm.
+Marcações adequadas devem ser feitas nas amostras (ver Fig. 1) para facilitar as observações no mesmo local todas as vezes, em cada amostra, dimensões de quatro diâmetros e quatro espessuras de parede (duas em cada extremidade) e dois comprimentos devem ser medido. As amostras devem secar lentamente. Massa e dimensões de diâmetro, espessura da parede e comprimento das amostras devem ser registrados periodicamente até que as leituras sejam constantes (condição de ar seco). As amostras devem então ser colocadas em ar quente a 103 e 2°C até atingir um peso
+constante (condição de secagem em estufa). A massa e as dimensões dos espécimes devem ser tomadas na condição de secagem em estufa.
+5.3.3 Cálculo
+A porcentagem de encolhimento (ao longo do diâmetro ou espessura
+ou comprimento da parede) com precisão de uma casa decimal deve ser calculada da seguinte forma:
+D.–D
+J-.-Jx Encolhimento ao longo do diâmetro, porcentagem = ~,
+,
+t-tf Encolhimento ao longo da espessura da parede, porcentagem = >
+&--J
+~, x 100 ,
+6 PROPRIEDADES MECÂNICAS
+6.1 Resistência à flexão estática 6.1.1 Corpos de prova
+Os corpos de prova, isentos de defeitos como trincas e tortuosidade, devem ser retirados dos colmos secos ao ar e acondicionados. Os corpos de prova devem estar livres de conicidade ampla e variável. O comprimento das amostras deve ser de pelo menos 30 vezes o diâmetro no ponto médio mais 1 m.
+6.1.2 Máquina de Teste
+Uma máquina de teste adequada capaz de medir a carga com precisão de 100 N e a deflexão com precisão de 1 mm
+Deve ser usado.
+O teste deve ser um teste de flexão de quatro pontos. A amostra de teste deve ser montada em selas adequadas [ver Fig. 2A] de forma que as forças de reação nos apoios sejam transmitidas aos nós próximos. O colmo de bambu deve poder girar livremente nos suportes. A carga deve ser dividida em duas metades por
+B1
+Encolhimento ao longo do comprimento, porcentagem =
+onde
+B2
+Di, ti, li= dimensões iniciais do diâmetro externo, espessura da parede e comprimento, respectivamente, em mm;
+e
+Df, tf, lf = dimensões finais do diâmetro externo, espessura da parede e comprimento, respectivamente, em mm.
+A partir das várias leituras de massa e, finalmente, a massa seca do forno, o teor de umidade correspondente da amostra de teste e o encolhimento nesse teor de umidade podem
+seja determinado.
+AZ
+banheiro
+x 100 1
+FIGO. 1 MEDIÇÃO DO DIÂMETRO E DA PAREDE GROSSURA
+IS 6874:2008
+al
+
+ 􏱕􏱖􏱗􏱘􏱙􏱚􏱛 􏱝􏱞􏱖􏱚􏱟􏱠􏱖􏱡􏱛􏱢 􏱣􏱤 􏱥􏱦􏱦􏱧􏱠􏱛
+IS 6874:2008
+uma viga apropriada apoiada em selas de tal forma que as cargas sejam aplicadas aos nós [ver Fig. 2B) ].
+O comprimento da amostra deve ser adequado para ter um vão livre de 30 vezes o seu diâmetro no ponto médio.
+6.1.3 Procedimento
+Uma viga I de comprimento adequado para suportar o corpo de prova deve ser mantida em ângulo reto com a plataforma da máquina de teste. Conforme mostrado na Fig. 2, o corpo de prova deve ser colocado em suportes com selas e uma viga de madeira deve ser colocada sobre o corpo de prova usando selas de forma que a carga seja aplicada através do cabeçote da máquina de ensaio. O corpo de prova deve ser permitido
+encontrar sua própria posição; a amostra, selas, carga e suportes devem ser alinhados visualmente em um plano vertical.
+O carregamento do corpo de prova deve ser realizado uniformemente com velocidade constante. A cabeça de carregamento da máquina de teste deve se mover a uma taxa de 0,5 mm/s.
+A deflexão no meio do vão deve ser observada por meio de um relógio comparador em incrementos de carga a cada 500 N.
+A carga deve ser registrada nos pontos de mudanças repentinas na deflexão, no momento da falha e no nível máximo, se diferente da carga na falha. desenvolvimento de crack
+f)
+FaH
+EU
+r
+SELIM
+EU
+,,
+CARREGAR
+EU
+2A Método de aplicação de carga e suporte de bambu com selas
+1J
+III <
+\\ \\ \\
+2B Teste de flexão em quatro pontos
+FIGO. 2 TESTE DE RESISTÊNCIA À FLEXÃO ESTÁTICA
+e a forma de falha deve ser anotada. Uma deflexão de carga diagrama deve ser traçado.
+I1
+[
+1'
+
+ 􏱕􏱖􏱗􏱘􏱙􏱚􏱛 􏱝􏱞􏱖􏱚􏱟􏱠􏱖􏱡􏱛􏱢 􏱣􏱤 􏱥􏱦􏱦􏱧􏱠􏱛
+Após o ensaio, devem ser medidos o diâmetro externo D e a espessura da parede t, o mais próximo possível dos pontos de carga (ver 5.3.2).
+6.1.4 Cálculo
+a) O momento de inércia 1 em mm4, deve ser calculado da
+ângulos retos com o comprimento do corpo de prova; os planos das extremidades devem ser planos, com desvio máximo de 0,2 mm.
+6.2.2 Máquina de Teste
+Pelo menos uma placa da máquina de teste deve ser equipada com rolamento hemisférico para obter distribuição uniforme de carga nas extremidades da
+amostra (Ao contrário do teste de amostra de madeira, as amostras
+de teste de bambu devem ser mergulhadas em enxofre fundido ou
+uma camada de Teflon e cera deve ser mantida entre a amostra de teste de bambu e as placas de aço, para reduzir o atrito ao mínimo. Isso ocorre principalmente devido à natureza oca de bambu).
+6.2.3 Procedimento
+O corpo de prova deve ser colocado de modo que o centro da cabeça móvel esteja verticalmente acima do centro da seção transversal do corpo de prova e uma pequena carga não superior a 1 kN deve ser aplicada para assentar o corpo de prova.
+A carga deve ser aplicada continuamente e a cabeça móvel da máquina de ensaio deve deslocar-se a uma taxa constante de 0,01 mm/s.
+A carga máxima na qual o corpo de prova falha deve ser registrada.
+6.2.4 Cálculo
+A resistência máxima à compressão CTul,,em Wmm2, deve ser determinada da seguinte forma:
+seguinte forma:
+Eu= ;[D4
+onde
+D = diâmetro externo, em mm; e
+t = espessura da parede, em mm.
+b) A GUI de resistência máxima, em flexão estática, em N/mm*, deve ser determinado da seguinte forma:
+onde
+I = momento de inércia, em mm4;
+F = carga máxima, em N;
+L = vão efetivo , em mm; e
+D = diâmetro externo, em mm.
+crul, deve ser reportado com uma precisão de 1 N/mm'.
+c) O módulo de elasticidade (módulo de Young),
+E, em N/mm2, deve ser determinado da seguinte forma:
+~= 23s L3 1296 eu
+onde
+L = vão livre, em mm;
+I = momento de inércia, em mm4; e
+s = inclinação de uma parte linear no diagrama de deflexão de carga, em N/mm.
+E deve ser informado arredondando para o 100 N/mmz mais próximo.
+6.2 Resistência à compressão paralela ao grão 6.2.1 Corpos de prova
+As amostras para testes de resistência à compressão devem ser retiradas das extremidades não danificadas das amostras usadas em testes de flexão estática. Os corpos de prova devem ser do entrenó.
+O comprimento do corpo de prova deve ser considerado igual ao diâmetro externo. O diâmetro externo e a espessura da parede devem ser medido conforme descrito em 5.3.2.
+Os planos finais do corpo de prova devem estar perfeitamente alinhados
+- (D-2t)4]
+onde
+Completo =
+A=
+D= 1 =
+6.3 Resistência à tração paralela ao grão 6.3.1 Corpos de prova
+As amostras para teste de resistência à tração devem ser retiradas das extremidades não danificadas das amostras usadas em testes de
+flexão estática. Os corpos de prova devem estar com um nó no centro.
+A direção geral das fibras deve ser paralela ao eixo longitudinal do corpo de prova. O comprimento do corpo de prova deve ser de 60 mm e a largura deve ser de 10 a 20 mm, de modo que o corpo de prova
+seja mais ou menos plano. A espessura do corpo de prova deve ser a do
+carga máxima, em N;
+área da seção transversal do corpo de prova
+f[D2-(D-2t)']inm m2;
+diâmetro externo, em mm; e
+espessura da parede, em mm.
+crUltshaIl deve ser arredondado para o 0,5 N/mmz mais próximo.
+IS 6874:2008
+
+ 􏱕􏱖􏱗􏱘􏱙􏱚􏱛 􏱝􏱞􏱖􏱚􏱟􏱠􏱖􏱡􏱛􏱢 􏱣􏱤 􏱥􏱦􏱦􏱧􏱠􏱛
+IS 6874:2008
+espessura da parede ou menos, dependendo do diâmetro do colmo. Todas as dimensões devem ser medidas a um
+precisão de 0,1 mm,
+É permitida a utilização de corpos de prova com extremidades laminadas para melhor aderência, conforme Fig. 3.
+6.4 Resistência ao Cisalhamento Paralelo ao Grão
+6.4.1 Corpos de prova
+As amostras para testes de resistência ao cisalhamento devem ser retiradas das extremidades não danificadas das amostras usadas em
+60 lm
+~ EXTREMIDADE LAMINADA
+f
+* EXTREMIDADE LAMINADA
+L. 10 T020mm
+t = Espessura do corpo de prova
+FIGO. 3 AMOSTRA DE TESTE DE RESISTÊNCIA À TRAÇÃO
+6.3.2 Máquina de Teste
+As garras da máquina de ensaio devem garantir que a carga seja aplicada ao longo do eixo longitudinal do corpo de prova e devem evitar a torção longitudinal do corpo de prova.
+6.3.3 Procedimento
+As garras devem pressionar o corpo de prova perpendicularmente às fibras e na direção radial.
+A carga deve ser aplicada continuamente e a cabeça móvel da máquina de teste deve viajar a uma taxa constante de 0,01 mm/s. A carga máxima deve ser
+gravado.
+6.3.4 Cálculo
+A resistência à tração máxima OUIL.in N/mn12, deve ser determinada da seguinte forma:
+cheio CT,l,,= ~
+carga máxima, em N;
+média da espessura da parede em quatro pontos, em mm; e
+média do comprimento do corpo de prova em quatro pontos onde a espessura da parede é medida, em
+milímetros.
+onde
+F,,,, = A=
+fu,, Ou,t= ~
+carga máxima, em N; e
+área da seção transversal do corpo de prova, em mm2.
+onde
+Completo, =
+cru,,deve ser arredondado para o número inteiro mais próximo.
+crul, deve ser arredondado para o número inteiro mais próximo.
+deve ser de
+de teste. O comprimento do corpo de prova deve ser considerado igual ao diâmetro externo. O diâmetro externo e a espessura da parede devem ser
+medidos conforme descrito em 5.3.2. O
+os planos finais do corpo de prova devem estar em ângulo reto com o comprimento do corpo de prova; os planos finais devem ser planos.
+6.4.2 Máquina de Teste/ Jig
+Os testes devem ser realizados em uma máquina de teste adequada. As amostras devem ser apoiadas na extremidade inferior sobre um bloco de aço de dois triângulos opostos um ao outro. Um bloco quadrado de aço deve ser cortado diagonalmente de tal maneira que dois triângulos opostos
+ainda estejam intactos e dois outros triângulos separados. O corpo de prova deve ser carregado na extremidade superior sobre os outros dois
+bhks t!'angulares independentes (.iee Fig. 4). Isso resulta em áreas de fourshear.
+6.4.3 Procedimento
+O corpo de prova deve ser colocado entre blocos triangulares de aço conforme explicado em 6.4.2, de forma que o centro da cabeça móvel fique verticalmente acima do centro da seção transversal do corpo de prova. Uma pequena carga não superior a 1 kN deve ser aplicada para assentar o corpo de prova.
+A carga deve ser aplicada continuamente e a cabeça móvel da máquina de ensaio deve deslocar-se a uma velocidade constante
+taxa de 0,01 mrrds.
+A carga máxima na qual o corpo de prova falha e
+o número de áreas de cisalhamento que falham deve ser registrado.
+6.4.4 Cálculo
+A resistência ao cisalhamento OI, em N/mm*, deve ser determinada da seguinte forma:
+testes de flexão estática. O entrenó dos espécimes
+t
+L=
+=
+
+ 􏱕􏱖􏱗􏱘􏱙􏱚􏱛 􏱝􏱞􏱖􏱚􏱟􏱠􏱖􏱡􏱛􏱢 􏱣􏱤 􏱥􏱦􏱦􏱧􏱠􏱛
+Ou, qanização
+Em capacidade pessoal (2989/D, 12o Main, HAL II Stage, Bangalore 560008)
+Andaman Chamber uf Commerce & Industries, Calcutá Centro de tecnologia de bambu e cana, Guwahati Sociedade de Bambu da Índia, Bangalore
+Instituto Central de Pesquisa do Edifício, Roorkee
+Diretor Geral de Aviação Civil, Nova Delhi
+Diretoria Geral de Suprimentos e Descartes, Nova Deli
+Diretoria de Padronização, Nova Delhi
+Engenheiro-chefe Filial, Quartel General do Exército, Nova Delhi
+Federation of Indian Plywood & P.mel Industry, Nova Delhi
+Departamento Florestal, Bhopal Departamento Florestal, Raipur
+Representante(s)
+SRI SHYAMSUNDER (presidente)
+SRI HARMHKHAITAN
+COORDENADOR DE PROJETO
+SRI AC LAKSHMANA
+DR KA KUSHALAPPA (Suplente)
+DIRETOR DIRETOR GERAL DIRETOR GERAL DIRETOR
+SRI CR SAHA
+SHRI N. B. SHELAR (Alternativo)
+SRI SAJJANBHAJANKA
+SECRETÁRIA (Suplente)
+PRINCIPAL CHEFE CONSERVADOR DE FLORESTAS PRINCIPAL CHEFE CONSERVADOR DE FLORESTAS
+PQ
+EU
+3mm _
+}.., lr ;'., ,.,./4,
+I;1'1'1''.\.,/“/“II\I\II11I AÇO
+(!!!!!) EU EU
+FIGO. 4 BLOCOS TRINGULARES PARA TESTE DE CISAMENTO
+ANEXO A
+(F{~repalavra)
+COMPOSIÇÃO DO COMITÊ
+Comitê Seccional de Madeira e Lojas de Madeira, CED 9
+IS 6874:2008
+
+ 􏱕􏱖􏱗􏱘􏱙􏱚􏱛 􏱝􏱞􏱖􏱚􏱟􏱠􏱖􏱡􏱛􏱢 􏱣􏱤 􏱥􏱦􏱦􏱧􏱠􏱛
+IS 6874:2008
+Organizador
+Representante(s)
+Instituto de Pesquisa Florestal, Debra Dun
+Academia Indiana de Ciências da Madeira, Bangalore
+Conselho Indiano de Pesquisa e Educação Florestal, Debra Dun
+Instituto Indiano de Pesquisa e Treinamento das Indústrias de Contraplacado, Bangalore
+DR SS NEGI
+DR VIMAL KOTHtYAL (Alternativo)
+PRESIDENTE
+DIRETOR GERAL
+DIRETOR
+SHR[ S, PADMANABHAN (Alternativo)
+DIRETOR
+DR RV RAO (Alternativo)
+SRI VP HIRAMATH
+SHR[S. SHWAPRAKASH(Alternativo)
+DIRETOR
+DRGNANAHARAN (Alternativo)
+SRI K. SANKARAKRNHNAN
+COLY. G. KRISHNAN (Alternativo)
+DIRETOR
+SRIH. C. pm'r (Ahernate)
+ADJUNTOINSPETOR-GERAL DE FLORESTAS DIRETOR
+SECRETÁRIO
+DIRETOR EXECUTIVO
+SHKi K. DAMODARAN
+SHRIA. K. SAINL Cientista 'F'& Head (CED) [Representando o Diretor Geral (Ex-ojjicio)]
+Instituto de Ciência e Tecnologia da Madeira, Bangalore
+Karnataka State Forest Industries Corporation Ltd, Bangalore
+Instituto de Pesquisa Florestal de Kerala, Peechi
+Kutty Flush Doors & Co Pvt Ltd, Chennai
+Ministério da Defesa, Gwalior
+Ministério do Meio Ambiente e Florestas, Nova Deli
+Placa de borracha, Kottayam
+Associação de Desenvolvimento de Madeira da Índia, Debra Dun
+Wimco Limi(ecf, Mumbai
+Em pcrsona[ capacidade (606 I?, [Block, ?ZISrage, UVCE Layout, WOC Road, Basaveshwrrranagar BangaIore-560079, Karnataka)
+Direção Geral do BIS
+Membro Secretário
+SHRI J. ROY CHOWDHURY Cientista 'E' (CED), BIS
+Subcomitê de Terminologia, Conversão, Temperamento, Preservação, Classificação e Teste da Madeira, CED9:1
+Instituto de Ciência e Tecnologia da Madeira, Bangalore Andaman T]mber Industries, Calcutá
+ASCU Hickson Limited, Calcutá
+Bórax Morarji, Bobina
+Conselho de Promoção de Tecnologia de Materiais de Construção, Nova Delhi Instituto Central de Pesquisa do Edifício, Roorkee
+Estação Central de Pesquisa Mineira (CSIR), Dhanbad Controladoria de Garantia de Qualidade, Kanpur Direcção-Geral da Aviação Civil, Nova Deli
+Diretoria Geral de Suprimentos e Descartes, Nova Delhi Diretoria de Padronização, Nova Delhi
+Federação da Indústria de Painéis e Compensados da Índia, Nova Deli
+Departamento Florestal, Bangalore Departamento Florestal, Debra Dun Departamento Florestal, Gandhinagar
+DR RV RAO (Convocador)
+SRI HARISH KHALTAN
+SRI RAIW AGARWAL
+SHRIJ. BASU (Alternativo)
+,%ml HT KAPADIA SRI S. RANGARAJAN(Alternativo)
+REPKESENTATWE
+DIRETOR
+SHRI BS RAWAT (Alternativo) DIRETOR
+DIRETOR DIRETOR GERAL DIRETOR GERAL DIRETOR
+SRI JAYDEEPCHITLANGIA
+SECRETÁRIA (Suplente)
+PRINCIPAL CHEFE CONSERVADOR DE FLORESTAS PRINCIPAL CHEFE CONSERVADOR DE FLORESTAS PRINCIPAL CHEFE CONSERVADOR DE FLORESTAS
+ 􏱕􏱖􏱗􏱘􏱙􏱚􏱛 􏱝􏱞􏱖􏱚􏱟􏱠􏱖􏱡􏱛􏱢 􏱣􏱤 􏱥􏱦􏱦􏱧􏱠􏱛
+Organização
+Departamento Florestal, Governo de Chhattisgarh, Raipur
+Instituto de Pesquisa Florestal (Divisão de Produtos Florestais), Debra Dun
+Instituto de Pesquisa Florestal (Divisão de Patologia), Debra Dun
+Instituto de Pesquisa Florestal (Ramo de Botânica Sistêmica), Debra Dun
+Instituto de Pesquisa Florestal (Anatomia da Madeira), Debra Dun
+Instituto de Pesquisa Florestal (Preservação de Madeira), Debra Dun
+Instituto de Pesquisa Florestal (tempero de madeira), Debra Dun
+Gurdit Institute Private L]mited, Dharwar
+Himachal Pradesh State Forest Corporation, Shimla
+Conselho Indiano de Pesquisa e Educação Florestal, Debra Dun
+Instituto Indiano de Tecnologia, Nova Deli
+Instituto Indiano de Pesquisa e Treinamento das Indústrias de Contraplacado,
+Bangalore
+liid;aii Nywcw' liidiid;kt R&%iAi & Trihkg Instdiite, Bangalore
+Instituto Indiano de Pesquisa e Treinamento das Indústrias de Contraplacado, Bangalore
+Força-Tarefa de Madeira de Borracha Indiana, Kottayam
+Instituto de Ciência e Tecnologia da Madeira (Propriedades da Madeira e Divisão de Usos), Bangalore
+Karnataka State Forest Industries Corporation, Bangalore
+Instituto de Pesquisa Florestal de Kerala, Peechi
+Kutty Flush Doors & Furniture Co Pvt Ltd, Chennai
+Madhya Pradesh Rajya Van Vikas Nigam Ltd, Bhopal Ministério do Meio Ambiente e Florestas, Nova Deli
+Ministério das Ferrovias (representado pela RDSO), Nova Delhi Casa Nacional de Testes, Calcutá
+Office of Development Commissioner (Artesanato), Nova Delhi Laboratório de Pesquisa Regional, Jorhat
+Instituto de Pesquisa de Borracha da Índia, Kottayam
+Sivakasi Chamber of Match Industries, Sivakasi Southern Veneers & Wood Works Ltd, Tlllicherry UP Forest Corporation, Lucknow
+Em capacidade pessoal (C/o American Connexion, 214, Fase II Vasant Vihac Debra Dun-248006, Uttaranchal)
+Representante(s)
+PRINCIPAL PRINCIPAL CONSERVADOR DE FLORESTAS
+SHRFV. K. JAIN
+SRI VIMALKOTHTYAL (Alternativo)
+DRA AN SHUKLA
+DR NKS HARSH (Alternativo)
+DR SAS BMWAS
+DR SMER CHAND (Suplente) DR (SMT) SANGITAGUPTA
+DR PK PANDEY (Alternativo) DR. SADHANATRIPATHI
+SHRIAZMALSAMANI (Alternativo) SHRt NIRMALUPRITI
+DR KISHANKUMAR (Suplente)
+SRI YASH KARAN SINGH
+DIRETOR-GERENTE
+DIRETOR EXECUTIVO (Suplente)
+SRI BK BHATJA
+SRI SK KOHLI (Suplente)
+SRI GS BENIPAL
+SHR] K. SHYAMASUNDER
+SHRI S. ZM KAMAL (Suplente)
+&iki ~. C. MEFHEW$
+SRI M. VENUGOPALNAIDU (Suplente)
+SRI S. PADMANABHAN
+SHRI SZM KAMAL (Alternafe)
+SRI C. BHASKARNAYAR
+SHRIV. J. MATHEW (Ahernute)
+REPRESENTANTE
+SRI VP HIREMATH
+SHRI S. SHWAPRAKASH (Alternativo)
+DIRETOR REPRESENTANTE(Suplente)
+SRI K. SANKARAKRISHNA
+COL YG KRISHNAN (Alternativo)
+SRI AK DUBEY Dr. BIPIN BEHARI DIRETOR GERAL DIRETOR (Físico) VICE DIRETOR DIRETOR DIRETOR REPRESENTANTE SRI PK HARLSS GERENTE SÊNIOR DR SATMHKUMAR
+IS 6874:2008
+
+ 􏱕􏱖􏱗􏱘􏱙􏱚􏱛 􏱝􏱞􏱖􏱚􏱟􏱠􏱖􏱡􏱛􏱢 􏱣􏱤 􏱥􏱦􏱦􏱧􏱠􏱛
+Escritório de Padrões Indianos
+O BIS é uma instituição estatutária estabelecido sob o Bureau of Indian Standards Act de 1986 para promover a marcação e que desenvolve harmoniosamente as atividades de padronização e certificação de qualidade de mercadorias atendimento de assuntos conexos no país.
+direito autoral
+O BIS detém os direitos autorais de todas as suas publicações. Nenhuma parte dessas publicações pode ser reproduzida de qualquer forma sem a permissão prévia por escrito do BIS. Isso não impede o livre uso, durante a implementação da norma, de detalhes necessários, como símbolos e tamanhos, designações de tipo ou grau.
+Questões relativas a direitos autorais devem ser dirigidas ao Diretor (Publicações), BIS.
+Revisão dos Padrões Indianos
+As alterações são emitidas para as normas conforme a necessidade surge com base nos comentários. As normas também são revisadas
+periodicamente; uma norma com emendas é reafirmada quando tal revisão indica que nenhuma mudança é necessária; se a revisão indicar que mudanças são necessárias, ela é levada para revisão. Os usuários dos Padrões Indianos devem certificar-se de que possuem as últimas alterações ou edições, consultando a última edição do 'Catálogo BIS' e 'Padrões: Adições Mensais'.
+Este padrão indiano foi desenvolvido a partir do Doc: No. CED 9 (7270).
+Alterações emitidas desde a publicação
+Emenda no Data de emissão
+BUREAU DE NORMAS INDIANAS
+Quartel general :
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, Nova Delhi 110002 Telefones: 23230131,23233375,2323 9402
+Escritórios regionais :
+Texto Afetado
+Central
+Oriental
+Norte :
+Sulista :
+Ocidental
+Galhos :
+: Manak Bhavan, 9 Bahadur Shah Zafar Marg NOVA DELI 110002
+: 1/14 CIT Scheme VII M, VIP Road, Kankurgachi KOLKATA 700054
+SCO 335-336, Setor 34-A, CHANDIGARH 160022
+CIT Campus, IV Cross Road, CHENNAI 600113
+: Manakalaya, E9 MIDC, Marol, Andheri (Leste) MUMBAI 400093
+{
+Telefone
+23233841
+{ AHMEDABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE. FARIDABAD.
+GAZIABAD. GUWAHATI. HYDERABAD. JAIPUR. KANPUR. SORTE. NAGPUR. PARWANOO. PATNA. PUNE. RAJKOT. THIRUVANANTHAPURAM.
+Telegramas: Manaksanstha (Comum a todos os escritórios)
+{
+{
+23378499,23378561 23378626,23379120
+2609285 {
+22541216,22541442 22542519,22542315
+28329295,28327858 28327891,28327892
+VISAKHAPATNAM.
+Impresso na Sunshine Graphics

@@ -1,0 +1,20 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFAC/UFRR
+equipe: Gestão e Parceria Regional
+tipo: Acervo de Consulta RAW (Transcrição)
+autor: Acervo Digital WTF
+data: '2025'
+---
+INPI
+ República Federativa do Brasil
+Ministério da Economia
+Instituto Nacional da Propriedade Industrial
+(11) PI 1002916-8 B1
+(22) Data do Depósito: 25/08/2010 (45) Data de Concessão: 08/12/2020
+*BRPI1002916B1*
+ (54) Título: CONEXÃO NERVURADA PARA TUBOS DE BAMBU
+(51) Int.Cl.: F16B 7/00.
+(73) Titular(es): UNIVERSIDADE FEDERAL DE MINAS GERAIS - UFMG.
+(72) Inventor(es): LUÍS EUSTÁQUIO MOREIRA.
+(57) Resumo: CONEXAO NERVURADA PARA TUBOS DE BAMBU. A presente invenção refere-se a uma "Conexão Nervurada para Tubos", preferencialmente de Bambu, destinada a resistir a esforços mecânicos nos locais da(s) nervura(s), sem deslizamento do elemento transferidor desses esforços e com distribuição dos esforços para uma maior superfície; proporcionando assim condições de análise e de dimensionamento da conexão, bem como a diminuição das tensões criticas locais, resultando em maior eficiência, segurança e campo de aplicabilidade para a conexão. Mais especificamente, a conexão nervurada para tubos pode ter seus principais usos em estruturas reticuladas utilizadas na Construção Civil, como coberturas treliçadas, pórticos e passarelas, bem como móveis e pequenos veículos, como bicicletas, andadores e cadeiras de roda.

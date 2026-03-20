@@ -3,8 +3,9 @@
 Este checklist monitora o progresso da extração de dados e catalogação dos arquivos PDF do legado "Arquivo Institucional".
 
 ## 1. Núcleo de Tecnologia Construtiva
-- [ ] `Imperveg- Relatorio_UFMG.pdf`
+- [x] `Imperveg- Relatorio_UFMG.pdf` (Triaged as `WTF_RES_MARIANA-LOPES_UFMG_IMPERVEG.md`)
 - [ ] `Laminado Bambu e Resina Vegetal.pdf`
+
 - [ ] `Manual-construcao-bambu-Inbar.pdf`
 - [ ] `Biopolímeros, Bambu e Construções Resilientes.pdf`
 

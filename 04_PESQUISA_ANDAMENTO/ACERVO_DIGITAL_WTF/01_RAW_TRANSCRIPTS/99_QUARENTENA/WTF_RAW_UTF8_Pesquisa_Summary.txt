@@ -1,0 +1,21 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFAC/UFRR
+equipe: Gestão e Parceria Regional
+tipo: Acervo de Consulta RAW (Transcrição)
+autor: Acervo Digital WTF
+data: '2025'
+---
+14/10/2025, 14:52 Global Brand Database
+  Help English IP Portal login Collapse navigation
+BRAND NAME BRAND LOGO ADVANCED SEARCH EXPLORE ↗VIENNA ASSISTANT ↗G&S EXPLORER REPORTS
+    Brand name: contains the word 'Institucional' and:
+Nice classification: all of 41 and:
+IP office: any of (BR) INPI
+Edit your search
+TMview
+   Noresultsfound! Resultsview Statisticsview 
+https://branddb.wipo.int/en/advancedsearch/results?sort=score desc&strategy=concept&rows=30&asStructure=%7B"_id":"3c44","boolean":"AND"... 1/2
+
+14/10/2025, 14:52 Global Brand Database
+https://branddb.wipo.int/en/advancedsearch/results?sort=score desc&strategy=concept&rows=30&asStructure=%7B"_id":"3c44","boolean":"AND"... 2/2

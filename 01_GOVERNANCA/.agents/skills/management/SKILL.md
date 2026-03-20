@@ -1,6 +1,6 @@
 ---
 name: Management Skill
-description: Orientação técnica para o desenvolvimento e documentação do Sistema Takwara e Bambu Nativo.
+description: Orientação técnica para o desenvolvimento e documentação do Tecnologia Social Regenerativa e Bambu Nativo.
 ---
 
 # Management Skill
@@ -19,4 +19,4 @@ Esta Skill foca na operação técnica e administrativa do repositório, garanti
 
 ## Manutenção do Repositório
 - Limpeza periódica de arquivos temporários ou redundantes.
-- Verificação de links quebrados entre documentos `docs` e `Arquivo Takwara`.
+- Verificação de links quebrados entre documentos `docs` e `Arquivo Institucional`.

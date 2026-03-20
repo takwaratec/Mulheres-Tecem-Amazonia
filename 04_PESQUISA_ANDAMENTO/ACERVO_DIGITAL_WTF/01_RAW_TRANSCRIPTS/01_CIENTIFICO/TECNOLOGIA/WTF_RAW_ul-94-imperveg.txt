@@ -1,0 +1,99 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFAC/UFRR
+equipe: Gestão e Parceria Regional
+tipo: Acervo de Consulta RAW (Transcrição)
+autor: Acervo Digital WTF
+data: '2025'
+---
+Centro de Caracterização e Desenvolvimento de Materiais UFSCar / UNESP
+CERTIFICADO LCP10-000227
+Cliente: Imperveg Comércio e Prestação de Serviços Ltda. Contato: Tiago Curcio Luciano.
+Endereço: Rua Barão do Rio Branco, 312, Pq Carlota Rehder.
+ Cidade: Aguaí. CEP: 13860-000. OS: 869/1193-0.
+Estado: SP. Data de recebimento da(s) amostra(s): 05/03/10. Período de realização: 12/03/10 – 23/03/10.
+ENSAIO DE FLAMABILIDADE EM AMOSTRA POLIMÉRICA 1 – OBJETIVO
+O objetivo deste trabalho foi determinar o comportamento quanto à flamabilidade de 01 (uma) amostra de poliuretano, conforme a norma UL 94 na posição vertical.
+2 – INTRODUÇÃO/CONSIDERAÇÕES INICIAIS
+A amostra recebida foi identificada conforme a Tabela 1.
+Tabela 1 – Identificação da amostra.
+Identificação do CCDM Identificação do Cliente
+      LCP100267
+3 – METODOLOGIA 3.1 – Flamabilidade
+Amostra de Poliuretano
+    A avaliação da resistência à propagação de chama em materiais poliméricos pode ser feita, em princípio, através de ensaios em larga escala. Nesses ensaios, procura-se verificar o desempenho de materiais em situação real de incêndio. Contudo, para fins de seleção de materiais para aplicações em produtos resistentes à propagação de chama, foram desenvolvidos testes em escala laboratorial, os quais são bastante adequados para a finalidade de comparação de desempenho de materiais ou de diferentes formulações de um mesmo polímero principal.
+Teste de Queima Vertical (V-0, V-1 ou V-2).
+O ensaio de flamabilidade foi realizado conforme a UL 94 V – “Test for Flammability of Plastic Materials for Parts in Devices and Appliances – 20 mm Vertical Burning Test”. Neste ensaio o corpo de prova fica posicionado verticalmente em relação à chama. A montagem utilizada no experimento está apresentada na Figura 1. Em uma de suas extremidades aplica-se a chama por
+A reprodução deste documento deve ser realizada na integra. O laboratório não é responsável em caso de interpretação ou uso indevido que se possa fazer deste documento.
+CERTIFICADO LCP10-000227
+ Via Washington Luiz, km 235 – Caixa postal 60 13565-905 – São Carlos - SP - Brasil
+Fone (55) (16)3351.8835 - Fax (55) (16)3351.8835 E-mail: ccdm@power.ufscar.br - www.ccdm.ufscar.br
+Página 1 de 4
+
+  Centro de Caracterização e Desenvolvimento de Materiais UFSCar / UNESP
+10 segundos e observa-se comportamento do corpo de prova. O tempo entre a retirada da chama e a auto-extinção do fogo no corpo de prova (t1) é registrado. Após a extinção da chama, caso ocorra, aplica-se novamente a chama por mais 10 segundos e registra-se novamente o tempo entre a retirada da chama e a auto-extinção do fogo no corpo de prova (t2). Deve-se registrar também o tempo que o corpo de prova permaneceu incandescente após a segunda aplicação (t3). Os critérios de avaliação do teste de queima vertical da norma UL-94 estão mostrados na Tabela 2.
+Tabela 2 – Critérios de avaliação do teste de queima vertical (norma UL-94).
+CERTIFICADO LCP10-000227
+         Critérios
+Tempo máximo de queima de cada corpo de prova (t1 ou t2)
+Tempo total de queima do conjunto de 5 corpos de prova (somatória t1 + t2 de cada corpo de prova)
+Tempo de queima mais tempo de incandescência de cada corpo de prova após a segunda aplicação da chama (t2 + t3)
+Queima do corpo de prova até o prendedor por propagação da chama ou incandescência
+Queima do algodão por gotas ou fagulhas emitidas.
+V-0 V-1 V-2
+≤10s ≤30s ≤30s ≤50s ≤250s ≤250s
+≤30s ≤60s ≤60s Não Não Não
+Não Não Sim
+              Figura 1 – Sistema utilizado no ensaio.
+O ensaio foi realizado em 23 de março de 2010.
+A reprodução deste documento deve ser realizada na integra. O laboratório não é responsável em caso de interpretação ou uso indevido que se possa fazer deste documento.
+ Via Washington Luiz, km 235 – Caixa postal 60 13565-905 – São Carlos - SP - Brasil
+Fone (55) (16)3351.8835 - Fax (55) (16)3351.8835 E-mail: ccdm@power.ufscar.br - www.ccdm.ufscar.br
+Página 2 de 4
+
+  4 – RESULTADOS 4.1 – Flamabilidade
+Centro de Caracterização e Desenvolvimento de Materiais UFSCar / UNESP
+CERTIFICADO LCP10-000227
+ Os resultados obtidos para a amostra LCP100267 estão apresentados nas tabelas 3 e 4.
+Tabela 3 - Resultados do ensaio de flamabilidade (norma UL 94 V).
+          Amostra
+LCP100267
+de [s]
+prova t 1
+t
+Tempo de Corpo combustão
+Tempo de incandescência (t3) [s]
+- - - - -
+Observações
+Atingiu Algodão suporte
+Não Sim Não Sim Não Sim Não Sim Não Sim
+   1 - - 2 3 3 3 45 4 - 4 5 13 2
+                  Tabela 4 – Avaliação dos critérios para classificação das amostras (UL 94 V).
+    Critérios
+Tempo máximo de queima de cada corpo de prova (t1 ou t2) [s]
+LCP100267
+   Tempo total de queima do conjunto de 5 corpos
+de prova (somatória t1 + t2 de cada corpo de 34 prova) [s]
+Tempo máximo de queima + incandescência de
+cada corpo de prova após a segunda aplicação 5 da chama (t2 + t3) [s]
+  Queima do corpo de prova até o prendedor por propagação da chama ou incandescência
+Queima do algodão por gotas ou fagulhas emitidas.
+Não Sim
+     De acordo com os resultados das tabelas 3 e 4, e aqueles descritos na Tabela 2 (norma UL94 V), por comparação, verifica-se que amostra LCP100267 pode ser classificada como V-2 conforme os critérios da norma UL94 posição vertical.
+A reprodução deste documento deve ser realizada na integra. O laboratório não é responsável em caso de interpretação ou uso indevido que se possa fazer deste documento.
+ Via Washington Luiz, km 235 – Caixa postal 60 13565-905 – São Carlos - SP - Brasil
+Fone (55) (16)3351.8835 - Fax (55) (16)3351.8835 E-mail: ccdm@power.ufscar.br - www.ccdm.ufscar.br
+Página 3 de 4
+
+  Centro de Caracterização e Desenvolvimento de Materiais UFSCar / UNESP
+ a) A amostragem relativa a este documento é de responsabilidade do cliente e estes resultados referem-se apenas as amostras ensaiadas (não extensivo a outras amostras);
+b) As amostras serão mantidas de acordo com o estabelecido no orçamento/contrato. Em caso de ensaios destrutivos serão mantidos somente os registros do serviço. Quando aplicável, a contra prova da amostra será mantida pelo prazo máximo de 1 ano, após a emissão deste documento - ANVISA. Os registros deste serviço serão mantidos por 5 anos.
+São Carlos, 23 de Março de 2010.
+Dr. Marcelo A. Chinelatto Supervisor Técnico
+E-mail: mchinelatto@ccdm.ufscar.br
+ Cláusulas de responsabilidade:
+ A reprodução deste documento deve ser realizada na integra. O laboratório não é responsável em caso de interpretação ou uso indevido que se possa fazer deste documento.
+Via Washington Luiz, km 235 – Caixa postal 60 13565-905 – São Carlos - SP - Brasil
+Fone (55) (16)3351.8835 - Fax (55) (16)3351.8835 E-mail: ccdm@power.ufscar.br - www.ccdm.ufscar.br
+Página 4 de 4
+CERTIFICADO LCP10-000227

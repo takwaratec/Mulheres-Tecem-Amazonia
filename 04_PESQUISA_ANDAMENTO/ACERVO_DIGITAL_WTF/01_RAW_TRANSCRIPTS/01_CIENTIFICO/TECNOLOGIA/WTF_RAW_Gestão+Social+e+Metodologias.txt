@@ -1,0 +1,490 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFAC/UFRR
+equipe: Gestão e Parceria Regional
+tipo: Acervo de Consulta RAW (Transcrição)
+autor: Acervo Digital WTF
+data: '2025'
+---
+Gestão Social e Metodologias Participativas: aproximações teóricas a partir da Cidadania Deliberativa de Habermas
+Social Management and Participatory Methodologies: theoretical approaches based on Habermas's Deliberative Citizenship
+Gisleine do CARMO1 José Roberto PEREIRA2 Vânia Aparecida REZENDE3
+Resumo. Cidadania Deliberativa e Gestão Social se relacionam intrinsecamente na medida em que consistem em ação política deliberativa, cuja autodeterminação dos sujeitos contrapõe a ótica do mercado e atende a democracia social, enquanto igualdade política e decisória. Nesse sentido este ensaio teórico tem como objetivo apresentar aproximações teóricas entre metodologias participativas e Gestão Social a partir do conceito habermasiano de Cidadania Deliberativa. Ao pensar as metodologias participativas e sua aproximação teórica com o campo de saber da Gestão Social sugere-se que haja uma intercessão entre o pragmatismo, e seus pressupostos conceituais, com a defesa da participação e deliberação social. Assim, compreender as metodologias participativas, a partir do que foi proposto nesse ensaio, teve o intuito de contribuir para a construção epistemológica da Gestão Social a partir da discussão desenvolvida sobre métodos e técnicas participativos. Os critérios analisados da Cidadania Deliberativa alinhados às metodologias participativas para a Gestão Social buscaram traçar um panorama descritivo e prático de vários loci e frentes de atuação, permitindo assim como desdobramento o apontamento dos limites e das possibilidades de aproximação das duas frentes teóricas.
+Palavras-chave: Gestão Social, Metodologias Participativas, Cidadania Deliberativa.
+Abstract. Deliberative Citizenship and Social Management are intrinsically related as they consist of deliberative political action, where the self-determination of individuals opposes the market perspective and serves social democracy, understood as political and decision-making equality. In this sense, this theoretical essay aims to present theoretical connections between participatory methodologies and Social Management based on Habermas' concept of Deliberative Citizenship. When considering participatory methodologies and their theoretical
+1 Doutoranda em Administração na Universidade Federal de Lavras Minas Gerais, BRASIL
+gisleinecarmo95@gmail.com
+2 Professor no Departamento de Administração Pública da Universidade Federal de Lavras (UFLA) Minas Gerais, BRASIL
+jpereira@ufla.br
+3 Professora no Departamento de Ciências Administrativas e Contábeis da Universidade Federal de São João del-Rei (UFSJ) Minas Gerais, BRASIL
+vaniarezende@ufsj.edu.br
+AOS, Belém (BR), v.14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+       22
+
+ alignment with the field of Social Management, it is suggested that there is an intersection between pragmatism and its conceptual assumptions with the defense of social participation and deliberation. Thus, understanding participatory methodologies, as proposed in this essay, aims to contribute to the epistemological construction of Social Management based on the discussion of participatory methods and techniques. The criteria analyzed from Deliberative Citizenship, aligned with participatory methodologies for Social Management, sought to outline a descriptive and practical panorama of various loci and areas of action, thus enabling the identification of the limits and possibilities for the intersection of the two theoretical perspectives..
+Keywords: Social Management, Participatory Methodologies, Deliberative Citizenship.
+   AOS, Belém (BR), v.14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+23
+
+ 1. INTRODUÇÃO
+A área de conhecimento da Gestão Social, ambientada no contexto acadêmico desde a década de 1990, adentrou vários conceitos e pressupostos teóricos que embasaram, dentre outros vieses, a perspectiva do desenvolvimento local a partir da inserção do indivíduo nas decisões coletivas das esferas públicas. Em uma visão habermasiana, as decisões passaram a ser orientadas pela racionalidade comunicativa. Nesse sentido, pode-se ancorar essa discussão no conceito de Cidadania Deliberativa, que implica uma rede de debates e negociações onde o sujeito participa de uma democracia e decide o seu destino social, enquanto eleitor, trabalhador ou consumidor. Para tanto, ele precisa participar ativamente dessa democracia, interferindo nas decisões que definem sua situação enquanto sujeito social (Tenório et al., 2008). Assim, a participação configura condição necessária e fundamental para o exercício da Cidadania Deliberativa, o que também vai ocorrer na Gestão Social.
+Por sua vez, o conceito de Gestão Social tem suas raízes na Cidadania Deliberativa. Para Tenório (2008, 2016), esse tipo de cidadania, com fundamentação habermasiana, atribui legitimidade às decisões mediante processos de discussão, orientados por princípios de inclusão, pluralismo, igualdade participativa, autonomia e bem comum. A relação entre Cidadania Deliberativa e Gestão Social tem suas raízes em Tenório (1998), onde é realizada uma comparação entre cidadania liberal e cidadania republicana, tomando como base as ideias de Habermas (1995). Nessa obra, são delineadas as discrepâncias entre as concepções liberal e republicana por meio do processo democrático.
+O modo como o cidadão é visualizado nas concepções liberal e republicana de Habermas (1995) é também distinto. O cidadão na concepção liberal é considerado portador de direitos subjetivos e usufrui da proteção do Estado, já na concepção republicana, o cidadão constitui ator político, participante de uma comunidade de membros livres e iguais, cuja proteção do Estado ocorre por meio da realização de um processo inclusivo de formação da opinião e da vontade política, em prol do bem comum.
+Como alternativa aos dois modelos antitéticos supracitados, Habermas (1995) propôs um terceiro modelo, o modelo procedimental de política deliberativa. Esse modelo “apoia-se precisamente nas condições de comunicação sob as quais o processo político pode ter a seu favor a presunção de gerar resultados racionais, porque nele o modo e o estilo da política deliberativa realizam-se em toda a sua amplitude” (Habermas, 1995, p. 45). Baseando-se nesse conceito, é que Tenório (1998) reconhece a definição de cidadania (e sua relação com a
+AOS, Belém (BR), v.14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   24
+
+ racionalidade comunicativa) e defende a necessidade de construção de uma gestão compatível, destinada ao entendimento, e que alcança o consenso por meio do argumento – a Gestão Social. Cidadania Deliberativa e Gestão Social compartilham uma base comum: a ação política mediada pela deliberação e participação ativa dos sujeitos nas decisões coletivas. Essa perspectiva se contrapõe à lógica do mercado e sustenta uma concepção de democracia como igualdade política efetiva. Assim, analisar os modelos em que essa cidadania se manifesta – com uso de metodologias participativas – torna-se essencial para compreender como essas
+práticas contribuem para o fortalecimento teórico e prático da Gestão Social.
+Segundo Carmo et al. (2022) as metodologias participativas reúnem vários métodos que estimulam a ação e o aprendizado conjunto, possibilitando o acesso dos sujeitos ao poder decisório. Para os autores seu uso implica a circulação de informações entre todos os envolvidos e a internalização coletiva dos problemas e potencialidades sociais. Os autores em um esforço teórico buscaram apontar como o uso de metodologias participativas podem contribuir para a consolidação dos pressupostos teóricos da Gestão Social. Nesse sentido lançaram possibilidade
+de estreitamento teórico com a Gestão Social.
+Diante disso, a partir da contextualização apresentada, a questão que orienta este ensaio
+é: de que forma metodologias participativas podem se aproximar teoricamente do campo da Gestão Social, a partir dos critérios da Cidadania Deliberativa? Assim, o objetivo deste ensaio é apresentar aproximações teóricas entre metodologias participativas e Gestão Social a partir do conceito habermasiano de Cidadania Deliberativa. Para tanto, será utilizado o repertório de metodologias participativas apresentado em Carmo et al. (2023), uma vez que se aproximam no núcleo da Gestão Social e carecem por aprofundamento de seus limites e potencialidades.
+2 CATEGORIAS E CRITÉRIOS DA CIDADANIA DELIBERATIVA: IDENTIFICANDO A GESTÃO SOCIAL
+Tenório (2016) define Cidadania Deliberativa como a prática cidadã manifesta além do voto, sendo ação direta exercida em espaços públicos democráticos, cujas atividades ocorrem em interação com os poderes públicos constituídos. O conceito de Cidadania Deliberativa também invoca o exercício de controle social e participação popular. Para o autor, o exercício da participação popular enseja a participação nas decisões e processos de implementação das políticas públicas; e o exercício do controle social permite a avaliação ou acompanhamento, pelo cidadão, das ações da Administração Pública local.
+AOS, Belém (BR), v.14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   25
+
+ De acordo com Tenório (2016, 2008), a Cidadania Deliberativa acontece na Esfera Pública, pois é onde se torna possível um afastamento da busca por interesses meramente particulares, das relações discriminatórias e de exploração, e onde é exercida a Democracia Deliberativa. Dessa forma, ela articula os cidadãos (sociedade civil), participantes ativos, que questionam as ações empreendidas pelo Estado e pelo mercado.
+Reconhecida a relevância da temática, foi desenvolvido um “modelo de avaliação da participação e da deliberação cidadã nos processos decisórios situados nas esferas públicas ou em políticas públicas praticadas no Brasil” (Villela, 2012, p. 36). O conceito da Cidadania Deliberativa, inicialmente, é, então, subdividido em 7 categorias e variados critérios de análise, conforme mostra o Quadro 1.
+Quadro 1. Categorias e critérios de análise da Cidadania Deliberativa.
+  Categorias
+   Critérios
+  Processos de discussão: discussão de problemas através da autoridade negociada na esfera pública. Pressupõe igualdade de direitos e é entendido como um espaço intersubjetivo e comunicativo que possibilita o entendimento dos atores sociais envolvidos.
+  Canais de difusão; Qualidade da informação; Espaços de transversalidade; Pluralidade do grupo promotor; Órgãos existentes; Órgãos de acompanhamento; Relação com outros processos participativos.
+  Inclusão: incorporação de atores individuais e coletivos anteriormente excluídos dos espaços decisórios de políticas públicas.
+   Abertura dos espaços de decisão; Aceitação social, política e técnica; Valorização cidadã.
+  Pluralismo: multiplicidade de atores (poder público, mercado e sociedade) que, a partir de seus diferentes pontos de vista, estão envolvidos no processo de decisão.
+    Participação de diferentes atores; Perfil dos atores.
+ Igualdade participativa: isonomia efetiva de atuação nos processos de tomada de decisão nas políticas
+Bem comum: bem-estar social alcançado através da prática republicana.
+Forma de escolha de representantes; Discursos dos representantes; Avaliação participativa.
+Objetivos alcançados; Aprovação cidadã dos resultados.
+  Autonomia: apropriação indistinta do poder decisório pelos diferentes atores nas políticas públicas.
+    Origem das proposições; Alçada dos atores; Perfil da liderança; Possibilidade de exercer a própria vontade.
+   Controle social: apropriação, pela sociedade organizada, dos meios e instrumentos de planejamento, fiscalização e análise das ações e serviços.
+    Transparência das informações; Legitimidade social; Acompanhamento de políticas públicas; Instrumentos de controle; Inteligibilidade; Promoção do controle social.
+ Fonte: Adaptado de Tenório et al. (2008, p.11); Allebrandt (2016, p. 47-48); Villela (2012, p. 39-40); Ribas (2016).
+AOS, Belém (BR), v.14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   26
+
+ A sistematização das categorias e critérios da Cidadania Deliberativa apresentada por Villela (2012) e ampliada por Tenório (2016) constitui a base conceitual que orienta esta análise. Essa estrutura é referência consolidada para avaliar a qualidade democrática dos processos participativos no campo da Gestão Social.
+Como forma de sintetizar a estrutura conceitual que orienta este ensaio, a Figura 1 apresenta a inter-relação entre os principais componentes analisados: critérios da Cidadania Deliberativa, métodos e técnicas participativas e sua interface com a Gestão Social.
+Figura 1. Da Cidadnia Deliberativa à prática da Gestão Social
+Fonte: Elaboração própria (2025).
+A figura indica que os princípios da Cidadania Deliberativa orientam os métodos participativos, os quais são compostos por técnicas específicas que lhes conferem aplicabilidade. Essa articulação torna-se a base prática da Gestão Social, reforçando sua dimensão democrática e dialógica.
+3 MÉTODOS PARTICIPATIVOS: APROXIMAÇÕES TEÓRICAS COM A GESTÃO SOCIAL E SEUS CRITÉRIOS DA CIDADANIA DELIBERATIVA
+Partindo da revisão sistemática sobre metodologias participativas, apresentada em Carmo et al. (2023), foi possível proceder com a análise, inicialmente, dos métodos participativos que apresentam potenciais aproximações teóricas com os critérios da Cidadania
+AOS, Belém (BR), v.14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+    27
+
+ Deliberativa e categorias da Gestão Social. Os métodos participativos são apresentados no Quadro 2.
+Quadro 2. Métodos participativos para a Gestão Social.
+  Métodos
+   Descrição
+   Fonte
+  Diagnóstico Participativo; Diagnóstico ambiental participativo (DAP); Diagnóstico Rápido Participativo Emancipador (DRPE)
+  Analisa a situação atual da comunidade e prepara o ambiente para o processo de planejamento
+   Sánchez et al. (2013); Castillo et al. (2020); Pereira (2017)
+  Planejamento participativo, Diagnóstico Rural Participativo (DRP); Diagnóstico Participativo do Sistema Rural (DPSR); Diagnóstico Rápido Participativo (DRP); Planejamento participativo de sistemas agroflorestais; Ziel Orientiert Project Plannung (ZOPP) – Planejamento de Projetos Orientado para Objetivos; Método Altadir de Planificação Popular (MAPP);
+Planejamento Estratégico Situacional (PES)
+ Orienta a identificação, seleção, e hierarquização dos problemas sociais mais relevantes, e estabelece possíveis soluções, partindo dos meios disponíveis
+  Durán (2001); Gomes (2018); Miranda (2009); Canosa (2016);
+Helming e Göbel (1998); Matus (2021);
+Matus (1997)
+  Orçamento participativo
+   Modelo de gestão pública democrática, marcado pela intervenção social nas atividades referentes à gestão orçamentária das organizações públicas
+    Marino (2005)
+  Metodologia participativa do ENALDEF (Encontro Nacional de Departamentos de Fronteira)
+ Promove um espaço de articulação entre vários atores, que estejam alocados no ambiente fronteiriço, visando a formulação e desenvolvimento de uma política pública fronteiriça.
+  Acevedo et al. (2020)
+  Metaplan
+   Conjunto de técnicas para moderação e visualização móvel nos trabalhos em grupo.
+    Magalhães et al. (2019)
+  Framework for Participatory Impact Assessment (FoPIA) – Framework para avaliação participativa de impacto
+  Avalia os impactos das políticas de uso da terra na sustentabilidade regional.
+   Coutinho et al. (2017)
+  Social Multi-Criteria Evaluation (SMCE) – Avaliação Social Multicritério
+  Auxilia os agricultores na reflexão sobre decisões e caminhos cooperativos.
+   Lutz et al. (2017)
+  Structured Democratic Dialogue (SDD) – Diálogo Democrático Estruturado
+  Auxilia a discussão e resolução de problemas complexos coletivamente, por meio um diálogo democrático e estruturado.
+  Habes et al. (2021)
+   AOS, Belém (BR), v.14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+28
+
+   Método Ketso
+   Kit prático para engajamento, composto de várias oficinas para uso na comunidade.
+    Furlong e Tippett (2013)
+ Fonte: Elaborado a partir de Carmo et al. (2023).
+Na sequência serão explorados os critérios da Gestão Social e aqueles métodos que apresentam potencial de fortalecimento desse paradigma. Para isso, serão evidenciadas características adicionais dos métodos. E ainda, serão apontados os limites e as possibilidades de aproximação, de modo a contribuir com a prática e o fortalecimento teórico da Gestão Social. O Quadro 3 mostra a sistematização dessas análises.
+Quadro 3. Sistematização dos métodos participativos.
+  CRITÉRIOS DE ANÁLISE
+    MÉTODOS SELECIONADOS
+    POSSIBILIDADES
+    LIMITES
+    1. Processo de Discussão
+ Todos os métodos
+   Diálogo participativo, Ponto de partida para os processos.
+  Exige um tempo apropriado para aprofundamento, Participação limitada.
+   2. Inclusão
+Planejamento participativo, Diagnóstico Participativo, Orçamento Participativo, Método ENALDEF, SDD
+  Senso de pertencimento, Integração dos excluídos pelo sistema.
+ Número reduzido de participantes.
+   3. Pluralismo
+  SDD, Planejamento Participativo, Método
+ENALDEF
+    Integração entre diferentes perspectivas.
+   Grupos homogêneos.
+   4. Igualdade Participativa
+ Diagnóstico Participativo, Planejamento Participativo
+   Horizontalidade do saber e participação.
+  Superioridade técnica e científica como ideologia.
+   5. Autonomia
+ Diagnóstico Participativo, Planejamento Participativo, Método ENALDEF
+   Base para a emancipação, Posição ativa dos sujeitos.
+  Dependência de instituições governamentais ou de agentes externos.
+ Direcionamento para as Interessesindividuais. 6. Bem Comum Todos os métodos ações.
+AOS, Belém (BR), v.14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   7. Controle Social
+  Orçamento Participativo
+    Monitoramento das ações, Fundamento para mudança de direção.
+   Participação limitada a funções burocráticas.
+    29
+
+    8. Interesse Bem Compreendido
+ Potencialidade em todos os métodos
+   Consenso pela intersubjetividade.
+  Identificação pelas práticas de longo prazo.
+   9. Esferas Públicas
+  Todos os métodos
+    Formação de opinião pública capaz de deliberação.
+   Passível de manipulação por meio de informações falsas.
+   10. Emancipação
+ Potencialidade em todos os métodos
+   Pensamento crítico, autonomia na identificação e resolução de problemas.
+ Exige um processo gradativo, reflexões aprofundadas por meio da continuidade do processo educativo.
+ Fonte: Elaborado pelos autores (2023).
+A categoria de processos de discussão da Cidadania Deliberativa consiste em um critério presente em todos os métodos selecionados. A discussão torna-se pressuposto básico para o desenvolvimento das metodologias participativas. No método de planejamento participativo, presente especificamente nos trabalhos selecionados de Durán (2001) e Canosa (2016), os processos ocorreram a partir de reuniões, em que a população participava de todo o processo.
+O planejamento participativo foi ainda expresso pelos métodos PES, ZOPP e MAPP. Todos esses métodos, em seus diferentes níveis, se orientam pela discussão em grupo, necessária para a identificação dos problemas da comunidade e de soluções criativas (Matus, 2021). Sobre as dificuldades e limitações dos processos de discussão na aplicação do método de planejamento participativo, Durán (2001) mencionou sobre a dificuldade de definir um consenso entre os atores e da limitação da participação.
+Sobre a aplicação dos métodos de planejamento PES, ZOPP e MAPP, Matus (2021) afirma que as dificuldades variam com o contexto e complexidade dos problemas enfrentados, e ainda decorrentes da fragilidade institucional. O autor ainda menciona que é necessário a formação da comunidade sobre o uso da metodologia, de modo que ela não se torne apenas uma referência.
+O método de diagnóstico participativo esteve presente nos trabalhos de Durán (2001), Miranda (2009), Milagres (2011), Sánchez et al. (2013), Madalosso (2014), Gomes (2018), Acevedo et al. (2020), Castillo et al. (2020). Esse método mostrou-se bem consolidado e apresentou variações sendo então adaptado para cada contexto em que é desenvolvido. Para Milagres (2011), os momentos de discussão ajudaram a entender como era na prática a dinâmica de organização dos assentados rurais e como o trabalho era executado no campo.
+AOS, Belém (BR), v.14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   30
+
+ O orçamento participativo, método apresentado por Marino Júnior (2005), funciona como um canal para que a própria população discuta e expresse seus anseios, problemas e necessidades. Esse método é constituído essencialmente pela discussão, sobre obras, projetos públicos, os quais também funcionam como momento de aprendizagem sobre o funcionamento da administração pública.
+A discussão com a comunidade local também compõe a metodologia participativa voltada para proteção do patrimônio cultural imaterial, como destacado no trabalho de Salazar et al. (2020). As discussões nesse método ocorrem por meio de oficinas, onde são relatadas as histórias e os elementos patrimoniais do bairro. Uma dificuldade encontrada nesses processos envolveu a falta de consenso e da definição de critérios comuns para diferenciar o que é patrimônio material e imaterial.
+Na metodologia participativa do ENALDEF as discussões se deram, sobretudo, no âmbito dos grupos focais. Acevedo et al. (2020) relataram que foram estabelecidos diálogos reflexivos sobre a situação dos departamentos de fronteira, por meio do compartilhamento de relatos, experiências, percepções e sentimentos dos participantes.
+A metodologia FoPIA, do artigo de Coutinho et al. (2017), teve as sessões de workshop como seu principal instrumento de realização. As discussões provenientes dessas sessões foram resultantes da consulta participativa e se destinaram ao debate interdisciplinar sobre a expansão da cana de açúcar.
+Os processos de discussão que aconteceram no método Ketso deram prioridade para a compreensão e percepção dos participantes. Segundo Furlong e Tippett (2013), nas oficinas era ressaltado que não haviam respostas certas ou erradas para os questionamentos levantados. Isso permitia um melhor fluxo no debate e um maior aprofundamento.
+O foco do método participativo SMCE está em também gerar discussão, como afirmam Lutz et al. (2017). As discussões no caso analisado foram realizadas de forma bem estruturada metodologicamente, o que permitiu o aprofundamento das questões em debate. O método SDD apresentou relevante contribuição para o critério de processos de discussão. Ele priorizou a reunião de diferentes partes interessadas da sociedade, visando discutir e resolver os problemas complexos de forma coletiva. Como reúne diferentes membros, com formações e visões de mundo variadas, o envolvimento nos debates se torna autêntico e caminha para o alcance de um entendimento compartilhado e consenso sobre as temáticas em discussão (Habes et al., 2021).
+AOS, Belém (BR), v.14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   31
+
+ Por fim, o método metaplan, apresentado por Magalhães et al. (2019), também envolveu processos de discussão em sua realização. Priorizou-se o envolvimento de todos os participantes e o apoio aos processos de conscientização, bem como a cocriação de alternativas e soluções.
+O critério de inclusão foi observado em alguns métodos. No planejamento participativo descrito em Durán (2001), houve uma abertura pelas autoridades locais de Tombos, Minas Gerais, para a participação “de baixo para cima” dos diversos atores da sociedade, incluindo, por exemplo, os setores rurais pobres. Contudo, o autor alerta que a participação de grupos muito heterogêneos compromete a efetividade dos métodos participativos.
+O diagnóstico participativo também priorizou a inclusão. De acordo com Gomes (2018), em seu caso, não participou do método apenas quem não tinha disponibilidade de tempo ou não demonstrou interesse em contribuir. Dessa forma, um grupo heterogêneo foi formado, sendo composto de mulheres, homens, jovens e idosos. Miranda (2009) evidenciou, sobretudo a participação dos atores locais carentes de formação escolar, mas que contribuíram com conhecimentos empíricos valiosos, os quais faltavam às instituições que atuavam na comunidade. No orçamento participativo a inclusão constitui também um critério relevante. Marino Júnior (2005) diz que o orçamento participativo inclui grupos antes marginalizados no processo político, ampliando seu direito de cidadania.
+Salazar et al. (2020) demonstraram a importância do incentivo de participação do maior e mais diversificado número de participantes na aplicação da metodologia participativa voltada para proteção do patrimônio cultural imaterial. Participaram desse método grupos mais desfavorecidos, moradores recentes do bairro estudado, ONGs e outros agentes sociais. De acordo com os autores, essa diversidade propicia uma coesão social, melhora a participação e as relações interpessoais.
+Na metodologia do ENALDEF, Acevedo, Sáez e Rubio (2020) destacam a prática da democracia participativa, a qual possibilita incluir aquelas pessoas que não possuem representação na esfera política. Os autores alertam, porém, que incluir moderadores para facilitar o diálogo entre academia e Estado para a formulação de políticas abre a possibilidade de ocultar os processos participativos, eliminando a voz dos cidadãos. O método Ketso também foi pensado para trabalhar com populações marginalizadas. Por isso, caso surgissem problemas de alfabetização, esses eram rapidamente contornados (Furlong & Tippett, 2013)
+No caso do método SDD, seu próprio objetivo expressa o desejo de inclusão. Ele visava incluir os imigrantes no processo de integração dos grupos minoritários na Ostrobótnia,
+AOS, Belém (BR), v.14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   32
+
+ Finlândia. Esses grupos marginalizados expressam suas próprias lutas e precisam fazer parte da formulação de políticas, de modo que as decisões tomadas também façam sentido para eles (Habes et al., 2021).
+A diversidade de atores participantes na aplicação dos métodos participativos é representada pelo critério de pluralismo. Percebeu-se que, embora os trabalhos aqui analisados sempre priorizem a participação de uma multiplicidade de atores, em termos de faixa etária, gênero, ocupação, não havia, na maioria, manifestações expressas sobre a preocupação em envolver os três setores – Estado, sociedade e mercado.
+O método SDD, no entanto, deixou clara essa preocupação. Havia a participação de atores com diferentes faixas etárias, sexo, religião, origens socioculturais e educacionais, membros de ONGs, partidos políticos, estudantes, desempregados (Habes et al., 2021). No método de planejamento participativo, Durán (2001) também destacou a vinculação de atores sociais, ONGs, Estado, conselhos de participação, ressaltando o exercício da democracia participativa, de modo que os representantes eleitos não sejam os únicos a influenciar as decisões políticas. Da mesma forma, no método ENALDEF participaram professores, estudantes, representantes do executivo, organização da sociedade civil, organismos de cooperação internacional, membros do setor empresarial (Acevedo et al., 2020).
+Em oposição, no método FoPIA priorizou-se a participação de especialistas, avaliando somente uma parte interessada e que contribuiria com conhecimentos estritamente técnicos como embasamento para a construção de cenários de políticas. No entanto, previu-se para etapas posteriores a consulta a outros atores, como representantes do governo, agricultores e profissionais. Os métodos SMCE e metaplan também não deixam clara essa pluralidade. Apesar disso, é importante mencionar que todos os métodos apresentam potencialidade para envolver grupos mais diversos de atores. A análise aqui empreendida resume-se aos contextos de aplicação ressaltadas nos trabalhos selecionados, não expressando sua totalidade.
+Avaliando o critério de igualdade participativa há uma tentativa de valorização da participação de todos os atores considerados para os métodos. Porém, a maioria não informou claramente os requisitos de eleição dos representantes. Em muitos casos, essa participação se limitava à disponibilidade e interesse da comunidade. No planejamento participativo, exposto em Durán (2001), as eleições dos representantes ocorrem de forma democrática. No diagnóstico participativo, eram comuns as eleições plenárias (Gomes, 2018). Todavia, no método SMCE a igualdade participativa fica comprometida, pois o público se envolve apenas no fornecimento
+AOS, Belém (BR), v.14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   33
+
+ de informações, e não nas decisões. Segundo Lutz, Smetschka e Grima (2017), isso acontece para que não ocorra uma sub-representação de grupos específicos e a influência indevida de grupos poderosos.
+O critério de autonomia esteve associado à horizontalidade de participação dos atores nos métodos. Era comum que os participantes fossem considerados parte do processo e liderança do mesmo, como afirmou Durán (2001) ao abordar o planejamento e diagnóstico participativos. Canosa (2016) relatou que em alguns momentos, enquanto mediadora, ela precisou auxiliar os agricultores na realização de tarefas, mas sempre deixava claro que a ideia era que eles se apropriassem do método, garantindo sua autonomia. Em muitos momentos, o papel do mediador era necessário para que os atores se sentissem dispostos, à vontade e confiantes para interagir com o grupo (Gomes, 2018).
+Acevedo et al. (2020) também destacaram a autonomia na aplicação do método do ENALDEF. Para os autores, a participação cidadã, a partir das metodologias participativas, constitui mecanismo de construção de uma voz conjunta, com o objetivo de atingir uma institucionalidade democrática, a qual resulta em governabilidade e empoderamento.
+Considerando as limitações que afetam a autonomia pode-se destacar o orçamento participativo. Marino Júnior (2005) menciona duas dificuldades que podem comprometer a autonomia dos participantes na realização desse método. São apontadas as interferências de cunho político e o controle de grupos políticos mais organizados.
+O critério do bem comum pode ser identificado a partir dos propósitos para os quais as metodologias foram empreendidas. Todos os métodos apresentavam como finalidade atender aos anseios de determinados grupos da população, tendo em vista seu bem-estar social. Os métodos geralmente são parte de um plano maior e buscam atingir um propósito mais amplo.
+O último critério da Cidadania Deliberativa corresponde ao controle social. O método de orçamento participativo se relaciona diretamente com esse critério, por ele próprio representar essencialmente um instrumento de controle das decisões que envolvem a aplicação de recursos públicos. Ele é um instrumento de transparência, accountability e controle dos gastos públicos. Uma limitação desse método se refere a limitação de instrução dos participantes. Pode ainda ocorrer dificuldades também de mobilização dos participantes (Marino Júnior, 2005).
+Analisando agora as categorias teóricas da Gestão Social pode-se também estabelecer aproximações com os métodos participativos selecionados. O interesse bem compreendido
+AOS, Belém (BR), v.14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   34
+
+ (IBC) se faz presente na busca compartilhada de todos os métodos pelo bem-estar social, a partir da promoção de esforços conjuntos em prol da resolução de problemas. Os atores participam dos processos visando atender anseios próprios, mas desde que esses correspondam aos anseios gerais de toda a comunidade.
+Os métodos participativos enquanto instrumentos para a resolução de problemas locais se aproximam do que Gahyva (2006) afirma sobre o sentido do IBC. Ou seja, os cidadãos, a partir da descentralização administrativa, passam a ser responsáveis pela administração de questões locais, a qual ocorre por meio de ações conjuntas e pela interdependência entre os atores. Esse é o mesmo posicionamento descrito em Matus (2021), por exemplo, quando discorre sobre o MAPP. Para o autor, esse é um método que respeita a compreensão da comunidade sobre os problemas locais que a afetam e que cria um senso de compromisso, sendo aplicado em sistemas altamente descentralizados.
+Apesar da potencialidade teórica dos métodos participativos em promover o IBC, sua efetiva concretização esbarra em desafios significativos. Entre eles, destacam-se a dificuldade de garantir práticas dialógicas contínuas, a assimetria de poder entre os participantes e a tendência à imposição de interesses individuais a partir do consenso. Tais obstáculos exigem mediações permanentes e sensibilidade metodológica.
+Sobre a categoria teórica de emancipação, há uma associação dessa com o critério de autonomia da Cidadania Deliberativa. Enquanto atores envolvidos nos métodos participativos e comprometidos com a resolução de problemas locais, percorre-se o caminho na busca pela emancipação. Essa atuação da comunidade torna seus membros seres políticos, livres de opressão e que participam ativamente do espaço onde vivem. A emancipação faz com que os indivíduos critiquem sua realidade e se proponham a transformá-la para o alcance do bem comum (Cançado, 2014). Nas oficinas de discussão do SMCE, por exemplo, os participantes criticavam o sistema agroalimentar vigente e dominante e ao mesmo tempo buscavam diferentes formas de cultivo como solução (Lutz et al., 2017).
+As esferas públicas da Gestão Social constituem as instâncias de aplicação dos métodos participativos. Nelas ocorrem a participação dos membros da comunidade, por meio da discussão (Tenório, 2008). Castillo et al. (2020), ao descrever o método de diagnóstico participativo, ressaltam a promoção dos espaços de encontro para conversa e reflexão, que possibilitam análises compartilhadas em direção a tomadas de decisão sobre o que fazer. E as esferas públicas compartilham exatamente esse objetivo. Elas constituem espaços
+AOS, Belém (BR), v.14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   35
+
+ democráticos, participativos e dialógicos, que exigem novos formatos institucionais para promover o engajamento dos cidadãos nas deliberações públicas (Freitas et al., 2016).
+Gomes (2018) destaca, ainda, no método do diagnóstico participativo, a importância da dialogicidade e intersubjetividade, categorias teóricas complementares as esferas públicas. O autor menciona a necessidade de compreender os extensionistas e os povos rurais em uma relação horizontal, uma vez que todos precisam estar juntos para a construção coletiva de conhecimentos. Nesse mesmo sentido, Acevedo et al. (2020) discorrem sobre a metodologia do ENALDEF como espaço de diálogo e questionamento, que abriga diversos setores da sociedade.
+A categoria complementar de democracia foi também mencionada nos trabalhos sobre os métodos de planejamento e diagnóstico participativo. Os processos de discussão e tomadas de decisão apresentavam caráter democrático, de modo que havia abertura para a população debater sobre os problemas que ela mesmo apresentou. Como limitação destacou-se a heterogeneidade do grupo (Durán, 2001). Em muitos momentos a prática democrática se resumia às decisões da maioria, não abrindo espaço para o consenso, a partir do entendimento, como preconiza a Gestão Social.
+4 TÉCNICAS PARTICIPATIVAS: APROXIMAÇÕES TEÓRICAS COM A GESTÃO SOCIAL E SEUS CRITÉRIOS DA CIDADANIA DELIBERATIVA
+Essa seção será destinada a análise das técnicas participativas identificadas e selecionadas no estudo de Carmo et al. (2023). Muitas vezes elas são utilizadas como etapas específicas para o cumprimento do objetivo geral proposto pelos métodos. Como na seção anterior, serão também apresentadas aproximações teóricas com os critérios da Cidadania Deliberativa e categorias da Gestão Social, de uma forma mais integrada.
+As técnicas participativas, de modo geral, estão contidas nos métodos, sendo acionadas em etapas específicas para garantir sua execução. Elas funcionam como instrumentos que operacionalizam os objetivos metodológicos e tornam concreta a participação. Por exemplo, o método do Planejamento Participativo, amplamente adotado em contextos comunitários, com frequência incorpora técnicas como a “Árvore de Problemas”. utilizada para identificar causas e efeitos de questões sociais, e “Oficinas Participativas”, que permitem aprofundar a análise
+AOS, Belém (BR), v.14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   36
+
+ coletiva sobre soluções. Nesse sentido, a aplicação das técnicas torna-se condição prática para o êxito do método e revela sua dimensão operacional.
+  Métodos
+    Descrição
+    Fonte
+  DiagramadeVenn
+Quadro 4. Técnicas participativas para a Gestão Social.
+Auxilia a análise ambiental,
+com foco em aspectos Souza(2010);Mendes(2018) institucionais.
+  Entrevistas semiestruturadas, Entrevista não estruturada, Grupos Focais
+   Guia para coleta de informações, obtenção de mais detalhes sobre a comunidade.
+  Souza Filho (2006); Madalosso (2014); Acevedo et al. (2020)
+  Fotoidentificação, Entra e Sai
+    Favorece o entendimento das formas de organização da comunidade.
+   Madalosso (2014); Goulart (2018)
+  Calendário de atividades, Travessia, Caminhadas Transversais, Caminhada coletiva guiada
+  Auxilia o estudo do ambiente externo e interno à comunidade.
+ Gomes (2018); Milagres (2011); Souza Filho (2006); Barbosa (2018); Salazar et al. (2020)
+  Árvore de problemas, Árvore de objetivos, Matriz SWOT
+    Possibilita a identificação de problemas e situação atual da comunidade; de causas e efeitos.
+   Sánchez et al. (2013); Acevedo et al. (2020)
+ Brainstorming,Mural
+Facilita a realização do MartinezeCantaloube(2015) desenho participativo.
+  Diagrama de afinidades
+    Promove a organização de dados e informações de acordo com sua compatibilidade.
+   Martinez e Cantaloube (2015)
+  Oficina participativa Minga; World Café, Oficina de discussão
+  Promove a discussão e aprofundamento de questões que permeiam o cotidiano das comunidades.
+ Riaño (2016); Löhr et al. (2020); Smith (2009); Salazar et al. (2020)
+  Fórum híbrido
+    Explora questões sociais em uma escala maior de abrangência.
+   Molina (2019)
+  Cenários futuros, Desenho participativo, Cenários participativos
+   Possibilita a visualização de planos futuros.
+  Evans et al. (2008); Martinez e Cantaloube (2015); Tori et al. (2022); Folhes (2010)
+    AOS, Belém (BR), v.14, 2025
+e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+37
+
+   Mapa causal participativo, Cartografia social, Mapas, Mapa falado; Mapa coletivo, Mapeamento participativo; Calendário sazonal
+   Promove a compreensão de como a comunidade utiliza o espaço geográfico.
+  Aledo et al. (2015); Acevedo et al. (2020); Sánchez et al. (2013); Milagres (2011); Barbosa
+(2018); Souza Filho (2006);
+Madalosso (2014); Souza (2010); Milagres (2011); Smith (2009); Madalosso (2014)
+  CreativeVoice e Photovoice
+    Auxilia na compreensão do contexto atual da comunidade.
+   Lopez et al. (2018); Nykiforuk et al. (2011)
+  Círculo de histórias, Linha do tempo, Memória do bairro, Histórias de vida, Transecto histórico,
+  Auxilia na compreensão de aspectos históricos, memórias da comunidade
+ Hebert et al. (2020); Souza Filho (2006); Gomes (2018); Salazar et al. (2020); Madalosso (2014)
+ Fonte: Elaborado a partir de Carmo et al. (2023).
+Diferente dos métodos, as técnicas, normalmente, são trabalhadas em etapas específicas de um projeto maior. Isso indica que o objetivo geral de um método só poderá ter sua ação completa por meio da integração efetiva entre diferentes técnicas. Isso faz com que a identificação dos critérios da Gestão Social nesses “subcomponentes” das metodologias participativas seja dificultada. Geralmente são observadas nuances de um ou mais critérios na sua realização. Além disso, verificou-se ser necessário também considerar outros parâmetros para uma análise mais completa.
+Esses novos critérios a serem observados podem ser classificados em: tempo de aplicação, continuidade (ideia de processo educativo), interação entre agentes externos e coletividade, retorno dos resultados para a coletividade. O tempo de aplicação se relaciona ao tempo de reflexão da comunidade sobre seus problemas e soluções potenciais. No método DRPE, por exemplo, são reservados de três a cinco dias de intensa interação entre a coletividade e a equipe interdisciplinar (Pereira, 2017). Isso contribui para que as técnicas (entendidas em seu contexto maior) sejam incorporadas ao cotidiano da comunidade e reconhecidas como relevantes.
+A continuidade do processo educativo constitui outro critério essencial para que uma metodologia participativa reproduza as características da Gestão Social. Como Kummer (2007) menciona, é preciso uma preocupação com a continuidade do processo de mudança. Nenhuma técnica deve ser aplicada de modo isolado e desconectada de um propósito maior, traduzido pelos métodos. Se as técnicas são aplicadas em um período ou durante todo o dia, mas não
+AOS, Belém (BR), v.14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   38
+
+ apresentarem continuidade e integração, o seu poder emancipador e a expressão dos critérios da Cidadania Deliberativa ficam comprometidos.
+A continuidade do processo educativo também estabelece relação com a condição de inacabamento inerente a existência humana, como apontado por Freire (1987). Os indivíduos são seres inacabados e conscientes dessa condição. Por isso, um evento isolado não é capaz de grandes feitos. É a partir da perenidade do processo educativo que surge a possibilidade de transformação da realidade. E isso se dá por meio da conscientização e do diálogo, em que o indivíduo se torna conhecedor de sua condição histórica e sujeito do seu próprio processo educativo (Freire, 1992).
+Outro critério adicional, como mencionado, refere-se à interação entre os agentes externos e a coletividade. Destacam-se aqui o papel dos facilitadores, moderadores e equipes interdisciplinares. Em termos gerais, esses agentes externos realizam a moderação do grupo, da participação e atuação da comunidade. A moderação promove “a aprendizagem de novas relações de trabalho, otimizando recursos e conhecimentos presentes no grupo, em prol da elaboração criativa de soluções para os problemas a serem enfrentados” (Colette, 2010).
+Portanto, a interação estabelecida entre os agentes externos e a coletividade deve contribuir para a livre expressão. O moderador necessita ter familiaridade e adquirir conhecimento acerca das técnicas, ser capaz de despertar o interesse e a curiosidade dos participantes, facilitar a comunicação (evitando qualquer manipulação de ideias) e contribuir para promover a autoconsciência.
+Por fim, destaca-se o critério de retorno dos resultados para a coletividade. A aplicação de cada uma das técnicas que compõe um método participativo precisa contar com o envolvimento da comunidade em todas as etapas. E isso envolve inclusive o retorno, pelos agentes facilitadores, sobre os resultados obtidos, haja vista que as ações empreendidas são realizadas pela e para a comunidade.
+No desenvolvimento de uma metodologia participativa nada poderá ser concluído ou proposto sem a anuência dos participantes. Voltar à comunidade faz com que seja confirmado o que era previsto para acontecer. Ou ainda, pode ser uma forma de recolher novas sugestões. Isso reforça o vínculo entre os agentes externos e a coletividade e o compromisso social com o processo. A partir desse ponto, o Quadro 5 apresenta um rol de técnicas participativas, seus limites e possibilidades, em associação com os critérios da Gestão Social. No entanto, como há limitações advindas de uma interpretação isolada das técnicas participativas, serão apontadas
+AOS, Belém (BR), v.14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   39
+
+ aquelas que teriam mais potencial de aproximação com os critérios da Gestão Social, se observados os critérios adicionais apresentados anteriormente.
+Quadro 5. Sistematização das técnicas participativas.
+  CRITÉRIOS DE ANÁLISE
+    TÉCNICAS SELECIONADAS
+    POSSIBILIDADES
+    LIMITES
+    1. Processo de Discussão
+ Grupos focais, diagrama de venn, oficinas participativas, árvore de problemas e objetivos, SWOT, calendário sazonal, desenho participativo
+  Integração entre os membros da coletividade, debates críticos sobre a realidade.
+   Participação limitada pelo tempo possível de reflexões críticas.
+   2. Inclusão
+Mapeamento participativo, caminhada transversal, árvore de problemas e objetivos, oficinas participativas, diagrama de venn, photovoice, entrevistas, SWOT, calendário sazonal, desenho participativo
+ Participação daqueles excluídos do sistema.
+  Baixa adesão, influência de grupos “poderosos”, possibilidades de manipulação por meio de informações falsas.
+   3. Pluralismo
+ Mapeamento participativo, caminhada transversal, árvore de problemas e objetivos, SWOT, diagrama de venn, photovoice, entrevistas, calendário sazonal, desenho participativo
+  Integração de diferentes percepções sobre os problemas e soluções.
+   Número reduzido de participantes reduz probabilidade de pluralismo.
+   4. Igualdade Participativa
+  Mapeamento participativo, caminhada transversal, árvore de problemas e objetivos, SWOT, photovoice, entrevistas, calendário sazonal, desenho participativo
+   Horizontalidade do conhecimento, contribuições sem juízos de valor.
+    Imposição de conhecimentos técnicos e científicos, falta de integração entre comunidade e membros externos.
+   5. Autonomia
+Mapeamento participativo, caminhada transversal, SWOT, oficinas participativas, calendário sazonal, desenho participativo
+ Análise da própria realidade, dos pontos positivos e de melhoria.
+  Mecanismos de poder de persuasão de parte do grupo sobre a outra parte, falta de reconhecimento do potencial da coletividade.
+   6. Bem Comum
+  Mapeamento participativo, SWOT, oficinas participativas, calendário sazonal, desenho participativo
+   Cooperação e solidariedade em torno de objetivos que beneficiam a coletividade.
+    Consenso pela maioria, não pelos argumentos.
+   7. Controle Social
+SWOT, diagrama de venn, entra e sai, calendário sazonal, desenho participativo
+ Monitoramento das instituições e acompanhamento dos objetivos.
+  Participação por meios institucionalizados pode limitar a criticidade e a tomada de decisão.
+   8. Interesse Bem Compreendido
+  SWOT, oficinas participativas, calendário sazonal, desenho participativo
+   Identificação pelas práticas de longo prazo (alcance mediante a integração com outras
+    Imposição de interesses individuais em detrimento de práticas associativas, manipulação de
+    AOS, Belém (BR), v.14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+40
+
+       técnicas).
+   vontades.
+   9. Esferas Públicas
+  Potencialidade em todos as técnicas
+   Formação de opinião pública comum capaz de influenciar decisões políticas.
+    Riscos de manipulação dos comportamentos por meio de informações falsas.
+   10. Emancipação
+ Mapeamento participativo, oficinas participativas, SWOT, calendário sazonal, desenho participativo
+  Atitudes autônomas no processo decisório (alcance mediante a integração com outras técnicas).
+   Vinculação das técnicas a um propósito maior sem o conhecimento dos participantes.
+   11. Tempo de aplicação
+Photovoice, diagrama de venn, grupo focal, oficina participativa, mapeamento participativo
+ Tempo flexível significa continuidade do processo educativo capaz de promover reflexões críticas e transformar as práticas.
+  Falta de disponibilidade de tempo dos participantes da coletividade pode
+interromper processo educativo.
+o
+   12. Continuidade (ideia de processo educativo)
+ SWOT, desenho participativo, cenário participativo
+  Continuidade significa cumprir etapas de um processo educativo que poderá levar a reflexões críticas da coletividade.
+   A falta de continuidade do processo educativo pode levar ao individualismo e aversão ao associativismo.
+   13. Interação entre agentes
+externos coletividade
+e
+ Photovoice, diagrama de venn, caminhada transversal, mural, mapeamento participativo
+  Interações intensas e contínuas entre agentes externos e coletividade poderá proporcionar melhores condições para o êxito do processo educativo.
+   A falta de interação entre agentes externos e coletividade pode levar ao desinteresse de continuidade do processo.
+   1 4 . Retorno dos resultados para a coletividade
+ Oficina participativa, grupo focal
+   A entrega de resultados para a coletividade poderá estimular a continuidade do processo educativo.
+    Apenas coletar informações com a coletividade poderá desestimular novas participações.
+14.
+Fonte: Elaborado pelos autores (2023).
+As técnicas podem ser agrupadas de acordo com o objetivo que pretendem alcançar. Aquelas voltadas para o mapeamento participativo, cartografia social, mapa causal participativo, mapa coletivo e mapa falado buscam conhecer a realidade social e sua relação
+AOS, Belém (BR), v.14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   41
+
+ com o espaço físico. O mapeamento participativo permite compreender como a comunidade utiliza o espaço geográfico.
+Os conhecimentos gerados na técnica supracitada embasam o planejamento, a discussão e análise sobre o uso do espaço da comunidade, suas condições de vida e projeções (Milagres, 2011). Dessa forma, é possível associar o mapeamento participativo e suas variações aos critérios de autonomia, inclusão, pluralismo, igualdade participativa, bem comum, emancipação. A diversidade de pessoas e o tratamento igualitário precisam ser considerados nessas técnicas, as quais geram esforços em prol da coletividade.
+Do mapeamento são gerados mapas, normalmente após a realização de caminhadas transversais, para a representação gráfica do espaço social. Uma variação interessante refere-se ao mapa causal participativo. Nessa técnica identificam-se as variáveis relacionadas às causas e alternativas para minimização dos impactos negativos, como demonstrado no estudo de Aledo et al. (2015).
+Outras técnicas priorizam o diagnóstico de problemas específicos, como a árvore de problemas e a árvore de objetivos. A árvore de problemas, presente no trabalho de Sánchez et al. (2013), estava voltada para a identificação de causas e efeitos da degradação de recursos naturais, por meio de uma representação gráfica. E a árvore de objetivos buscava identificar os meios e fins dessas causas e efeitos elencados. Essas técnicas funcionam a partir de processos de discussão, critério associado a Cidadania Deliberativa, garantindo que todos possam contribuir com suas percepções. Para isso, é preciso haver nos espaços inclusão, pluralismo e igualdade participativa.
+Como complemento, a técnica de matriz SWOT visa identificar os pontos fortes e as ameaças relativas a um determinado contexto. No trabalho de Acevedo et al. (2020), a matriz possibilitou que os participantes pudessem analisar os fatores internos e externos que precisavam ser promovidos ou minimizados, tendo em vista criar alternativas para a política fronteiriça. Essa técnica possibilita o exercício do controle social, tendo em vista o alcance do bem comum e compreensão do interesse bem compreendido.
+Há outras técnicas voltadas para a análise ambiental com priorização de aspectos institucionais. É o caso do diagrama de venn, que por meio de visualização gráfica, analisa o papel de instituições e pessoas na comunidade. No trabalho de Souza (2010), a técnica foi utilizada para identificar as organizações e pessoas que influenciavam no desenvolvimento e gestão local e interpretar a visão dos grupos sociais envolvidos.
+AOS, Belém (BR), v.14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   42
+
+ Ainda em relação ao estudo do ambiente externo e interno à comunidade, destaca-se a técnica de travessia, ou caminhada transversal. A travessia é a caminhada que percorre todo o espaço geográfico que a comunidade habita. Nesse percurso é possível obter informações sobre aspectos naturais, econômicos e físicos do ambiente onde a comunidade reside (Milagres, 2011). Nessa técnica as pessoas são estimuladas a pensar sobre o seu ambiente e projetar ações para a melhoria de aspectos problemáticos (Barbosa, 2018). A caminhada gera novas formas de socialização na comunidade, a partir do compartilhamento de vivências coletivas (Salazar et al., 2020).
+Um outro conjunto de técnicas selecionadas tem o objetivo de compreender a história e memórias da comunidade. O transecto histórico, por exemplo, corresponde às representações em desenho que mostram as relações entre categorias. No caso apresentado por Madalosso (2014) essa técnica possibilitou a identificação das variáveis do sistema agroecológico analisado, as mudanças que ocorreram ao longo dos anos e as adaptações executadas pelas famílias. É importante assegurar os critérios de igualdade participativa, pluralismo e inclusão.
+Outros exemplos de técnicas voltadas para a análise histórica são: memória do bairro, linha do tempo, círculos de histórias. A memória do bairro resgata, por meio de fotos, histórias de uma determinada localidade, por meio de oficinas ou espaços virtuais (Salazar et al., 2020). A linha do tempo visa aprofundar o conhecimento do processo histórico vivenciado pela comunidade (Souza Filho, 2006). Os círculos de histórias referem-se à reunião de pessoas em círculos, de modo que elas discorram suas histórias individuais sobre um determinado tópico. São várias rodadas e as pessoas podem compartilhar e refinar suas histórias (Hebert et al., 2020).
+Afastando-se do aspecto histórico e visando compreender o contexto atual da comunidade, as técnicas photovoice e creativevoice podem constituir formas interessantes. O photovoice é uma técnica em que os participantes da comunidade usam fotografias (e suas histórias) para identificar e representar questões que consideram importantes (Nykiforuk et al., 2011). O creativevoice se assemelha ao photovoice, incluindo gêneros distintos de expressão artística, não apenas fotos. A técnica possibilita ainda estabelecer conexões com o passado e visões para o futuro (Lopez et al., 2018).
+Ainda com o objetivo de compreender o cenário atual da comunidade, existem técnicas relacionadas com o entendimento das formas de organização. A fotoidentificação, apresentada por Madalosso (2014), por exemplo, visa aprofundar o conhecimento sobre a comunidade, por meio da análise de seus recursos. Outro exemplo é a técnica entra e sai, que analisa os dados
+AOS, Belém (BR), v.14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   43
+
+ econômicos e de produção (interação entre subsistemas), por meio da elaboração de fluxos de entradas e saídas (Madalosso, 2014).
+O calendário de atividades e o calendário sazonal também objetiva avaliar como a sociedade se organiza. O calendário é uma técnica para relacionar eventos ou atividades realizadas pela comunidade em cada período. Ele envolve o conhecimento local (Madalosso, 2014) e incita processos de discussão para explorar as funções exercidas por cada membro ao longo do ano. Essa ação expressa a consciência política da comunidade (Gomes, 2018) e para tanto, precisa adotar os critérios de inclusão, pluralismo, igualdade participativa, controle social, bem comum, autonomia, interesse bem compreendido, emancipação.
+Em qualquer momento da aplicação dos métodos participativos existem técnicas que podem ser aplicadas para a melhor compreensão de questões consideradas pertinentes. Essas técnicas podem ser as entrevistas, oficinas participativas, brainstorming, grupos focais, mural, diagrama de afinidades.
+As entrevistas servem para conhecer mais sobre a história e fatos passados relacionados aos modos de vida da comunidade (Madalosso, 2014). Elas ocorrem por meio de conversas informais com as pessoas e devem priorizar a inclusão, o pluralismo e a igualdade participativa. As oficinas de discussão (oficinas participativas) são técnicas que podem apresentar finalidades distintas, mas normalmente sempre voltadas para a discussão e aprofundamento de questões que permeiam o cotidiano das comunidades.
+As oficinas biográficas Minga foram fundamentais para promover inclusão e transformação pessoal, a partir dos questionamentos levantados sobre inferioridade das mulheres migrantes e exclusão social, como apresentado por Riaño (2016). As próprias participantes sugeriram como se daria sua participação, por meio de propostas inovadoras. Essa técnica possibilitou a melhoria da inclusão, o acesso ao mercado de trabalho e o reforço da autoestima das mulheres (Riaño, 2016). Isso destaca os critérios de bem comum, interesse bem compreendido, autonomia e emancipação.
+A técnica de brainstorming busca o compartilhamento de ideias sobre determinadas questões. Para a sua realização não há muitos critérios, de modo que exista liberdade e espontaneidade na manifestação de quaisquer pensamentos que as pessoas definirem como importante e necessário. Devido a sua arbitrariedade é necessário se atentar para a inserção de mecanismos que garantam a inclusão, o pluralismo, a igualdade participativa nos processos de discussão.
+AOS, Belém (BR), v.14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   44
+
+ Os grupos focais são especialmente compostos por processos de discussão, abrindo espaço para diálogos reflexivos. No caso explorado por Acevedo et al. (2020), os grupos focais permitiram que os atores (representantes dos territórios) pudessem trazer relatos explícitos e expressassem seus sentimentos e percepções. O objetivo era construir democracia, equidade e unidade entre os países.
+A técnica de mural também deve ser utilizada em conjunto com outras metodologias. O objetivo é ampliar o conhecimento sobre a realidade local, partindo da análise entre grupos. Por meio do mural é possível integrar e envolver os membros da comunidade, além de explorar suas identidades. É preciso existir inclusão, pluralismo e igualdade participativa.
+A técnica diagrama de afinidades, apresentada por Martinez e Cantaloube (2015), abrange a organização de dados e informações de acordo com sua compatibilidade. Dessa técnica deriva uma classificação, definida com base no consenso da equipe de trabalho. É importante a participação e apoio de todo o grupo.
+Para explorar questões em uma escala maior de abrangência, pode ser utilizada a técnica de fórum híbrido. Segundo Molina (2019), o fórum híbrido, em contraposição aos modelos tradicionais compostos de especialistas e políticos, precisa ser composto de diferentes atores. Essa técnica busca a eliminação das hierarquias de poder e permite a análise de problemas que afetam a comunidade. Os fóruns envolvem processos de discussão, inclusão, pluralismo, igualdade participativa, autonomia, bem comum, interesse bem compreendido, controle social e emancipação.
+Por fim, têm-se aquelas técnicas que priorizam a visualização de planos futuros. Uma delas é o desenho participativo. Essa técnica permite que as pessoas definam novas formas de organização do próprio espaço onde vivem. Eles geram novas propostas que refletem os interesses coletivos, a partir do entendimento das necessidades das próprias pessoas. Outra técnica é o cenário participativo (cenário futuro). Nessa técnica as pessoas se reúnem para vislumbrar e planejar o futuro. Além disso, são tomadas decisões e estabelecidos compromissos sobre questões importantes (Evans et al., 2008). Todos os critérios da Gestão Social podem também ser visualizados nessas técnicas.
+5 CONCLUSÃO
+As metodologias participativas analisadas neste ensaio revelam não apenas um potencial técnico-operacional, mas principalmente um alinhamento conceitual com os fundamentos da
+AOS, Belém (BR), v.14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   45
+
+ Gestão Social, especialmente no que tange à deliberação pública e ao fortalecimento da cidadania ativa. Ao promover processos coletivos de diagnóstico, planejamento e avaliação, essas metodologias mobilizam os sujeitos sociais como protagonistas da transformação local.
+A análise dos métodos e técnicas à luz dos critérios da Cidadania Deliberativa permitiu evidenciar tanto as possibilidades quanto os limites de sua aplicação. Observou-se que, quando articuladas a processos contínuos e mediados por práticas emancipatórias, as metodologias participativas podem, de fato, consolidar práticas de gestão orientadas ao bem comum, à inclusão e ao controle social.
+Desse modo, o presente trabalho contribui não apenas para a sistematização teórica, mas também para o delineamento de caminhos metodológicos que aproximam a prática participativa da Gestão Social em sua dimensão crítica e transformadora. Essa aproximação, ao mesmo tempo empírica e normativa, reforça o papel das metodologias participativas como instrumentos de reforço da democracia nas esferas públicas contemporâneas.
+Os critérios analisados da Cidadania Deliberativa, sendo: processos de discussão, inclusão, pluralismo, igualdade participativa, autonomia, bem comum e controle social (além das categorias teóricas a Gestão Social) foram alinhados aos métodos participativos para a Gestão Social, identificados na revisão de literatura. Nesse sentido, foi possível traçar um panorama descritivo e prático de vários loci e frentes de atuação, permitindo assim como desdobramento o apontamento dos limites e as possibilidades de aproximação das duas frentes teóricas aqui abordadas. Considera-se que houve uma contribuição, de fato, com a prática e o fortalecimento teórico da Gestão Social, sobretudo ao serem refletidos novos critérios (tempo de aplicação, continuidade, interação entre agentes externos e coletividade, retorno dos resultados para a coletividade) para a perenidade de seus efeitos.
+Deve-se enfatizar que este trabalho não tem a intenção de esgotar um debate, ainda com amplo potencial de desenvolvimento. A própria caracterização da Gestão Social pressupõe um processo de uma gestão dialógica e participativa, sempre defendendo a emancipação do cidadão no sentido da solidariedade e promoção do bem comum. Ao sistematizar as técnicas participativas como um esforço final, este ensaio teórico se ampara mais nas possibilidades de avanços que nos limites apresentados. Sugere-se, por exemplo, que estudos empíricos futuros se dediquem à escuta ativa dos participantes desses processos metodológicos, a fim de verificar em que medida as experiências concretas de inclusão, deliberação e autonomia se alinham com as proposições teóricas aqui sistematizadas.
+AOS, Belém (BR), v.14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   46
+
+ Tal postura vai de encontro com a significativa representação acadêmica que esta área apresenta e conquista sua consolidação contínua e gradativamente.
+Referências
+Acevedo, E. M., Sáez, F. A., & Rubio, G. E. (2020). Metodologías participativas en la construcción de políticas públicas migratorias en la frontera colombiana. Si Somos Americanos. Revista de Estudios Transfronterizos, (2), 116-137.
+Aledo, A., García-Andreu, H., & Pinese, J. (2015). Using causal maps to support ex-post assessment of social impacts of dams. Environmental Impact Assessment Review, 55, 84-97.
+Allebrandt, S. L. (2016). Gestão social e deliberação em espaços públicos: categorias e indicadores para monitoramento e análise. In F. G. Tenório (Org.), Cidadania, território e atores sociais, Volume 4. Rio de Janeiro: FGV Editora.
+Barbosa, T. M. (2018). Metodologias participativas para o planejamento orgânico de unidades de produção familiares em Casimiro de Abreu e Silva Jardim - RJ (Dissertação de Mestrado profissional em Agricultura Orgânica). Instituto de Agronomia, Universidade Federal Rural do Rio de Janeiro, Seropédica - RJ.
+Canosa, G. A. (2016). Proposta Metodológica para planejamento participativo de sistemas agroflorestais junto a agricultores (as) familiares (Dissertação de Mestrado). Curso de Mestrado em Agroecologia e Desenvolvimento Rural Sustentável, Universidade Federal da Fronteira Sul, Laranjeiras do Sul.
+Carmo, G., Pereira, J. R., & Rezende, V. A. (2022). Metodologias Participativas: Possibilidades para o Fortalecimento Teórico da Gestão Social. In XLVI Encontro da ANPAD - EnANPAD 2022. Online. XLVI Encontro da ANPAD EnANPAD 2022.
+Carmo, G. do, Pereira, J. R., & Rezende, V. A. (2023). Methods and Techniques for More Participatory and Emancipatory Management: A Systematic Review of Possibilities.
+AOS, Belém (BR), v.14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   47
+
+ Revista De Gestão Social E Ambiental, 18(3).
+Castillo, A. A. C., et al. (2020). Diagnóstico ambiental participativo con jóvenes de una Reserva Ecológica municipal para el diseño de una propuesta de educación ambiental no formal. Acta Universitaria, 30, 1-20.
+Colette, M. M. (2010). Moderação. In M. Brose (Org.). Metodologia Participativa: uma introdução a 29 instrumentos (p. [Páginas]). Porto Alegre: Tomo Editorial.
+Coutinho, H. L. C., Turetta, A. P. D., Monteiro, J. M. G., Castro, S. S., & Pietrafesa, J. P. (2017). Participatory sustainability assessment for sugarcane expansion in Goiás, Brazil. Sustainability (Switzerland), 9(9).
+Durán, R. F. M. (2001). A participação de atores sociais na formulação do plano de desenvolvimento rural do município de Tombos – M.G. (Dissertação de Mestrado em Extensão Rural). Universidade Federal de Viçosa, Viçosa.
+Evans, K., De Jong, W., & Cronkleton, P. (2008). Future scenarios as a tool for collaboration in forest communities. Sapiens, 1(2), 97-103.
+Folhes, R. T. (2010). Cenários de mudanças de uso da terra na Amazônia: explorando uma abordagem participativa e multi-escala no PAE Lago Grande, em Santarém-Pará (Dissertação de Mestrado em Ciências Ambientais). Instituto de Geociências, Universidade Federal do Pará, Museu Paraense Emílio Goeldi, Empresa Brasileira de Pesquisa Agropecuária, Belém.
+Freire, P., & Schor, I. (1987). Medo e Ousadia: O Cotidiano do Professor. Rio de Janeiro: Paz e Terra.
+Freire, P. (1992). Pedagogia da Esperança. Rio de Janeiro: Paz e Terra.
+Furlong, C., & Tippett, J. (2013). Returning knowledge to the community: An innovative
+AOS, Belém (BR), v.14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   48
+
+ approach to sharing knowledge about drinking water practices in a peri-urban community. Journal of Water Sanitation and Hygiene for Development, 3(4), 629-637.
+Gomes, I. E. (2018). A cultura de um povo que luta: uma produção audiovisual sobre a Sociologia Rural da Comunidade Quilombola Lages dos negros – BA (Dissertação de Mestrado em Extensão Rural). Universidade Federal do Vale do São Francisco, Juazeiro - BA.
+Goulart, B. C. S. (2018). A dinâmica de estercos em agroecossistemas familiares (Dissertação de Mestrado em Agroecologia). Universidade Federal de Viçosa, Viçosa.
+Habermas, J. (1995). Três modelos normativos de democracia. Lua Nova, São Paulo, no 36, 39-53.
+Habes, H., Björkqvist, K., & Andreou, A. (2021). The application of the structured democratic dialogue to generate action plans for a successful integration process in Swedish- speaking Ostrobothnia. Social Sciences, 10(2), 1-14.
+Hebert, L. E., Bansal, S., Lee, S. Y., Yan, S., Akinola, M., Rhyne, M., Menendez, A., & Gilliam, M. (2020). Understanding young women’s experiences of gender inequality in Lucknow, Uttar Pradesh through story circles. International Journal of Adolescence and Youth, 25(1), 1-11.
+Helming, S., & Göbel, M. (1998). Questões fundamentais do desenvolvimento empresarial. In M. Zopp (Ed.). Planejamento de Projetos Orientado por Objetivos: Um guia de orientação para o planejamento de projetos novos e em andamento. Trad. port.: Monika Möbius. Eschborn: Deutsche Gesellschaft für Technische Zusammenarbeit (GTZ) GmbH.
+Löhr, K., Weinhardt, M., & Sieber, S. (2020). The “World Café” as a Participatory Method for Collecting Qualitative Data. International Journal of Qualitative Methods, 19, 1- 15.
+AOS, Belém (BR), v.14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   49
+
+ Lopez, F. R., Wickson, F., & Hausner, V. H. (2018). Finding creative voice: Applying arts- based research in the context of biodiversity conservation. Sustainability (Switzerland), 10(6).
+Lutz, J., Smetschka, B., & Grima, N. (2017). Farmer cooperation as a means for creating local food systems - Potentials and challenges. Sustainability (Switzerland), 9(6).
+Madalosso, S. (2014). A resiliência de sistemas socioecológicos baseada nos meios de vida dos pescadores da Ponta da Juatinga e no processo de recategorização da Reserva Ecológica da Juatinga, Paraty, Rio de Janeiro, Brasil. (Dissertação de Mestrado em Práticas em Desenvolvimento Sustentável). Instituto de Florestas, Universidade Federal Rural do Rio de Janeiro, Seropédica-RJ.
+Magalhães, L., Farias, L., Rivas-Quarneti, N. R., Alvarez, L., & Malfinato, A. P. S. (2019). The development of occupational science outside the Anglophone sphere: Enacting global collaboration. Journal of Occupational Science, 26(2), 181-192.
+Marino Jr., J. (2005). O orçamento participativo e poder local - um estudo sobre Araraquara, Franca e São Carlos no período 1999/2002. (Tese de Doutorado em Ciências Humanas). Universidade Federal de São Carlos, São Carlos.
+Martinez, C. F., & Cantaloube, É. N. C. (2015). Diseño participativo de espacios urbanos bioclimáticos. Experiencia en Mendoza (Argentina). Cuadernos de Vivienda y Urbanismo, 8(15), 36-55.
+Matus, C. (1997). O Método PES: roteiro de análise teórica. São Paulo: FUNDAP.
+Matus, C. (2021). Método Altadir de planificación popular (1a ed revisada). Remedios de Escalada: De la UNLa - Universidad Nacional de Lanús. Disponível em: https://repositorio.esocite.la/977/1/Matus2021-MetodoAltadirPlanificacion.pdf Acessado em 06 dez. 2022.
+AOS, Belém (BR), v.14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   50
+
+ Mendes, V. S. (2018). Análise de Sustentabilidade e apoio extensionista na comunidade rural Bom Jesus - Delmiro Gouveia - Alagoas. (Dissertação de Mestrado Profissional em Extensão Rural). Universidade Federal do Vale do São Francisco.
+Milagres, C. S. F. (2011). O uso da cartografia social e das técnicas participativas no ordenamento territorial em projetos de Reforma Agrária. (Dissertação de Mestrado em Instituições sociais e desenvolvimento; Cultura, processos sociais e conhecimento). Universidade Federal de Viçosa, Viçosa.
+Miranda, H. R. (2009). Planejamento participativo, desenvolvimento local e metodologias participativas: projetos de intervenção e participação em pequenas comunidades rurais da Amazônia paraense. (Dissertação de Mestrado). Universidade Federal do Pará, Núcleo de Meio Ambiente, Belém. Programa de Pós-Graduação em Gestão de Recursos Naturais e Desenvolvimento Local na Amazônia.
+Molina, B. (2019). Hybnd forums, participation and Sustainable management of world heritage sites, The case of Santa Ana de Cuenca. Methaodos. Revista de Ciencias Sociales, 7(2), 225-243.
+Nykiforuk, C. I., Vallianatos, H., & Nieuwendyk, L. M. (2011). Photovoice as a Method for Revealing Community Perceptions of the Built and Social Environment. International Journal of Qualitative Methods, 10(2), 103-124.
+Pereira, J. R. (2017). Diagnóstico Participativo: o Método DRPE (1. ed.). Tubarão: Perito, v. 1.
+Riaño, Y. (2016). Minga biographic workshops with highly skilled migrant women: enhancing spaces of inclusion. Qualitative Research, 16(3), 267–279.
+Ribas, T. A. M. (2016). Controle social do desenvolvimento regional à luz da gestão social no âmbito do Corede Missões (Dissertação de Mestrado em Desenvolvimento).
+AOS, Belém (BR), v.14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   51
+
+ Universidade Regional do Noroeste do Estado do Rio Grande do Sul (Campus Ijuí).
+Salazar, N. N. G., Soler, E. M., & Jiménez, C. R. (2020). Metodologías participativas y patrimonio cultural inmaterial en los barrios. Universitas-XXI. Revista de Ciencias Sociales y Humanas, 33, 83-102.
+Sánchez, G. B., Santo, C. E. P., & Olguín, G. A. (2013). Participación y acción comunitaria en el manejo de recursos naturales de uso común en la mixteca oaxaqueña. Ra Ximhai, 9(2), 89-98.
+Smith, J. K., Sarmiento, L., Acevedo, D., Rodríguez, M., & Romero, R. (2009). Un método participativo para mapeo de fincas y recolección de información agrícola aplicable a diferentes escalas espaciales. Interciencia, 34(7), 479-486.
+Souza Filho, E. T. (2006). Microbacia hidrográfica do Riacho Vazante, Aratuba, Ceará: solos, usos e percepção dos agricultores. (Dissertação de Mestrado em Fertilidade do solo e nutrição de plantas; Gênese, Morfologia e Classificação, Mineralogia, Química). Universidade Federal de Viçosa, Viçosa.
+Souza, G. E. A. B. (2010). Reserva Extrativista Chico Mendes AC: os desafios de gestão (com)partilhada. (Dissertação de Mestrado em Instituições sociais e desenvolvimento; Cultura, processos sociais e conhecimento). Universidade Federal de Viçosa, Viçosa.
+Tenório, F. G., Villela, L. E., Dias, A. F., Gurjão, F. V., Porto, E. C., & Viana, B. (2008).
+Critérios para a avaliação de processos decisórios participativos deliberativos na implementação de políticas públicas. In: ENCONTRO DE ADMINISTRAÇÃO PÚBLICA E GOVERNANÇA, 2, 2008. Anais... Salvador: EnAPG.
+Tenório, F. G. (1998). Gestão social: uma perspectiva conceitual. Revista de Administração Pública, 32(5), 7-23.
+Tenório, F. G. (2008). (Re)visitando o conceito de Gestão Social. In: J. T. Silva Junior et al.,
+AOS, Belém (BR), v.14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+   52
+
+ Gestão Social: Práticas em debate, teorias em construção. Fortaleza: Imprensa Universitária.
+Tenório, F. G. (2016). Gestão social: conceito. In: F. G. Tenório & T. S. Kronemberger (Eds.), Gestão Social e Conselhos Gestores (v. 3, p. 13-33). Salvador: FGV Editora.
+Tori, S., Pappers, J., & Keserű, I. (2022). Developing disruptive mobility scenarios for rural areas. Participatory mobility scenario building in a Belgian village for the year 2050. European Transport Research Review, 14(1).
+Villela, L. E. (2012). Escopo metodológico. In: F. G. Tenório (Org.), Cidadania e desenvolvimento local: critérios de análise (p. 35-46). Rio de Janeiro: FGV.
+   AOS, Belém (BR), v.14, 2025 e-ISSN: 2238-8893 https://revistas.unama.br/index.php/aos
+53

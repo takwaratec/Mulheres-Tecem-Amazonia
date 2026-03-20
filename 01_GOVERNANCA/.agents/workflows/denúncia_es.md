@@ -2,7 +2,7 @@
 description: Protocolo Editorial para Informes de Denuncia y Advocacy
 ---
 
-Este workflow debe utilizarse exclusivamente para el procesamiento de informes de denuncia y materiales de alto impacto para Advocacy (ej: COP30).
+Este workflow debe utilizarse exclusivamente para el procesamiento de informes de denuncia y materiales de alto impacto para Advocacy.
 
 ### Instrucciones de Ejecución:
 

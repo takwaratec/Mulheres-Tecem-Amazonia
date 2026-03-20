@@ -1,0 +1,219 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFAC/UFRR
+equipe: Gestão e Parceria Regional
+tipo: Acervo de Consulta RAW (Transcrição)
+autor: Acervo Digital WTF
+data: '2025'
+---
+10.18606/2318-1419/amazonia.sci.health.v12n1p189-199
+ << Recebido em: 28/10/2023 Aceito em: 27/01/2024. >>
+Enteroparasitoses na população indígena: uma revisão de literatura
+ARTIGO DE REVISÃO
+ Enteroparasitosis in the indigenous population: a literature review
+. Leonardo Rodrigues de Paula1, João Dal’Mas Neto2, Brener Raphael de Carvalho Marques3, Jackeline Ribeiro dos Santos4, Áurea Welter5
+RESUMO
+Parasitoses intestinais presentam um problema de saúde pública e estão associados a altos índices de morbidades, sendo endêmicas na população residente em diferentes regiões do Brasil, incluindo os povos indígenas. O presente estudo objetivou verificar o que a literatura tem apresentado a respeito das doenças parasitárias que acometem a população indígena brasileira e fatores ambientais associados. Trata-se de um estudo de revisão integrativa de literatura, de abordagem qualitativa, a partir de artigos publicados entre 2013 e 2023 nas bases de dados Periódicos-CAPES, PubMed, SciELO e Lilacs. A partir das informações oriundas das 11 publicações selecionadas para estudo, se verificou que diferentes etnias indígenas residentes nos distintos estados brasileiros, são acometidas por enteroparasitoses, com altos índices de prevalência (31,4% a 84,2%). A falta de saneamento básico, destino inadequado do lixo, à manutenção de práticas sanitárias tradicionais e a má qualidade da água consumida são fatores que favorecem a disseminação e manutenção de parasitoses nesta população. Nota-se a importância da melhoria das condições de saúde pública em áreas indígenas, e intervenções educativas com a finalidade de informar esta população sobre medidas que minimizam o risco de transmissão de enteroparasitoses.
+Palavras-chave: Parasitoses intestinais, Prevalência, Indígenas, Saneamento Básico.
+ABSTRACT
+Intestinal parasites are a public health problem and are associated with high rates of morbidity, being endemic in the population living in different regions of Brazil, including indigenous populations. This study aimed to verify what the literature has presented regarding parasitic diseases that affect the Brazilian indigenous population and associated environmental factors. This is a integrative literature review study with a qualitative approach, based on articles published between 2013 and 2023 in the databases CAPES, PubMed, SciELO and Lilacs. Based on the information from the 11 publications selected for the study, it was found that different indigenous ethnic groups living in different Brazilian states are affected by enteroparasitosis, with high prevalence rates (31.4% to 84.2%). The lack of basic sanitation, inadequate waste disposal, the maintenance of traditional sanitary practices and the poor quality of the water consumed are factors that favor the spread and maintenance of parasites in this population. The importance of improving public health conditions in indigenous areas and educational interventions to inform this population about measures to minimize the risk of transmission of enteroparasitosis is noted.
+Keywords: Intestinal parasitosis, Prevalence, Indigenous, Basic Sanitation.
+1 Graduando em medicina pela Afya Faculdade de Ciências Médicas – Palmas/ TO, Brasil. E- mail:
+ORCID: 0009-0005-6328-8413
+2 Graduando em medicina pela Afya Faculdade de Ciências Médicas – Palmas/ TO, Brasil. ORCID: 0009-0002-4056-644X
+3 Graduando em medicina pela Afya Faculdade de Ciências Médicas – Palmas /TO, Brasil. ORCID: 0009-0004-9032-5323
+4 Graduanda em medicina pela Afya Faculdade de Ciências Médicas – Palmas/ TO, Brasil. ORCID: 0009-0003-0357-4157
+5 Doutora em Biodiversidade e
+     Biotecnologia.
+Universidade
+Tocantins-UFT
+Faculdade de Ciências Médicas – Palmas/ TO, Brasil.
+ORCID: 0000-0002-9523-7021
+Docente da Federal do e da Afya
+  189
+1
+
+DOI10.18606/2318-1419/amazonia.sci.health.v12n1p189-199 Revista Amazônia Science & Health
+2024, Vol. 12, No 1
+1. INTRODUÇÃO
+PAULA, L.R.; NETO, J. D.; MARQUES, B. R. C.; SANTOS J. R.; WELTER, A.
+Enteroparasitoses na população indígena: uma revisão de literatura.
+   A população indígena brasileira, no ano de 2022, era de 1.693.535 pessoas, o que equivale a 0,83% de toda a população do país. Ao comparar com o censo demográfico anterior, realizado no ano de 2010, a população indígena teve um crescimento de 88,82%, uma vez que em 2010, o país registrou 896.917 mil indígenas. A Amazônia Legal, formada pelos estados do Norte, Mato Grosso e parte do Maranhão, abriga a maior parte dos povos indígenas (51,25%) e a região Nordeste (31,22%)1.
+No Brasil, atualmente, existem 305 etnias indígenas, as quais possuem quadros epidemiológicos e demográficos bem distintos2. Sabe-se que a vida da população indígena foi alterada por meio dos processos de urbanização e industrialização, sendo que essa alteração atingiu aldeias do território nacional, provocando mudanças culturais e de saúde, levando a um aumento de doenças adquiridas por meio dos novos hábitos herdados dos demais membros da sociedade3.
+A população indígena, possivelmente, passa por um complexo processo de transição epidemiológica, onde as doenças infecciosas e parasitarias constituem importantes causas de óbitos. Cada grupo indígena que vive isolado, possui uma combinação própria de agentes com os quais convive, e isso parece atenuar seus efeitos fatais por meio da convivência4.
+É uma população que possui uma sensibilidade para adquirir doenças transmitidas por pessoas não-indígenas, como é o caso das infecções gastrointestinais por enteroparasitos, sendo agravado pelas precárias condições de saneamento existentes nas comunidades. A convivência direta com animais domésticos, a concentração de domicílios, falta de abastecimento de água potável e coleta de dejetos, levam à geração de um ambiente propício à propagação de parasitos5.
+As enteroparasitoses têm provocado diversos problemas de saúde pública em todo o mundo, especialmente nos países em desenvolvimento que possuem saneamento básico precário, moradias inadequadas e baixo nível socioeconômico, como é o caso da maioria das populações indígenas6.
+As principais manifestações clínicas das enteroparasitoses, são anemia, desnutrição, diarreias, deficiência no desenvolvimento físico e no aprendizado. Dentre as principais parasitoses que acometem a população, pode se citar a giardíase, amebíase, ascaridíase e tricuríase7.
+ 190
+
+DOI10.18606/2318-1419/amazonia.sci.health.v12n1p189-199 Revista Amazônia Science & Health
+2024, Vol. 12, No 1
+PAULA, L.R.; NETO, J. D.; MARQUES, B. R. C.; SANTOS J. R.; WELTER, A.
+Enteroparasitoses na população indígena: uma revisão de literatura.
+  A maneira mais comum de transmissão das enteroparasitoses ocorre via oral-fecal por meio da água e alimentos contaminados com ovos de helmintos e/ou cistos de protozoários. A Organização Mundial da Saúde (OMS) delineou estratégias profiláticas que consistem no tratamento farmacológico para interromper a transmissão; educação em saúde explicando como deve ser o manuseio correto dos alimentos, sua conservação e preparação; desparasitação anual em áreas endêmicas; controle efetivo da água de consumo, devendo esta ser fervida, tratada ou filtrada; acesso a boas condições de saneamento básico e higiene; incentivo ao uso de calçados para evitar infecções e o tratamento do esgoto8.
+Nesse sentido, este estudo tem como objetivo verificar o que a literatura tem apresentado a respeito das doenças parasitárias que acometem a população indígena brasileira e fatores ambientais associados.
+2. MATERIAIS E MÉTODOS
+O presente estudo utilizou como metodologia a revisão integrativa de literatura, adotando uma abordagem qualitativa, utilizando para a pesquisa dos artigos, as bases de dados Periódicos-CAPES, PubMed, SciELO Biblioteca Eletrônica Scientific Eletronic Library Online (SciELO) e Literatura Latino-americana e do Caribe em Ciências da Saúde (Lilacs). As buscas foram realizadas tendo como foco temas que se relacionavam a enteroparasitoses na população indígena brasileira.
+O levantamento bibliográfico foi realizado no segundo semestre de 2023, sendo montado um acervo com todo o material levantado. A busca do material foi realizada por meio da combinação dos descritores: enteroparasitoses, parasitoses, parasitos intestinais, população indígena, comunidade indígena.
+Os critérios de inclusão, foram: publicações com ano a partir de 2013, trabalhos publicados na íntegra, trabalhos nos idiomas português e/ou inglês, estudo em população indígena brasileira. Os critérios de exclusão, foram: artigos de revisão, duplicidade, conteúdo divergente, disponibilidade apenas do resumo.
+A seleção final de todo o material bibliográfico foi constituído de etapas que compuseram os critérios de inclusão e exclusão do material, conforme demonstra o fluxograma a seguir (Figura 1).
+  191
+
+   DOI10.18606/2318-1419/amazonia.sci.health.v12n1p189-199 Revista Amazônia Science & Health
+2024, Vol. 12, No 1
+PAULA, L.R.; NETO, J. D.; MARQUES, B. R. C.; SANTOS J. R.; WELTER, A.
+Enteroparasitoses na população indígena: uma revisão de literatura.
+   Busca nas plataformas Scielo, Lilacs, PubMed, Periódicos CAPES
+Material Levantado Total geral: 398
+Excluídos por duplicidade, conteúdo
+divergente, apresentação de apenas resumo, data inferior a 2016, artigos de revisão
+Total Geral: 387
+Material Selecionado
+Total Geral: 11
+SciELO (08); PubMed (01); Periódicos CAPES (02)
+Figura 1: Fluxograma dos critérios de inclusão e exclusão do material Fonte: Autores (2023)
+Todo o material selecionado, foi analisado conforme o foco central deste estudo, separando os mesmos em: enteroparasitoses, prevalência, sinais e sintomas, fatores de risco e repercussões.
+3. RESULTADOS
+Foram selecionados um total de onze publicações, às quais preenchiam os critérios de inclusão, sendo os dados apresentados conforme autor, ano de publicação, objetivo e resultados apresentados, conforme demonstra Quadro 1.
+Quadro 1: Distribuição das publicações selecionadas conforme autor, ano de publicação, objetivo e resultados apresentados.
+Autor/Ano Objetivo Resultados
+        Cardoso (2013)9
+     Investigar condições de saneamento, aspectos socioeconômicos e hábitos sanitários praticados no
+    Das amostras de água utilizadas para ingestão, 58% foram positivas para a presença de coliformes totais e 25% para a presença de Escherichia coli. A
+   192
+
+DOI10.18606/2318-1419/amazonia.sci.health.v12n1p189-199 Revista Amazônia Science & Health
+2024, Vol. 12, No 1
+PAULA, L.R.; NETO, J. D.; MARQUES, B. R. C.; SANTOS J. R.; WELTER, A.
+Enteroparasitoses na população indígena: uma revisão de literatura.
+           âmbito domiciliar pelos indígenas da etnia Aranã.
+prevalência de enteroparasitos na população Aranã, patogênicos ou não, foi de 31,4%, sendo a Giardia intestinalis o protozoário patogênico mais frequente (11,8%).
+   Incerti (2013)8
+    Levantar informações a respeito das condições de saúde da população indígena de Cacique Doble estimando
+Encontrou-se uma taxa de positividade de 62,2%, com uma variação pequena entre os sexos. Os parasitos mais
+  a prevalência enteroparasitoses correlacionando-a infraestrutura sanitária.
+das e com a
+frequentes foram Hymenolepis nana, Ascaris lumbricoides, Entamoeba coli, Ancilostomídeos e Iodamoeba butschlii.
+         Pedroso et al. (2015)10
+Caracterizar as condições de saúde das famílias da aldeia Alvorecer Tekoa Kóénju, da tribo Mbyá-Guarani, com enfoque nas parasitoses intestinais.
+Foram realizados 50 exames coprológicos, que mostrou prevalência de 80% de enteroparasitas na população estudada, sendo os parasitos patogênicos mais encontrados Hymenolepis nana, Ascaris lumbricoides e Giardia lamblia
+   Silva (2015)11
+     Determinar a ocorrência de parasitos e a intensidade de infecção, distribuição espacial no meio ambiente e fornecer medidas específicas para o controle.
+A positividade geral de enteroparasitoses foi de 67,2%, e as espécies ocorrentes foram Ascaris lumbricoides, Trichuris trichiura e Entamoeba coli.
+       Simões et al. (2015)12
+Descrever as condições ambientais e o quadro de infecção parasitária dos indígenas Xukuru-Kariri residentes no município de Caldas (MG), Brasil.
+Das 26 amostras de água coletadas para análise microbiológica, 77% foram positivas para coliformes totais e 4% para Escherichia coli. Em 27,3% dos domicílios, os moradores defecavam na parte exterior da casa, e 54,5% dos domicílios possuíam lixo
+ espalhado pelo quintal.
+          Cerqueira et al.
+(2016)4
+Contribuir para o planejamento e elaboração de ações que favoreçam o resgate da cultura dos povos indígenas.
+Os resultados evidenciam uma baixa taxa de parasitoses, quando comparados aos índices de consultas e internações decorrentes por diarreias, que podem estar correlacionados a uma provável subnotificação.
+          193
+
+DOI10.18606/2318-1419/amazonia.sci.health.v12n1p189-199 Revista Amazônia Science & Health
+2024, Vol. 12, No 1
+PAULA, L.R.; NETO, J. D.; MARQUES, B. R. C.; SANTOS J. R.; WELTER, A.
+Enteroparasitoses na população indígena: uma revisão de literatura.
+     Nacife (2018)13
+    Descrever o perfil
+epidemiológico esquistossomose e de outras infecções parasitárias intestinais em indivíduos que vivem nos polos base Água Boa e Pradinho, pertencentes à etnia Maxakali.
+da
+A alta prevalência de parasitos intestinais pode ser atribuída à falta de infraestrutura sanitária, aos hábitos de higiene propícios à transmissão, às condições ambientais e à alta densidade de hospedeiros intermediários, este último especificamente para a infecção da esquistossomose.
+       Zenazkenae et al. (2019)14
+Compreender a prevalência de parasitoses intestinais entre os Haliti-Paresí e relacionar com saneamento e etnodesenvolvimento.
+As condições de saneamento, associadas aos hábitos culturais, apontam para a necessidade de melhorias no saneamento, pois detectamos alta prevalência de parasitoses intestinais neste estudo.
+       Cerqueira et al. (2021)2
+Caracterizar os depósitos tecnogênicos construídos na comunidade indígena Ikpeng, localizada no Parque Indígena do Xingu no nordeste Estado do Mato Grosso.
+A análise da microbiota de vida livre presente na superfície do solo apresentou quantidade significativa de parasitos nematóides que podem levar a doenças infecto-contagiosas.
+       Araújo et al. (2022)5
+Analisar dados acerca das infecções e parasitoses presentes na comunidade indígena Amondawa.
+A concentração de domicílios, o sedentarismo, a convivência e o contato com animais domésticos, aliados à falta de infraestrutura adequada de abastecimento de água potável e coleta de dejetos, criam um ambiente favorável à propagação de enteropatógenos de veiculação tanto hídrica como alimentar.
+        Oliveira et al. (2023)15
+Evidenciar via análise descritiva e documental, o quantitativo de número de casos de parasitoses ocasionadas por protozoários.
+No primeiro período de 2015 houve identificação de casos recorrentes de protozoonoses, com maior frequência para:
+ Entamoeba coli, Entamoeba histolytica, Giardia intestinalis e
+ A pesquisa documental foi
+  documentos descritos pelo SIASI sobre casos de parasitoses na
+comunidade Taba Lascada.
+realizada em
+Endolimax nana.
+   Fonte: Autores (2023).
+ 194
+
+DOI10.18606/2318-1419/amazonia.sci.health.v12n1p189-199 Revista Amazônia Science & Health
+2024, Vol. 12, No 1
+4. DISCUSSÃO
+PAULA, L.R.; NETO, J. D.; MARQUES, B. R. C.; SANTOS J. R.; WELTER, A.
+Enteroparasitoses na população indígena: uma revisão de literatura.
+   Doenças de veiculação hídrica, constituem a segunda maior causa de óbito na infância, em todo o mundo, perdendo apenas para as infecções respiratórias. Locais nos quais acontecem despejos inadequados de resíduos, acabam atraindo animais, poluindo águas superficiais e subterrâneas, além do solo e do ar. A limpeza de ambientes sujos, evita o acúmulo de resíduos e, por consequência, protege contra os impactos negativos sobre as condições sanitárias vigentes5.
+Incerti8 estudou a respeito a prevalência de enteroparasitoses na população indígena de Cacique Doble de Porto Alegre-RS e verificou que esta foi de 62,2% em uma amostra de 43 indígenas. Os helmintos patogênicos encontrados foram Hymenolepis nana, Ascaris lumbricoides e Ancilostomídeos e os protozoários não patogênicos foram Entamoeba coli e Iodamoeba butschlii. Neste estudo, o autor verificou que a população de Cacique Doble fica exposta ao risco de doenças de circulação hídrica devido à ausência de infraestrutura mínima, como é o caso de falta de estrutura para descarte dos dejetos, ausência de banheiros, precariedade na higiene pessoal, pescas nos lagos e rios da aldeia sem conhecimento da sua qualidade.
+Cardoso9 estudou a ocorrência de enteroparasitoses e diarreia em indígenas da etnia Aranã do estado de Minas Gerais, e verificou que 31,4% da população estudada estava parasitada, sendo Giardia intestinalis o protozoário patogênico mais frequente. Neste estudo, foi constatado que 58% das amostras de água utilizadas para consumo foram positivas para coliformes totais e 25% para presença de Escherichia coli. Segundo o autor, essa condição pode ser devido a qualidade da água de consumo, que é proveniente de soluções alternativas de abastecimento, como é o caso de mina ou nascente, rio, cacimba, riacho ou ribeirão e formas mista. Vale ressaltar que, na maioria das vezes, a contaminação da água resulta da poluição por fezes de humanos e de animais, uma vez que microrganismos patogênicos em geral estão em baixo número na água.
+No estudo realizado por Silva11 com população indígena Kaingáng, Terra Indígena Apucarana, do estado do Paraná, foi observado um índice de positividade para enteroparositos de 67,2%, sendo que as espécies mais presentes foram Ascaris lumbricoides, Trichuris trichiura e Entamoeba coli. O autor constatou que 3,6% da população estudada possuía infecção de alta intensidade. Ao final, o autor ressaltou que essa população indígena possui alta ocorrência de infecções por enteroparasitos
+   195
+
+DOI10.18606/2318-1419/amazonia.sci.health.v12n1p189-199 Revista Amazônia Science & Health
+2024, Vol. 12, No 1
+PAULA, L.R.; NETO, J. D.; MARQUES, B. R. C.; SANTOS J. R.; WELTER, A.
+Enteroparasitoses na população indígena: uma revisão de literatura.
+  patogênicos, mostrando a necessidade da realização de medidas de controle; atividades de educação em saúde; manutenção e ampliação de melhorias sanitárias e realização de tratamento anti-helmíntico periódico, especialmente em crianças que vivem em grandes aglomerações de casas.
+Simões et al.12 ao analisarem o quadro de infecção parasitária de indígenas Xukuru- Kariri, município de Caldas-MG, verificaram que, em uma população de 22 famílias indígenas, em 27,3% dos domicílios as pessoas faziam suas necessidades na parte externa da casa e 54,5% dos domicílios não possuíam local adequado para descarte do lixo. Foram coletadas amostras fecais de 60 pessoas, com positividade em 66,6%, com prevalência para Entamoeba coli, Entamoeba histolytica/díspar, Giardia intestinalis e Endolimax nana. Das 26 amostras de água coletadas para realização de análise microbiológica, 77% foram positivas para coliformes totais e 4% para Escherichia coli.
+No trabalho de Oliveira et al.15, realizado no estado de Roraima, por meio de uma pesquisa documental descritiva, utilizando documentos descritos pelo Sistema de Informação de Atenção à Saúde Indígena (SIASI), para evidenciar o número de casos de parasitoses provocadas por protozoários em uma comunidade indígena do município de Cantá, RR, os autores verificaram que no primeiro semestre de 2015, ocorreram casos recorrentes de protozooses, sendo os mais frequentes Entamoeba coli, Entamoeba histolytica, Giardia intestinalis e Endolimax nana, além da existência de helmintíase, como Ascaris lumbricoides, Trichuris trichiura e Enterobius vermiculares.
+Araújo et al.5 acrescentam que a precariedade do saneamento básico e a má qualidade da água têm relação direta com a ocorrência de enteroparasitores, uma vez que o parasito, para se beneficiar, evoluir para sua forma infectante e se instalar no hospedeiro, precisa de ambiente adequado, o que tem sido apresentado e visto em terras indígenas.
+No estudo de Zenazkenae et al.14, realizado em uma comunidade indígena do Mato Grosso, os autores verificaram uma prevalência de enteroparasitoses de 46,6% na população objeto de estudo. Foram encontradas nove espécies ao todo, sendo seis patogênicas: Entamoeba histolytica, Giardia intestinalis, Blastocystis hominis, Ancilostomídeos, Rodentolepis nana e Hymenolepis nana. A três espécies não patogênicas encontradas, foram Iodamoeba butschlii, Entamoeba coli e Endolimax nana. Os autores verificaram que, as enteroparasitoses no local, estão associadas às condições de saneamento, aliadas aos hábitos culturais.
+    196
+
+DOI10.18606/2318-1419/amazonia.sci.health.v12n1p189-199 Revista Amazônia Science & Health
+2024, Vol. 12, No 1
+PAULA, L.R.; NETO, J. D.; MARQUES, B. R. C.; SANTOS J. R.; WELTER, A.
+Enteroparasitoses na população indígena: uma revisão de literatura.
+  Pedroso et al.10 caracterizaram as condições de saúde das famílias da aldeia Alvorecer Tekoa Kóénju, localizada no Rio Grande do Sul, e verificaram uma taxa de prevalência de 80% de parasitos intestinais, demonstrando que essa população indígena sofre com as enteroparasitoses. Quanto aos helmintos, a maior prevalência foi de Hymenolepis nana e Ascaris lumbricoides.
+Nascife13 descreveu o perfil epidemiológico da esquistossomose e de outras infecções parasitárias intestinais em indivíduos que vivem nos polos base Água Boa e Pradinho, pertencentes à etnia Maxakali. Nesta etnia, foi encontrada uma elevada (84,2%) prevalência de helmintos, sendo mais frequentes os casos de infecção por ancilostomídeos, seguido de Schistosoma mansoni, Hymenolepis nana, Trichuris trichiura, Taenia sp., Ascaris lumbricoides, Strongyloides stercoralis e Enterobius vermicularis. Quanto aos protozoários intestinais, foi encontrada uma alta prevalência dos patogênicos Entamoeba histolytica/dispar e Giardia intestinalis. Quanto aos protozoários não patogênicos, foram encontrados a Entamoeba coli, Endolimax nana e Iodamoeba butschii.
+Cerqueira et al.2 estudaram descartes de lixo realizados por uma comunidade indígena do Xingu do nordeste no estado de Mato Grosso, e verificaram que os resíduos são resultados do estilo de vida da comunidade, sendo que foram encontradas grandes quantidade de embalagens e pilhas. A análise da microbiota de vida livre presente na superfície do solo demonstrou uma quantidade bastante significativa de organismos que podem levar ao surgimento de doenças infectocontagiosas, como é o caso das enteroparasitoses, o que pode fragilizar a saúde da população indígena.
+5. CONCLUSÕES
+Os resultados encontrados neste estudo mostram que, nas diferentes etnias indígenas residentes nos distintos estados brasileiros, há uma elevada prevalência de enteroparasitos patogênicos. Ademais, as parasitoses que acometem estas populações estão associadas a falta de saneamento básico, que favorece a contaminação do meio ambiente, destino inadequado do lixo, à manutenção de práticas sanitárias tradicionais, além da má qualidade da água consumida, haja vista a presença de coliformes fecais nas amostras avaliadas. Sabe-se que a contaminação ambiental de alimentos, em especial os ingeridos crus, além do consumo de água não tratada, constituem as principais fontes para aquisição de infecções parasitárias, uma vez que a grande maioria destas são de transmissão fecal-oral.
+   197
+
+DOI10.18606/2318-1419/amazonia.sci.health.v12n1p189-199 Revista Amazônia Science & Health
+2024, Vol. 12, No 1
+PAULA, L.R.; NETO, J. D.; MARQUES, B. R. C.; SANTOS J. R.; WELTER, A.
+Enteroparasitoses na população indígena: uma revisão de literatura.
+  As doenças enteroparasitárias podem ser minimizadas por meio da melhoria nas condições de saúde pública nas áreas indígenas, além de ações educativas preventivas, como a orientação acerca da higienização correta de alimentos, em especial os de consumo in natura, a necessidade de ferver a água de consumo, bem como o uso de calçados, a fim de reduzir o risco de contaminação por formas infectantes presentes no solo.
+REFERÊNCIAS
+1. Brasil. Ministério dos Povos Indígenas. Dados do censo 2022 revelam que o Brasil tem 1,7 milhão de indígenas. Brasília: 7 Ago. 2023. Disponível em: https://www.gov.br/funai/pt- br/assuntos/noticias/2023/dados-do-censo-2022-revelam-que-o-brasil-tem-1-7-milhao-de- indigenas#:~:text=Em%202022%2C%20o%20n%C3%BAmero%20de,de%20residentes% 20no%20territ%C3%B3rio%20nacional.
+2. Cerqueira DS, Rubin JCR, Bolpato MB, Oliveira JC. Saúde coletiva indígena e análises de depósitos tecnogênicos da comunidade Ikpeng: parque indígena do Xingu. Saúde Coletiva [periódico da internet]. 2021 [acesso em 21ago 2023]; 11(62):5282-87. DOI:10.36489/saudecoletiva.2021v11i62p5282-5293
+3. Maiewski MH, Fornari G. Prevalência de parasitoses intestinais em populações indígenas no Brasil: uma revisão sistemática. Artigo apresentado ao Centro Universitário Campo Real. Bacharel em Biomedicina. Guarapuava, 2019. Disponível em: file:///D:/Downloads/document%20(51).pdf
+5. Araújo CVS, Caixeta JGO, Bohre LS, Silva MLGS, Pereira NLO, Lima DN.
+6. Bragagnollo GR, Godoy PCGT, Santos TS, Ribeiro VS, Morero JAP, Ferreira BR. Intervenção educacional sobre enteroparasitoses: um estudo quase experimental. Rev Cuid. [periódico da internet]. 2018; [acesso em 21 ago 2023]; 9(1):2030-44. DOI: https://doi.org/10.15649/cuidarte.v9i1.486
+7. Barbosa JA, Alvim MM, Oliveira MM, Siqueira RA, Dias TR, Garcia PG. Análise do perfil socioeconômico e da prevalência de enteroparasitoeses em criança com idade escolar em
+   4. Cerqueira DS, Silva MA, Bolpato MB. Influência das condições socioeconômicas e ambientais associadas a parasitoses intestinais em população indígena Xavante. Rev.
+   Interdisciplinar.
+[periódico da internet].
+2016;
+[acesso em 21ago 2023];
+14(2):148-153.
+ Disponível em: https://docplayer.com.br/19182159-Influencia-das-condicoes-
+ socioeconomicas-e-ambientais-associadas-a-parasitoses-intestinais-em-populacao-
+ indigena-xavante.html
+ de enteroparasitoses relacionados às condições de saneamento básico na terra indígena
+Contaminação
+  Uru-Eu-Wau-Wau. In: VIII Fórum Rondoniense de Pesquisa. 8(1), 2022. Disponível em:
+ https://periodicos.saolucasjiparana.edu.br/foruns/article/view/621/556
+   198
+
+DOI10.18606/2318-1419/amazonia.sci.health.v12n1p189-199 Revista Amazônia Science & Health
+2024, Vol. 12, No 1
+PAULA, L.R.; NETO, J. D.; MARQUES, B. R. C.; SANTOS J. R.; WELTER, A.
+Enteroparasitoses na população indígena: uma revisão de literatura.
+   um município de Minas Gerais. HU Revista. [periódico da internet]. 2017; [acesso em 21 ago 2023]; 43(3):391-397. DOI: https://doi.org/10.34019/1982-8047.2017.v43.13902
+8. Incerti, J. Prevalência de parasitoses intestinais entre crianças da comunidade indígena de Cacique Doble/RS. Trabalho de Conclusão de Curso (Especialização em Saúde Pública). Universidade Federal do Rio Grande do Sul. Porto Alegre. 2013. Disponível em: https://www.lume.ufrgs.br/bitstream/handle/10183/78460/000899721.pdf?sequence=1&isA llowed=y
+  9. Cardoso LSM. Os Aranã do médio Jequitinhonha: um estudo epidemiológico com ênfase no saneamento e na ocorrência de enteroparasitoses. Dissertação (Mestrado em Saneamento, Meio Ambiente e Recursos Hídricos). Universidade Federal de Minas Gerais,
+ Belo Horizonte, 2013. Disponível em:
+ https://ds.saudeindigena.icict.fiocruz.br/bitstream/bvs/663/2/948242965.pdf
+ 10. Pedroso D, Comparsi B, Novicki A, Berne MEA, Villela MM. Avaliação das condições de saúde de uma população indígena Guarani da região Sul do Brasil, a partir do saneamento e enteroparasitismo. Tese (Doutorado em Ciência Biológicas). Universidade Federal de Pelotas. Pelotas, 2015. Disponível em:
+ https://ds.saudeindigena.icict.fiocruz.br/bitstream/bvs/736/2/885560098.pdf
+ 11. Silva JB. Inquerito coproparasitológico e ambiental da terra indígena Apucarana, Paraná, Brasil. Tese (Doutor em Ciências da Saúde). Centro de Ciências da Saúde da Universidade Estadual de Maringá, Maringá, 2015. Disponível em: http://repositorio.uem.br:8080/jspui/handle/1/1978
+ 12. Simões BS, Machado-Coelho GLL, Pena JL, Freitas SN. Condições ambientais e prevalência de infecção parasitária em indígenas Xukuru-Kariri, Caldas, Brasil. Rev Panam Salud Publica. [periódico da internet]. 2015 [acesso em 12 set 2023]; 38(1): 42-48. Disponível em: https://www.scielosp.org/pdf/rpsp/v38n1/v38n1a06.pdf
+ 13. Nacife MBPSL. Prevalência das infecções parasitárias intestinais em aldeias da etnia indígena Maxakali, Minas Gerais, Brasil. Dissertação (Mestrado em Ciências Biológicas). Universidade Federal de Ouro Preto. Ouro Preto, 2018. Disponível em: https://repositorio.ufop.br/bitstream/123456789/11711/1/DISSERTA%c3%87%c3%83O_Pr eval%c3%aanciaInfec%c3%a7%c3%b5esParasit%c3%a1rias.pdf
+14. Zenazokenae LE, Terças-Trettel ACP, Nascimento VF, Hattori TY, Atanaka M, Lemos ERS, Bóia MN. Prevalence of enteroparasitosis in the indigenous communit y of Mato Grosso, Brazil: a look into the sanitation and ethno-development. Saúde e Pesqui. [periódico da internet]. 2019 [acesso em 12 set 2023]; 12(2): 253-264. DOI:10.17765/2176- 9206.2019v12n2p253-264
+15. Oliveira MR, Ferreira IIA, Torres AS, Ferreira MIA, Oliveira EM, Martins RTG, Wanderley KB. Contribuição da educação e saúde na prevenção de parasitoses em uma comunidade indígena no município de Cantá-RR. Contemporânea – Revista de Ética e Filosofia Política. [periódico da internet]. 2023 [acesso em 12 out 2023]; 3(1): 538-549. DOI:10.56083/RCV3N1-030
+    199

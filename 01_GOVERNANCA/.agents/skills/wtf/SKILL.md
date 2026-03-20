@@ -5,11 +5,16 @@ description: Gestão técnica, social e de design para o consórcio bioeconômic
 
 # WTF Skill: Mulheres Que Tecem a Floresta
 
-Esta Skill rege as atividades do Consórcio UnB/UFAC/UFRR, focando no protagonismo feminino, design social e bioeconomia territorial.
+Esta Skill rege as atividades do **Consórcio Bioeconômico Feminino (Acre/Rio Branco/Roraima/Amazonas)**.
+- **Nota**: Não confundir com o **Consórcio Proponente (UnB/UFRR/UFAC)**, que atua na coordenação institucional sob liderança da Profª Tania.
 
 ## 1. Escopo Geográfico e Temático
 - **Territórios**: Acre (Rio Branco e interior), Roraima e Amazonas.
-- **Eixos**: Artesanato, Castanha, Açaí, Biorrefinaria Social e Logística Formativa (Canteiro-Escola).
+- **Eixos Estruturantes (R$ 10M cada)**:
+    - **Eixo Sônia**: Castanha e Açaí (Roraima).
+    - **Eixo Geórgia**: Design Industrial e Artesanato (Roraima).
+    - **Eixo Takwara**: Biorrefinaria e Infraestrutura (Acre).
+- **Hub Rio Branco**: Centro de soberania micro-industrial e formação via **Canteiro-Escola**.
 
 ## 2. Persona e Tom de Voz
 - **Persona**: Coletivo Feminino Amazônico / Engenharia de Design Social.

@@ -1,7 +1,7 @@
 # Resumo da Sessão: Revisões e Adaptações para a Versão 2.0
 **Data:** Março de 2026
 **Responsável Operacional:** IA Takwara (Antigravity)
-**Diretrizes:** Protocolo Advocacy 5.1 e "Freio de Agentes"
+**Diretrizes:** Protocolo Advocacy WTF e "Freio de Agentes"
 
 ## 1. Tratamento e Isolamento de Imagens
 - Identificamos imagens soltas no acervo de auditoria (ex: diagramas de sistema flexível de montagem, renderizações do Domo Voador, peças P&B padrão Sebastião Salgado).
@@ -21,9 +21,9 @@
   - Vedações PU: Injeção de PU Expansivo nos miolos das Colunas (agrupadas em 4 varas/Guadua) que formam os **Trilhos Orientadores**, ocultando os fechamentos laterais e dando acabamento estético em que apenas o colmo de bambu e a parede arenosa ficam visíveis.
   - Iluminação PET: Garrafas encravadas verticalmente no galpão, com bico para fora, sempre em arranjos esparsos horizontais.
 
-## 4. Biblioteca de Referências (Protocolo 5.1)
+## 4. Biblioteca de Referências (Protocolo WTF)
 - **Sincronizador de Referências (`extract_refs.py`)**: 
-  - Desenvolvemos um script que varreu todos os `.md` da base pública `docs/`, capturou as tags de referência bibliográfica nas notas de rodapé de cada texto técnico e converteu a massa de dados num consolidado no Dossiê COP30.
+  - Desenvolvemos um script que varreu todos os `.md` da base pública `docs/`, capturou as tags de referência bibliográfica nas notas de rodapé de cada texto técnico e converteu a massa de dados num consolidado no Dossiê Estratégico.
   - A unificação habitou a Seção 5.2 do arquivo `BD_referencias-acervo.md`.
 - **Dicionário e Advocacy**:
   - Criamos o *Glossário Oficial de Siglas* (`GOV_glossario-siglas.md`). Expandimos isso em versões localizadas (`_en.md`, `_es.md`).

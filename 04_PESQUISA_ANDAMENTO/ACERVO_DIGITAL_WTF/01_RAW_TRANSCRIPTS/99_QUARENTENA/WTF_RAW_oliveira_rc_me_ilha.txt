@@ -1,0 +1,899 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFAC/UFRR
+equipe: Gestão e Parceria Regional
+tipo: Acervo de Consulta RAW (Transcrição)
+autor: Acervo Digital WTF
+data: '2025'
+---
+Campus de Ilha Solteira
+PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA CIVIL
+RENATO CARDOSO DE OLIVEIRA
+PRODUÇÃO E AVALIAÇÃO DE PAINÉIS DE PARTÍCULAS DE EUCALIPTO E COURO COM ADESIVO POLIURETANO DERIVADO DE ÓLEO DE MAMONA
+ Dissertação apresentada à Faculdade de Engenharia - UNESP - Campus de Ilha Solteira, como parte dos requisitos para obtenção do título de Mestre em Engenharia Civil.
+Prof. Dr. Sérgio Augusto Mello da Silva
+Orientador
+Área de Conhecimento: Estruturas
+Ilha Solteira 2019
+ 
+ 
+ 
+ Dedico este trabalho a minha mãe, Cleide, pelo incentivo e compreensão.
+
+AGRADECIMENTOS
+Primeiramente a Deus por me guiar em todos os momentos, sendo eles fáceis ou difíceis, e me conceder forças para trilhar meu caminho.
+À minha família e amigos por estarem comigo ao longo desses anos e por mais esta conquista em minha vida.
+Aos meus Mestres e Doutores, pela atenção, dedicação e principalmente pelo conhecimento compartilhado. Sou grato ao professor Dr. Sérgio Augusto Mello da Silva pela impecável orientação que possibilitou a realização deste trabalho, pela consideração e amizade.
+Aos técnicos de laboratório Flávio Rogério Porato, Gilson Campos Correa e Ozias da Silva Porto, pela colaboração e ajuda nas atividades de pesquisas.
+Aos técnicos Alvino da Silva e Luiz Doniseti Belezze, importantes colaboradores desta pesquisa.
+Aos colegas de pós-graduação Rodrigo Andraus Bispo e Caroline Graminha Gilio.
+À Faculdade Fama e à Prefeitura Municipal de Iturama-MG, pelo apoio e compreensão.
+À Universidade Estadual Paulista – UNESP Ilha Solteira, instituição que possibilitou a realização de um sonho.
+
+ “Se eu vi mais longe, foi por estar sobre ombros de gigantes.”
+Isaac Newton
+
+RESUMO
+Um dos grandes desafios da última década é o aproveitamento de subprodutos objetivando-se proteger o meio ambiente e agregar valor ao produto final. A fabricação de painéis com madeira reconstituída vem registrando constante crescimento, sendo o Eucalipto a espécie de madeira exótica de reflorestamento mais utilizada no Brasil para a produção de painéis aglomerados. Considerando-se que na Cidade de Franca, no interior do Estado de São Paulo, a indústria calçadista gera grande quantidade de resíduos durante o processo de corte de couro para a montagem de calçados com um significativo volume de resíduos descartados em aterros sanitários. Na maioria dos casos, não ocorre seu reaproveitamento; sendo assim, considerou-se, nesse trabalho, o aproveitamento desses resíduos na produção de painéis aglomerados. Para produção dos painéis e avaliação das propriedades físicas e mecânicas, propuseram-se três tratamentos com proporções diferentes entre partículas de eucalipto e partículas provenientes de resíduos de couro aglutinadas com resina poliuretana bicomponente à base de óleo de mamona em prensa hidráulica, com controle de temperatura e pressão. Após avaliação das propriedades físicas e mecânicas dos painéis, com base no documento normativo brasileiro ABNT NBR 14810/2013, realizou-se a Análise de Variância (ANOVA) e Teste de Tukey. De modo geral, os valores obtidos para as propriedades dos painéis atenderam aos valores mínimos propostos pela NBR; entretanto, com base nos resultados obtidos pela análise estatística, verificou-se haver necessidade de ajustes nos parâmetros para confecção dos painéis.
+Palavras-chave: Painéis de partículas de madeira de média densidade. Resíduos de couro acabado. Partículas de eucalipto.
+
+ABSTRACT
+One of the biggest challenges of the last decade is the use of by-products aiming to protect the environment and add value to the final product. The manufacture of panels with reconstituted wood has been steadily growing, with Eucalyptus being the most commonly used exotic reforestation wood in Brazil for the production of particle board. Considering that in the city of Franca, in the interior of the state of São Paulo, the footwear industry generates a large amount of waste during the leather cutting process to assemble footwear with a significant volume of waste disposed of in landfills. In most cases, reuse does not occur; Thus, this research considered the use of these residues in the production of particle board. For the production of panels and evaluation of physical and mechanical properties, It was proposed three components with different proportions between eucalyptus and waste residues bonded with bicomponent castor oil-based polyurethane resin in hydraulic press, with temperature and pressure control. After evaluating the physical and mechanical properties of the panels, based on the Brazilian normative document ABNT NBR 14810/2013, it was performed the analysis of variance (ANOVA) and Tukey test. In general, the values obtained for the properties of the panels met the minimum values proposed by the NBR; However, based on the results obtained by the statistical analysis, it was found that there was a need for adjustments in the parameters for making the panels.
+ Keywords: Particleboard of medium density wood. Finished leather waste. Eucalyptus particles.
+
+LISTA DE FIGURAS
+Figura 1 – Área de árvores Plantadas.................................................................. 19 Figura 2 – Área de plantio por estado e gênero ................................................... 20 Figura 3 – Produtos Madeireiros .......................................................................... 22 Figura 4 – Classificação dos painéis de madeira ................................................. 23 Figura 5 – Painéis Compensados ........................................................................ 24 Figura 6– Painéis EGP ......................................................................................... 25 Figura 7 – Painéis MDP ....................................................................................... 27 Figura 8 – Painéis OSB........................................................................................ 28 Figura 9 – Comparação MDP - MDF .................................................................... 29 Figura 10 – Painéis Hardboard............................................................................. 30 Figura 11 – Principais indicadores do segmento de painéis de madeira reconstituída
+...................................................................................................................... 31 Figura 12 – Distribuição geográfica das principais unidades produtoras de painéis. ...................................................................................................................... 32 Figura 13 – Classificação dos resíduos de couro................................................. 34 Figura 14 – Resíduos sólidos de couro não curtidos............................................ 35 Figura 15 – Resíduos sólidos curtidos ................................................................. 35 Figura 16 – Aparas de couro acabado ................................................................. 36 Figura 17 - Partículas de Eucalipto ...................................................................... 39 Figura 18 – Partículas de Couro........................................................................... 40 Figura 19 – Aspectos visuais do pré-polímero e do poliol que compõem a resina poliuretana bi componente à base de óleo de mamona................................ 41 Figura 20 - Processamento das vigotas de madeira para obtenção dos cavacos.42 Figura 21 - Moinho utilizado ................................................................................. 43 Figura 22 - Conjunto de peneiras com dispositivo vibratório................................ 43 Figura 23 - Composição granulométrica das partículas de madeira .................... 45 Figura 24 – Composição granulométrica do couro............................................... 46 Figura 25 - Partículas homogeneizadas............................................................... 48 Figura 26 - Amostras teor de umidade das partículas.......................................... 49 Figura 27–Homogeneização na betoneira ........................................................... 50 Figura 28 - Formadora de colchão ....................................................................... 50
+
+Figura 29– Preparo da prensa mecânica ............................................................. 51 Figura 30– Prensa hidráulica com controle de temperatura e pressão ................ 51 Figura 31– Painel com as dimensões definidas para os ensaios ......................... 52 Figura 32 - Homogeneização com a betoneira..................................................... 57 Figura 33 - Resultado do ensaio para determinação da composição granulométrica
+realizado nas partículas de eucalipto ............................................................ 58 Figura 34 - Relação entre as densidades e a quantidade de couro na proporção 62 Figura 35 - Aspectos dos corpos de prova após 24 horas de permanência na estufa,
+a 100°C ......................................................................................................... 63 Figura 36 – Corpos de prova após imersão em água durante 24 horas. ............. 64 Figura 37 - Teste de flexão e determinação do módulo de elasticidade .............. 66 Figura 38 - Influência do couro na resistência à flexão ........................................ 67 Figura 39 – Avaliação do MOE em função da influência do resíduo de couro nos
+painéis........................................................................................................... 68 Figura 40 - Aspecto do corpo de prova logo após sua ruptura............................. 69 Figura 41 - Relação entre a proporção de couro e resistência à tração perpendicular
+...................................................................................................................... 70
+
+LISTA DE TABELAS
+Tabela 1 - Tratamentos propostos para confecção dos painéis aglomerados. .... 47 Tabela 2 - Tratamentos propostos para confecção dos painéis aglomerados. .... 47 Tabela 3 - Teor de umidade para cada partícula.................................................. 56 Tabela 4 - Teor de umidade de cada tratamento. ................................................ 56 Tabela 5 - Teor de umidade de cada tratamento, após acréscimo de água. ....... 57 Tabela 6 – Tabela de densidade média, desvio padrão e valor exigido pela norma
+...................................................................................................................... 59 Tabela 7 - Análise entre os tratamentos T1 A T3 quanto à sua densidade.......... 60 Tabela 8 - Tabela de teor de umidade média em porcentagem dos corpos de prova
+...................................................................................................................... 62 Tabela 9 - Inchamento médio em porcentagem dos corpos de prova ensaiados 63 Tabela 10 - Absorção média em porcentagem dos corpos de prova ensaiados.. 64 Tabela 11 - Módulo de ruptura médio para cada tratamento ............................... 65 Tabela 12 - Módulo de Elasticidade (MOE) médio para cada tratamento ............ 66 Tabela 13 – Média dos resultados de tração perpendicular (MPa) ...................... 68
+     
+LISTA DE QUADROS
+Quadro 1 - Características da resina poliuretana à base de mamona ................. 41 Quadro 2 - Resultado do ensaio para determinação da composição granulométrica realizado nas partículas de eucalipto ............................................................ 58 Quadro 3 - Resultado do teste Tukey para diferença entre os tratamentos quanto a densidade...................................................................................................... 61
+
+LISTA DE SIGLAS E ABREVIATURAS
+ABNT Associação Brasileira de Normas Técnicas
+MOR Módulo de resistência à flexão estática
+MOE Módulo de elasticidade
+PU-Mamona Adesivo poliuretano bi componente derivado de óleo de mamona
+TP Resistência à tração perpendicular UF Resina Ureia-formaldeído
+Unesp Universidade Estadual Paulista
+g Gramas
+m Metros
+cm Centímetros
+cm3 Centímetros cúbicos
+mm Milímetros
+mm3 Milímetros cúbicos
+°C Temperatura em graus célsius
+N Newton, unidade de medida de força
+Pa Pascal, unidade de pressão, igual a 1 N/m2
+MPa Mega Pascal, unidade de pressão, equivalente a 1 N/mm2
+
+SUMÁRIO
+1 INTRODUÇÃO .........................................................................................15
+1.1 Considerações iniciais...........................................................................15
+1.2 Importância do tema...............................................................................15
+1.3 Objetivo ...................................................................................................17
+1.4 Apresentação do trabalho .....................................................................17
+2 REVISÃO BIBLIOGRÁFICA ....................................................................18
+2.1 Recursos Florestais ...............................................................................18
+2.2 Produtos de Madeira ..............................................................................20
+2.3 Painéis de Madeira .................................................................................22
+2.3.1 Painéis de Madeira Maciça ....................................................................24
+2.3.2 Painéis de Madeira Reconstituída.........................................................25
+2.4 Produção de Painéis de Madeira Reconstituída ..................................30
+2.5 Indústria Calçadista...............................................................................32
+2.6 Resíduos de Couro.................................................................................33
+2.7 Adesivo para produção de painéis de madeira ...................................37
+2.7.1 Resina polituretana à base de mamona ...............................................38 3 MATERIAIS E MÉTODOS .......................................................................39 3.1 Materiais ..................................................................................................39
+3.1.1 Partículas de Eucalipto ..........................................................................39
+3.1.2 Partículas de Couro................................................................................39
+3.1.3 Resina......................................................................................................40
+3.2 Métodos...................................................................................................42
+3.2.1 Preparação das partículas de madeira .................................................42
+3.2.2 Preparação das partículas de couro .....................................................45
+3.2.3 Tratamentos propostos para confecção dos painéis..........................46
+3.2.4 Cálculo da massa seca de partículas para confecção dos painéis....47
+3.2.5 Cálculo do teor de umidade das partículas..........................................48
+3.2.6 Fabricação dos painéis ..........................................................................49
+3.2.7 Caracterização dos painéis ...................................................................52
+3.2.7.1 Determinação do inchamento e absorção de água ..................................53
+3.2.7.2 Determinação do teor de umidade dos painéis ........................................53
+ 
+3.2.7.3 Determinação da densidade aparente dos painéis...................................54 3.2.7.4 Flexão e Módulo de Elasticidade..............................................................54 3.2.7.5 Tração Perpendicular ou Adesão Interna .................................................55 4 APRESENTAÇÃO E DISCUSSÃO DOS RESULTADOS........................56
+4.1 Teor de umidade das partículas ............................................................56
+4.2 Composição granulométrica das partículas ........................................58
+4.3 Densidade dos Painéis...........................................................................59
+4.4 Teor de umidade dos painéis ................................................................62
+4.5 Inchamento e Absorção dos Painéis ....................................................63
+4.6 Resistência à Flexão (MOR) e Módulo de Elasticidade (MOE) dos
+painéis ...................................................................................................................65
+4.6.1 Analise da relação entre proporções de resíduos em relação a
+resistência à flexão (MOR).....................................................................67
+4.6.2 Analise da relação entre proporções de resíduos em relação ao módulo de elasticidade ..........................................................................67
+4.7 Tração Perpendicular .............................................................................68 4.7.1 Análise da influência das proporções de resíduos em relação a resistência à tração perpendicular........................................................69
+5 CONCLUSÃO...........................................................................................71
+6 PROPOSTA PARA PRÓXIMAS PESQUISAS ........................................73 REFERÊNCIAS ........................................................................................74
+       
+1 INTRODUÇÃO
+1.1 Considerações iniciais
+Os painéis de madeira são estruturas fabricadas em diferentes estágios de desagregação ou em lâminas de madeira, que são aglutinadas por meio de resinas específicas. Estes substituem o uso de madeira maciça em diversificadas áreas, como na fabricação de pisos e móveis (BNDES, 2018).
+De acordo com Guimarães Júnior (2008), os painéis aglomerados de madeira são vistos como uma forma de ampliar o aproveitamento dos materiais provenientes da produção florestal, concedendo um destino mais nobre às madeiras de dimensões ou qualidade inferiores.
+A crescente escassez no suprimento de matéria-prima para painéis à base de madeira desencadeou o desenvolvimento de trabalhos que buscam diversificar as fontes de suprimento de material lignocelulósicos. Materiais como casca de arroz, palha, bagaço e bambu têm o potencial de substituir certa quantidade de matéria-prima; entretanto sua participação é ainda pequena em comparação com a produção global (WIELAND et al, 2013).
+Por outro lado, a indústria calçadista durante o processo de corte e acabamento do calçado descarta grande quantidade de resíduos de couro acabado, estes quando são descartados de forma correta, normalmente são destinados a aterros sanitários sem qualquer aproveitamento.
+À vista disso, este trabalho propõe o estudo de partículas de couro, descartadas pelas indústrias calçadistas localizadas na cidade de Franca-SP, para a confecção de painéis aglomerados.
+1.2 Importância do tema
+O equilíbrio atual no fornecimento de madeira possivelmente mudará dramaticamente nos próximos anos. Mantau et al (2010) prevê uma subutilização mundial de cerca de 100 m3 de biomassa lenhosa no ano de 2020.
+À vista do exposto, os painéis de madeira aglomerada surgem como forma de substituição parcial da madeira maciça, agregando valor ao produto, reduzindo o gasto com energia e menor tempo de produção, além de modificar e incrementar propriedades físicas e mecânicas.
+De forma a contribuir com o meio ambiente, considerando-se a possibilidade de sustentabilidade de espécies arbóreas nativas e um processo de fabricação que agrega valor ao produto com o aproveitamento de resíduos que seriam descartados diretamente na natureza ou queimados para geração de energia, atualmente são desenvolvidas várias pesquisas com a substituição parcial de partículas de madeira em painéis aglomerados por partículas de bambu, casca de arroz, borracha, entre outros materiais.
+Para o desenvolvimento deste trabalho verificou-se que o setor coureiro da cidade de Franca gera em média 160 toneladas de resíduo de couro por dia. Esses resíduos são provenientes de “carnaças” (resíduos de curtumes) e aparas de couro acabado (resíduos de indústrias calçadistas). Este, quando descartado de forma correta, é destinado aos aterros sanitários sem qualquer reaproveitamento.
+Em análise ao setor calçadista verificou-se que há necessidade de aproveitamento dos resíduos gerados. De acordo com Schneider (2003), a quantidade elevada de diferentes resíduos sólidos gerados deve-se ao fato da limitação que o ser humano apresenta de evoluir seus conhecimentos em inventabilidade afim de gerar novos produtos, com transformações em matérias primas, de modo a promover seu conforto e bem-estar.
+Considerando-se o contexto da geração de resíduo no setor de produção de calçados, observou-se que existe a possibilidade de aproveitamento de novos subprodutos para a produção de painéis aglomerados utilizando-se partículas de madeira e de couro. À vista disso, o uso de resíduo de couro proveniente de indústrias calçadistas, para a produção de painéis aglomerados, pode vir a se constituir em mais uma alternativa para produção desses painéis.
+1.3 Objetivo
+O objetivo deste trabalho se constitui da produção e avaliação de painéis de partículas de madeira e couro, aglutinados com resina poliuretana bi componente derivada de óleo de mamona.
+1.4 Apresentação do trabalho
+A pesquisa foi dividida em sete capítulos, descritos a seguir.
+O primeiro capítulo apresenta as considerações iniciais, a importância do tema e os objetivos.
+O segundo capítulo engloba uma revisão bibliográfica, com destaque aos tipos de painéis, resíduos de couro e resinas utilizadas no processo de fabricação de painéis.
+A caracterização dos materiais empregados e a descrição detalhada da montagem e do ensaio experimental dos modelos são apresentadas no terceiro capítulo.
+O capítulo quatro apresenta os resultados obtidos na pesquisa bem como a avaliação e a análise estatística destes.
+O sexto capítulo aborda as sugestões para as próximas pesquisas. O capítulo sete apresenta a referência bibliográfica
+2 REVISÃO BIBLIOGRÁFICA
+2.1 Recursos Florestais
+A definição de floresta, segundo a Organização das Nações Unidas para Agricultura e Alimentação, é toda área medindo mais de 0,5 hectares com árvores maiores que cinco metros de altura e cobertura de copa superior a 10%, não incluindo a área que está predominantemente sob uso urbano ou agrícola. (FAO, 2016).
+Existem dois tipos de florestas, quando são produzidas intencionalmente pelo ser humano para se obter um dado objetivo, como conservação de certa área ou produção, recebendo o título de Florestas Plantadas; e florestas antigas que não sofreram perturbações significativas pelo ser humano, com o título de Florestas Nativas. (FAO, 2016)
+Em termos quantitativos, no ranking mundial o Brasil aparece atrás somente da Rússia apresentando aproximadamente 58% de seu território coberto por florestas plantadas e nativas (SNIF, 2016). Segundo a ABIPA (2013), a cobertura florestal nacional é da ordem de 519,29 milhões de hectares, dos quais aproximadamente 512 milhões de hectares são de florestas nativas e 7,18 milhões de hectares de florestas plantadas.
+Quando se trata de florestas plantadas, o início dos plantios aconteceu há mais de um século. As primeiras mudas de Eucalipto foram trazidas em 1903 com o intuito de produzir dormentes para as ferrovias, um pouco mais tarde, 1947, foram plantadas as primeiras mudas de Pinus (SNIF, 2016).
+As florestas plantadas são espalhadas por diversas regiões, destacando as regiões sul e sudeste. Na Figura 1, segundo a IBÁ (2017), apresentam-se as áreas de árvores plantadas por gênero no Brasil em 2015 e 2016.
+Figura 1 – Área de árvores Plantadas
+ Fonte: IBÁ (2017).
+Nota-se que houve um aumento, entre 2015 e 2016, na área das florestas plantadas de 0,5%, este foi absorvido em totalidade pelo plantio de Eucalipto.
+Ainda de acordo com a IBÁ (2017), a Figura 2 apresenta a distribuição de espécies plantadas por estado. Nota-se que o Eucalipto é a espécie mais utilizada na maioria dos estados brasileiros, com exceção do Paraná e de Santa Catarina, onde o plantio de Pinus é superior.
+
+Figura 2 – Área de plantio por estado e gênero
+ Fonte: IBÁ (2017).
+Em função do rápido crescimento das espécies plantadas, os setores industriais no Brasil se tornaram altamente competitivos com produtividade cerca de dez vezes superior aos países líderes do mercado mundial (Hoeflich, 2006). Na Finlândia as florestas plantadas apresentam rendimentos de 5m3/ha/ano, em Portugal os valores são de 10 m3/ha/ano, nos Estados Unidos de 15 m3/ha/ano, na África do Sul 18 m3/ha/ano e no Brasil há potencial para ganhos superiores a 90 m3/ha/ano, porém atualmente os valores oscilam entre 40 m3/ha/ano e 60 m3/ha/ano, para Pinus e Eucalipto respectivamente (Araújo et al, 2017).
+2.2 Produtos de Madeira
+Segundo a Indústria Brasileira de Árvores – IBÁ (2017), o Brasil é uma referência mundial quando se trata de florestas plantadas, levando-se em consideração a sustentabilidade, competitividade e inovação. As árvores plantadas são fontes de inúmeros produtos presentes em nosso cotidiano, destinadas à
+
+produção de celulose, papel, painéis de madeira, pisos laminados, carvão vegetal e biomassa.
+As exportações desses produtos trazem grande contribuição para a economia nacional, gerando muitos empregos e renda em regiões diversas do país. Segundo a IBÁ (2017) por apresentar grande relevância para o setor em questões de desenvolvimento social, ambiental e econômico, o mesmo tem investido para transformar resíduos dos processos industriais em produtos inovadores que contribuam para a economia de baixo carbono.
+A transformação de matéria prima florestal em produtos resulta em dois tipos: produtos madeireiros e produtos não-madeireiros. Os primeiros, segundo SNIF (2016), são todos materiais lenhosos passíveis de aproveitamento para serraria, estacas, lenha, poste, mourão, entre outros. Os não madeireiros são produtos florestais não lenhosos de origem vegetal, por exemplo: resinas, óleo, plantas ornamentais, plantas medicinais, bem como serviços sociais e ambientais.
+A Figura 3 ilustra como é realizada a divisão dos produtos madeireiros, os mesmos podem ser divididos em: lenha e carvão, celulose e papel, painéis reconstituídos de madeira, produtos da madeira processada mecanicamente e outros.
+22
+ Figura 3 – Produtos Madeireiros
+  Figura 3 - PFroondteu:tAosBmIMaCdIe(i2r0ei0r9o)s. - ABIMCI
+2.3 Painéis de Madeira
+Segundo BNDES (2018), os painéis de madeira são estruturas fabricadas em diferentes estágios de desagregação ou em lâminas que são aglutinadas, substituindo a madeira maciça em diversos usos, como na fabricação de móveis e pisos.
+De acordo com Lara Palma & Ballarin (2003) os painéis de madeira são obtidos pela aglomeração de pequenos fragmentos de madeira juntamente com aglutinantes, podendo aproveitar as propriedades autoaglutinantes dos componentes do material lignocelulósico.
+
+De modo genérico pode-se definir painéis de madeira como sendo a aglomeração de elementos compostos de madeira juntamente com resinas específicas para tal função.
+Segundo o BNDES (2018), a divisão dos painéis pode ser realizada pelo tipo da madeira: há os constituídos com madeira reconstituída e outros com madeira processada mecanicamente. Os primeiros passam por diferentes processos de desagregação; os demais, são formados por sarrafos de madeira maciça ou por lâminas.
+Figura 4 – Classificação dos painéis de madeira
+Fonte: ABIMCI (2009).
+Em relação à classificação da Figura 4, as aplicações destes tipos de materiais estão diretamente associadas com as propriedades físicas e mecânicas deles. Segundo ABIMCI (2009) as restrições quanto ao uso envolvem fatores como: uniformidade da peça, resistência à fixação de parafusos, uso exterior ou interior, entre outros. As principais aplicações e usos dos painéis de madeira estão
+associados a dois setores: construção civil e indústria moveleira, onde a diferenciação é feita com base nas propriedades mencionadas anteriormente.
+2.3.1 Painéis de Madeira Maciça MADEIRA COMPENSADA
+Os painéis de madeira compensados (Figura 5) são constituídos de folhas de madeira finas que são colocadas com as fibras perpendicularmente umas às outras. A resistência física e mecânica é propiciada devido ao sistema de colagem (PETRUCCI, 1975).
+Figura 5 – Painéis Compensados
+Fonte: Campos (2016).
+De acordo com a ABIMCI (2009) estes painéis são constituídos de lâminas de madeiras sobrepostas e cruzadas, as quais são unidas por resinas e adesivos com calor e pressão. Normalmente utiliza-se a quantidade de lâminas de número ímpar de modo a propiciar maior resistência ao conjunto.
+Segundo Dias (2008), o compensado é produzido com resina à base de ureia-formaldeído, temperaturas de cura na faixa de 130°C a 160°C e possuem como vantagens: maior resistência, menor variação das dimensões e melhor aproveitamento da madeira.
+PAINEL COLADO LATERAL - EGP
+A sigla EGP em inglês significa Edge Glued Panel traduzindo Painel Colado Lateral, segundo a ABIMCI (2009) é o conjunto de peças de madeira coladas lateralmente formando um painel, conforme apresentado na Figura 6.
+Figura 6 – Painéis EGP
+Fonte: ABIMCI (2009).
+A maior parte da produção nacional é feita de madeira Pinus, embora sejam encontrados alguns painéis em Eucalipto. Visto que as emendas proporcionam efeito decorativo nas peças, comumente, não é aplicado revestimentos ao EGP.
+De acordo com ABIMCI (2009) a qualidade do material está relacionada diretamente à incidência de defeitos observados nos sarrafos que compõe o painel.
+2.3.2 Painéis de Madeira Reconstituída
+Os painéis de madeira reconstituída são produzidos através de processos de desagregação da madeira em materiais particulados ou fibrosos; eles são classificados e aglomerados por meio de resinas e aditivos que sob a ação de calor e pressão adquirem as propriedades e formas desejadas (CAMPOS, 2016).
+As aplicações destes painéis vão além do uso em móveis e embalagens, podem ser utilizados também como elementos estruturais, por exemplo, viga de
+perfil “I”. Segundo Iwakiri (2005), o surgimento dos painéis de madeira reconstituída veio como uma alternativa ao uso das madeiras maciças, que entraram em restrição devido as limitações de recursos ambientais.
+PAINÉIS AGLOMERADOS DO TIPO MDP
+O aglomerado é definido segundo BNDES (2018) como uma chapa fabricada de partículas de madeira aglutinadas por meio de resina sob a ação de calor e pressão. Os materiais que podem ser empregados como matéria prima são: resíduos industriais de madeira, resíduos da exploração florestal, madeiras de qualidade inferior, madeiras provenientes de florestas plantadas, entre outros. No Brasil a principal fonte de matéria prima é proveniente de florestas plantadas, em especial as espécies de Eucalipto e Pinus.
+A indústria brasileira em meados da década de 90 investiu em tecnologia, substituindo o processo de prensagem cíclica para prensagem contínua, o que resultou em melhores características de resistência ao produto, modificando a nomenclatura de aglomerado para MDP (medium density particleboard) – painel de partículas de média densidade, com o intuito de dissociar o novo produto do aglomerado tradicional (BNDES, 2018).
+Durante a fabricação as partículas são classificadas e separadas por camadas, as com dimensões maiores são colocadas no centro e as com dimensões menores são colocadas nas superfícies, conforme ilustra a Figura 7, assegurando melhor acabamento para pinturas e revestimentos. A densidade média das camadas superiores varia entre 0,95 e 1,0 g/cm3.
+Figura 7 – Painéis MDP
+Fonte: Todeschini Dourados (2018).
+Com a nova tecnologia de produção, as características como resistência ao arrancamento de parafusos, absorção de umidade e empenamento do MDP foram melhoradas quando comparadas com as do aglomerado (BNDES, 2018).
+PAINÉIS ORIENTED STRAND BOARD - OSB
+A sigla OSB em inglês de Oriented Strand Board define painéis fabricados com partículas largas, longas e com espessuras finas unidas por resinas sob a ação de alta pressão e temperatura, suas partículas são orientadas paralelamente ao plano dos painéis. É utilizado como painel estrutural, possuindo capacidade de contraventar estruturas de aço e madeira (PIVETTA; SILVA, 2017).
+PAINÉIS DE FIBRA
+Figura 8 – Painéis OSB
+Fonte: Sua Obra (2018).
+De acordo com Iwakiri (2005), as indústrias de painéis de fibra foram instaladas no Brasil a partir de 1950 quando o país se tornou exportador destas chapas, embora o desenvolvimento da tecnologia se deu na Alemanha em 1932.
+MDF
+A sigla MDF em inglês significa Medium Density Fiberboard onde sua tradução é chapa de fibra de média densidade, é um produto homogêneo produzido a partir de madeira reflorestada, oferece boa trabalhabilidade e pode receber diversos tipos de revestimentos. Sua produção se dá a partir de fibras de madeira aglutinadas com resinas juntamente com a ação de temperatura e pressão, apresentando densidade entre 0,5 a 0,8 g/cm3, inferior quando comparada ao MDP, conforme visto na Figura 9.
+Figura 9 – Comparação MDP - MDF
+Fonte: Lider Interiores (2018).
+A matéria prima para confecção das chapas de MDF é proveniente de madeira de florestas plantadas com características uniformes, de baixa densidade, de cor clara, sendo o Pinus a espécie madeira mais utilizado devido ao uso relativamente nobre e especializado (SBS, 2018).
+CHAPA DURA
+Em inglês “hardboard”, conhecida também como chapa de fibra, segundo BNDES (2018) é uma chapa de espessura fina resultante da prensagem a quente de fibras de madeira por meio de um processo úmido, que reativa os aglutinantes naturais (sem adição de resinas) que proporciona ao produto alta densidade. A matéria-prima mais utilizada no Brasil é a madeira de eucalipto de florestas plantadas.
+Para obtenção do aglomerado/MDP, MDF e OSB os processos não utilizam água, sendo chamados de via seca, enquanto que o nome dado ao processo para obtenção da chapa dura é dito via úmida, processo mais antigo e poluente.
+Figura 10 – Painéis Hardboard
+Fonte: Bras Fibra (2018).
+2.4 Produção de Painéis de Madeira Reconstituída
+Segundo relatório anual da IBÁ (2017), a produção de painéis de madeira reconstituída registrou uma redução de 2,4% em 2016 quando comparado ao ano anterior, encerrando o ano com 7,3 milhões de m3 produzidos. A produção de MDP aumentou 8,9%, enquanto as produções de MDF/HDF e HB diminuíram 8,8% e 8,9%.
+Parte deste declínio da produção deve-se à diminuição do consumo das famílias brasileiras, levando uma redução da compra de diversos produtos, inclusive de móveis, principal segmento consumidor de painéis de madeira. Segundo a IBÁ (2017), as vendas caíram 12,1% no setor moveleiro o que provocou um recuo de 2,2% na comercialização de painéis de madeira reconstituída em 2016. Em contrapartida, as exportações no ano de 2016 estiveram 64% em alta em relação ao ano de 2015 atingindo 1,1 milhão de m3, alocando a produção do setor no mercado externo.
+31
+ Figura 11 – Principais indicadores do segmento de painéis de madeira reconstituída
+  Fonte: IBÁ (2017).
+A Figura 11 apresenta os principais indicadores do segmento de painéis de madeira reconstituída, nota-se que o Brasil ocupa o oitavo lugar no ranking mundial de produtores de painéis de madeira reconstituída. Ainda é possível notar que 86% da produção atende ao mercado nacional e 14% é destinado à exportação.
+As principais unidades produtoras de painéis de madeira reconstituída são localizadas na região Sul e nos estados de São Paulo, Minas Gerais e Pará, não apresentando distribuição homogênea conforme visto na Figura 12. Nota-se que as unidades produtoras estão localizadas nos estados que há quantidade maior de florestas plantadas.
+
+Figura 12 – Distribuição geográfica das principais unidades produtoras de painéis
+Fonte: IBÁ (2017).
+2.5 Indústria Calçadista
+De acordo com relatório do ABI CALÇADOS (2017) o setor calçadista brasileiro é formado por aproximadamente 7,7 mil empresas, onde 66,1% estão concentradas nos estados de Rio Grande do Sul e São Paulo. O setor em 2016 gerou cerca de 286,7 mil empregos e produziu cerca de 954 milhões de pares de calçados, garantindo o terceiro lugar no ranking de produtores mundiais.
+Em 2016, o setor exportou 125,6 milhões de pares de calçados, exportando grande quantidade de sapatos de couro, matéria prima que há muito tempo foi e ainda é bastante utilizada como principal constituinte na fabricação de sapatos.
+Em relação à distribuição das empresas do setor calçadista, há uma concentração geográfica em determinadas regiões do Brasil, sendo Franca, Birigui e Jaú os principais polos representantes do Estado de São Paulo. A importância dos polos para o setor é comprovada pelos dados do relatório do ABI Calçados
+(2017), cujo apontamento revela que somente o polo de Franca-SP representa 36,1% da produção do estado, predominando a fabricação de calçados masculinos. Contudo, a alta importância para o setor calçadista e coureiro brasileiro traz a Franca-SP questões ambientais que devem ser discutidas, principalmente em relação aos resíduos gerados. De acordo com FRANCAL, 2018 a cidade gera 160 toneladas de resíduo por dia no setor coureiro, ou seja, 11,43% da produção nacional, com isso, é necessário determinar os locais apropriados para destinação
+dos mesmos.
+O reaproveitamento destes resíduos além de minimizar os impactos
+ambientais causados pelo descarte de maneira inadequada pode contribuir para a criação de novos produtos para a construção civil, com propriedades físicas e mecânicas adequadas, ou a utilização destes resíduos na fabricação de fertilizantes.
+2.6 Resíduos de Couro
+Os resíduos de couro são classificados em três grupos, conforme mostra a Figura 13.
+Figura 13 – Classificação dos resíduos de couro
+Fonte: RIEHL (2015).
+Resíduos Sólidos não curtidos
+Estes resíduos são gerados na transformação da pele em couro, a atribuição de “não curtido” se dá, pois não foi aplicado nenhum tipo de tratamento com “curtentes”. A sua geração é no processo de Ribeira, fase inicial em que ocorrem os processos e operações necessárias para a retirada de todo material que não irá constituir o produto final, que é o couro (MOREIRA & ALVES 2012). Durante este processo são gerados como resíduos: aparas caleadas, aparas não caleadas e carnaça, conforme se observa na Figura 14.
+Figura 14 – Resíduos sólidos de couro não curtidos
+Fonte: Próprio autor.
+Resíduos sólidos de couro curtidos:
+Estes resíduos (Figura 15) são gerados no processamento do couro e compreendem as aparas de couro curtido, serragem e aparas da operação de rebaixamento, pó de lixadeira entre outros resíduos do processo de curtimento e acabamento. (SPRING; LUCCHESE, 1982).
+Figura 15 – Resíduos sólidos curtidos
+  Fonte: Próprio autor.
+
+Resíduos de couro da Indústria Calçadista:
+Este tipo de resíduo é gerado pelo corte e montagem do couro acabado do calçado na indústria. Estima-se que a quantidade de resíduos gerados pelo corte do couro, realizado pelas fábricas de calçado, correspondem de 15% a 20% da superfície. (MOREIRA; TEIXEIRA, 2003).
+A Figura 16 ilustra o resíduo gerado durante o processo de corte para fabricação de botas, cedido pela empresa Newborn da cidade de Franca-SP.
+Figura 16 – Aparas de couro acabado
+Fonte: Próprio autor.
+Segundo Godinho (2006) o índice de reaproveitamento dos resíduos do setor calçadista e coureiro são bem abaixo do desejável. Alguns fatores que podem contribuir para o não aumento do índice é a falta de separação destes resíduos no estabelecimento gerador e os custos envolvidos com a utilização de materiais reciclados, tendo em vista que a tributação em materiais originados da reciclagem é mais elevada quando comparada aos outros materiais.
+De acordo com Serrano (2001), os destinos dos resíduos da indústria calçadista são: aterro particular (23%), centrais (15%), lixão particular (7%), estocagem (5%), reaproveitamento (3%), outros locais (3%) e não informado (44%).
+2.7 Adesivo para produção de painéis de madeira
+Os adesivos e/ou resinas são todas substâncias utilizadas com o objetivo de aderir partículas de madeira para confecção de painéis, podendo ser de origem orgânica ou inorgânica. (ABNT NBR 14810-1, 2013a).
+De acordo com Olmos (1992) os adesivos podem ser classificados em dois grupos quanto a sua origem: naturais ou sintéticos. Para os primeiros destacam-se os de precedência animal, mamona, albumina de proteína vegetal e o tanino, extraídos de algumas espécies de vegetais. O segundo grupo, de origem sintética, destaca-se a ureia-formaldeído, fenol-formaldeído, melanina, polivinil e resorcionol-formaldeído.
+A produção de painéis de madeira alcançou um grande impulso com a utilização de adesivos sintéticos, em especial à base de ureia-formaldeído e fenol- formaldeído, que em alguns países ainda são empregados no processo de produção dos painéis. Todavia, este tipo de resina, apresenta certos inconvenientes devidos sua baixa resistência à ação da umidade e liberação do gás formaldeído quando elevada a altas temperaturas, gerando prejuízos ao meio ambiente (ZAU et al, 2014).
+Desta forma, ademais aos inconvenientes apresentados houve e ainda há uma tendência mundial de utilização de produtos não poluentes, biodegradáveis e originados de recursos renováveis. De modo a atender a tendência, estudos se intensificaram e tem se utilizado a resina poliuretana derivada de óleo de mamona.
+2.7.1 Resina polituretana à base de mamona
+A resina à base de mamona é proveniente de um recurso renovável e natural e, segundo Dias (2008), a formação de poliuretanos se dá a partir da mistura entre polióis e pré-polímeros com diferentes características.
+Entre suas vantagens destacam-se a baixa toxidade observada nas fases de aplicação e manipulação, a elevada estabilidade física e química quando submetida em ambientes agressivos, a alta resistência a líquidos orgânicos em forma de óleos e fluídos e a combinação de elevado grau de estiramento, com alta resistência mecânica antes da ruptura, fato que proporciona boa capacidade de resistir à abrasão e ao impacto (JESUS, 2002).
+Segundo Minillo e Silva (2017), a proporção de polióis e pré-polímeros influencia diretamente nas propriedades do painel. Ao utilizar uma menor proporção de poliol em relação ao pré-polímero, a adesão das partículas é prejudicada, levando a valores menores de propriedades físicas e mecânicas do painel de madeira, sendo recomendada a proporção 1:1.
+De acordo com Rocha e Silva (2016), o emprego de 10% de resina PU- Mamona foi eficiente e proporcionou a adequada adesão das partículas, juntamente com a adição de partículas de bagaço de cana-de-açúcar na proporção de 50 %, que propiciou um painel do Tipo P2, de acordo com a ABNT NBR14810-2:2013, sendo classificado como “Painéis não estruturais para uso interno em condições secas”. Rocha e Silva (2016) recomendam o emprego de 12% de resina PU- Mamona para obtenção de painéis que venham a ser classificados como “Painéis não estruturais para uso interno em condições úmidas”.
+3 MATERIAIS E MÉTODOS 3.1 Materiais
+Para confecção dos painéis, foram utilizadas partículas de madeira de eucalipto e partículas de couro provenientes de indústrias calçadistas da cidade de Franca-SP; para a aglutinação destas partículas, foi utilizada a resina poliuretana à base de óleo de mamona.
+A opção de se utilizar partículas de couro foi motivada pela grande quantidade de resíduos de couro descartado no meio ambiente pelas indústrias calçadistas e consequentemente pela possibilidade de agregar valor aos painéis produzidos com esse resíduo.
+3.1.1 Partículas de Eucalipto
+As partículas de madeira de eucalipto utilizadas são provenientes da Madeireira Pinus, localizada na cidade de Ilha Solteira – SP. O material foi adquirido, processado e peneirado, objetivando-se definir a granulometria ideal para a confecção dos painéis. A Figura 17 ilustra o material utilizado em uma de suas etapas do processamento para obtenção das partículas.
+Figura 17 - Partículas de Eucalipto
+Fonte: Próprio autor.
+3.1.2 Partículas de Couro
+Os resíduos de couro acabado utilizados para a confecção dos painéis aglomerados foram doados pela indústria Newborn da cidade de Franca-SP. A Figura 18 ilustra aspectos gerais do resíduo de couro utilizado.
+Figura 18 – Partículas de Couro
+ 3.1.3 Resina
+Fonte: Próprio autor.
+Constitui-se do adesivo utilizado para aglutinar as partículas. Este produto é um poliuretano bicomponente à base de óleo de mamona e foi doado pela empresa Imperveg Polímeros Indústria e Comércio Ltda, com sede em Aguaí - SP. A Figura 19 ilustra aspectos dos componentes do adesivo. Este trabalho foi utilizada a proporção de 1:1 entre seus componentes.
+
+Figura 19 – Aspectos visuais do pré-polímero e do poliol que compõem a resina poliuretana bi componente à base de óleo de mamona
+(a)Pré-polímero (b)Poliol Fonte: Próprio autor.
+No Quadro 1, observam-se as principais características e propriedades dos elementos que caracterizam a resina PU-Mamona.
+Quadro 1 - Características da resina poliuretana à base de mamona
+     Propriedades
+Componentes
+Poliol Pré-polímero
+Fonte: Alves e Silva (2014)
+         Densidade
+1,10 g/cm3
+1,24 g/cm3
+      Aparência
+Líquido viscoso amarelado
+Líquido marrom escuro
+    De acordo com a empresa Imperveg Polímeros Indústria e Comércio Ltda, a PU-Mamona apresenta as seguintes características: consistência fluída, cor âmbar após a cura, alta resistência ao calor com perda de massa somente após 210oC, isenção de liberação de elementos tóxicos, tempo de secagem ao toque de 60 a 90 minutos, tempo de retirada do molde de 6 horas, tempo de cura e manuseio de 24 horas, rendimento variável entre 10 a 50%, em relação à massa do material
+
+a ser utilizada, alta durabilidade, grande resistência aos raios ultravioleta, estanqueidade a líquidos e gases, excelente penetração nos poros da superfície e não apresenta retração volumétrica após a cura.
+3.2 Métodos
+3.2.1 Preparação das partículas de madeira
+As vigotas de madeira de eucalipto adquiridas foram processadas em uma plaina na marcenaria da FEIS-UNESP de Ilha Solteira. A Figura 20 ilustra a obtenção dos cavacos.
+Figura 20 - Processamento das vigotas de madeira para obtenção dos cavacos
+Fonte: Próprio autor.
+Posteriormente, os cavacos obtidos por meio da plaina, foram triturados em um macromoinho de facas, de modo a se obter as partículas com granulometria ideal para confecção dos painéis, ou seja, com comprimentos de 2 a 6 mm. A Figura 21 ilustra o moinho utilizado.
+Figura 21 - Moinho utilizado
+Fonte: Trapp (2019).
+Após triturar o material, foi realizado o peneiramento das partículas de eucalipto, objetivando realizar uma separação das partículas na faixa de 2 a 6 mm de comprimento. O procedimento constituiu do peneiramento por meio de peneirador elétrico com sistema vibratório durante 7 minutos para cada volume de material depositado no peneirador utilizando-se um conjunto de peneiras com malhas de 12,5; 9,52; 6,36; 4;36; 2,36 (mm), conforme ilustrado na Figura 22.
+Figura 22 - Conjunto de peneiras com dispositivo vibratório
+  Fonte: Próprio autor.
+
+Teor de umidade das partículas de eucalipto
+Uma vez selecionadas as partículas de eucalipto dos painéis, calculou- se o teor de umidade das partículas por meio de três amostras. Este teor foi calculado de acordo com a equação 1:
+Onde:
+U = teor de umidade residual (%),
+mu = massa úmida expressa em gramas, ms = massa seca expressa em gramas.
+Composição granulométrica das partículas de eucalipto
+De forma a se efetuar a composição granulométrica das partículas de eucalipto, foi utilizado o ensaio da ABNT NBR NM 248:2003 – “Agregados – Determinação da composição granulométrica”, adaptado para partículas de madeira.
+Para a realização do ensaio, foram utilizadas duas amostras de 50g de massa nominal, peneiradas por meio do equipamento SOLOTEST (Figura 23), com peneiras de ordem decrescente de abertura, durante 15 minutos e frequência de 4 Hz.
+   𝑼 = MU−MS x 100   (1) MS
+ Figura 23 - Composição granulométrica das partículas de madeira
+ Fonte: Próprio autor.
+Calcularam-se a porcentagem retida de cada amostra, a média das porcentagens retidas, as variações da massa retida, as massas retidas acumuladas e o módulo de finura.
+3.2.2 Preparação das partículas de couro
+Para as partículas de couro, efetuou-se a tentativa de classificação granulométrica; entretanto, devido ao fato de ocorrer aglomeração entre as partículas, apresentando resultados não efetivos, estas foram utilizadas em sua composição granulométrica de origem, conforme ilustra a Figura 24.
+
+Figura 24 – Composição granulométrica do couro
+Fonte: Próprio autor.
+Teor de umidade das partículas de couro
+O teor de umidade das partículas de couro foi calculado a partir da Equação 1, apresentada anteriormente, por meio de três amostras.
+3.2.3 Tratamentos propostos para confecção dos painéis
+Conforme descrito anteriormente, para confecção dos painéis utilizou- se o adesivo poliuretano bicomponente derivado de óleo de mamona (PU-Mamona) na proporção de 10% em relação à massa seca das partículas.
+Os tratamentos propostos para confecção estão apresentados na Tabela 1.
+Tabela 1 - Tratamentos propostos para confecção dos painéis aglomerados
+T1 50 50 10 T2 25 75 10 T3 10 90 10
+Fonte: Próprio autor. .
+Foram confeccionados três painéis de cada tratamento nas dimensões de 35x35x1,5cm.
+3.2.4 Cálculo da massa seca de partículas para confecção dos painéis
+O cálculo da massa seca de partículas dos painéis foi efetuado em função da densidade nominal do painel, definida através da Equação 2. Assim, foi determinada a massa de partículas de cada material para cada tratamento proposto. O volume foi adotado em função das dimensões da formadora de colchão, de 35x35x1,5cm.
+𝐷=𝑚 𝑣
+   TRATAMENTOS
+ COURO (%)
+ EUCALIPTO (%)
+ RESINA (%)
+                      Onde: D
+m
+v
+é a densidade nominal dos painéis igual a 0,8 (g.cm-3);
+é a massa de partículas para confecção dos painéis (g); e é o volume painéis (cm3).
+Os tratamentos propostos, expressos em massa, para confecção dos painéis, são indicados na Tabela 2.
+Tabela 2 - Tratamentos propostos para confecção dos painéis aglomerados (g) (g) (g)
+T1 735 735 147 1470 T2 367,5 147 1470
+(2)
+           TRATAMENTOS
+COURO
+EUCALIPTO
+          1.102,5
+RESINA
+MASSA TOTAL (g)
+       T3
+1.323 147 1470 Fonte: Próprio autor.
+     
+As partículas foram separadas de acordo com as quantidades estabelecidas em cada tratamento para consequente confecção dos painéis. A Figura 25 mostra as partículas do tratamento T1 já homogeneizadas.
+Figura 25 - Partículas homogeneizadas
+Fonte: Próprio autor.
+3.2.5 Cálculo do teor de umidade das partículas
+Inicialmente, foi calculado o teor de umidade das partículas de cada material. Contudo, para que se atinja a umidade ideal para a confecção dos painéis, fez-se necessário o cálculo do teor de umidade da mistura couro/madeira, de acordo com cada tratamento, conforme ilustra a Figura 26, realizado por meio da Equação 1.
+Figura 26 - Amostras teor de umidade das partículas
+Fonte: Próprio autor.
+3.2.6 Fabricação dos painéis
+Depois de efetuada a separação das partículas dos tratamentos, realizou-se a adição da resina. Esta foi realizada em duas etapas: primeiramente foi misturado o poliol e, posteriormente, o pré-polímero, procedimento este que otimiza a homogeneização da resina e traz benefícios quanto à cura.
+A Figura 27 ilustra a homogeneização da mistura, que foi realizada primeiramente de maneira manual e, em seguida de modo mecânico, com a utilização de uma betoneira durante 7 minutos.
+Figura 27–Homogeneização na betoneira
+Fonte: Próprio autor.
+Após o processo de homogeneização, todo o material foi transferido para a formadora do colchão, conforme ilustra a Figura 28, de modo a executar a prensagem do painel.
+Figura 28 - Formadora de colchão
+Fonte: Próprio autor.
+O processo de prensagem foi realizado com 70 tf (700 KN) e temperatura média de 100°C. As Figuras 29 e 30 ilustram o procedimento de preparo da prensa utilizando papel alumínio para evitar que o painel colasse na prensa.
+Figura 29– Preparo da prensa mecânica
+Fonte: Próprio autor.
+Figura 30– Prensa hidráulica com controle de temperatura e pressão
+Fonte: Próprio autor.
+A prensagem foi executada no colchão de partículas aplicando-se 70 t/f para confecção de painéis com área de 1225 cm2, ou seja, pressão de prensagem
+52
+ de aproximadamente 57 Kgf/cm2 (5,7 MPa). Após a prensagem, os painéis foram submetidos a um período de cura de, no mínimo, 72h.
+Os painéis apresentaram um aspecto rijo, com superfícies lisas e distribuição da resina uniforme. Decorridas 72 h de cura, foram retirados dos painéis corpos de prova para realização dos ensaios de Resistência a Flexão Estática. A Figura 31 ilustra um painel preparado para a extração dos corpos de prova de Flexão por meio de serra de disco.
+Figura 31– Painel com as dimensões definidas para os ensaios
+Fonte: Próprio autor.
+3.2.7 Caracterização dos painéis
+Neste item. estão apresentados os principais procedimentos que foram adotados para a caracterização das propriedades físicas e mecânicas dos painéis produzidos com os tratamentos propostos na Tabela 1 e com base na NBR 14810- 2013.
+           
+3.2.7.1 Determinação do inchamento e absorção de água
+Para a determinação do inchamento e da absorção de água, foram realizados corpos de prova de 50x50x15mm empregando-se a Equação 3.
+𝐼 = 𝑒1−𝑒0 × 100 (3) 𝑒0
+Onde:
+I = inchamento em espessura do corpo de prova, em porcentagem;
+e1 = espessura do corpo de prova após o período de imersão considerado, em milímetros;
+e0= espessura do corpo de prova antes da imersão, em milímetros.
+Para a determinação da absorção, empregou-se a Equação 4.
+𝐴 = 𝑚1−𝑚0 × 100 (4)
+𝑚0
+Onde:
+A = absorção de água, em porcentagem;
+m1 = massa do corpo de prova após imersão, em gramas;
+m0 = massa do corpo de prova antes da imersão, em gramas.
+3.2.7.2 Determinação do teor de umidade dos painéis
+A determinação do teor de umidade ocorreu em corpos de prova de 50x50x10mm, empregando-se a Equação 5.
+𝑈 = 𝑚𝑢−𝑚𝑠 × 100 (5) 𝑚𝑠
+Onde:
+U = umidade residual do corpo de prova, em porcentagem; mu = massa úmida do corpo de prova, em gramas;
+ms = massa seca do corpo de prova, em gramas.
+3.2.7.3 Determinação da densidade aparente dos painéis
+A determinação da densidade aparente foi realizada em corpos de prova de 50x50x15mm, empregando-se a Equação 6.
+Onde:
+Dap = densidade aparente dos painéis.
+mcp = massa em gramas do corpo de prova. vch = volume em cm3 do corpo de prova.
+3.2.7.4 Flexão e Módulo de Elasticidade
+O ensaio de Flexão Estática foi realizado em corpos de prova nas dimensões de 275 x 50 x15 mm, de acordo com a ABNT NBR 14810-3:2013.
+Para o cálculo da resistência à flexão (MOR) do corpo de prova, utilizou- se a Equação 7:
+𝑀𝑂𝑅 = 1,5 𝑥 (𝑃𝑥𝐷) (7) 𝐵 𝑥 (𝐸)2
+Onde:
+MOR = módulo de ruptura, em Megapascals;
+P = carga de ruptura lida no indicador de cargas, em Newtons;
+D = distância entre apoios do aparelho, em milímetros;
+B = largura do corpo de prova, em milímetros;
+E = espessura média tomada em três pontos do corpo de prova, em milímetros.
+𝑫𝒂𝒑 = 𝐦𝐜𝐩 g/cm3   (6) 𝐯𝐜𝐩
+Para determinação do módulo de elasticidade (MOE) foi utilizada a Equação 8:
+𝑀𝑂𝐸 = 𝑃1 𝑥 𝐷3 (8) 𝑑 𝑥 4 𝑥 𝐵 𝑥 𝐸3
+Onde:
+MOE = módulo de elasticidade, em Megapascals;
+P1 = carga no limite proporcional lida no indicador de cargas, em Newtons;
+D = distância entre os apoios do aparelho, em milímetros;
+d = deflexão, em milímetros, correspondente à carga P1;
+B = largura do corpo de prova, em milímetros;
+E = espessura média tomada em três pontos do corpo de prova, em milímetros.
+3.2.7.5 Tração Perpendicular ou Adesão Interna
+Para os ensaios de tração perpendicular, foram preparados corpos de prova nas dimensões 50 x 50 mm e avaliados utilizando-se a Equação 9.
+𝑇𝑃 = 𝑃 (9) 𝑆
+Onde:
+TP = resistência à tração perpendicular (MPa); P = carga na ruptura (N);
+S = área da superfície do corpo de prova (mm2)
+4 APRESENTAÇÃO E DISCUSSÃO DOS RESULTADOS
+4.1 Teor de umidade das partículas
+Os ensaios de teor de umidade das partículas foram realizados tanto para partículas de eucalipto e couro separadamente quanto para as misturas. A Tabela 3 ilustra os teores obtidos para cada partícula.
+Tabela 3 - Teor de umidade para cada partícula (U%) (U%) (U%)
+Fonte: Próprio autor.
+Devido ao fato das umidades se encontrarem abaixo da média ideal para fabricação dos painéis, 10% a 12%, efetuou-se o cálculo do teor de umidade de cada tratamento, considerando-se as proporções definidas anteriormente. Os resultados são expressos na Tabela 4.
+            PARTÍCULAS
+AMOSTRA 1
+AMOSTRA 2
+AMOSTRA 3
+MÉDIA (U%)
+          Eucalipto
+7,95%
+8,97%
+7,87%
+8,26%
+          Couro
+3,86%
+3,55%
+3,58%
+3,66%
+                TRATAMENTO
+AMOSTRA 1
+AMOSTRA 2
+AMOSTRA 3
+MÉDIA (U%)
+   8,36%
+ 8,06%
+ 8,51%
+ 8,31%
+ 9,82%
+ 9,55%
+ 9,15%
+ 9,50%
+ 11,94%
+ 12,13%
+ 12,58%
+ 12,21%
+   T1 T2 T3
+Tabela 4 - Teor de umidade de cada tratamento (U%) (U%) (U%)
+Fonte: Próprio autor.
+               Considerando que uma vez realizada a mistura das partículas a média do teor de umidade ainda se encontrou abaixo do ideal nos tratamentos T1 e T2, foi efetuado o cálculo da quantidade de água a ser acrescentada, de acordo com a Equação 1, para que se atingisse um valor próximo a 12% de umidade.
+
+A água foi acrescentada gradativamente por meio de um “borrifador” em toda a mistura e, ainda, misturada por meio da betoneira para dar maior homogeneidade, conforme ilustra a Figura 32.
+Figura 32 - Homogeneização com a betoneira
+Fonte: Próprio autor.
+Após a mistura, obteve-se novamente o teor de umidade dos tratamentos. A Tabela 5 ilustra os resultados.
+Tabela 5 - Teor de umidade de cada tratamento, após acréscimo de água (U%) (U%) (U%)
+T1 T2 T3
+Fonte: Próprio autor.
+Desta maneira, visto que os teores de umidade médios se encontraram na faixa de 10 a 12%, efetuou-se a fabricação dos painéis com as umidades mencionadas na Tabela 5.
+            TRATAMENTO
+AMOSTRA 1
+AMOSTRA 2
+AMOSTRA 3
+MÉDIA (U%)
+   11,56%
+ 12,33%
+ 11,13%
+ 11,76%
+ 11,99%
+ 11,14%
+ 11,39%
+ 11,50%
+ 11,94%
+ 12,13%
+ 12,58%
+ 12,21%
+ 4.2 Composição granulométrica das partículas
+Conforme exposto no capítulo 3, foi realizada a verificação da composição granulométrica das partículas de eucalipto. Esta análise foi realizada objetivando-se a confecção de painéis com partículas dentro da faixa granulométrica adequada (2mm a 6mm).
+Quadro 2 - Resultado do ensaio para determinação da composição granulométrica realizado nas partículas de eucalipto
+ Abertura da malha das peneiras (mm)
+a) massa inicial seca (gr) = 50,0
+ (Vr) Massa retida Variações
++4%
+(Mrm) Massa retida média
+(%)
+(Mra) Massa retida acumulada
+(%)
+b) massa inicial seca (gr) = 50,0
+ Mrg) Massa retida (gr)
+Mr%) Massa retida (%)
+Ensaio a
+Ensaio b
+Ensaio a
+Ensaio b
+9,5
+0,00
+0,00
+0,0%
+0,0%
+0,0%
+0,0%
+0,0%
+6,3
+0,10
+0,05
+0,2%
+0,1%
+0,1%
+0,1%
+0,1%
+4,76
+2,95
+2,31
+5,9%
+4,6%
+1,3%
+5,2%
+5,4%
+2,38
+36,27
+36,85
+72,4%
+73,4%
+1,1%
+72,9%
+78,3%
+1,19
+10,34
+10,42
+20,6%
+20,8%
+0,1%
+20,7%
+99,0%
+0,6
+0,42
+0,46
+0,8%
+0,9%
+0,1%
+0,9%
+99,9%
+0,3
+0,04
+0,09
+0,1%
+0,2%
+0,1%
+0,1%
+100,0%
+0,15
+0,00
+0,00
+0,0%
+0,0%
+0,0%
+0,0%
+100,0%
+Fundo
+0,00
+0,00
+0,0%
+0,0%
+0,0%
+0,0%
+100,0%
+Mt) Total S
+50,1
+50,2
+Módulo de Finu ra = 4,83
+ Mt=(SdeMrg) Mr%=(Mrg/Mt)*100 Vr=(Mr% ensaioa-Mr% ensaiob) Mrm=(Mr% ensaioa+Mr% ensaiob)/2 Mra=(SMrmMassaretidamedia)
+ Módulo finura = S % retidas acumuladas, nas peneiras da serie normal / 100 D. máximo = abertura da peneira na qual apresenta % retida acumulada < 5%
+                      Fonte: Próprio autor.
+Figura 33 - Resultado do ensaio para determinação da composição granulométrica realizado nas partículas de eucalipto
+  C U R V A S G R A N U L O M ÉT I C A S Abertura das peneiras (mm)
+0,1 1 10
+10 20 30 40 50 Porcentagens retidas acumuladas
+60 70 80 90 100
+     Partículas de Eucalip
+ to
+                                Fonte: Próprio autor.
+
+De acordo com o Quadro 2, o módulo de finura resultou em 4,83mm, significando que a média de tamanho das partículas do resíduo de eucalipto encontra-se próxima a este valor. Observa-se também que 78,3% das partículas ficaram retidas na peneira de 2,38 mm de espessura, ou seja, a maior parte do material encontra-se acima deste valor, porém menores do que a peneira de espessura imediatamente maior, que é a de abertura 4,76 mm.
+4.3 Densidade dos Painéis
+A densidade dos painéis aglomerados é de suma importância e pode estar relacionada aos resultados dos demais ensaios, tanto físicos quanto mecânicos.
+Conforme exposto na Tabela 6, os ensaios de densidade para os tratamentos T1 e T2 obtiveram variação percentual de densidade dentro do valor exigido por norma para este tipo de painel; entretanto, o tratamento T3 apresentou um corpo de prova cuja variação do percentual de densidade foi de - 7,06%, valor próximo ao definido pela norma, porém superior.
+Tabela 6 – Tabela de densidade média, desvio padrão e valor exigido pela norma
+    Tratamento
+T1 T2 T3
+Densidade media (kg/m3)
+924,37 857,61 952,07
+NBR14810 (2013)
+±7%
+Maior Variação percentual da Densidade - D% (%)
+- 6,08 6,02 - 7,06
+Fonte: Próprio autor.
+          Avaliaram-se as diferenças determinadas em função da composição de cada tratamento para produção dos painéis. O estudo foi realizado por meio da Análise de Variância (ANOVA) por considerar que se constitui de método para comparar a distribuição de três grupos em amostras diferentes.
+A avaliação por meio da ANOVA levou em consideração a variação entre os tratamentos, bem como a variação dentro dos tratamentos, possibilitando inferir
+
+se há ou não diferença significativa entre eles, com base nas densidades. A Tabela 7 evidencia os resultados obtidos após a aplicação do método.
+Tabela 7 - Análise entre os tratamentos T1 A T3 quanto à sua densidade
+     Grupo
+T1 T2 T3
+Contagem Soma Média
+Variância
+1012,435 2546,311 2112,017
+F
+12,47535
+     10 9243,729 924,3729 10 8576,073 857,6073 10 9520,74 952,074
+     ANOVA
+Fonte da variação
+Entre grupos Dentro dos grupos
+Total
+SQ
+47163,17 51036,87
+gl MQ
+2 23581,58 27 1890,254
+valor-P F crítico
+0,000146 3,354131
+               98200,03 29
+Fonte: Próprio autor.
+       A Análise de Variância (ANOVA) permite comprovar, por meio do valor P, se há ou não diferença significativa entre as densidades, ou seja, para valores de P com níveis de significância menores de 0,05, comprova-se que há diferença significativa.
+Outra forma de análise para avaliação do nível de significância se faz por meio do valor de F crítico, ou seja, há diferença significativa caso F seja maior que o valor de F crítico.
+De acordo com os resultados apresentados na Tabela 7, o valor de P foi de 0,000146, menor que 0,05, e o valor de F foi de 12,475, maior que o F crítico 3,354, ou seja, tanto pela análise do valor P quanto do valor F, a ANOVA evidenciou que há diferenças significativas das densidades em relação aos tratamentos.
+Ao efetuar a Análise da Variância (ANOVA) o teste mostrou que há diferença significativa em relação à densidade de, pelo menos, um dos tratamentos. Entretanto, este tipo de análise não informa qual dos tratamentos apresentou a diferença significativa. Para isso realizou-se o teste Tukey. O Quadro 3 apresenta os resultados obtidos para o teste Tukey.
+
+Quadro 3 - Resultado do teste Tukey para diferença entre os tratamentos quanto a densidade
+0,000128
+T1 T2 T3 0,005321 0,3427
+        T1
+T2 4,856 T3 2,015
+        6,871
+Fonte: Próprio autor.
+    Os valores apresentados no Quadro 3, obtidos por meio do teste Tukey definem valores de P. Uma das maneiras de se interpretar o teste, consiste em comparar o valor de P com nível de significância adotado. Neste trabalho o nível de significância foi de 0,05, desta maneira quando o valor de P for menor que 0,05, é possível concluir que há diferença significativa em relação às densidades.
+Desta forma, observa-se, no Quadro 3, dois valores menores que 0,05, destacados em vermelho, indicando que a densidade dos painéis do tratamento T1 apresentou diferença significativa quando comparada com as densidades dos painéis do tratamento T2, assim como as densidades dos painéis do tratamento T2 também apresentaram diferença significativa ao ser comparada com as densidades dos painéis do tratamento T3.
+A princípio esperava-se que os valores das densidades fossem crescentes de acordo com cada tratamento, ou seja, menores para os painéis do tratamento T1 (50% couro) e consequentemente, maiores para os painéis do tratamento T2 (25% de couro) e T3(10% de couro), respectivamente. Entretanto, observou-se que a menor densidade obtida foi para os painéis do tratamento T2 e não para os painéis do tratamento T1. Uma hipótese para explicar essa diferença é que a densidade da madeira depende da região da tora de madeira e consequentemente da composição na mistura de cada tratamento.
+A Figura 34 apresenta o gráfico indicando a variação da densidade de acordo com cada tratamento. Nota-se que os painéis com as maiores densidades foram os dos tratamentos T3, T1, sendo que os painéis do tratamento T2 apresentaram as menores densidades.
+
+Figura 34 - Relação entre as densidades e a quantidade de couro na proporção
+Os teores de umidade nos painéis de madeira aglomerada podem influenciar na compactação do painel, bem como indicar possível erro no ensaio, por exemplo, não atingindo ao valor indicado para a resina.
+A Tabela 8 expõe os resultados de umidade e desvio-padrão para os tratamentos experimentados. Nota-se que todas as umidades médias dos painéis fabricados se encontram de acordo com os parâmetros estabelecidos pela norma vigente para este tipo de painel, NBR 13810-2.
+Tabela 8 - Tabela de teor de umidade média em porcentagem dos corpos de prova
+Tratamento
+T1 T2 T3
+7,95
+8,43 10,46
+Desvio Padrão (%)
+0,211 0,198 0,313
+Fonte: Próprio autor.
+NBR14810 (2013) 5 a 13%
+Umidade média (%)
+        Densidade (Kg/m3)
+940
+900
+860
+820
+Tratamento T1 - 50% Madeira 50% Couro
+Tratamento T2 - 75% Madeira 25% Couro
+Tratamento T3 - 90% Madeira 10% Couro
+       Tratamentos Realizados
+4.4
+Fonte: Próprio autor.
+Teor de umidade dos painéis
+          
+Figura 35 - Aspectos dos corpos de prova após 24 horas de permanência na estufa, a 100°C
+4.5
+Os ensaios de inchamento e de absorção são de suma importância para a verificação de desempenho dos painéis em condições úmidas. O inchamento, resultado da medida da espessura do corpo de prova após imersão em água, e a absorção, resultado da medida da massa de água absorvida após imersão em água, mostram o comportamento do painel perante a água.
+A Tabela 9 apresenta os resultados do teste de inchamento médio dos painéis fabricados para os três tipos de tratamentos. Nota-se que apenas os painéis do tratamento T3 se encontram dentro do limite exigido pela norma.
+Tabela 9 - Inchamento médio em porcentagem dos corpos de prova ensaiados
+Tratamento
+T1 26,79 T2 20,15 T3 6,98
+Desvio Padrão (%) 2,55
+3,29
+2,22
+NBR14810 (2013) 18%
+Inchamento Médio (%)
+(b) Corpos de prova após secagem
+  (a) Corpos de prova na estufa
+Fonte: Próprio autor.
+ Inchamento e Absorção dos Painéis
+          Fonte: Próprio autor.
+
+Para o tratamento T2, apesar de não estar de acordo com a norma, o valor do inchamento médio encontra-se próximo ao valor normativo. Entretanto ao analisar o tratamento T1, que tem maior quantidade de resíduos de couro, nota-se que o inchamento foi maior, indicando que resíduo de couro em demasia pode prejudicar esta propriedade do painel.
+A Figura 36 ilustra os corpos de prova, dos três tratamentos, em repouso de modo a retirar o excesso de água, após imersão durante 24 horas.
+Figura 36 – Corpos de prova após imersão em água durante 24 horas
+Fonte: Próprio autor.
+Devido ao fato do ensaio de absorção não se encontrar em vigência na norma 14810/2013, os resultados do teste de absorção do presente trabalho foram comparados com a norma DIM (1961), fixando o valor de 15% de absorção máxima, após 24 horas de imersão, para este tipo de painel.
+Tabela 10 - Absorção média em porcentagem dos corpos de prova ensaiados
+Tratamento
+T1 T2 T3
+Absorção média (%)
+34,86 35,00 10,43
+Desvio Padrão (%)
+4,45 2,65 2,29
+DIN 68 761 (1961)
+15%
+           Fonte: Próprio autor.
+
+Observa-se, na Tabela 10, que somente o tratamento T3, com 10% de resíduo de couro, apresentou valor de absorção média de acordo com a norma. Para os tratamentos T1 e T2, nota-se o valor apresentado maior que o dobro do normativo. Da mesma maneira, salienta-se, assim como no ensaio de inchamento, que a quantidade de couro na mistura foi determinante para definição das resistências dos painéis com relação às propriedades sujeitas à ação da água.
+4.6 Resistência à Flexão (MOR) e Módulo de Elasticidade (MOE) dos painéis
+A Tabela 11 apresenta os resultados dos módulos de ruptura médios (MOR) para cada tratamento, juntamente com o valor normativo estabelecido para painéis não estruturais e painéis estruturais.
+Tabela 11 - Módulo de ruptura médio para cada tratamento
+Tratamento T1
+T2
+T3
+MOR médio (MPa) 11,03
+9,30
+17,98
+Desvio Padrão 1,83
+1,48
+3,47
+NBR14810 (2013) 11 MPa para painéis não estruturais e 16 MPa para painéis estruturais
+            Fonte: Próprio autor.
+A partir dos ensaios realizados, observou-se que os painéis do tratamento T1 apresentaram resistências compatíveis com painéis não estruturais, de acordo com a NBR e os painéis do tratamento T3 apresentaram resistências compatíveis com painéis estruturais, de acordo com a NBR, contudo os painéis do tratamento T2 não atenderam aos requisitos exigidos pela referida norma.
+
+Tabela 12 - Módulo de Elasticidade (MOE) médio para cada tratamento
+Tratamento T1
+T2
+T3
+MOE médio (MPa) 1910,57 1714,50
+2649,03
+Desvio Padrão 114,81 292,90 257,54
+NBR14810 (2013) 1800 MPa para painéis
+não estruturais e 2300 MPa para painéis estruturais
+          Fonte: Próprio autor.
+  Para os resultados de módulo de elasticidade apresentados na Tabela 12, verifica-se que os painéis do tratamento T1 apresentaram valores superiores ao exigido pela NBR 14910-2 para painéis não-estruturais. Por outro lado, para os painéis do tratamento T2, verificou-se que os mesmos apresentaram valor médio para o módulo de elasticidade bem próximo ao valor normativo. Nos painéis do tratamento T3, foram determinados valores de MOE superiores aos exigidos pela NBR para painéis estruturais, estando compatíveis com os resultados obtidos de MOR para o mesmo tratamento.
+A Figura 37 ilustra o momento da realização do ensaio para avaliação do MOR e MOE dos painéis.
+Figura 37 - Teste de flexão e determinação do módulo de elasticidade
+          Fonte: Próprio autor.
+
+4.6.1 Analise da relação entre proporções de resíduos em relação a resistência à flexão (MOR)
+De modo a avaliar as diferenças entre as proporções de resíduo de couro relacionadas aos valores de Resistência à Flexão, segue a Figura 38. Vale salientar que o fator resina não foi considerado devido ao fato de ser utilizado o mesmo tipo e concentração.
+Figura 38 - Influência do couro na resistência à flexão
+           Resistência à flexão (MPa)
+20,000 18,000 16,000 14,000 12,000 10,000
+8,000 6,000 4,000 2,000 0,000
+Tratamento T1 - 50% Madeira 50% Couro
+Tratamento T2 - 75% Madeira 25% Couro
+Tratamento T3 - 90% Madeira 10% Couro
+          Tratamentos Realizados
+Fonte: Próprio autor.
+Para a Resistência à Flexão Estática (MOR) verificou-se que os painéis do tratamento T1 (com 50% de couro e 50% de madeira) se apresentaram com maiores valores que os painéis do tratamento T2 (com 25% de couro e 75% de madeira), entretanto, para os painéis do tratamento T3 (com 10% de couro e 90% de madeira) foram os que apresentaram as maiores resistências.
+4.6.2 Analise da relação entre proporções de resíduos em relação ao módulo de elasticidade
+Assim como no item 4.6.1 a proporção de resíduos de couro também foi relacionada com os valores obtidos para o módulo de elasticidade, conforme ilustra a Figura 39.
+     
+Figura 39 – Avaliação do MOE em função da influência do resíduo de couro nos painéis
+Fonte: Próprio autor.
+No que se refere à análise do MOE em relação à proporção de resíduos de couro, verificou-se que os painéis do tratamento T1 e T3 apresentaram resistências superiores aos painéis do tratamento T2, semelhante ao ocorrido com os valores de MOR, esse fato representa uma coerência entre resultados.
+4.7 Tração Perpendicular
+Os resultados obtidos para os ensaios de Tração Perpendicular estão
+apresentados na Tabela 13.
+Tabela 13 – Média dos resultados de tração perpendicular (MPa)
+      Módulo de Elasticidade (MPa)
+3000,000 2500,000 2000,000 1500,000 1000,000
+500,000 0,000
+Tratamento T1 - 50% Madeira 50% Couro
+Tratamento T2 - 75% Madeira 25% Couro
+Tratamento T3 - 90% Madeira 10% Couro
+       Tratamentos Realizados
+       Tratamento
+T1 T2 T3
+Tração Perpendicular Média (MPa) 1,10
+1,39
+2,59
+Desvio Padrão
+0,49 0,58 0,63
+NBR14810 (2013) 0,4 MPa
+          Fonte: Próprio autor.
+ 
+A Figura 40 ilustra o momento da realização de um ensaio para avaliação da resistência à tração perpendicular dos painéis.
+Figura 40 - Aspecto do corpo de prova logo após sua ruptura
+Fonte: Próprio autor.
+4.7.1 Análise da influência das proporções de resíduos em relação a resistência à tração perpendicular
+De modo a analisar a influência entre a proporção de resíduos de couro com a resistência à tração perpendicular, uma vez que as proporções foram variáveis, a Figura 41 ilustra o gráfico, para melhor visualização e interpretação dos resultados. Ressalta-se que o teor de resina utilizado foi o mesmo para todos os tratamentos.
+Figura 41 - Relação entre a proporção de couro e resistência à tração perpendicular
+Fonte: Próprio autor.
+Verifica-se que quanto maior a quantidade de resíduo de couro na mistura, menor é a resistência à tração perpendicular, fato que pode ser observado na Figura 41.
+    Resistência à tração perpendicular (MPa)
+3,000 2,500 2,000 1,500 1,000 0,500 0,000
+Tratamento T1 - 50% Madeira 50% Couro
+Tratamento T2 - 75% Madeira 25% Couro
+Tratamento T3 - 90% Madeira 10% Couro
+         Tratamentos Realizados
+   
+5 CONCLUSÃO
+Sob o ponto de vista dos valores obtidos para as propriedades físicas e mecânicas dos painéis, com base no documento normativo brasileiro, a incorporação dos resíduos de couro se mostrou interessante nos painéis dos tratamentos T1 e T3, ou seja, de acordo com a NBR14810/2013, atendem aos requisitos normativos para classificação como painel do tipo P2, ou seja, não estrutural de uso interno em condições secas.
+Entretanto, verificou-se nos ensaios para avaliação das propriedades físicas de inchamento e absorção que os painéis do tratamento T1 apresentaram valores não conformes em relação à referida NBR, pois, evidenciou-se que quanto maior a concentração de resíduos de couro, maior foram os valores de absorção e inchamento dos painéis. Esses resultados evidenciam haver necessidade de ajustes nos parâmetros relacionados a essas propriedades.
+Para os painéis do tratamento T3, observou-se que, tanto os resultados para as propriedades mecânicas como para as físicas, se apresentaram conforme com a NBR 14810/2013. Para estes painéis, de acordo com o referido documento normativo, podem ser classificados como painéis estruturais do tipo P4 para uso em condições secas.
+É interessante ressaltar que as propriedades obtidas para os painéis do tratamento T3 se aproximaram da classificação de painéis do tipo P5, segundo a NBR14810/2013, ou seja, painel estrutural para uso em condições úmidas. Consequentemente, essa constatação é mais uma evidência da necessidade de ajustes nos parâmetros para confecção dos painéis aglomerados com partículas de madeira de eucalipto, couro e resina bicomponente à base de óleo de mamona, com o objetivo de melhorar as qualidades dos painéis.
+Ao se analisar as Densidades dos painéis de todos os tratamentos, foram verificadas diferenças significativas com a aplicação do teste de Tukey nas densidades dos painéis entre os tratamentos T1 e T2 ; T2 e T3; consequentemente, e considerando-se as diferenças de linearidade entre os valores das propriedades avaliadas, é possível inferir que há necessidade de se ajustar os parâmetros para produção dos painéis.
+Os estudos realizados para a produção dos painéis aglomerados com partículas de madeira de eucalipto, partículas de resíduo de couro e resina poliuretana à base de óleo de mamona nos possibilitou concluir que é viável a produção desses painéis sob o ponto de vista da utilização das partículas de couro; entretanto, é importante ressaltar que há necessidade de realização de novos estudos com ajustes nos parâmetros para produção dos painéis relacionados aos teores de umidade da mistura partículas de madeira, partículas de couro, resina poliuretana, pressão de prensagem, temperatura de prensagem e principalmente, densidade nominal para produção dos painéis.
+6
+•
+• •
+•
+•
+PROPOSTA PARA PRÓXIMAS PESQUISAS
+Sugere-se variar o teor de umidade das misturas em novos tratamentos, com o objetivo de avaliar a influência da umidade nas partículas de couro em relação à eficiência da resina poliuretana.
+Sugere-se alterar o teor de resina poliuretana para 12%, com o objetivo de melhorar a resistência à umidade de absorção.
+Sugere-se variar a composição granulométrica com partículas de madeira com dimensões na faixa de 4mm a 10mm com o objetivo de melhorar a Resistência à Flexão dos painéis.
+Sugere-se variar a temperatura e a pressão de prensagem para avaliar a fluidez da resina poliuretana no interior do painel no momento da prensagem e consequentemente, a eficiência da cura e adesão.
+Sugere-se variar o tempo de prensagem para avaliar a fluidez da resina poliuretana no interior do painel e, consequentemente, a eficiência da cura e adesão.
+REFERÊNCIAS
+ABI CALÇADOS. Resenha estatística 2017. [S. l.: s. n.], 2017a
+ABI CALÇADOS. Polos nacionais de produção de calçados. [S. l.: s. n.], 2017b
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 14810-1: Chapas de madeira aglomerada: terminologia. Rio de Janeiro: ABNT, 2013.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 14810-2: Chapas de madeira aglomerada: requisitos. Rio de Janeiro: ABNT, 2013.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 14810-3: Chapas de madeira aglomerada: métodos de ensaio. Rio de Janeiro: ABNT, 2013.
+   ASSOCIAÇÃO BRASILEIRA DA INDÚSTRIA DE MADEIRA PROCESSADA
+ MECANICAMENTE - ABIMCI. Estudo Setorial 2007. Curitiba: Step, 2009.
+ ASSOCIAÇÃO BRASILEIRA DA INDÚSTRIA DE PAINÉIS DE MADEIRA - ABIPA. Programa Setorial da Qualidade de Painéis de Madeira. São Paulo: Teses,
+ 2013.
+ ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS.NBR 7217: agregados
+ determinação da composição granulométrica. Rio de Janeiro, 1987. 03 p.
+ ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS.NBR 14810: chapas de
+ madeira aglomerada. Rio de Janeiro, 2006.51 p.
+ ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS.NBR 1004: resíduos
+ sólidos - classificação. Rio de Janeiro, 2004.71 p.
+ ALVES, L. S.; SILVA, S. A. M. Confecção e avaliação de chapas de madeira aglomerada homogêneas empregando-se resíduos de empresas moveleiras de São José do Rio Preto e poliuretana derivada de óleo de mamona. In: Encontro Brasileiro de Madeiras e de Estruturas de Madeira, 14., 2014, Natal. Anais [...] Natal: EMBRAMEM, 2014. p. 1-10.
+CAMPOS, Cristiane Inácio de. Materiais lignocelulósicos particulados e fibras. [S. l.: s. n.], 2016. Notas de Aula.
+ARAÚJO, V. A. de, et al. A importância da madeira de florestas plantadas para a industria de manufaturados. Pesquisa Florestal Brasileira, Colombo, v. 37, n. 90, p. 189-200, 2017.
+ BANCO NACIONAL DE DESENVOLVIMENTO ECONÔMICO E SOCIAL - BNDES. Painéis de madeira reconstituída. Disponível em: http://www.bndes.gov.br/.
+ Acesso em: 15 maio 2018.
+
+BRASFIBRA. Chapas de fibra de madeira. [S. l.: s. n.], 2018. Disponível em: http://www.brasfibras.com.br. Acesso em: 10 fev. 2018.
+DIAS, A. A. Aplicação de resina poliuretana à base de mamona na fabricação de painéis de madeira aglomerada.In: Produtos derivados de madeira. São Carlos: [s. n.], 2008. p. 73-92,
+DIAS, F. M. Aplicação de resina poliuretana à base de mamona na fabricação de painéis de madeira compensada e aglomerada. 2005. 150 f. Tese (Doutorado em Ciência e Engenharia de Materiais) - Universidade de São Paulo, São Carlos, 2005.
+FOOD AND AGRICULTURE ORGANIZATION OF THE UNITED NATIONS – FAO. Forest products: yearbook annuaire: Forest products 2010-2014. Rome: Forestry Policy And Resources Division Fao, 2016.
+FEIRA INTERNACIONAL DE CALÇADOS, ACESSÓRIOS DE MODA, MÁQUINAS E COMPONENTES - FRANCAL. Site. [S. l.: s. n.], 2018. Disponível em: http://www.francal.com.br/2005/codigo/p_cidadania. Acesso: 03 maio 2018.
+GODINHO, M. Gaseificação e combustão combinadas de resíduos sólidos da indústria coureiro – calçadista. 2006. 106 f Tese (Doutorado em Engenharia Minas, Metalúrgica e de Materiais) – Universidade Federal do Rio Grande do Sul (UFRGS), Porto Alegre, 2006.
+GUIMARÃES JÚNIOR, José Benedito. Painéis de madeira de eucalipto: estudo de caso de espécies e procedências. 2008. 95 f. Dissertação (Mestrado em Ciência e Tecnologia da Madeira) – Universidade Federal de Lavras, Lavras, MG.
+HOEFLICH, V. A. Desenvolvimento florestal sustentável: requerimentos de uma sociedade. Colombo: Embrapa Florestas, 2006. 38 p. (Embrapa Florestas. Documentos, 138).
+IBÁ (Indústria Brasileira de Árvores): Indústria Brasileira de Árvores. Brasília, DF, 2016. 96 p. Relatório Ibá 2017.
+IWAKIRI, S.; CUNHA, A. B.; ALBUQUERQUE, C. E. L.; GORNIAK, E.; MENDES, L. M. Resíduo de serrarias na produção de painéis de madeira aglomerada de eucalipto. Scientia Agraria, Curitiba, v.1, n. 1-2, p. 23-28, 2000.
+IWAKIRI, S. Painéis de madeira reconstituída. Curitiba: Ed. FUPEF – Fundação de Pesquisas Florestais do Paraná, 2005.
+IWAKIRI, S. et al. Avaliação das propriedades de painéis aglomerados produzidos com resíduos de serrarias de nove espécies de madeiras tropicais da Amazônia. Acta Amazonica, Manaus, v. 42, n. 1, p. 59-64, 2012. DOI: 10.1590/s0044- 59672012000100007.
+ IWAKIRI, S. et al. Avaliação das propriedades de painéis aglomerados produzidos com resíduos de serrarias de nove espécies de madeiras tropicais da
+ Amazônia. Acta Amazonica, Manaus, v. 42, p. 59-64, abr. 2011.
+ JESUS, J. M. H. de; CALIL JUNIOR, C. Estudo do adesivo poliuretano à base de mamona em madeira laminada colada (MLC).Madeira: arquitetura e
+ engenharia, São Carlos, v. 3, n. 8, p. 1-47, maio 2002.
+LARA PALMA, H. A.; BALLARIN, A. W. Propriedades de contração na madeira juvenil e adulta de Pinus taeda L. Scientia Forestalis, Piracicaba, n. 64, p. 13-22, 2003.
+LIDER INTERIORES. MDF e MDP: qual a diferença?. [S. l.: s. n.], 2018. Disponível em: http://www.liderinteriores.com.br. Acesso em: 10 fev. 2018.
+MANTAU, U. et al. Wood resource balance results: is there enough wood for Europe?. In: U. Mantau et al. (ed.): Real potentials for Changes in Growth and Use of EU Forests, University of Hamburg, 2010. p. 19-34.
+MINILLO, L. Q.; SILVA, S. A. M. Aproveitamento de resíduo das indústrias de celulose e sucroalcooleira para produção de painéis aglomerados. 2017. 98 f. Dissertação (Mestrado em Engenharia Civil) – Faculdade de Engenharia, Universidade Estadual Paulista - UNESP, 2017.
+MOREIRA, M. V.; TEIXEIRA, R. C. Estado da arte tecnológico em processamento do couro: revisão bibliográfica no âmbito internacional. Porto Alegre: Centro Nacional de Tecnologias Limpas (Projeto Desenvolvimento Sustentável da Indústria do Couro em MG e no RS), 2003.
+MOREIRA, Marina Vergílio; ALVES, D. D. Dossiê técnico: premissas para a produção sustentável na indústria do couro. Novo Hamburgo: Centro Tecnológico do Couro SENAI-RS, 2012.
+OLMOS, M.A.C. Equipamento e processo de fabricação de chapas de madeira aglomerados a partir de resíduos de madeira. 1992.110 f. Dissertação (Mestrado) – Escola de Engenharia de São Carlos, USP, São Carlos, 1992.
+PETRUCCI, G. R. Materiais de construção. 10 ed. São Paulo: Ed. São Paulo, 1975. 435 p.
+PIVETTA, R. P.; SILVA, S. A. M. Produção de painéis aglomerados empregando-se serragem, bagaço de cana-de-açúcar e resina poliuretana derivada de óleo de mamona. 2017. 76f. Trabalho de conclusão de curso (Graduação em Engenharia Civil) – Faculdade de Engenharia, Universidade Estadual Paulista - UNESP, Ilha Solteira, 2017.
+RIEHL, A. Caracterização de resíduos de couro provenientes de um aterro industrial. 2015. 139 f. Dissertação (Mestrado em Engenharia Civil) - UNISINOS, São Leopoldo, 2015.
+ROCHA, B. B. Aproveitamento de resíduo de madeira e bagaço de cana-de- açúcar na produção e avaliação de painéis aglomerados. 2016. 95 f. Dissertação (Mestrado em Engenharia Civil) – Faculdade de Engenharia, Universidade Estadual Paulista - UNESP, Ilha Solteira, 2016.
+SOCIEDADE BRASILEIRA DE SILVICULTURA - SBS. Série histórica da produção, consumo, exportação e importação de aglomerados (m3). São Paulo, 2018. Disponível em: http://www.sbs.org.br/estatisticas_htm. Acesso em: 01 abr. 2018.
+SCHNEIDER, V. E. Caracterização de resíduos como ferramentas para avaliação dos sistemas de coleta de Resíduos sólidos urbanos. In: GESTÃO ambiental urbana e Industrial. Porto Alegre: EDIPUCRS, 2003. p. 226-239.
+SERRANO, C. L. R.; REICHERT, I. K.; METZ, M. E. G. Levantamento dos resíduos sólidos gerados pela indústria calçadista. [S. l.]: Tecnicouro, novembro, p. 123-131, 2001.
+SNIF - Sistema Nacional de Informações Florestais. Boletim SNIF 2016 v. 1, 2. ed. Brasília: Serviço Florestal Brasileiro, 2016a.
+SNIF - Sistema Nacional de Informações Florestais. Boletim SNIF 2016. v. 2, 2. ed. Brasília: Serviço Florestal Brasileiro, 2016b.
+SPRINGER H.; LUCCHESE, F. Estágio atual do tratamento de efluentes industriais líquidos e do aproveitamento de resíduos de curtumes. Tecnicouro, v.4, n.4, p. 28-34, 1982.
+SUA OBRA. Vantagens da Madeira OSB. [S. l.], 2018. Disponível em: http://www.suaobra.com.br. Acesso em: 16 dez. 2018.
+TODESCHINI DOURADOS. Móveis planejados. [S. l.], 2018. Disponível em: http://www.todeschini.com.br. Acesso em: 10 nov. 2018.
+TRAPP. Triturador de 2 cavalos de potência. [S. l.], 2019. Disponível em: http://www.trapp.com.br. Acesso em: 16 abr. 2019.
+ZAU, M. D. L. et al. Avaliação das propriedades química, física e mecânica de painéis aglomerados produzidos com resíduo de madeira da Amazônia - Cumaru (Dipteryx Odorata) e resina poliuretana à base de óleo de mamona. Polímeros, São Carlos, v. 24, n. 6, p.101-108, dez. 2014.
+WIELAND, S.; STÖCKL, U.; GRÜNEWALD, T.; OSTROWSKI, S. Assessment of Mechanical Properties of Wood- Leather Panels and the Differences in the Panel Structure by Means of X-Ray Comput. Bioresources, Raleigh, v. 8, n. 1, p. 818- 832, 2013.

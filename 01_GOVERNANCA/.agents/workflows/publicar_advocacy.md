@@ -1,5 +1,5 @@
 ---
-description: Protocolo de Publicação e Indexação (Advocacy 5.1)
+description: Protocolo de Publicação e Indexação (Advocacy WTF)
 ---
 
 Este workflow finaliza o processo de publicação de um documento, garantindo sua integridade digital e institucional.
@@ -14,4 +14,4 @@ Este workflow finaliza o processo de publicação de um documento, garantindo su
 6. **WTF Logic**: Se detectar o prefixo `WTF_`, aplique automaticamente o template de metadados do projeto e verifique a citação do consórcio.
 
 // turbo
-**Comando Sugerido**: "Execute o protocolo de publicação Advocacy 5.1 para o arquivo [caminho]."
+**Comando Sugerido**: "Execute o protocolo de publicação Advocacy WTF para o arquivo [caminho]."

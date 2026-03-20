@@ -1,0 +1,112 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFAC/UFRR
+equipe: Gestão e Parceria Regional
+tipo: Acervo de Consulta RAW (Transcrição)
+autor: Acervo Digital WTF
+data: '2025'
+---
+INPI
+ (21) BR 102018015711-6 A2
+(22) Data do Depósito: 31/07/2018
+(43) Data da Publicação Nacional: 11/02/2020
+República Federativa do Brasil
+Ministério da Economia
+Instituto Nacional da Propriedade Industrial
+(54) Título: VIGOTAS PRÉ-FABRICADAS DE BAMBU-CONCRETO (ZERO AÇO) PARA LAJES (51) Int. Cl.: E04B 5/02; E04C 2/26.
+(71) Depositante(es): UNIVERSIDADE ESTADUAL DE LONDRINA.
+(72) Inventor(es): GILBERTO CARBONARI; LUCAS AUGUSTO MILANI LOPES.
+(57) Resumo: VIGOTAS PRÉ-FABRICADAS DE BAMBU-CONCRETO (ZERO AÇO) PARA LAJES A presente invenção refere- se a uma vigota pré-fabricada, composta por bambu e concreto, fazendo o uso de conectores de cisalhamento em bambu, produzida de acordo com preceitos da construção racionalizada. A referida vigota, em seu uso pleno, fará parte do sistema de lajes de edificações, que se completa com o uso de EPS e uma malha de distribuição em bambu. A durabilidade do elemento é conferida através de tratamento prévio com tanino (natural), desenvolvido a partir de pesquisas realizadas na UEL. Difere dos sistemas convencionais de vigotas por ser um sistema leve, devido ao uso de concreto de baixa densidade (agregado de argila expandida) no preenchimento parcial da vigota e sustentável, visto que, este sistema dispensa a utilização do aço.
+*BR102018015711A2*
+  
+1/5
+VIGOTAS PRÉ-FABRICADAS DE BAMBU-CONCRETO (ZERO AÇO) PARA LAJES
+Campo da Invenção
+[001] A presente invenção se refere a uma vigota pré-fabricada, composta por bambu e concreto, fazendo o uso de conectores de cisalhamento em bambu, produzida de acordo com preceitos da construção racionalizada.
+Antecedentes da Invenção
+[002] O principal desafio do objeto da invenção é garantir a segurança estrutural de uma laje pré-fabricada, constituída de vigotas de bambu-concreto, e que seja possível substituir completamente o aço pelo material natural “bambu”.
+[003] Já consagrado no mercado da construção civil, o uso de vigotas ou tavelas pré-fabricadas de concreto armado, utilizadas para a composição de lajes, se subdividem em dois grandes grupos, um com formato de “T” invertido e o outro denominado comumente como “treliçado”. Ambos os grupos são exclusivamente compostos pelos materiais concreto estrutural e o aço e fazem uso de formas para a sua execução. É desconhecido qualquer sistema e ou patente que simplesmente substitua 100% do aço, tanto nas vigotas como na malha de distribuição, por bambu e dispense o uso de formas.
+[004] A patente WO2016122302A1 trata de um sistema estrutural para a construção de pisos e tetos, que é baseado no arranjo paralelo de um conjunto de vigas compostas pré-tensionadas, que suportam uma cobertura composta de camadas de qualquer material. Vigas compostas são elementos formados por seções de colmos de bambu, elementos de aço e argamassas ou outros materiais de enchimento, dispostos de forma a obter a máxima eficiência mecânica. Esta patente é a que mais se aproxima da invenção aqui proposta. Porém, além das diferenças na geometria da seção transversal das lajes, principalmente na parte do bambu, a principal diferença é que essa tem aço na estrutura, e a aqui proposta tem consumo zero de aço.
+                    Petição 870190017098, de 20/02/2019, pág. 4/8
+
+2/5
+ [005] A patente de modelo de utilidade CN203977708U refere-se a um piso de concreto moldado no local, tendo núcleos de bambu como barras de bambu. Os materiais de bambu substituem completamente as barras de aço para moldar o concreto no lugar. O diferencial é que a patente descrita se trata de piso industrial, e a invenção aqui proposta é direcionada a lajes e edificações.
+[006] A patente de modelo CN103614965A se refera a uma vigota composta por bambu e concreto para lajes, sendo a parte inferior feita em bambu e a parte superior em concreto. Essa plataforma composta por bambu é composta por placas laminadas dessa madeira, tendões protentidos e acessórios de ancoragem. Cada pavimento da camada inferior é presa pelos tendões através de prestress. A largura necessária na superfície da laje é obtida pela fixação dessas placas individuais na ponte de madeira de bambu, ligada à outra ponte idêntica. Parafusos projetados serão dispostos na face superior do bambu laminado, na porção superior do bambu estará o concreto, dessa maneira, a ponte tomará forma. A base de madeira pode ser pré-fabricada em fábricas especializadas, sua construção é simples e rápida e sua vida útil é longa e pode cumprir com as necessidades específicas. Em relação à invenção aqui proposta, além das diferenças na geometria da seção transversal das lajes, principalmente na parte do bambu, a principal diferença é que essa tem aço na estrutura, e a nossa tem consumo zero de aço.
+[007] A patente CN201292590Y se refere a uma laje de piso pré-moldado com suporte inverso com utilização de recursos renováveis. A superfície de uma laje pré-fabricada é arranjada nas partes inferiores do suporte, preenchendo uma área fechada com abertura pra cima com o objetivo de regenerar o material (como um enchimento), formado pela divisão dos suportes inversos e a superfície inferior da laje pré-fabricada. Esse modelo é formado por tubos ocos organizados na área fechada, essas varas são ligadas em séries transversais, ligações essas, compostas por materiais como resíduos de cimento, revertida para o nivelamento. Os tubos ocos são compostos por bambu ou tubos de plástico. Esse modelo de utilidade serve bem para isolar o calor, tem peso leve e baixo consumo de energia. É apropriado para aldeias, cortiços e em áreas abundantes em recursos de colheita e bambu. A principal diferença desta
+                               Petição 870190017098, de 20/02/2019, pág. 5/8
+
+3/5
+ patente para a invenção aqui proposta, é que essa tem aço na estrutura e a apresentada aqui tem consumo zero de aço.
+[008] O modelo US8424263B2 se refere a uma laje de piso leve com molde reticular, malha de metal e argamassa de cimento, no qual o molde e o metal são formados para reter as argamassas de cimento. Esta patente possui aço em sua estrutura, e a aqui pretendida tem consumo zero de aço.
+[009] A presente invenção CN206828907U divulga um pavimento de concreto armado por placas de bambus temporárias, sua estrutura será de ferro retangular com ângulos soldados como L50x5. O revestimento de bambu será parafusado no ponto da extremidade superior com anéis de ligação no quadro de ferro. Essa invenção é de fácil construção, alta resistência e durabilidade. No local da construção, se necessário, pode ser substituído por suportes de bambu com concreto armado criando uma laje pavimentada. Também é fácil de limpar, podem ser reutilizados e economizam energia. Esta patente também apresenta aço em sua estrutura, diferente da aqui proposta.
+[010] A durabilidade do bambu, que pode ser afetada pelo ataque de insetos, está resolvida, graças a um tratamento natural desenvolvido pelo grupo de pesquisa “Bambu-UEL” que comprovou sua eficiência em testes realizados desde 20131. Toda a região tracionada da laje será absorvida pela excelente resistência à tração que o bambu possui. Além disso, são colocados conectores de bambu para efetuar a ligação entre a parte tracionada (bambu) com a capa comprimida (concreto) das lajes. Além disso, toda a malha de distribuição de aço que normalmente é utilizada nas lajes pré-fabricadas, é substituída por elemento de bambu.
+                        Sumário da Invenção
+[010] A invenção aqui proposta se refere a uma vigota pré-fabricada, composta
+  por bambu e concreto, fazendo o uso de conectores de cisalhamento em bambu, produzida de acordo com preceitos da construção racionalizada (FIG 1). A referida vigota, em seu uso pleno, fará parte do sistema de lajes de
+ 1 CARBONARI, Gilberto. Tratamento do Bambu com Tanino. 2013. Pedido de patente no BR 10 2013 020788-8 no INPI.
+Petição 870190017098, de 20/02/2019, pág. 6/8
+
+4/5
+ edificações, que se completa com o uso de EPS, uma malha de distribuição em bambu e uma capa superior de concreto executada in loco, na obra. A durabilidade do bambu é conferida através de tratamento prévio com tanino (natural), desenvolvido a partir de pesquisas realizadas na UEL. Difere dos sistemas convencionais de vigotas por se um sistema leve, devido ao uso de concreto de baixa densidade (agregado de argila expandida) no preenchimento parcial da vigota e sustentável, visto que, este sistema dispensa a utilização de aço.
+Descrição Detalhada da Invenção
+ [011] Por questões de geometria (diâmetro médio de 15cm) e facilidade de produção, será a espécie de bambu Dendrocalamus Giganteus, que apresenta uma resistência à tração de ~125 MPa, e a compressão de ~55 MPa2.
+[012] O corte do colmo de bambu é subdividido em duas etapas: 1) Corte transvesal – o colmo é desdobrado no sentido perpendicular às fibras, com dimensão igual à do vão da laje; e 2) Corte a “meia cana” (FIG 2).
+[013] Afim de conferir estabilidade ao giro em torno do eixo longitudinal na vigota, ainda em fase de montagem e concretagem, são efetuados cortes paralelos às fibras, nas extremidades da vigota, afim de gerar uma superfície plana capaz de estabilizá-las (FIG 3).
+[014] Após desdobro em “meia cana” e execução do sistema de apoio, é efetuada a pré-furação, para a acomodação e posicionamento dos conectores de cisalhamento ao longo da vigota, na parte inferior da peça, sem ultrapassar a espessura do bambu. Os furos têm diâmetro igual ao dos conectores (FIG 4).
+[015] Os conectores de cisalhamento, serão também em bambu, e estes possuirão formato cilíndrico (FIG 5).
+[016] Os conectores são fixados e colados nos referidos furos das “meias canas” de bambu (FIG 6).
+2 CARBONARI, G.; SILVA JUNIOR, N. M. S.; PEDROSA, N. H.; ABE, C. H.; SCHOLTZ, M. F.; ACOSTA, C. C. V.; CARBONARI, L. T.; Bambu – O aço vegetal. Mix Sustentável – Edição 05/V3.N.1, 2017).
+ Petição 870190017098, de 20/02/2019, pág. 7/8
+
+5/5
+[017] Concluído os encaixes dos conectores de cisalhamento, é colocada a argila expandida dentro das “meias canas”, visando uma redução de seu peso próprio (FIG 7).
+[018] A concretagem é efetuada até o nível superior da “meia cana”, de forma a preencher todos os espaços vazios existentes entre a argila expandida, com concreto fck ≥ 25 MPa (FIG 8).
+[019] As vigotas pré-fabricadas de bambu-concreto são utilizadas de forma análoga às vigotas de concreto armado, em conjunto com elementos de enchimento, como EPS ou lajotas cerâmicas (FIG 9).
+Legenda das Figuras
+Figura 1 Vigotas pré-fabricadas concreto armado e vigotas pré-fabricadas
+concreto/bambu.
+Figura 2 Corte transversal e corte a “meia cana”.
+Figura 3 Sistema de apoio.
+Figura 4 Pré-furação na parte inferior da vigota, sem ultrapassar a espessura do bambu.
+Figura 5 Conectores cilíndricos em bambu. Figura 6 Conectores de cisalhamento. Figura 7 Argila expandida.
+Figura 8 Concretagem.
+Figura 9 Vigotas pré-fabricadas de bambu-concreto.
+ Petição 870190017098, de 20/02/2019, pág. 8/8
+
+1/2
+REIVINDICAÇÕES
+1. VIGOTAS PRÉ-FABRICADAS DE BAMBU-CONCRETO (ZERO AÇO) PARA LAJES, caracterizado por ser uma vigota pré-fabricada, composta por bambu e concreto, fazendo o uso de conectores de cisalhamento em bambu produzida de acordo com preceitos da construção racionalizada (FIG 1); Se caracteriza por ser um sistema leve, devido ao uso de concreto de baixa densidade (agregado de argila expandida) no preenchimento parcial da vigota e sustentável, visto que este sistema dispensa a utilização de aço
+2. VIGOTAS PRÉ-FABRICADAS DE BAMBU-CONCRETO (ZERO AÇO) PARA LAJES, de acordo com a reivindicação 1, caracterizado por, devido a questões de geometria (diâmetro médio de 15cm) e facilidade de produção, será empregada a espécie de bambu Dendrocalamus Giganteus, que apresenta uma resistência à tração de ~125MPa, e a compressão de ~55 MPa2; O corte do colmo de bambu é subdivido em duas etapas: 1) Corte transversal – o colmo é desdobrado no sentido perpendicular às fibras, com dimensão igual à do vão da laje; e 2) Corte a “meia cana” (FIG 2); Afim de conferir estabilidade ao giro em torno do eixo longitudinal na vigota, ainda em fase de montagem e concretagem, são efetuados cortes paralelos às fibras, nas extremidades da vigota, afim de gerar uma superfície plana capaz de estabilizá-las (FIG 3); Após desdobro em “meia cana” e execução do sistema de apoio, é efetuada a pré-furação, para a acomodação e posicionamento dos conectores de cisalhamento ao longo da vigota, na parte inferior da peça, sem ultrapassar a espessura do bambu; Os furos têm diâmetro igual ao dos conectores (FIG 4); Os conectores de cisalhamento, serão também em bambu, e estes possuirão formato cilíndrico (FIG 5); Os conectores são fixados e colados nos referidos furos das “meias canas” de bambu (FIG 6); Concluído os encaixes dos conectores de cisalhamento, é colocada a argila expandida dentro das “meias canas”, visando uma redução de seu peso próprio (FIG 7); A concretagem é efetuada até o nível superior da “meia cana”, de forma a preencher todos os espaços vazios existentes entre a argila expandida,
+ Petição 870190017098, de 20/02/2019, pág. 2/8
+
+2/2
+com concreto fck ≥ 25 MPa (FIG 8); As vigotas pré-fabricadas de bambu-concreto são utilizadas de forma análoga às vigotas de concreto armado, em conjunto com elementos de enchimento, como EPS ou lajotas cerâmicas (FIG 9).
+Petição 870190017098, de 20/02/2019, pág. 3/8
+
+1/4
+DESENHOS
+  Fig. 1
+ Fig. 2
+ Petição 870180066472, de 31/07/2018, pág. 27/32
+Fig. 3
+
+Petição 870180066472, de 31/07/2018, pág. 28/32
+2/4
+ Fig. 4
+ Fig. 5
+ Fig.6
+
+3/4
+ Fig.7
+ Petição 870180066472, de 31/07/2018, pág. 29/32
+Fig. 8
+
+Petição 870180066472, de 31/07/2018, pág. 30/32
+4/4
+ Fig. 9
+
+1/1
+RESUMO
+VIGOTAS PRÉ-FABRICADAS DE BAMBU-CONCRETO (ZERO AÇO) PARA LAJES
+A presente invenção refere-se a uma vigota pré-fabricada, composta por bambu e concreto, fazendo o uso de conectores de cisalhamento em bambu, produzida de acordo com preceitos da construção racionalizada. A referida vigota, em seu uso pleno, fará parte do sistema de lajes de edificações, que se completa com o uso de EPS e uma malha de distribuição em bambu. A durabilidade do elemento é conferida através de tratamento prévio com tanino (natural), desenvolvido a partir de pesquisas realizadas na UEL. Difere dos sistemas convencionais de vigotas por ser um sistema leve, devido ao uso de concreto de baixa densidade (agregado de argila expandida) no preenchimento parcial da vigota e sustentável, visto que, este sistema dispensa a utilização do aço.
+ Petição 870180066472, de 31/07/2018, pág. 15/32

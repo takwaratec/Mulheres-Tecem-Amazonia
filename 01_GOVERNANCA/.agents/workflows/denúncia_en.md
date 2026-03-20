@@ -2,7 +2,7 @@
 description: Editorial Protocol for Denunciation and Advocacy Reports
 ---
 
-This workflow must be used exclusively for processing denunciation reports and high-impact materials for Advocacy (e.g., COP30).
+This workflow must be used exclusively for processing denunciation reports and high-impact materials for Advocacy.
 
 ### Execution Instructions:
 
