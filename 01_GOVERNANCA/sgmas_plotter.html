@@ -274,16 +274,20 @@
         }
 
         .floating-stats {
-            position: absolute;
-            top: 20px;
-            left: 440px;
-            background: rgba(15, 23, 42, 0.9);
-            border: 1px solid var(--border);
+            background: rgba(15, 23, 42, 0.6);
+            border-bottom: 1px solid var(--border);
             padding: 15px;
-            border-radius: 12px;
-            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4);
-            width: 180px;
-            z-index: 1001;
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 10px;
+        }
+
+        @media (max-width: 768px) {
+            .floating-stats { 
+                grid-template-columns: 1fr;
+                gap: 5px;
+                padding: 10px;
+            }
         }
 
         .stat-item {
@@ -450,6 +454,20 @@
                 <h1>PROJETO MULHERESQTF</h1>
                 <div class="tagline">Bioeconomia & Soberania Vegetal</div>
             </div>
+            <div class="floating-stats">
+                <div class="stat-item">
+                    <div class="stat-label">HUBs N2 Ativos</div>
+                    <div class="stat-val" style="font-size: 0.9rem;">6 Unidades</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-label">Alcance Social</div>
+                    <div class="stat-val" style="font-size: 0.9rem;">2.800 Famílias</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-label">Fixação Carbono</div>
+                    <div class="stat-val" style="font-size: 0.9rem;">~41 MtCO2e</div>
+                </div>
+            </div>
             <div class="content">
                 <div id="info-panel">
                     <div id="intro-view">
@@ -503,20 +521,6 @@
                 MULHERESQTF | &copy; 2026 | CONSÓRCIO UnB/UFAC/UFRR</footer>
         </div>
         <div id="map">
-            <div class="floating-stats">
-                <div class="stat-item">
-                    <div class="stat-label">HUBs N2 Ativos</div>
-                    <div class="stat-val">6 Unidades</div>
-                </div>
-                <div class="stat-item">
-                    <div class="stat-label">Alcance Social</div>
-                    <div class="stat-val">2.800 Famílias</div>
-                </div>
-                <div class="stat-item">
-                    <div class="stat-label">Fixação Carbono</div>
-                    <div class="stat-val">~41 MtCO2e</div>
-                </div>
-            </div>
             <div id="seasonal-panel">
                 <div class="seasonal-header">⚡ CICLOS SAZONAIS (ALTO JURUÁ)</div>
                 <div class="seasonal-grid">
@@ -769,7 +773,8 @@
 
         function toggleSidebar(show) {
             const sidebar = document.getElementById('sidebar');
-            if (show) sidebar.classList.add('active');
+            if (show === undefined) sidebar.classList.toggle('active');
+            else if (show) sidebar.classList.add('active');
             else sidebar.classList.remove('active');
         }
         // Default select
@@ -791,7 +796,7 @@
         path(layers.rio, [-8.269, -72.744], [-8.5, -72.8], "25km", fs);
         L.circle([-8.2, -72.0], { radius: 100000, color: '#38bdf8', weight: 1, fillOpacity: 0.1, interactive: false }).addTo(layers.flood);
         L.circle([-3.2, -59.5], { radius: 70000, color: '#38bdf8', weight: 1, fillOpacity: 0.1, interactive: false }).addTo(layers.flood);
-        L.control.layers(null, { "Hubs N2": layers.n2, "Pólos N1": layers.n1, "★ Unid. Móveis N0": layers.n0, "Bambuzais (Acre)": layers.bamboo, "Rodovias": layers.br, "Hidrovias": layers.rio, "Inundação": layers.flood }, { collapsed: false }).addTo(map);
+
         const leg = L.control({ position: 'bottomright' });
         leg.onAdd = function () {
             const d = L.DomUtil.create('div', 'legend-final');
