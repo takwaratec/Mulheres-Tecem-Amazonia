@@ -1,0 +1,807 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SGMAS MONITOR v6.6 | SOVEREIGNTY TOTALITY | Mulheresqtf</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        :root {
+            --bg: #0f172a;
+            --sidebar-bg: #1e293b;
+            --primary: #ffffff;
+            --secondary: #94a3b8;
+            --accent: #f43f5e;
+            --n2: #f43f5e;
+            --n1: #38bdf8;
+            --n0: #fbbf24;
+            --border: #334155;
+            --success: #2dd4bf;
+            --flood: rgba(56, 189, 248, 0.2);
+            --carbon: #a78bfa;
+        }
+
+        body {
+            margin: 0;
+            font-family: 'Inter', sans-serif;
+            background: var(--bg);
+            color: var(--primary);
+            overflow: hidden;
+        }
+
+        #app {
+            display: flex;
+            height: 100vh;
+        }
+
+        #sidebar {
+            width: 420px;
+            background: var(--sidebar-bg);
+            border-right: 1px solid var(--border);
+            display: flex;
+            flex-direction: column;
+            z-index: 1000;
+            box-shadow: 20px 0 50px rgba(0, 0, 0, 0.5);
+        }
+
+        .header {
+            padding: 25px 20px;
+            background: #0f172a;
+            border-bottom: 2px solid var(--accent);
+        }
+
+        .header h1 {
+            margin: 0;
+            font-size: 1.1rem;
+            font-weight: 900;
+            letter-spacing: -0.5px;
+        }
+
+        .version-badge {
+            background: var(--accent);
+            color: white;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 0.55rem;
+            font-weight: 900;
+            margin-bottom: 8px;
+            display: inline-block;
+            text-transform: uppercase;
+        }
+
+        .tagline {
+            font-size: 0.7rem;
+            color: var(--success);
+            font-weight: 800;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-top: 4px;
+        }
+
+        .content {
+            flex: 1;
+            overflow-y: auto;
+            padding: 20px;
+            scrollbar-width: thin;
+        }
+
+        .node-header {
+            border-bottom: 1px solid var(--border);
+            padding-bottom: 12px;
+            margin-bottom: 20px;
+        }
+
+        .node-header h2 {
+            margin: 0;
+            font-size: 1.2rem;
+            font-weight: 900;
+            color: #fff;
+        }
+
+        .node-header span {
+            font-size: 0.7rem;
+            color: var(--secondary);
+            font-weight: 700;
+            text-transform: uppercase;
+        }
+
+        .section-header {
+            font-size: 0.65rem;
+            color: var(--secondary);
+            text-transform: uppercase;
+            font-weight: 900;
+            letter-spacing: 1px;
+            margin: 25px 0 10px;
+            border-left: 3px solid var(--accent);
+            padding-left: 10px;
+        }
+
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px;
+        }
+
+        .metric-card {
+            background: rgba(15, 23, 42, 0.4);
+            border: 1px solid var(--border);
+            padding: 10px;
+            border-radius: 8px;
+        }
+
+        .metric-card label {
+            display: block;
+            font-size: 0.6rem;
+            color: var(--secondary);
+            font-weight: 800;
+            margin-bottom: 3px;
+            text-transform: uppercase;
+        }
+
+        .metric-card .val {
+            font-size: 0.85rem;
+            font-weight: 800;
+            color: #fff;
+        }
+
+        .metric-card .fixation {
+            font-size: 0.65rem;
+            color: var(--carbon);
+            font-weight: 700;
+            margin-top: 2px;
+        }
+
+        .chart-wrap {
+            background: rgba(30, 41, 59, 0.3);
+            border-radius: 12px;
+            padding: 10px;
+            border: 1px solid var(--border);
+            box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.2);
+        }
+
+        .technical-entry {
+            background: rgba(15, 23, 42, 0.6);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 12px;
+            margin-top: 8px;
+        }
+
+        .tech-row {
+            margin-bottom: 12px;
+            border-bottom: 1px dashed var(--border);
+            padding-bottom: 10px;
+        }
+
+        .tech-row:last-child {
+            border: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        .tech-key {
+            font-weight: 900;
+            color: var(--success);
+            font-size: 0.55rem;
+            text-transform: uppercase;
+            display: block;
+            margin-bottom: 3px;
+        }
+
+        .tech-val {
+            font-size: 0.75rem;
+            color: #e2e8f0;
+            line-height: 1.4;
+            font-weight: 500;
+        }
+
+        .tag {
+            background: #334155;
+            color: #fff;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 0.6rem;
+            font-weight: 800;
+            margin-right: 4px;
+            margin-bottom: 4px;
+            display: inline-block;
+        }
+
+        #map {
+            flex: 1;
+            background: #020617;
+        }
+
+        .city-label {
+            background: none !important;
+            border: none !important;
+            box-shadow: none !important;
+            font-size: 0.7rem;
+            font-weight: 900;
+            color: #fff;
+            text-shadow: 0 0 5px #000;
+            margin-top: -20px !important;
+        }
+
+        .dist-label {
+            background: #0f172a;
+            color: #fff;
+            border: 1px solid var(--border);
+            padding: 1px 5px;
+            border-radius: 4px;
+            font-size: 0.6rem;
+            font-weight: 900;
+            opacity: 0.8;
+        }
+
+        .legend-final {
+            background: rgba(15, 23, 42, 0.95);
+            color: #fff;
+            padding: 15px;
+            border-radius: 12px;
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.6);
+            font-size: 0.75rem;
+            border: 1px solid var(--border);
+        }
+
+        .leg-title {
+            font-weight: 900;
+            text-transform: uppercase;
+            margin-bottom: 10px;
+            border-bottom: 1px solid var(--border);
+            padding-bottom: 5px;
+            font-size: 0.7rem;
+            color: var(--secondary);
+        }
+
+        .leg-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 6px;
+            font-weight: 700;
+            color: #cbd5e1;
+        }
+
+        .leg-dot {
+            height: 10px;
+            width: 10px;
+            border-radius: 2px;
+            margin-right: 12px;
+            border: 1px solid #fff;
+        }
+
+        .floating-stats {
+            position: absolute;
+            top: 20px;
+            left: 440px;
+            background: rgba(15, 23, 42, 0.9);
+            border: 1px solid var(--border);
+            padding: 15px;
+            border-radius: 12px;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4);
+            width: 180px;
+            z-index: 1001;
+        }
+
+        .stat-item {
+            margin-bottom: 10px;
+        }
+
+        .stat-label {
+            font-size: 0.6rem;
+            font-weight: 900;
+            color: var(--secondary);
+            text-transform: uppercase;
+        }
+
+        .stat-val {
+            font-size: 0.9rem;
+            font-weight: 900;
+            color: #fff;
+        }
+
+        /* Seasonal Panel - Refined */
+        #seasonal-panel {
+            position: absolute;
+            bottom: 20px;
+            left: 440px;
+            background: rgba(15, 23, 42, 0.95);
+            border: 2px solid var(--accent);
+            padding: 12px;
+            border-radius: 12px;
+            width: 330px;
+            z-index: 1001;
+            box-shadow: 0 15px 45px rgba(0, 0, 0, 0.7);
+            display: none;
+            /* Sync with Inundação Layer */
+        }
+
+        .seasonal-header {
+            font-size: 0.75rem;
+            font-weight: 900;
+            text-transform: uppercase;
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            color: var(--accent);
+            border-bottom: 1px solid rgba(244, 63, 94, 0.3);
+            padding-bottom: 5px;
+        }
+
+        .seasonal-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+        }
+
+        .season-box {
+            padding: 10px;
+            border-radius: 8px;
+            background: rgba(30, 41, 59, 0.6);
+            border: 1px solid var(--border);
+        }
+
+        .season-title {
+            font-size: 0.65rem;
+            font-weight: 900;
+            text-transform: uppercase;
+            color: var(--success);
+        }
+
+        .season-desc {
+            font-size: 0.75rem;
+            color: #fff;
+            font-weight: 700;
+            margin-top: 4px;
+            line-height: 1.3;
+        }
+
+        .season-months {
+            font-size: 0.6rem;
+            color: var(--secondary);
+            font-weight: 800;
+            margin-top: 6px;
+            border-top: 1px solid var(--border);
+            padding-top: 5px;
+        }
+
+        /* Responsive Mobile Layout */
+        #mobile-menu-btn {
+            position: absolute;
+            top: 15px;
+            left: 15px;
+            z-index: 2000;
+            background: var(--sidebar-bg);
+            border: 2px solid var(--accent);
+            color: white;
+            padding: 8px 12px;
+            border-radius: 8px;
+            font-size: 1rem;
+            cursor: pointer;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+            display: none;
+            align-items: center;
+            gap: 8px;
+            font-weight: 800;
+        }
+
+        #close-sidebar {
+            display: none;
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            background: rgba(244, 63, 94, 0.2);
+            border: 1px solid var(--accent);
+            color: white;
+            border-radius: 50%;
+            width: 32px;
+            height: 32px;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            font-weight: 900;
+        }
+
+        @media (max-width: 768px) {
+            #mobile-menu-btn { display: flex; }
+            #close-sidebar { display: flex; }
+            
+            #sidebar {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100vh;
+                transform: translateX(-100%);
+                transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+                box-shadow: none;
+            }
+            #sidebar.active {
+                transform: translateX(0);
+            }
+            .floating-stats { 
+                left: 10px; 
+                top: 75px; 
+                width: 150px; 
+                padding: 10px; 
+            }
+            #seasonal-panel {
+                left: 10px;
+                width: calc(100% - 20px);
+                max-width: 350px;
+            }
+            .metrics-grid { grid-template-columns: 1fr; }
+            .legend-final { display: none; } /* Hide legend on small mobile to save space */
+        }
+    </style>
+</head>
+
+<body>
+    <div id="app">
+        <button id="mobile-menu-btn" onclick="toggleSidebar(true)">📊 MONITOR</button>
+        <div id="sidebar">
+            <div id="close-sidebar" onclick="toggleSidebar(false)">✕</div>
+            <div class="header">
+                <span class="version-badge">SGMAS v6.6 | Cartilha Ilustrada</span>
+                <h1>PROJETO MULHERESQTF</h1>
+                <div class="tagline">Bioeconomia & Soberania Vegetal</div>
+            </div>
+            <div class="content">
+                <div id="info-panel">
+                    <div id="intro-view">
+                        <div class="node-header">
+                            <h2>Gabinete de Auditoria</h2><span>Protocolo de Soberania Territorial</span>
+                        </div>
+                        <p style="font-size: 0.8rem; color: var(--secondary); line-height: 1.6;">Consolidação exaustiva
+                            de métricas socioambientais. Zero subtração de dados históricos. Totalidade AC-AM-RR.</p>
+                    </div>
+                    <div id="details" style="display:none;">
+                        <div class="node-header">
+                            <h2 id="n-label">-</h2><span id="n-type">-</span>
+                        </div>
+
+                        <div class="section-header">Indicadores Didáticos (8D)</div>
+                        <div class="metrics-grid">
+                            <div class="metric-card"><label>👥 População</label>
+                                <div class="val" id="m-pop">-</div>
+                            </div>
+                            <div class="metric-card"><label>♻️ Troca/Entrega</label>
+                                <div class="val" id="m-exchange" style="font-size:0.7rem; line-height:1.2;">-</div>
+                            </div>
+                            <div class="metric-card"><label>🌿 Biomassa Local</label>
+                                <div class="val" id="m-biomass">-</div>
+                                <div class="fixation" id="m-fix">-</div>
+                            </div>
+                            <div class="metric-card"><label>💰 CAPEX (SGMAS)</label>
+                                <div class="val" id="m-cost" style="color:var(--accent)">-</div>
+                            </div>
+                            <div class="metric-card"><label>🏥 Saúde (Risco)</label>
+                                <div class="val" id="m-health">-</div>
+                            </div>
+                            <div class="metric-card"><label>🚰 Gap Sanitário</label>
+                                <div class="val" id="m-sanitary">-</div>
+                            </div>
+                        </div>
+                        <div class="section-header">Impacto de Passivos & Biomassa</div>
+                        <div class="chart-wrap"><canvas id="mainChart"></canvas></div>
+
+                        <div class="section-header">⚙️ Engenharia & Financiamento (Ref: NT/TAK)</div>
+                        <div class="technical-entry" id="m-tech"></div>
+
+                        <div class="section-header">🤝 Parceiros Institucionais</div>
+                        <div class="p-tags" id="m-partners"
+                            style="display:flex; flex-wrap:wrap; gap:4px; padding-bottom:20px;"></div>
+                    </div>
+                </div>
+            </div>
+            <footer
+                style="padding:12px; text-align:center; font-size:0.6rem; font-weight:800; border-top:1px solid var(--border); color:var(--secondary)">
+                MULHERESQTF | &copy; 2026 | CONSÓRCIO UnB/UFAC/UFRR</footer>
+        </div>
+        <div id="map">
+            <div class="floating-stats">
+                <div class="stat-item">
+                    <div class="stat-label">HUBs N2 Ativos</div>
+                    <div class="stat-val">6 Unidades</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-label">Alcance Social</div>
+                    <div class="stat-val">2.800 Famílias</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-label">Fixação Carbono</div>
+                    <div class="stat-val">~41 MtCO2e</div>
+                </div>
+            </div>
+            <div id="seasonal-panel">
+                <div class="seasonal-header">⚡ CICLOS SAZONAIS (ALTO JURUÁ)</div>
+                <div class="seasonal-grid">
+                    <div class="season-box">
+                        <div class="season-title">🌊 CHEIA SEVERA</div>
+                        <div class="season-desc">Inundação de Várzea e Interpulsos de Sedimentos.</div>
+                        <div class="season-months">Dezembro - Maio</div>
+                    </div>
+                    <div class="season-box" style="border-color: #f97316;">
+                        <div class="season-title" style="color: #f97316;">☀️ SECA EXTREMA</div>
+                        <div class="season-desc">Isolamento Fluvial e Restrição de Calado.</div>
+                        <div class="season-months">Junho - Novembro</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script>
+        const map = L.map('map', { zoomControl: false }).setView([-5, -63], 5);
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png').addTo(map);
+        L.control.zoom({ position: 'topright' }).addTo(map);
+        let currentChart = null;
+        const masterData = [
+            {
+                name: "Rio Branco (AC)", coords: [-9.974, -67.810], type: "Hub N2 Industrial", pop: "413.418",
+                exchange: "Protótipo -> Matriz Brasil", biomass: "Bambu Guadua / Resíduos", fix: "125 tCO2e/ha",
+                health: "85% DRSAI", sanitary: "42% Gap", cost: "Hub Industrial", status: "Canteiro-Escola",
+                partners: ["UnB", "UFAC", "BNDES", "Embrapa", "SEICT", "Fundo Amazônia"],
+                tech: [
+                    { k: "Canteiro-Escola T01", v: "Fábrica de Bio-Soluções Modulares (BSM) e Prensa Sanduíche T07." },
+                    { k: "Patentes T01-T08", v: "Soberania em Moldagem PU Mamona e Painéis Estruturais de Bambu." },
+                    { k: "Financiamento", v: "Rubrica BNDES Coopera+ Amazônia. CAPEX de Implantação: R$ 850.000,00." }
+                ], chart: [40, 30, 30]
+            },
+            {
+                name: "Cruzeiro do Sul (AC)", coords: [-7.631, -72.670], type: "Hub N2 Territorial", pop: "98.382",
+                exchange: "Resíduos -> Briquetes", biomass: "Bambu / Açaí / Castanha", fix: "143.6 tCO2e/ha",
+                health: "Crítico", sanitary: "65% Gap", cost: "R$ 850.000,00", status: "Ativo",
+                partners: ["UFAC", "ASCCRUS", "IMAC", "IFAC"],
+                tech: [
+                    { k: "Logística Juruá", v: "Central de pré-beneficiamento com Prensa T07 para painéis sanduíche." },
+                    { k: "Gestão de Mastragem", v: "Mapeamento exaustivo de Guadua spp (Ref: NT-003) para suprimento industrial." },
+                    { k: "Infraestrutura", v: "Unidade de Extração de Óleos e Secagem Híbrida Geodésica." }
+                ], chart: [20, 50, 30]
+            },
+            {
+                name: "Tarauacá (AC)", coords: [-8.156, -70.766], type: "Hub N2 Regional", pop: "43.151",
+                exchange: "Açaí -> Biochar/Energia", biomass: "Resíduos Extração", fix: "135 tCO2e/ha",
+                health: "Severo", sanitary: "78% Gap", cost: "R$ 850.000,00", status: "Fase 1",
+                partners: ["IMAC", "CPI", "Gov AC", "ICMBio"],
+                tech: [
+                    { k: "Unidade Móvel T06", v: "Gabarito de bambu para BSM e preenchimento com biopolímero expansivo." },
+                    { k: "Bio-Tijolos Lego", v: "Módulos habitacionais em compósito bambu/resina (Face-Ready)." }
+                ], chart: [15, 60, 25]
+            },
+            {
+                name: "Manaus (AM)", coords: [-3.119, -60.022], type: "Hub N2 Logístico", pop: "2.1M",
+                exchange: "Logística -> Bio-Soberania", biomass: "Urbana / Industrial", fix: "N/A",
+                health: "Moderado", sanitary: "25% Gap", cost: "PNTS Hub", status: "PNTS/UEA",
+                partners: ["UEA", "IPAAM", "UnB", "Sonia Marise"],
+                tech: [
+                    { k: "PNTS Logística", v: "Nó mestre de logística reversa global de polímeros pós-consumo." },
+                    { k: "Bio-combustíveis", v: "P&D em bioquerosene de aviação e diesel verde (PNTS/UEA)." }
+                ], chart: [45, 15, 40]
+            },
+            {
+                name: "Boa Vista (RR)", coords: [2.820, -60.673], type: "Hub N2 Digital", pop: "419k",
+                exchange: "Dados -> Rastreabilidade", biomass: "Resíduos Lavrado", fix: "110 tCO2e/ha",
+                health: "Alerta", sanitary: "35% Gap", cost: "Hub Digital", status: "UFRR",
+                partners: ["UFRR", "Georgia Ferko", "CIR"],
+                tech: [
+                    { k: "Soberania Digital", v: "Rastreamento blockchain de ativos da sociobiodiversidade do Lavrado." },
+                    { k: "Educação 4.0", v: "Capacitação em design paramétrico e construção digital (UFRR)." }
+                ], chart: [40, 20, 40]
+            },
+            {
+                name: "Natal (RN)", coords: [-5.794, -35.211], type: "Hub N2 P&D", pop: "800k",
+                exchange: "Pesquisa -> Indústria", biomass: "Carnaúba / Fibras", fix: "N/A",
+                health: "Baixo", sanitary: "15% Gap", cost: "Base UFRN", status: "UFRN",
+                partners: ["UFRN", "Sonia Marise"],
+                tech: [
+                    { k: "Biocompósitos", v: "Ensaios de tração e caracterização de polímeros vegetais (UFRN)." },
+                    { k: "Resinas PU", v: "Otimização de catalisadores para óleos de mamona e andiroba." }
+                ], chart: [30, 30, 40]
+            },
+            {
+                name: "Mâncio Lima (AC)", coords: [-7.614, -72.896], type: "N1 Manejo Regional", pop: "20.329",
+                exchange: "Mapeamento -> Bioeconomia", biomass: "Bambu Guadua", fix: "140 tCO2e/ha",
+                health: "Severo", sanitary: "85%", cost: "R$ 125.000,00", status: "TI Nukini",
+                partners: ["AMAAIAC", "CPI", "UFAC", "Funai"],
+                tech: [
+                    { k: "Habitação Palafita", v: "Construção modular elevada em bambu termorretificado (Resiliência hídrica)." },
+                    { k: "Bio-Design", v: "Inoculação micelial em resíduos para isolamento térmico de painéis T07." }
+                ], chart: [10, 80, 10]
+            },
+            {
+                name: "M. Thaumaturgo (AC)", coords: [-8.941, -72.792], type: "N1 Manejo Remoto", pop: "17.951",
+                exchange: "Resinas -> Autonomia", biomass: "Açaí / Resinas", fix: "143.6 tCO2e/ha",
+                health: "Crítico", sanitary: "95%", cost: "R$ 125.000,00", status: "Fronteira",
+                partners: ["UBC", "SGMAS", "Marinha", "ICMBio"],
+                tech: [
+                    { k: "Semi-Flutuante", v: "Habitação com flutuação modular via casco de bambu e bombonas (Easy-Repair)." },
+                    { k: "Estratégia Estio", v: "Ancoragem estratégica de UPIs nos polos N1 para suporte regional." },
+                    { k: "MycoToilet", v: "Saneamento seco sem água via bombonas de 200L e decomposição micelial." }
+                ], chart: [5, 85, 10]
+            },
+            {
+                name: "Squad Domo AC", coords: [-9.5, -69.2], type: "★ N0 Unidade Móvel", pop: "Social",
+                exchange: "Kit -> Habitação", biomass: "Estrutural", fix: "Impacto Social",
+                health: "Audit", sanitary: "Socio-Hab", cost: "R$ 180.000,00", status: "Operacional",
+                partners: ["MUQTF", "UFAC"],
+                tech: [
+                    { k: "Sanduíche v8", v: "Injeção de PU 70kg/m³ em matrizes de bambu para abrigo emergencial." },
+                    { k: "Habitação Digital", v: "Design paramétrico v6.6 para montagem rápida em áreas de desastre." }
+                ], chart: [0, 0, 100]
+            },
+            {
+                name: "Squad Domo RR", coords: [2.78, -60.4], type: "★ N0 Unidade Boa Vista", pop: "Local/RR",
+                exchange: "Kit -> Habitação", biomass: "Estrutural", fix: "Impacto Distância",
+                health: "Alerta", sanitary: "Socio-Hab", cost: "R$ 280.000,00", status: "Expansão",
+                partners: ["UFRR", "MUQTF"],
+                tech: [
+                    { k: "Logística Reversa", v: "Acréscimo de 55% no CAPEX devido ao frete inter-regional Rio Branco -> Boa Vista." },
+                    { k: "Engenharia Local", v: "Montagem geodésica assistida por mulheres de RR com suporte remoto v6.6." }
+                ], chart: [0, 0, 100]
+            },
+            {
+                name: "★ Balsa Juruá 1", coords: [-8.5, -72.8], type: "N0 Unidade Fluvial", pop: "Ribeirinha",
+                exchange: "Logística Circular", biomass: "Mix Fluvial", fix: "Dinâmico",
+                health: "Prev.", sanitary: "Saneamento Flutuante", cost: "R$ 450.000,00", status: "Operacional",
+                partners: ["UnB", "Marinha", "MUQTF", "UFAC"],
+                tech: [
+                    { k: "Casco Sanduíche", v: "Flutuação modular em bambu/mamona + bombonas com abrigo em painel T07." },
+                    { k: "Logística Circular", v: "Leva briquetes e BSM acabado; traz plástico PET/PEAD para reciclagem." },
+                    { k: "Processamento", v: "Pasteurização HTST 100L/h e Moagem de Polímeros (40 kg/h)." }
+                ], chart: [5, 90, 5]
+            },
+            {
+                name: "★ Caravana Est. 1", coords: [-8.2, -67.4], type: "★ N0 Estação Itinerante", pop: "Fluvial",
+                exchange: "Briquete -> Coleta", biomass: "Bioenergia", fix: "N/A",
+                health: "Prev.", sanitary: "STAC", cost: "R$ 125.000,00", status: "Percurso",
+                partners: ["MUQTF"],
+                tech: [{ k: "Mini Estação", v: "Unidade de apoio para beneficiamento de biomassa e produção de briquetes." }], chart: [10, 80, 10]
+            },
+            {
+                name: "★ Caravana Est. 2", coords: [-6.5, -63.5], type: "★ N0 Estação Itinerante", pop: "Fluvial",
+                exchange: "Briquete -> Coleta", biomass: "Bioenergia", fix: "N/A",
+                health: "Prev.", sanitary: "STAC", cost: "R$ 125.000,00", status: "Percurso",
+                partners: ["MUQTF"],
+                tech: [{ k: "Mini Estação", v: "Unidade de apoio para beneficiamento de biomassa e produção de briquetes." }], chart: [10, 80, 10]
+            },
+            {
+                name: "★ Caravana Est. 3", coords: [-4.5, -61.2], type: "★ N0 Estação Itinerante", pop: "Fluvial",
+                exchange: "Briquete -> Coleta", biomass: "Bioenergia", fix: "N/A",
+                health: "Prev.", sanitary: "STAC", cost: "R$ 125.000,00", status: "Percurso",
+                partners: ["MUQTF"],
+                tech: [{ k: "Mini Estação", v: "Unidade de apoio para beneficiamento de biomassa e produção de briquetes." }], chart: [10, 80, 10]
+            }
+        ];
+        const layers = { 
+            flood: L.layerGroup().addTo(map), 
+            bamboo: L.layerGroup().addTo(map), 
+            br: L.layerGroup().addTo(map), 
+            rio: L.layerGroup().addTo(map), 
+            n1: L.layerGroup().addTo(map), 
+            n2: L.layerGroup().addTo(map), 
+            n0: L.layerGroup().addTo(map) 
+        };
+        // Sync Seasonal Panel with Inundação layer
+        map.on('overlayadd', function (e) {
+            if (e.name === 'Inundação') document.getElementById('seasonal-panel').style.display = 'block';
+        });
+        map.on('overlayremove', function (e) {
+            if (e.name === 'Inundação') document.getElementById('seasonal-panel').style.display = 'none';
+        });
+        function updateSidebar(n) {
+            document.getElementById('intro-view').style.display = 'none';
+            document.getElementById('details').style.display = 'block';
+            document.getElementById('n-label').innerText = n.name;
+            document.getElementById('n-type').innerText = n.type;
+            document.getElementById('m-pop').innerText = n.pop;
+            document.getElementById('m-exchange').innerText = n.exchange;
+            document.getElementById('m-biomass').innerText = n.biomass;
+            document.getElementById('m-fix').innerText = n.fix;
+            document.getElementById('m-health').innerText = n.health;
+            document.getElementById('m-sanitary').innerText = n.sanitary;
+            document.getElementById('m-cost').innerText = n.cost;
+
+            const pt = document.getElementById('m-partners');
+            pt.innerHTML = '';
+            n.partners.forEach(p => {
+                const s = document.createElement('span'); s.className = 'tag'; s.innerText = p; pt.appendChild(s);
+            });
+
+            const tc = document.getElementById('m-tech');
+            tc.innerHTML = '';
+            n.tech.forEach(t => {
+                const di = document.createElement('div'); di.className = 'tech-row';
+                di.innerHTML = `<span class="tech-key">${t.k}</span><div class="tech-val">${t.v}</div>`;
+                tc.appendChild(di);
+            });
+
+            if (currentChart) currentChart.destroy();
+            currentChart = new Chart(document.getElementById('mainChart').getContext('2d'), {
+                type: 'doughnut',
+                data: {
+                    labels: ['Plásticos', 'Biomassa', 'Orgânico'],
+                    datasets: [{ data: n.chart, backgroundColor: ['#38bdf8', '#2dd4bf', '#fbbf24'], borderWidth: 0 }]
+                },
+                options: { cutout: '70%', plugins: { legend: { position: 'bottom', labels: { boxWidth: 8, font: { size: 9, weight: '800' }, color: '#94a3b8' } } } }
+            });
+        }
+        // Acre Bamboo Zone
+        L.circle([-8.5, -70.5], { radius: 250000, color: '#2dd4bf', weight: 1, fillOpacity: 0.05, dashArray: '5, 5', interactive: false }).addTo(layers.bamboo);
+        L.marker([-8.5, -70.5], { icon: L.divIcon({ className: 'city-label', html: '<div style="color:#2dd4bf; opacity:0.6;">GUADUA SPP. ZONE<br>~18M t Biomassa</div>', iconSize: [120, 40] }), interactive: false }).addTo(layers.bamboo);
+        masterData.forEach(n => {
+            const isN2 = n.type.includes('N2');
+            const isN0 = n.name.includes('★') || n.name.includes('Squad');
+            let col = isN2 ? '#f43f5e' : (n.type.includes('N1') ? '#38bdf8' : '#fbbf24');
+
+            let m;
+            if (isN0) {
+                const starIcon = L.divIcon({
+                    className: 'custom-div-icon',
+                    html: `<div style="font-size: 20px; color: ${col}; text-shadow: 0 0 8px rgba(0,0,0,0.8);">★</div>`,
+                    iconSize: [20, 20],
+                    iconAnchor: [10, 10]
+                });
+                m = L.marker(n.coords, { icon: starIcon }).addTo(layers.n0);
+            } else {
+                const circleSize = isN2 ? 20 : 12;
+                const circleIcon = L.divIcon({
+                    className: 'custom-circle-icon',
+                    html: `<div style="background-color: ${col}; width: ${circleSize}px; height: ${circleSize}px; border-radius: 50%; border: 1.5px solid #fff; box-shadow: 0 0 5px rgba(0,0,0,0.5);"></div>`,
+                    iconSize: [circleSize, circleSize],
+                    iconAnchor: [circleSize/2, circleSize/2]
+                });
+                m = L.marker(n.coords, { icon: circleIcon }).addTo(layers[isN2 ? 'n2' : 'n1']);
+            }
+
+            m.bindTooltip(n.name, { permanent: true, direction: 'top', className: 'city-label', offset: [0, -10], opacity: 0.9 });
+            m.on('click', (e) => {
+                L.DomEvent.stopPropagation(e);
+                updateSidebar(n);
+                if (window.innerWidth < 768) toggleSidebar(true);
+                map.flyTo(n.coords, (n.name.includes('Domo') || n.name.includes('★')) ? 8 : 7);
+            });
+        });
+
+        function toggleSidebar(show) {
+            const sidebar = document.getElementById('sidebar');
+            if (show) sidebar.classList.add('active');
+            else sidebar.classList.remove('active');
+        }
+        // Default select
+        updateSidebar(masterData[0]);
+        const rs = { color: '#475569', weight: 1.5, opacity: 0.4, dashArray: '4, 8', interactive: false };
+        const fs = { color: '#38bdf8', weight: 3, opacity: 0.5, interactive: false };
+        function path(l, c1, c2, d, s) { L.polyline([c1, c2], s).addTo(l); if (d) L.marker([(c1[0] + c2[0]) / 2, (c1[1] + c2[1]) / 2], { icon: L.divIcon({ className: 'dist-label', html: d, iconSize: [50, 18] }), interactive: false }).addTo(l); }
+        path(layers.br, [-9.974, -67.810], [-9.066, -68.657], "145km", rs); path(layers.br, [-9.066, -68.657], [-8.164, -70.353], "220km", rs);
+        path(layers.br, [-8.164, -70.353], [-8.156, -70.766], "45km", rs); path(layers.br, [-8.156, -70.766], [-7.631, -72.670], "210km", rs);
+        path(layers.br, [-3.119, -60.022], [2.820, -60.673], "780km", rs);
+
+        // Caravana Route
+        path(layers.rio, [-9.974, -67.810], [-8.5, -67.4], null, fs);
+        path(layers.rio, [-8.5, -67.4], [-6.5, -63.5], null, fs);
+        path(layers.rio, [-6.5, -63.5], [-4.5, -61.2], null, fs);
+        path(layers.rio, [-4.5, -61.2], [-3.119, -60.022], null, fs);
+        path(layers.rio, [-3.119, -60.022], [-0.130, -67.089], "950km", fs);
+        path(layers.rio, [-7.631, -72.670], [-8.941, -72.792], "160km", fs);
+        path(layers.rio, [-8.269, -72.744], [-8.5, -72.8], "25km", fs);
+        L.circle([-8.2, -72.0], { radius: 100000, color: '#38bdf8', weight: 1, fillOpacity: 0.1, interactive: false }).addTo(layers.flood);
+        L.circle([-3.2, -59.5], { radius: 70000, color: '#38bdf8', weight: 1, fillOpacity: 0.1, interactive: false }).addTo(layers.flood);
+        L.control.layers(null, { "Hubs N2": layers.n2, "Pólos N1": layers.n1, "★ Unid. Móveis N0": layers.n0, "Bambuzais (Acre)": layers.bamboo, "Rodovias": layers.br, "Hidrovias": layers.rio, "Inundação": layers.flood }, { collapsed: false }).addTo(map);
+        const leg = L.control({ position: 'bottomright' });
+        leg.onAdd = function () {
+            const d = L.DomUtil.create('div', 'legend-final');
+            d.innerHTML = `<div class="leg-title">SGMAS - "Cartilha Ilustrada"</div>
+            <div class="leg-item"><span class="leg-dot" style="background:#f43f5e"></span> Hub Tecnológico (N2)</div>
+            <div class="leg-item"><span class="leg-dot" style="background:#38bdf8"></span> Polo Regional (N1)</div>
+            <div class="leg-item"><span class="leg-dot" style="background:#fbbf24"></span> Unidade Itinerante (★)</div>
+            <div class="leg-item" style="margin-top:8px; font-size:0.65rem; color:var(--success); border-top:1px solid var(--border); padding-top:8px;">Protocolo SGMAS v6.6</div>`;
+            return d;
+        };
+        leg.addTo(map);
+    </script>
+</body>
