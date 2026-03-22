@@ -12,7 +12,7 @@ status: CONSOLIDADO (SGMAS-Ready)
 
 Esta Nota Técnica fundamenta o uso de **Sensoriamento Remoto (SR)** e **SGMAS** como ferramentas de defesa territorial e gestão produtiva dos tabocais (*Guadua* spp.) no Acre. O domínio estatístico da biomassa não é apenas um requisito técnico, mas um pilar de soberania para o Consórcio WTF na negociação de ativos ambientais e no planejamento logístico de unidades móveis.
 
-*Referência Primária de Dados: [TAK-MEM-003](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/TAK-MEM-003_BIOMASS-GEO-ACRE.md)*
+*Referência Primária de Dados: [TAK-MEM-003](TAK-MEM-003_BIOMASS-GEO-ACRE.md)*
 
 ## 2. Inventário de Dados Básicos (SGMAS - Alto Juruá)
 
@@ -40,7 +40,7 @@ O SGMAS opera em rede federada, integrando centros de excelência do Consórcio 
 
 O monitoramento em tempo real dos nós territoriais é realizado via **SGMAS Plotter**, que integra os dados de satélite com a localização das bases fixas e móveis do Projeto WTF.
 
-*Acesso à ferramenta: [SGMAS Plotter (v1.0)](file:///Users/fabiotakwara/.gemini/antigravity/brain/fddb210d-bd9b-4610-bc88-bfbe2d7a1f6c/sgmas_plotter.html)*
+*Acesso à ferramenta: [SGMAS Plotter (v1.0)](#) [LEGACY REFERENCE: fddb210d-bd9b-4610-bc88-bfbe2d7a1f6c/sgmas_plotter.html]*
 
 ### 2.1. Territórios Prioritários
 - **TI Nukini**: 32.581,94 ha (SIRGAS 2000) | Pop: ~900 | Foco: Bioeconomia de Manejo Fino.
@@ -62,10 +62,10 @@ A soberania digital do Projeto WTF é assegurada pelo **Protocolo de Validação
 
 ## 5. Bibliografia e Sync-Link
 
-1. **[TAK-MEM-003](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/TAK-MEM-003_BIOMASS-GEO-ACRE.md)**: *Biomassa, Geoprocessamento e Governança de Bambuzais*.
+1. **[TAK-MEM-003](TAK-MEM-003_BIOMASS-GEO-ACRE.md)**: *Biomassa, Geoprocessamento e Governança de Bambuzais*.
 2. **[IBGE (2024)](https://agenciadenoticias.ibge.gov.br/)**: *Estimativas Populacionais para 2024*.
-3. **[Ferreira, E. J. L. (2014)](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/01_SOMBRA_AUDITORIA/04_PROJETO_WTF/01_GOVERNANCA/01_COLABORADORES/Bibliografia_Equipe/Ferreira_2014_Bambu_Acre.pdf)**: *O bambu no Acre*.
-4. **[IMAC IN 10/2015](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/01_GOVERNANCA/02_JURIDICO/IN_10_2015_IMAC.pdf)**: *Regulamentação do Manejo de Bambu*.
+3. **[Ferreira, E. J. L. (2014)](../../../../01_SOMBRA_AUDITORIA/04_PROJETO_WTF/01_GOVERNANCA/01_COLABORADORES/Bibliografia_Equipe/Ferreira_2014_Bambu_Acre.pdf)**: *O bambu no Acre*.
+4. **[IMAC IN 10/2015](../../../../01_GOVERNANCA/02_JURIDICO/IN_10_2015_IMAC.pdf)**: *Regulamentação do Manejo de Bambu*.
 
 ---
 **Aprovação**: Coordenação de Geoprocessamento (Acre/UnB).

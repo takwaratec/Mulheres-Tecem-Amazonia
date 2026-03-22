@@ -74,7 +74,7 @@ A valoração deste compêndio de PI baseia-se nos custos de Pesquisa e Desenvol
 | **TOTAL MAQUINÁRIO** | | **R$ 288.008,00** |
 
 > [!TIP]
-> O detalhamento técnico de materiais, componentes e horas-técnica de cada item pode ser consultado no [BoM Industrial de Soberania](file:///Users/fabioInstitucional/Documents/GitHub/UnB/Mulheres_Bioeconomia_Amazonia/docs/01_GOVERNANCA/TAK_orcamento-maquinario-bom.md).
+> O detalhamento técnico de materiais, componentes e horas-técnica de cada item pode ser consultado no [BoM Industrial de Soberania](#) [LEGACY REFERENCE: docs/01_GOVERNANCA/TAK_orcamento-maquinario-bom.md].
 
 *   **Redução de CAPEX:** O design proprietário simplificado (reuso) reduz o custo de instalação em até 60% comparado a maquinário importado.
 *   **Soberania Tecnológica:** A ausência de royalties para tecnologias estrangeiras e a manutenibilidade local conferem resiliência ao fluxo de caixa.

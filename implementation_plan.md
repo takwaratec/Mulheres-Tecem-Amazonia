@@ -13,7 +13,7 @@ Este plano visa a organização exaustiva de todo o material intelectual produzi
 
 ### [Infraestrutura de Invenções]
 
-#### [NEW] [Diretório Mestre](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/)
+#### [NEW] [Diretório Mestre](04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES)
 Criação de subdiretórios dedicados para cada ativo de engenharia:
 - `T01_FORNO_ECOLOGICO/`
 - `T02_REATOR_BIORREFINARIA/`
@@ -27,14 +27,14 @@ Criação de subdiretórios dedicados para cada ativo de engenharia:
 
 ### [Sincronização de Dados e Memoriais]
 
-#### [MOVE/LINK] [Consolidação de Ativos](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/)
+#### [MOVE/LINK] [Consolidação de Ativos](04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO)
 1. **T02 (Reator)**: Mover `aspen-data-sheet-T02.md`, `diagrama-T02-plano2.md` e `TAK-NT-T02-01` para o subdiretório `T02_REATOR_BIORREFINARIA/`.
 2. **T10 (Balsa)**: Agrupar `TAK-BOM-T10_DETALHADO.md`, `TAK-MD-010_MEMORIAL-DESCRITIVO-BALSA.md` e `TAK-MEM-T10_BALSA-CATAMARA-VAPOR.md` em `T10_BALSA_CATAMARA/`.
 3. **Outros**: Repetir para T01-T08 conforme mapeamento.
 
 ### [Preservação de Prompts e Lógica de Geração]
 
-#### [NEW] [Inclusion of Prompts](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/)
+#### [NEW] [Inclusion of Prompts](04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES)
 - Criação de arquivos `PROMPT_DESCRICAO_DETALHADA.md` em cada pasta, contendo os prompts originais de geração utilizados para consolidar o material intelectual (evitando "perda de vírgulas").
 
 ---

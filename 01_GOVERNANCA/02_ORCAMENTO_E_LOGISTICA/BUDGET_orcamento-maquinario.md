@@ -22,7 +22,7 @@ version: '2.2.2'
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licença-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ![Status](https://img.shields.io/badge/status-Rascunho-orange)
 
-Este documento extrai as metragens e componentes dos memoriais técnicos (Série 08) e aplica os [Parâmetros de Referência Amazônia](file:///Users/fabioInstitucional/Documents/GitHub/UnB/Mulheres_Bioeconomia_Amazonia/docs/01_GOVERNANCA/TAK_parametros-mercado-norte.md).
+Este documento extrai as metragens e componentes dos memoriais técnicos (Série 08) e aplica os [Parâmetros de Referência Amazônia](#) [LEGACY REFERENCE: docs/01_GOVERNANCA/TAK_parametros-mercado-norte.md].
 
 ---
 

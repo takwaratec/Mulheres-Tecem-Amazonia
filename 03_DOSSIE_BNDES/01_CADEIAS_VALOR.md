@@ -24,5 +24,5 @@ Sob a liderança da Profa. Sonia, o projeto atua na formação técnica de mulhe
 ### 📚 Referências Estratégicas (P&D)
 Para o detalhamento técnico e científico dos conceitos apresentados neste componente, consulte os resumos estratégicos consolidados no acervo digital:
 
-- [**Resumo Estratégico: Bioeconomia no Amazonas (CTI/MCTI)**](../04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/WTF_RES_00000041_nota_tecnica_001_bioeconomia_cti_bioeconomia_no_amazonaspdf.md): Fundamentação para a transição produtiva e industrialização de base florestal.
-- [**Resumo Estratégico: Linha de Beneficiamento UNNI Máquinas**](../04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/WTF_RES_unni_maquinas___linha_completa_para_beneficiamento_de_castanha_do_brasil_castanha_do_parapdf.md): Especificações técnicas e benchmark de CAPEX para agroindústria de castanha.
+- [**Resumo Estratégico: Bioeconomia no Amazonas (CTI/MCTI)**](../04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/01_CIENTIFICO/TECNOLOGIA/WTF_RES_00000041_nota_tecnica_001_bioeconomia_cti_bioeconomia_no_amazonaspdf.md): Fundamentação para a transição produtiva e industrialização de base florestal.
+- [**Resumo Estratégico: Linha de Beneficiamento UNNI Máquinas**](../04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/01_CIENTIFICO/BIOECONOMIA/WTF_RES_unni_maquinas___linha_completa_para_beneficiamento_de_castanha_do_brasil_castanha_do_parapdf.md): Especificações técnicas e benchmark de CAPEX para agroindústria de castanha.

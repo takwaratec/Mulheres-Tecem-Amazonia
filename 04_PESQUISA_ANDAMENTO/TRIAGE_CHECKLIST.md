@@ -29,4 +29,4 @@ Este checklist monitora o progresso da extração de dados e catalogação dos a
 
 ---
 **Status da Triagem:**
-- [Diretório de Trabalho](file:///Users/fabioInstitucional/Documents/GitHub/UnB/Mulheres_Bioeconomia_Amazonia/01_SOMBRA_AUDITORIA/04_PROJETO_WTF/03_PESQUISA_EM_ANDAMENTO/TRANSCRIPT)
+- [Diretório de Trabalho](#) [LEGACY REFERENCE: 01_SOMBRA_AUDITORIA/04_PROJETO_WTF/03_PESQUISA_EM_ANDAMENTO/TRANSCRIPT]

@@ -34,43 +34,43 @@ Este documento consolida los **Memoriales Descriptivos de Patente** y las **Conc
 **Invención:** Sistema integrado de pirólisis indirecta y cascada térmica para la inmunización de bambú sin veneno.
 - **Diferencial:** Aprovechamiento de gases no condensables (*syngas*) y vapor flash por columna hidrostática.
 - **Status:** Finalizado (Advocacy).
-- [Acceder al Memorial Completo (Restringido/PT)](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres_Bioeconomia_Amazonia/docs/08_PROJETOS_ENGENHARIA/TAK_memorial-patente-reator.md)
+- [Acceder al Memorial Completo (Restringido/PT)](#) [LEGACY REFERENCE: docs/08_PROJETOS_ENGENHARIA/TAK_memorial-patente-reator.md]
 
 ## 2. Resinador Rotativo T03: Estación de Curado Multieje
 **Invención:** Dispositivo de rotación sincronizada multieje (módulos de 12 varas) para el curado uniforme de biopolímeros.
 - **Diferencial:** Punteras cónicas de autoajuste interno (lumen) y trinquetes de torque gradual.
 - **Status:** Finalizado (Advocacy).
-- [Acceder al Memorial Industrial (Restringido/PT)](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres_Bioeconomia_Amazonia/docs/08_PROJETOS_ENGENHARIA/T03_RESINADOR_ROTATIVO/TAK_memorial-patente-resinador-industrial.md)
+- [Acceder al Memorial Industrial (Restringido/PT)](#) [LEGACY REFERENCE: docs/08_PROJETOS_ENGENHARIA/T03_RESINADOR_ROTATIVO/TAK_memorial-patente-resinador-industrial.md]
 
 ## 3. Mezclador de Biocompuestos T04: La Hormigonera Impermeable
 **Invención:** Cámara de mezcla para fibras y resinas adhesivas con sellos dinámicos.
 - **Diferencial:** Sistema de **Sello por Prensaestopas Ajustable** y aspersión neumática interna (**Chorro PU**).
 - **Status:** Finalizado (Advocacy).
-- [Acceder al Memorial Completo (Restringido/PT)](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres_Bioeconomia_Amazonia/docs/08_PROJETOS_ENGENHARIA/TAK_memorial-patente-misturador.md)
+- [Acceder al Memorial Completo (Restringido/PT)](#) [LEGACY REFERENCE: docs/08_PROJETOS_ENGENHARIA/TAK_memorial-patente-misturador.md]
 
 ## 4. Prensa de Cassettes Intercambiables T05 (Mecánicas Celulares)
 **Invención:** Prensa universal para ladrillos ecológicos y elementos constructivos celulares.
 - **Diferencial:** Cambio rápido de moldes (cassettes) a una escala industrial aceptable.
 - **Status:** Finalizado (Advocacy).
-- [Acceder al Memorial Completo (Restringido/PT)](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres_Bioeconomia_Amazonia/docs/08_PROJETOS_ENGENHARIA/TAK_memorial-patente-prensa-cassetes.md)
+- [Acceder al Memorial Completo (Restringido/PT)](#) [LEGACY REFERENCE: docs/08_PROJETOS_ENGENHARIA/TAK_memorial-patente-prensa-cassetes.md]
 
 ## 5. Plantillas de Montaje y Soldadura Vegetal T06
 **Modelo de Utilidad:** Dispositivos de alineación espacial para la prefabricación de cerchas.
 - **Diferencial:** Abrazaderas articuladas con revestimiento antiadherente para alineación milimétrica de varas.
 - **Status:** Finalizado (Advocacy).
-- [Acceder al Memorial Completo (Restringido/PT)](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres_Bioeconomia_Amazonia/docs/08_PROJETOS_ENGENHARIA/TAK_memorial-patente-solda-gabaritos.md)
+- [Acceder al Memorial Completo (Restringido/PT)](#) [LEGACY REFERENCE: docs/08_PROJETOS_ENGENHARIA/TAK_memorial-patente-solda-gabaritos.md]
 
 ## 6. Prensa de Sándwich para Paneles y OSB T07
 **Invención:** Sistema de conformación de grandes superficies mediante contención por carga estática.
 - **Diferencial:** Uso de **contrapesos sincronizados** en mesas de sándwich, eliminando pistones complejos en placas de gran formato.
 - **Status:** Finalizado (Advocacy).
-- [Acceder a la Concepción Técnica (Restringido/PT)](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres_Bioeconomia_Amazonia/docs/08_PROJETOS_ENGENHARIA/TAK_concepcao-prensa-sanduiche.md)
+- [Acceder a la Concepción Técnica (Restringido/PT)](#) [LEGACY REFERENCE: docs/08_PROJETOS_ENGENHARIA/TAK_concepcao-prensa-sanduiche.md]
 
 ## 7. Tamboreador de Varas: Abrasión Térmica y Sílice
 **Invención:** Equipo de beneficiamiento superficial longitudinal con captura de particulados.
 - **Diferencial:** Ciclón separador para recolección de sílice e integración con calor residual de la vaporización.
 - **Status:** Finalizado (Privado/Restringido).
-- [Acceder al Memorial Industrial (Restringido/PT)](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres_Bioeconomia_Amazonia/docs/08_PROJETOS_ENGENHARIA/01_MAQUINARIO_PROPRIETARIO/TAK_memorial-patente-tamboreador.md)
+- [Acceder al Memorial Industrial (Restringido/PT)](#) [LEGACY REFERENCE: docs/08_PROJETOS_ENGENHARIA/01_MAQUINARIO_PROPRIETARIO/TAK_memorial-patente-tamboreador.md]
 
 ---
 

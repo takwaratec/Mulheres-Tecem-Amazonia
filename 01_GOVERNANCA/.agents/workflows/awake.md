@@ -8,9 +8,9 @@ O Acervo Mulheres Que Tecem a Floresta (WTF) é complexo, cruzando rigor técnic
 
 Sempre que a sessão "esfriar" ou o usuário digitar `/awake`, o Agente deve **automaticamente e em silêncio**:
 
-1. Ler o arquivo `/Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/01_GOVERNANCA/.agents/system_prompt_institucional.txt`.
-2. Ler a regra `/Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/01_GOVERNANCA/.agents/rules/firewall_agent.md`.
-3. Revisar a semântica da persona em `/Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/01_GOVERNANCA/.agents/rules/advocacy_institucional_redacao.md`.
+1. Ler o arquivo `../system_prompt_institucional.txt`.
+2. Ler a regra `../rules/firewall_agent.md`.
+3. Revisar a semântica da persona em `../rules/advocacy_institucional_redacao.md`.
 4. **Sincronização de Sessão**: O Agente deve ler o painel de tarefas (`task.md`) e identificar todos os itens marcados como pendentes (`[ ]`) ou em andamento (`[/]`).
 5. **Relatório de Abertura**: Listar imediatamente as 3 prioridades pendentes para que o operador retome o fluxo sem perda de contexto.
 6. **Contexto Rede Pessoal**: Carregar e interpretar históricos em `99_RESTRITO/01_REDE_PESSOAL/` (se disponível).

@@ -90,9 +90,9 @@ A integração entre resíduos (TAK-MEM-004) e manufatura (TAK-MEM-009) define a
 
 ## 5. Bibliografia Sincronizada (Sync-Link)
 
-1. **[TAK-MEM-003](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/TAK-MEM-003_BIOMASS-GEO-ACRE.md)**: *Biomassa e Geoprocessamento*.
-2. **[TAK-MEM-007](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/TAK-MEM-007_MULHERES-TECEM-AMAZONIA-MEM-TEC.md)**: *Estruturação de Bioindústrias (BNDES)*.
-3. **[Ferreira, M. M. (2017)](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/WTF_RES_Fernanda_Machado_de_Oliveira_Ferreira.pdf.md)**: *Propriedades de Biocompósitos de PU Mamona*.
+1. **[TAK-MEM-003](TAK-MEM-003_BIOMASS-GEO-ACRE.md)**: *Biomassa e Geoprocessamento*.
+2. **[TAK-MEM-007](TAK-MEM-007_MULHERES-TECEM-AMAZONIA-MEM-TEC.md)**: *Estruturação de Bioindústrias (BNDES)*.
+3. **[Ferreira, M. M. (2017)](../../../../04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/01_CIENTIFICO/TECNOLOGIA/WTF_RES_Fernanda_Machado_de_Oliveira_Ferreira.pdf.md)**: *Propriedades de Biocompósitos de PU Mamona*.
 4. **[NBR 16828](https://www.abntcatalogo.com.br/)**: *Estruturas de Bambu - Projeto e Execução*.
 
 ---

@@ -59,8 +59,8 @@ Este glosario consolida las siglas, normativas y códigos de catalogación utili
 
 ## 3. Códigos y Tecnologías de la Plataforma Institucional
 *   **[ATHIS](../01_TECNOLOGIA_Institucional/TAK_relatorio-executivo-v1.0.1.md)**: Asistencia Técnica para Vivienda de Interés Social.
-*   **[AVT](../00_GOVERNANCA/GOV_regimento-pvit-audiovisual.md)**: Audiovisual Institucional (Referencia a procesos de producción e instrucción curada por video/imagen).
-*   **[BER](../08_PROJETOS_ENGENHARIA/T02_BIORREFINARIA/TAK_biorrefinaria-reuso-comunitaria.md)**: Baño Ecológico Ribereño.
+*   **[AVT](../.agents/rules/GOV_regimento-pvit-audiovisual.md)**: Audiovisual Institucional (Referencia a procesos de producción e instrucción curada por video/imagen).
+*   **[BER](../../04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/T02_REATOR_BIORREFINARIA/TAK_biorrefinaria-reuso-comunitaria.md)**: Baño Ecológico Ribereño.
 *   **[BIOCHAR](../02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-saneamento-ecologico.md)**: Biocarbón (Carbón vegetal estabilizado, fijador de carbono en el suelo o matrices biocompuestas).
 *   **[BRF](../08_PROJETOS_ENGENHARIA/T02_BIORREFINARIA/TAK_biorrefinaria-t02-memorial.md)**: Biorrefinería de cascada térmica para el tratamiento de Bambú y fibras naturales. Vaporización, secado, climatización y otros.
 *   **[BRFA](../08_PROJETOS_ENGENHARIA/T02_BIORREFINARIA/TAK_biorrefinaria-t02-memorial.md)**: Biorrefinería adaptada al procesamiento de alimentos. Deshidratación, vaporización/esterilización, climatización y otros.
@@ -73,7 +73,7 @@ Este glosario consolida las siglas, normativas y códigos de catalogación utili
 *   **[OSB](../01_TECNOLOGIA_Institucional/TAK_memorial-sistema-construtivo-v7.md)**: *Oriented Strand Board* (Paneles/Placas modulares biocompuestas para cerramientos y estructura).
 *   **[PI](../01_GOVERNANCA/TAK_memorial-contrapartida-PI.md)**: Propiedad Intelectual (Referente a invenciones, metodologías, procesos industriales y maquinaria desarrollados como contrapartida).
 *   **[PU](../01_TECNOLOGIA_Institucional/TAK_memorial-sistema-construtivo-v7.md)**: Poliuretano (En el contexto singular de la tecnología Institucional, se refiere exclusivamente al Poliuretano Vegetal / Bio-PU).
-*   **[PVIT](../00_GOVERNANCA/GOV_regimento-pvit-audiovisual.md)**: Patrón Visual e Industrial Institucional (Reglamento de Aplicación y Auditoría Audiovisual - Protocolos Estéticos).
+*   **[PVIT](../.agents/rules/GOV_regimento-pvit-audiovisual.md)**: Patrón Visual e Industrial Institucional (Reglamento de Aplicación y Auditoría Audiovisual - Protocolos Estéticos).
 *   **[SMGA](../02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-smga.md)**: Sistema de Monitoreo y Gestión Ambiental (y/o Gestión de Activos Logísticos).
 *   **[TAK](../01_TECNOLOGIA_Institucional/TAK_memorial-sistema-construtivo-v7.md)**: Código indexador/prefijo para los documentos, memorias de ingeniería y activos propietarios del núcleo Institucional.
 

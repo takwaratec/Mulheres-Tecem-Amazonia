@@ -23,5 +23,5 @@ A governança institucional garante total transparência na aplicação dos recu
 ### 📚 Referências Estratégicas (P&D)
 Para o detalhamento técnico e científico dos conceitos apresentados neste componente, consulte os resumos estratégicos consolidados no acervo digital:
 
-- [**Resumo Estratégico: Nova Economia da Amazônia (WRI Brasil)**](../04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/WTF_RES_00000042_nea_nova_economia_amazonia_relatorio_completo_portuguespdf.md): Legitimação macroeconômica e benchmarking de investimento para a transição produtiva.
-- [**Resumo Estratégico: Bioeconomia no Amazonas (CTI/MCTI)**](../04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/WTF_RES_00000041_nota_tecnica_001_bioeconomia_cti_bioeconomia_no_amazonaspdf.md): Alinhamento com as políticas nacionais de tecnologia social e bioinsumos.
+- [**Resumo Estratégico: Nova Economia da Amazônia (WRI Brasil)**](../04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/01_CIENTIFICO/BIOECONOMIA/WTF_RES_00000042_nea_nova_economia_amazonia_relatorio_completo_portuguespdf.md): Legitimação macroeconômica e benchmarking de investimento para a transição produtiva.
+- [**Resumo Estratégico: Bioeconomia no Amazonas (CTI/MCTI)**](../04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/01_CIENTIFICO/TECNOLOGIA/WTF_RES_00000041_nota_tecnica_001_bioeconomia_cti_bioeconomia_no_amazonaspdf.md): Alinhamento com as políticas nacionais de tecnologia social e bioinsumos.

@@ -12,7 +12,7 @@ status: CONSOLIDADO (SGMAS-Ready)
 
 A presente Nota Técnica fundamenta a transição do modelo de "Biorrefinarias Estáticas" para o sistema de **Infraestrutura Fluvial Itinerante (Barco/Beneficiadora)**. O objetivo é superar o isolamento geográfico no Vale do Juruá, integrando o processamento sanitário de polpas (Açaí/Castanha) com a logística reversa de polímeros urbanos, atendendo ao protocolo **SGMAS-Ready**.
 
-*Referência Primária: [TAK-MEM-006](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/TAK-MEM-006_BIOINDUSTRIA-FLUVIAL-ESTUDO-VIABILIDADE.md)*
+*Referência Primária: [TAK-MEM-006](TAK-MEM-006_BIOINDUSTRIA-FLUVIAL-ESTUDO-VIABILIDADE.md)*
 
 ## 2. Inventário de Operação Fluvial (SGMAS - Juruá)
 
@@ -41,9 +41,9 @@ A embarcação atua como uma **indústria volante** equipada com o módulo integ
 
 ## 5. Bibliografia e Sync-Link
 
-1. **[TAK-MEM-005](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/TAK-MEM-005_3IN1-BIOENERGY-COMMUNITY-SYSTEM.md)**: *Bioenergia Comunitária e Unidades Móveis*.
+1. **[TAK-MEM-005](TAK-MEM-005_3IN1-BIOENERGY-COMMUNITY-SYSTEM.md)**: *Bioenergia Comunitária e Unidades Móveis*.
 2. **[The Ocean Cleanup (2021)](https://theoceancleanup.com/rivers/amazon/)**: *Amazon Plastic Emissions*.
-3. **[Melo, S. S. (2012)](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/99_RESTRITO/02_TRIAGEM_BRUTA/WA_Bioarquitetura_Amazonia/00000054-Biomassa_Bioenergia.txt)**: *Biorrefinaria e Pasteurização*.
+3. **[Melo, S. S. (2012)](../../../../99_RESTRITO/02_TRIAGEM_BRUTA/WA_Bioarquitetura_Amazonia/00000054-Biomassa_Bioenergia.txt)**: *Biorrefinaria e Pasteurização*.
 4. **[Trata Brasil (2025)](https://tratabrasil.org.br/)**: *Impacto DRSAI no Acre*.
 
 ---

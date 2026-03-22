@@ -67,7 +67,7 @@ O projeto propõe uma transição bioeconômica centrada no protagonismo feminin
 3. **Embrapa (2014)**: *Briquetagem e Peletização de Resíduos*. [Referência Técnica](https://www.embrapa.br/busca-de-publicacoes/-/publicacao/932713/briquetagem-e-peletizacao-de-residuos-agricolas-e-florestais)
 4. **Verra (VM0044)**: *Biochar Utilization in Soil and Non-Soil Applications*. [Standard Carbono](https://verra.org/methodology/vm0044-methodology-for-biochar-utilization-in-soil-and-non-soil-applications/)
 5. **Takwara, F. R. (2026)**: *Filosofia e Engenharia de Construção em Bambu Guadua na Amazônia*. [Domínio Público]
-6. **Ferreira, E. J. L. (2014)**: *O bambu no Acre: ecologia e economia*. [Ficha Botânica](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/TAK-MEM-003_BIOMASS-GEO-ACRE.md)
+6. **Ferreira, E. J. L. (2014)**: *O bambu no Acre: ecologia e economia*. [Ficha Botânica](TAK-MEM-003_BIOMASS-GEO-ACRE.md)
 
 ---
 **Elaboração e Triage**: Antigravity Technical Agent (v1.0)

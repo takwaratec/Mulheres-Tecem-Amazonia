@@ -70,7 +70,7 @@ Conforme diretrizes do consórcio, a flutuabilidade e integridade do casco de ba
 
 ## 6. Sincronização Bibliográfica (Sync-Link)
 - **FAO Fisheries (1991)**: *Floating processing plants concepts*.
-- **Melo (2012)**: *Parâmetros de Pasteurização Amazônica*. [TAK-MEM-005](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/TAK-MEM-005_3IN1-BIOENERGY-COMMUNITY-SYSTEM.md)
-- **Protocolo de Tratamento**: [GOV_MEMORANDO_MESTRE_2026.md](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/01_GOVERNANCA/00_MASTER/GOV_MEMORANDO_MESTRE_2026.md)
+- **Melo (2012)**: *Parâmetros de Pasteurização Amazônica*. [TAK-MEM-005](TAK-MEM-005_3IN1-BIOENERGY-COMMUNITY-SYSTEM.md)
+- **Protocolo de Tratamento**: [GOV_MEMORANDO_MESTRE_2026.md](../../../../01_GOVERNANCA/00_MASTER/GOV_MEMORANDO_MESTRE_2026.md)
 
 *Revisado em 19 de Março de 2026 para retificação de protocolos de tratamento e detalhamento de BoM.*

@@ -62,10 +62,10 @@ Diferente das biorrefinarias fixas, as embarcações WTF operam o **Intercâmbio
 
 ## 6. Bibliografia e Ciência de Suporte (Sync-Link)
 
-1. **Melo, S. S. (2012)**: *Produção de carvão ativado a partir de castanha do Brasil (UFPA)*. [Dissertação](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/99_RESTRITO/02_TRIAGEM_BRUTA/WA_Bioarquitetura_Amazonia/00000054-Biomassa_Bioenergia.txt)
+1. **Melo, S. S. (2012)**: *Produção de carvão ativado a partir de castanha do Brasil (UFPA)*. [Dissertação](../../../../99_RESTRITO/02_TRIAGEM_BRUTA/WA_Bioarquitetura_Amazonia/00000054-Biomassa_Bioenergia.txt)
 2. **Nobre, J. R. C. (2017)**: *Resíduos agroindustriais amazônicos e carvão ativado*.
 3. **UFPA/STAC (2024)**: *Sistema de Tratamento de Água com Carvão Ativado de Açaí*.
-4. **Winiarski & Still (Aprovecho)**: *Rocket Stove safety parameters*. [Análise de Viabilidade Fluvial](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/TAK-MEM-006_BIOINDUSTRIA-FLUVIAL-ESTUDO-VIABILIDADE.md)
+4. **Winiarski & Still (Aprovecho)**: *Rocket Stove safety parameters*. [Análise de Viabilidade Fluvial](TAK-MEM-006_BIOINDUSTRIA-FLUVIAL-ESTUDO-VIABILIDADE.md)
 5. **INBAR/UNFCCC (2025)**: *BambooBoost - Bioenergia e Adaptação Climática*.
 
 ---

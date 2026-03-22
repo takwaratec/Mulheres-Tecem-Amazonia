@@ -23,5 +23,5 @@ Através do canteiro-escola e das oficinas territoriais, o projeto promove o int
 ### 📚 Referências Estratégicas (P&D)
 Para o detalhamento técnico e científico dos conceitos apresentados neste componente, consulte os resumos estratégicos consolidados no acervo digital:
 
-- [**Resumo Estratégico: Geoprocessamento e Bambu no Acre**](../04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/WTF_RES_pesquisa_bambu_indigenas_georreferenciamento.md): Mapeamento técnico e governança socioambiental entre IFAC, UFAC e IMAC.
-- [**Resumo Estratégico: Bioeconomia no Amazonas (CTI/MCTI)**](../04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/WTF_RES_00000041_nota_tecnica_001_bioeconomia_cti_bioeconomia_no_amazonaspdf.md): Defesa do modelo de floresta em pé e valorização de saberes tradicionais.
+- [**Resumo Estratégico: Geoprocessamento e Bambu no Acre**](../04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/01_CIENTIFICO/TECNOLOGIA/WTF_RES_pesquisa_bambu_indigenas_georreferenciamento.md): Mapeamento técnico e governança socioambiental entre IFAC, UFAC e IMAC.
+- [**Resumo Estratégico: Bioeconomia no Amazonas (CTI/MCTI)**](../04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/01_CIENTIFICO/TECNOLOGIA/WTF_RES_00000041_nota_tecnica_001_bioeconomia_cti_bioeconomia_no_amazonaspdf.md): Defesa do modelo de floresta em pé e valorização de saberes tradicionais.

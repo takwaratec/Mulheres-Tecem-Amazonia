@@ -4,7 +4,7 @@
 
 **Consórcio UnB/UFAC/UFRR para Bioeconomia Feminina na Amazônia Legal**
 
-**Duração:** 48 meses **Orçamento Total:** R$ 30.000.000 **Contrapartida não financeira:** R$ 4.000.000 **Valor Total do Projeto:** R$ 34.000.000
+**Duração:** 48 meses **Orçamento BNDES Solicitado:** R$ 30.000.000 **Investimento Aplicado (CAPEX/OPEX):** R$ 25.000.000 (Líquido) **Contrapartida não financeira:** R$ 4.000.000 **Valor Total do Projeto:** R$ 34.000.000
 
 ---
 
@@ -67,22 +67,30 @@ Promover o empoderamento econômico de mulheres amazônidas por meio da estrutur
 
 ### 3.2. Objetivos Específicos
 
-1. **Implantar Canteiro-Escola em Rio Branco** como núcleo permanente de formação, prototipagem e fabricação de tecnologias em bambu, bioenergia e agroindústria.  
-2. **Formar 100 mulheres** em técnicas de construção sustentável, operação de micro-biorrefinarias, beneficiamento agroindustrial e gestão cooperativa, em regime de bolsas de aprendizado.  
-3. **Aparelhar 5 polos comunitários** com infraestrutura completa: módulos térmicos (pirólise/briquetes/biochar), domos de secagem, agroindústrias de castanha e açaí, oficinas de artesanato, saneamento ecológico.  
-4. **Garantir autonomia logística** com veículos 4x4 (micro-ônibus e caminhão) para transporte de turmas, insumos e produtos, reduzindo dependência de intermediários.  
-5. **Estabelecer sistema de MRV** (Monitoramento, Relato e Verificação) geoespacial para manejo de bambu, créditos de carbono e impactos socioambientais.  
-6. **Consolidar governança cooperativa** com participação majoritária de mulheres em instâncias decisórias e acesso direto aos mercados.
+1. **Implantar Canteiro-Escola em Rio Branco** como núcleo permanente de formação, prototipagem e fabricação de tecnologias em bambu, bioenergia e agroindústria (T01-T08).
+2. **Formar 100 mulheres** entre os meses 6 e 42 do projeto, em técnicas de construção sustentável, operação de micro-biorrefinarias, beneficiamento agroindustrial e gestão cooperativa, com foco na autonomia produtiva.
+3. **Aparelhar 5 polos comunitários**, com destaque para o **Polo Cruzeiro do Sul**, integrando o **Domo-Fábrica T11 (3x1)** à cadeia de **Mestres Navais** e à **Balsa-Catamarã de Bambu T10**, iniciando uma rede de produção naval soberana.
+4. **Implementar Saneamento Ecológico** nos polos, utilizando unidades de **Banheiro Seco Modular (BSM)** e **Banheiro Ecológico Ribeirinho (BER)**.
+5. **Garantir autonomia logística** com veículos 4x4 (micro-ônibus e caminhão) e transporte fluvial (T10) para insumos e produtos.
+6. **Estabelecer sistema de MRV** (Monitoramento, Relato e Verificação) geoespacial para manejo de bambu e rastreabilidade da produção.
 
 ---
 
 ## 4\. ESTRATÉGIA METODOLÓGICA
 
+### 4.0. Fase Zero: O Domo Voador — Dispositivo de Pré-Estruturação Territorial
+
+O Domo Voador atua como o dispositivo de chegada às comunidades, concebido para uma permanência estratégica de **5 a 10 dias por localidade**. Não é um curso de bioconstrução, mas um **nó de articulação política, pedagógica e afetiva** que visa:
+- **Sensibilizar e Mobilizar:** Criar o desejo de participação e confiança na Plataforma.
+- **Mapear Demandas e Lideranças:** Identificar multiplicadores locais e pré-selecionar bolsistas.
+- **Selar Acordos:** Assinar cartas de intenção e acordos de cooperação com prefeituras e associações (Garante capital social pré-financiamento).
+- **Demonstração Técnica:** Operar protótipos de filtros, briquetes e maquetes participativas sob a geometria de um domo geodésico leve e itinerante.
+
 ### 4.1. Modelo de Canteiro-Escola e Logística Formativa
 
 O núcleo em Rio Branco funciona como **escola-fábrica**, combinando:
 
-* **Imersão prática:** Turmas de 15–20 mulheres permanecem no canteiro por 8–12 semanas, participando da construção real de módulos térmicos, domos geodésicos e processamento agroindustrial.  
+* **Imersão prática:** Turmas de 15–20 mulheres permanecem no canteiro por 8–12 semanas (com meta de 100 formadas entre os meses 6 e 42), participando da construção real de módulos térmicos, domos geodésicos e processamento agroindustrial.
 * **Bolsas de aprendizado:** Educandas recebem bolsa de R$ 1.000–1.400/mês, alimentação, alojamento e transporte.  
 * **Transferência de tecnologia:** Após formação, as turmas retornam às comunidades **com os equipamentos** fabricados no núcleo, montando o polo local com acompanhamento de Agentes Locais de Inovação.  
 * **Replicabilidade:** O mesmo núcleo produz módulos para múltiplos ciclos (este projeto \+ futuras expansões), amortizando CAPEX e consolidando know-how.
@@ -109,14 +117,12 @@ Cada polo opera 3 eixos produtivos integrados:
 * Despolpadeiras, pasteurizadores, câmaras frias (açaí).  
 * Aproveitamento de resíduos: cascas e caroços alimentam micro-biorrefinaria para briquetes e biochar.
 
-#### 4.2.3. Bambu e Bioenergia
-
-* Manejo de bambuzais próximos, com colheita sustentável e regeneração natural.  
-* Pirólise lenta de biomassa (bambu \+ resíduos agroindustriais) gerando:  
-  * **Briquetes:** Substituem diesel/GLP em cozinhas e processos térmicos.  
-  * **Biochar:** Aplicado em agricultura, saneamento ecológico e créditos de carbono (VERRA VM0044).  
-  * **Extrato pirolenhoso:** Defensivo natural e preservativo para bambu estrutural.  
-* Domos geodésicos de secagem (bambu \+ cobertura translúcida) para castanha, açaí e artesanato.
+#### 4.2.3. Bambu, Bioenergia e Saneamento
+* Manejo de bambuzais nativos (*Guadua* spp.) para fins estruturais e energéticos.
+* **Saneamento Ecológico:** Instalação de **Banheiros Secos Modulares (BSM)** e **Banheiro Ecológico Ribeirinho (BER)** como protótipos de habitação de interesse social.
+* Pirólise lenta de biomassa gerando briquetes, biochar e extrato pirolenhoso.
+* **Cadeia Naval Soberana:** Integração do **Domo-Fábrica T11** com a tradição dos **Mestres Navais** de Cruzeiro do Sul para produção de **Balsas/Catamarãs-Fábrica (T10)**, ampliando o alcance logístico e produtivo na calha do Rio Juruá.
+* Domos geodésicos de secagem (T11) integrados ao Núcleo Térmico Central.
 
 ### 4.3. Governança e Gestão
 
@@ -195,11 +201,11 @@ Coordenação Geral (Prof. Dra. Tânia Cruz)
 
 | Indicador | Meta 48 meses |
 | ----- | ----- |
-| Mulheres em cargos de liderança nos polos (%) | ≥60% |
-| Turmas de formação realizadas no canteiro-escola | 12–16 |
-| Horas de capacitação por educanda | 400–600 |
-| Satisfação das cooperadas com formação (escala 1–5) | ≥4,5 |
-| Cooperativas/associações formalizadas e ativas | 5 |
+| Mulheres formadas e certificadas (Meses 6 a 42) | 100 |
+| Canteiro-Escola Hub Rio Branco instalado | 1 unidade (TRL 7–8) |
+| Polos comunitários operacionais (incluindo T10/T11) | 5 unidades |
+| Unidades de Saneamento Ecológico (BSM/BER) | 10 unidades |
+| Tempo reservado para auditoria e encerramento | 6 meses finais |
 
 ---
 
@@ -357,12 +363,15 @@ O modelo está desenhado para replicação:
 
 ---
 
-### Síntese Visual do Cronograma
+### Síntese Visual do Cronograma (Fluxo de Implementação)
 
-ANO 1 \[████████████\] Estruturação e Primeiros Polos (1–2)  
-ANO 2 \[████████████\] Expansão para 5 Polos \+ Consolidação Operacional  
-ANO 3 \[████████████\] Maturação, Créditos de Carbono, Novos Mercados  
-ANO 4 \[████████████\] Autossuficiência, Escalabilidade, Encerramento
+| Macro-Fase / Ano | ANO 1 | ANO 2 | ANO 3 | ANO 4 |
+| :--- | :---: | :---: | :---: | :---: |
+| **Fase 1: Estruturação e Hub Rio Branco** | █ █ █ █ | | | |
+| **Fase 2: Expansão para 5 Polos (T10/T11)** | | █ █ █ █ | █ █ █ █ | |
+| **Fase 3: Maturação e Créditos de Carbono** | | | █ █ █ █ | █ █ █ █ |
+| **Fase 4: Autossuficiência e Encerramento** | | | | █ █ █ █ |
+| **Treinamento 100 Mulheres (M6-M42)** | | █ █ █ █ | █ █ █ █ | █ █ █ |
 
 ---
 
@@ -434,10 +443,10 @@ O projeto **Mulheres Que Tecem a Floresta** representa uma oportunidade estraté
 
 O modelo de **canteiro-escola** e **logística formativa** é inovador e replicável, criando um ativo institucional permanente que pode formar centenas de mulheres em ciclos futuros, sem necessidade de repetir CAPEX fabril.
 
-Com R$ 30 milhões aplicados cirurgicamente ao longo de 48 meses, o projeto entrega:
+Com R$ 30 milhões solicitados ao BNDES (R$ 25 milhões líquidos aplicados em CAPEX/OPEX após tributação) ao longo de 48 meses, o projeto entrega:
 
-* **5 polos comunitários plenamente operacionais.**  
-* **100 mulheres formadas e certificadas.**  
+* **5 polos comunitários plenamente operacionais (integrando T10/T11).**  
+* **100 mulheres formadas e certificadas (entre M6 e M42).**  
 * **300–400 famílias com renda incremental média de \+R$ 12.000/ano.**  
 * **2.500 t CO₂e evitadas anualmente.**  
 * **Um núcleo permanente de formação e inovação em bioeconomia na Amazônia Legal.**
@@ -452,13 +461,13 @@ Brasília/DF, 16 de março de 2026
 
 ---
 
-**Anexos (a serem desenvolvidos):**
+**Anexos Disponíveis:**
 
-* Anexo I: Planilha Orçamentária Detalhada.  
-* Anexo II: Cartas de Anuência das Cooperativas/Associações.  
-* Anexo III: Protocolo de Intenções UnB/UFAC/UFRR.  
-* Anexo IV: Termo de Referência do Sistema de MRV (SMGA).  
-* Anexo V: Currículo Resumido da Equipe Técnica.  
-* Anexo VI: Mapas das Áreas de Intervenção.  
-* Anexo VII: Referências Bibliográficas e Publicações Prévias.
+* **Anexo I:** [Planilha Orçamentária Detalhada](05_ANEXOS/ANEXO_I_PLANILHA_ORCAMENTARIA.md)
+* **Anexo II:** [Cartas de Anuência das Cooperativas/Associações](05_ANEXOS/ANEXO_II_CARTAS_ANUENCIA.md)
+* **Anexo III:** [Protocolo de Intenções UnB/UFAC/UFRR](05_ANEXOS/ANEXO_III_PROTOCOLO_INTENCOES.md)
+* **Anexo IV:** [Termo de Referência do Sistema de MRV (SMGA)](05_ANEXOS/ANEXO_IV_TR_MRV_SMGA.md)
+* **Anexo V:** [Currículo Resumido da Equipe Técnica](05_ANEXOS/ANEXO_V_CURRICULO_EQUIPE.md)
+* **Anexo VI:** [Mapas das Áreas de Intervenção](05_ANEXOS/ANEXO_VI_MAPAS_INTERVENCAO.md)
+* **Anexo VII:** [Referências Bibliográficas e Publicações Prévias](05_ANEXOS/ANEXO_VII_REFERENCIAS_BIBLIOGRAFICAS.md)
 

@@ -58,10 +58,10 @@ O escoamento e beneficiamento seguem a malha de Bio-Soberania (**TAK-MEM-009**):
 
 1. **[The Ocean Cleanup (2021)](https://theoceancleanup.com/rivers/amazon/)**: *Global river plastic emissions report*.
 2. **[SNIS (2023)](https://www.snis.gov.br/)**: *Diagnóstico do Manejo de Resíduos Sólidos Urbanos no Acre*.
-3. **[BAYMA, M. M. A. (2023)](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/99_RESTRITO/02_TRIAGEM_BRUTA/WA_Bioarquitetura_Amazonia/00000087-Estimativa_Bambu_Acre.txt)**: *Potencial da exploração econômica do bambu no Acre*.
+3. **[BAYMA, M. M. A. (2023)](../../../../99_RESTRITO/02_TRIAGEM_BRUTA/WA_Bioarquitetura_Amazonia/00000087-Estimativa_Bambu_Acre.txt)**: *Potencial da exploração econômica do bambu no Acre*.
 4. **[NEU, V. et al. (2016)](https://doi.org/10.14295/2596-2221.v15n1.p28-44)**: *Banheiro Ecológico Ribeirinho (BER)*.
-5. **[PROPOSTA ESTRUTURANTE DE BIO-SOBERANIA](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/99_RESTRITO/02_TRIAGEM_BRUTA/WA_Bioarquitetura_Amazonia/00000058-PROPOSTA%20ESTRUTURANTE%20DE%20BIO-SOBERANIA%20NACIONAL_%20TRANSFORMANDO%20PASSIVOS%20EM%20ATIVOS%20REGENERATIVOS.txt)**: *Transformando Passivos em Ativos*.
-6. **[BNDES Setorial 47](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/99_RESTRITO/02_TRIAGEM_BRUTA/WA_Bioarquitetura_Amazonia/00000038-BS47_Bioeconomia_FECHADO.txt)**: *A Bioeconomia Brasileira em Números*.
+5. **[PROPOSTA ESTRUTURANTE DE BIO-SOBERANIA](../../../../99_RESTRITO/02_TRIAGEM_BRUTA/WA_Bioarquitetura_Amazonia/00000058-PROPOSTA%20ESTRUTURANTE%20DE%20BIO-SOBERANIA%20NACIONAL_%20TRANSFORMANDO%20PASSIVOS%20EM%20ATIVOS%20REGENERATIVOS.txt)**: *Transformando Passivos em Ativos*.
+6. **[BNDES Setorial 47](../../../../99_RESTRITO/02_TRIAGEM_BRUTA/WA_Bioarquitetura_Amazonia/00000038-BS47_Bioeconomia_FECHADO.txt)**: *A Bioeconomia Brasileira em Números*.
 7. **[Trata Brasil (2025)](https://tratabrasil.org.br/)**: *Impacto das internações por DRSAI*.
 
 ---

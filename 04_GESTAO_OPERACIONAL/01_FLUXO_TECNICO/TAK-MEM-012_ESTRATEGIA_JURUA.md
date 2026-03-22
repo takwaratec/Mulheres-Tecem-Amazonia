@@ -34,7 +34,7 @@ As seguintes coordenadas devem ser integradas ao SGMAS Plotter para monitorament
 - **Eixo Purus (Vizinhança):** `3° 40′ 55″ S, 61° 28′ 31″ O` (Monitoramento de vulnerabilidades)
 
 ## 5. Próximos Passos
-1. Inclusão do Relatório Técnico [RES_analise-geoestrategica-jurua.md](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/02_TECNICO/02_ESTUDOS_E_PESQUISAS/RES_analise-geoestrategica-jurua.md) no acervo oficial.
+1. Inclusão do Relatório Técnico [RES_analise-geoestrategica-jurua.md](../../02_TECNICO/02_ESTUDOS_E_PESQUISAS/RES_analise-geoestrategica-jurua.md) no acervo oficial.
 2. Atualização das métricas de vulnerabilidade no SGMAS Plotter com base nos índices identificados (66,6% pobreza no Purus).
 3. Integração dos valores de frete logístico identificados (R$ 610,00/trecho).
 

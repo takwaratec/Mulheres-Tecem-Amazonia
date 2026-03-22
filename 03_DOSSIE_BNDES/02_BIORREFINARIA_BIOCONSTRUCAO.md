@@ -40,6 +40,6 @@ A sinergia entre o bambu, a pirólise e o saneamento representa o estado da arte
 ### 📚 Referências Estratégicas (P&D)
 Para o detalhamento técnico e científico dos conceitos apresentados neste componente, consulte os resumos estratégicos consolidados no acervo digital:
 
-- [**Resumo Estratégico: Bio-Soberania e Saneamento Ecológico**](../04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/WTF_RES_00000058_proposta_estruturante_de_bio_soberania_nacional_transformando_passivos_em_ativos_regenerativospdf.md): Defesa do BSM/BER e mitigação de doenças hídricas (DRSAI).
-- [**Resumo Estratégico: Geodésicas de Bambu (UTFPR/IFPR)**](../04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/WTF_RES_2018_geodesicas_de_bambupdf.md): Validação da eficiência estrutural e relação resistência/peso do bambu arborescente.
-- [**Resumo Estratégico: Poliuretano Vegetal MAMONEX® RD70**](../04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/WTF_RES_ft_mamonex_rd70pdf.md): Especificações do biopolímero para reforço estrutural e justificativa de CAPEX (Airless).
+- [**Resumo Estratégico: Bio-Soberania e Saneamento Ecológico**](../04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/01_CIENTIFICO/TECNOLOGIA/WTF_RES_00000058_proposta_estruturante_de_bio_soberania_nacional_transformando_passivos_em_ativos_regenerativospdf.md): Defesa do BSM/BER e mitigação de doenças hídricas (DRSAI).
+- [**Resumo Estratégico: Geodésicas de Bambu (UTFPR/IFPR)**](../04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/01_CIENTIFICO/TECNOLOGIA/WTF_RES_2018_geodesicas_de_bambupdf.md): Validação da eficiência estrutural e relação resistência/peso do bambu arborescente.
+- [**Resumo Estratégico: Poliuretano Vegetal MAMONEX® RD70**](../04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/01_CIENTIFICO/TECNOLOGIA/WTF_RES_ft_mamonex_rd70pdf.md): Especificações do biopolímero para reforço estrutural e justificativa de CAPEX (Airless).

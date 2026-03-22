@@ -41,10 +41,10 @@
 
 | Documento Existente | Complementação Sugerida | Fonte na Triagem |
 |:---------------------|:------------------------|:-----------------|
-| [RES_analise-geoestrategica-jurua.md](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/02_TECNICO/02_ESTUDOS_E_PESQUISAS/RES_analise-geoestrategica-jurua.md) | Adicionar tabela de calados mínimos por rio e especificações de propulsão solar/vapor. | Arquivos 1 e 2 |
-| [RES_biochar-cascateamento.md](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/02_TECNICO/02_ESTUDOS_E_PESQUISAS/RES_biochar-cascateamento.md) | Integrar dados de briquetagem (poder calorífico, custos, payback). | Arquivo 2 |
-| [RES_pesquisa-bambu-indigenas-georreferenciamento.md](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/02_TECNICO/02_ESTUDOS_E_PESQUISAS/RES_pesquisa-bambu-indigenas-georreferenciamento.md) | Incorporar dados de 21,8 bilhões de hastes e propriedades mecânicas comparativas. | Arquivo 1 |
-| [TAK-MEM-012](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/TAK-MEM-012_ESTRATEGIA_JURUA.md) | Agregar a hierarquia técnica dos estaleiros artesanais (Mestre → Carpinteiro de Forro → Calafate → Aprendiz). | Arquivo 1 |
+| [RES_analise-geoestrategica-jurua.md](RES_analise-geoestrategica-jurua.md) | Adicionar tabela de calados mínimos por rio e especificações de propulsão solar/vapor. | Arquivos 1 e 2 |
+| [RES_biochar-cascateamento.md](RES_biochar-cascateamento.md) | Integrar dados de briquetagem (poder calorífico, custos, payback). | Arquivo 2 |
+| [RES_pesquisa-bambu-indigenas-georreferenciamento.md](RES_pesquisa-bambu-indigenas-georreferenciamento.md) | Incorporar dados de 21,8 bilhões de hastes e propriedades mecânicas comparativas. | Arquivo 1 |
+| [TAK-MEM-012](../../04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/TAK-MEM-012_ESTRATEGIA_JURUA.md) | Agregar a hierarquia técnica dos estaleiros artesanais (Mestre → Carpinteiro de Forro → Calafate → Aprendiz). | Arquivo 1 |
 | Memorial T10 (Patente Social) | Integrar o quadro de pontos críticos e linhas de validação (hidrodinâmica, balanço térmico, NR-13). | Arquivo 3 |
 
 ---

@@ -5,7 +5,7 @@ Este documento lista os protocolos, habilidades e fluxos de trabalho que regem a
 ## 1. Regras (Rules)
 Localizadas em `01_GOVERNANCA/.agents/rules/`. Estas são as normas que definem o comportamento e as restrições éticas/técnicas.
 
-- **[MASTER_RULES.md](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/01_GOVERNANCA/.agents/rules/MASTER_RULES.md)**: Autoridade suprema do projeto. Define locking de produção, shadow staging e padrões de versionamento.
+- **[MASTER_RULES.md](.agents/rules/MASTER_RULES.md)**: Autoridade suprema do projeto. Define locking de produção, shadow staging e padrões de versionamento.
 - **workspace-rules.md**: Regras gerais do ambiente de trabalho.
 - **regra_versionamento.md**: Protocolos para controle de versão v1.0 (WTF).
 - **firewall_agent.md**: Regras de segurança para proteção de dados sensíveis (especialmente da pasta `99_RESTRITO`).
@@ -18,7 +18,7 @@ Localizadas em `01_GOVERNANCA/.agents/rules/`. Estas são as normas que definem 
 ## 2. Skills (Habilidades)
 Localizadas em `01_GOVERNANCA/.agents/skills/`. Definem as capacidades especializadas do agente.
 
-- **[Protocolo-Mestre.md](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/01_GOVERNANCA/.agents/skills/Protocolo-Mestre.md)**: O roteador principal de todas as skills.
+- **[Protocolo-Mestre.md](.agents/skills/Protocolo-Mestre.md)**: O roteador principal de todas as skills.
 - **Skills por Área**:
     - **advocacy**: Protocolo para criação de conteúdos de denúncia e impacto político (**Advocacy WTF**). Exige rigor factual e alinhamento com as regras de defesa territorial.
     - **annals**: Gestão da obra coletiva do consórcio WFT (2025) e construção de legado futuro, situando documentos nos marcos das três universidades.
@@ -90,4 +90,4 @@ Para que a colaboração ocorra sem alucinações ou termos obsoletos (como COP3
 
 ---
 > [!NOTE]
-> Toda a atuação de IA é pautada pelo **[system_prompt_institucional.txt](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/01_GOVERNANCA/.agents/system_prompt_institucional.txt)**, que exige rigor ético, higiene de ativos e imutabilidade do corpo do texto consolidado. Sustentado pela sigla âncora **WTF**.
+> Toda a atuação de IA é pautada pelo **[system_prompt_institucional.txt](.agents/system_prompt_institucional.txt)**, que exige rigor ético, higiene de ativos e imutabilidade do corpo do texto consolidado. Sustentado pela sigla âncora **WTF**.

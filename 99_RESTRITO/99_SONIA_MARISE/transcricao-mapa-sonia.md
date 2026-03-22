@@ -44,7 +44,7 @@ Assim, os produtos desenvolvidos irão ajudar ao país a cumprir os Objetivos de
 
 ### Mapa Estratégico de Intervenção
 
-![Mapa dos 65 Municípios Prioritários - PPCDAM](/Users/fabioInstitucional/Documents/GitHub/UnB/Mulheres_Bioeconomia_Amazonia/docs/03_COMUNICACAO_MIDIA/MAPA_65_MUNICIPIOS_SONIA.png)
+![Mapa dos 65 Municípios Prioritários - PPCDAM](#) [LEGACY REFERENCE: /Users/fabioInstitucional/Documents/GitHub/UnB/Mulheres_Bioeconomia_Amazonia/docs/03_COMUNICACAO_MIDIA/MAPA_65_MUNICIPIOS_SONIA.png]
 
 ---
 *Documento transcrito automaticamente do Roteiro Geral BNDES para consolidação do modelo 5.1.*

@@ -78,11 +78,11 @@ Para fins de integração com o Sistema de Gestão e Monitoramento (SGMAS), os d
 
 ## 6. Bibliografia e Referências de Dados (Sync-Link)
 
-1. **Ferreira, E. J. L. (2014)**: *O bambu no Acre: ecologia, economia e potencial*. [Acessar PDF (Auditoria)](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/01_SOMBRA_AUDITORIA/04_PROJETO_WTF/01_GOVERNANCA/01_COLABORADORES/Bibliografia_Equipe/Ferreira_2014_Bambu_Acre.pdf)
-2. **Carvalho, A. L. (2015)**: *Mapeamento de bambuzais por sensoriamento remoto*. [TAK-MEM-003](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/TAK-MEM-003_BIOMASS-GEO-ACRE.md)
+1. **Ferreira, E. J. L. (2014)**: *O bambu no Acre: ecologia, economia e potencial*. [Acessar PDF (Auditoria)](../../../../01_SOMBRA_AUDITORIA/04_PROJETO_WTF/01_GOVERNANCA/01_COLABORADORES/Bibliografia_Equipe/Ferreira_2014_Bambu_Acre.pdf)
+2. **Carvalho, A. L. (2015)**: *Mapeamento de bambuzais por sensoriamento remoto*. [TAK-MEM-003](TAK-MEM-003_BIOMASS-GEO-ACRE.md)
 3. **Nelson, B. W. (2001)**: *Dinâmicas de clareiras e ciclos de floração*. (Science/INPA Data).
-4. **IMAC (2015)**: *Instrução Normativa nº 10/2015 - Manejo Sustentável de Bambu*. [Base Regulatória](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/01_GOVERNANCA/02_JURIDICO/IN_10_2015_IMAC.pdf)
-5. **Relatórios AMAAIAC/CPI-Acre**: Etnomapeamento e gestão florestal em terras indígenas. [TAK-MEM-003-REF](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/TAK-MEM-003_BIOMASS-GEO-ACRE.md)
+4. **IMAC (2015)**: *Instrução Normativa nº 10/2015 - Manejo Sustentável de Bambu*. [Base Regulatória](../../../../01_GOVERNANCA/02_JURIDICO/IN_10_2015_IMAC.pdf)
+5. **Relatórios AMAAIAC/CPI-Acre**: Etnomapeamento e gestão florestal em terras indígenas. [TAK-MEM-003-REF](TAK-MEM-003_BIOMASS-GEO-ACRE.md)
 
 ---
 **Nota Final**: Esta consolidação exaustiva serve como o "Documento Bruto Higienizado". As Notas Técnicas de suporte ao Projeto WTF devem citar este arquivo como fonte primária de dados.

@@ -8,7 +8,7 @@ This checklist tracks the technical triage of PDF documents from the legacy Somb
     - *Source File:* `MARIANA-LOPES.pdf` (UENF - OSB/Bambú/Imperveg)
     - *Supplementary:* `0001 ENSAIOS IMPERVEG- CIV-Anna Carolina Aiex Naccache.pdf` (PUC-RJ - Concreto/Bambú/Imperveg)
     - *Supplementary:* `2020 - Conexao nervurada UFMG.pdf` (UFMG - Patente Conexão)
-    - *Transcript:* [UTF8_Imperveg_UFMG.txt](file:///Users/fabioInstitucional/Documents/GitHub/UnB/Mulheres_Bioeconomia_Amazonia/01_SOMBRA_AUDITORIA/04_PROJETO_WTF/03_PESQUISA_EM_ANDAMENTO/TRANSCRIPT/UTF8_Imperveg_UFMG.txt)
+    - *Transcript:* [UTF8_Imperveg_UFMG.txt](#) [LEGACY REFERENCE: 01_SOMBRA_AUDITORIA/04_PROJETO_WTF/03_PESQUISA_EM_ANDAMENTO/TRANSCRIPT/UTF8_Imperveg_UFMG.txt]
     - *Status:* Extracted and Analyzed (2026-03-17)
 
 - [ ] **Bambu reto- Relatorio Tecnico (UFMG - Estabilizagem)**
