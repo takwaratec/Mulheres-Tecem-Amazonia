@@ -1,0 +1,50 @@
+site_name: "Mulheres Que Tecem a Floresta — Acervo Científico"
+site_url: "https://takwaratec.github.io/Mulheres-Tecem-Amazonia/"
+repo_url: "https://github.com/takwaratec/Mulheres-Tecem-Amazonia"
+edit_uri: ""
+
+theme:
+  name: material
+  language: pt-BR
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: teal
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: teal
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+  - attr_list
+
+nav:
+  - Hub Científico: index.md
+  - Projeto Integrado: 01_GOVERNANCA/PROJETO_INTEGRADO.md
+  - Alinhamento BNDES: 01_GOVERNANCA/TAK-MEM-013.md
+  - Dossiê BNDES:
+      - Resumo Executivo: 03_DOSSIE_BNDES/00_RESUMO_EXECUTIVO.md
+      - Cadeias de Valor: 03_DOSSIE_BNDES/01_CADEIAS_VALOR.md
+      - Biorrefinaria & Bioconstrução: 03_DOSSIE_BNDES/02_BIORREFINARIA_BIOCONSTRUCAO.md
+      - Artesanato & Saberes: 03_DOSSIE_BNDES/03_ARTESANATO_SABERES.md
+      - Governança Operacional: 03_DOSSIE_BNDES/04_GOVERNANCA_OPERACIONAL.md
+  - Anexos:
+      - Planejamento Financeiro: 01_GOVERNANCA/05_ANEXOS/ANEXO_I_PLANILHA_ORCAMENTARIA.md
+      - Monitoramento SGMAS: 01_GOVERNANCA/05_ANEXOS/ANEXO_IV_TR_MRV_SMGA.md
+  - Referências: bibliografia.md
+
+extra:
+  return_to_dashboard: "../../index.html"
