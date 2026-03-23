@@ -2,7 +2,6 @@
 
 **Consórcio:** UnB / UFAC / UFRR | **Fonte:** BNDES (Fundo Amazônia/Clima) | **Coord. Geral:** Prof. Dra. Tânia Cruz
 
----
 
 ## 🚀 Visão Geral
 O projeto **Mulheres Que Tecem a Floresta** é uma iniciativa sistêmica de bioeconomia regenerativa voltada ao empoderamento de mulheres amazônidas e à restauração da saúde pública ambiental. A estratégia baseia-se na **Bio-Soberania Nacional**, transformando passivos ambientais em ativos produtivos através de polos comunitários autônomos.
@@ -22,9 +21,6 @@ A integração tecnológica do projeto ocorre em três frentes complementares de
 ## 📈 Impacto Esperado
 Alinhado ao **PPCDAm** e à **Nova Indústria Brasil**, o projeto mitiga o desmatamento, gera renda digna e posiciona a Amazônia Sul-Ocidental como polo global de tecnologias sociais, garantindo a perenidade do sistema através da apropriação tecnológica feminina.
 
----
 *Consórcio Interinstitucional UnB / UFAC / UFRR — Março 2026*
 
 
----
-[**← Voltar ao Hub Científico**](/index.md)

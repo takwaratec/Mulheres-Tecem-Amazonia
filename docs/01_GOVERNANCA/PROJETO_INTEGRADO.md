@@ -6,14 +6,12 @@
 
 **Duração:** 48 meses **Orçamento BNDES Solicitado:** R$ 30.000.000 **Investimento Aplicado (CAPEX/OPEX):** R$ 25.000.000 (Líquido) **Contrapartida não financeira:** R$ 4.000.000 **Valor Total do Projeto:** R$ 34.000.000
 
----
 
 ## 1. IDENTIFICAÇÃO DO PROJETO
 
 ### 1.1. Dados Cadastrais
 
 | Campo | Informação |
-| ----- | ----- |
 | **Nome do Projeto** | Mulheres Que Tecem a Floresta – Consórcio para Bioeconomia Feminina na Amazônia Legal |
 | **Proponente** | Consórcio Interinstitucional UnB/UFAC/UFRR |
 | **Instituição Líder** | Universidade de Brasília – UnB |
@@ -25,7 +23,6 @@
 | **Público-alvo Direto** | **1.050 famílias**, com protagonismo de mulheres em cooperativas/associações |
 | **Prazo de Execução** | 48 meses a partir da assinatura do convênio |
 
----
 
 ## 2. CONTEXTO E JUSTIFICATIVA
 
@@ -57,7 +54,6 @@ O projeto alinha-se integralmente a:
 * **Coopera+ Amazônia (BNDES/Sebrae):** Foco em cooperativas de mulheres, castanha, açaí, babaçu, formação de Agentes Locais de Inovação (ALICoop).  
 * **Fundo Amazônia – Eixos de Bioeconomia e Infraestrutura Comunitária:** Apoio a sistemas produtivos sustentáveis, capacitação, monitoramento geoespacial (MRV).
 
----
 
 ## 3. OBJETIVOS
 
@@ -74,7 +70,6 @@ Promover o empoderamento econômico de mulheres amazônidas por meio da estrutur
 5.  **Garantir autonomia logística** com veículos 4x4 (micro-ônibus e caminhão) e transporte fluvial (T10) para insumos e produtos.
 6.  **Estabelecer sistema de MRV** (Monitoramento, Relato e Verificação) geoespacial para manejo de bambu e rastreabilidade da produção.
 
----
 
 ## 4. ESTRATÉGIA METODOLÓGICA
 
@@ -160,14 +155,12 @@ Coordenação Geral (Prof. Dra. Tânia Cruz)
 * **Equidade:** Distribuição justa de receitas, acesso igualitário à formação e aos benefícios.  
 * **Sustentabilidade:** Modelo desenhado para autossuficiência operacional após 48 meses, com receitas de cursos pagos (canteiro-escola) e comercialização de produtos.
 
----
 
 ## 5. RESULTADOS ESPERADOS E INDICADORES
 
 ### 5.1. Produtos (Entregas Físicas)
 
 | Produto | Meta 48 meses |
-| ----- | ----- |
 | Canteiro-Escola instalado e operando em Rio Branco | 1 unidade (TRL 7–8) |
 | Polos comunitários aparelhados e operacionais | 5 unidades |
 | Mulheres formadas e certificadas | 100 |
@@ -178,7 +171,6 @@ Coordenação Geral (Prof. Dra. Tânia Cruz)
 ### 5.2. Resultados Operacionais (Produção e Renda)
 
 | Indicador | Meta Anual (Ano 4) |
-| ----- | ----- |
 | Castanha beneficiada (t/ano) | 150 |
 | Açaí processado – polpa (t/ano) | **250** (50t por polo/hub) |
 | Artesanato (peças/ano) | 3.000 |
@@ -191,7 +183,6 @@ Coordenação Geral (Prof. Dra. Tânia Cruz)
 ### 5.3. Resultados Climáticos e Ambientais
 
 | Indicador | Meta 48 meses |
-| ----- | ----- |
 | Toneladas de CO₂e evitadas/ano (substituição fósseis + biochar) | 2.500 |
 | Área de bambuzal sob manejo sustentável (ha) | 15.000 |
 | Redução de dependência de diesel/GLP nos polos (%) | 60% |
@@ -200,14 +191,12 @@ Coordenação Geral (Prof. Dra. Tânia Cruz)
 ### 5.4. Resultados de Capacitação e Governança
 
 | Indicador | Meta 48 meses |
-| ----- | ----- |
 | Mulheres formadas e certificadas (Meses 6 a 42) | 100 |
 | Canteiro-Escola Hub Rio Branco instalado (**T01-T09**) | 1 unidade (TRL 7–8) |
 | Polos comunitários operacionais (**T10/T11**) | 5 unidades |
 | Unidades de Saneamento Ecológico (**T12 BSM/BER**) | 10 unidades |
 | Tempo reservado para auditoria e encerramento | 6 meses finais |
 
----
 
 ## 6. PLANO DE MONITORAMENTO, RELATO E VERIFICAÇÃO (MRV)
 
@@ -250,7 +239,6 @@ Coordenação Geral (Prof. Dra. Tânia Cruz)
 * **Relatórios técnicos semestrais** com fotos, vídeos, depoimentos e dados quantitativos.  
 * **Publicação científica:** Artigos revisados por pares sobre metodologia, impactos e lições aprendidas.
 
----
 
 ## 7. SUSTENTABILIDADE E ESCALABILIDADE PÓS-48 MESES
 
@@ -279,26 +267,22 @@ O modelo está desenhado para replicação:
 * **Rede de mulheres:** 100+ mulheres formadas, atuando como multiplicadoras e mentoras de novas turmas.  
 * **Acervo de conhecimento:** Publicações, protocolos, vídeos, manuais de domínio público.
 
----
 
 ## 8. CRONOGRAMA DE EXECUÇÃO (48 MESES)
 
 ### FASE 1: ESTRUTURAÇÃO E IMPLANTAÇÃO (Meses 1–12)
 
 | Macro-Fase / Ano | ANO 1 | ANO 2 | ANO 3 | ANO 4 |
-| :--- | :---: | :---: | :---: | :---: |
 | **Fase 1: Estruturação e Hub Rio Branco** | █ █ █ █ | | | |
 | **Fase 2: Expansão para 5 Polos (T10/T11)** | | █ █ █ █ | █ █ █ █ | |
 | **Fase 3: Maturação e Créditos de Carbono** | | | █ █ █ █ | █ █ █ █ |
 | **Fase 4: Autossuficiência e Encerramento** | | | | █ █ █ █ |
 | **Treinamento 100 Mulheres (M6-M42)** | | █ █ █ █ | █ █ █ █ | █ █ █ |
 
----
 
 ## 9. GESTÃO DE RISCOS
 
 | Risco | Probabilidade | Impacto | Mitigação |
-| ----- | ----- | ----- | ----- |
 | **Atraso em licitações e obras** | Média | Alto | Planejamento antecipado; equipe administrativa experiente; uso de regimes de contratação ágeis |
 | **Dificuldades logísticas (seca/cheia)** | Alta | Médio | Aquisição de veículos 4x4; estoque estratégico de insumos; flexibilização de cronograma |
 | **Resistência cultural à liderança feminina** | Baixa | Médio | Trabalho pedagógico prévio; envolvimento de lideranças comunitárias; sensibilização de gênero |
@@ -307,7 +291,6 @@ O modelo está desenhado para replicação:
 | **Baixa adesão de mulheres ao programa** | Baixa | Alto | Bolsas atrativas; infraestrutura de acolhimento; comunicação efetiva; apoio psicossocial |
 | **Problemas de governança cooperativa** | Média | Alto | Assistência técnica continuada; mediação de conflitos; capacitação em gestão democrática |
 
----
 
 ## 10. ARRANJOS INSTITUCIONAIS E PARCERIAS
 
@@ -331,14 +314,12 @@ O modelo está desenhado para replicação:
 * **Termos de Cooperação** com cooperativas/associações, estabelecendo direitos, deveres e governança compartilhada.  
 * **Contratos de Prestação de Serviços** com consultorias especializadas (ATER, design, jurídico).
 
----
 
 ## 11. CONTRAPARTIDA E APROPRIAÇÃO TECNOLÓGICA
 
 ### 11.1. Contrapartida Não Financeira (R$ 4.000.000)
 
 | Item | Descrição | Valor Estimado (R$) |
-| ----- | ----- | ----- |
 | **Tecnologia e Propriedade Intelectual** | Projetos técnicos, filosofia construtiva, protocolos de manejo de bambu, metodologias publicadas de domínio público | 2.000.000 |
 | **Horas de P&D Prévio** | Pesquisa acumulada em bambu, bioenergia, pirólise, saneamento ecológico (UnB/UFAC/UFRR) | 1.500.000 |
 | **Infraestrutura Universitária** | Uso de laboratórios, salas, equipamentos das universidades parceiras para capacitações e validações | 500.000 |
@@ -350,7 +331,6 @@ O modelo está desenhado para replicação:
 * Protocolos técnicos e manuais disponibilizados sob licença Creative Commons (CC BY 4.0).  
 * Sem depósito de novas patentes que restrinjam uso comunitário; conhecimento é bem comum.
 
----
 
 ## 12. CONSIDERAÇÕES FINAIS
 
@@ -373,13 +353,11 @@ Com R$ 30 milhões solicitados ao BNDES (R$ 25 milhões líquidos aplicados em C
 
 Este memorando técnico e de governança estabelece as bases para execução, monitoramento e prestação de contas, alinhado integralmente às diretrizes do **Fundo Amazônia, BNDES** e programas de bioeconomia feminina em curso.
 
----
 
 **Elaboração:** Coordenação Geral – Consórcio UnB/UFAC/UFRR 
 
 Brasília/DF, 16 de março de 2026
 
----
 
 **Anexos Disponíveis:**
 
@@ -392,5 +370,3 @@ Brasília/DF, 16 de março de 2026
 * **Anexo VII:** [Referências Bibliográficas e Publicações Prévias](05_ANEXOS/ANEXO_VII_REFERENCIAS_BIBLIOGRAFICAS.md)
 
 
----
-[**← Voltar ao Hub Científico**](/index.md)

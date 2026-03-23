@@ -2,7 +2,6 @@
 
 **Base Científica e Técnica do Projeto (Consolidado 2026)**
 
----
 
 ## 1. BIOECONOMIA E SOCIOBIODIVERSIDADE (GESTÃO)
 - **ARAÚJO, V. F.; FERKO, G. P. S.; CARVALHO, S. M. S.; CRUZ, T. C.** VABICT: Componente-chave para Modelos de Negócio, ICTs e Lei de Inovação. In: Inovação e Bioeconomia em Rede. Editora Omnis Scientia, 2024.
@@ -38,10 +37,7 @@
 - **TRG_MARCOS_REGULATORIOS.** Proposta Técnica: Marcos Regulatórios para Bioeconomia e Soberania. 2026.
 - **UNB/UFAC/UFRR.** Proposta Estruturante de Bio-Soberania Nacional: Transformando Passivos em Ativos Regenerativos. 2025. (Dossiê BNDES).
 
----
 **Nota de Acervo:** A lista completa de 200+ referências técnicas está disponível no diretório `99_RESTRITO/02_REFERENCIAS_EXTERNAS/`.
 Referência: [PVI_index-referencias.md](../../99_RESTRITO/02_REFERENCIAS_EXTERNAS/PVI_index-referencias.md)
 
 
----
-[**← Voltar ao Hub Científico**](/index.md)

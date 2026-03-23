@@ -2,7 +2,6 @@
 
 **Objeto:** Desenvolvimento e implantação de plataforma de Monitoramento, Relato e Verificação (MRV) para o projeto BNDES.
 
----
 
 ## 1. OBJETIVOS DO SISTEMA
 - Rastrear a regeneração e manejo sustentável de bambuzais nativos (Guadua).
@@ -16,16 +15,12 @@
 
 ## 3. PRINCIPAIS INDICADORES
 | Indicador | Fonte de Dados | Frequência |
-| :--- | :--- | :--- |
 | **Cobertura Florestal** | Satélite (SMGA) | Mensal |
 | **Sequestro de Carbono** | Ensaios Químicos + Volume Biochar | Trimestral |
 | **Produção de Bioinsumos** | Notas de Campo (Polos) | Diário |
 | **Impacto Socioeconômico** | Censo de Turmas (Bolsistas) | Semestral |
 
----
 **Coordenação:** Profa. Dra. Georgia Ferko (UnB).
 Referência: [04_GOVERNANCA_OPERACIONAL.md](../../03_DOSSIE_BNDES/04_GOVERNANCA_OPERACIONAL.md)
 
 
----
-[**← Voltar ao Hub Científico**](/index.md)

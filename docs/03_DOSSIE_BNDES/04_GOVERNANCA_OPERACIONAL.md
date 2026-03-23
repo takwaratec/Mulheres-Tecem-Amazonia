@@ -16,7 +16,6 @@ A viabilidade operacional do projeto é centralizada no **Canteiro-Escola de Rio
 ## 3. Compliance e Monitoramento (MRV)
 A governança institucional garante total transparência na aplicação dos recursos do BNDES/Fundo Amazônia. Através de sistemas de Monitoramento, Relato e Verificação (MRV) geoespacial, o projeto rastreia os impactos em sequestro de carbono, regeneração de bambuzais e indicadores socioeconômicos, assegurando o cumprimento integral dos marcos regulatórios da biodiversidade (Lei 13.123/2015) e dos protocolos de consulta prévia.
 
----
 **Coordenação Geral de P&D**  
 *Consórcio Interinstitucional UnB / UFAC / UFRR — 2026*
 
@@ -27,5 +26,3 @@ Para o detalhamento técnico e científico dos conceitos apresentados neste comp
 - [**Resumo Estratégico: Bioeconomia no Amazonas (CTI/MCTI)**](../04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/01_CIENTIFICO/TECNOLOGIA/WTF_RES_00000041_nota_tecnica_001_bioeconomia_cti_bioeconomia_no_amazonaspdf.md): Alinhamento com as políticas nacionais de tecnologia social e bioinsumos.
 
 
----
-[**← Voltar ao Hub Científico**](/index.md)

@@ -5,6 +5,7 @@ edit_uri: ""
 
 theme:
   name: material
+  custom_dir: docs/overrides
   language: pt-BR
   palette:
     - media: "(prefers-color-scheme: dark)"
@@ -23,6 +24,8 @@ theme:
     - search.suggest
     - search.highlight
     - content.code.copy
+
+copyright: "Made With Mulheres que Tecem a Floresta - WTF - 2026 - CCBY4.0"
 
 markdown_extensions:
   - admonition

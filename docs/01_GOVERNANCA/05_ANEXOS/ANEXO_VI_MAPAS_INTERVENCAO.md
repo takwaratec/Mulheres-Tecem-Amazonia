@@ -2,7 +2,6 @@
 
 **Referência Visual:** Plataforma **SGMAS Plotter (Sovereignty Totality)**
 
----
 
 ## 1. REDE DE INTERVENÇÃO (EIXO AC/AM/RR)
 O projeto atua em uma rede descentralizada composta por:
@@ -19,10 +18,7 @@ O projeto atua em uma rede descentralizada composta por:
 ## 3. MONITORAMENTO GEOESPACIAL (SMGA)
 Toda a área de manejo de bambu e os polos construídos são georreferenciados no sistema de MRV, garantindo a visualização da "Pegada de Regeneração" do projeto.
 
----
 **Nota:** O link para o mapa interativo (SGMAS Plotter) será disponibilizado para auditoria do BNDES.
 Referência: [sgmas_plotter.html](../sgmas_plotter.html)
 
 
----
-[**← Voltar ao Hub Científico**](/index.md)

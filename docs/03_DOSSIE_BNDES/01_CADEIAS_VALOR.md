@@ -17,7 +17,6 @@ O componente opera através de agroindústrias compactas e modulares, projetadas
 ## 3. Impacto Social e Redes de Cooperação
 Sob a liderança da Profa. Sonia, o projeto atua na formação técnica de mulheres para a operação dessas agroindústrias. A capacitação em boas práticas de fabricação (BPF) e gestão cooperativa assegura que o protagonismo feminino se traduza em qualidade técnica e competitividade comercial, alinhando-se às metas de bioeconomia do BNDES.
 
----
 **Coordenação Geral de P&D**  
 *Consórcio Interinstitucional UnB / UFAC / UFRR — 2026*
 
@@ -28,5 +27,3 @@ Para o detalhamento técnico e científico dos conceitos apresentados neste comp
 - [**Resumo Estratégico: Linha de Beneficiamento UNNI Máquinas**](../04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/01_CIENTIFICO/BIOECONOMIA/WTF_RES_unni_maquinas___linha_completa_para_beneficiamento_de_castanha_do_brasil_castanha_do_parapdf.md): Especificações técnicas e benchmark de CAPEX para agroindústria de castanha.
 
 
----
-[**← Voltar ao Hub Científico**](/index.md)

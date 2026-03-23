@@ -5,7 +5,6 @@
 **Assunto:** Alinhamento de Inventos, CAPEX e Plano de Trabalho (Prazo 23-03)
 **Data:** 22 de Março de 2026
 
----
 
 ## 1. RESUMO DA INTERPRETAÇÃO E ESTRATÉGIA
 
@@ -24,12 +23,10 @@ Conforme diretriz, o projeto "Mulheres Que Tecem a Floresta" será consolidado s
     - **Coordenação de Campo e Balsa T10:** Operação fluvial e mobilização comunidades (Sob gestão da Prof. Tânia).
 - **Lógica:** O CAPEX do Núcleo Takwara fornece a "máquina", enquanto os orçamentos das demais coordenadoras financiam a "unidade de campo" (incrementos).
 
----
 
 ## 2. MAPEAMENTO DE INVENTOS E CRONOGRAMA
 
 | Código | Invenção | Responsabilidade | Cronograma (Meses) |
-| :--- | :--- | :--- | :--- |
 | **T01-T04** | Biorrefinaria & Caldeira | Takwara (RB) | 1–6 (Implantação Hub) |
 | **T05-T08** | Prensas & Tambores | Takwara (RB) | 4–12 (Produção Módulos) |
 | **T09** | Escariador de Nós | Takwara (RB) | 1–3 (Preparação) |
@@ -37,7 +34,6 @@ Conforme diretriz, o projeto "Mulheres Que Tecem a Floresta" será consolidado s
 | **T11** | Domo-Fábrica | Integrado (Multi) | 7–48 (Polos 1 a 5) |
 | **T12** | BSM (Saneamento) | Takwara (Eng) | 1–24 (Início Imediato) |
 
----
 
 ## 3. RELATÓRIO DE ATIVIDADES CONCLUÍDAS (22-03)
 
@@ -48,11 +44,8 @@ Para garantir a veiculação sem "furos" para a coordenação geral, as seguinte
 3.  **[OK] Fechamento do Memorial Master:** Documento [PROJETO INTEGRADO](PROJETO%20INTEGRADO%20-%20MULHERES%20QUE%20TECEM%20A%20FLORESTA.md) atualizado com a nova lógica fiscal.
 4.  **[OK] Consolidação das Sobras:** Simulação de R$ 25M líquido realizada com contingências. Ver: [Simulação Orçamentária](02_ORCAMENTO_E_LOGISTICA/BUDGET_simulacao-operacional-25m.md).
 
----
 
 **Equipe de Engenharia Social - Núcleo Takwara**
 Referência: [PROJETO INTEGRADO - MULHERES QUE TECEM A FLORESTA.md](PROJETO%20INTEGRADO%20-%20MULHERES%20QUE%20TECEM%20A%20FLORESTA.md)
 
 
----
-[**← Voltar ao Hub Científico**](/index.md)

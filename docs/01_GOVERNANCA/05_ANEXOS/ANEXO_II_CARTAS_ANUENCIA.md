@@ -2,7 +2,6 @@
 
 **Finalidade:** Formalizar a concordância das Cooperativas e Associações de Mulheres com os termos do projeto e sua participação no consórcio.
 
----
 
 ## 📄 Template de Carta de Anuência
 
@@ -25,12 +24,9 @@ __________________________________________
 [Nome Completo]
 [CPF]
 
----
 **Relação de Cooperativas Identificadas (Preliminar):**
 - Cooperativa de Mulheres do Juruá (Cruzeiro do Sul)
 - Associação de Artesãs de Rio Branco
 - [Lista a ser complementada pela Coordenação de Campo]
 
 
----
-[**← Voltar ao Hub Científico**](/index.md)

@@ -2,7 +2,6 @@
 
 **Equipe Estruturante UnB / UFAC**
 
----
 
 ### 1. Coordenação Institucional e de Governança
 
@@ -47,10 +46,7 @@
 - **Papel:** Desenvolvimento do Sistema de Monitoramento Geoespacial Amazônico (SMGA/MRV).
 - **Expertise:** Design de cadeias de valor soberanas, monitoramento por satélite (PROFNIT/PROCISA) e análise de impacto socioambiental.
 
----
 **Nota:** Currículos Lattes detalhados serão anexados na versão oficial de submissão.
 Referência: [01_COLABORADORES](../01_COLABORADORES)
 
 
----
-[**← Voltar ao Hub Científico**](/index.md)
