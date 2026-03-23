@@ -1,0 +1,11 @@
+# Project Specific
+COLECAO_ZENODO_WTF_2026/
+99_RESTRITO/
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# Documentation/Artifacts (Private)
+.gemini/
+.agents/

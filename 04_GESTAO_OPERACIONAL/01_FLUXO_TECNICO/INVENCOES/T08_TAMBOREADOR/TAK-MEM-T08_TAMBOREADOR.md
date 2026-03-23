@@ -8,21 +8,21 @@ author:
 - affiliation: Universidade de Brasília / Núcleo Takwara
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
-date: '2026-03-06'
+date: '2026-03-22'
 doi: 10.5281/zenodo.18827106
 keywords:
-- patente
+- patente social
 - tamboreador
 - bambu guadua
 - lixamento mecânico
 - bioeconomia
 ---
 
-# Memorial de Patente: Tamboreador de Varas de Bambu com Abrasão Térmica T08
+# Memorial Técnico: Tamboreador de Varas de Bambu com Abrasão Térmica T08
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-![Status](https://img.shields.io/badge/status-Finalizado%20(Restrito)-red)
+![Status](https://img.shields.io/badge/status-CONSOLIDADO%20WTF-blue)
 
 ---
 
@@ -49,6 +49,21 @@ O equipamento compreende um cilindro rotativo de aço carbono perfurado de **6 m
 2. **EQUIPAMENTO**, de acordo com a reivindicação 1, caracterizado pelas **aletas internas defletoras** helicoidais a 15°.
 3. **EQUIPAMENTO**, de acordo com a reivindicação 1, caracterizado pela capacidade de carga de **24 colmos**, sincronizando o fluxo com dois módulos resinadores (T03).
 4. **EQUIPAMENTO**, de acordo com a reivindicação 1, caracterizado pelo **sistema de aspiração industrial integrado** com ciclone separador para captura longitudinal de particulados.
+
+---
+
+## 4. Bill of Materials (BoM) - Componentes Críticos
+
+| Item | Componente | Especificação Técnica | Qtd |
+| :--- | :--- | :--- | :--- |
+| 4.1 | Tambor Principal | Chapa Perfurada Aço A36 (6m x 1.2m) | 01 |
+| 4.2 | Motorização | Motor Elétrico Trifásico 5CV com Redutor (1:40) | 01 |
+| 4.3 | Sistema de Aspiração | Exaustor Centrífugo 2CV + Coifa de Captação | 01 |
+| 4.4 | Ciclone Separador | Estrutura de Inércia para Pó de Sílica | 01 |
+| 4.5 | Lifters (Aletas) | Barras Chatas de Inox ou Carbono Reforçado | 24 |
+| 4.6 | Bancada de Apoio | Estrutura de Viga U e Rolamentos Industriais | 01 |
+
+---
 
 ---
 

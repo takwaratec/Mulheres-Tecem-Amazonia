@@ -8,18 +8,20 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
     <style>
         :root {
-            --bg: #0a0f1a;
-            --bg2: #111827;
-            --bg3: #1e293b;
-            --text: #e2e8f0;
+            --bg: #050810;
+            --bg2: #0d111b;
+            --bg3: #1a2333;
+            --text: #f1f5f9;
             --text2: #94a3b8;
             --accent: #2dd4bf;
             --accent2: #a78bfa;
+            --accent3: #fbbf24;
             --red: #f43f5e;
             --gold: #fbbf24;
             --blue: #38bdf8;
-            --border: #334155;
-            --card: rgba(30,41,59,0.6);
+            --border: rgba(51, 65, 85, 0.4);
+            --card: rgba(26, 35, 51, 0.5);
+            --glass: rgba(15, 23, 42, 0.7);
         }
         * { margin:0; padding:0; box-sizing:border-box; }
         html { scroll-behavior: smooth; }
@@ -134,22 +136,40 @@
         /* CARDS */
         .card-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; }
         .card {
-            background: var(--card); border: 1px solid var(--border);
-            border-radius: 12px; padding: 24px;
-            transition: transform 0.2s, border-color 0.2s;
+            background: var(--card);
+            border: 1px solid var(--border);
+            border-radius: 16px; 
+            padding: 28px;
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            overflow: hidden;
         }
-        .card:hover { transform: translateY(-3px); border-color: var(--accent); }
-        .card-icon { font-size: 1.8rem; margin-bottom: 12px; }
-        .card h4 { font-size: 0.9rem; font-weight: 800; margin-bottom: 6px; }
-        .card p { font-size: 0.8rem; color: var(--text2); line-height: 1.5; }
+        .card::before {
+            content: '';
+            position: absolute; top:0; left:0; width:100%; height: 2px;
+            background: linear-gradient(90deg, transparent, var(--accent), transparent);
+            opacity: 0; transition: opacity 0.3s;
+        }
+        .card:hover {
+            transform: translateY(-8px);
+            border-color: var(--accent);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.4);
+        }
+        .card:hover::before { opacity: 1; }
+        .card-icon { font-size: 2.2rem; margin-bottom: 16px; filter: drop-shadow(0 0 8px rgba(45,212,191,0.3)); }
+        .card h4 { font-size: 1rem; font-weight: 800; margin-bottom: 8px; color: #fff; }
+        .card p { font-size: 0.85rem; color: var(--text2); line-height: 1.6; }
         .card .tag {
-            display: inline-block; font-size: 0.55rem; font-weight: 800;
-            text-transform: uppercase; padding: 2px 8px; border-radius: 4px;
-            margin-top: 10px;
+            display: inline-block; font-size: 0.6rem; font-weight: 800;
+            text-transform: uppercase; padding: 4px 10px; border-radius: 6px;
+            margin-top: 14px;
+            letter-spacing: 1px;
         }
-        .tag-critical { background: rgba(244,63,94,0.15); color: var(--red); }
+        .tag-critical { background: rgba(244,63,94,0.15); color: #fda4af; }
         .tag-active { background: rgba(45,212,191,0.15); color: var(--accent); }
-        .tag-ref { background: rgba(167,139,250,0.15); color: var(--accent2); }
+        .tag-ref { background: rgba(167,139,250,0.15); color: #c4b5fd; }
 
         /* TABLE */
         .data-table { width: 100%; border-collapse: collapse; margin: 20px 0; font-size: 0.8rem; }
@@ -162,8 +182,12 @@
             padding: 10px 12px; border-bottom: 1px solid var(--border);
             color: var(--text); font-weight: 500;
         }
-        .data-table tr:hover td { background: rgba(45,212,191,0.04); }
-        .data-table .highlight { color: var(--accent); font-weight: 800; }
+        .data-table tr:hover td { background: rgba(45,212,191,0.06); }
+        .data-table .highlight { 
+            color: var(--accent); 
+            font-weight: 900; 
+            text-shadow: 0 0 10px rgba(45,212,191,0.4);
+        }
 
         /* PLOTTER */
         .plotter-wrap {
@@ -220,6 +244,35 @@
             transition: opacity 0.6s ease, transform 0.6s ease;
         }
         .fade-in.visible { opacity: 1; transform: translateY(0); }
+
+        /* PATTERN OVERLAY */
+        .section-pattern {
+            position: relative;
+            background-image: url('file:///Users/fabiotakwara/.gemini/antigravity/brain/6aa515a7-4f00-441d-b5ab-a8f98f707507/pattern_amazonia_grafismo_v2_1774280624215.png');
+            background-size: 400px;
+            background-repeat: repeat;
+        }
+        .section-pattern::after {
+            content: ''; position: absolute; top:0; left:0; right:0; bottom:0;
+            background: linear-gradient(180deg, var(--bg) 0%, rgba(5,8,16,0.85) 50%, var(--bg) 100%);
+            z-index: 1;
+        }
+        .section-pattern > * { position: relative; z-index: 2; }
+
+        .cta-button {
+            display: inline-block;
+            background: linear-gradient(135deg, var(--accent), var(--blue));
+            color: #000; font-weight: 900; font-size: 0.75rem;
+            text-transform: uppercase; letter-spacing: 1px;
+            padding: 14px 28px; border-radius: 8px;
+            text-decoration: none; margin-top: 30px;
+            transition: all 0.3s;
+            border: none; cursor: pointer;
+        }
+        .cta-button:hover {
+            transform: scale(1.05);
+            box-shadow: 0 0 20px rgba(45,212,191,0.5);
+        }
     </style>
 </head>
 <body>
@@ -230,7 +283,8 @@
     <div class="nav-links">
         <a href="#diagnostico">Diagnóstico</a>
         <a href="#tecnologia">Tecnologia</a>
-        <a href="#soberania">Soberania</a>
+        <a href="#artesanato">Identidade</a>
+        <a href="#formacao">Formação</a>
         <a href="#plotter">SGMAS</a>
         <a href="#referencias">Referências</a>
     </div>
@@ -312,61 +366,113 @@
             <tr><th>Inv.</th><th>Nome</th><th>Função</th></tr>
         </thead>
         <tbody>
-            <tr><td class="highlight">T01</td><td>Canteiro-Escola</td><td>Escola-fábrica de bioconstrução modular</td></tr>
-            <tr><td class="highlight">T02</td><td>Reator de Pirólise</td><td>Biochar + briquetes + extrato pirolenhoso</td></tr>
-            <tr><td class="highlight">T03</td><td>Queimador Rocket</td><td>Combustão de gases não condensáveis (CO, H₂, CH₄)</td></tr>
-            <tr><td class="highlight">T04</td><td>Caldeira Flamotubular</td><td>Vapor a baixa pressão (0 barg)</td></tr>
-            <tr><td class="highlight">T05</td><td>Câmara de Pasteurização</td><td>Processamento térmico embarcado</td></tr>
-            <tr><td class="highlight">T06</td><td>Gabarito Modular</td><td>Moldagem de painéis bio-compósitos</td></tr>
-            <tr><td class="highlight">T07</td><td>Prensa Sanduíche</td><td>Painéis estruturais laminados</td></tr>
-            <tr><td class="highlight">T08</td><td>Matriz de Conformação</td><td>Thermoforming de cascos e estruturas curvas</td></tr>
-            <tr><td class="highlight">T09</td><td>Balsa Ecológica 1 e 2</td><td>Embarcação bio-compósito para logística circular</td></tr>
-            <tr><td class="highlight">T10</td><td>Análise Geoestratégica</td><td>Diagnóstico Juruá-Purus</td></tr>
+            <tr><td class="highlight">T01</td><td>Forno Ecológico</td><td>Carbonização de biomassa Smokeless (Zero Fumaça)</td></tr>
+            <tr><td class="highlight">T02</td><td>Reator Biorrefinaria</td><td>Pirólise lenta e cascateamento térmico multipropósito</td></tr>
+            <tr><td class="highlight">T03</td><td>Resinador Rotativo</td><td>Cura sincronizada de biopolímeros (Frangueira Industrial)</td></tr>
+            <tr><td class="highlight">T04</td><td>Misturador Biocompósitos</td><td>Câmara de mistura com Jato PU (Betoneira Impermeável)</td></tr>
+            <tr><td class="highlight">T05</td><td>Prensa de Cassetes</td><td>Compactação de elementos modulares intercambiáveis</td></tr>
+            <tr><td class="highlight">T06</td><td>Gabarito de Solda</td><td>Alinhamento para pré-fabricação de treliças vegetais</td></tr>
+            <tr><td class="highlight">T07</td><td>Prensa Sanduíche</td><td>Laminados estruturais por carga estática de contrapeso</td></tr>
+            <tr><td class="highlight">T08</td><td>Tamboreador Industrial</td><td>Beneficiamento superficial e captura de sílica ativa</td></tr>
+            <tr><td class="highlight">T09</td><td>Escariador Interno</td><td>Limpeza lúmen e remoção de nós para fluxo de vapor</td></tr>
+            <tr><td class="highlight">T10</td><td>Balsa Catamarã</td><td>Embarcação bio-compósita (Vapor 0-bar) para logística circular</td></tr>
+            <tr><td class="highlight">T11</td><td>Domo-Fábrica</td><td>Arquitetura geodésica em bambu para centros de processamento</td></tr>
+            <tr><td class="highlight">T12</td><td>BSM</td><td>Banheiro Seco Modular (Saneamento Ecológico Soberano)</td></tr>
         </tbody>
     </table>
 
-    <h3>Bio-Compósito Naval: Bambu + PU de Mamona</h3>
-    <table class="data-table">
-        <thead>
-            <tr><th>Parâmetro</th><th>Bio-Compósito</th><th>Aço Naval</th><th>Alumínio</th></tr>
-        </thead>
-        <tbody>
-            <tr><td>Densidade (kg/m³)</td><td class="highlight">450–600</td><td>7.850</td><td>2.700</td></tr>
-            <tr><td>Resistência à Tração (MPa)</td><td class="highlight">150–300</td><td>400–550</td><td>150–250</td></tr>
-            <tr><td>Emissões CO₂ (t/t)</td><td class="highlight">~0</td><td>1,7–2,32</td><td>8–12</td></tr>
-            <tr><td>Manutenção em campo</td><td class="highlight">A frio, PU nacional</td><td>Solda especializada</td><td>Solda + eletricidade</td></tr>
-            <tr><td>Renovabilidade</td><td class="highlight">3–5 anos</td><td>Não renovável</td><td>Não renovável</td></tr>
-        </tbody>
-    </table>
-
-    <h3>Pirólise e Cascateamento Térmico</h3>
-    <div class="card-grid" style="margin-top:16px;">
+    <h3 style="margin-top:40px;">Soberania Alimentar & Bio-Cadeias (Profa. Sonia Marise)</h3>
+    <p style="color:var(--text2); max-width:800px; margin-bottom:20px;">
+        Industrialização na origem para a quebra do paradigma extrativista. O valor agregado permanece na floresta.
+    </p>
+    <div class="card-grid">
         <div class="card">
-            <div class="card-icon">🔥</div>
-            <h4>Biochar (28–32%)</h4>
-            <p>Carbono estável por séculos. Certificável VERRA VM0044. Filtros de água, banheiros ecológicos, regeneração de solos.</p>
+            <div class="card-icon">🥥</div>
+            <h4>Cadeia do Açaí</h4>
+            <p>Polpa pasteurizada e clarificação de óleo. Industrialização descentralizada com baixo impacto hídrico.</p>
+            <span class="tag tag-active">Industrialização na Origem</span>
         </div>
         <div class="card">
-            <div class="card-icon">💎</div>
-            <h4>Carvão Ativado</h4>
-            <p>500–1.200 m²/g de área superficial. Purificação de água potável, remoção de metais pesados.</p>
-        </div>
-        <div class="card">
-            <div class="card-icon">💧</div>
-            <h4>Extrato Pirolenhoso (40–45%)</h4>
-            <p>Defensivo natural, antifúngico para bambu, vapor bactericida para tratamento estrutural.</p>
+            <div class="card-icon">🌰</div>
+            <h4>Cadeia da Castanha</h4>
+            <p>Classificação, secagem e embalagem a vácuo. Redução de 90% na dependência de atravessadores.</p>
+            <span class="tag tag-active">Autonomia Comercial</span>
         </div>
         <div class="card">
             <div class="card-icon">⚡</div>
-            <h4>Briquetes</h4>
-            <p>4.500–6.200 kcal/kg (vs. 2.500–3.500 da lenha). Substitui diesel e GLP nas comunidades.</p>
+            <h4>Simbiose Termoenergética</h4>
+            <p>Aproveitamento de caroços e cascas para gerar calor e vapor (T01/T02) nas unidades autônomas.</p>
+            <span class="tag tag-active">Economia Circular 100%</span>
         </div>
     </div>
 </section>
 
-<!-- SOBERANIA -->
+<!-- ARTESANATO & PATRIMÔNIO -->
+<section id="artesanato" class="fade-in section-pattern">
+    <div class="section-label">03 — Identidade e Patrimônio</div>
+    <h2>Design Colaborativo e Marcas Coletivas</h2>
+    <div class="divider"></div>
+    <p style="color:var(--text2); max-width:800px; margin-bottom:20px;">
+        Sob a coordenação da <strong style="color:#fff">Profa. Georgia Ferko</strong>, o projeto integra o saber ancestral à alta agregação de valor do design sistêmico.
+    </p>
+    <div class="card-grid">
+        <div class="card">
+            <div class="card-icon">🎨</div>
+            <h4>Grafismos e Identidade</h4>
+            <p>Preservação histórica dos traços Kanamari, Mura e Apurinã como base para marcas coletivas de soberania.</p>
+            <span class="tag tag-ref">Patrimônio Imaterial</span>
+        </div>
+        <div class="card">
+            <div class="card-icon">🛰️</div>
+            <h4>Etnomapeamento</h4>
+            <p>Geoprocessamento participativo para identificação de áreas de colheita de fibras, sementes e tabocais.</p>
+            <span class="tag tag-active">Gestão Territorial Participativa</span>
+        </div>
+        <div class="card">
+            <div class="card-icon">👜</div>
+            <h4>Bio-Design e Luxo Sustentável</h4>
+            <p>Artesanato de alta costura utilizando subprodutos da biorrefinaria e fibras naturais certificadas.</p>
+            <span class="tag tag-ref">Agregação de Valor</span>
+        </div>
+    </div>
+</section>
+
+<!-- CANTEIRO-ESCOLA & MORADIA -->
+<section id="formacao" class="fade-in">
+    <div class="section-label">04 — Formação e Moradia</div>
+    <h2>Canteiro-Escola e Bio-Residências (HIS)</h2>
+    <div class="divider"></div>
+    <div class="card-grid">
+        <div class="card">
+            <div class="card-icon">🎓</div>
+            <h4>Metodologia Canteiro-Escola</h4>
+            <p>Aprendizado prático na construção de 5 polos operacionais. Formação técnica, política e cooperativa.</p>
+            <span class="tag tag-active">Pedagogia de Projeto</span>
+        </div>
+        <div class="card">
+            <div class="card-icon">🏠</div>
+            <h4>Bio-Residências (HIS / ATHIS)</h4>
+            <p>Habitação de Interesse Social em bambu e PU vegetal. Protótipos escaláveis de Unidades Autônomas.</p>
+            <span class="tag tag-active">Soberania Habitacional</span>
+        </div>
+        <div class="card">
+            <div class="card-icon">🧱</div>
+            <h4>Módulos Complementares</h4>
+            <p>Sistemas modulares para escolas comunitárias e centros de saúde de rápida implantação.</p>
+            <span class="tag tag-active">Infraestrutura Social</span>
+        </div>
+    </div>
+
+    <div style="text-align:center; margin-top:60px; padding:40px; background:rgba(45,212,191,0.05); border-radius:16px;">
+        <h3 style="margin:0 0 10px 0; color:#fff;">Dossiê Completo: Projeto Integrado</h3>
+        <p style="color:var(--text2);">Acesse o detalhamento estratégico, financeiro e técnico submetido ao BNDES.</p>
+        <a href="03_DOSSIE_BNDES/00_RESUMO_EXECUTIVO.md" class="cta-button">Ver Projeto Integrado (v1.0 WTF)</a>
+    </div>
+</section>
+
+<!-- SINCERIDADE & SOBERANIA -->
 <section id="soberania" class="fade-in">
-    <div class="section-label">03 — Soberania e Ancestralidade</div>
+    <div class="section-label">05 — Soberania e Ancestralidade</div>
     <h2>A Janela que se Fecha</h2>
     <div class="divider"></div>
     <div style="max-width:800px;">
@@ -387,25 +493,40 @@
         </p>
     </div>
 
-    <h3 style="margin-top:40px;">Enquadramento Legal</h3>
+    <h3 style="margin-top:40px;">Enquadramento Legal e Normativo</h3>
     <table class="data-table">
         <thead><tr><th>Marco</th><th>Aplicação</th></tr></thead>
         <tbody>
             <tr><td class="highlight">PPCDAm</td><td>Manejo sustentável de bambu; bioeconomia de floresta em pé</td></tr>
             <tr><td class="highlight">Acordo de Paris / NDC</td><td>Mitigação via biochar e deslocamento de fósseis</td></tr>
             <tr><td class="highlight">Salvaguardas de Cancun</td><td>REDD+ com respeito a povos tradicionais</td></tr>
-            <tr><td class="highlight">OIT 169 / CLPI</td><td>Consentimento Livre, Prévio e Informado</td></tr>
-            <tr><td class="highlight">VERRA VM0044</td><td>Certificação de remoção durável de carbono</td></tr>
+            <tr><td class="highlight">OIT 169 / CLPI</td><td>Consentimento Livre, Prévio e Informado (Obrigatório)</td></tr>
+            <tr><td class="highlight">VERRA VM0044</td><td>Certificação de remoção durável de carbono (Biochar)</td></tr>
             <tr><td class="highlight">ABNT NBR 16828-1</td><td>Norma brasileira de estruturas de bambu</td></tr>
             <tr><td class="highlight">ISO 22157:2019</td><td>Métodos internacionais de ensaio para bambu</td></tr>
         </tbody>
     </table>
+
+    <div class="card-grid" style="margin-top:40px;">
+        <div class="card" style="border-color: var(--accent2);">
+            <div class="card-icon">🧬</div>
+            <h4>P&D: Bio-PU de Mamona</h4>
+            <p>Biopolímero 100% nacional, isento de solventes e resistente a UV. Termos-chave: Oleoquímica, Substituição de Petróleo, Reparo a Frio.</p>
+            <span class="tag tag-active" style="background:rgba(167,139,250,0.15); color:var(--accent2);">Soberania Química</span>
+        </div>
+        <div class="card" style="border-color: var(--accent3);">
+            <div class="card-icon">🍄</div>
+            <h4>P&D: Micélios Amazônicos</h4>
+            <p>Identificação de espécies locais para biocompósitos radiculares. Pesquisa de base em Ipixuna e Cruzeiro do Sul.</p>
+            <span class="tag tag-active" style="background:rgba(251,191,36,0.15); color:var(--accent3);">Soberania Biológica</span>
+        </div>
+    </div>
 </section>
 
 <!-- SGMAS PLOTTER -->
 <section id="plotter" class="fade-in" style="max-width:100%; padding: 40px;">
     <div style="max-width:1200px; margin:0 auto;">
-        <div class="section-label">04 — Monitoramento Geoespacial</div>
+        <div class="section-label">06 — Monitoramento Geoespacial</div>
         <h2>SGMAS Plotter v7.1 — Juruá-Purus</h2>
         <div class="divider"></div>
         <p style="color:var(--text2); max-width:800px; margin-bottom:30px;">
@@ -419,7 +540,7 @@
 
 <!-- RESULTADOS -->
 <section id="resultados" class="fade-in">
-    <div class="section-label">05 — Resultados Esperados (48 meses)</div>
+    <div class="section-label">07 — Resultados Esperados (48 meses)</div>
     <h2>Entregas e Impactos</h2>
     <div class="divider"></div>
     <div class="card-grid">
@@ -444,7 +565,7 @@
         <div class="card">
             <div class="card-icon">🚢</div>
             <h4>2 Balsas Ecológicas</h4>
-            <p>Embarcações de bio-compósito para logística circular fluvial (T09).</p>
+            <p>Embarcações de bio-compósito para logística circular fluvial (T10).</p>
             <span class="tag tag-active">Navegação Soberana</span>
         </div>
         <div class="card">
@@ -464,7 +585,7 @@
 
 <!-- REFERÊNCIAS -->
 <section id="referencias" class="fade-in">
-    <div class="section-label">06 — Referências</div>
+    <div class="section-label">08 — Referências</div>
     <h2>Bibliografia DOI-Sync</h2>
     <div class="divider"></div>
     <div class="ref-list">
@@ -497,8 +618,21 @@
 </section>
 
 <footer>
-    <p><strong>MULHERESQTF</strong> · © 2026 · <a href="https://github.com/takwaratec/Mulheres-Tecem-Amazonia">Consórcio UnB/UFAC/UFRR</a></p>
-    <p style="margin-top:6px; font-size:0.6rem;">Licença CC BY 4.0 · Síntese Científica e Imagética · Versão 1.0</p>
+    <div style="margin-bottom: 20px;">
+        <img src="https://img.shields.io/badge/Status-Ativo-success?style=flat-square" alt="Status">
+        <img src="https://img.shields.io/badge/TRL-7--8-blue?style=flat-square" alt="TRL">
+        <img src="https://img.shields.io/badge/Patente-Social-orange?style=flat-square" alt="Patente">
+    </div>
+    <p><strong>MULHERES QUE TECEM A FLORESTA</strong> · © 2026</p>
+    <p style="margin: 10px 0;">
+        <a href="01_GOVERNANCA/03_PROTOCOLOS_E_NORMAS/GOV_glossario-siglas.md">Glossário</a> · 
+        <a href="01_GOVERNANCA/02_ORCAMENTO_E_LOGISTICA/BUDGET_orcamento-maquinario.md">Orçamento</a> · 
+        <a href="04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/TAK-MEM-MASTER_CORACAO-TERMICO.md">Memorial Mestre</a>
+    </p>
+    <p style="opacity: 0.6; font-size: 0.6rem;">
+        Consórcio UnB/UFAC/UFRR · Núcleo Takwara · Licença CC BY 4.0<br>
+        Engenharia de Soberania para a Libertação Tropical
+    </p>
 </footer>
 
 <script>

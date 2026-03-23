@@ -22,9 +22,9 @@
 | Rubrica | Descrição | Valor Líquido (R$) |
 | :--- | :--- | :--- |
 | **1.1. Obras e Hub** | Adequação do Hub Rio Branco e 5 Polos (Bambu/Biocompósitos) | R$ 5.200.000 |
-| **1.2. Maquinário** | T01 a T09 (Biorrefinaria, Prensas, Pasteurizadores) | R$ 8.000.000 |
+| **1.2. Maquinário** | T01 a T09 (Biorrefinaria, Prensas, Escariadores) | R$ 8.000.000 |
 | **1.3. Logística** | Veículos 4x4, Caminhão e Balsa Catamarã (T10) | R$ 1.400.000 |
-| **1.4. Infra MRV** | Estação SMGA e Unidades de Saneamento (BSM/BER) | R$ 800.000 |
+| **1.4. Infra MRV** | Estação SMGA e Saneamento Soberano (T12 BSM/BER) | R$ 800.000 |
 
 ## 🎓 Detalhamento OPEX (Custeio e Formação)
 
@@ -38,7 +38,7 @@
 ---
 
 ## 🏛️ Contrapartida (R$ 4.000.000)
-- **Intelecto e Patente Social:** Projetos T01-T11 de domínio público.
+- **Intelecto e Patente Social:** Projetos T01-T12 de domínio público.
 - **P&D Acumulado:** Pesquisas prévias UnB/UFAC/UFRR.
 - **Infraestrutura:** Uso de laboratórios universitários.
 

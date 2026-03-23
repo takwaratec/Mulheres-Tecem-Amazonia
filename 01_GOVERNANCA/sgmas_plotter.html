@@ -579,7 +579,6 @@
                         <div class="season-desc">Isolamento Fluvial e Restrição de Calado.</div>
                         <div class="season-months">Junho - Novembro</div>
                     </div>
-                </div>
             </div>
         </div>
     </div>
@@ -589,6 +588,7 @@
         L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png').addTo(map);
         L.control.zoom({ position: 'bottomright' }).addTo(map);
         let currentChart = null;
+
         const masterData = [
             {
                 name: "Rio Branco (AC)", coords: [-9.974, -67.810], type: "Hub N2 Industrial", pop: "413.418",
@@ -615,92 +615,181 @@
                 ], chart: [20, 50, 30]
             },
             {
-                name: "Tarauacá (AC)", coords: [-8.156, -70.766], type: "Hub N2 Regional", pop: "43.151",
-                exchange: "Açaí -> Biochar/Energia", biomass: "Resíduos Extração", fix: "135 tCO2e/ha",
-                health: "Severo", sanitary: "78% Gap", cost: "R$ 2.850.000,00", status: "Fase 1",
-                partners: ["IMAC", "CPI", "Gov AC", "ICMBio"],
+                name: "Tarauacá (AC)", coords: [-8.156, -70.766], type: "Hub N2 Regional + Artesanato", pop: "43.151",
+                exchange: "Açaí -> Biochar/Energia", biomass: "Resíduos / Fibras", fix: "135 tCO2e/ha",
+                health: "Severo", sanitary: "78% Gap", cost: "R$ 2.850.000,00", status: "Fase 1 / Projeto Georgia",
+                partners: ["IMAC", "CPI", "Gov AC", "ICMBio", "UFRR"],
                 roi: { carbon: "1.800 t", social: "R$ 6.2M", income: "R$ 1.5M/ano" },
                 tech: [
-                    { k: "Unidade Móvel T06", v: "Gabarito de bambu para BSM e preenchimento com biopolímero expansivo." },
-                    { k: "Bio-Tijolos Lego", v: "Módulos habitacionais em compósito bambu/resina (Face-Ready)." }
+                    { k: "TI Arara Humaitá", v: "Núcleo de design circular e biojoias ancestrais (Maestria Georgia)." },
+                    { k: "Canteiro-Escola", v: "Gabarito de bambu para BSM e preenchimento com biopolímero expansivo." },
+                    { k: "Domo N2", v: "Unidade geodésica para beneficiamento e criação coletiva." }
                 ], chart: [15, 60, 25]
             },
             {
-                name: "Manaus (AM)", coords: [-3.119, -60.022], type: "Hub N2 Logístico", pop: "2.1M",
-                exchange: "Logística -> Bio-Soberania", biomass: "Urbana / Industrial", fix: "N/A",
-                health: "Moderado", sanitary: "25% Gap", cost: "R$ 1.050.000,00", status: "PNTS/UEA",
-                partners: ["UEA", "IPAAM", "UnB", "Sonia Marise"],
-                roi: { carbon: "N/A (Logística)", social: "R$ 12.5M", income: "R$ 3.1M/ano" },
+                name: "Lábrea (AM)", coords: [-7.258, -64.800], type: "Hub N1 Bio-residência", pop: "46.882",
+                exchange: "Açaí -> Ciclo Fechado", biomass: "Manejo Regenerativo", fix: "120 tCO2e/ha",
+                health: "Severo", sanitary: "70% Gap", cost: "R$ 1.150.000,00", status: "RESEX Médio Purus",
+                partners: ["ICMBio", "IBAMA", "Sonia Marise", "EcoSol"],
+                roi: { carbon: "950 t", social: "R$ 4.2M", income: "R$ 1.1M/ano" },
                 tech: [
-                    { k: "PNTS Logística", v: "Nó mestre de logística reversa global de polímeros pós-consumo." },
-                    { k: "Bio-combustíveis", v: "P&D em bioquerosene de aviação e diesel verde (PNTS/UEA)." }
-                ], chart: [45, 15, 40]
+                    { k: "Domo Produtivo", v: "Unidade geodésica para beneficiamento sanitário da polpa (300m²)." },
+                    { k: "BSM Habitacional", v: "Módulos de habitação em bio-compósito para famílias coletoras." },
+                    { k: "Plataforma EcoSol", v: "Rastreabilidade blockchain 'do tronco ao pote' (Sonia Marise)." }
+                ], chart: [15, 70, 15]
             },
             {
-                name: "Boa Vista (RR)", coords: [2.820, -60.673], type: "Hub N2 Digital", pop: "419k",
-                exchange: "Dados -> Rastreabilidade", biomass: "Resíduos Lavrado", fix: "110 tCO2e/ha",
-                health: "Alerta", sanitary: "35% Gap", cost: "R$ 1.050.000,00", status: "UFRR",
-                partners: ["UFRR", "Georgia Ferko", "CIR"],
-                roi: { carbon: "850 t", social: "R$ 5.8M", income: "R$ 1.2M/ano" },
+                name: "Feijó (AC)", coords: [-8.164, -70.353], type: "Hub N1 TI Kaxinawá", pop: "Indígena",
+                exchange: "Açaí -> Soberania", biomass: "Açaizal Nativo", fix: "138 tCO2e/ha",
+                health: "Crítico", sanitary: "85% Gap", cost: "R$ 1.150.000,00", status: "Pacto Huni Kuin",
+                partners: ["Funai", "Sonia Marise", "CPI"],
+                roi: { carbon: "740 t", social: "R$ 2.1M", income: "R$ 600k/ano" },
                 tech: [
-                    { k: "Soberania Digital", v: "Rastreamento blockchain de ativos da sociobiodiversidade do Lavrado." },
-                    { k: "Educação 4.0", v: "Capacitação em design paramétrico e construção digital (UFRR)." }
-                ], chart: [40, 20, 40]
+                    { k: "Soberania Digital", v: "Capacitação em tecnologias de resistência e monitoramento via satélite." },
+                    { k: "Domo de Saber", v: "Espaço pedagógico para intercâmbio de conhecimentos tradicionais." }
+                ], chart: [5, 90, 5]
             },
             {
-                name: "Mâncio Lima (AC)", coords: [-7.614, -72.896], type: "N1 Manejo Regional", pop: "20.329",
-                exchange: "Mapeamento -> Bioeconomia", biomass: "Bambu Guadua", fix: "140 tCO2e/ha",
-                health: "Severo", sanitary: "85%", cost: "R$ 450.000,00", status: "TI Nukini",
-                partners: ["AMAAIAC", "CPI", "UFAC", "Funai"],
-                roi: { carbon: "450 t", social: "R$ 1.2M", income: "R$ 480k/ano" },
+                name: "Porto Velho (RO)", coords: [-9.262, -64.404], type: "Hub N1 RESEX Jaci-Paraná", pop: "548k",
+                exchange: "Contenção -> Bioeconomia", biomass: "Bambu / Açaí", fix: "130 tCO2e/ha",
+                health: "Severo", sanitary: "55% Gap", cost: "R$ 1.150.000,00", status: "Expansão RO",
+                partners: ["Gov RO", "Sonia Marise", "UnB", "EcoSol"],
+                roi: { carbon: "1.100 t", social: "R$ 5.1M", income: "R$ 1.2M/ano" },
                 tech: [
-                    { k: "Habitação Palafita", v: "Construção modular elevada em bambu termorretificado (Resiliência hídrica)." },
-                    { k: "Bio-Design", v: "Inoculação micelial em resíduos para isolamento térmico de painéis T07." }
+                    { k: "Escudo Verde", v: "Barreira econômica contra o desmatamento via unidades produtivas." },
+                    { k: "Bio-residência", v: "Unidade geodésica integrando processamento e habitação modular BSM." }
+                ], chart: [20, 60, 20]
+            },
+            {
+                name: "Machadinho (RO)", coords: [-9.444, -61.983], type: "Hub N1 Rio Preto-Jacundá", pop: "30.000",
+                exchange: "Manejo -> Tecnologia", biomass: "Castanha / Resin.", fix: "135 tCO2e/ha",
+                health: "Severo", sanitary: "65% Gap", cost: "R$ 450.000,00", status: "Fase 1 / Sonia",
+                partners: ["ICMBio", "Sonia Marise", "EcoSol"],
+                roi: { carbon: "650 t", social: "R$ 1.8M", income: "R$ 450k/ano" },
+                tech: [
+                    { k: "P&D Biomassa", v: "Transformação de cascas e fibras em componentes construtivos (Ciclo Fechado)." },
+                    { k: "Canteiro-Escola", v: "Oficinas práticas de bioarquitetura adaptada ao clima de RO." }
                 ], chart: [10, 80, 10]
             },
             {
-                name: "M. Thaumaturgo (AC)", coords: [-8.941, -72.792], type: "N1 Manejo Remoto", pop: "17.951",
-                exchange: "Resinas -> Autonomia", biomass: "Açaí / Resinas", fix: "143.6 tCO2e/ha",
-                health: "Crítico", sanitary: "95%", cost: "R$ 450.000,00", status: "Fronteira",
-                partners: ["UBC", "SGMAS", "Marinha", "ICMBio"],
-                roi: { carbon: "380 t", social: "R$ 950k", income: "R$ 320k/ano" },
+                name: "Guajará-Mirim (RO)", coords: [-10.781, -65.334], type: "Hub N1 TI Igarapé Lage", pop: "Wari'",
+                exchange: "Design -> Autonomia", biomass: "Fibras / Sementes", fix: "140 tCO2e/ha",
+                health: "Crítico", sanitary: "90% Gap", cost: "R$ 450.000,00", status: "Pacto Georgia",
+                partners: ["Funai", "Georgia Ferko", "CIR"],
+                roi: { carbon: "820 t", social: "R$ 2.5M", income: "R$ 680k/ano" },
                 tech: [
-                    { k: "Semi-Flutuante", v: "Habitação com flutuação modular via casco de bambu e bombonas (Easy-Repair)." },
-                    { k: "Estratégia Estio", v: "Ancoragem estratégica de UPIs nos polos N1 para suporte regional." },
-                    { k: "BSM/BER (Social)", v: "Saneamento seco sem água via bombonas de 200L e decomposição micelial (P&D in situ)." }
+                    { k: "Artesanato Ancestral", v: "Proteção de grafismos e design paramétrico em biojoias (Maestria Georgia)." },
+                    { k: "Unidade Geodésica", v: "Espaço de criação e secagem com infraestrutura 100% renovável." }
+                ], chart: [5, 90, 5]
+            },
+            {
+                name: "Amajari (RR)", coords: [3.656, -61.419], type: "Hub N1 Lavrado / Design", pop: "13.000",
+                exchange: "Lavrado -> Inovação", biomass: "Fibras / Castanha", fix: "115 tCO2e/ha",
+                health: "Alerta", sanitary: "45% Gap", cost: "R$ 450.000,00", status: "Expansão RR",
+                partners: ["UFRR", "Georgia Ferko", "CIR"],
+                roi: { carbon: "320 t", social: "R$ 1.8M", income: "R$ 400k/ano" },
+                tech: [
+                    { k: "Joalheria Botânica", v: "Capacitação em design de joias com identidade cultural do Lavrado." },
+                    { k: "Módulo BSM", v: "Construção de baixo custo baseada em painéis de bambu e biopolímero." }
                 ], chart: [5, 85, 10]
+            },
+            {
+                name: "Normandia (RR)", coords: [3.882, -59.620], type: "Hub N1 Raposa / Lavrado", pop: "9.000",
+                exchange: "Design -> Resistência", biomass: "Fibras Naturais", fix: "112 tCO2e/ha",
+                health: "Alerta", sanitary: "50% Gap", cost: "R$ 450.000,00", status: "Integração WTF",
+                partners: ["UFRR", "Georgia Ferko", "CIR"],
+                roi: { carbon: "280 t", social: "R$ 1.5M", income: "R$ 380k/ano" },
+                tech: [
+                    { k: "Tecnologia T06", v: "Unidade móvel de beneficiamento de fibras para design circular." },
+                    { k: "Domo de Saber", v: "Núcleo de fortalecimento do associativismo entre artesãs locais." }
+                ], chart: [5, 85, 10]
+            },
+            {
+                name: "Boa Vista (RR)", coords: [2.820, -60.673], type: "Hub N2 Digital + Design", pop: "419k",
+                exchange: "Dados -> Rastreabilidade", biomass: "Resíduos Digitais", fix: "110 tCO2e/ha",
+                health: "Alerta", sanitary: "35% Gap", cost: "R$ 1.050.000,00", status: "UFRR / Ativo",
+                partners: ["UFRR", "Georgia Ferko", "CIR"],
+                roi: { carbon: "850 t", social: "R$ 5.8M", income: "R$ 1.2M/ano" },
+                tech: [
+                    { k: "Soberania Digital", v: "Rastreamento blockchain de ativos da sociobiodiversidade (Georgia Ferko)." },
+                    { k: "Polo Tecnológico", v: "Centro de P&D em tintas naturais e acabamentos biológicos para arquitetura." }
+                ], chart: [40, 20, 40]
+            },
+            {
+                name: "Mucajaí (RR)", coords: [2.439, -60.919], type: "Hub N1 Borda Yanomami", pop: "Alerta Social",
+                exchange: "Barreira -> Resistência", biomass: "Bio-Insumos", fix: "118 tCO2e/ha",
+                health: "Crítico", sanitary: "95% Gap", cost: "R$ 450.000,00", status: "Pacto Regional",
+                partners: ["UFRR", "FUNAI", "CIR"],
+                roi: { carbon: "350 t", social: "R$ 2.1M", income: "N/A (Socio-Prot)" },
+                tech: [
+                    { k: "Acessibilidade", v: "Módulo BSM para postos de saúde e apoio comunitário em áreas de conflito." },
+                    { k: "Energia Solar Off-grid", v: "Kits fotovoltaicos integrados à bio-residência de segurança." }
+                ], chart: [0, 90, 10]
+            },
+            {
+                name: "Sena Madureira (AC)", coords: [-9.066, -68.657], type: "Hub N1 PA Humaitá", pop: "46.000",
+                exchange: "Açaí -> Ciclo Fechado", biomass: "Açaí / Biochar", fix: "125 tCO2e/ha",
+                health: "Severo", sanitary: "75% Gap", cost: "R$ 450.000,00", status: "Fase 1 / Sonia",
+                partners: ["Gov AC", "Sonia Marise", "IMAC"],
+                roi: { carbon: "580 t", social: "R$ 1.4M", income: "R$ 520k/ano" },
+                tech: [
+                    { k: "Manejo Regenerativo", v: "Enriquecimento de açaizais nativos com foco em produtividade de longo prazo." },
+                    { k: "Bio-Tijolos", v: "Implementação de infraestrutura comunitária em terra crua e resíduo de fibras." }
+                ], chart: [15, 75, 10]
+            },
+            {
+                name: "Boca do Acre (AM)", coords: [-8.752, -67.397], type: "Hub N1 PA Monte", pop: "34.606",
+                exchange: "Purus -> Bio-Insumos", biomass: "Açaí / Bambu", fix: "110 tCO2e/ha",
+                health: "Severo", sanitary: "60% Gap", cost: "R$ 450.000,00", status: "Fase 1 / Sonia",
+                partners: ["Gov AC", "Sonia Marise", "EcoSol"],
+                roi: { carbon: "420 t", social: "R$ 1.5M", income: "R$ 480k/ano" },
+                tech: [
+                    { k: "Zero Cimento", v: "Construção de Bio-residência (Domo) 100% em materiais de base biológica." },
+                    { k: "Nutrição Vegetal", v: "Uso do biochar de açaí (P&D Sonia) para fertilização de solos degradados." }
+                ], chart: [20, 60, 20]
+            },
+            {
+                name: "Humaitá (AM)", coords: [-7.506, -63.027], type: "Hub N1 BR-319", pop: "57.890",
+                exchange: "Contenção -> Soberania", biomass: "Madeira-319", fix: "Est. 120 tCO2e/ha",
+                health: "Severo", sanitary: "55% Gap", cost: "R$ 450.000,00", status: "Pacto de Fronteira",
+                partners: ["Funai", "Observatório BR-319", "UnB"],
+                roi: { carbon: "550 t", social: "R$ 2.8M", income: "R$ 720k/ano" },
+                tech: [
+                    { k: "Tecnologia de Resistência", v: "Unidades modulares BSM para monitoramento e vigilância comunitária." },
+                    { k: "Canteiro-Escola", v: "Formação acelerada em bioconstrução para jovens da BR-319." }
+                ], chart: [25, 50, 25]
+            },
+            {
+                name: "Manaus (AM)", coords: [-3.119, -60.022], type: "Hub N2 Logística", pop: "2.1M",
+                exchange: "Polímeros -> Bio-Mix", biomass: "Urbana / Industrial", fix: "N/A",
+                health: "Moderado", sanitary: "25% Gap", cost: "R$ 1.050.000,00", status: "PNTS/UEA",
+                partners: ["UEA", "IPAAM", "UnB", "Sonia Marise"],
+                roi: { carbon: "N/A", social: "R$ 12.5M", income: "R$ 3.1M/ano" },
+                tech: [
+                    { k: "Logística Reversa", v: "Nó de integração de polímeros pós-consumo para injeção em painéis T07." },
+                    { k: "Polo Bio-Industrial", v: "P&D em biopolímeros híbridos (vegetal + sintético resiliente)." }
+                ], chart: [45, 15, 40]
             },
             {
                 name: "Squad Domo AC", coords: [-9.5, -69.2], type: "★ N0 Unidade Móvel", pop: "Social",
                 exchange: "Kit -> Habitação", biomass: "Estrutural", fix: "Impacto Social",
                 health: "Audit", sanitary: "Socio-Hab", cost: "R$ 350.000,00", status: "Operacional",
                 partners: ["MUQTF", "UFAC"],
-                roi: { carbon: "120 t", social: "R$ 1.8M", income: "N/A (Habitação)" },
+                roi: { carbon: "120 t", social: "R$ 1.8M", income: "N/A" },
                 tech: [
-                    { k: "Sanduíche v8", v: "Injeção de PU 70kg/m³ em matrizes de bambu para abrigo emergencial." },
-                    { k: "Habitação Digital", v: "Design paramétrico v6.6 para montagem rápida em áreas de desastre." }
-                ], chart: [0, 0, 100]
-            },
-            {
-                name: "Squad Domo RR", coords: [2.78, -60.4], type: "★ N0 Unidade Boa Vista", pop: "Local/RR",
-                exchange: "Kit -> Habitação", biomass: "Estrutural", fix: "Impacto Distância",
-                health: "Alerta", sanitary: "Socio-Hab", cost: "R$ 350.000,00", status: "Expansão",
-                partners: ["UFRR", "MUQTF"],
-                roi: { carbon: "110 t", social: "R$ 1.2M", income: "N/A (Habitação)" },
-                tech: [
-                    { k: "Logística Reversa", v: "Acréscimo de 55% no CAPEX devido ao frete inter-regional Rio Branco -> Boa Vista." },
-                    { k: "Engenharia Local", v: "Montagem geodésica assistida por mulheres de RR com suporte remoto v6.6." }
+                    { k: "Injeção v8", v: "Matrizes de bambu with injeção de PU Mamona (Soberania)." },
+                    { k: "Arquitetura Efêmera", v: "Design de montagem rápida em áreas de tensão territorial." }
                 ], chart: [0, 0, 100]
             },
             {
                 name: "★ Balsa Juruá 1", coords: [-8.5, -72.8], type: "N0 Unidade Fluvial", pop: "Ribeirinha",
                 exchange: "Logística Circular", biomass: "Mix Fluvial", fix: "Dinâmico",
-                health: "Prev.", sanitary: "Saneamento Flutuante", cost: "R$ 1.850.000,00", status: "Operacional",
+                health: "Prev.", sanitary: "STAC", cost: "R$ 1.850.000,00", status: "Operacional",
                 partners: ["UnB", "Marinha", "MUQTF", "UFAC"],
                 roi: { carbon: "950 t", social: "R$ 4.5M", income: "R$ 1.8M/ano" },
                 tech: [
-                    { k: "Casco Sanduíche", v: "Flutuação modular em bambu/mamona + bombonas com abrigo em painel T07." },
-                    { k: "Logística Circular", v: "Leva briquetes e BSM acabado; traz plástico PET/PEAD para reciclagem." },
+                    { k: "Logística Circular", v: "Transporte de BSM/Briquetes e coleta de resíduos plásticos." },
+                    { k: "Saneamento Móvel", v: "Sistemas STAC embarcados para suporte ribeirinho." },
                     { k: "Processamento", v: "Pasteurização HTST 100L/h e Moagem de Polímeros (40 kg/h)." }
                 ], chart: [5, 90, 5]
             },
@@ -727,91 +816,6 @@
                 partners: ["MUQTF"],
                 roi: { carbon: "50 t", social: "R$ 450k", income: "N/A" },
                 tech: [{ k: "Mini Estação", v: "Unidade de apoio para beneficiamento de biomassa e produção de briquetes." }], chart: [10, 80, 10]
-            },
-            // === NOVOS NODOS — Triagem Juruá-Purus 21/03/2026 ===
-            {
-                name: "Ipixuna (AM)", coords: [-7.050, -71.695], type: "Diagnóstico Social", pop: "24.311",
-                exchange: "Isolamento Fluvial", biomass: "Bambu / Açaí", fix: "Est. 130 tCO2e/ha",
-                health: "Crítico (29,63‰ mort.inf.)", sanitary: "63,2% sem banheiro / 0% esgoto", cost: "— (Diagnóstico)", status: "DSEI Alto Juruá",
-                partners: ["Marinha", "DSEI", "ICMBio", "Funai"],
-                roi: { carbon: "—", social: "IDH 0,481", income: "PIB pc R$ 10.194" },
-                tech: [
-                    { k: "Vulnerabilidade", v: "IDHM 0,481 (muito baixo). Populações Kulina e Kanamari. Esgoto 0%." },
-                    { k: "Calado Juruá", v: "Mínimo 1,1m na vazante. Navegação sazonal crítica." },
-                    { k: "Oportunidade", v: "Briquetagem local + embarcação bio-compósito. Base de dados para MRV." }
-                ], chart: [5, 85, 10]
-            },
-            {
-                name: "Humaitá (AM)", coords: [-7.506, -63.027], type: "Diagnóstico BR-319", pop: "57.890",
-                exchange: "Fronteira Agrícola", biomass: "Resíduos Pecuária", fix: "Est. 90 tCO2e/ha",
-                health: "Severo", sanitary: "55% Gap", cost: "— (Diagnóstico)", status: "Tensão Territorial",
-                partners: ["DNIT", "Observatório BR-319", "FGVces"],
-                roi: { carbon: "—", social: "Fronteira Desmatamento", income: "PIB pc R$ 14.200" },
-                tech: [
-                    { k: "BR-319 Trecho Meio", v: "405,7 km — RIMA prevê risco de desmatamento de até 9 Mi ha." },
-                    { k: "Distrito Realidade", v: "Ponto crítico de tensão: narcotráfico, grilagem, isolamento." },
-                    { k: "TIs Ameaçadas", v: "Jiahui, Tenharim e Parintintin sob pressão direta da rodovia." }
-                ], chart: [30, 40, 30]
-            },
-            {
-                name: "Canutama (AM)", coords: [-6.534, -64.388], type: "Diagnóstico Purus", pop: "16.403",
-                exchange: "Isolamento Sazonal", biomass: "Castanha / Açaí", fix: "Est. 135 tCO2e/ha",
-                health: "Crítico", sanitary: "80% Gap", cost: "— (Diagnóstico)", status: "Vale do Purus",
-                partners: ["FAS", "ICMBio", "DSEI"],
-                roi: { carbon: "—", social: "66,6% abaixo da pobreza", income: "Subsistência" },
-                tech: [
-                    { k: "Desamparo", v: "66,6% da população do Vale do Purus abaixo da linha da pobreza." },
-                    { k: "Logística", v: "Sem acesso rodoviário. Transporte exclusivamente fluvial / aéreo." },
-                    { k: "Potencial", v: "Briquetagem + biochar + saneamento ecológico como eixos de intervenção." }
-                ], chart: [5, 90, 5]
-            },
-            {
-                name: "Tapauá (AM)", coords: [-5.628, -63.181], type: "Diagnóstico Purus", pop: "22.851",
-                exchange: "Isolamento Extremo", biomass: "Floresta / Bambu", fix: "Est. 140 tCO2e/ha",
-                health: "Crítico", sanitary: "85% Gap", cost: "— (Diagnóstico)", status: "DSEI Médio Purus",
-                partners: ["FAS", "Funai", "ICMBio"],
-                roi: { carbon: "—", social: "Extrema Vulnerabilidade", income: "Subsistência" },
-                tech: [
-                    { k: "Povos Isolados", v: "Interflúvio Madeira-Purus: grupos em isolamento voluntário." },
-                    { k: "PNML", v: "Parque Nacional Mapinguari — UC sob ameaça de invasão." },
-                    { k: "Saúde", v: "Diarreia e gastroenterite como causas principais de mortalidade infantil." }
-                ], chart: [5, 90, 5]
-            },
-            {
-                name: "Lábrea (AM)", coords: [-7.258, -64.800], type: "Diagnóstico Purus", pop: "46.882",
-                exchange: "Extrativismo / Garimpo", biomass: "Castanha / Borracha", fix: "Est. 120 tCO2e/ha",
-                health: "Severo", sanitary: "70% Gap", cost: "— (Diagnóstico)", status: "Conflito Fundiário",
-                partners: ["ICMBio", "IBAMA", "MPF"],
-                roi: { carbon: "—", social: "Alto Índice de Conflito", income: "PIB pc R$ 11.500" },
-                tech: [
-                    { k: "Garimpo Ilegal", v: "Contaminação por mercúrio em afluentes do Purus." },
-                    { k: "TI Apurinã", v: "Múltiplas TIs Apurinã sob pressão de grilagem e invasão." },
-                    { k: "RESEX Ituxi", v: "Reserva Extrativista com habitantes ribeirinhos dependentes do rio." }
-                ], chart: [15, 70, 15]
-            },
-            {
-                name: "Boca do Acre (AM)", coords: [-8.752, -67.397], type: "Diagnóstico AC-AM", pop: "34.606",
-                exchange: "Purus → Acre", biomass: "Bambu / Pecuária", fix: "Est. 110 tCO2e/ha",
-                health: "Severo", sanitary: "60% Gap", cost: "— (Diagnóstico)", status: "Fronteira AC-AM",
-                partners: ["Gov AC", "Gov AM", "IBAMA"],
-                roi: { carbon: "—", social: "Transição Territorial", income: "PIB pc R$ 12.800" },
-                tech: [
-                    { k: "Confluência", v: "Junção dos rios Purus e Acre — nó logístico natural." },
-                    { k: "ANA 264/2025", v: "Escassez Quantitativa declarada para rios Acre e Purus." },
-                    { k: "Ponte", v: "Conexão rodoviária precária com Rio Branco (AC-364)." }
-                ], chart: [20, 60, 20]
-            },
-            {
-                name: "Nascente Juruá (Peru)", coords: [-9.767, -72.079], type: "Referência Geopolítica", pop: "—",
-                exchange: "Corredor AC-Peru", biomass: "Floresta Transfronteiriça", fix: "N/A",
-                health: "N/A", sanitary: "N/A", cost: "— (Referência)", status: "Geopolítica",
-                partners: ["Itamaraty", "ANA", "OTCA"],
-                roi: { carbon: "—", social: "Corredor Transfronteiriço", income: "N/A" },
-                tech: [
-                    { k: "Nascente", v: "Serra do Divisor / Ucayali (Peru) — origem do Rio Juruá (3.100 km)." },
-                    { k: "Corredor AC-Peru", v: "Pressão para exportação de bambu bruto via portos do Pacífico." },
-                    { k: "Soberania", v: "Risco de commoditização da biomassa amazônica via rota asiática." }
-                ], chart: [0, 100, 0]
             }
         ];
         const layers = { 

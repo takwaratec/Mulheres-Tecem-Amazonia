@@ -31,21 +31,22 @@ Conforme diretriz, o projeto "Mulheres Que Tecem a Floresta" será consolidado s
 | Código | Invenção | Responsabilidade | Cronograma (Meses) |
 | :--- | :--- | :--- | :--- |
 | **T01-T04** | Biorrefinaria & Caldeira | Takwara (RB) | 1–6 (Implantação Hub) |
-| **T05** | Pasteurizador Açaí | Integrado (Sônia) | 7–12 (Polo Piloto) |
-| **T06-T08** | Prensas & Tambores | Takwara (RB) | 4–9 (Produção Módulos) |
-| **T10** | Balsa-Catamarã | Tânia (Field) | 13–24 (Expansão Fluvial) |
+| **T05-T08** | Prensas & Tambores | Takwara (RB) | 4–12 (Produção Módulos) |
+| **T09** | Escariador de Nós | Takwara (RB) | 1–3 (Preparação) |
+| **T10** | Balsa-Catamarã (CHP) | Tânia (Field) | 13–24 (Expansão Fluvial) |
 | **T11** | Domo-Fábrica | Integrado (Multi) | 7–48 (Polos 1 a 5) |
+| **T12** | BSM (Saneamento) | Takwara (Eng) | 1–24 (Início Imediato) |
 
 ---
 
-## 3. PLANO DE TRABALHO PARA AMANHÃ (23-03)
+## 3. RELATÓRIO DE ATIVIDADES CONCLUÍDAS (22-03)
 
-Para garantir a veiculação sem "furos" para a coordenação geral, as seguintes tarefas serão realizadas:
+Para garantir a veiculação sem "furos" para a coordenação geral, as seguintes tarefas foram finalizadas:
 
-1.  **Refino da Planilha Orçamentária:** Subtrair do CAPEX Takwara os itens que entram na cota das Profs Sônia e Georgia.
-2.  **Harmonização dos Diretórios:** Alinhar as pastas de inventos (T01-T11) com o cronograma de desembolso BNDES.
-3.  **Fechamento do Memorial Master:** Atualizar o documento `PROJETO INTEGRADO - MULHERES QUE TECEM A FLORESTA.md` com a nova lógica de divisão de custos.
-4.  **Consolidação das Sobras Operacionais:** Simular o orçamento de 25M prevendo contingências para logística de campo.
+1.  **[OK] Refino da Planilha Orçamentária:** Itens de CAPEX B (Sônia/Georgia/Tânia) segregados do núcleo industrial Takwara. Ver: [Anexo I](05_ANEXOS/ANEXO_I_PLANILHA_ORCAMENTARIA.md).
+2.  **[OK] Harmonização dos Diretórios:** Pastas de inventos alinhadas à sequência mestra T01-T12.
+3.  **[OK] Fechamento do Memorial Master:** Documento [PROJETO INTEGRADO](PROJETO%20INTEGRADO%20-%20MULHERES%20QUE%20TECEM%20A%20FLORESTA.md) atualizado com a nova lógica fiscal.
+4.  **[OK] Consolidação das Sobras:** Simulação de R$ 25M líquido realizada com contingências. Ver: [Simulação Orçamentária](02_ORCAMENTO_E_LOGISTICA/BUDGET_simulacao-operacional-25m.md).
 
 ---
 

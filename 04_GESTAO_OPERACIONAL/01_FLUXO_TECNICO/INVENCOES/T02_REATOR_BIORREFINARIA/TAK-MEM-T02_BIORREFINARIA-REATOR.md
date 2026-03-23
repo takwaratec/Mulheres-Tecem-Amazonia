@@ -8,27 +8,28 @@ author:
 - affiliation: Universidade de Brasília / Núcleo Takwara
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
-date: '2026-03-06'
+date: '2026-03-22'
 doi: 10.5281/zenodo.18827106
 keywords:
-- patente
+- patente social
+- reator pirólise
 - biorrefinaria
-- tecnologia
-- advocacy 5.1
+- biochar
+- tecnologia social
 ---
 
-# Memorial Descritivo de Patente de Invenção T02
+# Memorial Técnico: Reator de Biorrefinaria e Pirólise T02
 
 **Título da Invenção:** SISTEMA INTEGRADO DE BIORREFINARIA DE CASCATEAMENTO TÉRMICO COM REATOR DE PIRÓLISE ACOPLADO A QUEIMADOR DE FLUXO ASCENDENTE E CÂMARAS DE TRATAMENTO ATMOSFÉRICO PARA BIOMASSA TUBULAR.
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-![Status](https://img.shields.io/badge/status-Finalizado-success.svg)
+[![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+![Status](https://img.shields.io/badge/status-CONSOLIDADO%20WTF-blue)
 
 ---
 
 ## 1. Campo da Invenção
-A presente invenção insere-se no campo da engenharia termodinâmica e processamento de biomassa, reportando-se especificamente a uma planta de biorrefinaria descentralizada. O sistema compreende um aparato de pirólise contínua indireta, mecanicamente integrado a um gerador de vapor de flash gravitacional e câmaras de atmosfera controlada, destinado ao tratamento fitossanitário, secagem passiva e carbonização simultânea de biomassa lignocelulósica tubular (notadamente bambu), com aproveitamento em ciclo fechado de gases não-condensáveis e energia térmica residual.
+A presente invenção insere-se no campo da engenharia termodinâmica e processamento de biomassa, reportando-se especificamente ao **Reator Universal WTF**, conforme detalhado no **[Memorial Mestre: Coração Térmico WTF](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/TAK-MEM-MASTER_CORACAO-TERMICO.md)**.
 
 ## 2. Fundamentos da Invenção
 O tratamento industrial de colmos de bambu para uso estrutural é tradicionalmente dependente de autoclaves industriais de alta pressão infundidas com biocidas químicos tóxicos. A presente invenção resolve tais inconvenientes técnicos ao prover um sistema mecânico que converte os próprios resíduos do bambu na energia térmica e no agente químico (extrato pirolenhoso) necessários para o tratamento da variedade estrutural, eliminando o uso de autoclaves pressurizadas e extinguindo a emissão de poluentes atmosféricos diretos através da combustão reativa em ciclo fechado.

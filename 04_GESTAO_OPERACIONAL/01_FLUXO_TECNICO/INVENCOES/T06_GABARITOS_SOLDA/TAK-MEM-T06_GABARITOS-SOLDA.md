@@ -8,22 +8,21 @@ author:
 - affiliation: Universidade de Brasília / Núcleo Takwara
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
-date: '2026-03-06'
+date: '2026-03-22'
 doi: 10.5281/zenodo.18827106
 keywords:
-- patente
+- patente social
 - gabaritos
 - solda vegetal
 - bambu
 - montagem estrutural
-- treliças
 ---
 
-# Memorial Jurídico: Gabaritos de Montagem para Solda Vegetal T06
+# Memorial Técnico: Gabaritos de Montagem para Solda Vegetal T06
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-![Status](https://img.shields.io/badge/status-Finalizado%20(Advocacy)-blue)
+![Status](https://img.shields.io/badge/status-CONSOLIDADO%20WTF-blue)
 
 ---
 

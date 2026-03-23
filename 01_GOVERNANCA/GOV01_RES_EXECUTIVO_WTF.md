@@ -83,16 +83,16 @@ O diferencial do projeto reside na integração de **10 invenções de patente s
 
 | Inv. | Nome | Função |
 |:-----|:-----|:-------|
-| T01 | Canteiro-Escola | Escola-fábrica de bioconstrução modular |
-| T02 | Reator de Pirólise | Carbonização: biochar + briquetes + extrato pirolenhoso |
-| T03 | Queimador Rocket | Combustão de gases não condensáveis (CO, H₂, CH₄) |
-| T04 | Caldeira Flamotubular | Geração de vapor a baixa pressão (0 barg) |
-| T05 | Câmara de Pasteurização | Processamento térmico de alimentos embarcados |
-| T06 | Gabarito Modular | Moldagem de painéis bio-compósitos (bambu + PU mamona) |
-| T07 | Prensa Sanduíche | Fabricação de painéis estruturais laminados |
-| T08 | Matriz de Conformação | Thermoforming de cascos e estruturas curvas |
-| T09 | Balsa Ecológica 1 e 2 | Embarcação de bio-compósito para logística circular fluvial |
-| T10 | Análise Geoestratégica | Diagnóstico Juruá-Purus: navegabilidade, biomassa, vulnerabilidades |
+| T01 | Forno Ecológico | Carbonização de biomassa Smokeless |
+| T02 | Reator Biorrefinaria | Pirólise lenta e cascateamento térmico |
+| T03 | Resinador Rotativo | Cura sincronizada de biopolímeros (Frangueira) |
+| T04 | Misturador Biocompósitos | Câmara de mistura com Jato PU (Betoneira) |
+| T05 | Prensa de Cassetes | Compactação de elementos modulares intercambiáveis |
+| T06 | Gabarito de Solda | Alinhamento para pré-fabricação treliçada |
+| T07 | Prensa Sanduíche | Laminados estruturais por carga estática |
+| T08 | Tamboreador Industrial | Beneficiamento e captura de sílica |
+| T09 | Escariador Interno | Limpeza lúmen e remoção de nós de bambu |
+| T10 | Balsa Catamarã | Navegação fluvial de logística circular (Vapor) |
 
 ### 3.3. Pirólise e Cascateamento Térmico
 
@@ -147,7 +147,7 @@ O PU de mamona (*Ricinus communis*) é um **produto industrial de base nacional*
 | Agentes Locais de Inovação (ALICoop) | 8–10 |
 | Veículos 4x4 em operação | 3 (2 micro-ônibus + 1 caminhão) |
 | Sistema SMGA implantado | 1 plataforma + SGMAS Plotter v7.1 |
-| Embarcações bio-compósito (T09) | 2 balsas ecológicas |
+| Embarcações bio-compósito (T10) | 2 balsas ecológicas |
 
 ### Impactos Operacionais (Ano 4)
 

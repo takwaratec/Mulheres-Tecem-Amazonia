@@ -1,14 +1,14 @@
 ---
 projeto: Mulheres Que Tecem a Floresta (WTF)
 instituicao: Consórcio UnB/UFAC/UFRR
-tipo: Memorial Descritivo (MD-009)
-referencia: TAK-MD-009-2026
+tipo: Memorial Descritivo (MD-010)
+referencia: TAK-MD-010-2026
 status: CONSOLIDADO (v1.0 WTF)
 author:
 - affiliation: Universidade de Brasília / Núcleo Takwara
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
-date: '2026-03-19'
+date: '2026-03-22'
 ---
 
 # Memorial Descritivo: Catamarã de Bio-Compósitos com Propulsão a Vapor e Processamento da Sociobiodiversidade
@@ -17,7 +17,7 @@ date: '2026-03-19'
 
 A Bacia Amazônica, especialmente os eixos dos Rios Juruá e Branco, enfrenta desafios hidrológicos extremos que impõem barreiras físicas ao desenvolvimento socioeconômico de centenas de comunidades isoladas. Durante os períodos de vazante, profundidades de até 0,9 metros impedem a navegação de embarcações de carga tradicionais, resultando em um ciclo anual de isolamento, desabastecimento e perda de produção agrícola.
 
-A **Balsa Catamarã T09** surge como uma quebra de paradigma na engenharia naval amazônica. Mais do que um meio de transporte, é uma **"Biofábrica Flutuante"** que materializa a soberania tecnológica ao unir a abundância de biomassa residual e fibras vegetais à engenharia térmica moderna. O projeto visa a transformação da balsa em uma unidade produtiva itinerante, capaz de agregar valor socioeconômico aos produtos da sociobiodiversidade (como açaí e leite regional) e garantir a autonomia logística através de um sistema integrado de processamento e conservação a frio.
+A **Balsa Catamarã T10** surge como uma quebra de paradigma na engenharia naval amazônica. Mais do que um meio de transporte, é uma **"Biofábrica Flutuante"** que materializa a soberania tecnológica ao unir a abundância de biomassa residual e fibras vegetais à engenharia térmica moderna. O projeto visa a transformação da balsa em uma unidade produtiva itinerante, capaz de agregar valor socioeconômico aos produtos da sociobiodiversidade (como açaí e leite regional) e garantir a autonomia logística através de um sistema integrado de processamento e conservação a frio.
 
 ## 2. Engenharia de Materiais e Arquitetura Naval
 

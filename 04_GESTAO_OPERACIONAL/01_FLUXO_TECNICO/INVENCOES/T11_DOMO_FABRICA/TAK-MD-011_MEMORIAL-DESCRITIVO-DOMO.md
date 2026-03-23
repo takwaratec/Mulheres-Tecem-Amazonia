@@ -1,11 +1,28 @@
-# TAK-MD-011: Memorial Descritivo – Polo Integrado Domo-Fábrica (Cruzeiro do Sul)
+---
+projeto: Mulheres Que Tecem a Floresta (WTF)
+instituicao: Consórcio UnB/UFAC/UFRR
+tipo: Memorial Descritivo (MD-011)
+referencia: TAK-MD-011-2026
+status: CONSOLIDADO (v1.0 WTF)
+author:
+- affiliation: Universidade de Brasília / Núcleo Takwara
+  name: Takwara, Fabio Resck
+  orcid: 0000-0001-8815-3885
+date: '2026-03-22'
+doi: 10.5281/zenodo.18827106
+keywords:
+- domo fábrica
+- bioarquitetura
+- geodésica
+- bambu
+- processamento industrial
+---
 
-**Projeto:** Polo Integrado de Beneficiamento – Bambu, Castanha e Açaí
-**Localização:** Cruzeiro do Sul/AC – Bairro Miritizal (Polo Naval Artesanal)
-**Cliente:** Projeto Mulheres Que Tecem a Floresta – Consórcio UnB/UFAC/UFRR
-**Coordenação Técnica:** Núcleo Takwara – Fabio Resck
-**Versão:** 1.0 – Higiene 1.0 (Março 2026)
-**Diretriz:** Engenharia Regenerativa (Não Veneno · Não Cimento · Não Voláteis)
+# Memorial Descritivo: Polo Integrado Domo-Fábrica (Cruzeiro do Sul) T11
+
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
+[![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+![Status](https://img.shields.io/badge/status-CONSOLIDADO%20WTF-blue)
 
 ---
 

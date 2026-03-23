@@ -66,7 +66,7 @@ Este documento extrai as metragens e componentes dos memoriais técnicos (Série
 *   **Custo de Fábrica:** R$ 41.300,00
 *   **Valuation Contrapartida (1.4x):** **R$ 57.820,00**
 
-## T06: Tamboreador Industrial
+## T08: Tamboreador Industrial
 *   **Estrutura:** 550kg de Aço A36 (Cilindro de 6m x 1.2m).
 *   **Componentes:** Motor-redutor **5CV**, Ciclone Separador (Aço leve), Exaustor.
 *   **Capacidade:** Lote de **24 varas** (Sincronismo: 2x Frangueiras T03).
@@ -82,29 +82,41 @@ Este documento extrai as metragens e componentes dos memoriais técnicos (Série
 *   **Contingência Amazônia (20%):** R$ 2.520,00
 *   **Valuation Contrapartida (1.4x):** **R$ 21.168,00**
 
-## Saneamento: Banheiro Seco Modular (BSM 5.1)
+---
+
+## T09: Escariador Interno de Nós
+*   **Estrutura:** Chassis de aço laminado, Eixo modular telescópico de 6m.
+*   **Componentes:** Cabeça estrela (aço ferramenta), motor monofásico 2CV, embreagem de segurança.
+*   **Mão de Obra:** 40h Caldeiraria + 20h Usinagem.
+*   **Custo de Fábrica:** R$ 14.800,00
+*   **Valuation Contrapartida (1.4x):** **R$ 20.720,00**
+
+## T12: Banheiro Seco Modular (BSM)
 *   **Cabine:** Painéis de biocompósitos e estrutura de bambu (60kg).
 *   **Componentes:** 2 Bombonas 200L, Exaustor Solar 20W, Assento separador.
 *   **Custo Unitário (Fábrica):** R$ 7.500,00
 *   **Contingência Amazônia (20%):** R$ 1.500,00
-*   **Preço Final p/ BNDES:** **R$ 9.000,00**
+*   **Preço Final p/ BNDES (Unitário):** **R$ 9.000,00**
 
 ---
 
-### Tabela Resumo: Aporte de Contrapartida Tecnológica
+### Tabela Resumo: Portfolio de Contrapartida Tecnológica (Consolidado)
 
-| Código | Equipamento | CAPEX Mercado (R$) | Contrapartida Institucional (R$) |
+| Código | Invenção / Equipamento | CAPEX Mercado (R$) | Contrapartida Institucional (R$) |
 | :--- | :--- | :--- | :--- |
-| T02 | Biorrefinaria T02 (316L) [5.1]| R$ 155.000,00 | R$ 112.830,00 |
-| T03 | Resinador Rotativo T03 | R$ 65.000,00 | R$ 44.968,00 |
-| T04 | Misturador PU (Máquina) | R$ 35.000,00 | R$ 25.480,00 |
-| T04.1 | Compressor (Jato PU) | R$ 15.000,00 | R$ 11.900,00 |
-| T05 | Prensa de Cassetes | R$ 85.000,00 | R$ 57.820,00 |
-| T06 | Tamboreador (24 varas) | R$ 85.000,00 | R$ 53.480,00 |
-| T07 | Prensa Sanduíche (min 2m) | R$ 25.000,00 | R$ 17.640,00 |
-| T08 | Esteiras Transport. (3 unid) | R$ 150.000,00 | R$ 105.000,00 |
-| T09 | Domos Geodésicos (3 unid) | R$ 90.000,00 | R$ 67.200,00 |
-| **TOTAL**| **Portfólio de Maquinário**| **R$ 670.000,00** | **R$ 465.318,00** |
+| T01 | Forno Ecológico (Vapor/Biorrefinaria) | R$ 45.000,00 | R$ 38.000,00 |
+| T02 | Reator de Pirólise (Biorrefinaria) | R$ 155.000,00 | R$ 131.796,00 |
+| T03 | Resinador Rotativo (Frangueira) | R$ 65.000,00 | R$ 53.961,60 |
+| T04 | Misturador PU (Jato PU) | R$ 35.000,00 | R$ 25.480,00 |
+| T05 | Prensa de Cassetes Hidráulica | R$ 85.000,00 | R$ 57.820,00 |
+| T06 | Gabaritos de Solda (Pórticos) | R$ 25.000,00 | R$ 18.000,00 |
+| T07 | Prensa Sanduíche (Mesa) | R$ 25.000,00 | R$ 21.168,00 |
+| T08 | Tamboreador Industrial (24 colmos) | R$ 85.000,00 | R$ 53.480,00 |
+| T09 | Escariador de Nós Interno | R$ 28.000,00 | R$ 20.720,00 |
+| T10 | Balsa Catamarã (CHP V5.1) | R$ 450.000,00 | R$ 380.000,00 |
+| T11 | Domo-Fábrica (Polo Integrado) | R$ 180.000,00 | R$ 133.000,00 |
+| T12 | Unidade BSM (Saneamento) | R$ 9.000,00 | R$ 9.000,00 |
+| **TOTAL**| **PATRIMÔNIO TECNOLÓGICO WTF**| **R$ 1.187.000,00** | **R$ 942.425,60** |
 
 ---
 

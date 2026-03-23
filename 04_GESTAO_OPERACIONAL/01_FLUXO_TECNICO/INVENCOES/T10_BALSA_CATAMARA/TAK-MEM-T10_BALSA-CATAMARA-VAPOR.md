@@ -28,7 +28,9 @@ keywords:
 ---
 
 ### 1.1 Campo da Invenção
-Refere-se a uma **Embarcação de Baixo Calado (Catamarã)** construída com tecnologia de bio-compósitos (Bambu/PU Vegetal) e equipada com um **Sistema de Propulsão a Vapor de Ciclo Fechado** alimentado por biomassa residual, integrada a uma unidade móvel de beneficiamento da sociobiodiversidade (Açaí, Leite Regional, etc.) para operação em rios amazônicos.
+Refere-se a uma **Embarcação de Baixo Calado (Catamarã)** construída com tecnologia de bio-compósitos (Bambu/PU Vegetal) e equipada## 1. Descrição do Sistema de Propulsão e Processamento
+A Balsa Catamarã T10 utiliza como fonte de energia primária o **[Coração Térmico WTF](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/TAK-MEM-MASTER_CORACAO-TERMICO.md)**, operando sob regime de pressão neutra (0-bar) para garantir a segurança em ambiente fluvial.
+ em rios amazônicos.
 
 ### 1.2 Problema Técnico
 A navegação em rios como o Juruá e o Branco é impedida durante a vazante (calados < 1.1m), isolando povos ribeirinhos e gerando perda de produtos da floresta e produção comunitária por falta de energia e logística.

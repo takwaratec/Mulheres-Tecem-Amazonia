@@ -78,15 +78,18 @@ This glossary consolidates the acronyms, norms, and cataloging codes used in the
 *   **[TAK](../01_TECNOLOGIA_Institucional/TAK_memorial-sistema-construtivo-v7.md)**: Indexing code/prefix for documents, engineering memorials, and proprietary assets of the Institucional nucleus.
 
 ### 3.1. Equipment and Solutions (Series T - *Industrial Taxonomy*)
-*   **[T01](../08_PROJETOS_ENGENHARIA/T01_FORNO_ECOLOGICO/TAK_concepcao-forno-ecologico.md)**: Ecological Oven / Carbonization and Pyroligneous Oven.
-*   **[T02](../08_PROJETOS_ENGENHARIA/T02_BIORREFINARIA/TAK_biorrefinaria-t02-memorial.md)**: Biorefinery / Modular Community Reactor and Thermal Cascading.
-*   **[T03](../08_PROJETOS_ENGENHARIA/T03_RESINADOR_ROTATIVO/TAK_concepcao-resinador.md)**: Industrial Rotary Resinator (Frangueira/*Airless* Resination).
-*   **[T04](../08_PROJETOS_ENGENHARIA/T04_MISTURADOR/TAK_concepcao-misturador.md)**: Industrial Biocomposite Mixer (Waterproof Concrete Mixer/PU Jet).
-*   **[T05](../08_PROJETOS_ENGENHARIA/T05_PRENSA_CASSETES/TAK_concepcao-prensa-cassetes.md)**: Interchangeable Cassette Press (Hydraulic compaction of tiles, blocks, and plates).
-*   **[T06](../08_PROJETOS_ENGENHARIA/T06_GABARITOS_SOLDA/TAK_concepcao-gabaritos.md)**: Industrial Tumbler and Vegetal Welding Jigs.
-*   **[T07](../08_PROJETOS_ENGENHARIA/T07_PRENSA_SANDUICHE/TAK_concepcao-prensa-sanduiche.md)**: Sandwich Press (Self-leveling Counterweight Table).
-*   **[T08](../08_PROJETOS_ENGENHARIA/NT_estrategia-manejo-biorrefinaria.md)**: Conveyor Belts for forest residue handling.
-*   **[T09](../02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-domos-geodesicos.md)**: Geodesic Domes.
+*   **[T01](../../04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/T01_FORNO_ECOLOGICO/TAK-MEM-T01_FORNO-ECOLOGICO.md)**: Ecological Oven / Carbonization and Pyroligneous Oven.
+*   **[T02](../../04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/T02_REATOR_BIORREFINARIA/TAK_biorrefinaria-reuso-comunitaria.md)**: Biorefinery / Modular Community Reactor and Thermal Cascading.
+*   **[T03](../../04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/T03_RESINADOR_ROTATIVO/TAK_resinador-rotativo-industrial.md)**: Industrial Rotary Resinator (Frangueira/*Airless* Resination).
+*   **[T04](../../04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/T04_MISTURADOR_BIOCOMPOSITOS/TAK_misturador-biocompositos.md)**: Industrial Biocomposite Mixer (Waterproof Concrete Mixer/PU Jet).
+*   **[T05](../../04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/T05_PRENSA_CASSETES/TAK_prensa-cassetes.md)**: Interchangeable Cassette Press (Hydraulic compaction of tiles, blocks, and plates).
+*   **[T06](../../04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/T06_GABARITOS_SOLDA/TAK_gabaritos-soldagem.md)**: Industrial Tumbler and Vegetal Welding Jigs.
+*   **[T07](../../04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/T07_PRENSA_SANDUICHE/TAK_prensa-sanduiche.md)**: Sandwich Press (Self-leveling Counterweight Table).
+*   **[T08](../../04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/T08_TAMBOREADOR/TAK_tamboreador.md)**: Industrial Tumbler for Bamboo handling.
+*   **[T09](../../04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/T09_ESCARIADOR_INTERNO/TAK-MEM-T09_ESCARIADOR-INTERNO.md)**: Internal Node Remover (Escariador).
+*   **[T10](../../04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/T10_BALSA_CATAMARA/TAK-MEM-T10_BALSA-CATAMARA-VAPOR.md)**: Balsa Catamaran (Modern Steam).
+*   **[T11](../../04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/T11_DOMO_FABRICA/TAK-MD-011_MEMORIAL-DESCRITIVO-DOMO.md)**: Domo-Factory.
+*   **[T12](../../04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/T12_BSM/TAK-MEM-T12_BSM.md)**: BSM (Modular Dry Toilet).
 
 ## 4. Ecosystem, Institutions, and Organizations
 *   **[APIB](https://apiboficial.org/)**: Articulation of Indigenous Peoples of Brazil.

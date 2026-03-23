@@ -75,18 +75,21 @@ Este glosario consolida las siglas, normativas y códigos de catalogación utili
 *   **[PU](../01_TECNOLOGIA_Institucional/TAK_memorial-sistema-construtivo-v7.md)**: Poliuretano (En el contexto singular de la tecnología Institucional, se refiere exclusivamente al Poliuretano Vegetal / Bio-PU).
 *   **[PVIT](../.agents/rules/GOV_regimento-pvit-audiovisual.md)**: Patrón Visual e Industrial Institucional (Reglamento de Aplicación y Auditoría Audiovisual - Protocolos Estéticos).
 *   **[SMGA](../02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-smga.md)**: Sistema de Monitoreo y Gestión Ambiental (y/o Gestión de Activos Logísticos).
-*   **[TAK](../01_TECNOLOGIA_Institucional/TAK_memorial-sistema-construtivo-v7.md)**: Código indexador/prefijo para los documentos, memorias de ingeniería y activos propietarios del núcleo Institucional.
+*   **[TAK](../../04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/TAK_memorial-sistema-construtivo-v7.md)**: Código indexador/prefijo para los documentos, memorias de ingeniería y activos propietarios del núcleo Institucional.
 
 ### 3.1. Equipos y Soluciones (Serie T - *Taxonomía Industrial*)
-*   **[T01](../08_PROJETOS_ENGENHARIA/T01_FORNO_ECOLOGICO/TAK_concepcao-forno-ecologico.md)**: Horno Ecológico / Horno de Carbonización y Pirolíñoso.
-*   **[T02](../08_PROJETOS_ENGENHARIA/T02_BIORREFINARIA/TAK_biorrefinaria-t02-memorial.md)**: Biorrefinería / Reactor Modular Comunitario y Cascada Térmica.
-*   **[T03](../08_PROJETOS_ENGENHARIA/T03_RESINADOR_ROTATIVO/TAK_concepcao-resinador.md)**: Resinador Rotativo Industrial (Frangueira/Resinado *Airless*).
-*   **[T04](../08_PROJETOS_ENGENHARIA/T04_MISTURADOR/TAK_concepcao-misturador.md)**: Mezclador Industrial de Biocompuestos (Hormigonera Impermeable/Chorro PU).
-*   **[T05](../08_PROJETOS_ENGENHARIA/T05_PRENSA_CASSETES/TAK_concepcao-prensa-cassetes.md)**: Prensa de Casetes Intercambiables (Compactación hidráulica de placas, tejas y bloques).
-*   **[T06](../08_PROJETOS_ENGENHARIA/T06_GABARITOS_SOLDA/TAK_concepcao-gabaritos.md)**: Tamboreador Industrial y Plantillas de Soldadura Vegetal.
-*   **[T07](../08_PROJETOS_ENGENHARIA/T07_PRENSA_SANDUICHE/TAK_concepcao-prensa-sanduiche.md)**: Prensa de Sándwich (Mesa Autonivelante de Contrapeso).
-*   **[T08](../08_PROJETOS_ENGENHARIA/NT_estrategia-manejo-biorrefinaria.md)**: Cintas Transportadoras para manejo de residuos forestales.
-*   **[T09](../02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-domos-geodesicos.md)**: Domos Geodésicos.
+*   **[T01](../../04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/T01_FORNO_ECOLOGICO/TAK-MEM-T01_FORNO-ECOLOGICO.md)**: Horno Ecológico / Horno de Carbonización y Pirolíñoso.
+*   **[T02](../../04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/T02_REATOR_BIORREFINARIA/TAK_biorrefinaria-reuso-comunitaria.md)**: Biorrefinería / Reactor Modular Comunitario y Cascada Térmica.
+*   **[T03](../../04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/T03_RESINADOR_ROTATIVO/TAK_resinador-rotativo-industrial.md)**: Resinador Rotativo Industrial (Frangueira/Resinado *Airless*).
+*   **[T04](../../04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/T04_MISTURADOR_BIOCOMPOSITOS/TAK_misturador-biocompositos.md)**: Mezclador Industrial de Biocompuestos (Hormigonera Impermeable/Chorro PU).
+*   **[T05](../../04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/T05_PRENSA_CASSETES/TAK_prensa-cassetes.md)**: Prensa de Casetes Intercambiables (Compactación hidráulica de placas, tejas y bloques).
+*   **[T06](../../04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/T06_GABARITOS_SOLDA/TAK_gabaritos-soldagem.md)**: Tamboreador Industrial y Plantillas de Soldadura Vegetal.
+*   **[T07](../../04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/T07_PRENSA_SANDUICHE/TAK_prensa-sanduiche.md)**: Prensa de Sándwich (Mesa Autonivelante de Contrapeso).
+*   **[T08](../../04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/T08_TAMBOREADOR/TAK_tamboreador.md)**: Cintas Transportadoras para manejo de residuos forestales.
+*   **[T09](../../04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/T09_ESCARIADOR_INTERNO/TAK-MEM-T09_ESCARIADOR-INTERNO.md)**: Escariador Interno de nudos de bambú.
+*   **[T10](../../04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/T10_BALSA_CATAMARA/TAK-MEM-T10_BALSA-CATAMARA-VAPOR.md)**: Balsa Catamarán (Vapor Moderno).
+*   **[T11](../../04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/T11_DOMO_FABRICA/TAK-MD-011_MEMORIAL-DESCRITIVO-DOMO.md)**: Domo-Fábrica.
+*   **[T12](../../04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/T12_BSM/TAK-MEM-T12_BSM.md)**: BSM (Baño Seco Modular).
 
 ## 4. Ecosistema, Instituciones y Organismos
 *   **[APIB](https://apiboficial.org/)**: Articulación de los Pueblos Indígenas de Brasil.
