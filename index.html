@@ -273,6 +273,88 @@
             transform: scale(1.05);
             box-shadow: 0 0 20px rgba(45,212,191,0.5);
         }
+
+        /* DASHBOARD WIDGETS */
+        .dashboard-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-top: 40px;
+        }
+        .widget {
+            background: var(--glass);
+            padding: 20px;
+            border-radius: 12px;
+            border: 1px solid rgba(45,212,191,0.1);
+            text-align: center;
+        }
+        .widget-val {
+            display: block;
+            font-size: 1.5rem;
+            font-weight: 900;
+            color: var(--accent);
+            margin-bottom: 5px;
+        }
+        .widget-lbl { font-size: 0.7rem; color: var(--text2); text-transform: uppercase; letter-spacing: 1px; }
+
+        /* TIMELINE "3 ATOS" */
+        .timeline {
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+            margin-top: 40px;
+            position: relative;
+        }
+        .timeline::before {
+            content: ''; position: absolute; left: 20px; top: 0; bottom: 0;
+            width: 2px; background: rgba(45,212,191,0.2);
+        }
+        .timeline-item {
+            display: flex;
+            gap: 20px;
+            padding-left: 50px;
+            position: relative;
+        }
+        .timeline-dot {
+            position: absolute; left: 14px; top: 5px;
+            width: 14px; height: 14px; background: var(--accent);
+            border-radius: 50%; box-shadow: 0 0 10px var(--accent);
+        }
+        .timeline-content h4 { color: #fff; margin-bottom: 5px; }
+        .timeline-content p { color: var(--text2); font-size: 0.9rem; }
+
+        /* MODAL */
+        .modal {
+            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+            background: rgba(5,8,16,0.95);
+            backdrop-filter: blur(10px);
+            z-index: 2000;
+            display: none;
+            overflow-y: auto;
+            padding: 40px 20px;
+        }
+        .modal-inner {
+            max-width: 900px; margin: 0 auto;
+            background: #0f172a; border: 1px solid rgba(255,255,255,0.1);
+            padding: 60px; border-radius: 20px; position: relative;
+            box-shadow: 0 25px 50px -12px rgba(0,0,0,0.5);
+        }
+        .modal-close {
+            position: absolute; top: 20px; right: 20px;
+            font-size: 2rem; color: #fff; cursor: pointer;
+            opacity: 0.5; transition: 0.3s;
+        }
+        .modal-close:hover { opacity: 1; }
+        .modal-header { border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 20px; margin-bottom: 40px; }
+        .modal-body { color: var(--text2); line-height: 1.8; }
+        .modal-body h2 { color: var(--accent); margin-top: 40px; border-bottom: 1px solid rgba(45,212,191,0.2); padding-bottom: 10px; }
+        .modal-body h3 { color: #fff; margin-top: 30px; }
+        .modal-body ul { list-style: circle; padding-left: 20px; margin: 20px 0; }
+        .modal-body strong { color: #fff; }
+
+        @media (max-width: 768px) {
+            .modal-inner { padding: 30px; }
+        }
     </style>
 </head>
 <body>
@@ -464,11 +546,95 @@
     </div>
 
     <div style="text-align:center; margin-top:60px; padding:40px; background:rgba(45,212,191,0.05); border-radius:16px;">
-        <h3 style="margin:0 0 10px 0; color:#fff;">Dossiê Completo: Projeto Integrado</h3>
-        <p style="color:var(--text2);">Acesse o detalhamento estratégico, financeiro e técnico submetido ao BNDES.</p>
-        <a href="03_DOSSIE_BNDES/00_RESUMO_EXECUTIVO.md" class="cta-button">Ver Projeto Integrado (v1.0 WTF)</a>
+        <h3 style="margin:0 0 10px 0; color:#fff;">Dossiê Estratégico</h3>
+        <p style="color:var(--text2); margin-bottom:20px;">Acesse o detalhamento executivo e o plano de soberania material (v1.0 WTF).</p>
+        
+        <div class="dashboard-grid">
+            <div class="widget">
+                <span class="widget-val">R$ 34M</span>
+                <span class="widget-lbl">Investimento Total</span>
+            </div>
+            <div class="widget">
+                <span class="widget-val">1050</span>
+                <span class="widget-lbl">Famílias Impactadas</span>
+            </div>
+            <div class="widget">
+                <span class="widget-val">48 Meses</span>
+                <span class="widget-lbl">Ciclo de Maturação</span>
+            </div>
+            <div class="widget">
+                <span class="widget-val">TRL 8</span>
+                <span class="widget-lbl">Maturidade Tecnológica</span>
+            </div>
+        </div>
+
+        <button onclick="openModal()" class="cta-button">Explorar Projeto Integrado (Visual)</button>
     </div>
 </section>
+
+<!-- MODAL INTERATIVO: PROJETO INTEGRADO -->
+<div id="projectModal" class="modal">
+    <div class="modal-inner">
+        <span class="modal-close" onclick="closeModal()">&times;</span>
+        <div class="modal-header">
+            <div class="section-label" style="margin-left:0;">MEMORANDO TÉCNICO V1.0</div>
+            <h1 style="font-size: 2.5rem; margin-top:10px;">Projeto Integrado: Mulheres Que Tecem a Floresta</h1>
+            <p style="color:var(--accent); font-weight:700;">Consórcio Interinstitucional UnB / UFAC / UFRR</p>
+        </div>
+        
+        <div class="modal-body">
+            <h2>1. Metodologia Territorial (Os 3 Atos)</h2>
+            <div class="timeline">
+                <div class="timeline-item">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-content">
+                        <h4>Ato I: Anamnese (Corpo a Corpo)</h4>
+                        <p>Escuta profunda e diagnóstico humano in situ. Mapeamento de gargalos logísticos e capital social local.</p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-content">
+                        <h4>Ato II: Dispositivo Domo Voador</h4>
+                        <p>Unidade itinerante para permanência local (5-10 dias). Nó de articulação política e afetiva para sensibilização territorial.</p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-content">
+                        <h4>Ato III: Hub Canteiro-Escola</h4>
+                        <p>Imersão técnica prática. Fabricação das invenções T01-T12 pelas próprias educandas para transferência de tecnologia imediata.</p>
+                    </div>
+                </div>
+            </div>
+
+            <h2>2. Objetivos Estratégicos</h2>
+            <ul>
+                <li><strong>Soberania Material:</strong> Erradicar a dependência de aço/cimento via biocompósitos de bambu (Guadua spp).</li>
+                <li><strong>Bio-Industrialização:</strong> Agregação de valor na origem (Açaí/Castanha) triplicando a renda local.</li>
+                <li><strong>Autonomia Térmica:</strong> Substituição de diesel por bio-pirólise Smokeless (Zero Fumaça).</li>
+                <li><strong>Rastreabilidade MRV:</strong> Monitoramento geoespacial via Google Earth Engine (SMGA).</li>
+            </ul>
+
+            <h2>3. Resultados de 48 Meses</h2>
+            <div class="card-grid" style="grid-template-columns: repeat(2, 1fr);">
+                <div class="card" style="margin:0;">
+                    <h4>Impacto Social</h4>
+                    <p>100 mulheres líderes formadas, 120 empregos diretos e 1050 famílias beneficiadas.</p>
+                </div>
+                <div class="card" style="margin:0;">
+                    <h4>Impacto Climático</h4>
+                    <p>2.500t de CO2e evitadas anualmente e 15.000 hectares de bambuzais sob manejo sustentável.</p>
+                </div>
+            </div>
+
+            <div style="margin-top:40px; padding:20px; background:rgba(255,255,255,0.03); border-radius:12px; text-align:center;">
+                <p>O documento original contém 12 seções técnicas e financeiras detalhadas.</p>
+                <a href="01_GOVERNANCA/PROJETO%20INTEGRADO%20-%20MULHERES%20QUE%20TECEM%20A%20FLORESTA.md" style="color:var(--accent); text-decoration:none; font-weight:700;">Ler Memorando Bruto (.md) →</a>
+            </div>
+        </div>
+    </div>
+</div>
 
 <!-- SINCERIDADE & SOBERANIA -->
 <section id="soberania" class="fade-in">
@@ -636,7 +802,21 @@
 </footer>
 
 <script>
-// Scroll animations
+        // Modal Logic
+        function openModal() {
+            document.getElementById('projectModal').style.display = 'block';
+            document.body.style.overflow = 'hidden';
+        }
+        function closeModal() {
+            document.getElementById('projectModal').style.display = 'none';
+            document.body.style.overflow = 'auto';
+        }
+        window.onclick = function(event) {
+            let modal = document.getElementById('projectModal');
+            if (event.target == modal) closeModal();
+        }
+
+        // Intersection Observer for fade-in effect
 const observer = new IntersectionObserver((entries) => {
     entries.forEach(e => { if(e.isIntersecting) e.target.classList.add('visible'); });
 }, { threshold: 0.1 });
