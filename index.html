@@ -1,1439 +1,826 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mulheres Que Tecem a Floresta — Síntese Científica e Imagética</title>
+    <meta name="description" content="Bioeconomia feminina na Amazônia Legal: bambu, poliuretano vegetal, soberania tecnológica e navegação fluvial sustentável.">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg: #050810;
+            --bg2: #0d111b;
+            --bg3: #1a2333;
+            --text: #f1f5f9;
+            --text2: #94a3b8;
+            --accent: #2dd4bf;
+            --accent2: #a78bfa;
+            --accent3: #fbbf24;
+            --red: #f43f5e;
+            --gold: #fbbf24;
+            --blue: #38bdf8;
+            --border: rgba(51, 65, 85, 0.4);
+            --card: rgba(26, 35, 51, 0.5);
+            --glass: rgba(15, 23, 42, 0.7);
+        }
+        * { margin:0; padding:0; box-sizing:border-box; }
+        html { scroll-behavior: smooth; }
+        body {
+            font-family: 'Inter', sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.7;
+            overflow-x: hidden;
+        }
 
-<!doctype html>
-<html lang="pt" class="no-js">
-  <head>
-    
-      <meta charset="utf-8">
-      <meta name="viewport" content="width=device-width,initial-scale=1">
-      
-      
-      
-        <link rel="canonical" href="https://takwaratec.github.io/Mulheres-Tecem-Amazonia/">
-      
-      
-      
-        <link rel="next" href="01_GOVERNANCA/WTF_PROJETO_INTEGRADO/">
-      
-      
-        
-      
-      
-      <link rel="icon" href="assets/patterns/square_06_red.svg">
-      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.3">
-    
-    
-      
-        <title>Mulheres Que Tecem a Floresta - MQTF</title>
-      
-    
-    
-      <link rel="stylesheet" href="assets/stylesheets/main.484c7ddc.min.css">
-      
-        
-        <link rel="stylesheet" href="assets/stylesheets/palette.ab4e12ef.min.css">
-      
-      
+        /* NAV */
+        nav {
+            position: fixed; top:0; left:0; right:0; z-index:9999;
+            background: rgba(10,15,26,0.92);
+            backdrop-filter: blur(20px);
+            border-bottom: 1px solid var(--border);
+            padding: 0 40px;
+            display: flex; align-items: center; justify-content: space-between;
+            height: 60px;
+        }
+        .nav-brand {
+            font-weight: 900; font-size: 0.85rem;
+            letter-spacing: -0.5px;
+            color: #fff;
+        }
+        .nav-brand span { color: var(--accent); }
+        .nav-links { display: flex; gap: 8px; }
+        .nav-links a {
+            color: var(--text2); text-decoration: none;
+            font-size: 0.7rem; font-weight: 700;
+            text-transform: uppercase; letter-spacing: 0.5px;
+            padding: 6px 12px; border-radius: 6px;
+            transition: all 0.2s;
+        }
+        .nav-links a:hover { color: #fff; background: var(--bg3); }
+        #mobile-nav { display:none; background:none; border:none; color:#fff; font-size:1.4rem; cursor:pointer; }
 
+        /* HERO */
+        .hero {
+            min-height: 100vh;
+            display: flex; flex-direction: column;
+            align-items: center; justify-content: center;
+            text-align: center;
+            padding: 100px 40px 60px;
+            background: radial-gradient(ellipse at 50% 30%, rgba(45,212,191,0.08) 0%, transparent 70%),
+                        radial-gradient(ellipse at 80% 80%, rgba(167,139,250,0.06) 0%, transparent 60%),
+                        var(--bg);
+        }
+        .hero-badge {
+            display: inline-block;
+            background: rgba(45,212,191,0.1); border: 1px solid var(--accent);
+            color: var(--accent); font-size: 0.6rem; font-weight: 900;
+            text-transform: uppercase; letter-spacing: 2px;
+            padding: 6px 16px; border-radius: 20px; margin-bottom: 30px;
+        }
+        .hero h1 {
+            font-size: clamp(2rem, 5vw, 3.5rem);
+            font-weight: 900; letter-spacing: -1.5px;
+            line-height: 1.15; max-width: 800px;
+            margin-bottom: 20px;
+        }
+        .hero h1 em { font-style: normal; color: var(--accent); }
+        .hero p {
+            font-size: 1.05rem; color: var(--text2);
+            max-width: 650px; line-height: 1.8; margin-bottom: 40px;
+        }
+        .hero-stats {
+            display: flex; gap: 30px; flex-wrap: wrap;
+            justify-content: center;
+        }
+        .hero-stat {
+            text-align: center;
+        }
+        .hero-stat .num {
+            font-size: 1.8rem; font-weight: 900; color: #fff;
+            display: block;
+        }
+        .hero-stat .lbl {
+            font-size: 0.65rem; font-weight: 700; color: var(--text2);
+            text-transform: uppercase; letter-spacing: 1px;
+        }
+        .scroll-cue {
+            margin-top: 50px;
+            animation: bounce 2s infinite;
+            color: var(--text2); font-size: 1.5rem;
+        }
+        @keyframes bounce {
+            0%,100% { transform: translateY(0); }
+            50% { transform: translateY(8px); }
+        }
 
-    
-    
-      
-    
-    
-      
-        
-        
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
-        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
-      
-    
-    
-      <link rel="stylesheet" href="stylesheets/extra.css">
-    
-    <script>__md_scope=new URL(".",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
-    
-      
+        /* SECTIONS */
+        section { padding: 80px 40px; max-width: 1200px; margin: 0 auto; }
+        .section-label {
+            font-size: 0.6rem; font-weight: 900; text-transform: uppercase;
+            letter-spacing: 3px; color: var(--accent); margin-bottom: 10px;
+        }
+        section h2 {
+            font-size: 2rem; font-weight: 900; letter-spacing: -1px;
+            margin-bottom: 30px; line-height: 1.2;
+        }
+        section h3 {
+            font-size: 1.1rem; font-weight: 800; margin: 30px 0 12px;
+            color: var(--accent2);
+        }
+        .divider {
+            width: 60px; height: 3px; background: var(--accent);
+            border-radius: 2px; margin-bottom: 30px;
+        }
 
-    
-    
-  
-  <style>
-    .md-footer-meta {
-      background-color: #050810;
-    }
-  </style>
+        /* CARDS */
+        .card-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; }
+        .card {
+            background: var(--card);
+            border: 1px solid var(--border);
+            border-radius: 16px; 
+            padding: 28px;
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            overflow: hidden;
+        }
+        .card::before {
+            content: '';
+            position: absolute; top:0; left:0; width:100%; height: 2px;
+            background: linear-gradient(90deg, transparent, var(--accent), transparent);
+            opacity: 0; transition: opacity 0.3s;
+        }
+        .card:hover {
+            transform: translateY(-8px);
+            border-color: var(--accent);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.4);
+        }
+        .card:hover::before { opacity: 1; }
+        .card-icon { font-size: 2.2rem; margin-bottom: 16px; filter: drop-shadow(0 0 8px rgba(45,212,191,0.3)); }
+        .card h4 { font-size: 1rem; font-weight: 800; margin-bottom: 8px; color: #fff; }
+        .card p { font-size: 0.85rem; color: var(--text2); line-height: 1.6; }
+        .card .tag {
+            display: inline-block; font-size: 0.6rem; font-weight: 800;
+            text-transform: uppercase; padding: 4px 10px; border-radius: 6px;
+            margin-top: 14px;
+            letter-spacing: 1px;
+        }
+        .tag-critical { background: rgba(244,63,94,0.15); color: #fda4af; }
+        .tag-active { background: rgba(45,212,191,0.15); color: var(--accent); }
+        .tag-ref { background: rgba(167,139,250,0.15); color: #c4b5fd; }
 
-  </head>
-  
-  
-    
-    
-      
-    
-    
-    
-    
-    <body dir="ltr" data-md-color-scheme="slate" data-md-color-primary="black" data-md-color-accent="red">
-  
-    
-    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
-    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
-    <label class="md-overlay" for="__drawer"></label>
-    <div data-md-component="skip">
-      
-        
-        <a href="#mulheres-que-tecem-a-floresta" class="md-skip">
-          Pular para conteúdo
-        </a>
-      
+        /* TABLE */
+        .data-table { width: 100%; border-collapse: collapse; margin: 20px 0; font-size: 0.8rem; }
+        .data-table th {
+            text-align: left; font-size: 0.6rem; font-weight: 900;
+            text-transform: uppercase; letter-spacing: 1px; color: var(--text2);
+            padding: 10px 12px; border-bottom: 2px solid var(--border);
+        }
+        .data-table td {
+            padding: 10px 12px; border-bottom: 1px solid var(--border);
+            color: var(--text); font-weight: 500;
+        }
+        .data-table tr:hover td { background: rgba(45,212,191,0.06); }
+        .data-table .highlight { 
+            color: var(--accent); 
+            font-weight: 900; 
+            text-shadow: 0 0 10px rgba(45,212,191,0.4);
+        }
+
+        /* PLOTTER */
+        .plotter-wrap {
+            width: 100%; margin: 0 auto;
+            border-radius: 16px; overflow:hidden;
+            border: 2px solid var(--border);
+            box-shadow: 0 30px 80px rgba(0,0,0,0.5);
+        }
+        .plotter-wrap iframe { width:100%; height: 75vh; border:none; display:block; }
+
+        /* REFS */
+        .ref-list { columns: 1; column-gap: 30px; }
+        .ref-item {
+            font-size: 0.75rem; color: var(--text2); line-height: 1.6;
+            margin-bottom: 10px; break-inside: avoid;
+            padding-left: 16px; border-left: 2px solid var(--border);
+        }
+        .ref-item a { color: var(--blue); text-decoration: none; }
+        .ref-item a:hover { text-decoration: underline; }
+        .ref-item strong { color: var(--text); }
+
+        /* FOOTER */
+        footer {
+            text-align: center; padding: 40px;
+            border-top: 1px solid var(--border);
+            font-size: 0.7rem; color: var(--text2); font-weight: 600;
+        }
+        footer a { color: var(--accent); text-decoration: none; }
+
+        /* RESPONSIVE */
+        @media (max-width: 768px) {
+            nav { padding: 0 16px; }
+            .nav-links { display:none; }
+            .nav-links.open {
+                display: flex; flex-direction: column;
+                position: absolute; top: 60px; left:0; right:0;
+                background: var(--bg); border-bottom: 1px solid var(--border);
+                padding: 10px 16px;
+            }
+            #mobile-nav { display:block; }
+            .hero { padding: 100px 20px 40px; }
+            section { padding: 50px 20px; }
+            .hero-stats { gap: 16px; }
+            .ref-list { columns: 1; }
+            .plotter-wrap iframe { height: 60vh; }
+        }
+        @media (min-width: 1024px) {
+            .ref-list { columns: 2; }
+        }
+
+        /* ANIMATIONS */
+        .fade-in {
+            opacity: 0; transform: translateY(20px);
+            transition: opacity 0.6s ease, transform 0.6s ease;
+        }
+        .fade-in.visible { opacity: 1; transform: translateY(0); }
+
+        /* PATTERN OVERLAY */
+        .section-pattern {
+            position: relative;
+            background-image: url('file:///Users/fabiotakwara/.gemini/antigravity/brain/6aa515a7-4f00-441d-b5ab-a8f98f707507/pattern_amazonia_grafismo_v2_1774280624215.png');
+            background-size: 400px;
+            background-repeat: repeat;
+        }
+        .section-pattern::after {
+            content: ''; position: absolute; top:0; left:0; right:0; bottom:0;
+            background: linear-gradient(180deg, var(--bg) 0%, rgba(5,8,16,0.85) 50%, var(--bg) 100%);
+            z-index: 1;
+        }
+        .section-pattern > * { position: relative; z-index: 2; }
+
+        .cta-button {
+            display: inline-block;
+            background: linear-gradient(135deg, var(--accent), var(--blue));
+            color: #000; font-weight: 900; font-size: 0.75rem;
+            text-transform: uppercase; letter-spacing: 1px;
+            padding: 14px 28px; border-radius: 8px;
+            text-decoration: none; margin-top: 30px;
+            transition: all 0.3s;
+            border: none; cursor: pointer;
+        }
+        .cta-button:hover {
+            transform: scale(1.05);
+            box-shadow: 0 0 20px rgba(45,212,191,0.5);
+        }
+
+        /* DASHBOARD WIDGETS */
+        .dashboard-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-top: 40px;
+        }
+        .widget {
+            background: var(--glass);
+            padding: 20px;
+            border-radius: 12px;
+            border: 1px solid rgba(45,212,191,0.1);
+            text-align: center;
+        }
+        .widget-val {
+            display: block;
+            font-size: 1.5rem;
+            font-weight: 900;
+            color: var(--accent);
+            margin-bottom: 5px;
+        }
+        .widget-lbl { font-size: 0.7rem; color: var(--text2); text-transform: uppercase; letter-spacing: 1px; }
+
+        /* TIMELINE "3 ATOS" */
+        .timeline {
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+            margin-top: 40px;
+            position: relative;
+        }
+        .timeline::before {
+            content: ''; position: absolute; left: 20px; top: 0; bottom: 0;
+            width: 2px; background: rgba(45,212,191,0.2);
+        }
+        .timeline-item {
+            display: flex;
+            gap: 20px;
+            padding-left: 50px;
+            position: relative;
+        }
+        .timeline-dot {
+            position: absolute; left: 14px; top: 5px;
+            width: 14px; height: 14px; background: var(--accent);
+            border-radius: 50%; box-shadow: 0 0 10px var(--accent);
+        }
+        .timeline-content h4 { color: #fff; margin-bottom: 5px; }
+        .timeline-content p { color: var(--text2); font-size: 0.9rem; }
+
+        /* MODAL */
+        .modal {
+            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+            background: rgba(5,8,16,0.95);
+            backdrop-filter: blur(10px);
+            z-index: 2000;
+            display: none;
+            overflow-y: auto;
+            padding: 40px 20px;
+        }
+        .modal-inner {
+            max-width: 900px; margin: 0 auto;
+            background: #0f172a; border: 1px solid rgba(255,255,255,0.1);
+            padding: 60px; border-radius: 20px; position: relative;
+            box-shadow: 0 25px 50px -12px rgba(0,0,0,0.5);
+        }
+        .modal-close {
+            position: absolute; top: 20px; right: 20px;
+            font-size: 2rem; color: #fff; cursor: pointer;
+            opacity: 0.5; transition: 0.3s;
+        }
+        .modal-close:hover { opacity: 1; }
+        .modal-header { border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 20px; margin-bottom: 40px; }
+        .modal-body { color: var(--text2); line-height: 1.8; }
+        .modal-body h2 { color: var(--accent); margin-top: 40px; border-bottom: 1px solid rgba(45,212,191,0.2); padding-bottom: 10px; }
+        .modal-body h3 { color: #fff; margin-top: 30px; }
+        .modal-body ul { list-style: circle; padding-left: 20px; margin: 20px 0; }
+        .modal-body strong { color: #fff; }
+
+        @media (max-width: 768px) {
+            .modal-inner { padding: 30px; }
+        }
+    </style>
+</head>
+<body>
+
+<nav>
+    <div class="nav-brand">MULHERES<span>QTF</span> — Síntese Científica</div>
+    <button id="mobile-nav" onclick="document.querySelector('.nav-links').classList.toggle('open')">☰</button>
+    <div class="nav-links">
+        <a href="#diagnostico">Diagnóstico</a>
+        <a href="#tecnologia">Tecnologia</a>
+        <a href="#artesanato">Identidade</a>
+        <a href="#formacao">Formação</a>
+        <a href="#plotter">SGMAS</a>
+        <a href="#referencias">Referências</a>
     </div>
-    <div data-md-component="announce">
-      
-    </div>
-    
-    
-  
-      
+</nav>
 
-<header class="md-header" data-md-component="header">
-  <nav class="md-header__inner md-grid" aria-label="Cabeçalho">
-    <a href="." title="Mulheres Que Tecem a Floresta - MQTF" class="md-header__button md-logo" aria-label="Mulheres Que Tecem a Floresta - MQTF" data-md-component="logo">
-      
-  <img src="assets/patterns/square_06_red.svg" alt="logo">
-
-    </a>
-    <label class="md-header__button md-icon" for="__drawer">
-      
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
-    </label>
-    <div class="md-header__title" data-md-component="header-title">
-      <div class="md-header__ellipsis">
-        <div class="md-header__topic">
-          <span class="md-ellipsis">
-            Mulheres Que Tecem a Floresta - MQTF
-          </span>
-        </div>
-        <div class="md-header__topic" data-md-component="header-topic">
-          <span class="md-ellipsis">
-            
-              Hub Científico
-            
-          </span>
-        </div>
-      </div>
+<!-- HERO -->
+<div class="hero">
+    <div class="hero-badge">Consórcio UnB / UFAC / UFRR — Fundo Amazônia 2026</div>
+    <h1>Mulheres Que <em>Tecem</em> a Floresta</h1>
+    <p>Bioeconomia feminina, soberania tecnológica em bambu e poliuretano vegetal de mamona, e navegação fluvial sustentável na Amazônia Legal.</p>
+    <div class="hero-stats">
+        <div class="hero-stat"><span class="num">R$ 34M</span><span class="lbl">Investimento Total</span></div>
+        <div class="hero-stat"><span class="num">100</span><span class="lbl">Mulheres Formadas</span></div>
+        <div class="hero-stat"><span class="num">5</span><span class="lbl">Polos Comunitários</span></div>
+        <div class="hero-stat"><span class="num">2.500t</span><span class="lbl">CO₂e Evitadas/Ano</span></div>
+        <div class="hero-stat"><span class="num">20</span><span class="lbl">Pontos SGMAS v1.0</span></div>
     </div>
-    
-      
-        <form class="md-header__option" data-md-component="palette">
-  
-    
-    
-    
-    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="black" data-md-color-accent="red"  aria-hidden="true"  type="radio" name="__palette" id="__palette_0">
-    
-  
-    
-    
-    
-    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="black" data-md-color-accent="red"  aria-hidden="true"  type="radio" name="__palette" id="__palette_1">
-    
-  
-</form>
-      
-    
-    
-      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
-    
-    
-    
-      
-      
-        <label class="md-header__button md-icon" for="__search">
-          
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
-        </label>
-        <div class="md-search" data-md-component="search" role="dialog">
-  <label class="md-search__overlay" for="__search"></label>
-  <div class="md-search__inner" role="search">
-    <form class="md-search__form" name="search">
-      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
-      <label class="md-search__icon md-icon" for="__search">
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
-      </label>
-      <nav class="md-search__options" aria-label="Pesquisar">
-        
-        <button type="reset" class="md-search__icon md-icon" title="Limpar" aria-label="Limpar" tabindex="-1">
-          
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
-        </button>
-      </nav>
-      
-        <div class="md-search__suggest" data-md-component="search-suggest"></div>
-      
-    </form>
-    <div class="md-search__output">
-      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
-        <div class="md-search-result" data-md-component="search-result">
-          <div class="md-search-result__meta">
-            Inicializando busca
-          </div>
-          <ol class="md-search-result__list" role="presentation"></ol>
-        </div>
-      </div>
-    </div>
-  </div>
+    <div class="scroll-cue">↓</div>
 </div>
-      
-    
-    
-      <div class="md-header__source">
-        <a href="https://github.com/takwaratec/Mulheres-Tecem-Amazonia" title="Ir para repositório" class="md-source" data-md-component="source">
-  <div class="md-source__icon md-icon">
-    
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
-  </div>
-  <div class="md-source__repository">
-    GitHub
-  </div>
-</a>
-      </div>
-    
-  </nav>
-  
-</header>
-    
-  <!-- Widget Climate Clock NASA/World (Versão Iframe para resiliência) -->
-  <div class="mqtf-climate-clock-container">
-    <iframe src="https://climateclock.net/embed/count-down" 
-            style="width: 180px; height: 35px; border: none; overflow: hidden;" 
-            scrolling="no"></iframe>
-  </div>
 
-    <div class="md-container" data-md-component="container">
-      
-      
-        
-          
-            
-<nav class="md-tabs" aria-label="Abas" data-md-component="tabs">
-  <div class="md-grid">
-    <ul class="md-tabs__list">
-      
-        
-  
-  
-  
-    
-  
-  
-    <li class="md-tabs__item md-tabs__item--active">
-      <a href="." class="md-tabs__link">
-        
-  
-  
-    
-  
-  Hub Científico
-
-      </a>
-    </li>
-  
-
-      
-        
-  
-  
-  
-  
-    <li class="md-tabs__item">
-      <a href="01_GOVERNANCA/WTF_PROJETO_INTEGRADO/" class="md-tabs__link">
-        
-  
-  
-    
-  
-  Projeto Integrado
-
-      </a>
-    </li>
-  
-
-      
-        
-  
-  
-  
-  
-    <li class="md-tabs__item">
-      <a href="01_GOVERNANCA/WTF-ALINHAMENTO_ESTRATEGICO/" class="md-tabs__link">
-        
-  
-  
-    
-  
-  Alinhamento BNDES
-
-      </a>
-    </li>
-  
-
-      
-        
-  
-  
-  
-  
-    
-    
-      <li class="md-tabs__item">
-        <a href="03_DOSSIE_BNDES/00_RESUMO_EXECUTIVO/" class="md-tabs__link">
-          
-  
-  
-  Dossiê BNDES
-
-        </a>
-      </li>
-    
-  
-
-      
-        
-  
-  
-  
-  
-    
-    
-      <li class="md-tabs__item">
-        <a href="01_GOVERNANCA/05_ANEXOS/ANEXO_I_PLANILHA_ORCAMENTARIA/" class="md-tabs__link">
-          
-  
-  
-  Anexos
-
-        </a>
-      </li>
-    
-  
-
-      
-        
-  
-  
-  
-  
-    <li class="md-tabs__item">
-      <a href="bibliografia/" class="md-tabs__link">
-        
-  
-  
-    
-  
-  Referências
-
-      </a>
-    </li>
-  
-
-      
-        
-  
-  
-  
-  
-    
-    
-      <li class="md-tabs__item">
-        <a href="04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/03_METADATA_CATALOG/WTF_INDEX_ACERVO/" class="md-tabs__link">
-          
-  
-  
-  Acervo Científico
-
-        </a>
-      </li>
-    
-  
-
-      
-        
-  
-  
-  
-  
-    
-    
-      <li class="md-tabs__item">
-        <a href="04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/AUDITORIA_E_GERAL/WTF_LEITURA-GLOBAL-PROJETO/" class="md-tabs__link">
-          
-  
-  
-  Engenharia & Gestão
-
-        </a>
-      </li>
-    
-  
-
-      
-    </ul>
-  </div>
-</nav>
-          
-        
-      
-      <main class="md-main" data-md-component="main">
-        <div class="md-main__inner md-grid">
-          
-            
-              
-              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
-                <div class="md-sidebar__scrollwrap">
-                  <div class="md-sidebar__inner">
-                    
-
-
-  
-
-
-<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navegação" data-md-level="0">
-  <label class="md-nav__title" for="__drawer">
-    <a href="." title="Mulheres Que Tecem a Floresta - MQTF" class="md-nav__button md-logo" aria-label="Mulheres Que Tecem a Floresta - MQTF" data-md-component="logo">
-      
-  <img src="assets/patterns/square_06_red.svg" alt="logo">
-
-    </a>
-    Mulheres Que Tecem a Floresta - MQTF
-  </label>
-  
-  <a href="index.html" style="display: block; padding: 12px 16px; font-size: 0.7rem; font-weight: 700; color: #2dd4bf; text-decoration: none; text-transform: uppercase; letter-spacing: 0.1em; border-bottom: 1px solid rgba(255,255,255,0.05); transition: 0.2s;">
-    ← Voltar ao Hub Científico
-  </a>
-
-  
-    <div class="md-nav__source">
-      <a href="https://github.com/takwaratec/Mulheres-Tecem-Amazonia" title="Ir para repositório" class="md-source" data-md-component="source">
-  <div class="md-source__icon md-icon">
-    
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
-  </div>
-  <div class="md-source__repository">
-    GitHub
-  </div>
-</a>
+<!-- DIAGNÓSTICO -->
+<section id="diagnostico" class="fade-in">
+    <div class="section-label">01 — Diagnóstico Territorial</div>
+    <h2>Uma Crise de Soberania Material</h2>
+    <div class="divider"></div>
+    <p style="color:var(--text2); max-width:800px; margin-bottom:30px;">
+        A Amazônia Legal importa aço, cimento, alumínio e diesel a custos multiplicados pelo "frete amazônico", enquanto possui, em abundância absoluta, dois materiais capazes de substituí-los: <strong style="color:#fff">bambu (Guadua spp.)</strong> e <strong style="color:#fff">poliuretano vegetal de mamona</strong>.
+    </p>
+    <div class="card-grid">
+        <div class="card">
+            <div class="card-icon">📍</div>
+            <h4>Ipixuna (AM)</h4>
+            <p>IDH 0,481 · Mortalidade infantil 29,63‰ · 63,2% sem banheiro · 0% esgoto tratado.</p>
+            <span class="tag tag-critical">IDHM Muito Baixo</span>
+        </div>
+        <div class="card">
+            <div class="card-icon">🛤️</div>
+            <h4>BR-319 — Trecho do Meio</h4>
+            <p>405,7 km que ameaçam 9 milhões de hectares e 51 Terras Indígenas. Narcotráfico, grilagem, isolamento.</p>
+            <span class="tag tag-critical">Risco de Desmatamento</span>
+        </div>
+        <div class="card">
+            <div class="card-icon">🏔️</div>
+            <h4>Vale do Purus</h4>
+            <p>66,6% da população abaixo da linha da pobreza. Mortalidade infantil indígena: 65,32‰ (DSEI, 2020).</p>
+            <span class="tag tag-critical">Extrema Vulnerabilidade</span>
+        </div>
+        <div class="card">
+            <div class="card-icon">🌊</div>
+            <h4>Escassez Hídrica (ANA)</h4>
+            <p>Resolução 264/2025: situação crítica nos rios Juruá, Purus, Acre e Iaco.</p>
+            <span class="tag tag-critical">Escassez Declarada</span>
+        </div>
+        <div class="card">
+            <div class="card-icon">🎋</div>
+            <h4>Bambuzais do Acre</h4>
+            <p>4,5 a 7 milhões de hectares de Guadua · ~21,8 bilhões de hastes disponíveis.</p>
+            <span class="tag tag-active">Capital Natural</span>
+        </div>
+        <div class="card">
+            <div class="card-icon">🧪</div>
+            <h4>PU de Mamona</h4>
+            <p>Biopolímero 100% nacional (Imperveg, Kehl). Adesão excepcional em bambu. Isento de solventes.</p>
+            <span class="tag tag-active">Insumo Industrial</span>
+        </div>
     </div>
-  
-  <ul class="md-nav__list" data-md-scrollfix>
-    
-      
-      
-  
-  
-    
-  
-  
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
-      
-      
+</section>
+
+<!-- TECNOLOGIA -->
+<section id="tecnologia" class="fade-in">
+    <div class="section-label">02 — Ecossistema Tecnológico</div>
+    <h2>10 Invenções de Patente Social</h2>
+    <div class="divider"></div>
+    <p style="color:var(--text2); max-width:800px; margin-bottom:20px;">
+        Protocolo de Engenharia Regenerativa: <strong style="color:var(--accent)">Não Veneno · Não Cimento · Não Voláteis</strong>. Todas as tecnologias são de domínio público (CC BY 4.0).
+    </p>
+    <table class="data-table">
+        <thead>
+            <tr><th>Inv.</th><th>Nome</th><th>Função</th></tr>
+        </thead>
+        <tbody>
+            <tr><td class="highlight">T01</td><td>Forno Ecológico</td><td>Carbonização de biomassa Smokeless (Zero Fumaça)</td></tr>
+            <tr><td class="highlight">T02</td><td>Reator Biorrefinaria</td><td>Pirólise lenta e cascateamento térmico multipropósito</td></tr>
+            <tr><td class="highlight">T03</td><td>Resinador Rotativo</td><td>Cura sincronizada de biopolímeros (Frangueira Industrial)</td></tr>
+            <tr><td class="highlight">T04</td><td>Misturador Biocompósitos</td><td>Câmara de mistura com Jato PU (Betoneira Impermeável)</td></tr>
+            <tr><td class="highlight">T05</td><td>Prensa de Cassetes</td><td>Compactação de elementos modulares intercambiáveis</td></tr>
+            <tr><td class="highlight">T06</td><td>Gabarito de Solda</td><td>Alinhamento para pré-fabricação de treliças vegetais</td></tr>
+            <tr><td class="highlight">T07</td><td>Prensa Sanduíche</td><td>Laminados estruturais por carga estática de contrapeso</td></tr>
+            <tr><td class="highlight">T08</td><td>Tamboreador Industrial</td><td>Beneficiamento superficial e captura de sílica ativa</td></tr>
+            <tr><td class="highlight">T09</td><td>Escariador Interno</td><td>Limpeza lúmen e remoção de nós para fluxo de vapor</td></tr>
+            <tr><td class="highlight">T10</td><td>Balsa Catamarã</td><td>Embarcação bio-compósita (Vapor 0-bar) para logística circular</td></tr>
+            <tr><td class="highlight">T11</td><td>Domo-Fábrica</td><td>Arquitetura geodésica em bambu para centros de processamento</td></tr>
+            <tr><td class="highlight">T12</td><td>BSM</td><td>Banheiro Seco Modular (Saneamento Ecológico Soberano)</td></tr>
+        </tbody>
+    </table>
+
+    <h3 style="margin-top:40px;">Soberania Alimentar & Bio-Cadeias (Profa. Sonia Marise)</h3>
+    <p style="color:var(--text2); max-width:800px; margin-bottom:20px;">
+        Industrialização na origem para a quebra do paradigma extrativista. O valor agregado permanece na floresta.
+    </p>
+    <div class="card-grid">
+        <div class="card">
+            <div class="card-icon">🥥</div>
+            <h4>Cadeia do Açaí</h4>
+            <p>Polpa pasteurizada e clarificação de óleo. Industrialização descentralizada com baixo impacto hídrico.</p>
+            <span class="tag tag-active">Industrialização na Origem</span>
+        </div>
+        <div class="card">
+            <div class="card-icon">🌰</div>
+            <h4>Cadeia da Castanha</h4>
+            <p>Classificação, secagem e embalagem a vácuo. Redução de 90% na dependência de atravessadores.</p>
+            <span class="tag tag-active">Autonomia Comercial</span>
+        </div>
+        <div class="card">
+            <div class="card-icon">⚡</div>
+            <h4>Simbiose Termoenergética</h4>
+            <p>Aproveitamento de caroços e cascas para gerar calor e vapor (T01/T02) nas unidades autônomas.</p>
+            <span class="tag tag-active">Economia Circular 100%</span>
+        </div>
+    </div>
+</section>
+
+<!-- ARTESANATO & PATRIMÔNIO -->
+<section id="artesanato" class="fade-in section-pattern">
+    <div class="section-label">03 — Identidade e Patrimônio</div>
+    <h2>Design Colaborativo e Marcas Coletivas</h2>
+    <div class="divider"></div>
+    <p style="color:var(--text2); max-width:800px; margin-bottom:20px;">
+        Sob a coordenação da <strong style="color:#fff">Profa. Georgia Ferko</strong>, o projeto integra o saber ancestral à alta agregação de valor do design sistêmico.
+    </p>
+    <div class="card-grid">
+        <div class="card">
+            <div class="card-icon">🎨</div>
+            <h4>Grafismos e Identidade</h4>
+            <p>Preservação histórica dos traços Kanamari, Mura e Apurinã como base para marcas coletivas de soberania.</p>
+            <span class="tag tag-ref">Patrimônio Imaterial</span>
+        </div>
+        <div class="card">
+            <div class="card-icon">🛰️</div>
+            <h4>Etnomapeamento</h4>
+            <p>Geoprocessamento participativo para identificação de áreas de colheita de fibras, sementes e tabocais.</p>
+            <span class="tag tag-active">Gestão Territorial Participativa</span>
+        </div>
+        <div class="card">
+            <div class="card-icon">👜</div>
+            <h4>Bio-Design e Luxo Sustentável</h4>
+            <p>Artesanato de alta costura utilizando subprodutos da biorrefinaria e fibras naturais certificadas.</p>
+            <span class="tag tag-ref">Agregação de Valor</span>
+        </div>
+    </div>
+</section>
+
+<!-- CANTEIRO-ESCOLA & MORADIA -->
+<section id="formacao" class="fade-in">
+    <div class="section-label">04 — Formação e Moradia</div>
+    <h2>Canteiro-Escola e Bio-Residências (HIS)</h2>
+    <div class="divider"></div>
+    <div class="card-grid">
+        <div class="card">
+            <div class="card-icon">🎓</div>
+            <h4>Metodologia Canteiro-Escola</h4>
+            <p>Aprendizado prático na construção de 5 polos operacionais. Formação técnica, política e cooperativa.</p>
+            <span class="tag tag-active">Pedagogia de Projeto</span>
+        </div>
+        <div class="card">
+            <div class="card-icon">🏠</div>
+            <h4>Bio-Residências (HIS / ATHIS)</h4>
+            <p>Habitação de Interesse Social em bambu e PU vegetal. Protótipos escaláveis de Unidades Autônomas.</p>
+            <span class="tag tag-active">Soberania Habitacional</span>
+        </div>
+        <div class="card">
+            <div class="card-icon">🧱</div>
+            <h4>Módulos Complementares</h4>
+            <p>Sistemas modulares para escolas comunitárias e centros de saúde de rápida implantação.</p>
+            <span class="tag tag-active">Infraestrutura Social</span>
+        </div>
+    </div>
+
+    <div style="text-align:center; margin-top:60px; padding:40px; background:rgba(45,212,191,0.05); border-radius:16px;">
+        <h3 style="margin:0 0 10px 0; color:#fff;">Dossiê Estratégico</h3>
+        <p style="color:var(--text2); margin-bottom:20px;">Acesse o detalhamento executivo e o plano de soberania material (v1.0 Mulheres que Tecem a Floresta).</p>
         
-      
-      
-        <label class="md-nav__link md-nav__link--active" for="__toc">
-          
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Hub Científico
-  
-
-    
-  </span>
-  
-  
-
-          <span class="md-nav__icon md-icon"></span>
-        </label>
-      
-      <a href="." class="md-nav__link md-nav__link--active">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Hub Científico
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-      
-        
-
-<nav class="md-nav md-nav--secondary" aria-label="Índice">
-  
-  
-  
-    
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Índice
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#sobre-o-projeto" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Sobre o Projeto
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tecnologias-e-invencoes-t01-t12" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tecnologias e Invenções (T01-T12)
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#governanca-e-financeiro" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Governança e Financeiro
-      
-    </span>
-  </a>
-  
-</li>
-      
-    </ul>
-  
-</nav>
-      
-    </li>
-  
-
-    
-      
-      
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="01_GOVERNANCA/WTF_PROJETO_INTEGRADO/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Projeto Integrado
-  
-
-    
-  </span>
-  
-  
-    
-  
-  
-    <span class="md-status md-status--Status Ready"></span>
-  
-
-  
-
-      </a>
-    </li>
-  
-
-    
-      
-      
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="01_GOVERNANCA/WTF-ALINHAMENTO_ESTRATEGICO/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Alinhamento BNDES
-  
-
-    
-  </span>
-  
-  
-    
-  
-  
-    <span class="md-status md-status--Status Ready"></span>
-  
-
-  
-
-      </a>
-    </li>
-  
-
-    
-      
-      
-  
-  
-  
-  
-    
-    
-    
-    
-      
-      
-        
-      
-    
-    
-    <li class="md-nav__item md-nav__item--nested">
-      
-        
-        
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
-        
-          
-          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
-            
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Dossiê BNDES
-  
-
-    
-  </span>
-  
-  
-
-            <span class="md-nav__icon md-icon"></span>
-          </label>
-        
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_4">
-            <span class="md-nav__icon md-icon"></span>
-            
-  
-    Dossiê BNDES
-  
-
-          </label>
-          <ul class="md-nav__list" data-md-scrollfix>
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="03_DOSSIE_BNDES/00_RESUMO_EXECUTIVO/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Resumo Executivo
-  
-
-    
-  </span>
-  
-  
-    
-  
-  
-    <span class="md-status md-status--Status Ready"></span>
-  
-
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="03_DOSSIE_BNDES/01_CADEIAS_VALOR/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Cadeias de Valor
-  
-
-    
-  </span>
-  
-  
-    
-  
-  
-    <span class="md-status md-status--Status Ready"></span>
-  
-
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="03_DOSSIE_BNDES/02_BIORREFINARIA_BIOCONSTRUCAO/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Biorrefinaria & Bioconstrução
-  
-
-    
-  </span>
-  
-  
-    
-  
-  
-    <span class="md-status md-status--Status Ready"></span>
-  
-
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="03_DOSSIE_BNDES/03_ARTESANATO_SABERES/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Artesanato & Saberes
-  
-
-    
-  </span>
-  
-  
-    
-  
-  
-    <span class="md-status md-status--Status Ready"></span>
-  
-
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="03_DOSSIE_BNDES/04_GOVERNANCA_OPERACIONAL/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Governança Operacional
-  
-
-    
-  </span>
-  
-  
-    
-  
-  
-    <span class="md-status md-status--Status Ready"></span>
-  
-
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-          </ul>
-        </nav>
-      
-    </li>
-  
-
-    
-      
-      
-  
-  
-  
-  
-    
-    
-    
-    
-      
-      
-        
-      
-    
-    
-    <li class="md-nav__item md-nav__item--nested">
-      
-        
-        
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
-        
-          
-          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
-            
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Anexos
-  
-
-    
-  </span>
-  
-  
-
-            <span class="md-nav__icon md-icon"></span>
-          </label>
-        
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_5">
-            <span class="md-nav__icon md-icon"></span>
-            
-  
-    Anexos
-  
-
-          </label>
-          <ul class="md-nav__list" data-md-scrollfix>
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="01_GOVERNANCA/05_ANEXOS/ANEXO_I_PLANILHA_ORCAMENTARIA/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Planejamento Financeiro
-  
-
-    
-  </span>
-  
-  
-    
-  
-  
-    <span class="md-status md-status--Status Ready"></span>
-  
-
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="01_GOVERNANCA/05_ANEXOS/ANEXO_IV_TR_MRV_SMGA/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Monitoramento SGMAS
-  
-
-    
-  </span>
-  
-  
-    
-  
-  
-    <span class="md-status md-status--Status Ready"></span>
-  
-
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-          </ul>
-        </nav>
-      
-    </li>
-  
-
-    
-      
-      
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="bibliografia/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Referências
-  
-
-    
-  </span>
-  
-  
-    
-  
-  
-    <span class="md-status md-status--Status Ready"></span>
-  
-
-  
-
-      </a>
-    </li>
-  
-
-    
-      
-      
-  
-  
-  
-  
-    
-    
-    
-    
-      
-      
-        
-      
-    
-    
-    <li class="md-nav__item md-nav__item--nested">
-      
-        
-        
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
-        
-          
-          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
-            
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Acervo Científico
-  
-
-    
-  </span>
-  
-  
-
-            <span class="md-nav__icon md-icon"></span>
-          </label>
-        
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_7">
-            <span class="md-nav__icon md-icon"></span>
-            
-  
-    Acervo Científico
-  
-
-          </label>
-          <ul class="md-nav__list" data-md-scrollfix>
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/03_METADATA_CATALOG/WTF_INDEX_ACERVO/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Índice do Acervo
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="04_PESQUISA_ANDAMENTO/teste_taxonomia/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Teste Taxonomia
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-          </ul>
-        </nav>
-      
-    </li>
-  
-
-    
-      
-      
-  
-  
-  
-  
-    
-    
-    
-    
-      
-      
-        
-      
-    
-    
-    <li class="md-nav__item md-nav__item--nested">
-      
-        
-        
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" >
-        
-          
-          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
-            
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Engenharia & Gestão
-  
-
-    
-  </span>
-  
-  
-
-            <span class="md-nav__icon md-icon"></span>
-          </label>
-        
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_8">
-            <span class="md-nav__icon md-icon"></span>
-            
-  
-    Engenharia & Gestão
-  
-
-          </label>
-          <ul class="md-nav__list" data-md-scrollfix>
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/AUDITORIA_E_GERAL/WTF_LEITURA-GLOBAL-PROJETO/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Leitura Global
-  
-
-    
-  </span>
-  
-  
-    
-  
-  
-    <span class="md-status md-status--Status Ready"></span>
-  
-
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/ENG-MEM-MASTER_CORACAO-TERMICO/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Coração Térmico
-  
-
-    
-  </span>
-  
-  
-    
-  
-  
-    <span class="md-status md-status--CONSOLIDADO (SGMAS-Ready)"></span>
-  
-
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-          </ul>
-        </nav>
-      
-    </li>
-  
-
-    
-  </ul>
-</nav>
-                  </div>
-                </div>
-              </div>
-            
-            
-              
-              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
-                <div class="md-sidebar__scrollwrap">
-                  <div class="md-sidebar__inner">
-                    
-
-<nav class="md-nav md-nav--secondary" aria-label="Índice">
-  
-  
-  
-    
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Índice
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#sobre-o-projeto" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Sobre o Projeto
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tecnologias-e-invencoes-t01-t12" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tecnologias e Invenções (T01-T12)
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#governanca-e-financeiro" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Governança e Financeiro
-      
-    </span>
-  </a>
-  
-</li>
-      
-    </ul>
-  
-</nav>
-                  </div>
-                </div>
-              </div>
-            
-          
-          
-            <div class="md-content" data-md-component="content">
-              
-              <article class="md-content__inner md-typeset">
-                
-                  
-
-
-
-<h1 id="mulheres-que-tecem-a-floresta">Mulheres Que Tecem a Floresta</h1>
-<p><strong>Consórcio Interinstitucional UnB / UFAC / UFRR</strong></p>
-<h2 id="sobre-o-projeto"><img src="assets/patterns/square_06_red.svg" class="wft-icon"> Sobre o Projeto</h2>
-<p>Iniciativa voltada ao empoderamento econômico de mulheres amazônidas através da bioeconomia descentralizada, silvicultura de bambu nativo (<em>Guadua</em> spp.), e saneamento ecológico soberano. O projeto é estruturado em polos comunitários e canteiros-escola, integrando tecnologias de baixo impacto e alta eficiência térmica.</p>
-<h2 id="tecnologias-e-invencoes-t01-t12"><img src="assets/patterns/square_06_red.svg" class="wft-icon"> Tecnologias e Invenções (T01-T12)</h2>
-<p>O ecossistema técnico do projeto é composto por 12 invenções complementares, unificadas pelo <strong><a href="04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/ENG-MEM-MASTER_CORACAO-TERMICO/">Coração Térmico Mulheres que Tecem a Floresta</a></strong> (0-bar):
-<img src="assets/icons/human_01_green.svg" class="wft-list-icon"> <strong>T01/T02</strong>: Biorrefinaria e Reator Central.
-<img src="assets/icons/human_02_red.svg" class="wft-list-icon"> <strong>T09</strong>: Escariador Interno de Bambu.
-<img src="assets/icons/human_03_black.svg" class="wft-list-icon"> <strong>T10</strong>: Balsa-Catamarã a Vapor de Baixa Pressão.
-<img src="assets/icons/human_04_green.svg" class="wft-list-icon"> <strong>T11</strong>: Domo-Fábrica de Bio-Compósitos.
-<img src="assets/icons/human_05_red.svg" class="wft-list-icon"> <strong>T12</strong>: Banheiro Seco Modular (BSM).</p>
-<h2 id="governanca-e-financeiro"><img src="assets/patterns/square_06_red.svg" class="wft-icon"> Governança e Financeiro</h2>
-<p><img src="assets/icons/human_06_black.svg" class="wft-list-icon"> <strong>Orçamento Consolidado</strong>: R$ 30M (Bruto) / R$ 25M (Líquido).
-<img src="assets/icons/human_07_green.svg" class="wft-list-icon"> <strong>Modelo de Gestão</strong>: <a href="01_GOVERNANCA/WTF_PROJETO_INTEGRADO/">WTF_PROJETO_INTEGRADO.md</a>
-<img src="assets/icons/human_08_red.svg" class="wft-list-icon"> <strong>Metodologia de Monitoramento</strong>: <a href="01_GOVERNANCA/05_ANEXOS/ANEXO_IV_TR_MRV_SMGA/">SMGA (Sistema de Monitoramento Geoespacial Amazônico)</a></p>
-<hr />
-<p><strong>Bamboo Engineering | Biochar | Social Patents | Amazonian Sovereignty</strong></p>
-
-
-
-
-
-
-
-
-
-
-
-
-                
-              </article>
+        <div class="dashboard-grid">
+            <div class="widget">
+                <span class="widget-val">R$ 34M</span>
+                <span class="widget-lbl">Investimento Total</span>
             </div>
-          
-          
-<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+            <div class="widget">
+                <span class="widget-val">1050</span>
+                <span class="widget-lbl">Famílias Impactadas</span>
+            </div>
+            <div class="widget">
+                <span class="widget-val">48 Meses</span>
+                <span class="widget-lbl">Ciclo de Maturação</span>
+            </div>
+            <div class="widget">
+                <span class="widget-val">TRL 8</span>
+                <span class="widget-lbl">Maturidade Tecnológica</span>
+            </div>
+        </div>
+
+        <button onclick="openModal()" class="cta-button">Explorar Projeto Integrado (Visual)</button>
+    </div>
+</section>
+
+<!-- MODAL INTERATIVO: PROJETO INTEGRADO -->
+<div id="projectModal" class="modal">
+    <div class="modal-inner">
+        <span class="modal-close" onclick="closeModal()">&times;</span>
+        <div class="modal-header">
+            <div class="section-label" style="margin-left:0;">MEMORANDO TÉCNICO V1.0</div>
+            <h1 style="font-size: 2.5rem; margin-top:10px;">Projeto Integrado: Mulheres Que Tecem a Floresta</h1>
+            <p style="color:var(--accent); font-weight:700;">Consórcio Interinstitucional UnB / UFAC / UFRR</p>
         </div>
         
-          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
-  
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
-  Voltar para o topo
-</button>
-        
-      </main>
-      
-        <footer class="md-footer">
-  
-  <div class="md-footer-meta md-typeset">
-    <div class="md-footer-meta__inner md-grid">
-      <!-- Override para o rodapé (copyright) -->
-<div class="md-copyright" style="width: 100%;">
-  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; gap: 8px;">
-    <!-- Ícone Centralizado (Square 06 Red) -->
-    <img src="./assets/patterns/square_06_red.svg" 
-         style="width: 45px; height: auto; filter: drop-shadow(0 0 3px rgba(255,0,0,0.5));" 
-         alt="Logo MQTF">
-    
-    <!-- Título e Subtítulo -->
-    <div style="font-weight: bold; font-size: 1.1em;">
-      Mulheres Que Tecem a Floresta - MQTF
-    </div>
-    <div style="font-size: 0.9em; opacity: 0.9; margin-top: -4px;">
-      Consórcio Científico - UnB/UFFR/UFAC
-    </div>
+        <div class="modal-body">
+            <h2>1. Metodologia Territorial (Os 3 Atos)</h2>
+            <div class="timeline">
+                <div class="timeline-item">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-content">
+                        <h4>Ato I: Anamnese (Corpo a Corpo)</h4>
+                        <p>Escuta profunda e diagnóstico humano in situ. Mapeamento de gargalos logísticos e capital social local.</p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-content">
+                        <h4>Ato II: Dispositivo Domo Voador</h4>
+                        <p>Unidade itinerante para permanência local (5-10 dias). Nó de articulação política e afetiva para sensibilização territorial.</p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-content">
+                        <h4>Ato III: Hub Canteiro-Escola</h4>
+                        <p>Imersão técnica prática. Fabricação das invenções T01-T12 pelas próprias educandas para transferência de tecnologia imediata.</p>
+                    </div>
+                </div>
+            </div>
 
-    <!-- Créditos Bibliográficos (Simplificados em duas linhas) -->
-    <div style="font-size: 0.8em; opacity: 0.7; margin-top: 8px; line-height: 1.4;">
-      Grafismos: <i>Grafismo indígena</i> / Lux Vidal (org.).<br>
-      EDUSP/FAPESP, 2000. CC BY 4.0.
+            <h2>2. Objetivos Estratégicos</h2>
+            <ul>
+                <li><strong>Soberania Material:</strong> Erradicar a dependência de aço/cimento via biocompósitos de bambu (Guadua spp).</li>
+                <li><strong>Bio-Industrialização:</strong> Agregação de valor na origem (Açaí/Castanha) triplicando a renda local.</li>
+                <li><strong>Autonomia Térmica:</strong> Substituição de diesel por bio-pirólise Smokeless (Zero Fumaça).</li>
+                <li><strong>Rastreabilidade MRV:</strong> Monitoramento geoespacial via Google Earth Engine (SMGA).</li>
+            </ul>
+
+            <h2>3. Resultados de 48 Meses</h2>
+            <div class="card-grid" style="grid-template-columns: repeat(2, 1fr);">
+                <div class="card" style="margin:0;">
+                    <h4>Impacto Social</h4>
+                    <p>100 mulheres líderes formadas, 120 empregos diretos e 1050 famílias beneficiadas.</p>
+                </div>
+                <div class="card" style="margin:0;">
+                    <h4>Impacto Climático</h4>
+                    <p>2.500t de CO2e evitadas anualmente e 15.000 hectares de bambuzais sob manejo sustentável.</p>
+                </div>
+            </div>
+
+            <div style="margin-top:40px; padding:20px; background:rgba(255,255,255,0.03); border-radius:12px; text-align:center;">
+                <p>O dossiê completo foi consolidado em um Hub Científico profissional (MkDocs).</p>
+                <a href="acervo/index.html" style="color:var(--accent); text-decoration:none; font-weight:700;">Acessar Acervo de Governança (Renderizado) →</a>
+            </div>
+        </div>
     </div>
-  </div>
 </div>
-      
+
+<!-- SINCERIDADE & SOBERANIA -->
+<section id="soberania" class="fade-in">
+    <div class="section-label">05 — Soberania e Ancestralidade</div>
+    <h2>A Janela que se Fecha</h2>
+    <div class="divider"></div>
+    <div style="max-width:800px;">
+        <p style="color:var(--text2); margin-bottom:20px;">
+            A estruturação de corredores logísticos entre o Acre e o Peru ameaça transformar o bambu amazônico na próxima commodity agrícola — exportado bruto para fábricas asiáticas que o devolverão ao Brasil como laminado manufaturado. A história brasileira já documentou esse ciclo com a borracha, a madeira e o minério.
+        </p>
+        <div style="background:rgba(45,212,191,0.06); border-left:3px solid var(--accent); padding:20px; border-radius:0 8px 8px 0; margin:20px 0;">
+            <p style="font-size:0.95rem; font-weight:600; color:#fff; margin-bottom:8px;">O etanol de cana provou que a biomassa brasileira move uma economia continental.</p>
+            <p style="font-size:0.95rem; font-weight:600; color:#fff; margin-bottom:8px;">O biodiesel de mamona provou que a oleoquímica vegetal substitui o petróleo.</p>
+            <p style="font-size:1.05rem; font-weight:900; color:var(--accent);">O bambu e o PU de mamona aguardam a terceira decisão.</p>
+        </div>
+        <h3>O Saber Ancestral como Base Científica</h3>
+        <p style="color:var(--text2); margin-bottom:20px;">
+            Os mestres carpinteiros navais do Alto Juruá detêm um sistema de geometria náutica empírica, seleção botânica e construção por proporções antropométricas que dispensou plantas formais por séculos. A termorretificação mimetiza o uso do fogo na carpintaria tradicional. A laminação de bambu mimetiza a construção por pranchas dos calafates. A transição não é de ruptura — é de <strong style="color:#fff">continuidade tecnológica</strong>.
+        </p>
+        <p style="color:var(--text2);">
+            As 51 Terras Indígenas (Apurinã, Mura, Kulina, Kanamari, Katukina) são as primeiras beneficiárias — e as primeiras autoridades consultivas — conforme o <strong style="color:#fff">CLPI / OIT-169</strong>.
+        </p>
     </div>
-  </div>
+
+    <h3 style="margin-top:40px;">Enquadramento Legal e Normativo</h3>
+    <table class="data-table">
+        <thead><tr><th>Marco</th><th>Aplicação</th></tr></thead>
+        <tbody>
+            <tr><td class="highlight">PPCDAm</td><td>Manejo sustentável de bambu; bioeconomia de floresta em pé</td></tr>
+            <tr><td class="highlight">Acordo de Paris / NDC</td><td>Mitigação via biochar e deslocamento de fósseis</td></tr>
+            <tr><td class="highlight">Salvaguardas de Cancun</td><td>REDD+ com respeito a povos tradicionais</td></tr>
+            <tr><td class="highlight">OIT 169 / CLPI</td><td>Consentimento Livre, Prévio e Informado (Obrigatório)</td></tr>
+            <tr><td class="highlight">VERRA VM0044</td><td>Certificação de remoção durável de carbono (Biochar)</td></tr>
+            <tr><td class="highlight">ABNT NBR 16828-1</td><td>Norma brasileira de estruturas de bambu</td></tr>
+            <tr><td class="highlight">ISO 22157:2019</td><td>Métodos internacionais de ensaio para bambu</td></tr>
+        </tbody>
+    </table>
+
+    <div class="card-grid" style="margin-top:40px;">
+        <div class="card" style="border-color: var(--accent2);">
+            <div class="card-icon">🧬</div>
+            <h4>P&D: Bio-PU de Mamona</h4>
+            <p>Biopolímero 100% nacional, isento de solventes e resistente a UV. Termos-chave: Oleoquímica, Substituição de Petróleo, Reparo a Frio.</p>
+            <span class="tag tag-active" style="background:rgba(167,139,250,0.15); color:var(--accent2);">Soberania Química</span>
+        </div>
+        <div class="card" style="border-color: var(--accent3);">
+            <div class="card-icon">🍄</div>
+            <h4>P&D: Micélios Amazônicos</h4>
+            <p>Identificação de espécies locais para biocompósitos radiculares. Pesquisa de base em Ipixuna e Cruzeiro do Sul.</p>
+            <span class="tag tag-active" style="background:rgba(251,191,36,0.15); color:var(--accent3);">Soberania Biológica</span>
+        </div>
+    </div>
+</section>
+
+<!-- SGMAS PLOTTER -->
+<section id="plotter" class="fade-in" style="max-width:100%; padding: 40px;">
+    <div style="max-width:1200px; margin:0 auto;">
+        <div class="section-label">06 — Monitoramento Geoespacial</div>
+        <h2>SGMAS Plotter v1.0 — Juruá-Purus</h2>
+        <div class="divider"></div>
+        <p style="color:var(--text2); max-width:800px; margin-bottom:30px;">
+            20 pontos georreferenciados · 3 corredores (Juruá, Purus, BR-319) · 7 Hubs operacionais + 7 diagnósticos sociais + 6 estações itinerantes. Clique nos nodos para ver indicadores.
+        </p>
+    </div>
+    <div class="plotter-wrap" style="max-width:1400px; margin:0 auto;">
+        <iframe src="01_GOVERNANCA/sgmas_plotter.html" title="SGMAS Plotter v1.0" loading="lazy"></iframe>
+    </div>
+</section>
+
+<!-- RESULTADOS -->
+<section id="resultados" class="fade-in">
+    <div class="section-label">07 — Resultados Esperados (48 meses)</div>
+    <h2>Entregas e Impactos</h2>
+    <div class="divider"></div>
+    <div class="card-grid">
+        <div class="card">
+            <div class="card-icon">🏭</div>
+            <h4>Canteiro-Escola</h4>
+            <p>1 unidade permanente (TRL 7-8) em Rio Branco — escola-fábrica para todas as turmas.</p>
+            <span class="tag tag-active">Hub Industrial</span>
+        </div>
+        <div class="card">
+            <div class="card-icon">👩‍🔧</div>
+            <h4>100 Mulheres Formadas</h4>
+            <p>Certificadas em bioconstrução, pirólise, agroindústria e gestão cooperativa.</p>
+            <span class="tag tag-active">Formação Intensiva</span>
+        </div>
+        <div class="card">
+            <div class="card-icon">🏘️</div>
+            <h4>5 Polos Comunitários</h4>
+            <p>Operacionais com módulos térmicos, domos, agroindústrias e saneamento ecológico.</p>
+            <span class="tag tag-active">Autonomia Local</span>
+        </div>
+        <div class="card">
+            <div class="card-icon">🚢</div>
+            <h4>2 Balsas Ecológicas</h4>
+            <p>Embarcações de bio-compósito para logística circular fluvial (T10).</p>
+            <span class="tag tag-active">Navegação Soberana</span>
+        </div>
+        <div class="card">
+            <div class="card-icon">💰</div>
+            <h4>+R$ 12.000/família/ano</h4>
+            <p>Renda incremental para 300-400 famílias via castanha, açaí, artesanato, briquetes e biochar.</p>
+            <span class="tag tag-active">Geração de Renda</span>
+        </div>
+        <div class="card">
+            <div class="card-icon">🌱</div>
+            <h4>2.500 t CO₂e/ano</h4>
+            <p>Evitadas via biochar certificado VERRA VM0044 + deslocamento de combustíveis fósseis.</p>
+            <span class="tag tag-active">Mitigação Climática</span>
+        </div>
+    </div>
+</section>
+
+<!-- REFERÊNCIAS -->
+<section id="referencias" class="fade-in">
+    <div class="section-label">08 — Referências</div>
+    <h2>Bibliografia DOI-Sync</h2>
+    <div class="divider"></div>
+    <div class="ref-list">
+        <div class="ref-item">ABNT. <strong>NBR 16828-1:2020</strong> — Estruturas de bambu: Projeto. <a href="https://www.abntcatalogo.com.br/">ABNT Catálogo</a></div>
+        <div class="ref-item">ANA. <strong>Resolução nº 264/2025</strong>: Escassez Quantitativa — Juruá, Purus, Acre, Iaco. <a href="https://www.in.gov.br/">DOU</a></div>
+        <div class="ref-item">ALMEIDA, A. E. F. S.; FERREIRA, O. P. Poliuretana de óleos vegetais. <em>Polímeros</em>, v.16, n.3, 2006. <a href="https://doi.org/10.1590/S0104-14282006000300011">doi:10.1590/S0104-14282006000300011</a></div>
+        <div class="ref-item">BAYMA, M. M. A. Estimativa do volume de bambu <em>Guadua</em> spp. no Acre. Tese — UEA, 2023. <a href="https://bdtd.ibict.br/">BDTD</a></div>
+        <div class="ref-item">BAYMA, M. M. A. et al. Uso sustentável do bambu nativo do Acre. <em>Aracê</em>, v.7, n.4, 2025.</div>
+        <div class="ref-item">BRAND, M. A. et al. Bambu para carvão vegetal. <em>Ciência Florestal</em>, v.30, n.1, 2020. <a href="https://doi.org/10.5902/1980509831576">doi:10.5902/1980509831576</a></div>
+        <div class="ref-item">BRASIL/DNIT. <strong>RIMA BR-319/AM</strong> (Trecho do Meio). Brasília, 2021. <a href="https://www.gov.br/dnit/">DNIT</a></div>
+        <div class="ref-item">BRITO, F. M. S. Termorretificação do bambu. Dissertação — UFES, 2013. <a href="https://bdtd.ibict.br/">BDTD</a></div>
+        <div class="ref-item">CANGEMI, J. M. Biodegradação de PU de mamona. Tese — IQSC/USP, 2006. <a href="https://doi.org/10.11606/T.75.2006.tde-09042007-090743">doi:10.11606/T.75.2006</a></div>
+        <div class="ref-item">CARVALHO, R. L. et al. Pegada de carbono na construção naval. 2019. <a href="https://www.researchgate.net/">ResearchGate</a></div>
+        <div class="ref-item">EMBRAPA Acre. <strong>Plano Estadual de Desenvolvimento do Bambu</strong>. 2016. <a href="https://www.embrapa.br/busca-de-publicacoes/-/publicacao/1154259">Embrapa</a></div>
+        <div class="ref-item">FGVces. Agenda de Desenvolvimento Territorial BR-319. 2021. <a href="https://eaesp.fgv.br/centros/centro-estudos-sustentabilidade">FGV</a></div>
+        <div class="ref-item">IABr. <strong>Relatório de Sustentabilidade 2022</strong>: 1,7 t CO₂/t aço. <a href="https://acobrasil.org.br/">IABr</a></div>
+        <div class="ref-item">IBGE. <strong>Cidades e Estados</strong>: Ipixuna, Humaitá, Canutama, Tapauá, Lábrea. 2022–2023. <a href="https://cidades.ibge.gov.br/">IBGE</a></div>
+        <div class="ref-item">ISO. <strong>ISO 22157:2019</strong> — Bamboo properties. <a href="https://www.iso.org/standard/65950.html">ISO</a></div>
+        <div class="ref-item">LOPES, R. S. <em>Defensas náuticas de PU vegetal</em>. Atena Editora, 2019. <a href="https://www.atenaeditora.com.br/">Atena</a></div>
+        <div class="ref-item">MONTRUCCHIO, M. A. et al. Carpintaria Naval Artesanal Bragantina. <em>Amazônica</em>, v.17, n.1, 2025. <a href="https://periodicos.ufpa.br/index.php/amazonica">UFPA</a></div>
+        <div class="ref-item">NELSON, P. M. et al. Compósito PU mamona + bambu. <em>Polímeros</em>, v.23, n.2, 2013. <a href="https://doi.org/10.4322/polimeros.2013.007">doi:10.4322/polimeros.2013.007</a></div>
+        <div class="ref-item">Observatório BR-319. <strong>Nota Técnica nº 05</strong>. 2023. <a href="https://observatoriobr319.org.br/">OBR-319</a></div>
+        <div class="ref-item">SANTOS, J. V. G. et al. Biocompósitos bambu + mamona. <em>Blucher</em>, v.4, n.3, 2018. <a href="https://doi.org/10.5151/sigradi2018-1397">doi:10.5151/sigradi2018-1397</a></div>
+        <div class="ref-item">SILVA, J. Saberes Tradicionais em Estaleiros de Manaus. Tese — UFAM, 2018. <a href="https://bdtd.ibict.br/">BDTD</a></div>
+        <div class="ref-item">SILVA, R. V. Compósito PU mamona + fibras vegetais. Tese — USP, 2003. <a href="https://doi.org/10.11606/T.88.2003.tde-28092015-163939">doi:10.11606/T.88.2003</a></div>
+        <div class="ref-item">US Patent 9657568B2 — Motor a vapor Uniflow. <a href="https://patents.google.com/patent/US9657568B2">Google Patents</a></div>
+        <div class="ref-item">VERRA. <strong>VM0044</strong>: Biochar Utilization. v.1.2, 2025. <a href="https://verra.org/methodologies/vm0044">Verra</a></div>
+        <div class="ref-item">ZANUNCIO, A. J. V. et al. Colorimetria da madeira. <em>Floresta e Ambiente</em>, v.21, n.1, 2014. <a href="https://doi.org/10.4322/floram.2014.010">doi:10.4322/floram.2014.010</a></div>
+    </div>
+</section>
+
+<footer>
+    <div style="margin-bottom: 20px;">
+        <img src="https://img.shields.io/badge/Status-Ativo-success?style=flat-square" alt="Status">
+        <img src="https://img.shields.io/badge/TRL-7--8-blue?style=flat-square" alt="TRL">
+        <img src="https://img.shields.io/badge/Patente-Social-orange?style=flat-square" alt="Patente">
+    </div>
+    <p><strong>MULHERES QUE TECEM A FLORESTA</strong> · © 2026</p>
+    <p style="margin: 10px 0;">
+        <a href="01_GOVERNANCA/03_PROTOCOLOS_E_NORMAS/GOV_glossario-siglas.md">Glossário</a> · 
+        <a href="01_GOVERNANCA/02_ORCAMENTO_E_LOGISTICA/BUDGET_orcamento-maquinario.md">Orçamento</a> · 
+        <a href="04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/TAK-MEM-MASTER_CORACAO-TERMICO.md">Memorial Mestre</a>
+    </p>
+    <p style="opacity: 0.6; font-size: 0.6rem;">
+        Consórcio UnB/UFAC/UFRR · Núcleo Takwara · Licença CC BY 4.0<br>
+        Engenharia de Soberania para a Libertação Tropical
+    </p>
 </footer>
-      
-    </div>
-    <div class="md-dialog" data-md-component="dialog">
-      <div class="md-dialog__inner md-typeset"></div>
-    </div>
-    
-    
-    
-      
-      
-      <script id="__config" type="application/json">{"annotate": null, "base": ".", "features": ["navigation.tabs", "navigation.sections", "navigation.top", "navigation.tracking", "search.suggest", "search.highlight", "content.code.copy"], "search": "assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "search.result.more.one": "mais 1 nesta p\u00e1gina", "search.result.more.other": "# mais nesta p\u00e1gina", "search.result.none": "Nenhum documento encontrado", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Digite para iniciar a busca", "search.result.term.missing": "Ausente", "select.version": "Selecione a vers\u00e3o"}, "version": null}</script>
-    
-    
-  
-      <script src="assets/javascripts/bundle.79ae519e.min.js"></script>
-      
-    
-  <script>
-    var injectMQTFSubtitle = function() {
-      var siteName = document.querySelector(".md-header__topic .md-ellipsis");
-      if (siteName && !document.querySelector(".mqtf-subtitle")) {
-        var subtitle = document.createElement("span");
-        subtitle.className = "mqtf-subtitle";
-        subtitle.innerText = "Consórcio Científico - UnB/UFFR/UFAC";
-        siteName.appendChild(subtitle);
-      }
-    };
 
-    // Suporte para navegação instantânea do Material
-    document.addEventListener("DOMContentLoaded", injectMQTFSubtitle);
-    if (typeof location$ !== "undefined") {
-      location$.subscribe(function() {
-        setTimeout(injectMQTFSubtitle, 100);
-      });
-    }
-  </script>
+<script>
+        // Modal Logic
+        function openModal() {
+            document.getElementById('projectModal').style.display = 'block';
+            document.body.style.overflow = 'hidden';
+        }
+        function closeModal() {
+            document.getElementById('projectModal').style.display = 'none';
+            document.body.style.overflow = 'auto';
+        }
+        window.onclick = function(event) {
+            let modal = document.getElementById('projectModal');
+            if (event.target == modal) closeModal();
+        }
 
-  </body>
+        // Intersection Observer for fade-in effect
+const observer = new IntersectionObserver((entries) => {
+    entries.forEach(e => { if(e.isIntersecting) e.target.classList.add('visible'); });
+}, { threshold: 0.1 });
+document.querySelectorAll('.fade-in').forEach(el => observer.observe(el));
+</script>
+</body>
 </html>
