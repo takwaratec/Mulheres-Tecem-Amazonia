@@ -1,28 +1,34 @@
-# Project Specific
-COLECAO_ZENODO_WTF_2026/
+# === MQTF REGRAS DE GOVERNANÇA GIT ===
+
+# 1. Pesquisa e Material Bruto (NÃO SOBE PARA O GIT)
+_RESEARCH_RAW/
 99_RESTRITO/
+COLECAO_ZENODO_WTF_2026/
+DOCLING_PDF-MD/
+PESQUISA_GRAFISMO/
 
-# OS Specific
-.DS_Store
-Thumbs.db
+# 2. Builds e Saídas Automáticas
+site/
+acervo/
 
-# Documentation/Artifacts (Private)
-.gemini/
-.agents/
-PESQUISA_GRAFISMO
-99_RESTRITO
-
-# Python/Environments
+# 3. Ambientes Virtuais e Scripts de Instalação
 venv/
 .venv/
 env/
+Miniconda3*
+*.sh
+
+# 4. Arquivos de Sistema e Cache
+.DS_Store
+Thumbs.db
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
+.gemini/
+.agents/
 
-# Binary and Large Files
-*.sh
+# 5. Binários e Compactados de Grande Porte
 *.dylib
 *.so
 *.dll
@@ -31,4 +37,3 @@ __pycache__/
 *.zip
 *.tar.gz
 *.7z
-Miniconda3-latest-MacOSX-x86_64.sh
