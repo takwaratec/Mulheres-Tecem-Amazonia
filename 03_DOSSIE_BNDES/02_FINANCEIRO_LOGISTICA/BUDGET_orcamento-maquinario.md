@@ -123,3 +123,6 @@ Este documento extrai as metragens e componentes dos memoriais técnicos (Série
 
 ---
 **🎋 Institucional — Avaliação Técnica de Ativos de Soberania**
+
+---
+**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**

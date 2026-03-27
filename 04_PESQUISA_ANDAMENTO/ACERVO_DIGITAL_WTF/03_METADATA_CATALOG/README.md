@@ -1,4 +1,4 @@
-# 📒 Catálogo de Metadados e Índices: Projeto WTF
+# 📒 Catálogo de Metadados e Índices: Projeto Mulheres que Tecem a Floresta
 
 Este diretório centraliza a inteligência e a organização bibliográfica do projeto **Mulheres Que Tecem a Floresta**. Ele serve como a ponte entre o acervo bruto e as análises estratégicas para o dossiê BNDES.
 

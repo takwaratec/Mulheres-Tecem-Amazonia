@@ -1,7 +1,20 @@
+---
+projeto: Mulheres Que Tecem a Floresta 
+instituicao: Consórcio UnB/UFRR/UFAC
+tipo: Dossiê de Equipe (ANEXO)
+referencia: ANX-CUR-001-2026
+status: Status Ready
+author:
+- name: Consórcio UnB/UFRR/UFAC
+date: '2026-03-24'
+---
+
 # ANEXO V: Currículo Resumido da Equipe Técnica
+![Status: Ready](https://img.shields.io/badge/Status-Ready-brightgreen)
 
 **Equipe Estruturante UnB / UFAC**
 
+---
 
 ### 1. Coordenação Institucional e de Governança
 
@@ -17,7 +30,7 @@
 
 ### 2. Direção de Inovação e Tecnologia Social
 
-**Fabio Takwara (UnB/Núcleo Takwara)**
+**Fabio Takwara (UnB/Núcleo Institucional)**
 - **Qualificação:** Diretor de Inovação Tecnológica com 40 anos de trajetória em educação ambiental popular e tecnologias regenerativas.
 - **Papel:** Idealizador do Sistema e Diretor de P&D (Design Soberano e Bio-Arquitetura).
 - **Expertise:** Tecnologia de solda vegetal (Bambu + PU de Mamona), prototipagem de biorrefinarias comunitárias e desenvolvimento de sistemas construtivos de baixo impacto.
@@ -46,7 +59,9 @@
 - **Papel:** Desenvolvimento do Sistema de Monitoramento Geoespacial Amazônico (SMGA/MRV).
 - **Expertise:** Design de cadeias de valor soberanas, monitoramento por satélite (PROFNIT/PROCISA) e análise de impacto socioambiental.
 
+---
 **Nota:** Currículos Lattes detalhados serão anexados na versão oficial de submissão.
-Referência: [01_COLABORADORES](../01_COLABORADORES)
+Referência: Acervo Institucional do Consórcio (01_COLABORADORES)
 
-
+---
+**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**

@@ -1,8 +1,20 @@
-# ANEXO I: Planilha Orçamentária Detalhada (BNDES)
+---
+projeto: Mulheres Que Tecem a Floresta 
+instituicao: Consórcio UnB/UFRR/UFAC
+tipo: Planilha Orçamentária (ANEXO)
+referencia: ANX-PLA-001-2026
+status: Status Ready
+author:
+- name: Consórcio UnB/UFRR/UFAC
+date: '2026-03-24'
+---
+
+# ANEXO I: Planilha Orçamentária Detalhada
+![Status: Ready](https://img.shields.io/badge/Status-Ready-brightgreen)
 
 **Projeto:** Mulheres Que Tecem a Floresta
 **Período:** 48 meses
-**Status:** Alinhado para 23-03
+**Status:** Status Ready
 
 ---
 
@@ -39,8 +51,11 @@
 
 ## 🏛️ Contrapartida (R$ 4.000.000)
 - **Intelecto e Patente Social:** Projetos T01-T12 de domínio público.
-- **P&D Acumulado:** Pesquisas prévias UnB/UFAC/UFRR.
+- **P&D Acumulado:** Pesquisas prévias Consórcio UnB/UFRR/UFAC.
 - **Infraestrutura:** Uso de laboratórios universitários.
 
 ---
-**Nota Técnica:** O montante de R$ 30M solicitado prevê a retenção tributária e taxas administrativas, garantindo a aplicação real de R$ 25M no território em conforme a estratégia "Zero Subtração".
+**Nota Técnica:** O montante de R$ 30M solicitado prevê a retenção tributária e taxas administrativas, garantindo a aplicação real de R$ 25M no território conforme a estratégia "Zero Subtração".
+
+---
+**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**

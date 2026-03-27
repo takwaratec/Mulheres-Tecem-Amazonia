@@ -1,18 +1,22 @@
 ---
-projeto: Mulheres Que Tecem a Floresta (WTF)
+projeto: Mulheres Que Tecem a Floresta 
 instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Nota Técnica de Engenharia (Anexo Projeto)
+tipo: Nota Técnica de Engenharia (ENG)
 referencia: NT-ENG-001-2026
-status: CONSOLIDADO (SGMAS-Ready)
+status: Status Ready
+author:
+- name: Consórcio UnB/UFRR/UFAC
+date: '2026-03-24'
 ---
 
 # Nota Técnica NT-ENG-001: Engenharia Fluvial Itinerante e Gestão de Resíduos
+![Status: Ready](https://img.shields.io/badge/Status-Ready-brightgreen)
 
 ## 1. Justificativa e Escopo Logístico
 
-A presente Nota Técnica fundamenta a transição do modelo de "Biorrefinarias Estáticas" para o sistema de **Infraestrutura Fluvial Itinerante (Barco/Beneficiadora)**. O objetivo é superar o isolamento geográfico no Vale do Juruá, integrando o processamento sanitário de polpas (Açaí/Castanha) com a logística reversa de polímeros urbanos, atendendo ao protocolo **SGMAS-Ready**.
+A presente Nota Técnica fundamenta a transição do modelo de "Biorrefinarias Estáticas" para o sistema de **Infraestrutura Fluvial Itinerante (Barco/Beneficiadora)**. O objetivo é superar o isolamento geográfico no Vale do Juruá, integrando o processamento sanitário de polpas (Açaí/Castanha) com a logística reversa de polímeros urbanos, atendendo ao protocolo **Status Ready**.
 
-*Referência Primária: [TAK-MEM-006](TAK-MEM-006_BIOINDUSTRIA-FLUVIAL-ESTUDO-VIABILIDADE.md)*
+*Referência Primária: [ENG-MEM-006](ENG-MEM-006_BIOINDUSTRIA-FLUVIAL-ESTUDO-VIABILIDADE.md)*
 
 ## 2. Inventário de Operação Fluvial (SGMAS - Juruá)
 
@@ -41,11 +45,14 @@ A embarcação atua como uma **indústria volante** equipada com o módulo integ
 
 ## 5. Bibliografia e Sync-Link
 
-1. **[TAK-MEM-005](TAK-MEM-005_3IN1-BIOENERGY-COMMUNITY-SYSTEM.md)**: *Bioenergia Comunitária e Unidades Móveis*.
+1. **[ENG-MEM-005](ENG-MEM-005_3IN1-BIOENERGY-COMMUNITY-SYSTEM.md)**: *Bioenergia Comunitária e Unidades Móveis*.
 2. **[The Ocean Cleanup (2021)](https://theoceancleanup.com/rivers/amazon/)**: *Amazon Plastic Emissions*.
 3. **[Melo, S. S. (2012)](../../../../99_RESTRITO/02_TRIAGEM_BRUTA/WA_Bioarquitetura_Amazonia/00000054-Biomassa_Bioenergia.txt)**: *Biorrefinaria e Pasteurização*.
 4. **[Trata Brasil (2025)](https://tratabrasil.org.br/)**: *Impacto DRSAI no Acre*.
 
 ---
 **Aprovação**: Coordenação de Engenharia (Consórcio UnB/UFRR/UFAC).
-*Redigido sob Protocolo Advocacy WTF (IA-Free) - Março 2026.*
+*Redigido sob Protocolo Advocacy Mulheres que Tecem a Floresta (IA-Free) - Março 2026.*
+
+---
+**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**

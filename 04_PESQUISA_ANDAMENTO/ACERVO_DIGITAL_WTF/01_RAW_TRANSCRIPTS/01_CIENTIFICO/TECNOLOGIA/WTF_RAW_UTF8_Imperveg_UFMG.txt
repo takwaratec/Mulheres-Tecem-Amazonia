@@ -3,7 +3,7 @@ projeto: Mulheres Que Tecem a Floresta
 instituicao: Consórcio UnB/UFAC/UFRR
 equipe: Gestão e Parceria Regional
 tipo: Acervo de Consulta RAW (Transcrição)
-autor: Acervo Digital WTF
+autor: Acervo Digital Mulheres que Tecem a Floresta
 data: '2025'
 ---
 USO DE RESÍDUOS DE BAMBU COMO REFORÇO NA FABRICAÇÃO DE COMPÓSITOS PARA UTILIZAÇÃO COMO OSB - PAINÉIS DE PARTÍCULAS ORIENTADAS

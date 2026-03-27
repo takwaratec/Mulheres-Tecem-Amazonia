@@ -1,0 +1,1 @@
+❌ Erro: O servidor permaneceu indisponível após 3 tentativas.

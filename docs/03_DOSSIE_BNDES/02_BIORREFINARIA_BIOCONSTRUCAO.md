@@ -1,3 +1,14 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFRR/UFAC
+tipo: Documento Técnico
+referencia: 02_BIORREFINARIA_BIOCONSTRUCAO
+status: Status Ready
+author:
+- name: Consórcio UnB/UFRR/UFAC
+date: '2026-03-26'
+---
+
 # 🏗️ Componente 2: Biorrefinaria e Bioconstrução
 **Responsável Técnica:** Coordenação de Engenharia (Fabio Resck / Jesiel / Filemon)  
 **Metodologia de Redação:** 4 Mãos (Coordenação Técnica Colegiada)
@@ -33,6 +44,7 @@ O projeto endereça a crise de saneamento na Amazônia Sul-Ocidental através da
 ## 4. Inovação e Sustentabilidade
 A sinergia entre o bambu, a pirólise e o saneamento representa o estado da arte na bioeconomia circular amazônica. O projeto não apenas constrói com a floresta, mas utiliza sua biomassa de forma eficiente, gerando biochar para regeneração de solos e consolidando um modelo de infraestrutura que é, simultaneamente, um dreno de carbono, uma barreira sanitária e um propulsor de renda.
 
+---
 **Coordenação Geral de P&D**  
 *Consórcio Interinstitucional UnB / UFAC / UFRR — 2026*
 
@@ -43,4 +55,5 @@ Para o detalhamento técnico e científico dos conceitos apresentados neste comp
 - [**Resumo Estratégico: Geodésicas de Bambu (UTFPR/IFPR)**](../04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/01_CIENTIFICO/TECNOLOGIA/WTF_RES_2018_geodesicas_de_bambupdf.md): Validação da eficiência estrutural e relação resistência/peso do bambu arborescente.
 - [**Resumo Estratégico: Poliuretano Vegetal MAMONEX® RD70**](../04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/01_CIENTIFICO/TECNOLOGIA/WTF_RES_ft_mamonex_rd70pdf.md): Especificações do biopolímero para reforço estrutural e justificativa de CAPEX (Airless).
 
-
+---
+**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**

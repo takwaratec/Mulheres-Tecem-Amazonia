@@ -1,3 +1,14 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFRR/UFAC
+tipo: Governança e Estratégia
+referencia: 04_GOVERNANCA_OPERACIONAL
+status: Status Ready
+author:
+- name: Consórcio UnB/UFRR/UFAC
+date: '2026-03-26'
+---
+
 # 🏛️ Componente 4: Governança, Operacional e Financeiro
 **Responsáveis Técnicas:** Profa. Dra. Tânia Cruz e Profa. Dra. Vanessa Araújo  
 **Metodologia de Redação:** 4 Mãos (Coordenação Técnica Colegiada)
@@ -16,6 +27,7 @@ A viabilidade operacional do projeto é centralizada no **Canteiro-Escola de Rio
 ## 3. Compliance e Monitoramento (MRV)
 A governança institucional garante total transparência na aplicação dos recursos do BNDES/Fundo Amazônia. Através de sistemas de Monitoramento, Relato e Verificação (MRV) geoespacial, o projeto rastreia os impactos em sequestro de carbono, regeneração de bambuzais e indicadores socioeconômicos, assegurando o cumprimento integral dos marcos regulatórios da biodiversidade (Lei 13.123/2015) e dos protocolos de consulta prévia.
 
+---
 **Coordenação Geral de P&D**  
 *Consórcio Interinstitucional UnB / UFAC / UFRR — 2026*
 
@@ -25,4 +37,5 @@ Para o detalhamento técnico e científico dos conceitos apresentados neste comp
 - [**Resumo Estratégico: Nova Economia da Amazônia (WRI Brasil)**](../04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/01_CIENTIFICO/BIOECONOMIA/WTF_RES_00000042_nea_nova_economia_amazonia_relatorio_completo_portuguespdf.md): Legitimação macroeconômica e benchmarking de investimento para a transição produtiva.
 - [**Resumo Estratégico: Bioeconomia no Amazonas (CTI/MCTI)**](../04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/01_CIENTIFICO/TECNOLOGIA/WTF_RES_00000041_nota_tecnica_001_bioeconomia_cti_bioeconomia_no_amazonaspdf.md): Alinhamento com as políticas nacionais de tecnologia social e bioinsumos.
 
-
+---
+**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**

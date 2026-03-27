@@ -1,7 +1,19 @@
-# ANEXO III: Protocolo de Intenções – Consórcio UnB/UFAC/UFRR
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFRR/UFAC
+tipo: Documento Técnico
+referencia: ANEXO_III_PROTOCOLO_INTENCOES
+status: Status Ready
+author:
+- name: Consórcio UnB/UFRR/UFAC
+date: '2026-03-26'
+---
+
+# ANEXO III: Protocolo de Intenções – Consórcio Consórcio UnB/UFRR/UFAC
 
 **Assunto:** Cooperação Técnica, Científica e Pedagógica para o Projeto Mulheres Que Tecem a Floresta.
 
+---
 
 ## 1. DAS PARTES
 - **Universidade de Brasília (UnB):** Instituição Líder e Proponente. Responsável pela Coordenação Geral, Engenharia de Tecnologia Social (Takwara) e Sistema de MRV.
@@ -16,7 +28,9 @@
 ## 3. DO COMPROMISSO COM O DOMÍNIO PÚBLICO
 As partes acordam que todos os resultados técnicos, patentes sociais e metodologias pedagógicas derivados do projeto BNDES serão de **domínio público**, não podendo ser objeto de apropriação privada ou restrição de uso comunitário por nenhuma das signatárias.
 
+---
 **Status:** Minuta base para assinatura das Reitorias.
 Referência: [GOV_PROTOCOLO_TRIAGEM_TECNICA.md](../00_MASTER/GOV_PROTOCOLO_TRIAGEM_TECNICA.md)
 
-
+---
+**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**

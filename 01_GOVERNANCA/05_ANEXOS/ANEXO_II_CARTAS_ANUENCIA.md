@@ -1,3 +1,14 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFRR/UFAC
+tipo: Documento Técnico
+referencia: ANEXO_II_CARTAS_ANUENCIA
+status: Status Ready
+author:
+- name: Consórcio UnB/UFRR/UFAC
+date: '2026-03-26'
+---
+
 # ANEXO II: Cartas de Anuência (Modelos)
 
 **Finalidade:** Formalizar a concordância das Cooperativas e Associações de Mulheres com os termos do projeto e sua participação no consórcio.
@@ -30,3 +41,6 @@ __________________________________________
 - Cooperativa de Mulheres do Juruá (Cruzeiro do Sul)
 - Associação de Artesãs de Rio Branco
 - [Lista a ser complementada pela Coordenação de Campo]
+
+---
+**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**

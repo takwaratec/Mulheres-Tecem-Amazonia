@@ -1,3 +1,14 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFRR/UFAC
+tipo: Documento Técnico
+referencia: 00_repository_governance_inventory
+status: Status Ready
+author:
+- name: Consórcio UnB/UFRR/UFAC
+date: '2026-03-26'
+---
+
 # Inventário de Governança: Regras, Skills e Workflows
 
 Este documento lista os protocolos, habilidades e fluxos de trabalho que regem a operação deste repositório e a atuação de agentes de IA no Projeto **Mulheres Que Tecem a Floresta**.
@@ -7,7 +18,7 @@ Localizadas em `01_GOVERNANCA/.agents/rules/`. Estas são as normas que definem 
 
 - **[MASTER_RULES.md](.agents/rules/MASTER_RULES.md)**: Autoridade suprema do projeto. Define locking de produção, shadow staging e padrões de versionamento.
 - **workspace-rules.md**: Regras gerais do ambiente de trabalho.
-- **regra_versionamento.md**: Protocolos para controle de versão v1.0 (WTF).
+- **regra_versionamento.md**: Protocolos para controle de versão v1.0 .
 - **firewall_agent.md**: Regras de segurança para proteção de dados sensíveis (especialmente da pasta `99_RESTRITO`).
 - **GOV_regimento-pvit-audiovisual.md**: Normas para produção audiovisual e visual (padrão Salgado/Henfil).
 - **GOV_checklist-detalhes-finos.md**: Critérios de qualidade para finalização de documentos.
@@ -20,7 +31,7 @@ Localizadas em `01_GOVERNANCA/.agents/skills/`. Definem as capacidades especiali
 
 - **[Protocolo-Mestre.md](.agents/skills/Protocolo-Mestre.md)**: O roteador principal de todas as skills.
 - **Skills por Área**:
-    - **advocacy**: Protocolo para criação de conteúdos de denúncia e impacto político (**Advocacy WTF**). Exige rigor factual e alinhamento com as regras de defesa territorial.
+    - **advocacy**: Protocolo para criação de conteúdos de denúncia e impacto político (**Advocacy Mulheres que Tecem a Floresta**). Exige rigor factual e alinhamento com as regras de defesa territorial.
     - **annals**: Gestão da obra coletiva do consórcio WFT (2025) e construção de legado futuro, situando documentos nos marcos das três universidades.
     - **backstage**: Agente de Integração que orquestra o acervo bibliográfico (`WTF_INDEX_ACERVO.md`) para mídias, priorizando itens estrela (**⭐**).
     - **communication**: Transforma conteúdo técnico em posts, roteiros e podcasts (@takwaratec). Define o estilo visual Henfil/Warhol e bordas brancas (pass-partout).
@@ -46,7 +57,7 @@ Localizados em `01_GOVERNANCA/.agents/workflows/`. Passos estruturados para tare
 Estas prioridades devem guiar todas as decisões técnicas e de redação dos agentes:
 
 1.  **Teto Orçamentário Unificado (R$ 30M)**: O projeto é dividido em 3 eixos de R$ 10M (Açaí-Castanha / Artesanato / Biorrefinaria). Evite propostas que extrapolam este limite.
-2.  **Logística de Soberania (Canteiro-Escola)**: Substituição de cursos itinerantes por um centro fixo em **Rio Branco (Hub WTF)**. A aquisição de micro-ônibus e caminhão é prioritária para levar a clientela ao Hub.
+2.  **Logística de Soberania (Canteiro-Escola)**: Substituição de cursos itinerantes por um centro fixo em **Rio Branco (Hub Mulheres que Tecem a Floresta)**. A aquisição de micro-ônibus e caminhão é prioritária para levar a clientela ao Hub.
 3.  **Mandato de Material (Guadua)**: O uso do **Bambu Guadua** nativo é a solução técnica padrão para infraestrutura, visando redução de 90% nos custos.
 4.  **Execução Direta**: A governança é exercida pelo **Conselho Gestor**, sem intermediários corporativos.
 
@@ -54,7 +65,7 @@ Estas prioridades devem guiar todas as decisões técnicas e de redação dos ag
 
 - **Higiene de Nomenclatura**: NUNCA use "Mãos que Tecem". O nome oficial e imutável é **Mulheres Que Tecem a Floresta**.
 - **Regra Temporal**: Ignore qualquer menção à COP30 (passado). O foco é **Escala e Consolidação 2026+**.
-- **IA-Free**: Proibido linguagem robótica ("Certamente", "Aqui está", "Espero que isso ajude"). A redação deve ser técnica, direta e autoral (**Advocacy WTF**).
+- **IA-Free**: Proibido linguagem robótica ("Certamente", "Aqui está", "Espero que isso ajude"). A redação deve ser técnica, direta e autoral (**Advocacy Mulheres que Tecem a Floresta**).
 - **GEMINICLI**: Em caso de falha no comando `gemini`, utilize o script de extração nativa via **Quartz** (`01_GOVERNANCA/.agents/scripts/triage_pdf_robusto.py` - versão ajustada).
 
 ---
@@ -75,7 +86,7 @@ As **Skills** são o "Cérebro" (o que a IA sabe/regras) e os **Workflows** são
 
 ---
 > [!IMPORTANT]
-> A transição para o padrão **WTF** é absoluta. Documentos herdados são apenas para referência histórica de dados brutos e devem ser "limpos" (IA-Free) antes de qualquer promoção para o acervo oficial.
+> A transição para o padrão **Mulheres que Tecem a Floresta** é absoluta. Documentos herdados são apenas para referência histórica de dados brutos e devem ser "limpos" (IA-Free) antes de qualquer promoção para o acervo oficial.
 
 ---
 ## 🔇 Guia de Operação Sem Ruído (IA-Free)
@@ -90,4 +101,7 @@ Para que a colaboração ocorra sem alucinações ou termos obsoletos (como COP3
 
 ---
 > [!NOTE]
-> Toda a atuação de IA é pautada pelo **[system_prompt_institucional.txt](.agents/system_prompt_institucional.txt)**, que exige rigor ético, higiene de ativos e imutabilidade do corpo do texto consolidado. Sustentado pela sigla âncora **WTF**.
+> Toda a atuação de IA é pautada pelo **[system_prompt_institucional.txt](.agents/system_prompt_institucional.txt)**, que exige rigor ético, higiene de ativos e imutabilidade do corpo do texto consolidado. Sustentado pela sigla âncora **Mulheres que Tecem a Floresta**.
+
+---
+**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**

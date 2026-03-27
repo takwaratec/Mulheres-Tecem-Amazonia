@@ -1,39 +1,21 @@
-# Acervo Científico e de Governança — Projeto WTF
+# Mulheres Que Tecem a Floresta 
+**Consórcio Interinstitucional UnB / UFAC / UFRR**
 
-Bem-vinda ao Hub de Documentação Científica do projeto **Mulheres Que Tecem a Floresta**. Este espaço centraliza os documentos técnicos, estratégicos e socioambientais eleitos para a coleção **Zenodo**, garantindo transparência e integridade do conhecimento produzido.
+## <img src="assets/patterns/square_06_red.svg" class="wft-icon"> Sobre o Projeto
+Iniciativa voltada ao empoderamento econômico de mulheres amazônidas através da bioeconomia descentralizada, silvicultura de bambu nativo (*Guadua* spp.), e saneamento ecológico soberano. O projeto é estruturado em polos comunitários e canteiros-escola, integrando tecnologias de baixo impacto e alta eficiência térmica.
 
----
+## <img src="assets/patterns/square_06_red.svg" class="wft-icon"> Tecnologias e Invenções (T01-T12)
+O ecossistema técnico do projeto é composto por 12 invenções complementares, unificadas pelo **[Coração Térmico Mulheres que Tecem a Floresta](04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/ENG-MEM-MASTER_CORACAO-TERMICO.md)** (0-bar):
+<img src="assets/icons/human_01_green.svg" class="wft-list-icon"> **T01/T02**: Biorrefinaria e Reator Central.
+<img src="assets/icons/human_02_red.svg" class="wft-list-icon"> **T09**: Escariador Interno de Bambu.
+<img src="assets/icons/human_03_black.svg" class="wft-list-icon"> **T10**: Balsa-Catamarã a Vapor de Baixa Pressão.
+<img src="assets/icons/human_04_green.svg" class="wft-list-icon"> **T11**: Domo-Fábrica de Bio-Compósitos.
+<img src="assets/icons/human_05_red.svg" class="wft-list-icon"> **T12**: Banheiro Seco Modular (BSM).
 
-## 🎯 Alinhamento Estratégico BNDES (Suma do MEM-013)
-
-O projeto consolida-se sob um investimento de **R$ 30 milhões** (R$ 25M líquidos em CAPEX/OPEX), operando na lógica de "Zero Subtração":
-
-- **Canteiro-Escola Hub (Rio Branco):** Núcleo Takwara focado em prototipagem industrial e formação técnica modular (T01-T09).
-- **Expansão Territorial:** Implementação de 5 polos de bioeconomia focados em Açaí/Castanha (Profa. Sonia Marise) e Design de Marcas Coletivas (Profa. Georgia Ferko).
-- **Logística Fluvial Soberana:** Operação da Balsa-Catamarã T10 sob coordenação da Profa. Tânia Cruz.
-- **Maturidade Interinstitucional:** Consórcio UnB/UFAC/UFRR integrando engenharia, biologia e ciências sociais para a soberania amazônica.
-
----
-
-## 📚 Coleção Zenodo (Índice de Documentos)
-
-Abaixo, os documentos fundamentais organizados conforme a estrutura do repositório:
-
-### I. Governança e Estratégia
-- [**Projeto Integrado v1.0**](01_GOVERNANCA/PROJETO_INTEGRADO.md): O memorando mestre que unifica a visão técnica e financeira.
-- [**Alinhamento BNDES (TAK-MEM-013)**](01_GOVERNANCA/TAK-MEM-013.md): Detalhamento do CAPEX e cronograma de execução.
-
-### II. Dossiês Técnicos (BNDES)
-- [**Resumo Executivo**](03_DOSSIE_BNDES/00_RESUMO_EXECUTIVO.md): Panorama geral e impactos esperados.
-- [**Cadeias de Valor**](03_DOSSIE_BNDES/01_CADEIAS_VALOR.md): Agroindústria de baixo impacto e soberania alimentar.
-- [**Biorrefinaria & Bioconstrução**](03_DOSSIE_BNDES/02_BIORREFINARIA_BIOCONSTRUCAO.md): O coração térmico e a engenharia de bambu.
-- [**Artesanato & Saberes**](03_DOSSIE_BNDES/03_ARTESANATO_SABERES.md): Patrimônio imaterial e marcas de soberania.
-- [**Governança Operacional**](03_DOSSIE_BNDES/04_GOVERNANCA_OPERACIONAL.md): Matriz de responsabilidade e gestão descentralizada.
-
-### III. Anexos e Referências
-- [**Planejamento Financeiro**](01_GOVERNANCA/05_ANEXOS/ANEXO_I_PLANILHA_ORCAMENTARIA.md)
-- [**Termo de Referência MRV (SGMAS)**](01_GOVERNANCA/05_ANEXOS/ANEXO_IV_TR_MRV_SMGA.md)
-- [**Referências Bibliográficas**](bibliografia.md): Base acadêmica e técnica do projeto.
+## <img src="assets/patterns/square_06_red.svg" class="wft-icon"> Governança e Financeiro
+<img src="assets/icons/human_06_black.svg" class="wft-list-icon"> **Orçamento Consolidado**: R$ 30M (Bruto) / R$ 25M (Líquido).
+<img src="assets/icons/human_07_green.svg" class="wft-list-icon"> **Modelo de Gestão**: [WTF_PROJETO_INTEGRADO.md](01_GOVERNANCA/WTF_PROJETO_INTEGRADO.md)
+<img src="assets/icons/human_08_red.svg" class="wft-list-icon"> **Metodologia de Monitoramento**: [SMGA (Sistema de Monitoramento Geoespacial Amazônico)](01_GOVERNANCA/05_ANEXOS/ANEXO_IV_TR_MRV_SMGA.md)
 
 ---
-[**← Voltar ao Dashboard de Soberania**](../../index.html)
+**Bamboo Engineering | Biochar | Social Patents | Amazonian Sovereignty**

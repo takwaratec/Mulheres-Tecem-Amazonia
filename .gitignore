@@ -9,3 +9,26 @@ Thumbs.db
 # Documentation/Artifacts (Private)
 .gemini/
 .agents/
+PESQUISA_GRAFISMO
+99_RESTRITO
+
+# Python/Environments
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Binary and Large Files
+*.sh
+*.dylib
+*.so
+*.dll
+*.exe
+*.bin
+*.zip
+*.tar.gz
+*.7z
+Miniconda3-latest-MacOSX-x86_64.sh

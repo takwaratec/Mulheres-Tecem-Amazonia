@@ -1,3 +1,14 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFRR/UFAC
+tipo: Documento Técnico
+referencia: 03_ARTESANATO_SABERES
+status: Status Ready
+author:
+- name: Consórcio UnB/UFRR/UFAC
+date: '2026-03-26'
+---
+
 # 🎨 Componente 3: Artesanato e Saberes Tradicionais
 **Responsável Técnica:** Profa. Dra. Georgia Ferko  
 **Metodologia de Redação:** 4 Mãos (Coordenação Técnica Colegiada)
@@ -25,3 +36,6 @@ Para o detalhamento técnico e científico dos conceitos apresentados neste comp
 
 - [**Resumo Estratégico: Geoprocessamento e Bambu no Acre**](../04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/01_CIENTIFICO/TECNOLOGIA/WTF_RES_pesquisa_bambu_indigenas_georreferenciamento.md): Mapeamento técnico e governança socioambiental entre IFAC, UFAC e IMAC.
 - [**Resumo Estratégico: Bioeconomia no Amazonas (CTI/MCTI)**](../04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/01_CIENTIFICO/TECNOLOGIA/WTF_RES_00000041_nota_tecnica_001_bioeconomia_cti_bioeconomia_no_amazonaspdf.md): Defesa do modelo de floresta em pé e valorização de saberes tradicionais.
+
+---
+**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**

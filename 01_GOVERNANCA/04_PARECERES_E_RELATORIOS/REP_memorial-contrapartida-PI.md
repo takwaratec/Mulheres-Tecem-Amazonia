@@ -1,37 +1,25 @@
 ---
+projeto: Mulheres Que Tecem a Floresta 
+instituicao: Consórcio UnB/UFRR/UFAC
+tipo: Memorial de Contrapartida (GOV)
+referencia: REP-PI-001-2026
+status: Status Ready
 author:
-- affiliation: Universidade de Brasília / Núcleo Institucional
-  name: Institucional, Fabio Resck
-  orcid: 0000-0001-8815-3885
-date: '2026-03-12'
-doi: 10.5281/zenodo.18827106
-keywords:
-- propriedade intelectual
-- contrapartida
-- memorial financeiro
-- bioeconomia
-- ativos intangíveis
-language: pt
-license: CC BY 4.0
-series: Governança e Estratégia
-status: Rascunho
-title: 'Memorial de Contrapartida: Ativos de Propriedade Intelectual (Equipamentos e Processos)'
-type: Documento Estratégico
-version: '2.2.2'
+- name: Consórcio UnB/UFRR/UFAC
+date: '2026-03-24'
 ---
 
 # Memorial de Contrapartida: Ativos de Propriedade Intelectual
+![Status: Ready](https://img.shields.io/badge/Status-Ready-brightgreen)
 
-**Série:** Governança e Estratégia | **Versão:** 2.2.2 | **Data:** 2026-03-12 | **Autor:** Coordenação Técnica | **Licença:** CC BY 4.0 | **DOI:** 10.5281/zenodo.18827106 | **Status:** Rascunho
+**Série:** Governança e Estratégia | **Versão:** 1.0 | **Data:** 2026-03-24 | **Autor:** Coordenação Técnica | **Status:** Status Ready
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
-[![Licença: CC BY 4.0](https://img.shields.io/badge/Licença-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-![Status](https://img.shields.io/badge/status-Rascunho-orange)
+![Status: Ready](https://img.shields.io/badge/Status-Ready-brightgreen)
 
 ---
 
 ## 1. Objetivo
-Este documento serve como anexo técnico à **Planilha Orçamentária da Plataforma Amazônia Regenerativa 5.1**, qualificando e quantificando o aporte de **Propriedade Intelectual (PI)** como contrapartida do Núcleo Institucional/Jesiel. O foco é assegurar que o desenvolvimento tecnológico prévio seja reconhecido como investimento realizado (equity) no arranjo financeiro do projeto.
+Este documento serve como anexo técnico à **Planilha Orçamentária da Projeto Mulheres Que Tecem a Floresta 5.1**, qualificando e quantificando o aporte de **Propriedade Intelectual (PI)** como contrapartida do Núcleo Institucional/Jesiel. O foco é assegurar que o desenvolvimento tecnológico prévio seja reconhecido como investimento realizado (equity) no arranjo financeiro do projeto.
 
 ---
 
@@ -92,9 +80,8 @@ A valoração deste compêndio de PI baseia-se nos custos de Pesquisa e Desenvol
 
 ## Como Citar Este Trabalho
 
-> Institucional, Fabio Resck. *Plataforma Amazonia Regenerativa — Documentação
-> Técnica e Científica*. v2.0. 2026. Disponível em:
-> https://Institucionaltec.github.io/projetos/.
+> Consórcio UnB/UFRR/UFAC. *Mulheres Que Tecem a Floresta — Documentação
+> Técnica e Científica*. v1.0. 2026.
 > DOI: 10.5281/zenodo.18827106.
 > Licença CC BY 4.0.
 
@@ -104,4 +91,7 @@ A valoração deste compêndio de PI baseia-se nos custos de Pesquisa e Desenvol
 [creativecommons.org/licenses/by/4.0](https://creativecommons.org/licenses/by/4.0/)*
 
 ---
-**🎋 Institucional — Acervo Organizado para Soberania Digital**
+**🎋 Consórcio UnB/UFRR/UFAC — Acervo Organizado para Soberania Digital**
+
+---
+**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**

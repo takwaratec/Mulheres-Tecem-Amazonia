@@ -16,4 +16,4 @@ Para acessar a versão atual de trabalho e validar as integrações do sistema I
 3.  **Assinatura:** Após sua revisão, o log do sistema registrará sua "digital" de aprovação para a versão final.
 
 > [!NOTE]
-> Este link é provisório e será desativado após a graduação do sistema para a versão v3.0.
+> Este link é provisório e será desativado após a graduação do sistema para a versão v1.0.

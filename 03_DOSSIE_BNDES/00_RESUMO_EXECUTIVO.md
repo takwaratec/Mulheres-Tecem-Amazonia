@@ -1,4 +1,15 @@
-# Resumo Executivo: Projeto Mulheres Que Tecem a Floresta (v1.0 WTF)
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFRR/UFAC
+tipo: Documento Técnico
+referencia: 00_RESUMO_EXECUTIVO
+status: Status Ready
+author:
+- name: Consórcio UnB/UFRR/UFAC
+date: '2026-03-26'
+---
+
+# Resumo Executivo: Projeto Mulheres Que Tecem a Floresta (v1.0 Mulheres que Tecem a Floresta)
 
 **Consórcio:** UnB / UFAC / UFRR | **Fonte:** BNDES (Fundo Amazônia/Clima) | **Coord. Geral:** Prof. Dra. Tânia Cruz
 
@@ -24,3 +35,6 @@ Alinhado ao **PPCDAm** e à **Nova Indústria Brasil**, o projeto mitiga o desma
 
 ---
 *Consórcio Interinstitucional UnB / UFAC / UFRR — Março 2026*
+
+---
+**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**

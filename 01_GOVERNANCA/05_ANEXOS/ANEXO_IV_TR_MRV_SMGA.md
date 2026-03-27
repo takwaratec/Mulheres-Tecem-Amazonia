@@ -1,4 +1,16 @@
+---
+projeto: Mulheres Que Tecem a Floresta 
+instituicao: Consórcio UnB/UFRR/UFAC
+tipo: Termo de Referência (ANEXO)
+referencia: ANX-TR-001-2026
+status: Status Ready
+author:
+- name: Consórcio UnB/UFRR/UFAC
+date: '2026-03-24'
+---
+
 # ANEXO IV: TR – Sistema de Monitoramento Geoespacial Amazônico (SMGA)
+![Status: Ready](https://img.shields.io/badge/Status-Ready-brightgreen)
 
 **Objeto:** Desenvolvimento e implantação de plataforma de Monitoramento, Relato e Verificação (MRV) para o projeto BNDES.
 
@@ -15,6 +27,7 @@
 - **Dashboard:** Interface pública (SGMAS Plotter) para transparência (Zero Subtração).
 
 ## 3. PRINCIPAIS INDICADORES
+
 | Indicador | Fonte de Dados | Frequência |
 | :--- | :--- | :--- |
 | **Cobertura Florestal** | Satélite (SMGA) | Mensal |
@@ -25,3 +38,6 @@
 ---
 **Coordenação:** Profa. Dra. Georgia Ferko (UnB).
 Referência: [04_GOVERNANCA_OPERACIONAL.md](../../03_DOSSIE_BNDES/04_GOVERNANCA_OPERACIONAL.md)
+
+---
+**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**

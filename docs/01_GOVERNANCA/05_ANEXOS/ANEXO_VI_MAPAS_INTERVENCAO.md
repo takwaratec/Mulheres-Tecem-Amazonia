@@ -1,7 +1,19 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFRR/UFAC
+tipo: Documento Técnico
+referencia: ANEXO_VI_MAPAS_INTERVENCAO
+status: Status Ready
+author:
+- name: Consórcio UnB/UFRR/UFAC
+date: '2026-03-26'
+---
+
 # ANEXO VI: Mapas das Áreas de Intervenção
 
 **Referência Visual:** Plataforma **SGMAS Plotter (Sovereignty Totality)**
 
+---
 
 ## 1. REDE DE INTERVENÇÃO (EIXO AC/AM/RR)
 O projeto atua em uma rede descentralizada composta por:
@@ -18,7 +30,9 @@ O projeto atua em uma rede descentralizada composta por:
 ## 3. MONITORAMENTO GEOESPACIAL (SMGA)
 Toda a área de manejo de bambu e os polos construídos são georreferenciados no sistema de MRV, garantindo a visualização da "Pegada de Regeneração" do projeto.
 
+---
 **Nota:** O link para o mapa interativo (SGMAS Plotter) será disponibilizado para auditoria do BNDES.
 Referência: [sgmas_plotter.html](../sgmas_plotter.html)
 
-
+---
+**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**

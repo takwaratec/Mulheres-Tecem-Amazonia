@@ -31,6 +31,7 @@ Com a consolidação da Fase 1 (Manejo), o Reator T02 sofre uma alteração func
 - **Eficiência Térmica:** O uso de carvão (biochar) como combustível garante uma curva de temperatura constante, ideal para a imunização fitossanitária e secagem de bambus de alta precisão.
 
 ## 4. Gavetas Logísticas: Zoneamento Tecnológico
+
 | Gaveta | Localização | Tecnologia | Função Principal |
 | :--- | :--- | :--- | :--- |
 | **Zona 0 (Frente)** | Floresta / Manejo | Domos + Fornos Cava | Limpeza de passivo e Biochar primário. |

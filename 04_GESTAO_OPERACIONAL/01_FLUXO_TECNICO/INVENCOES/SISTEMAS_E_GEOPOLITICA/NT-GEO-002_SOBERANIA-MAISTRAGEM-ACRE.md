@@ -1,6 +1,6 @@
 ---
-projeto: Mulheres Que Tecem a Floresta (WTF)
-instituicao: Consórcio UnB/UFAC/UFRR
+projeto: Mulheres Que Tecem a Floresta 
+instituicao: Consórcio Consórcio UnB/UFRR/UFAC
 tipo: Nota Técnica de Sensoriamento (Anexo Projeto)
 referencia: NT-GEO-002-2026
 status: CONSOLIDADO (SGMAS-Ready)
@@ -10,9 +10,9 @@ status: CONSOLIDADO (SGMAS-Ready)
 
 ## 1. Justificativa e Escopo de Soberania
 
-Esta Nota Técnica fundamenta o uso de **Sensoriamento Remoto (SR)** e **SGMAS** como ferramentas de defesa territorial e gestão produtiva dos tabocais (*Guadua* spp.) no Acre. O domínio estatístico da biomassa não é apenas um requisito técnico, mas um pilar de soberania para o Consórcio WTF na negociação de ativos ambientais e no planejamento logístico de unidades móveis.
+Esta Nota Técnica fundamenta o uso de **Sensoriamento Remoto (SR)** e **SGMAS** como ferramentas de defesa territorial e gestão produtiva dos tabocais (*Guadua* spp.) no Acre. O domínio estatístico da biomassa não é apenas um requisito técnico, mas um pilar de soberania para o Consórcio Mulheres que Tecem a Floresta na negociação de ativos ambientais e no planejamento logístico de unidades móveis.
 
-*Referência Primária de Dados: [TAK-MEM-003](TAK-MEM-003_BIOMASS-GEO-ACRE.md)*
+*Referência Primária de Dados: [ENG-MEM-003](ENG-MEM-003_BIOMASS-GEO-ACRE.md)*
 
 ## 2. Inventário de Dados Básicos (SGMAS - Alto Juruá)
 
@@ -25,7 +25,7 @@ A integração com a base SGMAS exige a precisão nos metadados geográficos e d
 
 ### 2.2. Rede de Integração Nacional (Comp 1 & 3)
 
-O SGMAS opera em rede federada, integrando centros de excelência do Consórcio WTF:
+O SGMAS opera em rede federada, integrando centros de excelência do Consórcio Mulheres que Tecem a Floresta:
 
 | Município Sede | Estado | Vínculo Institucional | Função no SGMAS |
 | :--- | :---: | :--- | :--- |
@@ -38,7 +38,7 @@ O SGMAS opera em rede federada, integrando centros de excelência do Consórcio 
 
 ### 2.2. Ferramenta de Visualização SGMAS
 
-O monitoramento em tempo real dos nós territoriais é realizado via **SGMAS Plotter**, que integra os dados de satélite com a localização das bases fixas e móveis do Projeto WTF.
+O monitoramento em tempo real dos nós territoriais é realizado via **SGMAS Plotter**, que integra os dados de satélite com a localização das bases fixas e móveis do Projeto Mulheres que Tecem a Floresta.
 
 *Acesso à ferramenta: [SGMAS Plotter (v1.0)](#) [LEGACY REFERENCE: fddb210d-bd9b-4610-bc88-bfbe2d7a1f6c/sgmas_plotter.html]*
 
@@ -56,17 +56,20 @@ O fenômeno da **Mastragem** (floração e morte em massa do bambu em ciclos de 
 
 ## 4. Governança e Validação Campo (AAFIs)
 
-A soberania digital do Projeto WTF é assegurada pelo **Protocolo de Validação Etnomapeamento**:
+A soberania digital do Projeto Mulheres que Tecem a Floresta é assegurada pelo **Protocolo de Validação Etnomapeamento**:
 - Os dados orbitais processados pela UFAC são validados *in loco* pelos **Agentes Agroflorestais Indígenas (AAFIs)** da AMAAIAC.
 - O Consentimento Prévio (CPLI) é registrado no SGMAS junto às coordenadas de coleta, garantindo conformidade com a IN 10/2015 do IMAC.
 
 ## 5. Bibliografia e Sync-Link
 
-1. **[TAK-MEM-003](TAK-MEM-003_BIOMASS-GEO-ACRE.md)**: *Biomassa, Geoprocessamento e Governança de Bambuzais*.
+1. **[ENG-MEM-003](ENG-MEM-003_BIOMASS-GEO-ACRE.md)**: *Biomassa, Geoprocessamento e Governança de Bambuzais*.
 2. **[IBGE (2024)](https://agenciadenoticias.ibge.gov.br/)**: *Estimativas Populacionais para 2024*.
 3. **[Ferreira, E. J. L. (2014)](../../../../01_SOMBRA_AUDITORIA/04_PROJETO_WTF/01_GOVERNANCA/01_COLABORADORES/Bibliografia_Equipe/Ferreira_2014_Bambu_Acre.pdf)**: *O bambu no Acre*.
 4. **[IMAC IN 10/2015](../../../../01_GOVERNANCA/02_JURIDICO/IN_10_2015_IMAC.pdf)**: *Regulamentação do Manejo de Bambu*.
 
 ---
 **Aprovação**: Coordenação de Geoprocessamento (Acre/UnB).
-*Redigido sob Protocolo Advocacy WTF (IA-Free) - Março 2026.*
+*Redigido sob Protocolo Advocacy Mulheres que Tecem a Floresta (IA-Free) - Março 2026.*
+
+---
+**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**

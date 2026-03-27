@@ -1,4 +1,4 @@
-site_name: "Mulheres Que Tecem a Floresta — Acervo Científico"
+site_name: "Mulheres Que Tecem a Floresta - MQTF"
 site_url: "https://takwaratec.github.io/Mulheres-Tecem-Amazonia/"
 repo_url: "https://github.com/takwaratec/Mulheres-Tecem-Amazonia"
 edit_uri: ""
@@ -7,15 +7,17 @@ theme:
   name: material
   custom_dir: docs/overrides
   language: pt-BR
+  logo: assets/patterns/square_06_red.svg
+  favicon: assets/patterns/square_06_red.svg
   palette:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: teal
-      accent: teal
+      primary: black
+      accent: red
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: teal
-      accent: teal
+      primary: black
+      accent: red
   features:
     - navigation.tabs
     - navigation.sections
@@ -25,7 +27,10 @@ theme:
     - search.highlight
     - content.code.copy
 
-copyright: "Made With Mulheres que Tecem a Floresta - WTF - 2026 - CCBY4.0"
+copyright: "Mulheres Que Tecem a Floresta - MQTF | Consórcio Científico - UnB/UFFR/UFAC"
+
+extra_css:
+  - stylesheets/extra.css
 
 markdown_extensions:
   - admonition
@@ -33,11 +38,15 @@ markdown_extensions:
   - pymdownx.superfences
   - tables
   - attr_list
+  - pymdownx.arithmatex
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 nav:
   - Hub Científico: index.md
-  - Projeto Integrado: 01_GOVERNANCA/PROJETO_INTEGRADO.md
-  - Alinhamento BNDES: 01_GOVERNANCA/TAK-MEM-013.md
+  - Projeto Integrado: 01_GOVERNANCA/WTF_PROJETO_INTEGRADO.md
+  - Alinhamento BNDES: 01_GOVERNANCA/WTF-ALINHAMENTO_ESTRATEGICO.md
   - Dossiê BNDES:
       - Resumo Executivo: 03_DOSSIE_BNDES/00_RESUMO_EXECUTIVO.md
       - Cadeias de Valor: 03_DOSSIE_BNDES/01_CADEIAS_VALOR.md
@@ -48,6 +57,12 @@ nav:
       - Planejamento Financeiro: 01_GOVERNANCA/05_ANEXOS/ANEXO_I_PLANILHA_ORCAMENTARIA.md
       - Monitoramento SGMAS: 01_GOVERNANCA/05_ANEXOS/ANEXO_IV_TR_MRV_SMGA.md
   - Referências: bibliografia.md
+  - Acervo Científico:
+      - Índice do Acervo: 04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/03_METADATA_CATALOG/WTF_INDEX_ACERVO.md
+      - Teste Taxonomia: 04_PESQUISA_ANDAMENTO/teste_taxonomia.md
+  - Engenharia & Gestão:
+      - Leitura Global: 04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/AUDITORIA_E_GERAL/WTF_LEITURA-GLOBAL-PROJETO.md
+      - Coração Térmico: 04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/ENG-MEM-MASTER_CORACAO-TERMICO.md
 
 extra:
   return_to_dashboard: "../../index.html"

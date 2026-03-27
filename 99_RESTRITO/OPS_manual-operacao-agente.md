@@ -61,6 +61,7 @@ Para repositórios que já possuem conteúdo (como o legado em `resck.github.io/
 O Agente Institucional opera sob uma lógica de **Comando e Aprovação**, utilizando macros que encadeiam comportamentos complexos.
 
 ### 3.1. Macros Ativas (Implementadas)
+
 | Macro | Função | Impacto no Fluxo de Trabalho |
 | :--- | :--- | :--- |
 | `/awake` | Sincronização | **Essencial**: Carrega regras éticas, firewall e o `task.md`. Deve abrir cada sessão. |
@@ -71,6 +72,7 @@ O Agente Institucional opera sob uma lógica de **Comando e Aprovação**, utili
 | `/verificar` | Auditoria | **PVI**: Varre fontes externas para validar denúncias. |
 
 ### 3.2. Macros Sugeridas (Dinâmica de Produção)
+
 | Macro (Sugerida) | Objetivo | Funcionamento |
 | :--- | :--- | :--- |
 | `/memorial-sync` | Sincronia Técnica | Utiliza **Badges Identificadoras**. Alerta se docs novos chocarem com outros em desenvolvimento; propõe integração se possível. |

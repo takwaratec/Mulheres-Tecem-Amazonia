@@ -1,6 +1,6 @@
-# 🗂️ Master Index: Acervo Digital WTF
+# 🗂️ Master Index: Acervo Digital Mulheres que Tecem a Floresta
 > [!IMPORTANT]
-> **AVISO AOS AGENTES E IA**: Este acervo é a base de verdade para a composição de textos de defesa, fundamentação técnica e institucional do **Projeto Mulheres Que Tecem a Floresta (WTF)**. Consulte os documentos marcados com ⭐ e ⚖️ prioritariamente para embasar propostas e comunicações oficiais.
+> **AVISO AOS AGENTES E IA**: Este acervo é a base de verdade para a composição de textos de defesa, fundamentação técnica e institucional do **Projeto Mulheres Que Tecem a Floresta **. Consulte os documentos marcados com ⭐ e ⚖️ prioritariamente para embasar propostas e comunicações oficiais.
 
 Este índice vincula os transcritos brutos às respectivas resenhas técnicas e fichas estratégicas.
 
@@ -150,7 +150,7 @@ Este índice vincula os transcritos brutos às respectivas resenhas técnicas e 
 | 🏗️ | 00000054-Biomassa Bioenergia | --- | [Link](../01_RAW_TRANSCRIPTS/99_QUARENTENA/WTF_RAW_00000054-Biomassa_Bioenergia.txt) |  ---  |
 | 🏗️ | 00000061-Recursos Humanos E Financeiros | --- | [Link](../01_RAW_TRANSCRIPTS/99_QUARENTENA/WTF_RAW_00000061-Recursos_humanos_e_financeiros.txt) |  ---  |
 | 🔹 | 00000063-Plataforma Amazonia Regenerativa V2 | --- | [Link](../01_RAW_TRANSCRIPTS/99_QUARENTENA/WTF_RAW_00000063-Plataforma_Amazonia_Regenerativa_v2.txt) |  ---  |
-| 🏗️ | 00000081-Plataforma Amazônia Regenerativa V5.0 | --- | [Link](../01_RAW_TRANSCRIPTS/99_QUARENTENA/WTF_RAW_00000081-Plataforma_Amazônia_Regenerativa_v5.0.txt) |  ---  |
+| 🏗️ | 00000081-Plataforma Amazônia Regenerativa V5.0 | --- | [Link](../01_RAW_TRANSCRIPTS/99_QUARENTENA/WTF_RAW_00000081-Plataforma_Amazônia_Regenerativa_v1.0.txt) |  ---  |
 | 🏗️ | 01- Abr-18 Oficina Fup | --- | [Link](../01_RAW_TRANSCRIPTS/99_QUARENTENA/WTF_RAW_01-_ABR-18_Oficina_FUP.txt) |  ---  |
 | 🏗️ | 03- Jul-18 - Peac 60224 | --- | [Link](../01_RAW_TRANSCRIPTS/99_QUARENTENA/WTF_RAW_03-_JUL-18_-_PEAC_60224.txt) |  ---  |
 | 🏗️ | 04- Jul-18 Relatório De Atividades | --- | [Link](../01_RAW_TRANSCRIPTS/99_QUARENTENA/WTF_RAW_04-_JUL-18_Relatório_de_atividades.txt) |  ---  |

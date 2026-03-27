@@ -1,22 +1,18 @@
 ---
+projeto: Mulheres Que Tecem a Floresta 
+instituicao: Consórcio UnB/UFRR/UFAC
+tipo: Relatório de Custos (BUDGET)
+referencia: BUDGET-BOM-001-2026
+status: Status Ready
 author:
-- affiliation: Universidade de Brasília / Núcleo Institucional
-  name: Institucional, Fabio Resck
-  orcid: 0000-0001-8815-3885
-date: '2026-03-12'
-doi: 10.5281/zenodo.18827106
-language: pt
-license: CC BY 4.0
-series: Governança e Estratégia
-status: Rascunho
-title: 'BoM Industrial e Estimativa de Custos: Portfólio T01-T07'
-type: Relatório de Custos
-version: '2.2.2'
+- name: Consórcio UnB/UFRR/UFAC
+date: '2026-03-24'
 ---
 
 # Bill of Materials (BoM) e Precificação de Contrapartida
+![Status: Ready](https://img.shields.io/badge/Status-Ready-brightgreen)
 
-**Série:** Governança e Estratégia | **Versão:** 2.2.2 | **Data:** 2026-03-12 | **Autor:** Coordenação Técnica | **Licença:** CC BY 4.0 | **DOI:** 10.5281/zenodo.18827106 | **Status:** Rascunho
+**Série:** Governança e Estratégia | **Versão:** 1.0 | **Data:** 2026-03-24 | **Autor:** Coordenação Técnica | **Status:** Status Ready
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licença-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -113,10 +109,10 @@ Este documento extrai as metragens e componentes dos memoriais técnicos (Série
 | T07 | Prensa Sanduíche (Mesa) | R$ 25.000,00 | R$ 21.168,00 |
 | T08 | Tamboreador Industrial (24 colmos) | R$ 85.000,00 | R$ 53.480,00 |
 | T09 | Escariador de Nós Interno | R$ 28.000,00 | R$ 20.720,00 |
-| T10 | Balsa Catamarã (CHP V5.1) | R$ 450.000,00 | R$ 380.000,00 |
+| T10 | Balsa Catamarã (CHP Moderno) | R$ 450.000,00 | R$ 380.000,00 |
 | T11 | Domo-Fábrica (Polo Integrado) | R$ 180.000,00 | R$ 133.000,00 |
 | T12 | Unidade BSM (Saneamento) | R$ 9.000,00 | R$ 9.000,00 |
-| **TOTAL**| **PATRIMÔNIO TECNOLÓGICO WTF**| **R$ 1.187.000,00** | **R$ 942.425,60** |
+| **TOTAL**| **PATRIMÔNIO TECNOLÓGICO Mulheres que Tecem a Floresta**| **R$ 1.187.000,00** | **R$ 942.425,60** |
 
 ---
 
@@ -134,4 +130,7 @@ Este documento extrai as metragens e componentes dos memoriais técnicos (Série
 [creativecommons.org/licenses/by/4.0](https://creativecommons.org/licenses/by/4.0/)*
 
 ---
-**🎋 Institucional — Avaliação Técnica de Ativos de Soberania**
+**🎋 Takwara — Avaliação Técnica de Ativos de Soberania**
+
+---
+**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
