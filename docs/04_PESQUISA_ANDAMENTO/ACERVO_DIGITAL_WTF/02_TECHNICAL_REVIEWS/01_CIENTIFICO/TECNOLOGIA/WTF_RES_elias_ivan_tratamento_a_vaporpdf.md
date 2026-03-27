@@ -7,10 +7,31 @@ autor_original: Not Identified
 equipe_tecnica: UnB/UFAC/UFRR
 ano_publicacao: '2025'
 ---
----
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"O povo é o único soberano."<br>— João Ubaldo Ribeiro</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: WTF_RES_elias_ivan_tratamento_a_vaporpdf.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 title: "Resumo Estratégico e Comparativo P&D - Vaporização de Madeira (Eucalipto)"
 status: "Ativo"
 tags: [P&D, Tratamento Térmico, Engenharia de Materiais, Madeira]
+*Anexos e Documentos Originais (*.pdf) encontram-se dispostos na pasta `02_PESQUISA_DESENVOLVIMENTO` para consulta da coordenação técnica do componente R&D.*
+
 ---
 
-*Anexos e Documentos Originais (*.pdf) encontram-se dispostos na pasta `02_PESQUISA_DESENVOLVIMENTO` para consulta da coordenação técnica do componente R&D.*
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

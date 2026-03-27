@@ -7,7 +7,20 @@ autor_original: Not Identified
 equipe_tecnica: UnB/UFAC/UFRR
 ano_publicacao: '2025'
 ---
-- |
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"Arte sem ética não é arte."<br>— Ariano Suassuna</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: WTF_RES_pesquisa_bambu_indigenas_georreferenciamento_es.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
+- <img src="assets/icons/human_04_black.svg" width="18px"> |
 
 | Asociación del Movimiento de Agentes Agroforestales Indígenas de Acre | **AMAAIAC** | Formación y asistencia técnica agroforestal (CPI-ACRE, 2024) | Huni Kuĩ, Ashaninka, Madijá, etc. |
 | Comisión Pro-Indígena de Acre | **CPI-Acre** | Proyectos de sistemas agroforestales y etnomapeo (CARVALHO, 2007) | Pueblos de la Selva |
@@ -107,3 +120,14 @@ El estado de Acre se encuentra en una posición privilegiada para liderar la bio
 [image4]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAUCAYAAAAUccS4AAAAnElEQVR4Xu3UoQ6BURyG8b8kSYIkKGZjM4ERPsmI7khVFZGifMEIZjazuQA35bFTeK/g3Zxn+5Xztu+cfRG5XC73XQ1VPXStjwdWqMtmWQVLPLFB83f2bYYb9ujIZtsIJxwxlM22Lg64YiqbZZ83fMYrjP8cbexwx1w2mwYoI33NiWw2FbhEeqM92WxaRLrqLVqyWTXGGg0dcv/QG9ONEgJt4NJoAAAAAElFTkSuQmCC>
 [image5]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAYCAYAAAAPtVbGAAABgklEQVR4Xu2UvStFYRzHv94Wb0UmImXwVmRjImEQqzIYvIwsKMWEQclAGa6yoCQLg7ckf4FilBRlsZCSycD35/cc5+cZ7r3qXKXupz713O/v3Od3znOe8wD/jBY6TwdpjleLhHYag06+TTd/lqNhkp678Sh9oVlhOVqy6SFd8gtRUUO36Bm0WUqR5bpACparh9a5cT39oF1hWZHH66Rl7rfcRRP0wvzgIugE3bTQZMIDXXHjDmiThrCs7NA16K6QZvt0Grotn2kFXaTLdIq+0Tb5o6MPOscwvaKzpvZFK52j1dA7uKMlriZPIdkTbXaZcAn9Hix50Gvsk38zQmvpAHRCaRpQ5bIZkwmP0J30a9ahy5VpMjkipEmjyWStJRsyWdLc0gMv24C+E9tYzqd3hEuaNLKr5O4mvPye7nnZDT1x41VabGpx6Yc2kW0bUOmyMZMZPJhJKNQ9/rqklZIFe0wyT9dJX6GSWI3pMT2mpV4tLAc31Q1LkB45y/MH5lCZNYj4BVRNAXYY2DlwAAAAASUVORK5CYII=>
 [image6]: <data:image/png;base64,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<truncated 2271 bytes>
+
+---
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

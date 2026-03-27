@@ -9,12 +9,20 @@ author:
 date: '2026-03-24'
 ---
 
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+
+<p align="right"><i>"O povo é o único soberano."<br>— João Ubaldo Ribeiro</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: REP_readequacao-estrategica.md
+*   **Status**: Status Consolidado
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 # Relatório de Readequação Estratégica: Modelo Micro-Industrial
-![Status: Ready](https://img.shields.io/badge/Status-Ready-brightgreen)
-
 **Série:** Governança | **Versão:** 2.2.2 | **Data:** 2026-03-12 | **Autor:** Coordenação Técnica | **Licença:** CC BY 4.0 | **DOI:** 10.5281/zenodo.18827106 | **Status:** Rascunho
-
-![Status: Ready](https://img.shields.io/badge/Status-Ready-brightgreen)
 
 Este documento formaliza a estratégia de mitigação de riscos e otimização de recursos para o projeto "Mãos que Tecem a Floresta / Biorrefinaria 5.1", visando a máxima eficiência do orçamento de **R$ 30 milhões** frente aos desafios do bioma amazônico.
 
@@ -32,14 +40,14 @@ Este documento formaliza a estratégia de mitigação de riscos e otimização d
 Para mitigar os riscos acima, a Biorrefinaria 5.1 assume o papel de **Núcleo Central de Infraestrutura Soberana**:
 
 1.  **Centralização em Rio Branco (Hub de Produção)**:
-    *   *Ação*: Concentrar a produção de geodésicas (Domes) e unidades sanitárias em uma célula controlada em Rio Branco.
-    *   *Mitigação*: Neutraliza a dependência de fornecedores externos e garante o padrão técnico (PU Vegetal Carbono Zero).
+    * <img src="assets/icons/human_19_black.svg" width="18px">   *Ação*: Concentrar a produção de geodésicas (Domes) e unidades sanitárias em uma célula controlada em Rio Branco.
+    * <img src="assets/icons/human_05_black.svg" width="18px">   *Mitigação*: Neutraliza a dependência de fornecedores externos e garante o padrão técnico (PU Vegetal Carbono Zero).
 2.  **Tecnologia de Equipamentos Artesanais High-Tech**:
-    *   *Ação*: Substituir máquinas industriais importadas por reatores Rocket produzidos internamente.
-    *   *Mitigação*: Garante manutenção local e elimina custos de importação/assistência técnica inacessível.
+    * <img src="assets/icons/human_02_black.svg" width="18px">   *Ação*: Substituir máquinas industriais importadas por reatores Rocket produzidos internamente.
+    * <img src="assets/icons/human_01_black.svg" width="18px">   *Mitigação*: Garante manutenção local e elimina custos de importação/assistência técnica inacessível.
 3.  **Matriz Energética de Biomassa Residual**:
-    *   *Ação*: Utilizar resíduos das próprias cadeias (caroços de açaí, cascas de castanha, aparas de bambu) como combustível.
-    *   *Mitigação*: Estancamento imediato de custos operacionais (OPEX) com energia.
+    * <img src="assets/icons/human_09_black.svg" width="18px">   *Ação*: Utilizar resíduos das próprias cadeias (caroços de açaí, cascas de castanha, aparas de bambu) como combustível.
+    * <img src="assets/icons/human_20_black.svg" width="18px">   *Mitigação*: Estancamento imediato de custos operacionais (OPEX) com energia.
 
 ## 3. Readequação Orçamentária e Aplicação Consciente
 
@@ -54,9 +62,9 @@ O plano de aplicação consciente baseia-se na **internalização do lucro indir
 | **Saneamento e Água** | Mantido (Estratégico) | Considerado investimento imperativo para regeneração auditada. |
 
 ### Benefícios da Readequação:
-*   **Aumento da Capilaridade**: Com o mesmo valor de 3 obras convencionais, entregamos 10+ polos geodésicos integrados.
-*   **Soberania Técnica**: O projeto retém o conhecimento e as formas de produção de sua própria infraestrutura.
-*   **Mensurabilidade**: Impacto imediato em Carbono Zero e indicadores de saúde da comunidade.
+* <img src="assets/icons/human_10_black.svg" width="18px">   **Aumento da Capilaridade**: Com o mesmo valor de 3 obras convencionais, entregamos 10+ polos geodésicos integrados.
+* <img src="assets/icons/human_17_black.svg" width="18px">   **Soberania Técnica**: O projeto retém o conhecimento e as formas de produção de sua própria infraestrutura.
+* <img src="assets/icons/human_03_black.svg" width="18px">   **Mensurabilidade**: Impacto imediato em Carbono Zero e indicadores de saúde da comunidade.
 
 ## 4. Estratégia de Implementação (Faseamento)
 
@@ -69,8 +77,6 @@ Seguindo o princípio de fatiagem do problema:
 
 Esta readequação não altera as metas do projeto, mas **garante sua execução**. O Master 5.1 passa a ser um projeto de base tecnológica artesanal, financeiramente blindado contra as variações de mercado externo e logicamente alinhado com a regeneração da floresta.
 
----
-
 ## Como Citar Este Trabalho
 
 > Consórcio UnB/UFRR/UFAC. *Mulheres Que Tecem a Floresta — Documentação
@@ -78,13 +84,16 @@ Esta readequação não altera as metas do projeto, mas **garante sua execução
 > DOI: 10.5281/zenodo.18827106.
 > Licença CC BY 4.0.
 
----
-
 *Texto completo da licença:
 [creativecommons.org/licenses/by/4.0](https://creativecommons.org/licenses/by/4.0/)*
 
 ---
-**🎋 Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Bioeconomia Regenerativa**
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

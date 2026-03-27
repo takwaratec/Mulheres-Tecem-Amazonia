@@ -1,12 +1,4 @@
-# ARTIGO CIENTÍFICO
-
-## Avanços em Polímeros de Mamona para Infraestruturas de Concreto: Rumo à Sustentabilidade e Resiliência Extrema através de Inovação Bioeconômica
-
-**Autores:**
-Fabio Resck Takwara (ORCID: 0009-0002-6044-2583)
-
 ---
-
 ### RESUMO
 
 A busca por soluções construtivas sustentáveis e de alta performance impulsiona a inovação em materiais, especialmente no setor de polímeros. Este artigo apresenta uma avaliação aprofundada de um poliuretano vegetal (PU-V) derivado da mamona, o IMPERVEGº RQI 132, em aplicações de infraestrutura de concreto. O objetivo central foi caracterizar sua performance como barreira de vapor e sua resiliência mecânica e térmica, fundamentais para a durabilidade em ambientes desafiadores. A metodologia incluiu ensaios de transmissão de vapor de água conforme ISO 7783:2018, e complementares de aderência e envelhecimento acelerado sob as normas EN 1542 e EN 13687, respectivamente. Os principais resultados revelam uma redução drástica na velocidade de transmissão de vapor de água (de 252 g/(m².d) para 0,37 g/(m².d)), um fator de resistência à difusão de vapor de 48160 e uma espessura de ar equivalente (Sd) de 64 metros, configurando uma barreira de vapor excepcional. Adicionalmente, o material demonstrou aderência superior a 1.1 MPa e estabilidade estrutural após ciclos térmicos extremos. Esses achados validam o IMPERVEGº RQI 132 como uma alternativa bioeconômica robusta, capaz de substituir materiais fósseis e conferir durabilidade extrema a infraestruturas de concreto, sublinhando o potencial inexplorado de materiais brasileiros para a bioeconomia global, apesar da frequente negligência por políticas de incentivo nacional, que muitas vezes levam empresas inovadoras a buscar validação e mercado fora do país.
@@ -98,8 +90,28 @@ Os resultados desta pesquisa demonstram inequivocamente a viabilidade técnica e
 A formulação à base de poliuretano vegetal da mamona, isenta de solventes, não apenas atende aos requisitos mais rigorosos de performance técnica, mas também oferece uma solução alinhada aos princípios da sustentabilidade e da bioeconomia. O IMPERVEGº RQI 132 representa uma inovação bioeconômica que pode substituir efetivamente materiais fósseis tradicionais, contribuindo para uma construção mais verde e resiliente.
 
 Este estudo sublinha o vasto potencial dos polímeros de mamona brasileiros para impulsionar a inovação em Engenharia de Materiais. No entanto, a trajetória para a validação externa reforça a urgência de políticas de incentivo mais robustas no Brasil, que apoiem e retenham empresas inovadoras, permitindo que o país prospere em sua própria capacidade de gerar e aplicar tecnologias de ponta em prol de um futuro mais sustentável e duradouro.
-
 ---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"Arte sem ética não é arte."<br>— Ariano Suassuna</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: ARTIGO_CIENTIFICO_REVIEW_permeabilidade ao vapor de água.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
+# ARTIGO CIENTÍFICO
+
+## Avanços em Polímeros de Mamona para Infraestruturas de Concreto: Rumo à Sustentabilidade e Resiliência Extrema através de Inovação Bioeconômica
+
+**Autores:**
+Fabio Resck Takwara (ORCID: 0009-0002-6044-2583)
+
+
 **Referências**
 
 [1] UNEP. (2020). *Emissions Gap Report 2020*. United Nations Environment Programme, Nairobi.
@@ -110,9 +122,12 @@ Este estudo sublinha o vasto potencial dos polímeros de mamona brasileiros para
 [6] Neville, A. M. (2011). *Properties of Concrete*. Pearson Education Limited.
 
 ---
-**Informação do Ensaio Original:**
-Referência do Review: PES-REV-3721-2026
-Data do Ensaio: 26 de maio de 2025
-Local do Ensaio: Coimbra, Portugal - ITecons
-Órgão Emissor: ITecons
-Solicitante: Tecnoveg - Indústria e Comércio, Lda.
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

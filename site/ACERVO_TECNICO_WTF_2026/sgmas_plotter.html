@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SGMAS MONITOR v7.0 | ROI TOTALITY | Mulheresqtf</title>
+    <title> MONITOR v7.0 | ROI TOTALITY | Mulheresqtf</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
@@ -497,7 +497,7 @@
         <div id="sidebar">
             <div id="close-sidebar" onclick="toggleSidebar(false)">✕</div>
             <div class="header">
-                <span class="version-badge">SGMAS v7.0 | ROI TOTALITY</span>
+                <span class="version-badge"> v7.0 | ROI TOTALITY</span>
                 <h1>PROJETO MULHERESQTF</h1>
                 <div class="tagline">Bioeconomia & Soberania Vegetal</div>
                 <div class="header-stats">
@@ -539,7 +539,7 @@
                                 <div class="val" id="m-biomass">-</div>
                                 <div class="fixation" id="m-fix">-</div>
                             </div>
-                            <div class="metric-card"><label>💰 CAPEX (SGMAS)</label>
+                            <div class="metric-card"><label>💰 CAPEX ()</label>
                                 <div class="val" id="m-cost" style="color:var(--accent)">-</div>
                             </div>
                             <div class="metric-card"><label>🏥 Saúde (Risco)</label>
@@ -988,12 +988,12 @@
         const leg = L.control({ position: 'bottomright' });
         leg.onAdd = function () {
             const d = L.DomUtil.create('div', 'legend-final');
-            d.innerHTML = `<div class="leg-title">SGMAS - "Cartilha Ilustrada"</div>
+            d.innerHTML = `<div class="leg-title"> - "Cartilha Ilustrada"</div>
             <div class="leg-item"><span class="leg-dot" style="background:#f43f5e"></span> Hub Tecnológico (N2)</div>
             <div class="leg-item"><span class="leg-dot" style="background:#38bdf8"></span> Polo Regional (N1)</div>
             <div class="leg-item"><span class="leg-dot" style="background:#fbbf24"></span> Unidade Itinerante (★)</div>
             <div class="leg-item"><span class="leg-dot" style="background:#a78bfa"></span> Diagnóstico Social (◆)</div>
-            <div class="leg-item" style="margin-top:8px; font-size:0.65rem; color:var(--success); border-top:1px solid var(--border); padding-top:8px;">Protocolo SGMAS v7.1 — Juruá-Purus</div>`;
+            <div class="leg-item" style="margin-top:8px; font-size:0.65rem; color:var(--success); border-top:1px solid var(--border); padding-top:8px;">Protocolo  v7.1 — Juruá-Purus</div>`;
             return d;
         };
         leg.addTo(map);

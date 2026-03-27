@@ -1,3 +1,19 @@
+---
+---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"O que vale na vida não é o ponto de partida e sim a caminhada."<br>— Cora Coralina</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Documento**: FICHA_WTF_RAW_00000054-Biomassa_Bioenergia.md
+*   **Referência**: FICHA_WTF_RAW_00000054-Biomassa_Bioenergia.md
+*   **Status**: Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 SIM
 
 ### 1. METADADOS E CABEÇALHO
@@ -41,3 +57,23 @@ A proposta detalha a expansão de uma plataforma tecnológica nacional de Poliur
 3.  BRASIL. Lei nº 12.484, de 8 de setembro de 2011. Política Nacional de Incentivo ao Manejo Sustentado e ao Cultivo do Bambu (PNMCB). Brasília: Presidência da República, 2011.
 4.  EMBRAPA. **Produção de briquetes e péletes a partir de resíduos agrícolas, agroindustriais e florestais**. Brasília, DF: Embrapa Agroenergia, 2012.
 5.  MELO, Selma dos Santos. **Produção de carvão ativado a partir da biomassa residual da castanha do Brasil (Bertholletia excelsa L.)**. [Referência incompleta, faltam dados de publicação como ano e local].
+---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"O que vale na vida não é o ponto de partida e sim a caminhada."<br>— Cora Coralina</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: FICHA_WTF_RAW_00000054-Biomassa_Bioenergia.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

@@ -1,3 +1,25 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFRR/UFAC
+tipo: Documento de Acervo
+referencia: FICHA_WTF_RAW_2023_-_Tratamento_microreator.md
+status: Em Revisão
+author:
+- name: Consórcio UnB/UFRR/UFAC
+---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"A crise da educação no Brasil não é uma crise; é um projeto."<br>— Darcy Ribeiro</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: FICHA_WTF_RAW_2023_-_Tratamento_microreator.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 SIM
 
 ### 1. METADADOS E CABEÇALHO
@@ -11,12 +33,12 @@ REFERÊNCIA BIBLIOGRÁFICA (ABNT):
 FACULDADES CATÓLICAS. PANDOLI, O. G.; GHAVAMI, K.; SÁ, D. S. **Processo de corte e tratamento do bambu natural, dispositivo lignocelulósico, processo de deposição catalítica e um microrreator catalítico lignocelulósico**. BR 102019003286-3 B1, Instituto Nacional da Propriedade Industrial, [S. l.], 6 jun. 2023. Depósito: 18 fev. 2019.
 
 ### 2. TRADUÇÃO E SÍNTESE TÉCNICA
-- O resumo já está em português.
-- Palavras-chave:
-    - Bambu
-    - Microrreator
-    - Lignocelulósico
-    - Catálise
+- <img src="assets/icons/human_17_black.svg" width="18px"> O resumo já está em português.
+- <img src="assets/icons/human_19_black.svg" width="18px"> Palavras-chave:
+    - <img src="assets/icons/human_08_black.svg" width="18px"> Bambu
+    - <img src="assets/icons/human_18_black.svg" width="18px"> Microrreator
+    - <img src="assets/icons/human_07_black.svg" width="18px"> Lignocelulósico
+    - <img src="assets/icons/human_04_black.svg" width="18px"> Catálise
 
 ### 3. EXTRAÇÃO DE DADOS (TABELA)
 
@@ -38,6 +60,17 @@ FACULDADES CATÓLICAS. PANDOLI, O. G.; GHAVAMI, K.; SÁ, D. S. **Processo de cor
 *Coordenadas geográficas:* Não foram encontradas coordenadas geográficas explícitas no texto.
 
 ### 4. Extrair Bibliografia citada no texto
--   CHINA. **Microrreator com microestrutura em forma de articulação de bambu**. CN105964198A. (Data de publicação não especificada no texto).
--   CHINA. **Misturador de um reator tubular**. CN202497876U. (Data de publicação não especificada no texto).
--   JAPÃO. **Microrreator metálico do estado da técnica e seu método de manufatura**. JP2008100163A. (Data de publicação não especificada no texto).
+- <img src="assets/icons/human_13_black.svg" width="18px">   CHINA. **Microrreator com microestrutura em forma de articulação de bambu**. CN105964198A. (Data de publicação não especificada no texto).
+- <img src="assets/icons/human_02_black.svg" width="18px">   CHINA. **Misturador de um reator tubular**. CN202497876U. (Data de publicação não especificada no texto).
+- <img src="assets/icons/human_12_black.svg" width="18px">   JAPÃO. **Microrreator metálico do estado da técnica e seu método de manufatura**. JP2008100163A. (Data de publicação não especificada no texto).
+
+---
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

@@ -1,3 +1,25 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFRR/UFAC
+tipo: Documento de Acervo
+referencia: FICHA_WTF_RAW_00000052-Plataforma_Bio-soberania_Nacional.md
+status: Em Revisão
+author:
+- name: Consórcio UnB/UFRR/UFAC
+---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"Eu sou a favor do Brasil real."<br>— Ariano Suassuna</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: FICHA_WTF_RAW_00000052-Plataforma_Bio-soberania_Nacional.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 SIM
 
 ### FICHA CIENTÍFICA ESTRUTURADA
@@ -36,3 +58,14 @@ Nenhuma coordenada geográfica foi identificada no texto.
 
 ### 4. Extrair Bibliografia citada no texto
 Nenhuma referência bibliográfica explícita foi citada no corpo do texto.
+
+---
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

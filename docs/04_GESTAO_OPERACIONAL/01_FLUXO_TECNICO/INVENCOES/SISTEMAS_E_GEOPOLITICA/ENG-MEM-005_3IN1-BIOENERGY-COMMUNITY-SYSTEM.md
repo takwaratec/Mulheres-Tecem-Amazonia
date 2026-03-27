@@ -10,35 +10,45 @@ author:
 date: '2026-03-24'
 ---
 
-# Memorando Técnico: Bioenergia Comunitária e Unidades Móveis Fluviais
-![Status: Ready](https://img.shields.io/badge/Status-Ready-brightgreen)
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
+<p align="right"><i>"A educação não transforma o mundo. Educação muda as pessoas. Pessoas mudam o mundo."<br>— Paulo Freire</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: ENG-MEM-005_3IN1-BIOENERGY-COMMUNITY-SYSTEM.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
+# Memorando Técnico: Bioenergia Comunitária e Unidades Móveis Fluviais
 ## 1. Fundamentação e Raízes Tecnológicas (A Ponte Global)
 
 A estratégia de bioenergia do Projeto Mulheres que Tecem a Floresta integra o conhecimento comunitário do Sul Global com a escala industrial do Norte:
 
-- **Referência Africana (Quênia/Uganda)**: Extraída de projetos do *World Agroforestry Center* em Nairóbi. Grupos de mulheres convertem pó de carvão, serragem e casca de castanha em briquetes via prensas manuais. Escala de 20 a 200 t/ano por micro-unidade.
-- **Referência Europeia (Portugal)**: Onde a biomassa residual para aquecimento residencial e geração de eletricidade (~6% da matriz) é pilar da segurança energética. Uso intensivo de pellets e briquetes certificados.
-- **Síntese Mulheres que Tecem a Floresta**: Uso do reator de baixo custo como "motor térmico" para soberania local na Amazônia.
+- <img src="assets/icons/human_18_black.svg" width="18px"> **Referência Africana (Quênia/Uganda)**: Extraída de projetos do *World Agroforestry Center* <img src="assets/icons/human_18_black.svg" width="18px"> em Nairóbi. Grupos de mulheres convertem pó de carvão, serragem e casca de castanha em briquetes via prensas manuais. Escala de 20 a 200 t/ano por micro-unidade.
+- <img src="assets/icons/human_05_black.svg" width="18px"> **Referência Europeia (Portugal)**: Onde a biomassa residual para aquecimento residencial e geração de eletricidade (~6% da matriz) é pilar da segurança energética. Uso intensivo de pellets e briquetes certificados.
+- <img src="assets/icons/human_19_black.svg" width="18px"> **Síntese Mulheres que Tecem a Floresta**: Uso do reator de baixo custo como "motor térmico" para soberania local na Amazônia.
 
 ## 2. O Módulo Reator 3-em-1 (Motor Térmico Rocket)
 
 O sistema opera por "Tiro Natural" (Draft) isolado, eliminando motores térmicos complexos para a exaustão.
 
 ### 2.1. Funções de Cascateamento Térmico
-- **Pasteurização STAC (UFPA)**: Uso de serpentina inox para aquecimento cíclico de 70-90°C. Eficácia validada para eliminação de patógenos em águas fluviais por até 14 anos sem troca de filtros de biochar.
-- **Desidratação de Alto Valor**: Câmara de ar seco (40-60°C) para Castanha (*Bertholletia excelsa*) e Açaí (*Euterpe oleracea*), seguindo parâmetros de Melo (2012) para evitar oxidação de lipídios.
-- **Cocção Limpa**: Redução drástica de particulados (PM2.5) e CO, mitigando doenças respiratórias crônicas em mulheres ribeirinhas.
+- <img src="assets/icons/human_12_black.svg" width="18px"> **Pasteurização STAC (UFPA)**: Uso de serpentina inox para aquecimento cíclico de 70-90°C. Eficácia validada para eliminação de patógenos em águas fluviais por até 14 anos sem troca de filtros de biochar.
+- <img src="assets/icons/human_13_black.svg" width="18px"> **Desidratação de Alto Valor**: Câmara de ar seco (40-60°C) para Castanha (*Bertholletia excelsa*) e Açaí (*Euterpe oleracea*), seguindo parâmetros de Melo (2012) para evitar oxidação de lipídios.
+- <img src="assets/icons/human_07_black.svg" width="18px"> **Cocção Limpa**: Redução drástica de particulados (PM2.5) e CO, mitigando doenças respiratórias crônicas em mulheres ribeirinhas.
 
 ## 3. Unidade Fluvial Móvel: "Barco Coletor e Beneficiador"
 
 Diferente das biorrefinarias fixas, as embarcações Mulheres que Tecem a Floresta operam o **Intercâmbio Regional de Tecnologias**:
 
-- **Barco de Bambu e Bombonas**: Flutuação modular de fácil reparo local.
-- **Logística Circular**: O barco atua como unidade ambulante:
-    - **Entrega**: Insumos (briquetes de alta densidade), peças lego/tijolos de biocompósitos e água pasteurizada.
-    - **Coleta**: Recolhimento de plásticos (PET/PEAD) descartados nas comunidades, servindo como matéria-prima para a fábrica de tijolos de polímero-bambu no polo Rio Branco.
-    - **Serviço**: Desidratação e beneficiamento *in situ* durante o trajeto entre núcleos.
+- <img src="assets/icons/human_11_black.svg" width="18px"> **Barco de Bambu e Bombonas**: Flutuação modular de fácil reparo local.
+- <img src="assets/icons/human_03_black.svg" width="18px"> **Logística Circular**: O barco atua como unidade ambulante:
+    - <img src="assets/icons/human_16_black.svg" width="18px"> **Entrega**: Insumos (briquetes de alta densidade), peças lego/tijolos de biocompósitos e água pasteurizada.
+    - <img src="assets/icons/human_04_black.svg" width="18px"> **Coleta**: Recolhimento de plásticos (PET/PEAD) descartados nas comunidades, servindo como matéria-prima para a fábrica de tijolos de polímero-bambu no polo Rio Branco.
+    - <img src="assets/icons/human_14_black.svg" width="18px"> **Serviço**: Desidratação e beneficiamento *in situ* <img src="assets/icons/human_14_black.svg" width="18px"> durante o trajeto entre núcleos.
 
 ## 4. Orçamento Revisitado (Escalabilidade BNDES / Custo Amazônia)
 
@@ -51,7 +61,7 @@ Diferente das biorrefinarias fixas, as embarcações Mulheres que Tecem a Flores
 > [!IMPORTANT]
 > A "Biorrefinaria de Bambu" está integrada nos níveis N1 e N2, permitindo a extração de bio-óleo e ácido pirolenhoso para imunização de estruturas Mulheres que Tecem a Floresta.
 
-## 5. Dados Básicos para SGMAS (Potencial Regional)
+## 5. Dados Básicos para  (Potencial Regional)
 
 | Município | População (2024) | Potencial Biomassa (Tabocais)* | Coordenadas |
 | :--- | :--- | :--- | :--- |
@@ -70,10 +80,12 @@ Diferente das biorrefinarias fixas, as embarcações Mulheres que Tecem a Flores
 5. **INBAR/UNFCCC (2025)**: *BambooBoost - Bioenergia e Adaptação Climática*.
 
 ---
-**Nota Final**: Esta consolidação exaustiva preserva o "Ouro" técnico das pesquisas originais. Serve como base para a NT de Engenharia do Projeto Mulheres que Tecem a Floresta.
-
-*Redigido em 19 de Março de 2026.*
-*Aprovação: Coordenação de Bioenergia (Consórcio UnB/UFRR/UFAC).*
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

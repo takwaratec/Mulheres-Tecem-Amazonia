@@ -1,3 +1,19 @@
+---
+---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"O povo é o único soberano."<br>— João Ubaldo Ribeiro</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Documento**: FICHA_WTF_RAW_13-_SET-19_ARTIGO_Relato_Popular.md
+*   **Referência**: FICHA_WTF_RAW_13-_SET-19_ARTIGO_Relato_Popular.md
+*   **Status**: Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 SIM
 
 ### 1. METADADOS E CABEÇALHO
@@ -23,3 +39,23 @@ O artigo descreve uma pesquisa empírica sobre a construção de um forno ecoló
 
 ### 4. Extrair Bibliografia citada no texto
 Nenhuma referência bibliográfica no formato ABNT foi explicitamente citada dentro do fragmento de texto fornecido.
+---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"O Brasil é uma invenção de si mesmo."<br>— João Ubaldo Ribeiro</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: FICHA_WTF_RAW_13-_SET-19_ARTIGO_Relato_Popular.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

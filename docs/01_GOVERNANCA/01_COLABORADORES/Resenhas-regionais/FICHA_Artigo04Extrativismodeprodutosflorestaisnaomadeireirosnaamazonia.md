@@ -9,21 +9,31 @@ author:
 date: '2026-03-26'
 ---
 
-Atuando como Pesquisador Sênior e Analista de Dados do Projeto WTF, apresento a seguir a ficha científica estruturada com base no texto bruto fornecido.
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
----
+<p align="right"><i>"Não se faz ciência sem amor ao próximo."<br>— Oswaldo Cruz</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: FICHA_Artigo04Extrativismodeprodutosflorestaisnaomadeireirosnaamazonia.md
+*   **Status**: Status Consolidado
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
+Atuando como Pesquisador Sênior e Analista de Dados do Projeto WTF, apresento a seguir a ficha científica estruturada com base no texto bruto fornecido.
 
 ## FICHA CIENTÍFICA ESTRUTURADA
 
 ### 1. METADADOS E CABEÇALHO
 
-*   **Projeto:** Mulheres Que Tecem a Floresta
-*   **Instituição:** Consórcio UnB/UFRR/UFAC
-*   **Tipo:** Pesquisa: Amazônia Setentrional (PES)
-*   **Referência Interna:** PES-TEC-5548-2026
-*   **Status:** Ready
-*   **Analista:** Consórcio UnB/UFRR/UFAC
-*   **Data de Análise:** 2026-03-24
+* <img src="assets/icons/human_15_black.svg" width="18px">   **Projeto:** <img src="assets/icons/human_15_black.svg" width="18px"> Mulheres Que Tecem a Floresta
+* <img src="assets/icons/human_06_black.svg" width="18px">   **Instituição:** <img src="assets/icons/human_06_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
+* <img src="assets/icons/human_05_black.svg" width="18px">   **Tipo:** <img src="assets/icons/human_05_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
+* <img src="assets/icons/human_14_black.svg" width="18px">   **Referência Interna:** <img src="assets/icons/human_14_black.svg" width="18px"> PES-TEC-5548-2026
+* <img src="assets/icons/human_02_black.svg" width="18px">   **Status:** <img src="assets/icons/human_02_black.svg" width="18px"> Ready
+* <img src="assets/icons/human_16_black.svg" width="18px">   **Analista:** <img src="assets/icons/human_16_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
+* <img src="assets/icons/human_09_black.svg" width="18px">   **Data de Análise:** <img src="assets/icons/human_09_black.svg" width="18px"> 2026-03-24
 
 **REFERÊNCIA BIBLIOGRÁFICA (ABNT) - ARTIGO ANALISADO:**
 
@@ -68,12 +78,12 @@ O bioma amazônico representa um desafio multifacetado na atualidade. Muitas pro
 
 ### 4. RELAÇÃO COM O PROJETO (CONEXÃO WTF)
 
-*   **Como isso beneficia as mulheres extrativistas?**
+* <img src="assets/icons/human_08_black.svg" width="18px">   **Como isso beneficia as mulheres extrativistas?**
     O extrativismo de Produtos Florestais Não Madeireiros (PFNM) é apontado como uma oportunidade real para aliar conservação ambiental, geração de renda e melhoria da qualidade de vida. As atividades de coleta de PFNM, como açaí, castanha-do-brasil e babaçu, representam uma fonte significativa de sustento para muitas comunidades. A pesquisa destaca que a dimensão social do extrativismo é relevante por possibilitar a geração de renda, emprego e alimento, beneficiando diretamente a população que vive dessas práticas.
 
     No entanto, o estudo também ressalta as limitações das políticas públicas atuais, como o Pronaf-Mulher, que falham em reconhecer plenamente o papel das mulheres nos agroecossistemas e em lhes conceder autonomia sobre o acesso e a gestão do financiamento. Para que as mulheres extrativistas sejam verdadeiramente beneficiadas, é crucial reformular essas políticas para que respondam às suas demandas específicas, valorizem sua participação ativa na produção e no manejo, e garantam acesso direto e equitativo a recursos e capacitação, promovendo seu empoderamento e controle social.
 
-*   **Relação com saberes ancestrais (Tania, Sonia, Georgia).**
+* <img src="assets/icons/human_11_black.svg" width="18px">   **Relação com saberes ancestrais (Tania, Sonia, Georgia).**
     O texto enfatiza a importância da diversidade sociocultural na Amazônia, composta por povos indígenas, quilombolas, ribeirinhos e extrativistas, que são "detentores de saberes e aptidões acerca de questões inerentes aos usos dos recursos naturais". A valorização do conhecimento tradicional é identificada como um benefício crucial em experiências de Manejo Florestal Comunitário bem-sucedidas, como no PAE Chico Mendes. O "Projeto Kamukaia" também visa gerar informações que valorizam o conhecimento tradicional para o manejo de espécies não-madeireiras.
 
     Para o Projeto WTF, a relação com os saberes ancestrais é central. A crítica do artigo à omissão desses conhecimentos em muitas políticas públicas ressoa com a necessidade de dar visibilidade e protagonismo às mulheres como Tania, Sonia e Georgia. Elas representam a continuidade e a inovação desses saberes, essenciais para o manejo sustentável da floresta. O projeto WTF deve atuar para que a valorização de seus conhecimentos, práticas e o reconhecimento de seu papel como guardiãs da biodiversidade sejam integrados nas políticas e ações, superando a lacuna entre teoria e prática identificada na pesquisa. O extrativismo de coleta, se bem apoiado, é uma forma de aliar a manutenção da natureza original como capital natural aos saberes acumulados ao longo de gerações.
@@ -134,4 +144,12 @@ O bioma amazônico representa um desafio multifacetado na atualidade. Muitas pro
 52. WWF (WORLD WIDE FUND FOR NATURE). **Manejo Florestal na Amazônia**. Relatório da 1a Oficina de Manejo Florestal Comunitário com 12 iniciativas na Amazônia Brasileira. Brasília, 1998. v. 2, 44 p.
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

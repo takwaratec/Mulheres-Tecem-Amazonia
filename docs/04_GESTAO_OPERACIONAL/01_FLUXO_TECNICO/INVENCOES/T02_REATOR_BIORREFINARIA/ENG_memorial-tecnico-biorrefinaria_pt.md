@@ -31,27 +31,34 @@ translations:
 type: Boletim Técnico-Científico
 version: '2.2.2'
 ---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"Não se morre enquanto houver quem nos lembre."<br>— Cora Coralina</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: ENG_memorial-tecnico-biorrefinaria_pt.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 # Biorrefinaria Comunitária: Pirólise, Biochar e Cascateamento Térmico
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licença-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./ENG_memorial-tecnico-biorrefinaria_pt.md)
+[![<img src="assets/icons/human_01_red.svg" width="18px"><img src="assets/icons/human_01_red.svg" width="18px"> PT](https://img.shields.io/badge/<img src="assets/icons/human_01_red.svg" width="18px"><img src="assets/icons/human_01_red.svg" width="18px">-Português-green)](./ENG_memorial-tecnico-biorrefinaria_pt.md)
 ![Status](https://img.shields.io/badge/status-V2.2.2%20(Advocacy%205.1)-blue)
 ![Tipo](https://img.shields.io/badge/tipo-Boletim%20Técnico--Científico-teal)
 
----
-
 > *"A soberania energética de um povo começa quando ele aprende a transformar o que tem em abundância. O bambu não é matéria-prima — é infraestrutura viva esperando por uma decisão técnica e política."*
-
----
 
 ## Resumo
 
 Este boletim descreve a micro-biorrefinaria integrada do projeto Mulheres Que Tecem a Floresta, um sistema termoquímico modular de alto desempenho projetado para a conversão descentralizada de bambu nativo (*Guadua* spp.) em ativos de bioeconomia. O sistema associa pirólise lenta, secagem por cascateamento térmico e tratamento fitossanitário não-tóxico via extrato pirolenhoso enriquecido. Discutem-se os eixos de engenharia de segurança (conforme NR-13), o balanço termodinâmico de fluxo neutro para a mitigação de emissões e a rota escalável TRL 4-7, que posiciona o biochar e os combustíveis de 2ª geração como pilares da soberania energética e climática na Amazônia Legal.
 
 **Palavras-chave:** biorrefinaria comunitária · pirólise · biochar · Guadua · soberania energética · cascateamento térmico.
-
----
 
 ## 2. Eixos Temáticos e Engenharia de Base
 
@@ -65,8 +72,6 @@ O Sudoeste Amazônico abriga a maior floresta nativa de bambu do mundo. Somente 
 **Phyllostachys aurea e P. nigra (Sul e Sudeste)**
 Espécies de crescimento rápido (27,2 t/ha.ano), com excelente rendimento gravimétrico para extrato pirolenhoso e elevada qualidade energética para produção de carvão vegetal.
 
----
-
 ### Eixo II — Processo Termoquímico e Coprodutos
 
 #### O Papel do Extrato Pirolenhoso
@@ -75,8 +80,6 @@ O sistema opera em regime de temperatura final entre 300 °C e 600 °C. O rendim
 
 **Integração circular do Extrato Pirolenhoso**
 O EP não é apenas subproduto comercial (defensivo agrícola). Rico em fenóis e ácidos orgânicos, é adicionado em proporção de 20% à água de alimentação da caldeira (NR-13), gerando vapor saturado quimicamente enriquecido. Esse vapor impregnado com fenóis do próprio bambu atua como conservante estrutural de ação fungicida e bactericida — fechando um ciclo circular de tratamento de materiais sem insumos externos.
-
----
 
 ### Eixo III — Engenharia de Equipamentos e Segurança Industrial
 
@@ -87,23 +90,21 @@ A caldeira geradora de vapor para o tratamento hidrotérmico e químico do bambu
 
 **Arquitetura de Prototipagem Industrial (Rigor Técnico 2.0)**
 O sistema evoluiu para um modelo de processamento cilíndrico de alta precisão, otimizando a cubagem para o manejo de colmos inteiros:
-- **Dimensionamento**: Câmaras cilíndricas de **6 metros de comprimento por 1 metro de diâmetro**, com volume útil de **4,7 m³** por câmara.
-- **Câmaras Duplas**:
-    - **Câmara A (Tratamento)**: Revestida em aço inoxidável para resistência à corrosão por extrato pirolenhoso saturado.
-    - **Câmara B (Secagem)**: Foco em isolamento térmico avançado (lã de rocha/fibra cerâmica) para secagem primária.
-- **Método de Imersão**: Substituição da alta pressão por **imersão saturada de Extrato Pirolenhoso (EP)** a pressão atmosférica, elevando a segurança operacional e reduzindo custos de CAPEX.
+- <img src="assets/icons/human_07_black.svg" width="18px"> **Dimensionamento**: Câmaras cilíndricas de **6 metros de comprimento por 1 metro de diâmetro**, com volume útil de **4,7 m³** <img src="assets/icons/human_07_black.svg" width="18px"> por câmara.
+- <img src="assets/icons/human_17_black.svg" width="18px"> **Câmaras Duplas**:
+    - <img src="assets/icons/human_16_black.svg" width="18px"> **Câmara A (Tratamento)**: Revestida em aço inoxidável para resistência à corrosão por extrato pirolenhoso saturado.
+    - <img src="assets/icons/human_18_black.svg" width="18px"> **Câmara B (Secagem)**: Foco em isolamento térmico avançado (lã de rocha/fibra cerâmica) para secagem primária.
+- <img src="assets/icons/human_15_black.svg" width="18px"> **Método de Imersão**: Substituição da alta pressão por **imersão saturada de Extrato Pirolenhoso (EP)** <img src="assets/icons/human_15_black.svg" width="18px"> a pressão atmosférica, elevando a segurança operacional e reduzindo custos de CAPEX.
 
 **ABNT NBR ISO 16852 (Corta-chamas)**
 Instalação obrigatória na linha de gases não condensáveis, com função de resfriar frentes de chama e mitigar o risco de *flashback* (retorno de chama) para o reator primário.
-
----
 
 ### Eixo IV — Termodinâmica e Cascateamento Térmico
 
 A sofisticação do projeto baseia-se na separação estrita entre dois universos de fluxo:
 
-- **Universo sujo:** gases e fumaça da pirólise (voláteis orgânicos, CO, H₂, metano)
-- **Universo limpo:** ar quente proveniente da jaqueta externa e do plenum
+- <img src="assets/icons/human_04_black.svg" width="18px"> **Universo sujo:** <img src="assets/icons/human_04_black.svg" width="18px"> gases e fumaça da pirólise (voláteis orgânicos, CO, H₂, metano)
+- <img src="assets/icons/human_19_black.svg" width="18px"> **Universo limpo:** <img src="assets/icons/human_19_black.svg" width="18px"> ar quente proveniente da jaqueta externa e do plenum
 
 O sistema emprega um queimador *Rocket Stove* isolado para consumir os gases residuais (CO, H₂, metano), gerando calor para a caldeira. A tiragem natural do tubo vertical (*riser*) cria pressão neutra (0 barg) na câmara de carbonização, eliminando a necessidade de exaustores mecânicos em contato com fumaça.
 
@@ -113,16 +114,12 @@ O sistema emprega um queimador *Rocket Stove* isolado para consumir os gases res
 | **Fluxo 2 — Ar Quente Limpo** | Jaqueta externa / plenum | Secagem primária do bambu a 60–80 °C |
 | **Fluxo 3 — Vapor Químico** | Caldeira NR-13 | Água (80%) + EP (20%) → vapor com fenóis para cozimento e preservação estrutural do bambu |
 
----
-
 ### Eixo V — Conformidade Ambiental e Viabilidade Econômica
 
 O licenciamento atende aos limites de emissão estabelecidos pela **Resolução CONAMA nº 382/2006** para fontes fixas.
 
 Economicamente, a viabilidade do Módulo Base ancora-se na metodologia **VERRA VM0044**, que quantifica a remoção de CO₂ pelo sequestro duradero de carbono no solo via biochar de bambu. O monitoramento e a verificação (MRV) serão amparados pelo **Sistema de Monitoramento Geoespacial Automatizado (SMGA)**, detalhado no [anexo de monitoramento](../../../../01_GOVERNANCA/05_ANEXOS/ANEXO_IV_TR_MRV_SMGA.md), que integra dados de satélite
  e ocorrências taxonômicas para garantir a rastreabilidade científica dos estoques de biomassa.
-
----
 
 ## 3. Anexos: Memorial de Desenvolvimento e Engenharia (P&D)
 
@@ -145,8 +142,6 @@ Economicamente, a viabilidade do Módulo Base ancora-se na metodologia **VERRA V
 | **Choque de Preço no Diesel Fóssil** | Alta | Alto | *Soberania Logística:* a Fase 2 criará o *Alcanol-Mix* (etanol/metanol) para abastecer a frota interna, blindando o projeto contra fretes abusivos no Norte do país |
 | **Volatilidade de Preços de Enzimas E2G** | Alta | Alto | Modelagem de estresse financeiro (*break-even*). Como o módulo E2G é inserido apenas na Fase 2, se os insumos inviabilizarem o OPEX, o sistema reverte para a estabilidade consolidada do Módulo Base (Camada 1) |
 
----
-
 ### Anexo B — Cronograma de Desenvolvimento TRL 4 ao TRL 7
 
 O escalonamento exige uma etapa compulsória de simulação digital antes do comprometimento do CAPEX físico. A evolução é estruturada em 18 meses:
@@ -166,8 +161,6 @@ Testes de estanqueidade, calibração de termopares Tipo-K e simulação de flux
 **Fase 4 — Operação do Módulo Base e Validação E2G/CCU (Meses 12–18)**
 Primeiras bateladas de biochar, certificação de remoção de carbono (VERRA VM0044). Testes práticos da infusão de 20% de extrato pirolenhoso no banho de vapor da caldeira. Início da integração piloto das rotas de Metanol Sintético.
 
----
-
 ### Anexo C — Integração do Módulo de Combustíveis Híbridos e Economia do Metanol (Fase 2)
 
 Após a validação da Camada 1, o calor excedente do plenum servirá de plataforma para a quebra da lignina de resíduos foliares em celulose fermentável, viabilizando a produção de Etanol de 2ª Geração (E2G). O CO₂ biogênico liberado na fermentação, somado aos vapores do reator, será canalizado para hidrogenação catalítica:
@@ -175,8 +168,6 @@ Após a validação da Camada 1, o calor excedente do plenum servirá de platafo
 $$CO_2 + 3H_2 \rightleftharpoons CH_3OH + H_2O$$
 
 Este processo converte CO₂ em metanol líquido estocável — fundamento da **Economia do Metanol**, conceito validado globalmente pelo Prof. George A. Olah (Prêmio Nobel de Química, 1994). A estratégia transforma emissões biogênicas em combustível líquido, blindando o projeto contra a dependência de combustíveis fósseis no contexto logístico amazônico.
-
----
 
 ### Anexo D — Sistema de Monitoramento Geoespacial e Plataforma de Dados Abertos
 
@@ -189,8 +180,6 @@ A quantificação do potencial de biomassa de bambu em territórios amazônicos 
 O Sudoeste Amazônico concentra estimados 4,5 a 7 milhões de hectares dominados por *Guadua weberbaueri* e *G. sarcocarpa* somente no Acre — configurando a maior floresta nativa de bambu do mundo. Apesar dessa magnitude, inventários geoespaciais sistemáticos e publicamente acessíveis permanecem escassos.
 
 Este Anexo descreve a arquitetura técnica do **Sistema de Monitoramento Geoespacial Automatizado (SMGA)**, construído sobre ferramentas gratuitas e de código aberto, capaz de produzir dados auditáveis, versionados e citáveis para uso em defesa de projetos, publicações científicas e plataformas de transparência institucional.
-
----
 
 #### D.2 Arquitetura do Sistema — Três Camadas Integradas
 
@@ -245,8 +234,6 @@ for genus in genera:
 
 Todo o código, dados e produtos do SMGA são publicados em repositório público sob licença CC BY 4.0, com DOI permanente via Zenodo para cada versão consolidada. Qualquer pesquisador pode abrir *issue* ou *pull request* para contribuir com dados de campo, refinar classificações ou validar estimativas — convertendo o SMGA em **bem público colaborativo** alinhado aos princípios de ciência aberta exigidos pelo Fundo Amazônia e pelo Horizon Europe.
 
----
-
 #### D.3 Inserção Recomendada no Documento Principal
 
 **Na Seção 7.1 — Diretrizes de Manejo Ecológico**, adicionar ao final do segundo parágrafo:
@@ -256,8 +243,6 @@ Todo o código, dados e produtos do SMGA são publicados em repositório públic
 **Na Seção 11 — Lacunas Remanescentes**, adicionar:
 
 > "**Mapeamento geoespacial e série histórica de biomassa de *Guadua* spp. no Acre e na Amazônia Legal:** O SMGA (Anexo D) estrutura a coleta automatizada desses dados, reduzindo a lacuna de inventário florestal independente e conferindo rastreabilidade científica às estimativas de estoque de carbono utilizadas no modelo econômico-financeiro."
-
----
 
 #### D.4 Cronograma de Implantação do SMGA
 
@@ -275,8 +260,6 @@ Todo o código, dados e produtos do SMGA são publicados em repositório públic
 O SMGA é construído inteiramente sobre infraestrutura gratuita: Google Earth Engine (conta acadêmica), GitHub (plano gratuito com Actions), GBIF (API pública) e GEDI via GEE (asset público NASA). O custo efetivo concentra-se em **horas de trabalho técnico** — estimadas em 80–120 horas para o setup inicial (Meses 1–5) e 8–12 horas/mês de manutenção a partir do Mês 6.
 
 Recomenda-se alocar esse esforço ao **Assistente de Projetos e Monitoramento** previsto na Seção 12.2.1 do documento principal, com suporte eventual de bolsista de iniciação tecnológica vinculado à UFAC ou Embrapa Acre. O custo é classificável como **item de documentação técnica e certificações** (Seção 12.6) e pode ser incluído em orçamento BNDES sob o código de atividade *"Elaboração de sistemas de monitoramento e rastreabilidade — MRV"*, reforçando a aderência aos critérios de adicionalidade exigidos pelo Fundo Amazônia.
-
----
 
 ## 4. Referências Técnicas
 
@@ -322,20 +305,11 @@ UFJF — Universidade Federal de Juiz de Fora. **MEC010: Transferência de Calor
 
 ---
 
-**🎋 Institucional — Tecnologia do Bambu para a Soberania Amazônica**
-**DOI: [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106)**
-
-*Projeto Mulheres Que Tecem a Floresta — Documento técnico oficial.*
-*Licença CC BY 4.0.*
 ---
 
-## Como citar este documento
-
-**ABNT:**
-Institucional, Fabio Resck. *Memorial Técnico: Sistema Integrado de Pirólise e Tratamento de Bambu — Base Técnica para Bioeconomia, Soberania Energética e Captação de Recursos*. Série Técnica Projeto Mulheres Que Tecem a Floresta — Documentação Técnica de Engenharia. Brasília: Núcleo Institucional / Universidade de Brasília, 2026. Disponível em: https://doi.org/10.5281/zenodo.18827106.
-
-**APA:**
-Institucional, F. R. (2026). *Memorial Técnico: Sistema Integrado de Pirólise e Tratamento de Bambu* (Versão 2.1). Boletim Técnico-Científico — Núcleo Institucional / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106
+---
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

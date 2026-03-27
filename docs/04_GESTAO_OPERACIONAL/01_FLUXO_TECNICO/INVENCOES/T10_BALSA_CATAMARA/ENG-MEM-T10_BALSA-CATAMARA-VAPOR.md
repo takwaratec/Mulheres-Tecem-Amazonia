@@ -18,13 +18,23 @@ keywords:
 - pasteurização
 ---
 
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"O homem é o estilo."<br>— Machado de Assis</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: ENG-MEM-T10_BALSA-CATAMARA-VAPOR.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 # Memorial Técnico: Balsa Catamarã de Bio-Compósitos e Propulsão a Vapor T10
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ![Status](https://img.shields.io/badge/status-Finalizado%20(Advocacy)-blue)
-
----
 
 ## 1. Campo da Invenção, Problema e Solução
 
@@ -48,107 +58,101 @@ A propulsão é fornecida por um **Expansor a Vapor tipo Uniflow**, de alta efic
 
 O sistema T10 foi concebido para:
 
-- operar com **biomassa residual regional** (ex.: resíduos de açaí, serragem, resíduos agrícolas), reduzindo a dependência de diesel;
-- garantir **baixa pressão relativa** no circuito de vapor (pressão neutra) por meio de arquitetura de condensação e controle de temperatura, priorizando a segurança;
-- integrar, em um único casco, funções de transporte, geração de energia, processamento térmico e conservação de alimentos, com foco nas rotas ribeirinhas de médio alcance.
-
----
+- <img src="assets/icons/human_11_black.svg" width="18px"> operar com **biomassa residual regional** <img src="assets/icons/human_11_black.svg" width="18px"> (ex.: resíduos de açaí, serragem, resíduos agrícolas), reduzindo a dependência de diesel;
+- <img src="assets/icons/human_09_black.svg" width="18px"> garantir **baixa pressão relativa** <img src="assets/icons/human_09_black.svg" width="18px"> no circuito de vapor (pressão neutra) por meio de arquitetura de condensação e controle de temperatura, priorizando a segurança;
+- <img src="assets/icons/human_17_black.svg" width="18px"> integrar, em um único casco, funções de transporte, geração de energia, processamento térmico e conservação de alimentos, com foco nas rotas ribeirinhas de médio alcance.
 
 ## 2. Descrição Detalhada e Especificações
 
 ### 2.1 Estrutura e Casco (Bio-Arquitetura)
 
-- **Matriz polimérica**: Polímero vegetal (sistema Imperveg AGT 1315 / UG 132) reforçado com Bambu *Guadua weberbaueri*, formando laminados estruturais de alto desempenho específico.
-- **Construção do casco**: Núcleos de flutuação em bombonas de PEAD de 200 L, encapsuladas em PU expansivo de células fechadas, recobertas por laminado de bambu/PU vegetal, configurando um **casco tipo sandwich** com núcleo leve e pele resistente a impactos.
-- **Calado operacional**: 
-  - 0,9 m em condição de carga típica para o eixo Rio Branco (vazante);
-  - até 1,1 m para operações em rios como o Juruá, considerando maior variação de calado.
-- **Configuração estrutural**:
-  - Dois cascos paralelos (catamarã) interligados por travessas em biocompósito e/ou aço leve;
-  - compartimentação interna das bombonas para garantir **flutuabilidade redundante** em caso de dano localizado;
-  - reforços localizados para suportar esforços de acoplamento do módulo térmico e do módulo de beneficiamento.
+- <img src="assets/icons/human_05_black.svg" width="18px"> **Matriz polimérica**: Polímero vegetal (sistema Imperveg AGT 1315 / UG 132) reforçado com Bambu *Guadua weberbaueri*, formando laminados estruturais de alto desempenho específico.
+- <img src="assets/icons/human_15_black.svg" width="18px"> **Construção do casco**: Núcleos de flutuação em bombonas de PEAD de 200 L, encapsuladas em PU expansivo de células fechadas, recobertas por laminado de bambu/PU vegetal, configurando um **casco tipo sandwich** <img src="assets/icons/human_15_black.svg" width="18px"> com núcleo leve e pele resistente a impactos.
+- <img src="assets/icons/human_03_black.svg" width="18px"> **Calado operacional**: 
+  - <img src="assets/icons/human_13_black.svg" width="18px"> 0,9 m em condição de carga típica para o eixo Rio Branco (vazante);
+  - <img src="assets/icons/human_20_black.svg" width="18px"> até 1,1 m para operações em rios como o Juruá, considerando maior variação de calado.
+- <img src="assets/icons/human_02_black.svg" width="18px"> **Configuração estrutural**:
+  - <img src="assets/icons/human_01_black.svg" width="18px"> Dois cascos paralelos (catamarã) interligados por travessas em biocompósito e/ou aço leve;
+  - <img src="assets/icons/human_08_black.svg" width="18px"> compartimentação interna das bombonas para garantir **flutuabilidade redundante** <img src="assets/icons/human_08_black.svg" width="18px"> em caso de dano localizado;
+  - <img src="assets/icons/human_07_black.svg" width="18px"> reforços localizados para suportar esforços de acoplamento do módulo térmico e do módulo de beneficiamento.
 
 **Dependências tecnológicas e ensaios recomendados**:
-- Ensaios de tração, flexão e impacto em laminados bambu/PU;
-- Testes de envelhecimento acelerado (umidade, UV, fungos) e abrasão em condições análogas aos rios amazônicos;
-- Prototipagem de seção de casco em escala reduzida para testes de impacto com troncos e encalhe controlado.
+- <img src="assets/icons/human_04_black.svg" width="18px"> Ensaios de tração, flexão e impacto em laminados bambu/PU;
+- <img src="assets/icons/human_14_black.svg" width="18px"> Testes de envelhecimento acelerado (umidade, UV, fungos) e abrasão em condições análogas aos rios amazônicos;
+- <img src="assets/icons/human_06_black.svg" width="18px"> Prototipagem de seção de casco em escala reduzida para testes de impacto com troncos e encalhe controlado.
 
 ### 2.2 Propulsão e Termodinâmica
 
 O módulo de propulsão da T10 deriva diretamente do **Coração Térmico Mulheres que Tecem a Floresta**, adaptado para aplicação naval de baixo calado.
 
-- **Reator de combustão**: 
-  - Tipo Rocket Stove de alta indução, com alimentação por briquetes e geometria otimizada para garantir combustão completa e alta temperatura de chama;
-  - isolamento térmico em fibra cerâmica, minimizando perdas de calor para o ambiente e garantindo segurança da tripulação.
-- **Combustível**:
-  - Briquetes de biomassa com densidade > 1,0 g/cm³ e umidade < 12%;
-  - formulados a partir de resíduos de sociobiodiversidade (casca de açaí, resíduos agrícolas e florestais), viabilizando cadeias produtivas locais de briquetagem.
-- **Caldeira / Gerador de Vapor**:
-  - Configuração *Flash Steam* aquotubular de circulação forçada, com inventário inicial de apenas 20 L de água, possibilitando **partida rápida**;
-  - dotada de trocadores internos e sensores (pressão, temperatura, nível e vazão) para operação em regime de pressão neutra relativa, com alívio automático segundo NR-13.
-- **Motor / Expansor**:
-  - Expansor tipo *Uniflow* (Stumpf), com fluxo de vapor unidirecional no cilindro, projetado para operação sem lubrificação no cilindro (vapor limpo), facilitando o uso de vapor de exaustão em processos alimentares;
-  - acoplado mecanicamente a um gerador elétrico e, opcionalmente, a um eixo propulsor ou sistema híbrido elétrico-azimutal.
-- **Potências de projeto (nominais)**:
-  - 10 kW (elétricos) para propulsão auxiliar, serviços de bordo e automação;
-  - 40 kW (térmicos) disponíveis como energia térmica residual para pasteurização, CIP e apoio à cadeia de frio.
+- <img src="assets/icons/human_18_black.svg" width="18px"> **Reator de combustão**: 
+  - <img src="assets/icons/human_19_black.svg" width="18px"> Tipo Rocket Stove de alta indução, com alimentação por briquetes e geometria otimizada para garantir combustão completa e alta temperatura de chama;
+  - <img src="assets/icons/human_12_black.svg" width="18px"> isolamento térmico em fibra cerâmica, minimizando perdas de calor para o ambiente e garantindo segurança da tripulação.
+- <img src="assets/icons/human_16_black.svg" width="18px"> **Combustível**:
+  - <img src="assets/icons/human_10_black.svg" width="18px"> Briquetes de biomassa com densidade > 1,0 g/cm³ e umidade < 12%;
+  - <img src="assets/icons/human_11_black.svg" width="18px"> formulados a partir de resíduos de sociobiodiversidade (casca de açaí, resíduos agrícolas e florestais), viabilizando cadeias produtivas locais de briquetagem.
+- <img src="assets/icons/human_09_black.svg" width="18px"> **Caldeira / Gerador de Vapor**:
+  - <img src="assets/icons/human_17_black.svg" width="18px"> Configuração *Flash Steam* <img src="assets/icons/human_17_black.svg" width="18px"> aquotubular de circulação forçada, com inventário inicial de apenas 20 L de água, possibilitando **partida rápida**;
+  - <img src="assets/icons/human_05_black.svg" width="18px"> dotada de trocadores internos e sensores (pressão, temperatura, nível e vazão) para operação em regime de pressão neutra relativa, com alívio automático segundo NR-13.
+- <img src="assets/icons/human_15_black.svg" width="18px"> **Motor / Expansor**:
+  - <img src="assets/icons/human_03_black.svg" width="18px"> Expansor tipo *Uniflow* <img src="assets/icons/human_03_black.svg" width="18px"> (Stumpf), com fluxo de vapor unidirecional no cilindro, projetado para operação sem lubrificação no cilindro (vapor limpo), facilitando o uso de vapor de exaustão em processos alimentares;
+  - <img src="assets/icons/human_13_black.svg" width="18px"> acoplado mecanicamente a um gerador elétrico e, opcionalmente, a um eixo propulsor ou sistema híbrido elétrico-azimutal.
+- <img src="assets/icons/human_20_black.svg" width="18px"> **Potências de projeto (nominais)**:
+  - <img src="assets/icons/human_02_black.svg" width="18px"> 10 kW (elétricos) para propulsão auxiliar, serviços de bordo e automação;
+  - <img src="assets/icons/human_01_black.svg" width="18px"> 40 kW (térmicos) disponíveis como energia térmica residual para pasteurização, CIP e apoio à cadeia de frio.
 
 **Dependências tecnológicas e ensaios recomendados**:
-- Dimensionamento termodinâmico com base em motores Uniflow de pequena escala e em microturbinas a vapor de baixa pressão já estudadas para comunidades isoladas;
-- Desenvolvimento de bancada de testes do bloco “Reator + Caldeira Flash + Expansor Uniflow + Condensador”, em terra, para validar:
-  - consumo específico de briquetes (kg/kWh),
-  - estabilidade de operação em carga parcial,
-  - qualidade do vapor e controle de condensação;
-- Aplicação rigorosa da NR-13, com válvulas de segurança, manômetros redundantes e intertravamentos de segurança em falhas de alimentação de água.
+- <img src="assets/icons/human_08_black.svg" width="18px"> Dimensionamento termodinâmico com base em motores Uniflow de pequena escala e em microturbinas a vapor de baixa pressão já estudadas para comunidades isoladas;
+- <img src="assets/icons/human_07_black.svg" width="18px"> Desenvolvimento de bancada de testes do bloco “Reator + Caldeira Flash + Expansor Uniflow + Condensador”, em terra, para validar:
+  - <img src="assets/icons/human_04_black.svg" width="18px"> consumo específico de briquetes (kg/kWh),
+  - <img src="assets/icons/human_14_black.svg" width="18px"> estabilidade de operação em carga parcial,
+  - <img src="assets/icons/human_06_black.svg" width="18px"> qualidade do vapor e controle de condensação;
+- <img src="assets/icons/human_18_black.svg" width="18px"> Aplicação rigorosa da NR-13, com válvulas de segurança, manômetros redundantes e intertravamentos de segurança em falhas de alimentação de água.
 
 ### 2.3 Módulo de Beneficiamento e Conservação
 
 O módulo de processo é concebido como uma **mini-planta de laticínios e polpas** embarcada, alimentada pela cogeração térmica do sistema a vapor.
 
-- **Sistema térmico de processo**:
-  - Trocador de calor de placas com seção de regeneração, com eficiência projetada da ordem de 90%, destinado a pasteurização de leite e derivados de açaí;
-  - circuito de vapor secundário com controle de temperatura preciso, garantindo curvas de tempo–temperatura adequadas para diferentes produtos.
-- **Resfriamento e cadeia de frio**:
-  - Unidade condensadora elétrica de 1,5 kW (refrigeração) conectada a câmaras frias isoladas com painéis de PU vegetal/bambu;
-  - câmaras dimensionadas para manter a cadeia de frio de produtos pasteurizados entre viagens, com autonomia térmica complementada pela baixa carga térmica das paredes em biocompósito.
-- **Capacidades e produtos-alvo**:
-  - Processamento de frutos da floresta (ex.: açaí) em forma de polpa e de proteína regional (ex.: leite, queijos frescos) em regime itinerante;
-  - configuração modular que permite operar ora como unidade de serviço comunitário (processo em ancoragem), ora como plataforma de transporte refrigerado.
-- **Qualidade e sanitariedade**:
-  - Uso de vapor de exaustão de grau culinário para esterilização CIP (*Clean-in-Place*) de tubulações, tanques e equipamentos de processo;
-  - adoção de boas práticas de fabricação e de limpeza, compatíveis com regulamentos sanitários para laticínios e polpas.
+- <img src="assets/icons/human_19_black.svg" width="18px"> **Sistema térmico de processo**:
+  - <img src="assets/icons/human_12_black.svg" width="18px"> Trocador de calor de placas com seção de regeneração, com eficiência projetada da ordem de 90%, destinado a pasteurização de leite e derivados de açaí;
+  - <img src="assets/icons/human_16_black.svg" width="18px"> circuito de vapor secundário com controle de temperatura preciso, garantindo curvas de tempo–temperatura adequadas para diferentes produtos.
+- <img src="assets/icons/human_10_black.svg" width="18px"> **Resfriamento e cadeia de frio**:
+  - <img src="assets/icons/human_11_black.svg" width="18px"> Unidade condensadora elétrica de 1,5 kW (refrigeração) conectada a câmaras frias isoladas com painéis de PU vegetal/bambu;
+  - <img src="assets/icons/human_09_black.svg" width="18px"> câmaras dimensionadas para manter a cadeia de frio de produtos pasteurizados entre viagens, com autonomia térmica complementada pela baixa carga térmica das paredes em biocompósito.
+- <img src="assets/icons/human_17_black.svg" width="18px"> **Capacidades e produtos-alvo**:
+  - <img src="assets/icons/human_05_black.svg" width="18px"> Processamento de frutos da floresta (ex.: açaí) em forma de polpa e de proteína regional (ex.: leite, queijos frescos) em regime itinerante;
+  - <img src="assets/icons/human_15_black.svg" width="18px"> configuração modular que permite operar ora como unidade de serviço comunitário (processo em ancoragem), ora como plataforma de transporte refrigerado.
+- <img src="assets/icons/human_03_black.svg" width="18px"> **Qualidade e sanitariedade**:
+  - <img src="assets/icons/human_13_black.svg" width="18px"> Uso de vapor de exaustão de grau culinário para esterilização CIP (*Clean-in-Place*) de tubulações, tanques e equipamentos de processo;
+  - <img src="assets/icons/human_20_black.svg" width="18px"> adoção de boas práticas de fabricação e de limpeza, compatíveis com regulamentos sanitários para laticínios e polpas.
 
 **Dependências tecnológicas e ensaios recomendados**:
-- Balanço térmico para quantificar L/h de leite e kg/h de polpa processáveis com 40 kW térmicos residuais;
-- Testes em planta-piloto (em terra) para validar os ciclos de pasteurização, a eficiência de regeneração e a carga térmica real da cadeia de frio em condições amazônicas.
-
----
+- <img src="assets/icons/human_02_black.svg" width="18px"> Balanço térmico para quantificar L/h de leite e kg/h de polpa processáveis com 40 kW térmicos residuais;
+- <img src="assets/icons/human_01_black.svg" width="18px"> Testes em planta-piloto (em terra) para validar os ciclos de pasteurização, a eficiência de regeneração e a carga térmica real da cadeia de frio em condições amazônicas.
 
 ## 3. Bill of Materials (BoM) – Componentes Críticos
 
-- **Flutuação e casco**:
-  - Bombonas PEAD 200 L de reuso, testadas para estanqueidade;
-  - Resina Imperveg (PU vegetal) para encapsulamento;
-  - Laminados estruturais em bambu *Guadua* com matriz Imperveg AGT 1315 / UG 132.
-- **Reator de combustão**:
-  - Câmara em aço carbono com revestimento refratário resistente a altas temperaturas;
-  - serpentina em aço inoxidável 316 nas zonas de troca térmica direta.
-- **Caldeira / Gerador de vapor**:
-  - Tubos aquotubulares em aço-liga adequado para serviço com água/vapor (atendendo NR-13);
-  - bombas de alimentação de água redundantes, válvulas de controle e instrumentação de segurança.
-- **Motor / Expansor**:
-  - Bloco em fundição nodular;
-  - anéis de vedação em PTFE e materiais compatíveis com vapor limpo; 
-  - sistema de lubrificação isolado das câmaras de expansão.
-- **Cadeia de frio**:
-  - Unidade condensadora 1,5 kW;
-  - painéis isolantes em PU vegetal/bambu com acabamento interno sanitário.
-- **Sensores e automação**:
-  - Válvulas de segurança e dispositivos de alívio conforme NR-13;
-  - manômetros, termopares tipo K, sensores de nível e vazão;
-  - CLP / controlador dedicado para lógica de segurança, intertravamentos e operação automatizada da planta térmica.
-
----
+- <img src="assets/icons/human_08_black.svg" width="18px"> **Flutuação e casco**:
+  - <img src="assets/icons/human_07_black.svg" width="18px"> Bombonas PEAD 200 L de reuso, testadas para estanqueidade;
+  - <img src="assets/icons/human_04_black.svg" width="18px"> Resina Imperveg (PU vegetal) para encapsulamento;
+  - <img src="assets/icons/human_14_black.svg" width="18px"> Laminados estruturais em bambu *Guadua* <img src="assets/icons/human_14_black.svg" width="18px"> com matriz Imperveg AGT 1315 / UG 132.
+- <img src="assets/icons/human_06_black.svg" width="18px"> **Reator de combustão**:
+  - <img src="assets/icons/human_18_black.svg" width="18px"> Câmara em aço carbono com revestimento refratário resistente a altas temperaturas;
+  - <img src="assets/icons/human_19_black.svg" width="18px"> serpentina em aço inoxidável 316 nas zonas de troca térmica direta.
+- <img src="assets/icons/human_12_black.svg" width="18px"> **Caldeira / Gerador de vapor**:
+  - <img src="assets/icons/human_16_black.svg" width="18px"> Tubos aquotubulares em aço-liga adequado para serviço com água/vapor (atendendo NR-13);
+  - <img src="assets/icons/human_10_black.svg" width="18px"> bombas de alimentação de água redundantes, válvulas de controle e instrumentação de segurança.
+- <img src="assets/icons/human_11_black.svg" width="18px"> **Motor / Expansor**:
+  - <img src="assets/icons/human_09_black.svg" width="18px"> Bloco em fundição nodular;
+  - <img src="assets/icons/human_17_black.svg" width="18px"> anéis de vedação em PTFE e materiais compatíveis com vapor limpo; 
+  - <img src="assets/icons/human_05_black.svg" width="18px"> sistema de lubrificação isolado das câmaras de expansão.
+- <img src="assets/icons/human_15_black.svg" width="18px"> **Cadeia de frio**:
+  - <img src="assets/icons/human_03_black.svg" width="18px"> Unidade condensadora 1,5 kW;
+  - <img src="assets/icons/human_13_black.svg" width="18px"> painéis isolantes em PU vegetal/bambu com acabamento interno sanitário.
+- <img src="assets/icons/human_20_black.svg" width="18px"> **Sensores e automação**:
+  - <img src="assets/icons/human_02_black.svg" width="18px"> Válvulas de segurança e dispositivos de alívio conforme NR-13;
+  - <img src="assets/icons/human_01_black.svg" width="18px"> manômetros, termopares tipo K, sensores de nível e vazão;
+  - <img src="assets/icons/human_08_black.svg" width="18px"> CLP / controlador dedicado para lógica de segurança, intertravamentos e operação automatizada da planta térmica.
 
 ## 4. Reivindicações
 
@@ -158,34 +162,31 @@ O módulo de processo é concebido como uma **mini-planta de laticínios e polpa
 
 3. **BALSA COM BRIQUETERIA MODULAR A BORDO**, conforme reivindicação 1, caracterizada pelo uso de **briqueteria modular embarcada** para produção e alimentação contínua de briquetes de biomassa local ao reator térmico, por meio de sistema de alimentação com efeito Venturi, garantindo independência de combustíveis fósseis e fechamento de ciclo produtivo da biomassa regional.
 
----
-
 ## 5. Dependências Tecnológicas e Adaptações Propostas
 
 Para viabilizar a transição do conceito T10 para protótipos operacionais, recomenda-se explicitar as seguintes dependências e adaptações:
 
 1. **Integração com o Coração Térmico Mulheres que Tecem a Floresta**  
-   - O T10 deve ser formalmente vinculado ao memorial mestre do **Coração Térmico Mulheres que Tecem a Floresta**, que detalha o circuito termodinâmico, as estratégias de pressão neutra e o controle de segurança.  
-   - Sugere-se incluir uma referência cruzada na introdução e um diagrama simplificado do fluxo térmico e de vapor da balsa.
+   - <img src="assets/icons/human_07_black.svg" width="18px"> O T10 deve ser formalmente vinculado ao memorial mestre do **Coração Térmico Mulheres que Tecem a Floresta**, que detalha o circuito termodinâmico, as estratégias de pressão neutra e o controle de segurança.  
+   - <img src="assets/icons/human_04_black.svg" width="18px"> Sugere-se incluir uma referência cruzada na introdução e um diagrama simplificado do fluxo térmico e de vapor da balsa.
 
 2. **Módulo de propulsão híbrida**  
-   - Pela potência elétrica nominal de 10 kW, recomenda-se considerar o T10 inicialmente como **plataforma de processamento e serviço**, com propulsão fluvial complementada por:
-     - motor de apoio (diesel ou elétrico) de baixa potência ou
-     - sistema híbrido (banco de baterias + propulsor elétrico) alimentado pelo gerador a vapor.  
-   - Essa adaptação aumenta a robustez operacional em rotas mais longas e com correntes mais fortes.
+   - <img src="assets/icons/human_14_black.svg" width="18px"> Pela potência elétrica nominal de 10 kW, recomenda-se considerar o T10 inicialmente como **plataforma de processamento e serviço**, com propulsão fluvial complementada por:
+     - <img src="assets/icons/human_06_black.svg" width="18px"> motor de apoio (diesel ou elétrico) de baixa potência ou
+     - <img src="assets/icons/human_18_black.svg" width="18px"> sistema híbrido (banco de baterias + propulsor elétrico) alimentado pelo gerador a vapor.  
+   - <img src="assets/icons/human_19_black.svg" width="18px"> Essa adaptação aumenta a robustez operacional em rotas mais longas e com correntes mais fortes.
 
 3. **Escalonamento modular**  
-   - Propor explicitamente três níveis de escala:
-     - T10-S (protótipo experimental, casco menor, rota curta, foco em P&D);
-     - T10-M (unidade comunitária típica, rota média, eixo Rio Branco–Manaus);
-     - T10-L (versão ampliada com maior capacidade de carga e frio).  
-   - Isso ajuda a alinhar o memorial com um roadmap de desenvolvimento tecnológico.
+   - <img src="assets/icons/human_12_black.svg" width="18px"> Propor explicitamente três níveis de escala:
+     - <img src="assets/icons/human_16_black.svg" width="18px"> T10-S (protótipo experimental, casco menor, rota curta, foco em P&D);
+     - <img src="assets/icons/human_10_black.svg" width="18px"> T10-M (unidade comunitária típica, rota média, eixo Rio Branco–Manaus);
+     - <img src="assets/icons/human_11_black.svg" width="18px"> T10-L (versão ampliada com maior capacidade de carga e frio).  
+   - <img src="assets/icons/human_09_black.svg" width="18px"> Isso ajuda a alinhar o memorial com um roadmap de desenvolvimento tecnológico.
 
 4. **Plano de ensaios e certificação**  
-   - Acrescentar, em anexo, um **plano resumido de ensaios** (materiais, tanque de provas, protótipo em rio) e referências a normas aplicáveis (NR-13, normas de classificação de embarcações fluviais).  
-   - Isso fortalece a argumentação de viabilidade e prepara terreno para parcerias com estaleiros, universidades e sociedades classificadoras.
+   - <img src="assets/icons/human_17_black.svg" width="18px"> Acrescentar, em anexo, um **plano resumido de ensaios** <img src="assets/icons/human_17_black.svg" width="18px"> (materiais, tanque de provas, protótipo em rio) e referências a normas aplicáveis (NR-13, normas de classificação de embarcações fluviais).  
+   - <img src="assets/icons/human_05_black.svg" width="18px"> Isso fortalece a argumentação de viabilidade e prepara terreno para parcerias com estaleiros, universidades e sociedades classificadoras.
 
----
 ## 6. Referências
 
 BRASIL BIOMASSA. Brasil Biomassa: bioenergia, biocarbono, biogás e pellets. Curitiba, 2025. Disponível em: <https://www.brasilbiomassa.com>. Acesso em: 24 mar. 2026.[web:20]
@@ -224,7 +225,11 @@ Takwara, F. R. (2026). *Memorial Técnico: Balsa Catamarã de Bio-Compósitos e 
 
 ---
 
-**🎋 SGMAS — Soberania Tecnológica e Navegação Sustentável**
+---
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

@@ -1,12 +1,4 @@
-# REVIEW TÉCNICO: IMPERVEGº RQI 132
-**Referência do Review:** PES-REV-3952-2026
-**Data do Ensaio:** 27 de fevereiro de 2025
-**Local do Ensaio:** Coimbra, Portugal - ITecons (Instituto de Investigação e Desenvolvimento Tecnológico para a Construção, Energia, Ambiente e Sustentabilidade)
-**Órgão Emissor:** ITecons
-**Solicitante:** Tecnoveg — Indústria e Comércio, Lda.
-
 ---
-
 ## 1. Tabelas de Resultados
 
 **Tabela 1: Resultados obtidos no Corpo de Prova de referência**
@@ -55,8 +47,39 @@ Adicionalmente, a inspeção visual dos corpos de prova após o ciclo térmico n
     2.  **Manutenção da Integridade Física e Ausência de Degradação Visual:** A observação de ausência de bolhas, fissurações ou delaminação nos corpos de prova envelhecidos termicamente é um achado significativo. Este resultado sugere que o material não apenas retém sua capacidade de aderência, mas também mantém sua integridade estrutural e estética. Tal estabilidade é fundamental para aplicações de longo prazo, onde a degradação visual e a formação de defeitos macroscópicos podem comprometer a proteção do substrato e a vida útil do sistema.
 
     3.  **Caráter Consistente da Ruptura na Interface Substrato-Revestimento:** A predominância de ruptura adesiva na interface entre o substrato de concreto e a primeira camada do sistema, tanto nos corpos de prova de referência quanto nos envelhecidos, fornece informações cruciais sobre o mecanismo de falha. Isso indica que a otimização da aderência é o fator limitante no desempenho do sistema. Embora os valores de aderência obtidos sejam adequados para muitas aplicações de proteção e reparo, esta característica aponta para futuras pesquisas focadas na melhoria da interface ou na preparação do substrato para, eventualmente, atingir rupturas coesivas no concreto, se valores de aderência ainda mais elevados forem demandados.
-
 ---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"A educação é o direito de todos e dever do Estado."<br>— Anísio Teixeira</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: REVIEW_OMH048-25 pull-off 70º.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
+# REVIEW TÉCNICO: IMPERVEGº RQI 132
+**Referência do Review:** PES-REV-3952-2026
+**Data do Ensaio:** 27 de fevereiro de 2025
+**Local do Ensaio:** Coimbra, Portugal - ITecons (Instituto de Investigação e Desenvolvimento Tecnológico para a Construção, Energia, Ambiente e Sustentabilidade)
+**Órgão Emissor:** ITecons
+**Solicitante:** Tecnoveg — Indústria e Comércio, Lda.
+
+
 **Autor da Análise:** Fabio Resck Takwara (ORCID: "0009-0002-6044-2583")
 **Data da Revisão:** 25/03/2026
 **Local da Análise:** "São Paulo-SP"
+
+---
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

@@ -7,8 +7,32 @@ autor_original: Not Identified
 equipe_tecnica: UnB/UFAC/UFRR
 ano_publicacao: '2025'
 ---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"O que vale na vida não é o ponto de partida e sim a caminhada."<br>— Cora Coralina</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: WTF_RES_manual_para_restaurac_a_o_ecolo_gica_e_cre_ditos_de_carbono.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 (Para o seu manual e projeto, que envolvem crédito de carbono, uso de biochar e bambu com o objetivo de restabelecer a saúde do ecossistema, o termo mais adequado e poderoso é:)
 
 
 
 1. Precisão Técnica: Seu projeto vai além de simplesmente "recuperar" a área. Você está ativamente reconstruindo um ecossistema, o que se alinha perfeitamente com a definiçã...
+
+---
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

@@ -10,9 +10,21 @@ license: CC BY 4.0
 translations:
 ---
 
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"Viver é muito perigoso."<br>— Guimarães Rosa</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: RES_pesquisa-bambu-indigenas-georreferenciamento.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./RES_pesquisa-bambu-indigenas-georreferenciamento.md)
+[![<img src="assets/icons/human_01_red.svg" width="18px"><img src="assets/icons/human_01_red.svg" width="18px"> PT](https://img.shields.io/badge/<img src="assets/icons/human_01_red.svg" width="18px"><img src="assets/icons/human_01_red.svg" width="18px">-Português-green)](./RES_pesquisa-bambu-indigenas-georreferenciamento.md)
 ![Status](https://img.shields.io/badge/status-V2.2.2%20(Advocacy%205.1)-blue)
 
 # **Análise Integrada das Florestas de Bambu no Acre: Dinâmicas Ecológicas, Mapeamento por Geoprocessamento e a Governança Socioambiental entre IFAC, UFAC e IMAC**
@@ -57,9 +69,9 @@ A compreensão do gênero *Guadua* é central para qualquer esforço de mapeamen
 
 As espécies do gênero *Guadua* no Acre possuem características morfológicas que facilitam sua identificação em campo, embora o mapeamento remoto exija técnicas mais refinadas.
 
-* **Guadua weberbaueri**: Caracteriza-se por colmos densos e arqueados, dominando vastas áreas de clareiras (DALY et al., 2007). Sua morte em massa após a floração abre espaço para processos sucessionais, mas muitas vezes a regeneração é dominada pela própria espécie (DALY et al., 2007).  
-* **Guadua sarcocarpa**: Frequentemente associada à *G. weberbaueri*, exerce forte influência na mortalidade de árvores vizinhas devido ao peso de suas copas e à competição por luz no sub-bosque (MINISTÉRIO DO MEIO AMBIENTE, 2017).  
-* **Guadua superba**: Ocorre em áreas mais restritas, frequentemente ligadas a solos temporariamente alagados ou baixos platôs (DALY et al., 2007).
+* <img src="assets/icons/human_16_black.svg" width="18px"> **Guadua weberbaueri**: Caracteriza-se por colmos densos e arqueados, dominando vastas áreas de clareiras (DALY et al., 2007). Sua morte em massa após a floração abre espaço para processos sucessionais, mas muitas vezes a regeneração é dominada pela própria espécie (DALY et al., 2007).  
+* <img src="assets/icons/human_03_black.svg" width="18px"> **Guadua sarcocarpa**: Frequentemente associada à *G. weberbaueri*, exerce forte influência na mortalidade de árvores vizinhas devido ao peso de suas copas e à competição por luz no sub-bosque (MINISTÉRIO DO MEIO AMBIENTE, 2017).  
+* <img src="assets/icons/human_05_black.svg" width="18px"> **Guadua superba**: Ocorre em áreas mais restritas, frequentemente ligadas a solos temporariamente alagados ou baixos platôs (DALY et al., 2007).
 
 A dinâmica populacional dessas espécies é marcada por um ciclo de vida que alterna fases de colonização agressiva com períodos de declínio senescente. Durante a fase de expansão, a densidade de colmos pode inviabilizar o crescimento de espécies arbóreas comerciais, o que torna o mapeamento dessas "florestas não manejadas" uma prioridade para o ordenamento territorial (CARVALHO, 2024).
 
@@ -83,8 +95,8 @@ O mapeamento das florestas de bambu no Acre utiliza ferramentas avançadas de se
 
 Pesquisas realizadas no âmbito dos programas de pós-graduação da UFAC testaram diversos algoritmos de classificação supervisionada em cenas de satélite. Os melhores resultados de acurácia global foram obtidos pelo método de Mapeamento pelo Ângulo Espectral (SAM), alcançando 95% de precisão (OLIVEIRA, 2024). Outros métodos, como a Máxima Verossimilhança (MAXVER) e a Distância Mínima (MINDIS), também apresentaram resultados robustos, com acurácias em torno de 91% e 90%, respectivamente (PEREIRA, 2024).
 
-* **MINDIS**: Apresentou equivalência na classificação de vegetação e hidrografia, capturando cerca de 12,26% da classe de bambu em áreas específicas (PEREIRA, 2024).  
-* **MAXVER**: Mostrou-se superior na classificação de florestas densas (92%), mas ligeiramente menos sensível às manchas de bambu puro em comparação ao MINDIS em certas condições espectrais (PEREIRA, 2024).
+* <img src="assets/icons/human_04_black.svg" width="18px"> **MINDIS**: Apresentou equivalência na classificação de vegetação e hidrografia, capturando cerca de 12,26% da classe de bambu em áreas específicas (PEREIRA, 2024).  
+* <img src="assets/icons/human_12_black.svg" width="18px"> **MAXVER**: Mostrou-se superior na classificação de florestas densas (92%), mas ligeiramente menos sensível às manchas de bambu puro em comparação ao MINDIS em certas condições espectrais (PEREIRA, 2024).
 
 ### **Georreferenciamento e Zoneamento Ecológico-Econômico (ZEE)**
 
@@ -205,4 +217,12 @@ O estado do Acre encontra-se em uma posição privilegiada para liderar a bioeco
 [image6]: <data:image/png;base64,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>
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

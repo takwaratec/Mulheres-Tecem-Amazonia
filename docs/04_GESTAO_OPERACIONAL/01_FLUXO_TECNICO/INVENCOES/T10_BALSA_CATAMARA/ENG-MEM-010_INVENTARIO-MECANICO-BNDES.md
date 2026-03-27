@@ -3,12 +3,24 @@ projeto: Mulheres Que Tecem a Floresta
 instituicao: Consórcio Consórcio UnB/UFRR/UFAC
 tipo: Memorando Técnico (Inventário Industrial)
 referencia: ENG-MEM-010-2026
-status: CONSOLIDADO (SGMAS-Ready)
+status: CONSOLIDADO (-Ready)
 author:
 - affiliation: Universidade de Brasília / Núcleo Institucional
   name: Institucional, Fabio Resck
   orcid: 0000-0001-8815-3885
 ---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"A força do lugar é a força do mundo."<br>— Milton Santos</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: ENG-MEM-010_INVENTARIO-MECANICO-BNDES.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
 
 # Memorando Técnico ENG-MEM-010: Inventário Mecânico e BoM de Bio-Soberania
 
@@ -34,30 +46,30 @@ Este documento consolida as especificações técnicas e o Bill of Materials (Bo
 
 A operação deste inventário é regida pelos protocolos de eficiência e soberania detalhados nas seguintes Notas Técnicas:
 
-- **ENG-NT-001**: Estratégia de Manejo e Logística de Biorrefinaria.
-- **ENG-NT-002**: Estudo Comparativo de Eficiência (T02 vs. Sistemas Industriais).
-- **ENG-NT-T02-01**: Mini-Reator de Captura de Pirolenhoso.
-- **ENG-NT-T03-01**: Cronobiologia da Cura e Estabilização.
-- **ENG-NT-T06-01**: Variante de Gabarito em Madeira.
-- **ENG-NT-T08-01**: Variante de Tamboreador IFB (Mídia Aquecida).
-- **ENG-MEM-011**: Estratégia de Bio-Abrasivos (Castanha-do-Brasil).
+- <img src="assets/icons/human_11_black.svg" width="18px"> **ENG-NT-001**: Estratégia de Manejo e Logística de Biorrefinaria.
+- <img src="assets/icons/human_12_black.svg" width="18px"> **ENG-NT-002**: Estudo Comparativo de Eficiência (T02 vs. Sistemas Industriais).
+- <img src="assets/icons/human_07_black.svg" width="18px"> **ENG-NT-T02-01**: Mini-Reator de Captura de Pirolenhoso.
+- <img src="assets/icons/human_13_black.svg" width="18px"> **ENG-NT-T03-01**: Cronobiologia da Cura e Estabilização.
+- <img src="assets/icons/human_10_black.svg" width="18px"> **ENG-NT-T06-01**: Variante de Gabarito em Madeira.
+- <img src="assets/icons/human_17_black.svg" width="18px"> **ENG-NT-T08-01**: Variante de Tamboreador IFB (Mídia Aquecida).
+- <img src="assets/icons/human_03_black.svg" width="18px"> **ENG-MEM-011**: Estratégia de Bio-Abrasivos (Castanha-do-Brasil).
 
 ## 3. Tecnologias de Aproveitamento (N1/N0 - Escala Artesanal)
 
 > [!TIP]
 > Versões destinadas exclusivamente ao tratamento de bambu bruto, utilizando materiais de aproveitamento/reciclagem para redução de CAPEX em comunidades isoladas.
 
-- **Reator Artesanal (T02-A)**: Construção em tambores de 200L reciclados para produção de extrato pirolenhoso local.
-- **Tamboreador Artesanal (T08-A)**: **Substituição de Sílica por Casca de Castanha moída (ENG-MEM-011)**.
-- **Câmaras de Vapor (N0)**: Tanques reaproveitados para imunização hidrotérmica.
+- <img src="assets/icons/human_19_black.svg" width="18px"> **Reator Artesanal (T02-A)**: Construção em tambores de 200L reciclados para produção de extrato pirolenhoso local.
+- <img src="assets/icons/human_20_black.svg" width="18px"> **Tamboreador Artesanal (T08-A)**: **Substituição de Sílica por Casca de Castanha moída (ENG-MEM-011)**.
+- <img src="assets/icons/human_02_black.svg" width="18px"> **Câmaras de Vapor (N0)**: Tanques reaproveitados para imunização hidrotérmica.
 
 ## 3. Infraestrutura: Canteiro-Escola (Rio Branco-AC)
 
 O espaço físico do N2 Hub opera como unidade de Biofabricação e Ensino (Capacitação de Mulheres), contemplando **alojamento e instalações completas para recepção de até 20 pessoas simultaneamente**.
 
-- **Módulo Industrial / Galpão**: Estrutura adaptada (alvenaria proibida) via galpão tradicional ou aproveitamento de estrutura prévia - R$ 350.000,00
-- **Instalações Industriais**: Piso de alta resistência, Elétrica Solar e Hidráulica - R$ 250.000,00
-- **Total Infraestrutura**: **R$ 600.000,00**
+- <img src="assets/icons/human_09_black.svg" width="18px"> **Módulo Industrial / Galpão**: Estrutura adaptada (alvenaria proibida) via galpão tradicional ou aproveitamento de estrutura prévia - <img src="assets/icons/human_09_black.svg" width="18px"> R$ 350.000,00
+- <img src="assets/icons/human_05_black.svg" width="18px"> **Instalações Industriais**: Piso de alta resistência, Elétrica Solar e Hidráulica - <img src="assets/icons/human_05_black.svg" width="18px"> R$ 250.000,00
+- <img src="assets/icons/human_14_black.svg" width="18px"> **Total Infraestrutura**: **R$ 600.000,00**
 
 > [!TIP]
 > O CAPEX investido em infraestrutura possibilita a geração de lucro operacional para o Canteiro-Escola através da prestação de serviços e capacitações.
@@ -75,7 +87,12 @@ O espaço físico do N2 Hub opera como unidade de Biofabricação e Ensino (Capa
 > O saldo de R$ 7,21M do orçamento do Componente 2 é destinado a P&D (Bolsas), O&M, Logística e Insumos por 24 meses. Inclui a **Logística Volante de Montagem** (Kits Airless T10) para atendimento em canteiro.
 
 ---
-**竹 Institucional — Bio-Soberania e Tecnologia Social para a Amazônia**
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

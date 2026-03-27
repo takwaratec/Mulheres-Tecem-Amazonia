@@ -9,9 +9,19 @@ author:
 date: '2026-03-24'
 ---
 
-# **Dossiê Técnico-Científico: Sonia Marise Salles Carvalho – Inovação Social, Bioeconomia e Redes de Emancipação na Amazônia e no Cerrado**
-![Status: Ready](https://img.shields.io/badge/Status-Ready-brightgreen)
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
+<p align="right"><i>"A crise da educação no Brasil não é uma crise; é um projeto."<br>— Darcy Ribeiro</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: Sonia Marise.md
+*   **Status**: Status Consolidado
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
+# **Dossiê Técnico-Científico: Sonia Marise Salles Carvalho – Inovação Social, Bioeconomia e Redes de Emancipação na Amazônia e no Cerrado**
 A análise da trajetória e da produção intelectual de Sonia Marise Salles Carvalho revela uma atuação estratégica na intersecção entre a sociologia aplicada, a gestão da inovação tecnológica e o desenvolvimento de tecnologias sociais voltadas para populações vulnerabilizadas. Doutora em Sociologia pela Universidade de Brasília (UnB) e mestre pela Universidade Federal do Rio Grande do Norte (UFRN), Carvalho consolidou sua carreira como uma ponte entre o rigor acadêmico e a aplicabilidade prática no ecossistema de inovação brasileiro.1 Originalmente vinculada à Universidade Federal do Amazonas (UFAM), sua cessão à UnB permitiu a liderança de iniciativas fundamentais no Centro de Apoio ao Desenvolvimento Tecnológico (CDT), onde coordena a Incubadora de Tecnologia Social e a Escola de Empreendedorismo.1
 
 O trabalho de Carvalho é intrinsecamente ligado ao Mestrado Profissional em Propriedade Intelectual e Transferência de Tecnologia para a Inovação (PROFNIT), onde atua como ponto focal na UnB, orientando pesquisas que buscam alinhar o marco legal da inovação com as necessidades de desenvolvimento regional e social.1 Sua produção reflete uma preocupação constante com a ética na pesquisa e a função social da ciência, articulando conceitos de economia solidária, negócios de impacto e bioeconomia como vetores de transformação para mulheres e populações indígenas.1
@@ -102,10 +112,10 @@ Uma contribuição técnica significativa de Sonia Marise Salles Carvalho é o d
 
 No campo da gestão estratégica, Carvalho utiliza a ferramenta "FIVE-V" para o reposicionamento de modelos de negócio em diversas instituições. Exemplos de aplicação incluem:
 
-* **SENAI-DF:** Reposicionamento estratégico do modelo de negócio.6  
-* **SEBRAE Nacional:** Inovação na distribuição de processos de contratação na assessoria jurídica.6  
-* **Cooperativas de Catadores:** Conexões entre a ferramenta FIVE-V e a teoria da hierarquia das necessidades para melhorar a gestão e a dignidade do trabalho.6  
-* **Startups:** Desenvolvimento de competências empreendedoras e inovação de modelos de negócio, como no caso da Brasil Startups.6
+* <img src="assets/icons/human_14_black.svg" width="18px"> **SENAI-DF:** <img src="assets/icons/human_14_black.svg" width="18px"> Reposicionamento estratégico do modelo de negócio.6  
+* <img src="assets/icons/human_16_black.svg" width="18px"> **SEBRAE Nacional:** <img src="assets/icons/human_16_black.svg" width="18px"> Inovação na distribuição de processos de contratação na assessoria jurídica.6  
+* <img src="assets/icons/human_12_black.svg" width="18px"> **Cooperativas de Catadores:** <img src="assets/icons/human_12_black.svg" width="18px"> Conexões entre a ferramenta FIVE-V e a teoria da hierarquia das necessidades para melhorar a gestão e a dignidade do trabalho.6  
+* <img src="assets/icons/human_18_black.svg" width="18px"> **Startups:** <img src="assets/icons/human_18_black.svg" width="18px"> Desenvolvimento de competências empreendedoras e inovação de modelos de negócio, como no caso da Brasil Startups.6
 
 Essa versatilidade metodológica permite que a pesquisadora transite entre a alta tecnologia da defesa nacional e a tecnologia social das cooperativas de base, sempre focando na eficiência e no impacto real das soluções propostas.
 
@@ -175,4 +185,12 @@ As evidências coletadas demonstram que o alinhamento entre a UnB, o PROFNIT e a
 25. acessado em dezembro 31, 1969, [https://concertacaoamazonia.com.br/?jet\_download=802e82db0026541eebcd7cba0ece5a932e251dbe](https://concertacaoamazonia.com.br/?jet_download=802e82db0026541eebcd7cba0ece5a932e251dbe)
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

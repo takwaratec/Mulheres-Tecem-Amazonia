@@ -1,14 +1,26 @@
+---
+**TAREFA 2: Definição de Categoria/Subcategoria**
+
+**Saneamento_Ecológico/Turismo_Sustentável**
+---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"O Brasil é uma invenção de si mesmo."<br>— João Ubaldo Ribeiro</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: WTF_RAW_00000125-Saneamento_Ecológico_e_Turismo_Brasileiro.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 **TAREFA 1: Avaliação de Relevância**
 
 O arquivo `WTF_RAW_00000125-Saneamento_Ecológico_e_Turismo_Brasileiro.txt` é altamente relevante para o Projeto Mulheres Que Tecem a Floresta. Ele apresenta uma análise técnica e contextualizada sobre a infraestrutura de saneamento ecológico em face do crescimento do turismo no Brasil, com foco em áreas de conservação e comunidades locais. O conteúdo é científico, embasado em dados e relatórios, e aborda temas cruciais para a sustentabilidade e saúde pública. Portanto, **NÃO DESCARTAR**.
 
----
 
-**TAREFA 2: Definição de Categoria/Subcategoria**
-
-**Saneamento_Ecológico/Turismo_Sustentável**
-
----
 
 **TAREFA 3: Geração de Markdown (.md)**
 
@@ -83,7 +95,18 @@ A contaminação por esquistos... (O texto é cortado aqui, indicando que é um 
 
 ## Referências
 
-*   **Nota:** As referências completas no formato ABNT com DOI-sync não foram fornecidas no texto original RAW. As citações numéricas presentes no texto são: 1, 3, 4, 5, 6, 8, 11, 12, 13, 14, 15, 18, 19, 20. Para um documento completo, seria necessário consultar as fontes originais destas citações.
+* <img src="assets/icons/human_04_black.svg" width="18px">   **Nota:** <img src="assets/icons/human_04_black.svg" width="18px"> As referências completas no formato ABNT com DOI-sync não foram fornecidas no texto original RAW. As citações numéricas presentes no texto são: 1, 3, 4, 5, 6, 8, 11, 12, 13, 14, 15, 18, 19, 20. Para um documento completo, seria necessário consultar as fontes originais destas citações.
 
 #CATEGORIA: Saneamento_Ecológico/Turismo_Sustentável
 ```
+
+---
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

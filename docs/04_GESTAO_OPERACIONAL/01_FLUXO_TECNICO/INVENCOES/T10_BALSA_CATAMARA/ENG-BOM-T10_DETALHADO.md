@@ -11,6 +11,18 @@ author:
 date: '2026-03-19'
 ---
 
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"As invenções são o resultado de um trabalho teimoso."<br>— Santos Dumont</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: ENG-BOM-T10_DETALHADO.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 # BoM Prospectivo: Balsa "Biofábrica Flutuante" T10
 
 Este documento detalha o Bill of Materials (BoM) prospectivo para a construção e equipagem da Balsa Catamarã T10, com foco em materiais locais, eficiência térmica e conservação da sociobiodiversidade.
@@ -52,17 +64,20 @@ Este documento detalha o Bill of Materials (BoM) prospectivo para a construção
 | Cód | Item | Descrição Técnica | Qtd | Unid | Custo Est. (R$) | Valuation (1.4x) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 4.1 | Kit NR-13 | Válvulas alívio, Manômetros, Nível| 1 | Kit | 4.800 | 6.720 |
-| 4.2 | Automação/IOT | Sensores Temp/Pressão (SGMAS) | 1 | Kit | 3.500 | 4.900 |
+| 4.2 | Automação/IOT | Sensores Temp/Pressão () | 1 | Kit | 3.500 | 4.900 |
 | **Subtotal Est.** | | | | | **8.300** | **11.620** |
 
----
-
 ## Resumo Financeiro Prospectivo T10
-- **Total CAPEX Fábrica (Estimado):** R$ 149.510,00
-- **Total Valuation Contrapartida (1.4x):** **R$ 209.314,00**
+- <img src="assets/icons/human_03_black.svg" width="18px"> **Total CAPEX Fábrica (Estimado):** <img src="assets/icons/human_03_black.svg" width="18px"> R$ 149.510,00
+- <img src="assets/icons/human_20_black.svg" width="18px"> **Total Valuation Contrapartida (1.4x):** <img src="assets/icons/human_20_black.svg" width="18px"> **R$ 209.314,00**
 
 ---
-**🎋 Institucional — Prospecto de Ativos de Soberania (v1.0)**
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

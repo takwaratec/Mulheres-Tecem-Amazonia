@@ -1,3 +1,25 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFRR/UFAC
+tipo: Documento de Acervo
+referencia: FICHA_WTF_RAW_2022_-_conexoes_protendido_UFMG.md
+status: Em Revisão
+author:
+- name: Consórcio UnB/UFRR/UFAC
+---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"A ciência não é apenas um corpo de conhecimento, é um modo de pensar."<br>— Marcelo Gleiser</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: FICHA_WTF_RAW_2022_-_conexoes_protendido_UFMG.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 SIM
 
 ### 1. METADADOS E CABEÇALHO
@@ -11,13 +33,13 @@ REFERÊNCIA BIBLIOGRÁFICA (ABNT):
 MOREIRA, L. E.; SILVA, F. J. da. **Dispositivo de bambu protendido.** Patente BR PI 1106035-2 B1. Instituto Nacional da Propriedade Industrial (INPI), 3 maio 2022.
 
 ### 2. TRADUÇÃO E SÍNTESE TÉCNICA
-- O resumo está em português e descreve um dispositivo de bambu protendido para uso estrutural.
-- **Síntese Técnica:** O documento refere-se a uma patente para um dispositivo estrutural inovador, composto por um tubo central de bambu e cabos externos pré-tensionados. Desenvolvido como alternativa leve e de baixo custo ao aço e concreto na construção (colunas, vigas, lastros), o dispositivo explora as propriedades mecânicas do bambu. Destaca-se pela alta resistência à compressão, durabilidade contra intempéries e forças gravitacionais, e por promover o uso racional de recursos naturais, sustentabilidade e a redução de impactos ambientais, utilizando um recurso renovável.
+- <img src="assets/icons/human_08_black.svg" width="18px"> O resumo está em português e descreve um dispositivo de bambu protendido para uso estrutural.
+- <img src="assets/icons/human_19_black.svg" width="18px"> **Síntese Técnica:** <img src="assets/icons/human_19_black.svg" width="18px"> O documento refere-se a uma patente para um dispositivo estrutural inovador, composto por um tubo central de bambu e cabos externos pré-tensionados. Desenvolvido como alternativa leve e de baixo custo ao aço e concreto na construção (colunas, vigas, lastros), o dispositivo explora as propriedades mecânicas do bambu. Destaca-se pela alta resistência à compressão, durabilidade contra intempéries e forças gravitacionais, e por promover o uso racional de recursos naturais, sustentabilidade e a redução de impactos ambientais, utilizando um recurso renovável.
 
-- **3 palavras-chave em português:**
-    - Bambu estrutural
-    - Protensão
-    - Material renovável
+- <img src="assets/icons/human_11_black.svg" width="18px"> **3 palavras-chave em português:**
+    - <img src="assets/icons/human_01_black.svg" width="18px"> Bambu estrutural
+    - <img src="assets/icons/human_02_black.svg" width="18px"> Protensão
+    - <img src="assets/icons/human_03_black.svg" width="18px"> Material renovável
 
 ### 3. EXTRAÇÃO DE DADOS (TABELA)
 
@@ -44,3 +66,14 @@ MOREIRA, L. E.; SILVA, F. J. da. **Dispositivo de bambu protendido.** Patente BR
 2.  LIMA JR., H. C.; DIAS, A. A. Vigas mistas de madeira de reflorestamento e bambu laminado colado: análise teórica e experimental. **Revista Brasileira de Engenharia Agrícola e Ambiental**, v. 5, n. 3, p. 1807-1929, 2001.
 3.  FREIRE, W. J.; BERALDO, A. L. **Tecnologias e materiais alternativos de construção.** Campinas: Ed. da UNICAMP, 2003. p. 319.
 4.  PAES, J. B. et al. Caracterização físico-mecânica do laminado colado de bambu (Dendrocalamus giganteus). **Ciência Florestal**, v. 19, n. 1, p. 41-51, 2009.
+
+---
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

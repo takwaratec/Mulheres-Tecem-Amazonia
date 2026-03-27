@@ -30,6 +30,9 @@ Este Regimento consolida as normas supremas para a criação, curadoria e difus�
 3. **Protagonismo Amazônico**: Representação fiel dos povos e jovens do Acre/Rio Branco.
 
 ### 1.1. Fundamentação Científica e Projetual
+> [!IMPORTANT]
+> **EM REVISÃO**: Conteúdo sob auditoria técnica. Comentar e gerar alerta de pendência em `.agents/awake/PENDENCIES.md`.
+
 As imagens geradas pela IA devem ser reflexos exatos da evidência científica acumulada no Projeto Mulheres Que Tecem a Floresta:
 - **Estudo PIBIT (CEUB 2021 - Barreira Acústica)**: Base para a representação dos **Painéis Sanduíche**. A estética deve ser de material compósito robusto (Bambu/PU/Papelão), com acabamento artesanal de alta resistência.
 - **Relatório PRO GRUPOS**: Base para a **Montagem Social**. A dinâmica visual deve priorizar o esforço coletivo humano, andaimes de bambu e ausência de guindastes, validando a "Tecnologia Social".
@@ -99,7 +102,22 @@ Toda peça destinada a instrução técnica ou difusão institucional deve passa
 - **Saneamento Seco**: Gestão via bombonas de **200L** sob a unidade.
 - **Hidratação**: Reservatório acoplado no teto com formato orgânico e telha solar integrada.
 
-## 5. Aplicação e Difusão
+## 5. Soberania Estética Digital (Assets & Grafismos)
+
+Toda documentação do Acervo WTF deve utilizar a galeria de assets originários para garantir a "ornamentação visual identitária".
+
+### 5.1. Taxonomia de Grafismos (docs/assets/patterns/)
+O uso dos padrões geométricos (`square_XX.svg`) deve seguir a lógica de **Eco-Sinalização**:
+- **Pilar Bioeconomia (Verde)**: Utilizar padrões `_green.svg` em documentos de Diagnóstico, Pesquisa e Meio Ambiente.
+- **Pilar Engenharia (Vermelho)**: Utilizar padrões `_red.svg` em Memoriais Descritivos, Estudos Técnicos e Invenções (T01-T12).
+- **Pilar Governança (Preto)**: Utilizar padrões `_black.svg` em Regimentos, Contratos e Relatórios Institucionais.
+
+### 5.2. Hierarquia de Ornamentação (Interface e Documental)
+- **H1 (Ícones Humanos - Direita)**: Símbolo de protagonismo e soberania social. Deve ecoar na sidebar direita em 100% preto.
+- **H2 (Padrões Geométricos - Esquerda)**: Símbolo de técnica e precisão ancestral. Deve ecoar na sidebar esquerda em 100% preto.
+- **Bullets e Listas (Corpo do Texto)**: Utilizar ícones de `docs/assets/icons` em cores alternadas para destacar itens de listas técnicas, garantindo dinamismo visual sem poluir o cabeçalho.
+
+## 6. Aplicação e Difusão
 - Toda peça destinada a instrução técnica ou difusão institucional deve passar pelo checklist de conformidade PVIT.
 - Assinatura obrigatória: **Projeto WTF 2026** com pass-partout branco.
 

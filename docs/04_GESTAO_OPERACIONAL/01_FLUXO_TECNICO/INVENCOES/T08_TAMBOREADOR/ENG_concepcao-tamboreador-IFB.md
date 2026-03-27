@@ -19,24 +19,32 @@ type: Nota Técnica
 version: '5.1'
 ---
 
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"Viver é muito perigoso."<br>— Guimarães Rosa</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: ENG_concepcao-tamboreador-IFB.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 # Conceituação Técnica: Protótipo Tamboreador IFB/UnB (Areia Quente)
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ![Status](https://img.shields.io/badge/status-V5.1%20(Advocacy)-blue)
 
----
-
 ## 1. Origem e Legado (LaPeCFaZ)
 Este documento resgata o design do **protótipo original** desenvolvido no Laboratório de Pesquisas em Construções e Fazeres Sustentáveis (LaPeCFaZ) do IFB-Planaltina em parceria com a UnB. Validado em 2019, este modelo fundamenta a "Abrasão Térmica" através de uma solução de baixo custo e alta eficiência para contextos comunitários.
 
 ## 2. O Diferencial Técnico: Abrasão por Areia Quente
 Diferente dos modelos puramente mecânicos, o protótipo IFB utiliza a **mídia granular (areia) como vetor térmico**:
-*   **Aquecimento:** Uma fornalha tipo Rocket Stove aquece o cilindro metálico por baixo.
-*   **Ação Química/Física:** O calor da areia (aprox. 80°C - 100°C) amolece a cerosidade superficial do bambu enquanto a fricção mecânica remove a sílica.
-*   **Reuso:** Utilização de tambores de ferro de 200L como câmara de processamento.
-
----
+* <img src="assets/icons/human_06_black.svg" width="18px">   **Aquecimento:** <img src="assets/icons/human_06_black.svg" width="18px"> Uma fornalha tipo Rocket Stove aquece o cilindro metálico por baixo.
+* <img src="assets/icons/human_10_black.svg" width="18px">   **Ação Química/Física:** <img src="assets/icons/human_10_black.svg" width="18px"> O calor da areia (aprox. 80°C - <img src="assets/icons/human_10_black.svg" width="18px"> 100°C) amolece a cerosidade superficial do bambu enquanto a fricção mecânica remove a sílica.
+* <img src="assets/icons/human_14_black.svg" width="18px">   **Reuso:** <img src="assets/icons/human_14_black.svg" width="18px"> Utilização de tambores de ferro de 200L como câmara de processamento.
 
 ## 3. Memorial Visual de Alta Fidelidade (Concepção Imagética)
 
@@ -52,8 +60,6 @@ Sob o tambor, uma chama viva de Rocket Stove aquece o metal. Ao girar, ouve-se o
 
 > **Prompt 2 (Exploding View/Infográfico):** 3D technical exploded view of the "IFB/UnB Hot Sand Tumbler". Showing the interior layers: 1. Steel Drum shell, 2. Internal sand media, 3. Bamboo culms, 4. Rocket Stove base. Heat flow arrows in red indicating thermal abrasion. Sustainable DIY engineering style, parchment-like blueprint aesthetic.
 
----
-
 ## 4. Parâmetros de Redação Jurídica (Draft)
 Este modelo deve ser protegido como **Modelo de Utilidade (MU)**, focando no arranjo construtivo que permite o aquecimento simultâneo à rotação, otimizando o lixamento de materiais lignocelulósicos cilíndricos.
 
@@ -63,4 +69,12 @@ Este modelo deve ser protegido como **Modelo de Utilidade (MU)**, focando no arr
 Takwara, F. R. (2026). *Conceituação Técnica: Protótipo Tamboreador IFB/UnB (Areia Quente)* (Versão 5.1). Nota Técnica — Núcleo Institucional / Universidade de Brasília / IFB. https://doi.org/10.5281/zenodo.18827106
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

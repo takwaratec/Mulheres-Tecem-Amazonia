@@ -9,16 +9,24 @@ author:
 date: '2026-03-24'
 ---
 
-# ANEXO I: Planilha Orçamentária Detalhada
-![Status: Ready](https://img.shields.io/badge/Status-Ready-brightgreen)
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
+<p align="right"><i>"O povo é o único soberano."<br>— João Ubaldo Ribeiro</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: ANEXO_I_PLANILHA_ORCAMENTARIA.md
+*   **Status**: Status Consolidado
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
+# ANEXO I: Planilha Orçamentária Detalhada
 **Projeto:** Mulheres Que Tecem a Floresta
 **Período:** 48 meses
 **Status:** Status Ready
 
----
-
-## 💰 Resumo Financeiro Consolidado
+## <img src="assets/icons/human_01_red.svg" width="18px"> Resumo Financeiro Consolidado
 
 | Categoria | Valor Bruto Solicitado (R$) | Valor Líquido Aplicado (R$) | % da Verba Líquida |
 | :--- | :--- | :--- | :--- |
@@ -27,9 +35,7 @@ date: '2026-03-24'
 | **Contingência** | R$ 1.000.000 | **R$ 1.000.000** | 4,0% |
 | **TOTAL** | **R$ 30.000.000** | **R$ 25.000.000** | **100,0%** |
 
----
-
-## 🏗️ detalhamento CAPEX (Investimento em Ativos)
+## <img src="assets/icons/human_01_red.svg" width="18px">️ detalhamento CAPEX (Investimento em Ativos)
 
 | Rubrica | Descrição | Valor Líquido (R$) |
 | :--- | :--- | :--- |
@@ -38,7 +44,7 @@ date: '2026-03-24'
 | **1.3. Logística** | Veículos 4x4, Caminhão e Balsa Catamarã (T10) | R$ 1.400.000 |
 | **1.4. Infra MRV** | Estação SMGA e Saneamento Soberano (T12 BSM/BER) | R$ 800.000 |
 
-## 🎓 Detalhamento OPEX (Custeio e Formação)
+## <img src="assets/icons/human_01_red.svg" width="18px"> Detalhamento OPEX (Custeio e Formação)
 
 | Rubrica | Detalhamento | Valor Líquido (R$) |
 | :--- | :--- | :--- |
@@ -47,15 +53,18 @@ date: '2026-03-24'
 | **2.3. ATER/Design** | Extensão rural e design de produtos | R$ 1.000.000 |
 | **2.4. Operação** | Manutenção, energia e logística de insumos | R$ 600.000 |
 
----
-
-## 🏛️ Contrapartida (R$ 4.000.000)
-- **Intelecto e Patente Social:** Projetos T01-T12 de domínio público.
-- **P&D Acumulado:** Pesquisas prévias Consórcio UnB/UFRR/UFAC.
-- **Infraestrutura:** Uso de laboratórios universitários.
+## <img src="assets/icons/human_01_red.svg" width="18px">️ Contrapartida (R$ 4.000.000)
+- <img src="assets/icons/human_18_black.svg" width="18px"> **Intelecto e Patente Social:** <img src="assets/icons/human_18_black.svg" width="18px"> Projetos T01-T12 de domínio público.
+- <img src="assets/icons/human_06_black.svg" width="18px"> **P&D Acumulado:** <img src="assets/icons/human_06_black.svg" width="18px"> Pesquisas prévias Consórcio UnB/UFRR/UFAC.
+- <img src="assets/icons/human_01_black.svg" width="18px"> **Infraestrutura:** <img src="assets/icons/human_01_black.svg" width="18px"> Uso de laboratórios universitários.
 
 ---
-**Nota Técnica:** O montante de R$ 30M solicitado prevê a retenção tributária e taxas administrativas, garantindo a aplicação real de R$ 25M no território conforme a estratégia "Zero Subtração".
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

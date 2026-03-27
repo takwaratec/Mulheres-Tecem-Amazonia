@@ -1,7 +1,4 @@
-Como Bibliotecário Científico do Projeto Mulheres Que Tecem a Floresta, realizei a análise do arquivo `WTF_RAW_READABLE_Pesquisa_Imperveg.txt`.
-
 ---
-
 ### TAREFA 1: Avaliação de Relevância
 
 O arquivo `WTF_RAW_READABLE_Pesquisa_Imperveg.txt` consiste em uma extensa lista de URLs. Após a análise detalhada dos links, verificou-se que a maioria deles direciona para:
@@ -16,16 +13,29 @@ O arquivo `WTF_RAW_READABLE_Pesquisa_Imperveg.txt` consiste em uma extensa lista
 A natureza dos links é predominantemente técnica, comercial e acadêmica, todos girando em torno de materiais sustentáveis, bioeconomia e empresas inovadoras no setor. Não há conteúdo pessoal, vazio ou não-científico que justifique o descarte. A compilação é altamente relevante para um projeto com foco em bioeconomia e produtos da floresta, como o "Mulheres Que Tecem a Floresta".
 
 **Conclusão da Relevância: MANTER**
-
 ---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"O real não está na saída nem na chegada: ele se dispõe para a gente é no meio da travessia."<br>— Guimarães Rosa</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: WTF_RAW_READABLE_Pesquisa_Imperveg.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
+Como Bibliotecário Científico do Projeto Mulheres Que Tecem a Floresta, realizei a análise do arquivo `WTF_RAW_READABLE_Pesquisa_Imperveg.txt`.
+
+
 
 ### TAREFA 2: Definição de Categoria/Subcategoria
 
 Com base no conteúdo predominante dos links, que abrange empresas, produtos e pesquisas sobre poliuretanos de base vegetal, bioplásticos e o contexto mais amplo da bioeconomia e sustentabilidade, a categoria e subcategoria mais adequadas são:
 
 **Categoria/Subcategoria:** `Bioeconomia/Poliuretanos_e_Bioplasticos_Vegetais`
-
----
 
 ### TAREFA 3: Geração de Markdown (.md)
 
@@ -135,6 +145,16 @@ As referências a seguir foram extraídas do texto bruto. Foram removidas duplic
 79. YOUTUBE. **Vídeo MOsEcZfuhP0**. Disponível em: <https://www.youtube.com/watch?v=MOsEcZfuhP0>. Acesso em: 10 mai. 2024.
 80. YOUTUBE. **Vídeo 8xAFbXVqjGo**. Disponível em: <https://www.youtube.com/watch?v=8xAFbXVqjGo>. Acesso em: 10 mai. 2024.
 
----
 #CATEGORIA: Bioeconomia/Poliuretanos_e_Bioplasticos_Vegetais
 ```
+
+---
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

@@ -20,6 +20,18 @@ type: Memorial de Patente
 version: '2.2.2'
 ---
 
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"O povo é o único soberano."<br>— João Ubaldo Ribeiro</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: RES_memorial-juridico-patente.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 # Memorial Jurídico: Sistema de Moldagem Técnica e Compósitos Vegetais
 
 ## 1. Campo da Invenção
@@ -40,7 +52,12 @@ Atualmente, a construção civil utiliza painéis de poliuretano derivados de pe
 5.  **Processo de Produção Amazônico**: Caracterizado pelo rigoroso controle de ponto de orvalho (UR < 90%) e cura pós-desmolde de 24 horas em ambiente ventilado, específico para a polimerização de ricinoleatos em climas tropicais úmidos.
 
 ---
-**🎋 Institucional — Engenharia de Soberania e Bioeconomia Regenerativa**
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

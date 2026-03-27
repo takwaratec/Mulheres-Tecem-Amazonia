@@ -9,12 +9,24 @@ author:
 date: '2026-03-26'
 ---
 
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"O povo é o único soberano."<br>— João Ubaldo Ribeiro</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: RESUMO_ORCAMENTO_COMPONENTE_MARÇO2026.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 # Resumo Orçamentário: Componente Bioeconomia (WFT-ORC-001)
 
 **Referência**: FORMULARIO ORCAMENTO _ COMPONENTE.docx
 **Área**: Gestão Operacional / CAPEX-OPEX
 
-## 💰 Detalhamento de Custos (WFT)
+## <img src="assets/icons/human_01_red.svg" width="18px"> Detalhamento de Custos (WFT)
 
 | Categoria | Descrição | Valor Estimado (Total) |
 | :--- | :--- | :--- |
@@ -26,12 +38,19 @@ date: '2026-03-26'
 **TOTAL ESTIMADO DO COMPONENTE**: **R$ 1.449.500,00**
 
 ## ⚠️ Observações de Auditoria
-- Proibição de aquisição de cimento ou químicos tóxicos para construção.
-- Priorizar fornecedores locais para logística e insumos.
-- Licenças de software devem ser para fins de R&D de bioinsumos e design territorial.
+- <img src="assets/icons/human_13_black.svg" width="18px"> Proibição de aquisição de cimento ou químicos tóxicos para construção.
+- <img src="assets/icons/human_20_black.svg" width="18px"> Priorizar fornecedores locais para logística e insumos.
+- <img src="assets/icons/human_01_black.svg" width="18px"> Licenças de software devem ser para fins de R&D de bioinsumos e design territorial.
 
----
 *Relatório de Triagem /awake.*
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

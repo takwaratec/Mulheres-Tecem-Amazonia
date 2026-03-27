@@ -9,7 +9,19 @@ author:
 date: '2026-03-26'
 ---
 
-# 🏗️ Componente 1: Cadeias de Valor (Açaí e Castanha)
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"O conhecimento é a nossa maior arma contra o atraso."<br>— Bertha Lutz</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: 01_CADEIAS_VALOR.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
+# <img src="assets/icons/human_01_red.svg" width="18px">️ Componente 1: Cadeias de Valor (Açaí e Castanha)
 **Responsável Técnica:** Profa. Dra. Sonia Marise  
 **Metodologia de Redação:** 4 Mãos (Coordenação Técnica Colegiada)
 
@@ -22,21 +34,19 @@ A transição do modelo de "venda de matéria-prima in natura" para a "oferta de
 ## 2. Especificações Técnicas e Diferenciais
 O componente opera através de agroindústrias compactas e modulares, projetadas para as condições da Amazônia Legal:
 
-- **Mecanização Adaptada**: Utilização de linhas de beneficiamento validadas (como as referenciadas pela UNNI Máquinas), com foco em despolpadoras, classificadoras e sistemas de embalagem a vácuo que garantem a segurança alimentar e o acesso a mercados diferenciados.
-- **Integração Termoenergética**: O processamento agroindustrial é alimentado pelo vapor e calor gerados pela biorrefinaria reaproveitando resíduos da própria produção (cascas e caroços), fechando o ciclo de economia circular.
+- <img src="assets/icons/human_11_black.svg" width="18px"> **Mecanização Adaptada**: Utilização de linhas de beneficiamento validadas (como as referenciadas pela UNNI Máquinas), com foco em despolpadoras, classificadoras e sistemas de embalagem a vácuo que garantem a segurança alimentar e o acesso a mercados diferenciados.
+- <img src="assets/icons/human_19_black.svg" width="18px"> **Integração Termoenergética**: O processamento agroindustrial é alimentado pelo vapor e calor gerados pela biorrefinaria reaproveitando resíduos da própria produção (cascas e caroços), fechando o ciclo de economia circular.
 
 ## 3. Impacto Social e Redes de Cooperação
 Sob a liderança da Profa. Sonia, o projeto atua na formação técnica de mulheres para a operação dessas agroindústrias. A capacitação em boas práticas de fabricação (BPF) e gestão cooperativa assegura que o protagonismo feminino se traduza em qualidade técnica e competitividade comercial, alinhando-se às metas de bioeconomia do BNDES.
 
 ---
-**Coordenação Geral de P&D**  
-*Consórcio Interinstitucional UnB / UFAC / UFRR — 2026*
-
-### 📚 Referências Estratégicas (P&D)
-Para o detalhamento técnico e científico dos conceitos apresentados neste componente, consulte os resumos estratégicos consolidados no acervo digital:
-
-- [**Resumo Estratégico: Bioeconomia no Amazonas (CTI/MCTI)**](../04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/01_CIENTIFICO/TECNOLOGIA/WTF_RES_00000041_nota_tecnica_001_bioeconomia_cti_bioeconomia_no_amazonaspdf.md): Fundamentação para a transição produtiva e industrialização de base florestal.
-- [**Resumo Estratégico: Linha de Beneficiamento UNNI Máquinas**](../04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/01_CIENTIFICO/BIOECONOMIA/WTF_RES_unni_maquinas___linha_completa_para_beneficiamento_de_castanha_do_brasil_castanha_do_parapdf.md): Especificações técnicas e benchmark de CAPEX para agroindústria de castanha.
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

@@ -9,6 +9,18 @@ author:
 date: '2026-03-26'
 ---
 
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"Não se morre enquanto houver quem nos lembre."<br>— Cora Coralina</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: BUDGET_bom-modular.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 # BoM Modular: Mulheres Que Tecem a Floresta
 
 > **Série:** Engenharia e Custos | **Status:** Redimensionado (v1.0)  
@@ -45,20 +57,28 @@ O polo central deixa de ser uma "Biorrefinaria" e passa a ser uma **Oficina de F
 ## 3. Gestão Sombra: Mentoria e Sucessão
 A Gestão Sombra foi redimensionada para focar em **suporte técnico-administrativo local**, abandonando os altos custos de CEOs/CFOs externos.
 
-- **Mentoria Territorial**: 4 Coordenadores de Campo (Suporte em gestão sombra).
-- **Capacitação Sucessiva**: Treinamento direto de lideranças de cooperativas em gestão de SPEs.
-- **Redução de Custo**: Foco em bolsas de extensão e consultoria técnica pontual do consórcio.
+- <img src="assets/icons/human_12_black.svg" width="18px"> **Mentoria Territorial**: 4 Coordenadores de Campo (Suporte em gestão sombra).
+- <img src="assets/icons/human_14_black.svg" width="18px"> **Capacitação Sucessiva**: Treinamento direto de lideranças de cooperativas em gestão de SPEs.
+- <img src="assets/icons/human_10_black.svg" width="18px"> **Redução de Custo**: Foco em bolsas de extensão e consultoria técnica pontual do consórcio.
 
 ---
 
 ## 4. Institucional no Consórcio
 A Institucional não é mais uma fornecedora externa, mas **parte integrante do projeto**:
-- **Aporte Tecnológico**: Patentes e desenhos técnicos do Sistema Institucional (T01-T07) são aportados como contrapartida técnica ao consórcio.
-- **Engenharia de Campo**: Atuação direta na montagem e manutenção dos hubs de engenharia e kits territoriais.
+- <img src="assets/icons/human_04_black.svg" width="18px"> **Aporte Tecnológico**: Patentes e desenhos técnicos do Sistema Institucional (T01-T07) são aportados como contrapartida técnica ao consórcio.
+- <img src="assets/icons/human_02_black.svg" width="18px"> **Engenharia de Campo**: Atuação direta na montagem e manutenção dos hubs de engenharia e kits territoriais.
 
 ---
 
 > **Nota sobre COP30:** Todas as referências à COP30 futura foram removidas. O projeto agora foca em resultados tangíveis pós-conferência e resiliência local.
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

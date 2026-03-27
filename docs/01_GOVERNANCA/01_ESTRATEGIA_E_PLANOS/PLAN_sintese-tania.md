@@ -9,13 +9,21 @@ author:
 date: '2026-03-24'
 ---
 
-# Síntese Executiva: Mulheres Que Tecem a Floresta
-![Status: Ready](https://img.shields.io/badge/Status-Ready-brightgreen)
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
+<p align="right"><i>"Não se faz ciência sem amor ao próximo."<br>— Oswaldo Cruz</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: PLAN_sintese-tania.md
+*   **Status**: Status Consolidado
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
+# Síntese Executiva: Mulheres Que Tecem a Floresta
 > **Para:** Prof. Dra. Tania Cristina Cruz (Coordenação UnB/CDT)  
 > **Assunto:** Refatoração Estratégica da Proposta (R$ 30M) — Modelo Modular
-
----
 
 ## 1. O Salto Quantitativo e Qualitativo
 A proposta evoluiu de uma planta industrial centralizada para um **Consórcio de Bioeconomia Modular** (UnB/UFRR/UFAC). O orçamento de **R$ 30.000.000,00** não é mais um risco concentrado, mas uma rede de resiliência territorial.
@@ -29,15 +37,20 @@ O recurso é aplicado em três alavancas de impacto simétricas:
 
 ## 3. Gatilhos de Investimento (Tranches)
 O desembolso é pautado por **Gatilhos de Maturidade (TRL)**:
--   **Tranche 1 (Start)**: Montagem do Hub de Engenharia e ativação da Fase 0 (Domo Voador).
--   **Tranche 2 (Escala)**: Entrega do 1º lote de Kits e validação sanitária dos modelos BSM.
--   **Tranche 3 (Soberania)**: Operação plena das SPEs Comunitárias e certificação de créditos de carbono.
+- <img src="assets/icons/human_19_black.svg" width="18px">   **Tranche 1 (Start)**: Montagem do Hub de Engenharia e ativação da Fase 0 (Domo Voador).
+- <img src="assets/icons/human_10_black.svg" width="18px">   **Tranche 2 (Escala)**: Entrega do 1º lote de Kits e validação sanitária dos modelos BSM.
+- <img src="assets/icons/human_14_black.svg" width="18px">   **Tranche 3 (Soberania)**: Operação plena das SPEs Comunitárias e certificação de créditos de carbono.
 
 ## 4. Conceito: Mulheres Que Tecem a Floresta
 Substituímos o foco em "Biorrefinaria" (termo técnico pesado) por "**Tecelagem da Floresta**" (termo político-pedagógico). O bambu Guadua é a fibra, e o saneamento/energia são os pontos que unem a rede.
 
 ---
-**笹 Sugestão de Landing Page**: Uma interface "Scrollytelling" de alto impacto, mostrando a jornada da biomassa até o produto social (Banheiro Seco / HIS / Bio-alimento).
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

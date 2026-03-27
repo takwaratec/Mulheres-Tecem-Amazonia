@@ -1,3 +1,25 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFRR/UFAC
+tipo: Documento de Acervo
+referencia: FICHA_WTF_RAW_UTF8_Conexao_UFMG.md
+status: Em Revisão
+author:
+- name: Consórcio UnB/UFRR/UFAC
+---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"A terra não é um negócio, a terra é a nossa mãe."<br>— Ailton Krenak</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: FICHA_WTF_RAW_UTF8_Conexao_UFMG.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 SIM
 
 ### 1. METADADOS E CABEÇALHO
@@ -11,9 +33,9 @@ REFERÊNCIA BIBLIOGRÁFICA (ABNT):
 MOREIRA, Luís Eustáquio. Conexão nervurada para tubos de bambu. Universidade Federal de Minas Gerais, PI 1002916-8 B1. Depósito: 25 ago. 2010. Concessão: 08 dez. 2020.
 
 ### 2. TRADUÇÃO E SÍNTESE TÉCNICA
--   **Síntese Técnica do Resumo:**
+- <img src="assets/icons/human_05_black.svg" width="18px">   **Síntese Técnica do Resumo:**
     A invenção descreve uma conexão nervurada para tubos, preferencialmente de bambu, projetada para aumentar a resistência a esforços mecânicos, evitar deslizamento e distribuir tensões de forma mais eficaz. Isso resulta em maior eficiência, segurança e um campo de aplicabilidade expandido para a conexão. Seus principais usos incluem estruturas reticuladas na Construção Civil (como coberturas treliçadas, pórticos e passarelas), bem como móveis e pequenos veículos (como bicicletas, andadores e cadeiras de roda).
--   **Palavras-chave:**
+- <img src="assets/icons/human_03_black.svg" width="18px">   **Palavras-chave:**
     1.  Bambu
     2.  Conexão Estrutural
     3.  Construção Civil
@@ -35,3 +57,14 @@ MOREIRA, Luís Eustáquio. Conexão nervurada para tubos de bambu. Universidade 
 
 ### 4. Extrair Bibliografia citada no texto
 Não há referências bibliográficas citadas dentro do texto fornecido. O texto é o próprio documento de patente.
+
+---
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

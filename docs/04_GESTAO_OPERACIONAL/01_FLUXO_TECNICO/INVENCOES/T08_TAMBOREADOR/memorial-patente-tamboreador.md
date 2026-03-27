@@ -19,13 +19,23 @@ type: Memorial de Patente
 version: '5.1'
 ---
 
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"O que vale na vida não é o ponto de partida e sim a caminhada."<br>— Cora Coralina</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: memorial-patente-tamboreador.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 # Memorial de Patente: Tamboreador de Varas de Bambu com Abrasão Térmica
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ![Status](https://img.shields.io/badge/status-Finalizado%20(Restrito)-red)
-
----
 
 ## 1. Relatório Descritivo
 
@@ -43,20 +53,16 @@ Modelos rotativos existentes (como os usados em joalheria ou pellets) não compo
 ### 1.3 Sumário da Invenção
 O equipamento compreende um cilindro rotativo de aço carbono perfurado de **grandes dimensões (6 metros de comprimento por 1,2 metros de diâmetro)**, tracionado por sistema de correias e polias reforçadas. A inovação reside no processamento simultâneo de um **lote de 24 varas de bambu por ciclo**, dimensionado estrategicamente para o **abastecimento imediato de duas unidades de Resinadores Rotativos (Frangueiras T03)** operando em paralelo. O sistema utiliza a integração do **fluxo de calor residual** proveniente da vaporização para facilitar o atrito entre as varas e a mídia abrasiva, acoplado a um **ciclone de aspiração industrial** para captura de sílica.
 
----
-
 ## 2. Descrição Detalhada do Objeto
 
 ### 2.1 Estrutura e Mecanismo
 O tamboreador é constituído por um cilindro de até 6 metros de comprimento e 1,2 metros de diâmetro, montado sobre roletes de carga. 
-*   **O Tambor:** Fabricado em chapa de aço A36 perfurada, permitindo a exaustão constante do pó.
-*   **As Aletas (Lifters):** Dispostas helicoidalmente em ângulo de 15°, promovem a elevação e queda controlada das varas, simulando um efeito cascata que maximiza os pontos de contato.
-*   **Transmissão:** Motor elétrico de **5CV** acoplado a um redutor de velocidade (1:40), garantindo torque elevado para a movimentação synchronizada do lote de **24 varas**, mantendo rotação constante entre 15 e 30 RPM.
+* <img src="assets/icons/human_03_black.svg" width="18px">   **O Tambor:** <img src="assets/icons/human_03_black.svg" width="18px"> Fabricado em chapa de aço A36 perfurada, permitindo a exaustão constante do pó.
+* <img src="assets/icons/human_13_black.svg" width="18px">   **As Aletas (Lifters):** <img src="assets/icons/human_13_black.svg" width="18px"> Dispostas helicoidalmente em ângulo de 15°, promovem a elevação e queda controlada das varas, simulando um efeito cascata que maximiza os pontos de contato.
+* <img src="assets/icons/human_20_black.svg" width="18px">   **Transmissão:** <img src="assets/icons/human_20_black.svg" width="18px"> Motor elétrico de **5CV** <img src="assets/icons/human_20_black.svg" width="18px"> acoplado a um redutor de velocidade (1:40), garantindo torque elevado para a movimentação synchronizada do lote de **24 varas**, mantendo rotação constante entre 15 e 30 RPM.
 
 ### 2.2 Sistema de Exaustão e Captura
 Uma coifa de isolamento envolve o tambor rotativo, conectada a um exaustor centrífugo de alta pressão subsidiado por um **Ciclone Separador**. Este subsistema garante a "Higiene de Ativos", impedindo que a sílica (altamente abrasiva para os pulmões e para o próprio maquinário) permaneça no ambiente, direcionando-a para uma moega de coleta inferior.
-
----
 
 ## 3. Quadro Reivindicatório
 
@@ -65,12 +71,8 @@ Uma coifa de isolamento envolve o tambor rotativo, conectada a um exaustor centr
 3.  **EQUIPAMENTO**, de acordo com a reivindicação 1, caracterizado por possuir capacidade de carga otimizada para **24 colmos longitudinais**, permitindo o sincronismo de fluxo produtivo com dois módulos resinadores de 12 eixos.
 4.  **EQUIPAMENTO**, de acordo com a reivindicação 1 e 3, caracterizado por possuir um **sistema de aspiração industrial integrado** composto por coifa vedada e ciclone separador para captura longitudinal de particulados.
 
----
-
 ## 4. Resumo
 Invenção de um tamboreador industrial para bambus, operando por fricção rotativa controlada. O sistema elimina a necessidade de lixamento manual, integra captura de subprodutos preciosos (sílica) via ciclone de sucção e utiliza o calor residual do colmo tratado como catalisador mecânico. Destinado à produção de "Bambu Sem Veneno" com alta aderência para biopolímeros.
-
----
 
 ## Como Citar
 
@@ -78,4 +80,12 @@ Invenção de um tamboreador industrial para bambus, operando por fricção rota
 Institucional, F. R. (2026). *Memorial de Patente: Tamboreador de Varas de Bambu com Abrasão Térmica* (Versão 5.1). Memorial de Patente — Núcleo Institucional / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

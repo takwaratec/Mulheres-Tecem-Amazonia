@@ -9,13 +9,21 @@ author:
 date: '2026-03-24'
 ---
 
-# Orçamento: Mulheres Que Tecem a Floresta (R$ 30M)
-![Status: Ready](https://img.shields.io/badge/Status-Ready-brightgreen)
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
+<p align="right"><i>"O real não está na saída nem na chegada: ele se dispõe para a gente é no meio da travessia."<br>— Guimarães Rosa</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: BUDGET_orcamento-rascunho-territorial.md
+*   **Status**: Status Consolidado
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
+# Orçamento: Mulheres Que Tecem a Floresta (R$ 30M)
 > **Status:** Rascunho de Planejamento (Sombra/Auditoria)  
 > **Escopo:** Distribuição de R$ 30.000.000,00 em três alavancas territoriais de R$ 10.000.000,00.
-
----
 
 ## 1. Núcleo Acre: Hub de Engenharia e Bioconstrução (R$ 10.000.000,00)
 *Foco: Infraestrutura fabril, desenvolvimento de máquinas e prototipagem seriada.*
@@ -28,8 +36,6 @@ date: '2026-03-24'
 | **Infraestrutura Hub** | Estações de trabalho, mobiliário e adequação da planta (Bambu). | 1.000.000,00 | 3,3% |
 | **Equipe Operacional** | Engenheiros, técnicos e montadores territoriais. | 3.000.000,00 | 10,0% |
 
----
-
 ## 2. Núcleo Roraima/Norte: Bioeconomia das Mulheres (R$ 10.000.000,00)
 *Foco: Ativação das cadeias de valor (Castanha/Açaí) e fortalecimento das cooperativas.*
 
@@ -40,8 +46,6 @@ date: '2026-03-24'
 | **Formação e Gestão** | Ciclos de Formação Básica e assessoria técnica territorial. | 4.000.000,00 | 13,3% |
 | **Capital Semente** | Fundos rotativos para suporte operacional das cooperativas. | 2.000.000,00 | 6,7% |
 
----
-
 ## 3. Núcleo Ciência e Saneamento: Validação e Impacto (R$ 10.000.000,00)
 *Foco: Saneamento ecológico, monitoramento de saúde, mídia e gestão da rede.*
 
@@ -51,8 +55,6 @@ date: '2026-03-24'
 | **Validação e Ciência** | Pesquisa-ação, ajustes de intercâmbio e validação técnica. | 2.000.000,00 | 6,7% |
 | **Mídia e Memória** | Documentação audiovisual, publicações e gestão documental. | 2.500.000,00 | 8,3% |
 | **Gestão e Equipe** | Coordenação interinstitucional e bolsas de apoio técnico. | 3.500.000,00 | 11,7% |
-
----
 
 ## 4. Resumo de Investimento e Autonomia
 
@@ -69,12 +71,18 @@ date: '2026-03-24'
 ### Meta de Autonomia
 O investimento em pessoas (OPEX) é desenhado para que, após 48 meses, a rede de colaboração opere de forma autônoma, gerindo seus próprios lucros contabilizados a partir da venda de produtos da sociobiodiversidade e créditos de carbono.
 
----
-
 ## Métricas de Controle
--   **Alavancagem**: Cada R$ 1 investido em máquinas no Acre deve gerar capacidade produtiva para R$ 2 em serviços nos territórios.
--   **Equidade**: Mínimo de 60% do orçamento de formação (Núcleo 2) destinado diretamente a mulheres e lideranças de base.
--   **Carbono**: Custo por tonelada de CO2e removida monitorado via MRV automatizado.
+- <img src="assets/icons/human_19_black.svg" width="18px">   **Alavancagem**: Cada R$ 1 investido em máquinas no Acre deve gerar capacidade produtiva para R$ 2 em serviços nos territórios.
+- <img src="assets/icons/human_04_black.svg" width="18px">   **Equidade**: Mínimo de 60% do orçamento de formação (Núcleo 2) destinado diretamente a mulheres e lideranças de base.
+- <img src="assets/icons/human_16_black.svg" width="18px">   **Carbono**: Custo por tonelada de CO2e removida monitorado via MRV automatizado.
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

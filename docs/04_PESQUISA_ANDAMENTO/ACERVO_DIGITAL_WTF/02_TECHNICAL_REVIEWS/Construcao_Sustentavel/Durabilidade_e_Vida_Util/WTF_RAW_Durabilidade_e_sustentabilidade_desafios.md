@@ -1,14 +1,26 @@
-Compreendido. Atuarei como Bibliotecário Científico do Projeto Mulheres Que Tecem a Floresta para analisar o arquivo fornecido.
-
 ---
-
 ### TAREFA 1: Avaliação de Relevância
 
 **Análise:** O texto é um artigo científico intitulado "Durabilidade e Sustentabilidade: Desafios para a Construção Civil Brasileira", com autores e afiliações universitárias claramente identificadas (USP e University of Gävle). Aborda conceitos fundamentais de sustentabilidade, durabilidade, previsão de vida útil na construção civil e o impacto ambiental do setor, incluindo a menção a materiais vegetais. O conteúdo é técnico, conceitual e embasado cientificamente.
 
 **Resposta:** O conteúdo é altamente relevante e científico. Prosseguirei com as próximas tarefas.
-
 ---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"O Brasil é uma invenção de si mesmo."<br>— João Ubaldo Ribeiro</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: WTF_RAW_Durabilidade_e_sustentabilidade_desafios.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
+Compreendido. Atuarei como Bibliotecário Científico do Projeto Mulheres Que Tecem a Floresta para analisar o arquivo fornecido.
+
+
 
 ### TAREFA 2: Definição de Categoria/Subcategoria
 
@@ -16,21 +28,17 @@ Compreendido. Atuarei como Bibliotecário Científico do Projeto Mulheres Que Te
 
 **Categoria/Subcategoria:** `Construcao_Sustentavel/Durabilidade_e_Vida_Util`
 
----
-
 ### TAREFA 3: Geração de Markdown (.md)
 
 Abaixo está o conteúdo formatado em Markdown, conforme as instruções.
 
 ```markdown
----
 projeto: Mulheres Que Tecem a Floresta
 instituicao: Consórcio UnB/UFAC/UFRR
 equipe: Gestão e Parceria Regional
 tipo: Acervo de Consulta RAW (Transcrição)
 autor: Acervo Digital Mulheres que Tecem a Floresta
 data: '2025'
----
 # PES-TEC-7295-2026
 
 ## Durabilidade e Sustentabilidade: Desafios para a Construção Civil Brasileira
@@ -50,8 +58,6 @@ A durabilidade e a previsão de vida útil têm dimensões ambientais muito impo
 A previsão de vida útil implica no conhecimento da vida útil estimada de componentes e de critérios adicionais de projeto. O conceito fornece um esquema lógico para a tomada de decisões racionais baseadas em aspectos econômicos (custos do ciclo de vida) e ambientais (avaliação de ciclo de vida).
 
 **PALAVRAS CHAVE:** Sustentabilidade, previsão de vida útil, durabilidade
-
----
 
 ### 1. CONSTRUÇÃO SUSTENTÁVEL E O PAPEL DA DURABILIDADE NA SUSTENTABILIDADE
 
@@ -96,31 +102,11 @@ Considere-se
 
 ---
 
-**Observações sobre dados técnicos:**
-*   **Tabelas:** Não há tabelas de dados técnicos presentes no texto fornecido.
-*   **Gráficos e Imagens:** Não há gráficos ou imagens presentes no texto fornecido.
+---
 
 ---
 
-### Bibliografia
-
-1.  BORDEAU, S. CIB W82: Sustainable Construction. **Building Research & Information**, v. 27, n. 6, p. 391-396, 1999. DOI: 10.1080/096132199369324.
-2.  CRAVEN, P. et al. **Building in a New Era: A Vision for the Construction Industry**. London: Construction Industry Research and Information Association (CIRIA), 1996. DOI: Não disponível.
-3.  CURWELL, S. R.; COOPER, I. **The Environmental Performance of Buildings: A Guide for Clients, Designers, and Contractors**. London: E & FN Spon, 1998. DOI: Não disponível.
-4.  DESIMONE, L. D.; POPOFF, F. **Eco-Efficiency: The Business Link to Sustainable Development**. Cambridge, MA: MIT Press, 1998. DOI: Não disponível.
-5.  JANSSEN, M. P. M.; VAN DEN BERGH, J. C. J. M. A note on environmental sustainability in a multi-agent setting. **Ecological Economics**, v. 29, n. 2, p. 263-277, 1999. DOI: 10.1016/S0921-8009(98)00078-X.
-6.  JOHN, V. M. **Gerenciamento de Resíduos na Construção Civil**. São Paulo: PINI, 2000. DOI: Não disponível.
-7.  JOHN, V. M. Building Materials and Sustainable Construction. In: INTERNATIONAL CONFERENCE ON INTEGRATED MANAGEMENT OF ENVIRONMENT IN BRAZIL, 2001, Recife. **Anais...** Recife, 2001. DOI: Não disponível.
-8.  JOHN, V. M.; AGOPYAN, V.; SJÖSTRÖM, C. Durability and Service Life Prediction for Sustainable Construction. In: INTERNATIONAL SYMPOSIUM ON SUSTAINABLE CONSTRUCTION, 2001, Toronto. **Proceedings...** Toronto, 2001. DOI: Não disponível.
-9.  JOHN, V. M.; ZORDAN, S. E. Reciclagem de Resíduos da Construção Civil. In: CONGRESSO BRASILEIRO DO CONCRETO, 43., 2001, Foz do Iguaçu. **Anais...** Foz do Iguaçu, 2001. DOI: Não disponível.
-10. KASAI, T. Waste management in the Japanese construction industry. **Journal of Construction Engineering and Management**, v. 124, n. 2, p. 126-133, 1998. DOI: 10.1061/(ASCE)0733-9364(1998)124:2(126).
-11. MATOS, S. A.; WAGNER, L. A. **Sustainable Construction: Green Building Design and Delivery**. New York: McGraw-Hill, 1999. DOI: Não disponível.
-12. WORLD RESOURCES INSTITUTE (WRI). **World Resources 2000-2001: People and Ecosystems: The Fraying Web of Life**. Washington, DC: WRI, 2000. DOI: Não disponível.
-
 ---
 
-#CATEGORIA: Construcao_Sustentavel/Durabilidade_e_Vida_Util
-```
-
-**Informação adicional para o projeto:**
-Este arquivo Markdown deverá ser salvo dentro de um novo diretório chamado `Construcao_Sustentavel`, seguindo a estrutura de diretórios do projeto.
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

@@ -9,20 +9,30 @@ author:
 date: '2026-03-26'
 ---
 
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+
+<p align="right"><i>"A crise da educação no Brasil não é uma crise; é um projeto."<br>— Darcy Ribeiro</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: FICHA_BS47_Bioeconomia_FECHADO.md
+*   **Status**: Status Consolidado
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 ## FICHA CIENTÍFICA ESTRUTURADA
 
 ### 1. METADADOS E CABEÇALHO
 
-*   **projeto:** Mulheres Que Tecem a Floresta
-*   **instituicao:** Consórcio UnB/UFRR/UFAC
-*   **tipo:** Pesquisa: Amazônia Setentrional (PES)
-*   **referencia:** PES-TEC-6401-2026
-*   **status:** Ready
+* <img src="assets/icons/human_04_black.svg" width="18px">   **projeto:** <img src="assets/icons/human_04_black.svg" width="18px"> Mulheres Que Tecem a Floresta
+* <img src="assets/icons/human_13_black.svg" width="18px">   **instituicao:** <img src="assets/icons/human_13_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
+* <img src="assets/icons/human_19_black.svg" width="18px">   **tipo:** <img src="assets/icons/human_19_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
+* <img src="assets/icons/human_03_black.svg" width="18px">   **referencia:** <img src="assets/icons/human_03_black.svg" width="18px"> PES-TEC-6401-2026
+* <img src="assets/icons/human_16_black.svg" width="18px">   **status:** <img src="assets/icons/human_16_black.svg" width="18px"> Ready
 
 **REFERÊNCIA BIBLIOGRÁFICA (ABNT):**
 SILVA, M. F. de O. e; PEREIRA, F. dos S.; MARTINS, J. V. B. A bioeconomia brasileira em números. **BNDES Setorial**, Rio de Janeiro, n. 47, p. 277-332, mar. 2018.
-
----
 
 ### 2. TRADUÇÃO E SÍNTESE TÉCNICA
 
@@ -31,8 +41,6 @@ O desenvolvimento da bioeconomia representa uma oportunidade promissora para o B
 
 **Palavras-chave:**
 Bioeconomia, Valor da bioeconomia, Economia sustentável.
-
----
 
 ### 3. EXTRAÇÃO DE DADOS (TABELA)
 
@@ -56,11 +64,9 @@ Bioeconomia, Valor da bioeconomia, Economia sustentável.
 | **Capacidade de Produção de Etanol 2G (GranBio Bioflex 1)**          | 82 milhões de litros/ano      | Exemplo de investimento em bioeconomia.                   |
 | **Capacidade de Produção de Etanol (Raízen)**                        | 40 milhões de litros/ano     | Exemplo de investimento em bioeconomia.                   |
 
----
-
 ### 4. RELAÇÃO COM O PROJETO (CONEXÃO WTF)
 
-*   **Como isso beneficia as mulheres extrativistas?**
+* <img src="assets/icons/human_18_black.svg" width="18px">   **Como isso beneficia as mulheres extrativistas?**
     O estudo da bioeconomia brasileira, com foco na adição de valor a recursos biológicos renováveis e resíduos de processos extrativos, oferece benefícios diretos e indiretos para mulheres extrativistas, especialmente na Amazônia Setentrional:
     1.  **Valorização de Recursos Naturais:** Impulsiona a demanda por matérias-primas de origem biológica, como óleos vegetais, resinas, fibras e outros produtos da floresta, que são frequentemente coletados e processados pelas mulheres extrativistas.
     2.  **Geração de Renda e Desenvolvimento Local:** Aumenta o potencial de agregação de valor aos produtos da floresta, permitindo que as extrativistas, individualmente ou em cooperativas, desenvolvam produtos mais elaborados (cosméticos, fitoterápicos, alimentos funcionais, biocomponentes) e alcancem mercados de maior valor agregado, fortalecendo a economia local.
@@ -68,7 +74,7 @@ Bioeconomia, Valor da bioeconomia, Economia sustentável.
     4.  **Inovação e Empreendedorismo:** O conceito de biorrefinarias (ainda que em escala industrial) e a busca por novos bioprodutos (químicos, plásticos, alimentos) abrem caminho para pequenas e médias iniciativas de transformação local, incentivando o empreendedorismo feminino e a diversificação de produtos a partir de sua base extrativa.
     5.  **Políticas Públicas de Apoio:** A pesquisa destaca a Lei da Biodiversidade (Lei 13.123/2015) como um marco para reduzir incertezas e estimular investimentos no acesso ao patrimônio genético e conhecimento tradicional, favorecendo a repartição de benefícios e o desenvolvimento de cadeias produtivas que agregam valor social e econômico.
 
-*   **Quais as diretrizes para o projeto e a bioeconomia?**
+* <img src="assets/icons/human_20_black.svg" width="18px">   **Quais as diretrizes para o projeto e a bioeconomia?**
     As diretrizes que emergem do estudo para o Projeto WTF e para o desenvolvimento da bioeconomia são:
     1.  **Foco em Recursos Biológicos Renováveis e Resíduos:** Priorizar o uso sustentável e inteligente dos recursos da Amazônia Setentrional, incluindo a valorização de resíduos de processos extrativos ou de transformação para novos produtos.
     2.  **Estratégias de Adição de Valor:** Promover a transformação das matérias-primas da floresta em produtos de maior valor agregado (alimentos, bioenergia, produtos químicos, farmacêuticos, cosméticos), buscando nichos de mercado que remunerem melhor a sustentabilidade e a inovação.
@@ -77,8 +83,6 @@ Bioeconomia, Valor da bioeconomia, Economia sustentável.
     5.  **Desenvolvimento de Políticas Públicas Coordenadas:** Trabalhar em conjunto com instituições governamentais para criar um ambiente regulatório favorável e políticas de incentivo (como o RenovaBio) que apoiem o uso sustentável da biodiversidade, a proteção do patrimônio genético e a justa repartição de benefícios.
     6.  **Diferenciação e Competitividade:** Desenvolver estratégias de mercado que destaquem a imagem, qualidade e atributos ambientais dos bioprodutos, buscando a diferenciação para alcançar mercados com maior valor agregado e competir com produtos de base fóssil.
     7.  **Capacitação Local:** Investir na melhoria das capacidades locais para aproveitar o potencial dos recursos do país e desenvolver/empregar novas tecnologias para processos industriais, empoderando as comunidades e as mulheres extrativistas.
-
----
 
 ### 5. Extrair Bibliografia citada no texto
 
@@ -117,4 +121,12 @@ Bioeconomia, Valor da bioeconomia, Economia sustentável.
 33. VARIAN, H. R. **Intermediate microeconomics: a modern approach**. 8. ed. Nova York: W.W. Norton, 2002.
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

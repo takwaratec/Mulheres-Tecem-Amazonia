@@ -9,13 +9,23 @@ author:
 date: '2026-03-26'
 ---
 
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+
+<p align="right"><i>"O povo é o único soberano."<br>— João Ubaldo Ribeiro</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: ANEXO_II_CARTAS_ANUENCIA.md
+*   **Status**: Status Consolidado
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 # ANEXO II: Cartas de Anuência (Modelos)
 
 **Finalidade:** Formalizar a concordância das Cooperativas e Associações de Mulheres com os termos do projeto e sua participação no consórcio.
 
----
-
-## 📄 Template de Carta de Anuência
+## <img src="assets/icons/human_01_red.svg" width="18px"> Template de Carta de Anuência
 
 **À Coordenação Geral do Projeto "Mulheres Que Tecem a Floresta"**
 **Att: Prof. Dra. Tânia Cruz (Universidade de Brasília)**
@@ -37,10 +47,12 @@ __________________________________________
 [CPF]
 
 ---
-**Relação de Cooperativas Identificadas (Preliminar):**
-- Cooperativa de Mulheres do Juruá (Cruzeiro do Sul)
-- Associação de Artesãs de Rio Branco
-- [Lista a ser complementada pela Coordenação de Campo]
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

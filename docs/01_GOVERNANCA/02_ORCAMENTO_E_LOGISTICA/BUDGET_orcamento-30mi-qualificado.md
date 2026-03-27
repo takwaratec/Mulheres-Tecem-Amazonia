@@ -9,14 +9,22 @@ author:
 date: '2026-03-24'
 ---
 
-# Planilha Orçamentária Detalhada – 48 meses / R$ 30.000.000
-![Status: Ready](https://img.shields.io/badge/Status-Ready-brightgreen)
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
+<p align="right"><i>"A terra não é um negócio, a terra é a nossa mãe."<br>— Ailton Krenak</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: BUDGET_orcamento-30mi-qualificado.md
+*   **Status**: Status Consolidado
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
+# Planilha Orçamentária Detalhada – 48 meses / R$ 30.000.000
 > [!IMPORTANT]
 > **RESUMO EXECUTIVO DA ALOCAÇÃO**
 > Este documento reflete a granularidade total do documento original, processado sob o protocolo de qualificação **Status Ready**.
-
----
 
 ## PARTE 1: CAPEX – INVESTIMENTOS EM ATIVOS FIXOS
 **Total CAPEX: R$ 18.500.000 (61,7% do projeto)**
@@ -32,8 +40,6 @@ date: '2026-03-24'
 | **Subtotal Veículos** | | **R$ 1.450.000** | |
 | **1.4. SISTEMAS DE TI E MRV** | TI, Saneamento e Monitoramento | R$ 1.050.000 | 5,7% |
 | **Subtotal TI/Saneamento** | | **R$ 1.050.000** | |
-
----
 
 ## PARTE 2: OPEX – CUSTEIO E CAPACITAÇÃO (48 MESES)
 **Total OPEX: R$ 10.500.000 (35,0% do projeto)**
@@ -59,12 +65,8 @@ date: '2026-03-24'
 | **2.7. MONITORAMENTO** | Avaliação, impacto e auditoria | R$ 440.000 | 4,2% |
 | **Subtotal Monitoramento** | | **R$ 440.000** | |
 
----
-
 ## PARTE 3: CONTINGÊNCIA TÉCNICA
 **Total Contingência: R$ 1.000.000 (3,3% do total)**
-
----
 
 ## RESUMO CONSOLIDADO POR RUBRICA
 
@@ -75,20 +77,23 @@ date: '2026-03-24'
 | **CONTINGÊNCIA** | R$ 1.000.000 | 3,3% |
 | **TOTAL SOLICITADO** | **R$ 30.000.000** | **100,0%** |
 
----
-
 ## CONTRAPARTIDA E INDICADORES
 
-- **Contrapartida Não Financeira:** R$ 4.000.000
-- **Valor Total do Projeto (com contrapartida):** **R$ 34.000.000**
-- **Solicitação ao BNDES/Fundo Amazônia:** **R$ 30.000.000**
+- <img src="assets/icons/human_02_black.svg" width="18px"> **Contrapartida Não Financeira:** <img src="assets/icons/human_02_black.svg" width="18px"> R$ 4.000.000
+- <img src="assets/icons/human_07_black.svg" width="18px"> **Valor Total do Projeto (com contrapartida):** <img src="assets/icons/human_07_black.svg" width="18px"> **R$ 34.000.000**
+- <img src="assets/icons/human_09_black.svg" width="18px"> **Solicitação ao BNDES/Fundo Amazônia:** <img src="assets/icons/human_09_black.svg" width="18px"> **R$ 30.000.000**
 
 > [!NOTE]
 > **INDICADORES DE EFICIÊNCIA:**
 > Essa estrutura está alinhada com as diretrizes do Fundo Amazônia e programas como Coopera+ Amazônia, priorizando formação, autonomia das mulheres e sustentabilidade de longo prazo, com CAPEX eficiente e OPEX robusto.
 
 ---
-**🎋 Institucional — Soberania e Gestão Regenerativa**
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

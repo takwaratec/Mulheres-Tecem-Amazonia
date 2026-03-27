@@ -1,12 +1,4 @@
-# REVIEW TÉCNICO: IMPERVEGº RQI 132
-**Referência do Review:** PES-REV-3721-2026
-**Data do Ensaio:** 26 de maio de 2025
-**Local do Ensaio:** Coimbra, Portugal - ITecons
-**Órgão Emissor:** ITecons
-**Solicitante:** Tecnoveg - Indústria e Comércio, Lda.
-
 ---
-
 ## 1. Tabelas de Resultados
 
 **Tabela 1:** Valores dimensionais obtidos para as amostras REV004A/25.1, REV004A/25.2 e REV004A/25.3 do produto “IMPERVEGº RQI 132”
@@ -55,8 +47,39 @@ Em síntese, o IMPERVEGº RQI 132 demonstra total conformidade com os requisitos
 1.  **Redução Drástica da Permeabilidade:** A aplicação do IMPERVEGº RQI 132 resultou em uma redução massiva da velocidade de transmissão de vapor de água, de 252 g/(m².d) (substrato puro) para 0,37 g/(m².d) (substrato revestido), evidenciando sua notável eficácia como barreira de vapor em substratos porosos.
 2.  **Elevado Fator de Resistência e Espessura Equivalente:** O alto fator de resistência à difusão de vapor de água (μ = 48160) e a espessura de ar equivalente (Sd = 64 m) demonstram a excepcional capacidade do IMPERVEGº RQI 132 em controlar a migração de umidade, posicionando-o como um material de alto desempenho para impermeabilização onde a hermeticidade ao vapor é crítica.
 3.  **Tecnologia Sustentável e Eficaz:** A formulação bicomponente, à base de poliuretano vegetal e isenta de solventes, aliada à excelente performance medida (V=0,37 g/(m².d)), sugere que o IMPERVEGº RQI 132 oferece uma solução tecnologicamente avançada e potencialmente mais sustentável para o controle de vapor em aplicações construtivas.
-
 ---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"A educação não transforma o mundo. Educação muda as pessoas. Pessoas mudam o mundo."<br>— Paulo Freire</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: REVIEW_permeabilidade ao vapor de água.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
+# REVIEW TÉCNICO: IMPERVEGº RQI 132
+**Referência do Review:** PES-REV-3721-2026
+**Data do Ensaio:** 26 de maio de 2025
+**Local do Ensaio:** Coimbra, Portugal - ITecons
+**Órgão Emissor:** ITecons
+**Solicitante:** Tecnoveg - Indústria e Comércio, Lda.
+
+
 **Autor da Análise:** Fabio Resck Takwara (ORCID: "0009-0002-6044-2583")
 **Data da Revisão:** 25/03/2026
 **Local da Análise:** "São Paulo-SP"
+
+---
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

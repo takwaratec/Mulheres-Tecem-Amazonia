@@ -9,9 +9,19 @@ author:
 date: '2026-03-24'
 ---
 
-# Alinhamento Estratégico BNDES e Status de Atividades
-![Status: Ready](https://img.shields.io/badge/Status-Ready-brightgreen)
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
+<p align="right"><i>"O que vale na vida não é o ponto de partida e sim a caminhada."<br>— Cora Coralina</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: WTF-ALINHAMENTO_ESTRATEGICO.md
+*   **Status**: Status Consolidado
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
+# Alinhamento Estratégico BNDES e Status de Atividades
 ## 2. MAPEAMENTO DE INVENTOS E CRONOGRAMA
 
 | Código | Invenção | Responsabilidade | Cronograma (Meses) |
@@ -22,8 +32,6 @@ date: '2026-03-24'
 | **T10** | Balsa-Catamarã (CHP) | Tânia (Field) | 13–24 (Expansão Fluvial) |
 | **T11** | Domo-Fábrica | Integrado (Multi) | 7–48 (Polos 1 a 5) |
 | **T12** | BSM (Saneamento) | Takwara (Eng) | 1–24 (Início Imediato) |
-
----
 
 ## 3. RELATÓRIO DE ATIVIDADES CONCLUÍDAS (22-03)
 
@@ -36,8 +44,11 @@ Para garantir a veiculação sem "furos" para a coordenação geral, as seguinte
 
 ---
 
-**Consórcio UnB/UFRR/UFAC — Engenharia Social**
-Referência: [WTF_PROJETO_INTEGRADO.md](WTF_PROJETO_INTEGRADO.md)
+---
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

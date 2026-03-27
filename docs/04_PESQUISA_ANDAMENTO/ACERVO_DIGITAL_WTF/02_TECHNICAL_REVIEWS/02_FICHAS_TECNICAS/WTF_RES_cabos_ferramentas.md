@@ -7,6 +7,19 @@ autor_original: Not Identified
 equipe_tecnica: UnB/UFAC/UFRR
 ano_publicacao: '2025'
 ---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"O povo é o único soberano."<br>— João Ubaldo Ribeiro</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: WTF_RES_cabos_ferramentas.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 ## Memorial Descritivo
 
 Sistema Integrado de Cabos para Ferramentas Agrícolas com Bambu Tratado e Reforço Interno de Espuma de Poliuretano Vegetal
@@ -17,4 +30,15 @@ Descrever o sistema construtivo de cabos para ferramentas agrícolas utilizando 
 
 ## 2. Materiais Utilizados
 
-- Colmos de Bambu: S...
+- <img src="assets/icons/human_04_black.svg" width="18px"> Colmos de Bambu: S...
+
+---
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

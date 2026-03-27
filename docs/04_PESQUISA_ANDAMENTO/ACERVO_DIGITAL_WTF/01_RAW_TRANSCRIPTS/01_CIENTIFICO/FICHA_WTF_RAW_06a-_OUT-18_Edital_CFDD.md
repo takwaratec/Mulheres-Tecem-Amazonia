@@ -1,3 +1,25 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFRR/UFAC
+tipo: Documento de Acervo
+referencia: FICHA_WTF_RAW_06a-_OUT-18_Edital_CFDD.md
+status: Em Revisão
+author:
+- name: Consórcio UnB/UFRR/UFAC
+---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"A força do lugar é a força do mundo."<br>— Milton Santos</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: FICHA_WTF_RAW_06a-_OUT-18_Edital_CFDD.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 SIM
 
 ### 1. METADADOS E CABEÇALHO
@@ -11,11 +33,11 @@ REFERÊNCIA BIBLIOGRÁFICA (ABNT):
 ACERVO DIGITAL MULHERES QUE TECEM A FLORESTA. **Construções e Fazeres sustentáveis com Bambu: educação ambiental, tecnologia social e sustentabilidade para a promoção do Bem Viver**. Formulário de Proposta de Trabalho. [S. l.]: [s. n.], 2025.
 
 ### 2. TRADUÇÃO E SÍNTESE TÉCNICA
-- O texto está em português, portanto, não há necessidade de tradução de resumo.
-- Palavras-chave:
-    *   Bambu
-    *   Sustentabilidade
-    *   Tecnologia Social
+- <img src="assets/icons/human_15_black.svg" width="18px"> O texto está em português, portanto, não há necessidade de tradução de resumo.
+- <img src="assets/icons/human_18_black.svg" width="18px"> Palavras-chave:
+    * <img src="assets/icons/human_07_black.svg" width="18px">   Bambu
+    * <img src="assets/icons/human_20_black.svg" width="18px">   Sustentabilidade
+    * <img src="assets/icons/human_01_black.svg" width="18px">   Tecnologia Social
 
 ### 3. EXTRAÇÃO DE DADOS (TABELA)
 
@@ -38,3 +60,14 @@ ACERVO DIGITAL MULHERES QUE TECEM A FLORESTA. **Construções e Fazeres sustent�
 
 ### 4. Extrair Bibliografia citada no texto
 Não há referências bibliográficas citadas no texto.
+
+---
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

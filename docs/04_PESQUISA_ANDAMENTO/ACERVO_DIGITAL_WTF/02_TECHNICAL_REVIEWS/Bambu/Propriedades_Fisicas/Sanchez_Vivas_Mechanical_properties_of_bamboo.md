@@ -1,3 +1,25 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFRR/UFAC
+tipo: Documento de Acervo
+referencia: Sanchez_Vivas_Mechanical_properties_of_bamboo.md
+status: Em Revisão
+author:
+- name: Consórcio UnB/UFRR/UFAC
+---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"O real não está na saída nem na chegada: ele se dispõe para a gente é no meio da travessia."<br>— Guimarães Rosa</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: Sanchez_Vivas_Mechanical_properties_of_bamboo.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/353358357
 
 ## Mechanical properties of bamboo: a research synthesis of strength values and the factors influencing them
@@ -877,125 +899,125 @@ Support was provided by the Florida Education Fund's McKnight Doctoral Fellowshi
 
 ## LITERATURE CITED
 
-- Aladín, M.F.G., García, H., Mosquera, J.M., &amp; García, J. (2014). The importance of shear in the deflection of bamboo beams. Key Engineering Materials , 600, 87-96.
-- Amatosa Jr, T. A., &amp; Loretero, M. E. (2016). Analytical behaviour in mechanical properties of Dendrocalamus asper bamboo as construction building materials in the Philippines. Global   Journal   of   Engineering   and Technology Review , 1(1), 114-121.
-- Arce, O. (1993). Fundamentals of the design of bamboo structures . Thesis Eindhoven University, 260pp. ISBN: 90-6814-524-X.   Also   available   from   the   website www.lue.nl.
-- Arinasa, I. B. K., &amp; Bagus, I. (2010). Bamboo diversity and utilization   in   Balinese   rituals   at   Angsri   Village, Bali, Indonesia. Bamboo Science &amp; Culture: The Journal of the American Bamboo Society , 23(1), 29-37.
-- Ashby, M. F. (2012). Materials and the environment: ecoinformed material choice . Elsevier.
-- Askarinejad, S., Kotowski, P ., Shalchy, F ., &amp; Rahbar, N. (2015)   Effects   of   humidity   on   shear   behavior   of bamboo. Theoretical and Applied Mechanics Letters, 5, 236-243.
-- American Society of Testing Materials (ASTM), Standard methods of testing small clear specimens of timber, Annual Book of ASTM Standard Des . ASTM D 143-94 (Reapproved 2000), Vol 4.10, Philadelphia, 2003.
-- Awaludin,   A.,   &amp;   Andriani,   V.   (2014).   Bolted   bamboo joints reinforced with fibers. Procedia Engineering , 95, 15-21.
-- Badwaik, L. S., Choudhury, S., Borah, P . K., Sit, N., &amp; Deka, S. C. (2014). Comparison of kinetics and other related properties of bamboo shoot drying pretreated
-- with osmotic dehydration. Journal of Food Processing And Preservation , 38(3), 1171-1180.
-- Bahari, S. A. &amp; Ahmad, M. (2009). Effects of culm height levels and node presence on mechanical properties and fracture modes of Gigantochloa scortechinii strips loaded in shear parallel to grain. Bamboo Science and Culture: The Journal of the American Bamboo Society , 22(1), 4144.
-- Bahari, S. A., Grigsby, W., &amp; Krause, A. (2017). Thermal stability  of   processed  PVC/bamboo blends: effect of compounding procedures. European Journal of Wood and Wood Products , 75(2), 147-159.
-- Berndsen, R.S., Klitzke, R.J., Batista, D.C., Nacimento, E.M., &amp; Ostapiv, F. (2013). Pesistência à flexão estática e à compressão paralela do bamboo-mossô ( Phyllostachys pubescens ). Floresta , , 43(3), 485-494.
-- Chung, K. F., &amp; Yu, W. K. (2001). Mechanical properties of   structural   bamboo   for   bamboo   scaffoldings. Engineering Structures , 24(4), 429-442.
-- Colin, X., Farinet, J. L., Rojas, O., &amp; Alazard, D. (2007). Anaerobic   treatment   of   cassava   starch   extraction wastewater using a horizontal flow filter with bamboo as support. Bioresource T echnology , 98(8), 1602-1607.
-- Colla, W.A., Beraldo, A.L., &amp; Brito, J.O. (2011) Effects of thermal treatment on the physiochemical characteristics of giant bamboo. Cerne 17(3), 361-367.
-- Correal, D., Francisco, J., &amp; Arbeláez, C. (2010). Influence of   age   and   height   position   on   Colombian Guadua angustifolia bamboo mechanical   properties. Maderas Ciencia y T ecnología , 12(2), 105-113.
-- Cruz, M. (2002). Caracterização física e mecânica de colmos inteiros   do   bambu   da   espécie Phyllostachys   aurea : comportamento à flambagem .   2002.   114   f   (Doctoral dissertation,   Dissertação   (Mestrado   em   Engenharia Civil)   Pontifícia   Universidade   Católica   do   Rio   de Janeiro, Rio de Janeiro).
-- Cusak, V., Stewart, D. (1999). Bamboo World: Clumping Bamboos &amp; how to use them . Kangaroo Press.
-- Dhawan,   S.,   Mishra,   S.C.,   &amp;   Dhawan,   S.   (2008). Influence of height and age on natural resistance of bamboos against termites. The Indian Forester , 134(5), 697-702.
-- Dixon, P . G., Semple, K. E., Kutnar, A., Kamke, F . A., Smith, G. D., &amp; Gibson, L. J. (2016). Comparison of the   flexural   behavior   of   natural   and   thermo-hydromechanically   densified   Moso   bamboo. European Journal of Wood and Wood Products , 74(5), 633-642.
+- <img src="assets/icons/human_03_black.svg" width="18px"> Aladín, M.F.G., García, H., Mosquera, J.M., &amp; García, J. (2014). The importance of shear in the deflection of bamboo beams. Key Engineering Materials , 600, 87-96.
+- <img src="assets/icons/human_08_black.svg" width="18px"> Amatosa Jr, T. A., &amp; Loretero, M. E. (2016). Analytical behaviour in mechanical properties of Dendrocalamus asper bamboo as construction building materials in the Philippines. Global   Journal   of   Engineering   and Technology Review , 1(1), 114-121.
+- <img src="assets/icons/human_06_black.svg" width="18px"> Arce, O. (1993). Fundamentals of the design of bamboo structures . Thesis Eindhoven University, 260pp. ISBN: 90-6814-524-X.   Also   available   from   the   website www.lue.nl.
+- <img src="assets/icons/human_15_black.svg" width="18px"> Arinasa, I. B. K., &amp; Bagus, I. (2010). Bamboo diversity and utilization   in   Balinese   rituals   at   Angsri   Village, Bali, Indonesia. Bamboo Science &amp; Culture: The Journal of the American Bamboo Society , 23(1), 29-37.
+- <img src="assets/icons/human_19_black.svg" width="18px"> Ashby, M. F. (2012). Materials and the environment: ecoinformed material choice . Elsevier.
+- <img src="assets/icons/human_02_black.svg" width="18px"> Askarinejad, S., Kotowski, P ., Shalchy, F ., &amp; Rahbar, N. (2015)   Effects   of   humidity   on   shear   behavior   of bamboo. Theoretical and Applied Mechanics Letters, 5, 236-243.
+- <img src="assets/icons/human_01_black.svg" width="18px"> American Society of Testing Materials (ASTM), Standard methods of testing small clear specimens of timber, Annual Book of ASTM Standard Des . ASTM D 143-94 (Reapproved 2000), Vol 4.10, Philadelphia, 2003.
+- <img src="assets/icons/human_14_black.svg" width="18px"> Awaludin,   A.,   &amp;   Andriani,   V.   (2014).   Bolted   bamboo joints reinforced with fibers. Procedia Engineering , 95, 15-21.
+- <img src="assets/icons/human_11_black.svg" width="18px"> Badwaik, L. S., Choudhury, S., Borah, P . K., Sit, N., &amp; Deka, S. C. (2014). Comparison of kinetics and other related properties of bamboo shoot drying pretreated
+- <img src="assets/icons/human_12_black.svg" width="18px"> with osmotic dehydration. Journal of Food Processing And Preservation , 38(3), 1171-1180.
+- <img src="assets/icons/human_18_black.svg" width="18px"> Bahari, S. A. &amp; Ahmad, M. (2009). Effects of culm height levels and node presence on mechanical properties and fracture modes of Gigantochloa scortechinii strips loaded in shear parallel to grain. Bamboo Science and Culture: The Journal of the American Bamboo Society , 22(1), 4144.
+- <img src="assets/icons/human_10_black.svg" width="18px"> Bahari, S. A., Grigsby, W., &amp; Krause, A. (2017). Thermal stability  of   processed  PVC/bamboo blends: effect of compounding procedures. European Journal of Wood and Wood Products , 75(2), 147-159.
+- <img src="assets/icons/human_04_black.svg" width="18px"> Berndsen, R.S., Klitzke, R.J., Batista, D.C., Nacimento, E.M., &amp; Ostapiv, F. (2013). Pesistência à flexão estática e à compressão paralela do bamboo-mossô ( Phyllostachys pubescens ). Floresta , , 43(3), 485-494.
+- <img src="assets/icons/human_13_black.svg" width="18px"> Chung, K. F., &amp; Yu, W. K. (2001). Mechanical properties of   structural   bamboo   for   bamboo   scaffoldings. Engineering Structures , 24(4), 429-442.
+- <img src="assets/icons/human_16_black.svg" width="18px"> Colin, X., Farinet, J. L., Rojas, O., &amp; Alazard, D. (2007). Anaerobic   treatment   of   cassava   starch   extraction wastewater using a horizontal flow filter with bamboo as support. Bioresource T echnology , 98(8), 1602-1607.
+- <img src="assets/icons/human_20_black.svg" width="18px"> Colla, W.A., Beraldo, A.L., &amp; Brito, J.O. (2011) Effects of thermal treatment on the physiochemical characteristics of giant bamboo. Cerne 17(3), 361-367.
+- <img src="assets/icons/human_05_black.svg" width="18px"> Correal, D., Francisco, J., &amp; Arbeláez, C. (2010). Influence of   age   and   height   position   on   Colombian Guadua angustifolia bamboo mechanical   properties. Maderas Ciencia y T ecnología , 12(2), 105-113.
+- <img src="assets/icons/human_09_black.svg" width="18px"> Cruz, M. (2002). Caracterização física e mecânica de colmos inteiros   do   bambu   da   espécie Phyllostachys   aurea : comportamento à flambagem .   2002.   114   f   (Doctoral dissertation,   Dissertação   (Mestrado   em   Engenharia Civil)   Pontifícia   Universidade   Católica   do   Rio   de Janeiro, Rio de Janeiro).
+- <img src="assets/icons/human_07_black.svg" width="18px"> Cusak, V., Stewart, D. (1999). Bamboo World: Clumping Bamboos &amp; how to use them . Kangaroo Press.
+- <img src="assets/icons/human_17_black.svg" width="18px"> Dhawan,   S.,   Mishra,   S.C.,   &amp;   Dhawan,   S.   (2008). Influence of height and age on natural resistance of bamboos against termites. The Indian Forester , 134(5), 697-702.
+- <img src="assets/icons/human_03_black.svg" width="18px"> Dixon, P . G., Semple, K. E., Kutnar, A., Kamke, F . A., Smith, G. D., &amp; Gibson, L. J. (2016). Comparison of the   flexural   behavior   of   natural   and   thermo-hydromechanically   densified   Moso   bamboo. European Journal of Wood and Wood Products , 74(5), 633-642.
 
-- Edwards, K., Doing, H. (1995). The importance of bamboo and housing construction:  a  case   study   in   Flores .   The Flores Bamboo Development Foundation, Maumere, Flores, NTT, Indonesia, 33-37.
-- Erakhrumen, A. A. (2009). Tensile strength properties of wild grown Bambusa vulgaris treated with neem seed oil   in   Southwest   Nigeria. Journal   of   Bamboo   and Rattan , 8(1/2), 95-102.
-- Erakhrumen,   A.   A.,   &amp;   Ogunsanwo,   O.   Y.   (2010). Influence of neem ( Azadirachta indica A. Juss ) seed oiltreatment on static bending strength properties of wild grown   split-bamboo   ( Bambusa   vulgaris Schrad.)   in south-west   Nigeria. American-Eurasian   Journal   of Agricultural and Environmental Science , 8(1), 73-79.
-- Erakhrumen, A.A. (2010). Assessing the effectiveness of need seed oil   treatment   for   split-bamboo   ( Bambusa vulgaris ) against Pycnoporus sanguineus based on tensile strength properties. Bamboo Science and Culture: The Journal of the American Bamboo Society , 27(1), 36-48.
-- Espiloy,   Z.   B.,   Ella,   A.   B.,   &amp;   Floresca,   A.   R.   (1986). Physico-mechanical properties and anatomical structure   relationships   of   two   erect   bamboo   species. Philippine Lumberman , 4(32), 25-27.
-- Fabiani, M. (2015). Physical and mechanical properties of Italian   bamboo   culms.   Proceedings   of   10 th World Bamboo Congress, Korea. World Bamboo Organisation. Available at: https://www.researchgate.net/publication/289528804\_ Physical\_and\_mechanical\_properties\_of\_Italian\_bamb oo\_culms
-- Ghavami,  K.,   &amp;   Marinho,   A.   B.   (2005).   Propriedades físicas   e   mecânicas   do   colmo   inteiro   do   bambu   da espécie   do   bambu   da   espécie Guadua   angustifolia . Revista Brasileira de Engenharia Agrícola e Ambiental , 9(1), 107-114.
-- Gnanaharan,   R.,   Janssen,   J.J.A.   &amp;   Arce,   O.   (1994). Bending strength of Guadua bamboo: comparison of different testing procedures. International Network for Bamboo and Rattan:   INBAR  Working   Paper No. 3. International Development Research Centre, Canada &amp; Kerala Forest Research Institute, India.
-- González,   E.G.,   Osorio,   J.A.S.,   Garcia,   E.A.G.   (2002). Resistencia a la flexion de la Guadua angustifolia kunt a escala natural. Rev. Fac. Nal. Agr. Medellín , 5(2), 15551572.
-- González,   H.A.B,   Montoya,   J.A.,   Bedoya,   J.R.   (2006). Esfuerzo   de   tension   y   la   influencia   de   la   humedad relativa del ambiente y la Altura a lo largo del tramo en la   especie   de   bambú Guadua   angustifolia Kunth. Scientia et T echnica XII, 32, 445-450.
-- González, H.A.B., Arango, J.A.M., Sánchez, J.R.B. (2007). Resultados del ensayo a flexion en muestras de bambú de la especie Guadua angustifolia Kunth. Scientia et Technica XIII, 35. Universidad Tecnológica de Pereira. ISSN: 0122-1701.
-- González,   H.A.B.,   Montoya,   J.A.A.,   &amp;   Bedoya,   J.R. (2008).   Comportamiento   de   muestras   de Guadua angustifolia Kunth   con   diafragma   y   sin   diafragma sometidas   a   esfuerzo   de   compression.   Sciencia   et Technica, XIV, 38, 449-454.
-- Gupta,   A.   K.,   Ganguly,   R.,   &amp;   Mehra   A.   S.   (2015). Bamboo as green alternative   to   steel   for   reinforced concrete elements of a low-cost residential building. The   Electronic   Journal   of   Geotechnical   Engineering , 20(6), 1523-1545.
-- Gyansah, L. Akinwonmi, A.S., &amp; Affam, M. (2010). The fracture   behaviour   of   fresh   bamboo   under   uniaxial compressive   loading   condition. Research   Journal   of Applied Sciences, Engineering and T echnology , 2(8), 720726.
-- Harries,   K.   A.,   Sharma,   B.,   &amp;   Richard,   M.   (2012). Structural   use   of   full   culm   bamboo:   the   path   to standardization. International   Journal   of   Architecture, Engineering and Construction , 1(2), 66-75.
-- Harries, K. A., Bumstead, J., Richard, M., &amp; Trujillo, D. (2017).   Geometric   and   material   effects   on   bamboo buckling   behaviour. Proceedings   of   the   Institution   of Civil Engineers-Structures and Buildings , 170(4).
-- Huang, X. D., Hse, C. Y., Shupe, T. F . (2014). Evaluation of the performance of the composite bamboo/epoxy laminated material for wind turbine blades technology. BioResources , 10(1), 660-671.
-- International Standards Office (ISO) (2004). ISO 221571. Bamboo: Determination of physical and mechanical properties. Part 2: Laboratory manual. Geneva, ISO.
-- Jayanetti,   D.L.   &amp;   Follet,   P .R.   (1998). Bamboo   in Construction: an Introduction . TRADA and INBAR for DFID
-- Jiang, Z., Wang, H., Tian, G., Liu, X., Yan, Yu. (2012a). Sensitivity of several selected mechanical properties of moso bamboo to moisture content change under the fibre saturation point. BioResources , 7(4), 5048-5058.
-- Jiang, Z., Chen, F ., Wang, G., Liu, X., Shi, S.Q., Cheng, H. (2012b). The circumferential mechanical properties of bamboo with uniaxial and biaxial compression tests. BioResources , 7(4), 4806-4816.
-- Kabir, M.F., Bhattacharjee, D.K., &amp; Sattar, M.A. (1993). Effect   of   age   and   height   on   strength   properties   of
+- <img src="assets/icons/human_08_black.svg" width="18px"> Edwards, K., Doing, H. (1995). The importance of bamboo and housing construction:  a  case   study   in   Flores .   The Flores Bamboo Development Foundation, Maumere, Flores, NTT, Indonesia, 33-37.
+- <img src="assets/icons/human_06_black.svg" width="18px"> Erakhrumen, A. A. (2009). Tensile strength properties of wild grown Bambusa vulgaris treated with neem seed oil   in   Southwest   Nigeria. Journal   of   Bamboo   and Rattan , 8(1/2), 95-102.
+- <img src="assets/icons/human_15_black.svg" width="18px"> Erakhrumen,   A.   A.,   &amp;   Ogunsanwo,   O.   Y.   (2010). Influence of neem ( Azadirachta indica A. Juss ) seed oiltreatment on static bending strength properties of wild grown   split-bamboo   ( Bambusa   vulgaris Schrad.)   in south-west   Nigeria. American-Eurasian   Journal   of Agricultural and Environmental Science , 8(1), 73-79.
+- <img src="assets/icons/human_19_black.svg" width="18px"> Erakhrumen, A.A. (2010). Assessing the effectiveness of need seed oil   treatment   for   split-bamboo   ( Bambusa vulgaris ) against Pycnoporus sanguineus based on tensile strength properties. Bamboo Science and Culture: The Journal of the American Bamboo Society , 27(1), 36-48.
+- <img src="assets/icons/human_02_black.svg" width="18px"> Espiloy,   Z.   B.,   Ella,   A.   B.,   &amp;   Floresca,   A.   R.   (1986). Physico-mechanical properties and anatomical structure   relationships   of   two   erect   bamboo   species. Philippine Lumberman , 4(32), 25-27.
+- <img src="assets/icons/human_01_black.svg" width="18px"> Fabiani, M. (2015). Physical and mechanical properties of Italian   bamboo   culms.   Proceedings   of   10 th World Bamboo Congress, Korea. World Bamboo Organisation. Available at: https://www.researchgate.net/publication/289528804\_ Physical\_and\_mechanical\_properties\_of\_Italian\_bamb oo\_culms
+- <img src="assets/icons/human_14_black.svg" width="18px"> Ghavami,  K.,   &amp;   Marinho,   A.   B.   (2005).   Propriedades físicas   e   mecânicas   do   colmo   inteiro   do   bambu   da espécie   do   bambu   da   espécie Guadua   angustifolia . Revista Brasileira de Engenharia Agrícola e Ambiental , 9(1), 107-114.
+- <img src="assets/icons/human_11_black.svg" width="18px"> Gnanaharan,   R.,   Janssen,   J.J.A.   &amp;   Arce,   O.   (1994). Bending strength of Guadua bamboo: comparison of different testing procedures. International Network for Bamboo and Rattan:   INBAR  Working   Paper No. 3. International Development Research Centre, Canada &amp; Kerala Forest Research Institute, India.
+- <img src="assets/icons/human_12_black.svg" width="18px"> González,   E.G.,   Osorio,   J.A.S.,   Garcia,   E.A.G.   (2002). Resistencia a la flexion de la Guadua angustifolia kunt a escala natural. Rev. Fac. Nal. Agr. Medellín , 5(2), 15551572.
+- <img src="assets/icons/human_18_black.svg" width="18px"> González,   H.A.B,   Montoya,   J.A.,   Bedoya,   J.R.   (2006). Esfuerzo   de   tension   y   la   influencia   de   la   humedad relativa del ambiente y la Altura a lo largo del tramo en la   especie   de   bambú Guadua   angustifolia Kunth. Scientia et T echnica XII, 32, 445-450.
+- <img src="assets/icons/human_10_black.svg" width="18px"> González, H.A.B., Arango, J.A.M., Sánchez, J.R.B. (2007). Resultados del ensayo a flexion en muestras de bambú de la especie Guadua angustifolia Kunth. Scientia et Technica XIII, 35. Universidad Tecnológica de Pereira. ISSN: 0122-1701.
+- <img src="assets/icons/human_04_black.svg" width="18px"> González,   H.A.B.,   Montoya,   J.A.A.,   &amp;   Bedoya,   J.R. (2008).   Comportamiento   de   muestras   de Guadua angustifolia Kunth   con   diafragma   y   sin   diafragma sometidas   a   esfuerzo   de   compression.   Sciencia   et Technica, XIV, 38, 449-454.
+- <img src="assets/icons/human_13_black.svg" width="18px"> Gupta,   A.   K.,   Ganguly,   R.,   &amp;   Mehra   A.   S.   (2015). Bamboo as green alternative   to   steel   for   reinforced concrete elements of a low-cost residential building. The   Electronic   Journal   of   Geotechnical   Engineering , 20(6), 1523-1545.
+- <img src="assets/icons/human_16_black.svg" width="18px"> Gyansah, L. Akinwonmi, A.S., &amp; Affam, M. (2010). The fracture   behaviour   of   fresh   bamboo   under   uniaxial compressive   loading   condition. Research   Journal   of Applied Sciences, Engineering and T echnology , 2(8), 720726.
+- <img src="assets/icons/human_20_black.svg" width="18px"> Harries,   K.   A.,   Sharma,   B.,   &amp;   Richard,   M.   (2012). Structural   use   of   full   culm   bamboo:   the   path   to standardization. International   Journal   of   Architecture, Engineering and Construction , 1(2), 66-75.
+- <img src="assets/icons/human_05_black.svg" width="18px"> Harries, K. A., Bumstead, J., Richard, M., &amp; Trujillo, D. (2017).   Geometric   and   material   effects   on   bamboo buckling   behaviour. Proceedings   of   the   Institution   of Civil Engineers-Structures and Buildings , 170(4).
+- <img src="assets/icons/human_09_black.svg" width="18px"> Huang, X. D., Hse, C. Y., Shupe, T. F . (2014). Evaluation of the performance of the composite bamboo/epoxy laminated material for wind turbine blades technology. BioResources , 10(1), 660-671.
+- <img src="assets/icons/human_07_black.svg" width="18px"> International Standards Office (ISO) (2004). ISO 221571. Bamboo: Determination of physical and mechanical properties. Part 2: Laboratory manual. Geneva, ISO.
+- <img src="assets/icons/human_17_black.svg" width="18px"> Jayanetti,   D.L.   &amp;   Follet,   P .R.   (1998). Bamboo   in Construction: an Introduction . TRADA and INBAR for DFID
+- <img src="assets/icons/human_03_black.svg" width="18px"> Jiang, Z., Wang, H., Tian, G., Liu, X., Yan, Yu. (2012a). Sensitivity of several selected mechanical properties of moso bamboo to moisture content change under the fibre saturation point. BioResources , 7(4), 5048-5058.
+- <img src="assets/icons/human_08_black.svg" width="18px"> Jiang, Z., Chen, F ., Wang, G., Liu, X., Shi, S.Q., Cheng, H. (2012b). The circumferential mechanical properties of bamboo with uniaxial and biaxial compression tests. BioResources , 7(4), 4806-4816.
+- <img src="assets/icons/human_06_black.svg" width="18px"> Kabir, M.F., Bhattacharjee, D.K., &amp; Sattar, M.A. (1993). Effect   of   age   and   height   on   strength   properties   of
 
-- Dendrocalamus longispathus . Bamboo   Information Centre India Bulletin , 3, 11-15.
-- Kaminski, S., Lawrence, A., Trujillo, D., Feltham, I., &amp; Felipe López, L. (2016). Structural use of bamboo. Part 3: Design values. The Structural Engineer , 94(12), 4245.
-- Kamruzzaman, M., Saha, S. K., Bose, A. K., &amp; Islam, M. N. (2008). Effects of age and height on physical and mechanical properties of bamboo. Journal of Tropical Forest Science , 211-217.
-- Kusak, V. (1999). Bamboo World: The Growing and Use of Clumping Bamboos . Simon &amp; Schuster Australia
-- Laha, R. (2000). Bamboo uses for housing by the different tribes of Northeast India. Bamboo Science and Culture, The Journal of the American Bamboo Society , 14(1): 1014.
-- Lakkad, S. C., Patel, J. M. (1981). Mechanical properties of   bamboo,   a   natural   composite. Fibre   Science   and Technology , 14(4), 319-322.
-- Lee,   A.   W .,   Bai,   X.,   &amp;   Peralta,   P .   N.   (1994).   Selected physical   and   mechanical   properties   of   giant   timber bamboo   grown   in   South   Carolina. Forest   Products Journal , 44(9), 40.
-- Liese, W. &amp; Tang, T.K.H. (2015). Chapter 9. Preservation and drying of bamboo. In: W. Liese &amp; M. Köhl (eds.). Bamboo and its Uses : 257-297. Springer,.
-- Liese, W. (1987). Research on bamboo. Wood Science and Technology , 21(3), 189-209.
-- Liese, W. (1991). Progress in bamboo research . Journal of the American Bamboo Society , 8 (2): 2-16.
-- Liese, W. (1992). The structure of bamboo in relation to its properties and utilization. In: Zhu, S., Li, W., Zhang, X. Wang, Z. (eds.), Bamboo and its Use: Proceedings of the   International   Symposium   on   Industrial   Use   of Bamboo : 7-11. Int. T ropical Timber Org. and Chinese Academy of Forestry. Beijing, China.
-- Liese,   W.   (2004).   Preservation   of   bamboo   structures. Ghana Journal of Forestry , 15(1), 40-48.
-- Limay, V. D. (1952). Strength of bamboo ( Dendrocalamus strictus ). Indian Forester , 78(11), 558-575.
-- Lin,   C.   J.,   Tsai,   M.   J.,   &amp;   Wang,   S.   Y.   (2006). Nondestructive   evaluation   techniques   for   assessing dynamic   modulus   of   elasticity   of   moso   bamboo ( Phyllosachys   edulis )   lamina. Journal   of   wood   science , 52(4), 342.
-- Lin, H. C., &amp; Shiah, T. C. (2006). Evaluation of fungi resistance   of   moso   bamboo   materials   using   bamboo
-- vinegar with smoking process. Q. J. Forest Res. T aiwan , 28(2), 51-66.
-- Lipangile, T.N. (1991). Manufacture and construction of bamboo water supply systems. Journal of the American Bamboo Society , 8: 191-198.
-- Londoño,   X.,   Camayo,   G.C.,   Riaño,   N.M.,   López,   Y. (2002). Charactirazation of the anatomy of Guadua angustifolia (Poaeae:   Bambusoideae)   culms. Bamboo Science and Culture : Journal of the American Bamboo Society , 16(1), 18-31.
-- Lugt, P .V., Dobbelsteen, A. A. J. F ., &amp; Janssen, J. J. A. (2006).   An   environmental,   economic   and   practical assessment   of   bamboo   as   a   building   material   for supporting   structures. Construction   and   Building Materials , 20(9), 648-656.
-- Luna,   P ., Lozano,   J., &amp;   Takeuchi,   C.   (2014). Determinación experimental de valores caracteristicos de   Resistencia   para Guadua   angustifolia .   Maderas, Ciencia y T ecnologia , 16(1), 77-92.
-- Macdonald, J. (1999). The Quindío, Colombia Earthquake of 25 January 1999. SECED Newsletter 13/2, 1-3.
-- Manalo, R. D., &amp; Acda, M. N. (2009). Effects of hot oil treatment  on   physical   and   mechanical   properties   of three species of Philippine bamboo. Journal of Tropical Forest Science , 19-24.
-- Matsuoka, J. H., &amp; Beraldo, A. L. (2013). Evaluation of preservative treatment of bamboo   strips   with pyroligneous acid [avaliação do tratamento preservativo de taliscas de bambu com ácido pirolenhoso]. Floresta , 44, 11-20.
-- Mota, I.O., Pereira, M.A., Damacena, P .C., Santos, L.C.B. (2017). Estudo das propriedades físicas e mecânicas do bambu   brasileiro   ( Bambusa   vulgaris vittata)   para aplicação   de   sistemas   hidráulicos   alternativos   de distribuição de água à baixa pressão . Revista de Estudos Ambientais , 19(1), 18-26.
-- Nölke, N., García, J.C.C., Kleinn, C., &amp; Polle, A. (2015). Changes in culm surface temperature with maturity of the   bamboo   species Guadua angustifolia.   Journal   of Forest Resources , 27(2), 419-425.
-- Nordahlia, A.S., Anwar, U.M.K., Hamdan,M., Abd Latif &amp; Mahanim S.M.A. (2011). Anatomical, physical and strength   properties   of Shizostachyum   brachycladum (Buluh   lemang). Journal   of   Bamboo   and   Rattan , 10(3&amp;4), 111-122.
-- Norma   Técnica   Colombiana   (2007). NTC   5525, Determinación de las propriedades físicas y mecánicas de
+- <img src="assets/icons/human_15_black.svg" width="18px"> Dendrocalamus longispathus . Bamboo   Information Centre India Bulletin , 3, 11-15.
+- <img src="assets/icons/human_19_black.svg" width="18px"> Kaminski, S., Lawrence, A., Trujillo, D., Feltham, I., &amp; Felipe López, L. (2016). Structural use of bamboo. Part 3: Design values. The Structural Engineer , 94(12), 4245.
+- <img src="assets/icons/human_02_black.svg" width="18px"> Kamruzzaman, M., Saha, S. K., Bose, A. K., &amp; Islam, M. N. (2008). Effects of age and height on physical and mechanical properties of bamboo. Journal of Tropical Forest Science , 211-217.
+- <img src="assets/icons/human_01_black.svg" width="18px"> Kusak, V. (1999). Bamboo World: The Growing and Use of Clumping Bamboos . Simon &amp; Schuster Australia
+- <img src="assets/icons/human_14_black.svg" width="18px"> Laha, R. (2000). Bamboo uses for housing by the different tribes of Northeast India. Bamboo Science and Culture, The Journal of the American Bamboo Society , 14(1): 1014.
+- <img src="assets/icons/human_11_black.svg" width="18px"> Lakkad, S. C., Patel, J. M. (1981). Mechanical properties of   bamboo,   a   natural   composite. Fibre   Science   and Technology , 14(4), 319-322.
+- <img src="assets/icons/human_12_black.svg" width="18px"> Lee,   A.   W .,   Bai,   X.,   &amp;   Peralta,   P .   N.   (1994).   Selected physical   and   mechanical   properties   of   giant   timber bamboo   grown   in   South   Carolina. Forest   Products Journal , 44(9), 40.
+- <img src="assets/icons/human_18_black.svg" width="18px"> Liese, W. &amp; Tang, T.K.H. (2015). Chapter 9. Preservation and drying of bamboo. In: W. Liese &amp; M. Köhl (eds.). Bamboo and its Uses : 257-297. Springer,.
+- <img src="assets/icons/human_10_black.svg" width="18px"> Liese, W. (1987). Research on bamboo. Wood Science and Technology , 21(3), 189-209.
+- <img src="assets/icons/human_04_black.svg" width="18px"> Liese, W. (1991). Progress in bamboo research . Journal of the American Bamboo Society , 8 (2): 2-16.
+- <img src="assets/icons/human_13_black.svg" width="18px"> Liese, W. (1992). The structure of bamboo in relation to its properties and utilization. In: Zhu, S., Li, W., Zhang, X. Wang, Z. (eds.), Bamboo and its Use: Proceedings of the   International   Symposium   on   Industrial   Use   of Bamboo : 7-11. Int. T ropical Timber Org. and Chinese Academy of Forestry. Beijing, China.
+- <img src="assets/icons/human_16_black.svg" width="18px"> Liese,   W.   (2004).   Preservation   of   bamboo   structures. Ghana Journal of Forestry , 15(1), 40-48.
+- <img src="assets/icons/human_20_black.svg" width="18px"> Limay, V. D. (1952). Strength of bamboo ( Dendrocalamus strictus ). Indian Forester , 78(11), 558-575.
+- <img src="assets/icons/human_05_black.svg" width="18px"> Lin,   C.   J.,   Tsai,   M.   J.,   &amp;   Wang,   S.   Y.   (2006). Nondestructive   evaluation   techniques   for   assessing dynamic   modulus   of   elasticity   of   moso   bamboo ( Phyllosachys   edulis )   lamina. Journal   of   wood   science , 52(4), 342.
+- <img src="assets/icons/human_09_black.svg" width="18px"> Lin, H. C., &amp; Shiah, T. C. (2006). Evaluation of fungi resistance   of   moso   bamboo   materials   using   bamboo
+- <img src="assets/icons/human_07_black.svg" width="18px"> vinegar with smoking process. Q. J. Forest Res. T aiwan , 28(2), 51-66.
+- <img src="assets/icons/human_17_black.svg" width="18px"> Lipangile, T.N. (1991). Manufacture and construction of bamboo water supply systems. Journal of the American Bamboo Society , 8: 191-198.
+- <img src="assets/icons/human_03_black.svg" width="18px"> Londoño,   X.,   Camayo,   G.C.,   Riaño,   N.M.,   López,   Y. (2002). Charactirazation of the anatomy of Guadua angustifolia (Poaeae:   Bambusoideae)   culms. Bamboo Science and Culture : Journal of the American Bamboo Society , 16(1), 18-31.
+- <img src="assets/icons/human_08_black.svg" width="18px"> Lugt, P .V., Dobbelsteen, A. A. J. F ., &amp; Janssen, J. J. A. (2006).   An   environmental,   economic   and   practical assessment   of   bamboo   as   a   building   material   for supporting   structures. Construction   and   Building Materials , 20(9), 648-656.
+- <img src="assets/icons/human_06_black.svg" width="18px"> Luna,   P ., Lozano,   J., &amp;   Takeuchi,   C.   (2014). Determinación experimental de valores caracteristicos de   Resistencia   para Guadua   angustifolia .   Maderas, Ciencia y T ecnologia , 16(1), 77-92.
+- <img src="assets/icons/human_15_black.svg" width="18px"> Macdonald, J. (1999). The Quindío, Colombia Earthquake of 25 January 1999. SECED Newsletter 13/2, 1-3.
+- <img src="assets/icons/human_19_black.svg" width="18px"> Manalo, R. D., &amp; Acda, M. N. (2009). Effects of hot oil treatment  on   physical   and   mechanical   properties   of three species of Philippine bamboo. Journal of Tropical Forest Science , 19-24.
+- <img src="assets/icons/human_02_black.svg" width="18px"> Matsuoka, J. H., &amp; Beraldo, A. L. (2013). Evaluation of preservative treatment of bamboo   strips   with pyroligneous acid [avaliação do tratamento preservativo de taliscas de bambu com ácido pirolenhoso]. Floresta , 44, 11-20.
+- <img src="assets/icons/human_01_black.svg" width="18px"> Mota, I.O., Pereira, M.A., Damacena, P .C., Santos, L.C.B. (2017). Estudo das propriedades físicas e mecânicas do bambu   brasileiro   ( Bambusa   vulgaris vittata)   para aplicação   de   sistemas   hidráulicos   alternativos   de distribuição de água à baixa pressão . Revista de Estudos Ambientais , 19(1), 18-26.
+- <img src="assets/icons/human_14_black.svg" width="18px"> Nölke, N., García, J.C.C., Kleinn, C., &amp; Polle, A. (2015). Changes in culm surface temperature with maturity of the   bamboo   species Guadua angustifolia.   Journal   of Forest Resources , 27(2), 419-425.
+- <img src="assets/icons/human_11_black.svg" width="18px"> Nordahlia, A.S., Anwar, U.M.K., Hamdan,M., Abd Latif &amp; Mahanim S.M.A. (2011). Anatomical, physical and strength   properties   of Shizostachyum   brachycladum (Buluh   lemang). Journal   of   Bamboo   and   Rattan , 10(3&amp;4), 111-122.
+- <img src="assets/icons/human_12_black.svg" width="18px"> Norma   Técnica   Colombiana   (2007). NTC   5525, Determinación de las propriedades físicas y mecánicas de
 
-- la Guadua angustifolia Kunth .   Instituto   Colombiano de Normas Técnicas (ICONTEC).
-- Nugroho, N., &amp; Bahtiar, E. T. (2012). Bamboo taper effect on center point bending test. Journal of Physical Science and Application , 2(9), 386.
-- Nugroho, N., &amp; Bahtiar, E. T. (2013). Bamboo taper effect on   third   point   loading   bending   test.   International Journal of Engineering and Technology, 5(3), 23792384.Nurmadina, Nugroho, N., Bahtiar, E.T. (2017). Structural grading of Gigantochloa apus bamboo based on its flexural  properties. Construction and Building Materials , 157, 1173-1189.
-- Ogunwusi,   A.A.,   Onwualu,   A.P .   (2013).   Prospects   for multi-functional   utilization   of   bamboo   in   Nigeria. Chemistry and Materials Research , 3(8), 58-71.
-- Okhio,   C.B.,   Eng,   C.,   Waning,   J.E.,   Mekonnen,   Y.T . (2011). An experimental investigation of the effects of moisture   content   on   the   mechanical   properties   of bamboo   and   cane.   Multidisciplinary   Journals   in Science and Technology, Journal of Selected Areas in Bioengineering (JSAB) , 8-14.
-- Omobowale, M.O. &amp; Ogedengbe, K. (2008). Trends in fiber characteristics of Nigerian grown bamboo and its effect   on   its   impact   and   tensile   strengths. Bamboo Science &amp; Culture: The Journal of the American Bamboo Society , 21(1), 9-13.
-- Ong, K. S. (1996). Experimental investigation of a solar bamboo dryer. Drying Technology , 14(10), 2411-2417.
-- Parker, H. (1979). Simplified Design of Structural Wood . John Wiley &amp; Sons, Inc.
-- Perminderjit,   K.,   Pant,   K.,   Satya,   S.,   Naik,   S.   (2014). Comparison   of   decay   resistance   of   bamboo   treated with plant extracts and oil cakes. International Journal of   Emerging   T echnology   and   Advanced   Engineering . Volume 4, Issue 1.
-- Pfeiffer, K. &amp; Olson, N. J. (1981). Basic Statistics for the Behavioral Sciences . Holt Rinehart Winston. New York, New York.
-- Prawirohatmodjo,   S.   (1990).   Comparative   strength   of green   and   air-dry   bamboo.   In:   I.V.R.   Rao,   R. Gnanaharan,   C.B.   Sastry   (eds.) Bamboos   Current Research. Proceedings of International Bamboo Workshop. Cochin, India. 14-18 November 1988 ( 218-222).
-- Purushotham, A. (1953). Preservative treatment of green bamboos under low pneumatic pressures. The Indian Forester , 79(12), 652-672.
-- Ramírez, E. B. R., Villamizar, N. I., González, L. M., &amp; Tovar, A. K. A. (2018). Análisis comparativo de las
-- propiedades mecánicas de la guadua angustifolia kunth como   material   estructural   de   eje   para   protesis transtibial. Revista de Investigación Agria y Ambiental (RIAA) , 9(2), 5.
-- Sánchez-Echeverri, L.A., Aita, G., Robert, D., &amp; Garcia, M.E.R. (2014). Correlation between chemical compounds and mechanical response in culms of two different ages of Guadua angustifolia Kunth. Madera y Bosques , 20(2) 87-94.
-- Sathish, S., Kumaresan, K., Prabhu, L., &amp; Vigneshkumar, N.   (2017).   Experimental   investigation   on   volume fraction of mechanical and physical properties of flax and bamboo   fibers reinforced hybrid epoxy composites. Polymers   &amp;   Polymer   Composites ,   25(3), 229.
-- Sattar, M. A., Kabir, M. F ., &amp; Bhattacharjee, D. K. (1990). Effect of age and height position of muli ( Melocanna baccifera )   and   borak   ( Bambusa balcooa )   bamboos on their  physical and mechanical properties. Bangladesh Journal of Forest Science , 19(1&amp;2), 29-37.
-- Schmidt, O., Wei, D. S., Tang, T. K. H., Liese, W. (2013). Bamboo and fungi. Journal   of   Bamboo   and   Rattan , 12(1-4), 1-14.
-- Shiah, T. C., Wu, S. K., Huang, J. C., Lin, H. C. (2006). The fungi resistance of bamboo materials treated with bamboo vinegar using soaking treatment. Journal of Agriculture and Forestry , NCYU, 3(1), 1-22.
-- Srivaro,   S.,   Rattanarat,   J.,   &amp;   Noothong,   P .   (2018). Comparison   of   the   anatomical   characteristics   and physical  and   mechanical   properties  of   oil   palm   and bamboo trunks. Journal of Wood Science , 64(3), 186192.
-- Takeuchi, C., Durate, M., &amp; Erazo, W. (2013). Análisis comparativas   en   muestras   de Guadua   angustifolia Kunth solicitadas   a   compression   paralela   a   la   fibra. Revista Ingeniería y Región , 10, 117-124.
-- Tang, T. K. H., Welling, J., Ho, T. D., &amp; Liese, W. (2012). Investigation on optimization of kiln drying for the bamboo species Bambusa stenostachya, Dendrocalamus asper and Thyrsostachys   siamensis . Bamboo Science &amp; Culture : Journal of the American Bamboo Society , 25(1).
-- Teron, R., &amp; Borthakur, S. K. (2012). Traditional uses of bamboos   among   the   Karbis,   a   hill   tribe   of   India. Bamboo Science &amp; Culture : Journal   of   the   American Bamboo Society , 25(1).
-- Tomak, E. D., Topaloglu, E., Ay, N., Yildiz, U.C. (2012). Effect   of   accelerated   aging   on   some   physical   and mechanical   properties   of   bamboo. Wood   Science Technology , 46, 905-918.
+- <img src="assets/icons/human_18_black.svg" width="18px"> la Guadua angustifolia Kunth .   Instituto   Colombiano de Normas Técnicas (ICONTEC).
+- <img src="assets/icons/human_10_black.svg" width="18px"> Nugroho, N., &amp; Bahtiar, E. T. (2012). Bamboo taper effect on center point bending test. Journal of Physical Science and Application , 2(9), 386.
+- <img src="assets/icons/human_04_black.svg" width="18px"> Nugroho, N., &amp; Bahtiar, E. T. (2013). Bamboo taper effect on   third   point   loading   bending   test.   International Journal of Engineering and Technology, 5(3), 23792384.Nurmadina, Nugroho, N., Bahtiar, E.T. (2017). Structural grading of Gigantochloa apus bamboo based on its flexural  properties. Construction and Building Materials , 157, 1173-1189.
+- <img src="assets/icons/human_13_black.svg" width="18px"> Ogunwusi,   A.A.,   Onwualu,   A.P .   (2013).   Prospects   for multi-functional   utilization   of   bamboo   in   Nigeria. Chemistry and Materials Research , 3(8), 58-71.
+- <img src="assets/icons/human_16_black.svg" width="18px"> Okhio,   C.B.,   Eng,   C.,   Waning,   J.E.,   Mekonnen,   Y.T . (2011). An experimental investigation of the effects of moisture   content   on   the   mechanical   properties   of bamboo   and   cane.   Multidisciplinary   Journals   in Science and Technology, Journal of Selected Areas in Bioengineering (JSAB) , 8-14.
+- <img src="assets/icons/human_20_black.svg" width="18px"> Omobowale, M.O. &amp; Ogedengbe, K. (2008). Trends in fiber characteristics of Nigerian grown bamboo and its effect   on   its   impact   and   tensile   strengths. Bamboo Science &amp; Culture: The Journal of the American Bamboo Society , 21(1), 9-13.
+- <img src="assets/icons/human_05_black.svg" width="18px"> Ong, K. S. (1996). Experimental investigation of a solar bamboo dryer. Drying Technology , 14(10), 2411-2417.
+- <img src="assets/icons/human_09_black.svg" width="18px"> Parker, H. (1979). Simplified Design of Structural Wood . John Wiley &amp; Sons, Inc.
+- <img src="assets/icons/human_07_black.svg" width="18px"> Perminderjit,   K.,   Pant,   K.,   Satya,   S.,   Naik,   S.   (2014). Comparison   of   decay   resistance   of   bamboo   treated with plant extracts and oil cakes. International Journal of   Emerging   T echnology   and   Advanced   Engineering . Volume 4, Issue 1.
+- <img src="assets/icons/human_17_black.svg" width="18px"> Pfeiffer, K. &amp; Olson, N. J. (1981). Basic Statistics for the Behavioral Sciences . Holt Rinehart Winston. New York, New York.
+- <img src="assets/icons/human_03_black.svg" width="18px"> Prawirohatmodjo,   S.   (1990).   Comparative   strength   of green   and   air-dry   bamboo.   In:   I.V.R.   Rao,   R. Gnanaharan,   C.B.   Sastry   (eds.) Bamboos   Current Research. Proceedings of International Bamboo Workshop. Cochin, India. 14-18 November 1988 ( 218-222).
+- <img src="assets/icons/human_08_black.svg" width="18px"> Purushotham, A. (1953). Preservative treatment of green bamboos under low pneumatic pressures. The Indian Forester , 79(12), 652-672.
+- <img src="assets/icons/human_06_black.svg" width="18px"> Ramírez, E. B. R., Villamizar, N. I., González, L. M., &amp; Tovar, A. K. A. (2018). Análisis comparativo de las
+- <img src="assets/icons/human_15_black.svg" width="18px"> propiedades mecánicas de la guadua angustifolia kunth como   material   estructural   de   eje   para   protesis transtibial. Revista de Investigación Agria y Ambiental (RIAA) , 9(2), 5.
+- <img src="assets/icons/human_19_black.svg" width="18px"> Sánchez-Echeverri, L.A., Aita, G., Robert, D., &amp; Garcia, M.E.R. (2014). Correlation between chemical compounds and mechanical response in culms of two different ages of Guadua angustifolia Kunth. Madera y Bosques , 20(2) 87-94.
+- <img src="assets/icons/human_02_black.svg" width="18px"> Sathish, S., Kumaresan, K., Prabhu, L., &amp; Vigneshkumar, N.   (2017).   Experimental   investigation   on   volume fraction of mechanical and physical properties of flax and bamboo   fibers reinforced hybrid epoxy composites. Polymers   &amp;   Polymer   Composites ,   25(3), 229.
+- <img src="assets/icons/human_01_black.svg" width="18px"> Sattar, M. A., Kabir, M. F ., &amp; Bhattacharjee, D. K. (1990). Effect of age and height position of muli ( Melocanna baccifera )   and   borak   ( Bambusa balcooa )   bamboos on their  physical and mechanical properties. Bangladesh Journal of Forest Science , 19(1&amp;2), 29-37.
+- <img src="assets/icons/human_14_black.svg" width="18px"> Schmidt, O., Wei, D. S., Tang, T. K. H., Liese, W. (2013). Bamboo and fungi. Journal   of   Bamboo   and   Rattan , 12(1-4), 1-14.
+- <img src="assets/icons/human_11_black.svg" width="18px"> Shiah, T. C., Wu, S. K., Huang, J. C., Lin, H. C. (2006). The fungi resistance of bamboo materials treated with bamboo vinegar using soaking treatment. Journal of Agriculture and Forestry , NCYU, 3(1), 1-22.
+- <img src="assets/icons/human_12_black.svg" width="18px"> Srivaro,   S.,   Rattanarat,   J.,   &amp;   Noothong,   P .   (2018). Comparison   of   the   anatomical   characteristics   and physical  and   mechanical   properties  of   oil   palm   and bamboo trunks. Journal of Wood Science , 64(3), 186192.
+- <img src="assets/icons/human_18_black.svg" width="18px"> Takeuchi, C., Durate, M., &amp; Erazo, W. (2013). Análisis comparativas   en   muestras   de Guadua   angustifolia Kunth solicitadas   a   compression   paralela   a   la   fibra. Revista Ingeniería y Región , 10, 117-124.
+- <img src="assets/icons/human_10_black.svg" width="18px"> Tang, T. K. H., Welling, J., Ho, T. D., &amp; Liese, W. (2012). Investigation on optimization of kiln drying for the bamboo species Bambusa stenostachya, Dendrocalamus asper and Thyrsostachys   siamensis . Bamboo Science &amp; Culture : Journal of the American Bamboo Society , 25(1).
+- <img src="assets/icons/human_04_black.svg" width="18px"> Teron, R., &amp; Borthakur, S. K. (2012). Traditional uses of bamboos   among   the   Karbis,   a   hill   tribe   of   India. Bamboo Science &amp; Culture : Journal   of   the   American Bamboo Society , 25(1).
+- <img src="assets/icons/human_13_black.svg" width="18px"> Tomak, E. D., Topaloglu, E., Ay, N., Yildiz, U.C. (2012). Effect   of   accelerated   aging   on   some   physical   and mechanical   properties   of   bamboo. Wood   Science Technology , 46, 905-918.
 
-- Trujillo,   D.   (2018).   Developments   in   structural   design standards   with   bamboo.   World   Bamboo   Congress Keynote Presentation. Xalapa, Mexico.
-- Trujillo,   O.   E.,   &amp;   Wang,   T .   H.   (2015).   Parametric Modeling   of   Bamboo   Pole   Joints.   In International Conference   on   Computer-Aided   Architectural   Design Futures , 272-290. Springer, Berlin, Heidelberg.
-- Ubidia, J.A.M. (2002). Traditional bamboo preservation methods in Latin America. International Network for Bamboo and Rattan - INBAR. Faculty of Architecture, University of Guayaquil, Ecuador.
-- Valero, S.W., Reyes, E., Contreras, W. (2005). Estudio de las   propiedades   físicas   y   mecánicas   des   bambú ( Bambusa vulgaris ), de tres años de edad y proveniente de las plantaciones ubicadas en la ribera de la margen derecho   del   rio   Chama,   municipio   Francisco   Javier Pulgar, estado Pulgar, estado Zuilia, Venezuela. Revista Forestal Latinoamericana , 37, 87-107.
-- Verma, C.S. &amp; Chariar, V.M. (2012). Development of layered   laminate   bamboo   composite   and   their mechanical properties. Composites Part B: Engineering , 43, 1063-1069.
-- Wahab, R. Moktar, J., Sudin, M., Samsi, H.W. (2006). Strength properties of preservative treated Gigantochloa scortechinii after   vacuum   impregnation   process. International Journal of Agricultural Research , 1(1), 813.
-- Wahab,   R.,   Samsi,   H.W.,   Sulaiman,   O.,   Salim,   R.   &amp; Hashim, R. (2007). Properties of oil-cured cultivated Bambusa vulgaris . International Journal of Agricultural Research , 2(9), 820-825.
-- Wakchaure, M.R. &amp; Kute, S.Y. (2012). Effect of moisture content   on   physical   and   mechanical   properties   of bamboo. Asian Journal of Civil Engineering (Building and Housing) , 13(6), 753-763.
-- Wang, H., Li, W., Ren, D., Yu, Z., Yu, Y. (2014). A twovariable model for predicting the effects of moisture content and density on compressive strength parallel to the grain for moso bamboo. Journal of Wood Science , 60(5), 362-366.
-- Wistara, N. J., Purnamasari, D. A., &amp; Indrawan, D. A. (2017). The properties of bamboo and old corrugated containers   pulp   mixture. Jurnal   Ilmu   dan  T eknologi Kayu Tropis , 10(2), 112-121.
-- Xie, J., Yong, Y., Dong, X., Du, J., Guo, Z., Gong, L., ... &amp; Zhao, Y. (2017). Therapeutic nanoparticles based on curcumin   and   bamboo   charcoal   nanoparticles   for chemo-photothermal   synergistic   treatment   of   cancer
-- and   radioprotection   of   normal   cells. ACS   Applied Materials &amp; Interfaces , 9(16), 14281-14291.
-- Xu, G., Wang, L., Liu, J., Hu, S. (2013). Decay resistance and thermal stability of bamboo preservatives prepared using camphor leaf extract. International Biodeterioration &amp; Biodegradation , 78, 103-107.
-- Xu, Q., Harries, K., Li, X., Liu, Q., &amp; Gottron, J. (2014). Mechanical properties of structural bamboo following immersion in water. Engineering Structures ,   81,   230239.
-- Yang, X., Tian, G., Shang, L., Lv, H., &amp; Yang, S. (2014). Variation   in   the   cell   wall   mechanical   properties   of Dendrocalamus farinosus bamboo by nanoindentation. BioResources , 9(2), 2289-2298.
-- Yan-hui, H., Ben-hua, F., Yan Y., &amp; Rong-jun, Z. (2012). Plant   age   effect   on   mechanical   properties   of   moso bamboo ( Phyllostachys heterocycle var. pubescens ) single fibers. Wood and Fiber Science , 44 (2), 196-201.
-- Yu, H. Q., Jiang, Z. H., Hse, C. Y., &amp; Shupe, T. F . (2008). Selected physical and mechanical properties of moso bamboo ( Phyllostachys   pubescens ). Journal   of  Tropical Forest Science , 20(4), 258-263.
-- Zaragoza-Hernández,   I.,   Ordóñez-Candelaria,   V.   R., Bárcenas-Pazos, G. M., Borja-de la Rosa, A. M., &amp; Zamudio-Sánchez,   F.   J.   (2015).   Propiedades   físicomecánicas de una guadua mexicana ( Guadua aculeata ). Maderas. Ciencia y T ecnología , 17(3), 505-516.
-- Zheng J., Zhang, F., Song, J., Lin, M., &amp; Kan, J. (2013). Effect of blanching and drying treatments on quality of bamboo   shoot   slices. International   Journal   of   Food Science and T echnology , 49, 531-540.
-- Zhou, F.C. (1981). Studies on physical and mechanical properties   of   bamboo   woods. Journal   of   Nanjing Forestry University , 2: 1-32.
-- Zimmerman, J. B., Mihelcic, J. R., &amp; Smith, J. (2008). Global   stressors   on   water   quality   and   quantity. Environmental   Science   &amp;  T echnology ,   42(12),   42474254.
+- <img src="assets/icons/human_16_black.svg" width="18px"> Trujillo,   D.   (2018).   Developments   in   structural   design standards   with   bamboo.   World   Bamboo   Congress Keynote Presentation. Xalapa, Mexico.
+- <img src="assets/icons/human_20_black.svg" width="18px"> Trujillo,   O.   E.,   &amp;   Wang,   T .   H.   (2015).   Parametric Modeling   of   Bamboo   Pole   Joints.   In International Conference   on   Computer-Aided   Architectural   Design Futures , 272-290. Springer, Berlin, Heidelberg.
+- <img src="assets/icons/human_05_black.svg" width="18px"> Ubidia, J.A.M. (2002). Traditional bamboo preservation methods in Latin America. International Network for Bamboo and Rattan - <img src="assets/icons/human_05_black.svg" width="18px"> INBAR. Faculty of Architecture, University of Guayaquil, Ecuador.
+- <img src="assets/icons/human_09_black.svg" width="18px"> Valero, S.W., Reyes, E., Contreras, W. (2005). Estudio de las   propiedades   físicas   y   mecánicas   des   bambú ( Bambusa vulgaris ), de tres años de edad y proveniente de las plantaciones ubicadas en la ribera de la margen derecho   del   rio   Chama,   municipio   Francisco   Javier Pulgar, estado Pulgar, estado Zuilia, Venezuela. Revista Forestal Latinoamericana , 37, 87-107.
+- <img src="assets/icons/human_07_black.svg" width="18px"> Verma, C.S. &amp; Chariar, V.M. (2012). Development of layered   laminate   bamboo   composite   and   their mechanical properties. Composites Part B: Engineering , 43, 1063-1069.
+- <img src="assets/icons/human_17_black.svg" width="18px"> Wahab, R. Moktar, J., Sudin, M., Samsi, H.W. (2006). Strength properties of preservative treated Gigantochloa scortechinii after   vacuum   impregnation   process. International Journal of Agricultural Research , 1(1), 813.
+- <img src="assets/icons/human_03_black.svg" width="18px"> Wahab,   R.,   Samsi,   H.W.,   Sulaiman,   O.,   Salim,   R.   &amp; Hashim, R. (2007). Properties of oil-cured cultivated Bambusa vulgaris . International Journal of Agricultural Research , 2(9), 820-825.
+- <img src="assets/icons/human_08_black.svg" width="18px"> Wakchaure, M.R. &amp; Kute, S.Y. (2012). Effect of moisture content   on   physical   and   mechanical   properties   of bamboo. Asian Journal of Civil Engineering (Building and Housing) , 13(6), 753-763.
+- <img src="assets/icons/human_06_black.svg" width="18px"> Wang, H., Li, W., Ren, D., Yu, Z., Yu, Y. (2014). A twovariable model for predicting the effects of moisture content and density on compressive strength parallel to the grain for moso bamboo. Journal of Wood Science , 60(5), 362-366.
+- <img src="assets/icons/human_15_black.svg" width="18px"> Wistara, N. J., Purnamasari, D. A., &amp; Indrawan, D. A. (2017). The properties of bamboo and old corrugated containers   pulp   mixture. Jurnal   Ilmu   dan  T eknologi Kayu Tropis , 10(2), 112-121.
+- <img src="assets/icons/human_19_black.svg" width="18px"> Xie, J., Yong, Y., Dong, X., Du, J., Guo, Z., Gong, L., ... &amp; Zhao, Y. (2017). Therapeutic nanoparticles based on curcumin   and   bamboo   charcoal   nanoparticles   for chemo-photothermal   synergistic   treatment   of   cancer
+- <img src="assets/icons/human_02_black.svg" width="18px"> and   radioprotection   of   normal   cells. ACS   Applied Materials &amp; Interfaces , 9(16), 14281-14291.
+- <img src="assets/icons/human_01_black.svg" width="18px"> Xu, G., Wang, L., Liu, J., Hu, S. (2013). Decay resistance and thermal stability of bamboo preservatives prepared using camphor leaf extract. International Biodeterioration &amp; Biodegradation , 78, 103-107.
+- <img src="assets/icons/human_14_black.svg" width="18px"> Xu, Q., Harries, K., Li, X., Liu, Q., &amp; Gottron, J. (2014). Mechanical properties of structural bamboo following immersion in water. Engineering Structures ,   81,   230239.
+- <img src="assets/icons/human_11_black.svg" width="18px"> Yang, X., Tian, G., Shang, L., Lv, H., &amp; Yang, S. (2014). Variation   in   the   cell   wall   mechanical   properties   of Dendrocalamus farinosus bamboo by nanoindentation. BioResources , 9(2), 2289-2298.
+- <img src="assets/icons/human_12_black.svg" width="18px"> Yan-hui, H., Ben-hua, F., Yan Y., &amp; Rong-jun, Z. (2012). Plant   age   effect   on   mechanical   properties   of   moso bamboo ( Phyllostachys heterocycle var. pubescens ) single fibers. Wood and Fiber Science , 44 (2), 196-201.
+- <img src="assets/icons/human_18_black.svg" width="18px"> Yu, H. Q., Jiang, Z. H., Hse, C. Y., &amp; Shupe, T. F . (2008). Selected physical and mechanical properties of moso bamboo ( Phyllostachys   pubescens ). Journal   of  Tropical Forest Science , 20(4), 258-263.
+- <img src="assets/icons/human_10_black.svg" width="18px"> Zaragoza-Hernández,   I.,   Ordóñez-Candelaria,   V.   R., Bárcenas-Pazos, G. M., Borja-de la Rosa, A. M., &amp; Zamudio-Sánchez,   F.   J.   (2015).   Propiedades   físicomecánicas de una guadua mexicana ( Guadua aculeata ). Maderas. Ciencia y T ecnología , 17(3), 505-516.
+- <img src="assets/icons/human_04_black.svg" width="18px"> Zheng J., Zhang, F., Song, J., Lin, M., &amp; Kan, J. (2013). Effect of blanching and drying treatments on quality of bamboo   shoot   slices. International   Journal   of   Food Science and T echnology , 49, 531-540.
+- <img src="assets/icons/human_13_black.svg" width="18px"> Zhou, F.C. (1981). Studies on physical and mechanical properties   of   bamboo   woods. Journal   of   Nanjing Forestry University , 2: 1-32.
+- <img src="assets/icons/human_16_black.svg" width="18px"> Zimmerman, J. B., Mihelcic, J. R., &amp; Smith, J. (2008). Global   stressors   on   water   quality   and   quantity. Environmental   Science   &amp;  T echnology ,   42(12),   42474254.
 
 View publication stats
 
@@ -1049,3 +1071,14 @@ The 43 peer-reviewed publications from which the data for Figures 1-9 were obtai
 | Zaragoza-Hernandez et al 2015 |       | ×     | ×     |       | ×     | ×     | ×     |
 
 <!-- image -->
+
+---
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

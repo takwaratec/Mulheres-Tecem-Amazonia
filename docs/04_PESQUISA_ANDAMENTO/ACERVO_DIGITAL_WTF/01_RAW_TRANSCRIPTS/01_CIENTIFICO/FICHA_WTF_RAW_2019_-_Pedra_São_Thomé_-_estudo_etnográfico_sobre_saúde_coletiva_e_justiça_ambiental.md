@@ -1,3 +1,25 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFRR/UFAC
+tipo: Documento de Acervo
+referencia: FICHA_WTF_RAW_2019_-_Pedra_São_Thomé_-_estudo_etnográfico_sobre_saúde_coletiva_e_justiça_ambiental.md
+status: Em Revisão
+author:
+- name: Consórcio UnB/UFRR/UFAC
+---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"A força do lugar é a força do mundo."<br>— Milton Santos</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: FICHA_WTF_RAW_2019_-_Pedra_São_Thomé_-_estudo_etnográfico_sobre_saúde_coletiva_e_justiça_ambiental.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 NAO
 
 ### 1. METADADOS E CABEÇALHO
@@ -39,3 +61,14 @@ A atividade de mineração, incluindo a de não-metálicos, tem uma participaç�
 
 ### 4. Extrair Bibliografia citada no texto
 Nenhuma referência bibliográfica externa é citada explicitamente no fragmento de texto fornecido. O texto contém os metadados de sua própria publicação.
+
+---
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

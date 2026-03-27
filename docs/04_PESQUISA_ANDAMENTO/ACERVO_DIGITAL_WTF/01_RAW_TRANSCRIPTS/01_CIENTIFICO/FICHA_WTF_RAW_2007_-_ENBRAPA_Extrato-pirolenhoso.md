@@ -1,3 +1,25 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFRR/UFAC
+tipo: Documento de Acervo
+referencia: FICHA_WTF_RAW_2007_-_ENBRAPA_Extrato-pirolenhoso.md
+status: Em Revisão
+author:
+- name: Consórcio UnB/UFRR/UFAC
+---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"A educação não transforma o mundo. Educação muda as pessoas. Pessoas mudam o mundo."<br>— Paulo Freire</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: FICHA_WTF_RAW_2007_-_ENBRAPA_Extrato-pirolenhoso.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 SIM
 
 ### 1. METADADOS E CABEÇALHO
@@ -11,8 +33,8 @@ REFERÊNCIA BIBLIOGRÁFICA (ABNT):
 CAMPOS, Ângela Diniz. **Técnicas para Produção de Extrato Pirolenhoso para Uso Agrícola**. Pelotas, RS: Ministério da Agricultura, Pecuária e Abastecimento, Embrapa Clima Temperado, 2007.
 
 ### 2. TRADUÇÃO E SÍNTESE TÉCNICA
-- **Resumo Sintetizado:** O documento técnico descreve a pirólise, um processo de decomposição térmica de materiais contendo carbono (biomassa como madeira e resíduos agrícolas) na ausência de oxigênio, que resulta em carvão vegetal (fase sólida), gases (fase gasosa) e extrato pirolenhoso (fase líquida). O foco principal é o extrato pirolenhoso, também conhecido como vinagre de madeira, bio-óleo, entre outros, e suas aplicações na agricultura, incluindo o histórico de sua produção e uso global. Destaca-se a composição complexa do extrato e sua crescente atenção como alternativa natural em diversas áreas.
-- **Palavras-chave em português:**
+- <img src="assets/icons/human_09_black.svg" width="18px"> **Resumo Sintetizado:** <img src="assets/icons/human_09_black.svg" width="18px"> O documento técnico descreve a pirólise, um processo de decomposição térmica de materiais contendo carbono (biomassa como madeira e resíduos agrícolas) na ausência de oxigênio, que resulta em carvão vegetal (fase sólida), gases (fase gasosa) e extrato pirolenhoso (fase líquida). O foco principal é o extrato pirolenhoso, também conhecido como vinagre de madeira, bio-óleo, entre outros, e suas aplicações na agricultura, incluindo o histórico de sua produção e uso global. Destaca-se a composição complexa do extrato e sua crescente atenção como alternativa natural em diversas áreas.
+- <img src="assets/icons/human_05_black.svg" width="18px"> **Palavras-chave em português:**
     1.  Pirólise
     2.  Extrato Pirolenhoso
     3.  Biomassa
@@ -45,3 +67,14 @@ As referências bibliográficas completas para as citações abaixo não estão 
 2.  FAO. **Documento da FAO**. [S.l.]: FAO, 1987.
 3.  GOOS, G. [Referência não detalhada no texto]. 1952.
 4.  YASUHARA, A.; SUGIURA, N. [Referência não detalhada no texto]. 1987.
+
+---
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

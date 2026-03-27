@@ -9,6 +9,18 @@ author:
 date: '2026-03-26'
 ---
 
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+
+<p align="right"><i>"O real não está na saída nem na chegada: ele se dispõe para a gente é no meio da travessia."<br>— Guimarães Rosa</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: GOV_GLOSSARIO_PREFIXOS.md
+*   **Status**: Status Consolidado
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 # Glossário de Prefixos e Protocolo de Status (Mulheres que Tecem a Floresta)
 
 Este documento define a taxonomia oficial para a organização do acervo técnico e documental do projeto.
@@ -35,45 +47,37 @@ Este documento define a taxonomia oficial para a organização do acervo técnic
 | **VP** | Vapor | Termodinâmica e propulsão fluvial (Mecânica de Vapor). |
 | **MD** | Mem. Descritivo | Detalhamento exaustivo para fins de Patente Social. |
 
----
-
 ## 3. Protocolo de Status (Visual Badges)
 
 Utilizaremos badges dinâmicos para indicar a prontidão do documento para o fluxo oficial:
 
 | Status | Badge Markdown | Significado |
 | :--- | :--- | :--- |
-| **Status Ready** | `![Status: Ready](https://img.shields.io/badge/Status-Ready-brightgreen)` | **Pronto**: Higienizado e sincronizado (Biblio/Zenodo). |
-| **Em Revisão** | `![Status: Revisão](https://img.shields.io/badge/Status-Revisão-orange)` | **Aguardando**: Em fase de auditoria editorial ou técnica. |
-| **Consolidado** | `![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-blue)` | **Finalizado**: Documento mestre aprovado. |
-| **Rascunho** | `![Status: Rascunho](https://img.shields.io/badge/Status-Rascunho-lightgrey)` | **Draft**: Fase inicial de redação. |
-
----
+| **Status Ready** | `` | **Pronto**: Higienizado e sincronizado (Biblio/Zenodo). |
+| **Em Revisão** | `` | **Aguardando**: Em fase de auditoria editorial ou técnica. |
+| **Consolidado** | `` | **Finalizado**: Documento mestre aprovado. |
+| **Rascunho** | `` | **Draft**: Fase inicial de redação. |
 
 ## 4. Estrutura do Cabeçalho YAML (Modelo Final)
 
 ```yaml
----
 projeto: Mulheres Que Tecem a Floresta 
 instituicao: Consórcio UnB/UFRR/UFAC
 tipo: [CATEGORIA DO GLOSSÁRIO]
 referencia: [PREFIXO]-[ID]-[ANO]
 status: Status Ready
 author:
-- name: [NOME DO AUTOR ou Consórcio UnB/UFRR/UFAC]
+- <img src="assets/icons/human_11_black.svg" width="18px"> name: [NOME DO AUTOR ou Consórcio UnB/UFRR/UFAC]
   affiliation: [APENAS SE HOUVER DOI]
   orcid: [APENAS SE HOUVER DOI]
 date: '2026-03-24'
 doi: [SE EXISTIR]
----
 ```
 > [!IMPORTANT]
 > **Regras de Autoria e Afiliação**:
 > 1. **Documentos de Governança/Orçamento**: Não possuem autoria individual. O campo `author.name` deve ser preenchido como `Consórcio UnB/UFRR/UFAC`.
 > 2. **Inventos com DOI**: Possuem autoria individual (`Institucional, Fabio Resck`), `affiliation` e `orcid` completos.
 > 3. **Inventos SEM DOI**: Possuem autoria individual (`Institucional, Fabio Resck`), mas **Omitir** o campo `affiliation` para manter a flexibilidade da Patente Social até a publicação definitiva.
-
----
 
 ## 5. Estratégia de Revisão e "Mão à Obra"
 
@@ -85,12 +89,20 @@ Seguiremos o fluxo de revisão por blocos de diretórios para garantir o rigor e
 4.  **Bloco 4: 02_DIAGNOSTICO%20DE%20AREA**: Estudos, pesquisas e bibliografia.
 
 **Cada ciclo de revisão inclui:**
-- Aplicação do cabeçalho YAML padronizado.
-- Inserção do badge `Status Ready` abaixo do título H1.
-- Higiene Editorial (Substituição de "WTF" e reset de versões para v1.0).
-- Correção de tabelas Markdown.
+- <img src="assets/icons/human_16_black.svg" width="18px"> Aplicação do cabeçalho YAML padronizado.
+- <img src="assets/icons/human_09_black.svg" width="18px"> Inserção do badge `Status Ready` abaixo do título H1.
+- <img src="assets/icons/human_07_black.svg" width="18px"> Higiene Editorial (Substituição de "WTF" e reset de versões para v1.0).
+- <img src="assets/icons/human_20_black.svg" width="18px"> Correção de tabelas Markdown.
 > [!NOTE]
 > O badge de status deve ser colocado logo abaixo do título principal (#) no corpo do documento Markdown.
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

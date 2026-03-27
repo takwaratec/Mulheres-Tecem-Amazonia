@@ -9,25 +9,33 @@ author:
 date: '2026-03-26'
 ---
 
-Olá! Como Pesquisador Sênior e Analista de Dados do Projeto WTF (Mulheres Que Tecem a Floresta), realizei a análise do texto bruto e converti-o em uma FICHA CIENTÍFICA ESTRUTURADA, conforme solicitado.
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
----
+<p align="right"><i>"O céu está caindo porque os brancos não param de comer a terra."<br>— Davi Kopenawa</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: FICHA_Da Floresta ao Valor.md
+*   **Status**: Status Consolidado
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
+Olá! Como Pesquisador Sênior e Analista de Dados do Projeto WTF (Mulheres Que Tecem a Floresta), realizei a análise do texto bruto e converti-o em uma FICHA CIENTÍFICA ESTRUTURADA, conforme solicitado.
 
 ## FICHA CIENTÍFICA ESTRUTURADA - PROJETO WTF
 
 ### 1. METADADOS E CABEÇALHO
 
-*   **Projeto:** Mulheres Que Tecem a Floresta
-*   **Instituição:** Consórcio UnB/UFRR/UFAC
-*   **Tipo:** Pesquisa: Amazônia Setentrional (PES)
-*   **Referência Interna:** PES-TEC-5204-2026
-*   **Status:** Ready
+* <img src="assets/icons/human_14_black.svg" width="18px">   **Projeto:** <img src="assets/icons/human_14_black.svg" width="18px"> Mulheres Que Tecem a Floresta
+* <img src="assets/icons/human_12_black.svg" width="18px">   **Instituição:** <img src="assets/icons/human_12_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
+* <img src="assets/icons/human_07_black.svg" width="18px">   **Tipo:** <img src="assets/icons/human_07_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
+* <img src="assets/icons/human_01_black.svg" width="18px">   **Referência Interna:** <img src="assets/icons/human_01_black.svg" width="18px"> PES-TEC-5204-2026
+* <img src="assets/icons/human_08_black.svg" width="18px">   **Status:** <img src="assets/icons/human_08_black.svg" width="18px"> Ready
 
 **REFERÊNCIA BIBLIOGRÁFICA (ABNT) - Documento Analisado:**
 
 GALA, Paulo. Da Floresta ao Valor: Como o Acre Pode Liderar a Nova Economia Verde de Alta Complexidade. *Economia & Finanças*, 18 mar. 2026. Disponível em: https://www.paulogala.com.br/da-floresta-ao-valor-como-o-acre-pode-liderar-a-nova-economia-verde-de-alta-complexidade/. Acesso em: 24 mar. 2026.
-
----
 
 ### 2. TRADUÇÃO E SÍNTESE TÉCNICA
 
@@ -39,8 +47,6 @@ O artigo "Da Floresta ao Valor: Como o Acre Pode Liderar a Nova Economia Verde d
 1.  Bioeconomia
 2.  Valor Agregado
 3.  Amazônia (Acre)
-
----
 
 ### 3. EXTRAÇÃO DE DADOS (TABELA)
 
@@ -58,25 +64,21 @@ O artigo "Da Floresta ao Valor: Como o Acre Pode Liderar a Nova Economia Verde d
 | **Inovação e P&D**         | Investimento decisivo para identificar moléculas, propriedades e aplicações industriais, via parcerias universidade-empresa e projetos piloto. |
 | **Mecanismos de Fomento**  | Compras públicas, linhas de crédito (blend finance), fundos de inovação para atrair investimentos e reduzir riscos. |
 
----
-
 ### 4. RELAÇÃO COM O PROJETO (CONEXÃO WTF)
 
-*   **Como isso beneficia as mulheres extrativistas?**
+* <img src="assets/icons/human_09_black.svg" width="18px">   **Como isso beneficia as mulheres extrativistas?**
     A proposta de uma economia verde de alta complexidade beneficia diretamente as mulheres extrativistas ao transformar a maneira como os recursos da floresta são valorizados. Ao invés de apenas extrair e vender commodities, a agenda sugere o desenvolvimento de produtos com maior valor agregado (cosméticos naturais, bioinsumos, alimentos funcionais, produtos farmacêuticos), certificados e com rastreabilidade digital. Isso se traduz em:
-    *   **Aumento da renda:** Produtos mais sofisticados e certificados alcançam mercados que pagam preços premium.
-    *   **Melhora das condições de trabalho:** O processamento local e a agregação de valor podem gerar empregos mais qualificados e estáveis nas comunidades.
-    *   **Autonomia econômica:** O acesso a novas tecnologias e mercados empodera as mulheres, tornando-as protagonistas de cadeias produtivas mais justas e sustentáveis.
-    *   **Reconhecimento:** A certificação e rastreabilidade podem destacar a origem do trabalho extrativista, valorizando o papel das mulheres na conservação e produção sustentável.
+    * <img src="assets/icons/human_02_black.svg" width="18px">   **Aumento da renda:** <img src="assets/icons/human_02_black.svg" width="18px"> Produtos mais sofisticados e certificados alcançam mercados que pagam preços premium.
+    * <img src="assets/icons/human_11_black.svg" width="18px">   **Melhora das condições de trabalho:** <img src="assets/icons/human_11_black.svg" width="18px"> O processamento local e a agregação de valor podem gerar empregos mais qualificados e estáveis nas comunidades.
+    * <img src="assets/icons/human_16_black.svg" width="18px">   **Autonomia econômica:** <img src="assets/icons/human_16_black.svg" width="18px"> O acesso a novas tecnologias e mercados empodera as mulheres, tornando-as protagonistas de cadeias produtivas mais justas e sustentáveis.
+    * <img src="assets/icons/human_15_black.svg" width="18px">   **Reconhecimento:** <img src="assets/icons/human_15_black.svg" width="18px"> A certificação e rastreabilidade podem destacar a origem do trabalho extrativista, valorizando o papel das mulheres na conservação e produção sustentável.
 
-*   **Relação com saberes ancestrais (Tania, Sonia, Georgia).**
+* <img src="assets/icons/human_03_black.svg" width="18px">   **Relação com saberes ancestrais (Tania, Sonia, Georgia).**
     A relação é intrínseca e fundamental. Os saberes ancestrais, muitas vezes detidos e transmitidos por mulheres como Tania, Sonia e Georgia, são a base para a identificação, manejo sustentável e uso dos recursos da biodiversidade amazônica. São esses conhecimentos que permitem:
-    *   **Identificação de bioativos:** O conhecimento tradicional é crucial para reconhecer plantas, frutos, sementes e suas propriedades, que são a matéria-prima para a bioeconomia de alta complexidade.
-    *   **Manejo sustentável:** As práticas extrativistas tradicionais garantem a conservação da floresta e a perenidade dos recursos, essenciais para a manutenção dessa "plataforma de inovação" proposta pelo artigo.
-    *   **Validação de usos:** Os usos tradicionais de plantas e recursos podem guiar pesquisas e o desenvolvimento de novos produtos, combinando ciência moderna com eficácia comprovada ao longo de gerações.
+    * <img src="assets/icons/human_17_black.svg" width="18px">   **Identificação de bioativos:** <img src="assets/icons/human_17_black.svg" width="18px"> O conhecimento tradicional é crucial para reconhecer plantas, frutos, sementes e suas propriedades, que são a matéria-prima para a bioeconomia de alta complexidade.
+    * <img src="assets/icons/human_18_black.svg" width="18px">   **Manejo sustentável:** <img src="assets/icons/human_18_black.svg" width="18px"> As práticas extrativistas tradicionais garantem a conservação da floresta e a perenidade dos recursos, essenciais para a manutenção dessa "plataforma de inovação" proposta pelo artigo.
+    * <img src="assets/icons/human_20_black.svg" width="18px">   **Validação de usos:** <img src="assets/icons/human_20_black.svg" width="18px"> Os usos tradicionais de plantas e recursos podem guiar pesquisas e o desenvolvimento de novos produtos, combinando ciência moderna com eficácia comprovada ao longo de gerações.
     A valorização dos "produtos verdes" e da "floresta em pé" significa valorizar as pessoas que a mantêm e a conhecem profundamente, tornando os saberes ancestrais um capital intelectual insubstituível para a nova economia amazônica.
-
----
 
 ### 5. Extrair Bibliografia citada no texto
 
@@ -104,4 +106,10 @@ O texto fornecido, sendo um artigo de blog/plataforma online, promove diversas o
 ---
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

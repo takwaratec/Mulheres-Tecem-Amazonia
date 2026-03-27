@@ -10,23 +10,33 @@ author:
 date: '2026-03-24'
 ---
 
-# Memorando Técnico: Gestão de Resíduos e Economia Circular (Eixo Acre)
-![Status: Ready](https://img.shields.io/badge/Status-Ready-brightgreen)
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
+<p align="right"><i>"A ciência não é apenas um corpo de conhecimento, é um modo de pensar."<br>— Marcelo Gleiser</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: ENG-MEM-004_RESIDUOS-SOLIDARIOS-ACRE.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
+# Memorando Técnico: Gestão de Resíduos e Economia Circular (Eixo Acre)
 ## 1. Diagnóstico de Passivos Ambientais e Epidemiológicos
 
 A inação na gestão de resíduos sólidos no Acre gera um "Custo Social de Saúde" estimado em **R$ 174 milhões anuais** devido a internações por doenças de veiculação hídrica (DRSAI) [10]. Este passivo é alimentado pela ausência de infraestrutura de destinação final, onde **95% dos municípios** ainda operam lixões a céu aberto [11].
 
-- **Poluição Plástica**: O Rio Amazonas despeja **182.000 t/ano** de plásticos nos oceanos [1]. No Acre, o descarte irregular em comunidades isoladas e áreas de várzea compromete a biossegurança dos ecossistemas fluviais.
-- **Taxa de Recuperação**: Atualmente inferior a **5%** regionalmente [2], devido ao "Custo Amazônia" e ao gargalo do frete reverso para centros de reciclagem no Centro-Sul.
+- <img src="assets/icons/human_05_black.svg" width="18px"> **Poluição Plástica**: O Rio Amazonas despeja **182.000 t/ano** <img src="assets/icons/human_05_black.svg" width="18px"> de plásticos nos oceanos [1]. No Acre, o descarte irregular em comunidades isoladas e áreas de várzea compromete a biossegurança dos ecossistemas fluviais.
+- <img src="assets/icons/human_12_black.svg" width="18px"> **Taxa de Recuperação**: Atualmente inferior a **5%** <img src="assets/icons/human_12_black.svg" width="18px"> regionalmente [2], devido ao "Custo Amazônia" e ao gargalo do frete reverso para centros de reciclagem no Centro-Sul.
 
 ## 2. Inventário de Ativos Críticos: Biomassa e Polímeros
 
 O Projeto Mulheres que Tecem a Floresta identifica o resíduo não como lixo, mas como **Ativo de Defesa Territorial**:
 
-- **Bambu Guadua spp.**: Sobrevivência sincronizada a cada 27-28 anos gera acúmulo de biomassa seca (combustível de fogo). O Acre possui **~17,8 milhões de toneladas** de biomassa de bambu disponível [87].
-- **Resíduos Extrativistas**: Potencial de geração de energia e biochar a partir de cascas de castanha e caroços de açaí (Resistência ao cisalhamento do biocompósito PU/Mamona superior a **resinas sintéticas** [41]).
-- **Polímeros Urbanos (PET/PEAD)**: Meta de incorporação de **30% de polímero reciclado** em matrizes de argila e biopoliuretano para produção de habitação e saneamento ecológico (BSM/BER) [75].
+- <img src="assets/icons/human_01_black.svg" width="18px"> **Bambu Guadua spp.**: Sobrevivência sincronizada a cada 27-28 anos gera acúmulo de biomassa seca (combustível de fogo). O Acre possui **~17,8 milhões de toneladas** <img src="assets/icons/human_01_black.svg" width="18px"> de biomassa de bambu disponível [87].
+- <img src="assets/icons/human_20_black.svg" width="18px"> **Resíduos Extrativistas**: Potencial de geração de energia e biochar a partir de cascas de castanha e caroços de açaí (Resistência ao cisalhamento do biocompósito PU/Mamona superior a **resinas sintéticas** <img src="assets/icons/human_20_black.svg" width="18px"> [41]).
+- <img src="assets/icons/human_17_black.svg" width="18px"> **Polímeros Urbanos (PET/PEAD)**: Meta de incorporação de **30% de polímero reciclado** <img src="assets/icons/human_17_black.svg" width="18px"> em matrizes de argila e biopoliuretano para produção de habitação e saneamento ecológico (BSM/BER) [75].
 
 ## 3. Engenharia de Intervenção: Biorrefinaria Bio-Soberana
 
@@ -36,14 +46,14 @@ A estratégia Mulheres que Tecem a Floresta propõe a **Descentralização Indus
 2. **Solda Vegetal (PU Mamona)**: Uso de polímero de mamona para vedação de fibras e selagem de biocompósitos, eliminando o uso de Arseniato de Cobre Cromatado (CCA) e Sais de Boro lixiviáveis [40].
 3. **Módulo Bio-Tijolo Lego**: Transformação de plásticos triturados em encaixes estruturais para moradias de Assistência Técnica (ATHIS - Lei 11.888/2008) [20].
 
-## 4. Estratégia de Geolocalização Industrial (SGMAS)
+## 4. Estratégia de Geolocalização Industrial ()
 
 O escoamento e beneficiamento seguem a malha de Bio-Soberania (**ENG-MEM-009**):
-- **Polos de Pré-Beneficiamento**: Mâncio Lima e Cruzeiro do Sul (Grinding/Wash N1).
-- **Central de Produção (Moldagem)**: Rio Branco (N2).
-- **Logística Reversa**: Convênios com a **ASCCRUS** para fornecimento de matéria-prima polimérica.
+- <img src="assets/icons/human_11_black.svg" width="18px"> **Polos de Pré-Beneficiamento**: Mâncio Lima e Cruzeiro do Sul (Grinding/Wash N1).
+- <img src="assets/icons/human_06_black.svg" width="18px"> **Central de Produção (Moldagem)**: Rio Branco (N2).
+- <img src="assets/icons/human_03_black.svg" width="18px"> **Logística Reversa**: Convênios com a **ASCCRUS** <img src="assets/icons/human_03_black.svg" width="18px"> para fornecimento de matéria-prima polimérica.
 
-## 5. Dados Básicos para SGMAS (Métricas Municipais)
+## 5. Dados Básicos para  (Métricas Municipais)
 
 | Município | População (2024) | Geração Estimada (t/dia)* | Coordenadas |
 | :--- | :--- | :--- | :--- |
@@ -68,9 +78,12 @@ O escoamento e beneficiamento seguem a malha de Bio-Soberania (**ENG-MEM-009**):
 9.  **Referência**: [WTF_PROJETO_INTEGRADO.md](../../../../01_GOVERNANCA/WTF_PROJETO_INTEGRADO.md)
 
 ---
-**Nota**: Este documento substitui a versão v1.0 e serve como base de dados para o BoM das unidades de biorrefinaria móvel (ENG-MEM-006).
-
-*Refinado sob Protocolo Advocacy Mulheres que Tecem a Floresta (IA-Free) - Março 2026.*
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

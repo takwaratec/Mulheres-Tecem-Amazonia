@@ -19,13 +19,23 @@ type: Memorial de Patente
 version: '5.1'
 ---
 
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"A vida é curta, a arte é longa."<br>— Machado de Assis</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: ENG_memorial-patente-frangueira-industrial.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 # Memorial Jurídico: Resinador Rotativo Industrial "Frangueira" T03
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ![Status](https://img.shields.io/badge/status-Finalizado%20(Advocacy)-blue)
-
----
 
 ## 1. Relatório Descritivo de Patente de Invenção
 
@@ -38,8 +48,6 @@ A aplicação de resinas de alto brilho (biopolímeros) em colmos de bambu sofre
 ### 1.3 Solução Proposta (A "Frangueira")
 A invenção apresenta um sistema de rotisseria industrial multi-eixo configurado em módulos de 12 unidades. O diferencial técnico reside nas **Ponteiras Cônicas de Autoajuste**, compostas de elastômero semi-emborrachado que se acoplam ao lúmen (cavidade interna) do bambu. A transmissão de força é garantida por um sistema de **catracas dentadas de torque gradual**, que impede o escorregamento axial da peça durante o giro perene. Na escala industrial, o sistema utiliza **polias individuais com embreagem manual**, permitindo que o operador interrompa a rotação de uma única vara para inspeção ou retoque sem paralisar o lote completo.
 
----
-
 ## 2. Descrição Detalhada e Mecânica Operacional
 
 ### 2.1 Módulos de Tração e Fixação
@@ -50,24 +58,18 @@ O equipamento é estruturado em pórticos de aço ASTM A36. Cada eixo de rotaç�
 
 ### 2.2 Gestão de Cura e Fluxo
 O sistema é otimizado para o **"Gel-Time"** do biopolímero (aprox. 2 horas). Cada módulo de 12 varas é sincronizado com a taxa de saída da Unidade de Tratamento T02. Para o acabamento *High-End*, o layout inclui:
-- **Espaçamento Anti-Sombra:** Hastes de ponteira alongadas que minimizam o contato com o colmo, permitindo que a aspersão *Airless* cubra 99% da superfície.
-- **Parede de Absorção:** Sistema de ventilação negativa para coleta de *overspray* de resina.
-- **Acionamento Manual:** Terminal redundante para rotação manual em caso de falha de energia, vital para salvar o lote durante o estágio de endurecimento.
-
----
+- <img src="assets/icons/human_18_black.svg" width="18px"> **Espaçamento Anti-Sombra:** <img src="assets/icons/human_18_black.svg" width="18px"> Hastes de ponteira alongadas que minimizam o contato com o colmo, permitindo que a aspersão *Airless* <img src="assets/icons/human_18_black.svg" width="18px"> cubra 99% da superfície.
+- <img src="assets/icons/human_15_black.svg" width="18px"> **Parede de Absorção:** <img src="assets/icons/human_15_black.svg" width="18px"> Sistema de ventilação negativa para coleta de *overspray* <img src="assets/icons/human_15_black.svg" width="18px"> de resina.
+- <img src="assets/icons/human_05_black.svg" width="18px"> **Acionamento Manual:** <img src="assets/icons/human_05_black.svg" width="18px"> Terminal redundante para rotação manual em caso de falha de energia, vital para salvar o lote durante o estágio de endurecimento.
 
 ## 3. Bill of Materials (BoM) - Especialidades
-- **Eixos e Rolamentos:** Aço Inox AISI 304 ou Aço SCH 80.
-- **Ponteiras:** Elastômero de poliuretano de dureza calibrada (Shore A 60-80).
-- **Motorização:** Motor elétrico IP55 (Blindado) com inversor de frequência para controle de RPM.
-- **Chasis:** Perfis em "U" de aço ASTM A36 com pintura epóxi anti-corrosiva.
-
----
+- <img src="assets/icons/human_16_black.svg" width="18px"> **Eixos e Rolamentos:** <img src="assets/icons/human_16_black.svg" width="18px"> Aço Inox AISI 304 ou Aço SCH 80.
+- <img src="assets/icons/human_19_black.svg" width="18px"> **Ponteiras:** <img src="assets/icons/human_19_black.svg" width="18px"> Elastômero de poliuretano de dureza calibrada (Shore A 60-80).
+- <img src="assets/icons/human_20_black.svg" width="18px"> **Motorização:** <img src="assets/icons/human_20_black.svg" width="18px"> Motor elétrico IP55 (Blindado) com inversor de frequência para controle de RPM.
+- <img src="assets/icons/human_07_black.svg" width="18px"> **Chasis:** <img src="assets/icons/human_07_black.svg" width="18px"> Perfis em "U" de aço ASTM A36 com pintura epóxi anti-corrosiva.
 
 ## 4. Cenário Imagético e Prompts (IAs)
 > **Prompt (EN):** Technical 3D render of an "Industrial Bamboo Rotisserie". A heavy-duty steel rack holding 12 bamboo culms in parallel, rotating simultaneously. Driven by a powerful gear reducer and individual pulleys. Integrated forced air heating vents at the base. High-gloss green resin finish on the bamboo. Engineering blueprint aesthetic mixed with hyper-realistic 3D rendering. Ultra-sharp focus on the gear and chain assembly.
-
----
 
 ## 5. Reivindicações
 
@@ -76,12 +78,18 @@ O sistema é otimizado para o **"Gel-Time"** do biopolímero (aprox. 2 horas). C
 3.  **SISTEMA**, de acordo com a reivindicação 1, caracterizado por possuir **transmissão individual via polias com embreagem de engate rápido**, permitindo a interrupção intermitente e independente de cada unidade do lote.
 4.  **SISTEMA**, de acordo com a reivindicação 1, caracterizado por possuir **terminais de acionamento manual redundante** acoplados aos eixos de rotação para manutenção do ciclo de cura em regime de emergência.
 
----
-
 ## Como Citar
 
 **APA:**
 Takwara, F. R. (2026). *Memorial Jurídico: Resinador Rotativo Industrial "Frangueira" T03* (Versão 5.1). Memorial de Patente — Núcleo Institucional / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

@@ -5,12 +5,24 @@ tipo: Nota Técnica (NT-001)
 referencia: ENG-NT-001-2026
 status: CONSOLIDADO (v1.0 Mulheres que Tecem a Floresta)
 author:
-- affiliation: Núcleo Institucional / Consórcio Consórcio UnB/UFRR/UFAC
+- affiliation: Núcleo Institucional 
   name: Institucional, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: "2026-03-07"
 doi: 10.5281/zenodo.18827106
 ---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"Arte sem ética não é arte."<br>— Ariano Suassuna</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: ENG-NT-001_ESTRATEGIA-MANEJO-BIORREFINARIA.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
 
 # NT-001: Estratégia de Manejo e Logística de Biorrefinaria Bioeconômica
 
@@ -29,7 +41,12 @@ O Reator T02 atua como o núcleo de refino, utilizando o extrato pirolenhoso (EP
 | **CVA (Ativado)** | Base de Carbono | ~150 kg | Funcionalização via EP concentrado. |
 
 ---
-**🎋 Takwara — Soberania Tecnológica e Carbono Negativo**
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

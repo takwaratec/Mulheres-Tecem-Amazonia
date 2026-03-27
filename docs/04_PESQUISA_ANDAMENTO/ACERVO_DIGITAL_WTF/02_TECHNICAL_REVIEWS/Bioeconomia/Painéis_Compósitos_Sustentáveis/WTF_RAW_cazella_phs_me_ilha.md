@@ -1,3 +1,23 @@
+---
+### Resumo
+
+A alta demanda de produtos para a construção civil e o crescente descarte de resíduos plásticos, florestais e agroindustriais motivaram o desenvolvimento deste trabalho e, considerando-se o aproveitamento desses resíduos, que podem possibilitar a proteção e manutenção de espécies florestais nativas, este trabalho avaliou a influência de partículas de Politereftalato de Etileno (PET) em misturas com partículas de madeira de Pinus elliottii, aglutinadas com Poliuretano derivado de óleo de mamona (PUR), para produção de painéis aglomerados. As partículas de madeira foram secas até atingirem 3% de umidade e, em seguida, elaborou-se quatro misturas com partículas de madeira e PET e uma mistura de referência sem PET. Foram produzidos 3 painéis para cada mistura com densidade nominal de 0,7 g/cm³, pressão de 5 MPa, temperatura de 110 °C e 10 min de tempo de prensagem. As propriedades físicas e mecânicas foram avaliadas utilizando-se a ABNT NBR 14810-2 (2018) e ANSI A208.1 (2016) e foram realizadas análises morfológicas por meio de Microscopia Eletrônica de Varredura (MEV). Os resultados foram avaliados por meio do teste de contraste de médias Tukey, ao nível de 5% de significância e, com base nas análises realizadas, verificou-se que as misturas com 50% Pinus, 50% PET e 10% de PUR apresentaram valores de 3,88% de inchamento em espessura; 28,79 MPa no módulo de resistência à flexão; 3159,15 MPa no módulo de elasticidade na flexão e 2,49 MPa na tração perpendicular, valores superiores aos mínimos exigidos pelos documentos normativos utilizados.
+
+**Palavras-chave:** painéis aglomerados; Pinus elliottii; PET; PUR.
+---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"A crise da educação no Brasil não é uma crise; é um projeto."<br>— Darcy Ribeiro</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: WTF_RAW_cazella_phs_me_ilha.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 **TAREFA 1: Avaliação de Relevância**
 
 **RELEVÂNCIA:** Este documento é altamente relevante para o Projeto Mulheres Que Tecem a Floresta. A pesquisa aborda a valorização de resíduos florestais (Pinus), plásticos (PET) e agroindustriais (óleo de mamona para adesivo PUR) na produção de painéis aglomerados. A motivação explícita no resumo, de que o aproveitamento desses resíduos "podem possibilitar a proteção e manutenção de espécies florestais nativas", alinha-se diretamente com os objetivos de sustentabilidade, bioeconomia e manejo de recursos florestais que o projeto provavelmente defende. A pesquisa contribui para o desenvolvimento de materiais de construção sustentáveis, reduzindo a pressão sobre florestas nativas e promovendo a economia circular.
@@ -18,15 +38,7 @@
 **Instituição:** Universidade Estadual Paulista "Júlio de Mesquita Filho" (UNESP), Faculdade de Engenharia, Câmpus de Ilha Solteira
 **Ano:** 2022
 
----
 
-### Resumo
-
-A alta demanda de produtos para a construção civil e o crescente descarte de resíduos plásticos, florestais e agroindustriais motivaram o desenvolvimento deste trabalho e, considerando-se o aproveitamento desses resíduos, que podem possibilitar a proteção e manutenção de espécies florestais nativas, este trabalho avaliou a influência de partículas de Politereftalato de Etileno (PET) em misturas com partículas de madeira de Pinus elliottii, aglutinadas com Poliuretano derivado de óleo de mamona (PUR), para produção de painéis aglomerados. As partículas de madeira foram secas até atingirem 3% de umidade e, em seguida, elaborou-se quatro misturas com partículas de madeira e PET e uma mistura de referência sem PET. Foram produzidos 3 painéis para cada mistura com densidade nominal de 0,7 g/cm³, pressão de 5 MPa, temperatura de 110 °C e 10 min de tempo de prensagem. As propriedades físicas e mecânicas foram avaliadas utilizando-se a ABNT NBR 14810-2 (2018) e ANSI A208.1 (2016) e foram realizadas análises morfológicas por meio de Microscopia Eletrônica de Varredura (MEV). Os resultados foram avaliados por meio do teste de contraste de médias Tukey, ao nível de 5% de significância e, com base nas análises realizadas, verificou-se que as misturas com 50% Pinus, 50% PET e 10% de PUR apresentaram valores de 3,88% de inchamento em espessura; 28,79 MPa no módulo de resistência à flexão; 3159,15 MPa no módulo de elasticidade na flexão e 2,49 MPa na tração perpendicular, valores superiores aos mínimos exigidos pelos documentos normativos utilizados.
-
-**Palavras-chave:** painéis aglomerados; Pinus elliottii; PET; PUR.
-
----
 
 ### Abstract
 
@@ -34,14 +46,10 @@ The high demand for products for civil construction and the increasing disposal 
 
 **Keywords:** Particleboard; Pinus elliottii; PET; Castor oil-based polyurethane adhesive.
 
----
-
 ### Dedicatória
 
 Dedico este trabalho ao meu pai Marcos, minha mãe Marlene e meu irmão Marcos.
 Também dedico a todos que torceram por mim nessa trajetória.
-
----
 
 ### Agradecimentos
 
@@ -66,83 +74,75 @@ Ao Departamento de Engenharia Civil – DEC e a todos os servidores.
 Agradeço a todos que auxiliaram direta ou indiretamente à produção deste trabalho.
 O presente trabalho foi realizado com apoio da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) - Código de Financiamento 001.
 
----
-
 ### Conteúdo
 
 _Nota do Bibliotecário: O texto bruto fornecido é uma transcrição parcial da dissertação, contendo a capa, folha de rosto, dedicatória, agradecimentos, resumo, listas de figuras e tabelas, e o sumário. As seções completas de introdução, revisão bibliográfica, materiais e métodos, resultados e discussão, conclusão e a bibliografia detalhada não estão presentes neste extrato RAW. As tabelas de dados e figuras mencionadas nas listas não estão incluídas no conteúdo textual integral fornecido, mas sua existência é sinalizada pelas listas._
 
----
-
 ### LISTA DE FIGURAS
 
-*   **Figura 1** – Esquemas de distribuição de partículas dos painéis aglomerados ..........22
-*   **Figura 2** – Área de florestas plantadas no Brasil.......................................................28
-*   **Figura 3** – Produção global anual de plástico em milhões de toneladas...................32
-*   **Figura 4** – Garrafas PET ...........................................................................................34
-*   **Figura 5** – Infográfico de aplicações para o PET reciclado .......................................35
-*   **Figura 6** – Maravalhas de Pinus elliottii.....................................................................41
-*   **Figura 7** – PET em flakes..........................................................................................42
-*   **Figura 8** – Painéis preliminares produzidos ..............................................................43
-*   **Figura 9** – Processamento de maravalhas no moinho de facas................................45
-*   **Figura 10** – Agitador elétrico de peneiras..................................................................46
-*   **Figura 11** – Agitador elétrico de peneiras para o ensaio de determinação da composição granulométrica.......................................................................................47
-*   **Figura 12** – Amostras do ensaio de determinação da composição granulométrica ..48
-*   **Figura 13** – Calibração do picnômetro ao fluido........................................................50
-*   **Figura 14** – Processo de homogeneização das misturas..........................................53
-*   **Figura 15** – Preparação do colchão de partículas.....................................................54
-*   **Figura 16** – Prensagem dos painéis..........................................................................55
-*   **Figura 17** – Painel da mistura M50P 50PET10...........................................................55
-*   **Figura 18** – Aferição de dimensões dos exemplares para cálculo da densidade......56
-*   **Figura 19** – Aferição da massa dos exemplares para cálculo da densidade.............56
-*   **Figura 20** – Secagem dos cps em estufa ..................................................................58
-*   **Figura 21** – Procedimento de verificação de inchamento em espessura 24h ...........59
-*   **Figura 22** – Ensaio de flexão de corpo de prova .......................................................60
-*   **Figura 23** – Limpeza dos suportes metálicos ............................................................62
-*   **Figura 24** – Colagem dos suportes metálicos nos cps ..............................................62
-*   **Figura 25** – Aspectos gerais do ensaio de para determinação da TP .......................63
-*   **Figura 26** – Procedimento para visualização ampliada por lupa ...............................65
-*   **Figura 27** – Densidade média das misturas ..............................................................71
-*   **Figura 28** – Teor de umidade dos painéis das misturas............................................74
-*   **Figura 29** – Inchamento em espessura após 24h das misturas ................................76
-*   **Figura 30** – MOR dos painéis das misturas ..............................................................79
-*   **Figura 31** – MOE dos painéis das misturas...............................................................81
-*   **Figura 32** – TP dos painéis das misturas ..................................................................83
-*   **Figura 33** – Região de ruptura dos cps com aproximação 16x .................................89
-*   **Figura 34** – Superfície do cp da mistura M100P 0PET10...........................................91
-*   **Figura 35** – Imagens de MEV das misturas madeira/PET/PUR ................................92
-*   **Figura 36** – Superfície do cp da mistura M100P 0PET10...........................................93
-*   **Figura 37** – Imagens de MEV das misturas madeira/PET/PUR ................................94
-
----
+* <img src="assets/icons/human_20_black.svg" width="18px">   **Figura 1** <img src="assets/icons/human_20_black.svg" width="18px"> – Esquemas de distribuição de partículas dos painéis aglomerados ..........22
+* <img src="assets/icons/human_17_black.svg" width="18px">   **Figura 2** <img src="assets/icons/human_17_black.svg" width="18px"> – Área de florestas plantadas no Brasil.......................................................28
+* <img src="assets/icons/human_04_black.svg" width="18px">   **Figura 3** <img src="assets/icons/human_04_black.svg" width="18px"> – Produção global anual de plástico em milhões de toneladas...................32
+* <img src="assets/icons/human_03_black.svg" width="18px">   **Figura 4** <img src="assets/icons/human_03_black.svg" width="18px"> – Garrafas PET ...........................................................................................34
+* <img src="assets/icons/human_07_black.svg" width="18px">   **Figura 5** <img src="assets/icons/human_07_black.svg" width="18px"> – Infográfico de aplicações para o PET reciclado .......................................35
+* <img src="assets/icons/human_06_black.svg" width="18px">   **Figura 6** <img src="assets/icons/human_06_black.svg" width="18px"> – Maravalhas de Pinus elliottii.....................................................................41
+* <img src="assets/icons/human_02_black.svg" width="18px">   **Figura 7** <img src="assets/icons/human_02_black.svg" width="18px"> – PET em flakes..........................................................................................42
+* <img src="assets/icons/human_01_black.svg" width="18px">   **Figura 8** <img src="assets/icons/human_01_black.svg" width="18px"> – Painéis preliminares produzidos ..............................................................43
+* <img src="assets/icons/human_13_black.svg" width="18px">   **Figura 9** <img src="assets/icons/human_13_black.svg" width="18px"> – Processamento de maravalhas no moinho de facas................................45
+* <img src="assets/icons/human_16_black.svg" width="18px">   **Figura 10** <img src="assets/icons/human_16_black.svg" width="18px"> – Agitador elétrico de peneiras..................................................................46
+* <img src="assets/icons/human_05_black.svg" width="18px">   **Figura 11** <img src="assets/icons/human_05_black.svg" width="18px"> – Agitador elétrico de peneiras para o ensaio de determinação da composição granulométrica.......................................................................................47
+* <img src="assets/icons/human_14_black.svg" width="18px">   **Figura 12** <img src="assets/icons/human_14_black.svg" width="18px"> – Amostras do ensaio de determinação da composição granulométrica ..48
+* <img src="assets/icons/human_11_black.svg" width="18px">   **Figura 13** <img src="assets/icons/human_11_black.svg" width="18px"> – Calibração do picnômetro ao fluido........................................................50
+* <img src="assets/icons/human_10_black.svg" width="18px">   **Figura 14** <img src="assets/icons/human_10_black.svg" width="18px"> – Processo de homogeneização das misturas..........................................53
+* <img src="assets/icons/human_18_black.svg" width="18px">   **Figura 15** <img src="assets/icons/human_18_black.svg" width="18px"> – Preparação do colchão de partículas.....................................................54
+* <img src="assets/icons/human_08_black.svg" width="18px">   **Figura 16** <img src="assets/icons/human_08_black.svg" width="18px"> – Prensagem dos painéis..........................................................................55
+* <img src="assets/icons/human_15_black.svg" width="18px">   **Figura 17** <img src="assets/icons/human_15_black.svg" width="18px"> – Painel da mistura M50P 50PET10...........................................................55
+* <img src="assets/icons/human_12_black.svg" width="18px">   **Figura 18** <img src="assets/icons/human_12_black.svg" width="18px"> – Aferição de dimensões dos exemplares para cálculo da densidade......56
+* <img src="assets/icons/human_09_black.svg" width="18px">   **Figura 19** <img src="assets/icons/human_09_black.svg" width="18px"> – Aferição da massa dos exemplares para cálculo da densidade.............56
+* <img src="assets/icons/human_19_black.svg" width="18px">   **Figura 20** <img src="assets/icons/human_19_black.svg" width="18px"> – Secagem dos cps em estufa ..................................................................58
+* <img src="assets/icons/human_20_black.svg" width="18px">   **Figura 21** <img src="assets/icons/human_20_black.svg" width="18px"> – Procedimento de verificação de inchamento em espessura 24h ...........59
+* <img src="assets/icons/human_17_black.svg" width="18px">   **Figura 22** <img src="assets/icons/human_17_black.svg" width="18px"> – Ensaio de flexão de corpo de prova .......................................................60
+* <img src="assets/icons/human_04_black.svg" width="18px">   **Figura 23** <img src="assets/icons/human_04_black.svg" width="18px"> – Limpeza dos suportes metálicos ............................................................62
+* <img src="assets/icons/human_03_black.svg" width="18px">   **Figura 24** <img src="assets/icons/human_03_black.svg" width="18px"> – Colagem dos suportes metálicos nos cps ..............................................62
+* <img src="assets/icons/human_07_black.svg" width="18px">   **Figura 25** <img src="assets/icons/human_07_black.svg" width="18px"> – Aspectos gerais do ensaio de para determinação da TP .......................63
+* <img src="assets/icons/human_06_black.svg" width="18px">   **Figura 26** <img src="assets/icons/human_06_black.svg" width="18px"> – Procedimento para visualização ampliada por lupa ...............................65
+* <img src="assets/icons/human_02_black.svg" width="18px">   **Figura 27** <img src="assets/icons/human_02_black.svg" width="18px"> – Densidade média das misturas ..............................................................71
+* <img src="assets/icons/human_01_black.svg" width="18px">   **Figura 28** <img src="assets/icons/human_01_black.svg" width="18px"> – Teor de umidade dos painéis das misturas............................................74
+* <img src="assets/icons/human_13_black.svg" width="18px">   **Figura 29** <img src="assets/icons/human_13_black.svg" width="18px"> – Inchamento em espessura após 24h das misturas ................................76
+* <img src="assets/icons/human_16_black.svg" width="18px">   **Figura 30** <img src="assets/icons/human_16_black.svg" width="18px"> – MOR dos painéis das misturas ..............................................................79
+* <img src="assets/icons/human_05_black.svg" width="18px">   **Figura 31** <img src="assets/icons/human_05_black.svg" width="18px"> – MOE dos painéis das misturas...............................................................81
+* <img src="assets/icons/human_14_black.svg" width="18px">   **Figura 32** <img src="assets/icons/human_14_black.svg" width="18px"> – TP dos painéis das misturas ..................................................................83
+* <img src="assets/icons/human_11_black.svg" width="18px">   **Figura 33** <img src="assets/icons/human_11_black.svg" width="18px"> – Região de ruptura dos cps com aproximação 16x .................................89
+* <img src="assets/icons/human_10_black.svg" width="18px">   **Figura 34** <img src="assets/icons/human_10_black.svg" width="18px"> – Superfície do cp da mistura M100P 0PET10...........................................91
+* <img src="assets/icons/human_18_black.svg" width="18px">   **Figura 35** <img src="assets/icons/human_18_black.svg" width="18px"> – Imagens de MEV das misturas madeira/PET/PUR ................................92
+* <img src="assets/icons/human_08_black.svg" width="18px">   **Figura 36** <img src="assets/icons/human_08_black.svg" width="18px"> – Superfície do cp da mistura M100P 0PET10...........................................93
+* <img src="assets/icons/human_15_black.svg" width="18px">   **Figura 37** <img src="assets/icons/human_15_black.svg" width="18px"> – Imagens de MEV das misturas madeira/PET/PUR ................................94
 
 ### LISTA DE TABELAS
 
-*   **Tabela 1** – Propriedades físicas e mecânicas de espécies de Pinus ........................27
-*   **Tabela 2** – Propriedades físicas e mecânicas do PET ..............................................34
-*   **Tabela 3** – Misturas propostas para confecção dos painéis......................................44
-*   **Tabela 4** – Misturas experimentais delineadas .........................................................64
-*   **Tabela 5** – Composição granulométrica 100% Pinus................................................66
-*   **Tabela 6** – Composição granulométrica 100% PET..................................................67
-*   **Tabela 7** – Composição granulométrica 70% Pinus 30% PET..................................67
-*   **Tabela 8** – Composição granulométrica 50% Pinus 50% PET..................................68
-*   **Tabela 9** – Teor de umidade das partículas de Pinus e PET ....................................69
-*   **Tabela 10** – Massa específica das partículas e das misturas ...................................69
-*   **Tabela 11** – Classificações normativas de Densidade ..............................................70
-*   **Tabela 12** – Densidade dos painéis ..........................................................................70
-*   **Tabela 13** – Densidade dos painéis e razão de compactação ..................................72
-*   **Tabela 14** – Teor de umidade médio dos painéis......................................................73
-*   **Tabela 15** – Inchamento em espessura após 24h e absorção de água ....................74
-*   **Tabela 16** – Valores médios de MOR dos painéis ....................................................78
-*   **Tabela 17** – Valores médios de MOE dos painéis.....................................................80
-*   **Tabela 18** – Valores médios de TP dos painéis ........................................................83
-*   **Tabela 19** – Parâmetros físicos e mecânicos ABNT NBR 14810-2 (2018) ...............85
-*   **Tabela 20** – Parâmetros mecânicos ANSI A208.1 (2016).........................................87
-*   **Tabela 21** – Resultados do teste de contraste de médias de Tukey .........................88
-*   **Tabela 22** – Comparação geral dos resultados de propriedades físicas e mecânicas
+* <img src="assets/icons/human_12_black.svg" width="18px">   **Tabela 1** <img src="assets/icons/human_12_black.svg" width="18px"> – Propriedades físicas e mecânicas de espécies de Pinus ........................27
+* <img src="assets/icons/human_09_black.svg" width="18px">   **Tabela 2** <img src="assets/icons/human_09_black.svg" width="18px"> – Propriedades físicas e mecânicas do PET ..............................................34
+* <img src="assets/icons/human_19_black.svg" width="18px">   **Tabela 3** <img src="assets/icons/human_19_black.svg" width="18px"> – Misturas propostas para confecção dos painéis......................................44
+* <img src="assets/icons/human_20_black.svg" width="18px">   **Tabela 4** <img src="assets/icons/human_20_black.svg" width="18px"> – Misturas experimentais delineadas .........................................................64
+* <img src="assets/icons/human_17_black.svg" width="18px">   **Tabela 5** <img src="assets/icons/human_17_black.svg" width="18px"> – Composição granulométrica 100% Pinus................................................66
+* <img src="assets/icons/human_04_black.svg" width="18px">   **Tabela 6** <img src="assets/icons/human_04_black.svg" width="18px"> – Composição granulométrica 100% PET..................................................67
+* <img src="assets/icons/human_03_black.svg" width="18px">   **Tabela 7** <img src="assets/icons/human_03_black.svg" width="18px"> – Composição granulométrica 70% Pinus 30% PET..................................67
+* <img src="assets/icons/human_07_black.svg" width="18px">   **Tabela 8** <img src="assets/icons/human_07_black.svg" width="18px"> – Composição granulométrica 50% Pinus 50% PET..................................68
+* <img src="assets/icons/human_06_black.svg" width="18px">   **Tabela 9** <img src="assets/icons/human_06_black.svg" width="18px"> – Teor de umidade das partículas de Pinus e PET ....................................69
+* <img src="assets/icons/human_02_black.svg" width="18px">   **Tabela 10** <img src="assets/icons/human_02_black.svg" width="18px"> – Massa específica das partículas e das misturas ...................................69
+* <img src="assets/icons/human_01_black.svg" width="18px">   **Tabela 11** <img src="assets/icons/human_01_black.svg" width="18px"> – Classificações normativas de Densidade ..............................................70
+* <img src="assets/icons/human_13_black.svg" width="18px">   **Tabela 12** <img src="assets/icons/human_13_black.svg" width="18px"> – Densidade dos painéis ..........................................................................70
+* <img src="assets/icons/human_16_black.svg" width="18px">   **Tabela 13** <img src="assets/icons/human_16_black.svg" width="18px"> – Densidade dos painéis e razão de compactação ..................................72
+* <img src="assets/icons/human_05_black.svg" width="18px">   **Tabela 14** <img src="assets/icons/human_05_black.svg" width="18px"> – Teor de umidade médio dos painéis......................................................73
+* <img src="assets/icons/human_14_black.svg" width="18px">   **Tabela 15** <img src="assets/icons/human_14_black.svg" width="18px"> – Inchamento em espessura após 24h e absorção de água ....................74
+* <img src="assets/icons/human_11_black.svg" width="18px">   **Tabela 16** <img src="assets/icons/human_11_black.svg" width="18px"> – Valores médios de MOR dos painéis ....................................................78
+* <img src="assets/icons/human_10_black.svg" width="18px">   **Tabela 17** <img src="assets/icons/human_10_black.svg" width="18px"> – Valores médios de MOE dos painéis.....................................................80
+* <img src="assets/icons/human_18_black.svg" width="18px">   **Tabela 18** <img src="assets/icons/human_18_black.svg" width="18px"> – Valores médios de TP dos painéis ........................................................83
+* <img src="assets/icons/human_08_black.svg" width="18px">   **Tabela 19** <img src="assets/icons/human_08_black.svg" width="18px"> – Parâmetros físicos e mecânicos ABNT NBR 14810-2 (2018) ...............85
+* <img src="assets/icons/human_15_black.svg" width="18px">   **Tabela 20** <img src="assets/icons/human_15_black.svg" width="18px"> – Parâmetros mecânicos ANSI A208.1 (2016).........................................87
+* <img src="assets/icons/human_12_black.svg" width="18px">   **Tabela 21** <img src="assets/icons/human_12_black.svg" width="18px"> – Resultados do teste de contraste de médias de Tukey .........................88
+* <img src="assets/icons/human_09_black.svg" width="18px">   **Tabela 22** <img src="assets/icons/human_09_black.svg" width="18px"> – Comparação geral dos resultados de propriedades físicas e mecânicas
 ..................................................................................................................................95
-
----
 
 ### Sumário
 
@@ -212,8 +212,6 @@ classificação .................................................ção..........
 **7 REFERÊNCIAS** ..........................................................................................97
 **8 APÊNDICES** ..............................................................................................98
 
----
-
 ### Bibliografia
 
 _Nota do Bibliotecário: A bibliografia completa não foi fornecida no texto RAW. A seguir, uma entrada ABNT baseada nas informações do documento._
@@ -223,7 +221,16 @@ CAZELLA, P. H. da S. **Avaliação de painéis aglomerados homogêneos de Pinus 
 _Exemplo de DOI-sync (caso o DOI estivesse disponível na fonte original):_
 _DOI: [DOI AQUI]_
 
----
-
 #CATEGORIA: Bioeconomia/Painéis_Compósitos_Sustentáveis
 ```
+
+---
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

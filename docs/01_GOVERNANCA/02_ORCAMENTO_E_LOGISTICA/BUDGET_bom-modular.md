@@ -11,13 +11,23 @@ author:
 date: '2026-03-24'
 ---
 
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+
+<p align="right"><i>"Ensinar não é transferir conhecimento, mas criar as possibilidades para a sua própria produção ou a sua construção."<br>— Paulo Freire</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: BUDGET_bom-modular.md
+*   **Status**: Status Consolidado
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 # BoM Modular — Mulheres Que Tecem a Floresta
 
 > **Série:** Engenharia e Custos | **Status:** CONSOLIDADO (SGMAS-Ready)  
 > **Conceito:** "Menos é Mais" - Foco em Kits de Bioeconomia e Infraestrutura Leve.
 > **Participação:** Núcleo Institucional como integrante formal do consórcio UnB/UFRR/UFAC.
-
----
 
 ## 1. O Kit de Bioeconomia Comunitário (Unidade Base)
 Em vez de grandes plantas, o projeto foca na entrega de **20 Kits** distribuídos. Cada kit é composto por:
@@ -30,8 +40,6 @@ Em vez de grandes plantas, o projeto foca na entrega de **20 Kits** distribuído
 | **Ferramental de Manejo** | Conjunto de ferramentas manuais e pneumáticas para bambu. | 12.000,00 |
 | **Total por Kit** | | **70.000,00** |
 
----
-
 ## 2. Hub de Engenharia Leve (Rio Branco - AC)
 O polo central deixa de ser uma "Biorrefinaria" e passa a ser uma **Oficina de Fabricação e Montagem**:
 
@@ -42,24 +50,26 @@ O polo central deixa de ser uma "Biorrefinaria" e passa a ser uma **Oficina de F
 | **Biorrefinaria Piloto** | Unidade T02 redimensionada para pesquisa e geração de biochar. | 500.000,00 |
 | **Logística Territorial** | Caminhão leve e barcos para distribuição dos kits. | 1.500.000,00 |
 
----
-
 ## 3. Gestão Sombra: Mentoria e Sucessão
 A Gestão Sombra foi redimensionada para focar em **suporte técnico-administrativo local**, abandonando os altos custos de CEOs/CFOs externos.
 
-- **Mentoria Territorial**: 4 Coordenadores de Campo (Suporte em gestão sombra).
-- **Capacitação Sucessiva**: Treinamento direto de lideranças de cooperativas em gestão de SPEs.
-- **Redução de Custo**: Foco em bolsas de extensão e consultoria técnica pontual do consórcio.
-
----
+- <img src="assets/icons/human_07_black.svg" width="18px"> **Mentoria Territorial**: 4 Coordenadores de Campo (Suporte em gestão sombra).
+- <img src="assets/icons/human_04_black.svg" width="18px"> **Capacitação Sucessiva**: Treinamento direto de lideranças de cooperativas em gestão de SPEs.
+- <img src="assets/icons/human_09_black.svg" width="18px"> **Redução de Custo**: Foco em bolsas de extensão e consultoria técnica pontual do consórcio.
 
 O Núcleo Institucional não é mais uma parceiro externa, mas **parte integrante do projeto**:
-- **Aporte Tecnológico**: Patentes e desenhos técnicos do Sistema Takwara (T01-T12) são aportados como contrapartida técnica ao consórcio.
-- **Engenharia de Campo**: Atuação direta na montagem e manutenção dos hubs de engenharia e kits territoriais.
-
----
+- <img src="assets/icons/human_10_black.svg" width="18px"> **Aporte Tecnológico**: Patentes e desenhos técnicos do Sistema Takwara (T01-T12) são aportados como contrapartida técnica ao consórcio.
+- <img src="assets/icons/human_16_black.svg" width="18px"> **Engenharia de Campo**: Atuação direta na montagem e manutenção dos hubs de engenharia e kits territoriais.
 
 > **Nota sobre COP30:** Todas as referências à COP30 futura foram removidas. O projeto agora foca em resultados tangíveis pós-conferência e resiliência local.
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

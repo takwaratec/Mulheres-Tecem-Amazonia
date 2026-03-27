@@ -1,11 +1,4 @@
-**TAREFA 1: Avaliação de Relevância**
-Relevante.
-
-**TAREFA 2: Definição de Categoria/Subcategoria**
-Bambu/Construção_Geodésicas
-
 ---
-
 **TAREFA 3: Geração de Markdown (.md)**
 
 ```markdown
@@ -18,14 +11,33 @@ Bambu/Construção_Geodésicas
 
 **Resumo:**
 Neste guia é mostrado um procedimento para construir uma cúpula geodésica usando barras amarradas. O desafio é construir uma estrutura semelhante à bola de futebol usada na Copa de 70, usando pedaços de colmos de bambu.
-
 ---
 
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"O conhecimento é a nossa maior arma contra o atraso."<br>— Bertha Lutz</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: WTF_RAW_2018-_Guia_prático_para_construção_de_geodésicas_de_bambu.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
+**TAREFA 1: Avaliação de Relevância**
+Relevante.
+
+**TAREFA 2: Definição de Categoria/Subcategoria**
+Bambu/Construção_Geodésicas
+
+
+
 Para construir uma geodésica grande, será necessário:
-*   Material para amarração como tiras de borracha, arames ou cordas.
-*   Peças cortadas de colmos de bambu.
-    *   Quarenta peças com mesmo comprimento e diâmetro e espessura de paredes semelhantes.
-    *   Cinco peças com comprimento 50% maior que serão usadas para o fechamento da cúpula.
+* <img src="assets/icons/human_01_black.svg" width="18px">   Material para amarração como tiras de borracha, arames ou cordas.
+* <img src="assets/icons/human_02_black.svg" width="18px">   Peças cortadas de colmos de bambu.
+    * <img src="assets/icons/human_19_black.svg" width="18px">   Quarenta peças com mesmo comprimento e diâmetro e espessura de paredes semelhantes.
+    * <img src="assets/icons/human_10_black.svg" width="18px">   Cinco peças com comprimento 50% maior que serão usadas para o fechamento da cúpula.
 
 **IMAGEM:** Bola da Copa de 70 (icosaedro truncado) Geodésica Barra do Saí – Itapoá SC, 2018.
 
@@ -97,15 +109,17 @@ A partir do primeiro triângulo amarrado, vão sendo medidos e dispostos em sequ
 
 O fechamento da cúpula geodésica pode ser feito em diferentes etapas unindo as pontas soltas dos segmentos de colmo da estrutura com novos segmentos que ficarão dispostos horizontalmente ao solo. No terceiro nível a estrutura já está próxima a forma de uma semiesfera. O domo geodésico obtido pode ser apoiado diretamente no solo, mas também sobre paredes ou colunas, dependendo da aplicação final desejada.
 
----
-
 ### Referências
 
 OSTAPIV, F.; SALAMON, C.; STAHLSCHNIDT, J.; BETT, C.F. Estudos iniciais para ensaios e construção de cúpulas geodésicas usando colmos de bambu. **MIX SUSTENTÁVEL (ONLINE)**, Santa Catarina, v. 4, p. 108-116, 2018. Disponível em: <http://www.nexos.ufsc.br/index.php/mixsustentavel/article/view/2506/1549>. Acesso em: [Inserir data de acesso]. DOI: [DOI não informado no texto original].
 
 ---
 
-**IMAGENS:** Exemplos de construção de geodésicas de bambu amarradas (IFPR – Coronel Vivida PR (2017), Apremai – Itapoá SC (2018), UFSC – VI- ENSUS (2018)).
+---
 
-#CATEGORIA: Bambu/Construção_Geodésicas
-```
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

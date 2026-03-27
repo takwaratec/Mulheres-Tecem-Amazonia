@@ -9,19 +9,29 @@ author:
 date: '2026-03-26'
 ---
 
-Olá! Como Pesquisador Sênior e Analista de Dados do Projeto WTF, apresento a seguir a Ficha Científica Estruturada, conforme solicitado, com base no texto bruto fornecido.
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
----
+<p align="right"><i>"A ciência é um patrimônio universal."<br>— Oswaldo Cruz</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: FICHA_agrotoxicos_Amazonia.md
+*   **Status**: Status Consolidado
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
+Olá! Como Pesquisador Sênior e Analista de Dados do Projeto WTF, apresento a seguir a Ficha Científica Estruturada, conforme solicitado, com base no texto bruto fornecido.
 
 ## FICHA CIENTÍFICA ESTRUTURADA – PROJETO WTF
 
 ### 1. METADADOS E CABEÇALHO
 
-*   **projeto:** Mulheres Que Tecem a Floresta
-*   **instituicao:** Consórcio UnB/UFRR/UFAC
-*   **tipo:** Pesquisa: Amazônia Setentrional (PES)
-*   **referencia:** PES-TEC-5108-2026
-*   **status:** Ready
+* <img src="assets/icons/human_13_black.svg" width="18px">   **projeto:** <img src="assets/icons/human_13_black.svg" width="18px"> Mulheres Que Tecem a Floresta
+* <img src="assets/icons/human_15_black.svg" width="18px">   **instituicao:** <img src="assets/icons/human_15_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
+* <img src="assets/icons/human_08_black.svg" width="18px">   **tipo:** <img src="assets/icons/human_08_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
+* <img src="assets/icons/human_06_black.svg" width="18px">   **referencia:** <img src="assets/icons/human_06_black.svg" width="18px"> PES-TEC-5108-2026
+* <img src="assets/icons/human_07_black.svg" width="18px">   **status:** <img src="assets/icons/human_07_black.svg" width="18px"> Ready
 
 **REFERÊNCIA BIBLIOGRÁFICA (ABNT):**
 
@@ -34,9 +44,9 @@ OLIVEIRA, J. V. G.; GOMES, R. D. Prospecção de perfis epidemiológicos de into
 "Devido ao alto nível de contaminação causado pela aplicação de agrotóxicos no setor agrícola, a necessidade de estudos se torna imperativa em relação aos riscos enfrentados por aqueles que desempenham atividades rurais. Agrotóxicos comumente utilizados possibilitam alta eficiência, oferecendo a possibilidade de prevenir, destruir, repelir e inibir a ocorrência ou efeito de organismos prejudiciais às lavouras, colocando o Brasil nas primeiras posições mundiais em produção agrícola. Contudo, essa alta eficiência trouxe pontos negativos para a saúde humana devido ao contato excessivo com agroquímicos, gerando desde casos leves de intoxicações exógenas até os mais graves. Neste sentido, o trabalho visa realizar um estudo epidemiológico retrospectivo das intoxicações por agrotóxicos na Região Norte do Brasil, refletindo sobre possíveis fatores causais. A partir dos resultados obtidos, foi possível inferir que os grupos de indivíduos mais afetados são do sexo masculino, com faixa etária entre 20 e 39 anos, apresentando cor da pele parda e que evoluem para cura sem sequelas. O papel de destaque do Estado do Tocantins nas taxas de incidência também foi observado. Nesta perspectiva geral, são estabelecidos pontos que devem ser avaliados pelas autoridades competentes quanto ao uso de EPIs e à fiscalização da utilização de agrotóxicos."
 
 **3 Palavras-chave em português:**
-*   Lavouras
-*   Epidemiologia
-*   Agroquímicos
+* <img src="assets/icons/human_19_black.svg" width="18px">   Lavouras
+* <img src="assets/icons/human_02_black.svg" width="18px">   Epidemiologia
+* <img src="assets/icons/human_16_black.svg" width="18px">   Agroquímicos
 
 ### 3. EXTRAÇÃO DE DADOS (TABELA)
 
@@ -58,16 +68,16 @@ OLIVEIRA, J. V. G.; GOMES, R. D. Prospecção de perfis epidemiológicos de into
 
 ### 4. RELAÇÃO COM O PROJETO (CONEXÃO WTF)
 
-*   **Como isso beneficia as mulheres extrativistas?**
-    *   **Identificação de Riscos Indiretos e Diretos:** Embora o estudo foque principalmente no perfil masculino em atividades rurais, os dados de contaminação por agrotóxicos na Região Norte alertam para os riscos à saúde de toda a população rural, incluindo as mulheres extrativistas. Mesmo que não apliquem diretamente os agrotóxicos, elas estão expostas através da contaminação da água, do solo e do ar em áreas próximas a lavouras. Se as mulheres extrativistas também praticam agricultura de pequena escala, elas se enquadram diretamente no grupo de risco.
-    *   **Argumento para Práticas Sustentáveis:** Os achados sobre os altos índices de intoxicação reforçam a necessidade e o valor das práticas extrativistas e agrícolas sustentáveis que o Projeto WTF promove, que geralmente não dependem de agrotóxicos, protegendo a saúde das mulheres e suas famílias.
-    *   **Dados para Advocacy e Políticas Públicas:** Os dados epidemiológicos fornecidos pelo artigo são cruciais para o Projeto WTF embasar argumentos em advocacy por políticas públicas de saúde e segurança no trabalho rural que contemplem as especificidades das mulheres extrativistas. A menção aos 285 casos de contaminação em crianças (0-9 anos) sublinha a importância de proteger as famílias, área de atuação vital para as mulheres.
-    *   **Necessidade de Proteção e Informação:** O estudo aponta a falta de uso de EPIs e fiscalização como fatores chave. Para as mulheres extrativistas, o acesso à informação sobre os perigos, bem como a tecnologias de proteção e incentivos a práticas agroecológicas, é fundamental e pode ser um foco do Projeto WTF.
+* <img src="assets/icons/human_20_black.svg" width="18px">   **Como isso beneficia as mulheres extrativistas?**
+    * <img src="assets/icons/human_17_black.svg" width="18px">   **Identificação de Riscos Indiretos e Diretos:** <img src="assets/icons/human_17_black.svg" width="18px"> Embora o estudo foque principalmente no perfil masculino em atividades rurais, os dados de contaminação por agrotóxicos na Região Norte alertam para os riscos à saúde de toda a população rural, incluindo as mulheres extrativistas. Mesmo que não apliquem diretamente os agrotóxicos, elas estão expostas através da contaminação da água, do solo e do ar em áreas próximas a lavouras. Se as mulheres extrativistas também praticam agricultura de pequena escala, elas se enquadram diretamente no grupo de risco.
+    * <img src="assets/icons/human_11_black.svg" width="18px">   **Argumento para Práticas Sustentáveis:** <img src="assets/icons/human_11_black.svg" width="18px"> Os achados sobre os altos índices de intoxicação reforçam a necessidade e o valor das práticas extrativistas e agrícolas sustentáveis que o Projeto WTF promove, que geralmente não dependem de agrotóxicos, protegendo a saúde das mulheres e suas famílias.
+    * <img src="assets/icons/human_18_black.svg" width="18px">   **Dados para Advocacy e Políticas Públicas:** <img src="assets/icons/human_18_black.svg" width="18px"> Os dados epidemiológicos fornecidos pelo artigo são cruciais para o Projeto WTF embasar argumentos em advocacy por políticas públicas de saúde e segurança no trabalho rural que contemplem as especificidades das mulheres extrativistas. A menção aos 285 casos de contaminação em crianças (0-9 anos) sublinha a importância de proteger as famílias, área de atuação vital para as mulheres.
+    * <img src="assets/icons/human_12_black.svg" width="18px">   **Necessidade de Proteção e Informação:** <img src="assets/icons/human_12_black.svg" width="18px"> O estudo aponta a falta de uso de EPIs e fiscalização como fatores chave. Para as mulheres extrativistas, o acesso à informação sobre os perigos, bem como a tecnologias de proteção e incentivos a práticas agroecológicas, é fundamental e pode ser um foco do Projeto WTF.
 
-*   **Relação com saberes ancestrais (Tania, Sonia, Georgia):**
-    *   **Validação da Preocupação Ancestral:** Os resultados do estudo, que expõem os graves riscos à saúde humana e ambiental decorrentes do uso intensivo de agrotóxicos, servem como uma forte validação científica para os saberes ancestrais. Personagens como Tania, Sonia e Georgia, que representam as Mulheres Que Tecem a Floresta, frequentemente defendem práticas agrícolas e extrativistas que respeitam os ciclos naturais, a biodiversidade e evitam o uso de químicos sintéticos.
-    *   **Contraste com Modelos de Produção:** O artigo destaca as consequências negativas de um modelo de produção agrícola baseado em agroquímicos, que é, em muitos aspectos, oposto aos princípios dos saberes ancestrais. Estes saberes promovem a coexistência harmonica com a floresta e o uso de métodos que não comprometem a saúde e o ambiente.
-    *   **Fortalecimento da Narrativa Agroecológica:** A pesquisa fornece dados concretos sobre os "pontos negativos à saúde humana" e a "contaminação ambiental" causados por agrotóxicos, fortalecendo a narrativa de que as alternativas baseadas em saberes ancestrais e agroecologia não são apenas culturalmente ricas, mas também mais seguras e saudáveis para as comunidades e o ecossistema da Amazônia. É um suporte científico para a importância de "tecer a floresta" de forma sustentável, como preconizado pelo projeto.
+* <img src="assets/icons/human_01_black.svg" width="18px">   **Relação com saberes ancestrais (Tania, Sonia, Georgia):**
+    * <img src="assets/icons/human_03_black.svg" width="18px">   **Validação da Preocupação Ancestral:** <img src="assets/icons/human_03_black.svg" width="18px"> Os resultados do estudo, que expõem os graves riscos à saúde humana e ambiental decorrentes do uso intensivo de agrotóxicos, servem como uma forte validação científica para os saberes ancestrais. Personagens como Tania, Sonia e Georgia, que representam as Mulheres Que Tecem a Floresta, frequentemente defendem práticas agrícolas e extrativistas que respeitam os ciclos naturais, a biodiversidade e evitam o uso de químicos sintéticos.
+    * <img src="assets/icons/human_04_black.svg" width="18px">   **Contraste com Modelos de Produção:** <img src="assets/icons/human_04_black.svg" width="18px"> O artigo destaca as consequências negativas de um modelo de produção agrícola baseado em agroquímicos, que é, em muitos aspectos, oposto aos princípios dos saberes ancestrais. Estes saberes promovem a coexistência harmonica com a floresta e o uso de métodos que não comprometem a saúde e o ambiente.
+    * <img src="assets/icons/human_09_black.svg" width="18px">   **Fortalecimento da Narrativa Agroecológica:** <img src="assets/icons/human_09_black.svg" width="18px"> A pesquisa fornece dados concretos sobre os "pontos negativos à saúde humana" e a "contaminação ambiental" causados por agrotóxicos, fortalecendo a narrativa de que as alternativas baseadas em saberes ancestrais e agroecologia não são apenas culturalmente ricas, mas também mais seguras e saudáveis para as comunidades e o ecossistema da Amazônia. É um suporte científico para a importância de "tecer a floresta" de forma sustentável, como preconizado pelo projeto.
 
 ### 5. Extrair Bibliografia citada no texto
 
@@ -92,4 +102,12 @@ OLIVEIRA, J. V. G.; GOMES, R. D. Prospecção de perfis epidemiológicos de into
 19. VEIGA, M. M. et al. A contaminação por agrotóxicos e os Equipamentos de Proteção Individual (EPIs). **Revista Brasileira de Saúde Ocupacional**, [s. l.], v. 32, p. 57-68, 2007. Disponível em: https://www.scielo.br/j/rbso/a/b7ykZGV8W4MStxNT9hhsCMg/?lang=pt&format=pdf. Acesso em: 14 nov. 2021.
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

@@ -18,13 +18,23 @@ keywords:
 - tecnologia social
 ---
 
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"A educação é o direito de todos e dever do Estado."<br>— Anísio Teixeira</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: ENG-MEM-T04_MISTURADOR-BIOCOMPOSITOS.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 # Memorial Técnico: Misturador de Biocompósitos "Betoneira Impermeável" T04
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ![Status](https://img.shields.io/badge/status-CONSOLIDADO%20WTF-blue)
-
----
 
 ## 1. Relatório Descritivo de Patente de Invenção
 
@@ -37,8 +47,6 @@ A mistura de biopolímeros altamente colantes apresenta gargalos de vazamento no
 ### 1.3 Solução Proposta
 A invenção apresenta uma câmara de mistura dotada de um **Sistema de Vedação por Gaxeta Ajustável** de compressão externa, que blinda o eixo motriz. Complementarmente, introduz um **Sistema de Aspersão Pneumática (Jato PU)** do tipo "mist" (névoa), que atomiza a resina em partículas micrométricas sobre a biomassa em turbulência. Isso garante um encapsulamento químico uniforme com apenas 20-25% de massa de resina.
 
----
-
 ## 2. Descrição Detalhada e Especificações
 
 ### 2.1 Mecânica Anti-Aderente
@@ -50,29 +58,28 @@ Localizado em uma lança fixa interna, o bico aspersor de largo espectro opera s
 ### 2.3 Vedação por Gaxeta
 O ponto crítico utiliza uma caixa de gaxeta com anéis de fibra de PTFE (Teflon) grafitado, permitindo aperto manual externo para manter a hermeticidade contra resinas agressivas.
 
----
-
 ## 3. Bill of Materials (BoM)
-- **Tambor:** Chapa de Inox 304 (3mm).
-- **Motorização:** Motor monofásico de 1.5 CV a 3 CV com redutor.
-- **Vedações:** Gaxetas de PTFE grafitado (1/2").
-- **Aspersão:** Bico leque inox e mangueiras de poliuretano reforçadas.
-
----
+- <img src="assets/icons/human_18_black.svg" width="18px"> **Tambor:** <img src="assets/icons/human_18_black.svg" width="18px"> Chapa de Inox 304 (3mm).
+- <img src="assets/icons/human_03_black.svg" width="18px"> **Motorização:** <img src="assets/icons/human_03_black.svg" width="18px"> Motor monofásico de 1.5 CV a 3 CV com redutor.
+- <img src="assets/icons/human_08_black.svg" width="18px"> **Vedações:** <img src="assets/icons/human_08_black.svg" width="18px"> Gaxetas de PTFE grafitado (1/2").
+- <img src="assets/icons/human_01_black.svg" width="18px"> **Aspersão:** <img src="assets/icons/human_01_black.svg" width="18px"> Bico leque inox e mangueiras de poliuretano reforçadas.
 
 ## 4. Reivindicações
 1. **MISTURADOR DE BIOCOMPÓSITOS**, caracterizado por tambor rotativo com **terminal de gaxeta ajustável externa** no eixo motriz, blindando rolamentos e mancais.
 2. **MISTURADOR**, de acordo com a reivindicação 1, caracterizado por aspersão pneumática tipo **névoa (mist)** sincronizada, operando em regime de compactação química "umidade zero".
 3. **MISTURADOR**, de acordo com a reivindicação 1, caracterizado por **revestimento interno de PEAD ou Inox 304**.
 
----
-
 ## Como Citar
 **APA:**
 Takwara, F. R. (2026). *Memorial Jurídico: Misturador de Biocompósitos "Betoneira Impermeável" T04* (Versão 1.0 Mulheres que Tecem a Floresta). Projeto Mulheres Que Tecem a Floresta / Consórcio Consórcio UnB/UFRR/UFAC. https://doi.org/10.5281/zenodo.18827106
 
 ---
-**🎋 Institucional — Blindagem Mecânica e Inovação Química**
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

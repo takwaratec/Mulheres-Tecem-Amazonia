@@ -1,7 +1,4 @@
-Compreendido. Atuando como Bibliotecário Científico para o Projeto Mulheres Que Tecem a Floresta, realizo a análise do arquivo `WTF_RAW_2023_-_painel_estrutural.txt`.
-
 ---
-
 ### **TAREFA 1: Avaliação de Relevância**
 
 **Relevância:** Este documento é um extrato de um pedido de patente técnico do INPI referente a painéis estruturais de bambu e compósitos. Seu conteúdo é altamente relevante para um projeto focado em recursos florestais (bambu), tecnologia de materiais e construção sustentável. Não é pessoal, vazio ou não-científico.
@@ -14,6 +11,22 @@ Compreendido. Atuando como Bibliotecário Científico para o Projeto Mulheres Qu
 
 ```markdown
 ---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"Só se aprende o que se pratica."<br>— Anísio Teixeira</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: WTF_RAW_2023_-_painel_estrutural.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
+Compreendido. Atuando como Bibliotecário Científico para o Projeto Mulheres Que Tecem a Floresta, realizo a análise do arquivo `WTF_RAW_2023_-_painel_estrutural.txt`.
+
+
 projeto: Mulheres Que Tecem a Floresta
 instituicao: Consórcio UnB/UFAC/UFRR
 equipe: Gestão e Parceria Regional
@@ -21,8 +34,6 @@ tipo: Acervo de Consulta RAW (Transcrição)
 autor: Acervo Digital Mulheres que Tecem a Floresta
 data: '2023'
 ref_projeto: PES-TEC-7341-2026
----
-
 # PAINEL ESTRUTURAL, SEÇÃO ESTRUTURAL, E, CAMADA DE COMPÓSITO DE BAMBU PARA UM PAINEL ESTRUTURAL
 
 **Inventores:** NICHOLAS TAYLOR ALLAN; WILLIAM H. HINKLE.
@@ -30,8 +41,6 @@ ref_projeto: PES-TEC-7341-2026
 **Resumo:**
 
 Painéis estruturais incluem uma pluralidade de camadas estruturais aderidas umas às outras em um laminado, incluindo uma pluralidade de camadas estruturais de bambu e pelo menos uma camada estrutural não de bambu disposta entre uma primeira camada estrutural de bambu e uma segunda camada estrutural de bambu da pluralidade de camadas estruturais de bambu. A primeira camada estrutural de bambu e a segunda camada estrutural de bambu da pluralidade de camadas estruturais de bambu são separadas por pelo menos uma camada estrutural não de bambu em lados opostos de um plano neutro que se estende através de um centro do painel estrutural e paralelo à pluralidade de camadas estruturais de bambu. As seções estruturais, incluindo seções de parede, seções de telhado e seções de piso, incluem um ou mais painéis estruturais.
-
----
 
 ## Conteúdo Técnico Integral
 
@@ -99,6 +108,16 @@ representativas do painel estrutural da Figura 8A, de acordo com a presente desc
 
 ALLAN, Nicholas Taylor; HINKLE, William H. (Inventores). GLOBAL BAMBOO TECHNOLOGIES INC. (Depositante). **Painel estrutural, seção estrutural, e, camada de compósito de bambu para um painel estrutural**. BR 112023001673-8 A2. Brasil, Instituto Nacional da Propriedade Industrial (INPI), depositada em 30 jul. 2021, publicada em 16 maio 2023. Pedido de Patente PCT: PCT US2021044014, de 30 jul. 2021. Publicação PCT: WO 2022/026898, de 03 fev. 2022. Disponível em: (Aguardando link oficial do INPI para DOI-sync ou base de dados). Acesso em: [data de acesso].
 
----
 #CATEGORIA: Bambu/Painéis_Estruturais
 ```
+
+---
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

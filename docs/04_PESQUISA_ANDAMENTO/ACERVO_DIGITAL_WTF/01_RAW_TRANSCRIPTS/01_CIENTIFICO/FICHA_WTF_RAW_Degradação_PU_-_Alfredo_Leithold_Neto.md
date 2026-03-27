@@ -1,3 +1,25 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFRR/UFAC
+tipo: Documento de Acervo
+referencia: FICHA_WTF_RAW_Degradação_PU_-_Alfredo_Leithold_Neto.md
+status: Em Revisão
+author:
+- name: Consórcio UnB/UFRR/UFAC
+---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"Eu sou a favor do Brasil real."<br>— Ariano Suassuna</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: FICHA_WTF_RAW_Degradação_PU_-_Alfredo_Leithold_Neto.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 SIM
 
 ### 1. METADADOS E CABEÇALHO
@@ -11,8 +33,8 @@ REFERÊNCIA BIBLIOGRÁFICA (ABNT):
 LEITHOLD NETO, Alfredo. **Materiais utilizados para proteção de equipamentos sensíveis: A importância da biodegradação em solo simulado**. 2015. Trabalho de Conclusão de Curso (Bacharelado em Química Tecnológica com ênfase em Ambiental) – Departamento Acadêmico de Química e Biologia, Universidade Tecnológica Federal do Paraná, Curitiba, 2015.
 
 ### 2. TRADUÇÃO E SÍNTESE TÉCNICA
-- O resumo está em português.
-- Palavras-chave: bioespuma, polímeros biodegradáveis, poliuretano.
+- <img src="assets/icons/human_05_black.svg" width="18px"> O resumo está em português.
+- <img src="assets/icons/human_04_black.svg" width="18px"> Palavras-chave: bioespuma, polímeros biodegradáveis, poliuretano.
 
 ### 3. EXTRAÇÃO DE DADOS (TABELA)
 
@@ -36,8 +58,19 @@ LEITHOLD NETO, Alfredo. **Materiais utilizados para proteção de equipamentos s
 | Conclusão                  | Bioespumas® apresentaram biodegradabilidade mais acentuada que poliestireno expandido, com potencial para substituição. |
 | Ano de Dados Setoriais (Plásticos) | 2009 (referenciado em "Figura 1: Principais setores consumidores de plásticos em 2009")                          |
 
-- **Coordenadas Geográficas:** Não foram encontradas coordenadas geográficas no fragmento de texto fornecido.
+- <img src="assets/icons/human_19_black.svg" width="18px"> **Coordenadas Geográficas:** <img src="assets/icons/human_19_black.svg" width="18px"> Não foram encontradas coordenadas geográficas no fragmento de texto fornecido.
 
 ### 4. Extrair Bibliografia citada no texto
-- LEITHOLD NETO, Alfredo. Materiais utilizados para proteção de equipamentos sensíveis: A importância da biodegradação em solo simulado. 2014. Projeto do Trabalho de Conclusão de Curso (Bacharelado em Química) – Universidade Tecnológica Federal do Paraná. Curitiba, 2014.
-- ASTM G 160. *Standard Practice for Assessing the Microbial Detoxification of Chemical Compounds in Soils*. (Mencionada como norma utilizada no estudo).
+- <img src="assets/icons/human_10_black.svg" width="18px"> LEITHOLD NETO, Alfredo. Materiais utilizados para proteção de equipamentos sensíveis: A importância da biodegradação em solo simulado. 2014. Projeto do Trabalho de Conclusão de Curso (Bacharelado em Química) – Universidade Tecnológica Federal do Paraná. Curitiba, 2014.
+- <img src="assets/icons/human_16_black.svg" width="18px"> ASTM G 160. *Standard Practice for Assessing the Microbial Detoxification of Chemical Compounds in Soils*. (Mencionada como norma utilizada no estudo).
+
+---
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

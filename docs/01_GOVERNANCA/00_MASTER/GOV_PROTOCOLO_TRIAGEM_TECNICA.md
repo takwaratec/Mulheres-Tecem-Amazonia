@@ -11,6 +11,18 @@ author:
 date: '2026-03-24'
 ---
 
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+
+<p align="right"><i>"Arte sem ética não é arte."<br>— Ariano Suassuna</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: GOV_PROTOCOLO_TRIAGEM_TECNICA.md
+*   **Status**: Status Consolidado
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 # Protocolo de Triagem Técnica e Sincronização de Ativos (v1.0)
 
 Este protocolo define os critérios para catalogação, redação e intercomunicação de ativos de pesquisa e engenharia no Projeto **Mulheres Que Tecem a Floresta**.
@@ -32,9 +44,9 @@ Todo documento promovido da Triagem Bruta deve seguir a taxonomia institucional:
 
 Para garantir a integridade do acervo, toda referência deve ser rastreável:
 
-- **Links Absolutos**: Referências a arquivos locais devem usar o URI completo `file:///...`.
-- **Ancoragem Bibliográfica**: Toda Nota Técnica deve citar explicitamente o Memorando Técnico de origem.
-- **Catálogo de Ouro**: As referências externas (PDFs, Teses, Artigos) devem ser listadas com DOI ou link permanente na seção final de cada documento.
+- <img src="assets/icons/human_02_black.svg" width="18px"> **Links Absolutos**: Referências a arquivos locais devem usar o URI completo `file:///...`.
+- <img src="assets/icons/human_15_black.svg" width="18px"> **Ancoragem Bibliográfica**: Toda Nota Técnica deve citar explicitamente o Memorando Técnico de origem.
+- <img src="assets/icons/human_04_black.svg" width="18px"> **Catálogo de Ouro**: As referências externas (PDFs, Teses, Artigos) devem ser listadas com DOI ou link permanente na seção final de cada documento.
 
 ## 3. Critérios de Triagem "Cirúrgica"
 
@@ -45,18 +57,16 @@ Para garantir a integridade do acervo, toda referência deve ser rastreável:
 ## 4. Estrutura Padrão do Memorando (MEM-TEC)
 
 ```markdown
----
 projeto: Mulheres Que Tecem a Floresta 
 instituicao: Consórcio UnB/UFRR/UFAC
 tipo: Memorando Técnico
 referencia: ENG-MEM-XXX-2026
 status: CONSOLIDADO (SGMAS-Ready)
 author:
-- affiliation: Universidade de Brasília / Núcleo Institucional
+- <img src="assets/icons/human_06_black.svg" width="18px"> affiliation: Universidade de Brasília / Núcleo Institucional
   name: Institucional, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-24'
----
 # Título do Documento
 ## 1. Diagnóstico Detalhado ...
 ## 2. Metodologia e Dados ...
@@ -65,4 +75,12 @@ date: '2026-03-24'
 ```
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

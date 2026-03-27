@@ -3,13 +3,25 @@ projeto: Mulheres Que Tecem a Floresta
 instituicao: Consórcio UnB/UFRR/UFAC
 tipo: Memorial Técnico
 referencia: ENG-BOM-011_DETALHADO-DOMO
-status: CONSOLIDADO (SGMAS-Ready)
+status: CONSOLIDADO (-Ready)
 author:
 - affiliation: Universidade de Brasília / Núcleo Institucional
   name: Institucional, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-24'
 ---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"O Brasil precisa de ciência para ser soberano."<br>— Ennio Candotti</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: ENG-BOM-011_DETALHADO-DOMO.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
 
 ## 2. NÚCLEO TÉRMICO CENTRAL (T02–T04)
 
@@ -24,8 +36,6 @@ date: '2026-03-24'
 
 **Subtotal Núcleo Térmico:** R$ 28.000 (Estimado)
 
----
-
 ## 3. CÂMARAS DE TRATAMENTO E BENEFICIAMENTO (D1)
 
 | Item | Descrição | Unidade | Qtd | Especificação Técnica |
@@ -37,8 +47,6 @@ date: '2026-03-24'
 | 3.5 | Misturador/Dosador Airless PU vegetal | un | 1 | Para aplicação de IMPERVEG® |
 
 **Subtotal Equipamentos:** R$ 20.000 (Estimado)
-
----
 
 ## 4. RESUMO FINANCEIRO ESTIMADO (PILOTO)
 
@@ -55,10 +63,11 @@ date: '2026-03-24'
 
 ---
 
-**Coordenação Técnica:** Núcleo Institucional – Fabio Resck
-**Data:** Março de 2026
-**Referência:** [ENG-MD-011_MEMORIAL-DESCRITIVO-DOMO.md](ENG-MD-011_MEMORIAL-DESCRITIVO-DOMO.md)
-**Alinhamento Estratégico:** [WTF-ALINHAMENTO_ESTRATEGICO.md](../../../../01_GOVERNANCA/WTF-ALINHAMENTO_ESTRATEGICO.md)
+---
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

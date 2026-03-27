@@ -9,6 +9,18 @@ author:
 date: '2026-03-26'
 ---
 
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"O conhecimento é a nossa maior arma contra o atraso."<br>— Bertha Lutz</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: BUDGET_orcamento-rascunho-territorial.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 # Orçamento: Mulheres Que Tecem a Floresta (R$ 30M)
 
 > **Status:** Rascunho de Planejamento (Sombra/Auditoria)  
@@ -71,9 +83,17 @@ O investimento em pessoas (OPEX) é desenhado para que, após 48 meses, a rede d
 ---
 
 ## Métricas de Controle
--   **Alavancagem**: Cada R$ 1 investido em máquinas no Acre deve gerar capacidade produtiva para R$ 2 em serviços nos territórios.
--   **Equidade**: Mínimo de 60% do orçamento de formação (Núcleo 2) destinado diretamente a mulheres e lideranças de base.
--   **Carbono**: Custo por tonelada de CO2e removida monitorado via MRV automatizado.
+- <img src="assets/icons/human_07_black.svg" width="18px">   **Alavancagem**: Cada R$ 1 investido em máquinas no Acre deve gerar capacidade produtiva para R$ 2 em serviços nos territórios.
+- <img src="assets/icons/human_11_black.svg" width="18px">   **Equidade**: Mínimo de 60% do orçamento de formação (Núcleo 2) destinado diretamente a mulheres e lideranças de base.
+- <img src="assets/icons/human_03_black.svg" width="18px">   **Carbono**: Custo por tonelada de CO2e removida monitorado via MRV automatizado.
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

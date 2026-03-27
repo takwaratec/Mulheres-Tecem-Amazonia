@@ -9,11 +9,21 @@ author:
 date: '2026-03-26'
 ---
 
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+
+<p align="right"><i>"Arte sem ética não é arte."<br>— Ariano Suassuna</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: ANEXO_VI_MAPAS_INTERVENCAO.md
+*   **Status**: Status Consolidado
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 # ANEXO VI: Mapas das Áreas de Intervenção
 
-**Referência Visual:** Plataforma **SGMAS Plotter (Sovereignty Totality)**
-
----
+**Referência Visual:** Plataforma ** Plotter (Sovereignty Totality)**
 
 ## 1. REDE DE INTERVENÇÃO (EIXO AC/AM/RR)
 O projeto atua em uma rede descentralizada composta por:
@@ -24,15 +34,19 @@ O projeto atua em uma rede descentralizada composta por:
 4.  **Expansão Futura:** Calha do Rio Branco (Roraima).
 
 ## 2. LOGÍSTICA E ALCANCE
-- **Raio de Ação Fluvial:** Navegação via Balsa-Catamarã T10 entre os polos comunitários ribeirinhos.
-- **Raio de Ação Rodoviário:** Cobertura via veículos 4x4 em cidades satélites ao Hub Rio Branco.
+- <img src="assets/icons/human_15_black.svg" width="18px"> **Raio de Ação Fluvial:** <img src="assets/icons/human_15_black.svg" width="18px"> Navegação via Balsa-Catamarã T10 entre os polos comunitários ribeirinhos.
+- <img src="assets/icons/human_16_black.svg" width="18px"> **Raio de Ação Rodoviário:** <img src="assets/icons/human_16_black.svg" width="18px"> Cobertura via veículos 4x4 em cidades satélites ao Hub Rio Branco.
 
 ## 3. MONITORAMENTO GEOESPACIAL (SMGA)
 Toda a área de manejo de bambu e os polos construídos são georreferenciados no sistema de MRV, garantindo a visualização da "Pegada de Regeneração" do projeto.
 
 ---
-**Nota:** O link para o mapa interativo (SGMAS Plotter) será disponibilizado para auditoria do BNDES.
-Referência: [sgmas_plotter.html](../sgmas_plotter.html)
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

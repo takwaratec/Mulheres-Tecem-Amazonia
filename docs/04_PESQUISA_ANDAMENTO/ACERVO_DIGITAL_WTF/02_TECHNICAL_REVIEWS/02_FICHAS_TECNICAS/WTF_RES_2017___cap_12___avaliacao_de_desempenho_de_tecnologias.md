@@ -7,8 +7,32 @@ autor_original: Not Identified
 equipe_tecnica: UnB/UFAC/UFRR
 ano_publicacao: '2017'
 ---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"O céu está caindo porque os brancos não param de comer a terra."<br>— Davi Kopenawa</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: WTF_RES_2017___cap_12___avaliacao_de_desempenho_de_tecnologias.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 Khosrow Ghavami Normando Perazzo Barbosa Luis Eustáquio Moreira
 
 ## 1.  Introdução
 
 Pelo fato de ser um material renovável, que absorve gás carbônico e usa energia solar, ser facilmente reincorporado à natureza após seu ciclo de vida, crescer com facilidade e rapidamente e possuir espécies que apresentam excelentes  propriedades  de  engenharia,  o  bambu,  planta  milenar,  pode ser chamado, nessa época de preocupações com a sustentabilidade, de um mater...
+
+---
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

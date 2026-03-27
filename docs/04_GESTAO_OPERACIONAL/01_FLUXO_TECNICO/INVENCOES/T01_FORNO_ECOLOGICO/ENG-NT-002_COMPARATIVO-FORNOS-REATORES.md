@@ -10,9 +10,19 @@ author:
 date: "2026-03-24"
 ---
 
-# NT-002: Estudo Comparativo — Sistema T02 vs. Padrões Industriais
-![Status: Ready](https://img.shields.io/badge/Status-Ready-brightgreen)
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
+<p align="right"><i>"A educação não transforma o mundo. Educação muda as pessoas. Pessoas mudam o mundo."<br>— Paulo Freire</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: ENG-NT-002_COMPARATIVO-FORNOS-REATORES.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
+# NT-002: Estudo Comparativo — Sistema T02 vs. Padrões Industriais
 ## 1. Análise de Eficiência e Circularidade
 
 | Atributo | Sistema T02 (Takwara) | Padrões Industriais | Diferencial T02 |
@@ -23,11 +33,16 @@ date: "2026-03-24"
 | **Integração** | Cascateamento (Pirólise + Vapor) | Foco apenas em Carvão/EP | Usina de tratamento completa. |
 
 ## 2. Incrementos de Engenharia (Modelo v1.0)
-- **Sistema Multi-Sifão**: Decantação em série para separação de alcatrão e vinagre de madeira, garantindo pureza do vapor.
-- **Isolamento de Base**: Recomenda-se a configuração semi-enterrada do queimador para maximizar a inércia térmica e o rendimento do vácuo exaustor das câmaras.
+- <img src="assets/icons/human_02_black.svg" width="18px"> **Sistema Multi-Sifão**: Decantação em série para separação de alcatrão e vinagre de madeira, garantindo pureza do vapor.
+- <img src="assets/icons/human_19_black.svg" width="18px"> **Isolamento de Base**: Recomenda-se a configuração semi-enterrada do queimador para maximizar a inércia térmica e o rendimento do vácuo exaustor das câmaras.
 
 ---
-**🎋 Takwara — Engenharia de Alto Desempenho para a Amazônia**
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

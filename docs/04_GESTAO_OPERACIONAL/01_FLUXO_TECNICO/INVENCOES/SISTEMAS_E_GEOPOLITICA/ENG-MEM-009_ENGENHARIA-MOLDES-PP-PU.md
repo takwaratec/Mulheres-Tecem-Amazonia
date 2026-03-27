@@ -10,30 +10,40 @@ author:
 date: '2026-03-24'
 ---
 
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"Não se morre enquanto houver quem nos lembre."<br>— Cora Coralina</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: ENG-MEM-009_ENGENHARIA-MOLDES-PP-PU.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 ## 0. Tarefas Pendentes e Aprofundamento (Roadmap Rio Branco)
 
 > [!IMPORTANT]
 > Esta seção documenta os requisitos para a plena adaptabilidade à Planta de Rio Branco (AC).
 
-- [ ] **Tomada de Preços Reais**: Realizar cotação formal com Izan, Exata e Indusmart para o Kit Matriz em PP.
-- [ ] **Aprofundamento Técnico**: Detalhar BoM de equipamentos adjacentes (Moedores de facas para PET/Bambu, Lavadoras de fricção, Sistemas de Secagem Solar).
-- [ ] **Logística Reversa**: Mapear associações de catadores e cooperativas instaladas em Rio Branco e Cruzeiro do Sul para fornecimento de PET/PEAD.
-- [ ] **Integração SGMAS**: Cruzar dados de geração de resíduos (ENG-MEM-004) com a capacidade produtiva dos moldes modulares.
-- [ ] **Plano de Escoamento**: Definir rotas fluviais/terrestres para distribuição do "Kit Tijolo Modular" via unidades móveis.
+- <img src="assets/icons/human_12_black.svg" width="18px"> [ ] **Tomada de Preços Reais**: Realizar cotação formal com Izan, Exata e Indusmart para o Kit Matriz em PP.
+- <img src="assets/icons/human_05_black.svg" width="18px"> [ ] **Aprofundamento Técnico**: Detalhar BoM de equipamentos adjacentes (Moedores de facas para PET/Bambu, Lavadoras de fricção, Sistemas de Secagem Solar).
+- <img src="assets/icons/human_09_black.svg" width="18px"> [ ] **Logística Reversa**: Mapear associações de catadores e cooperativas instaladas em Rio Branco e Cruzeiro do Sul para fornecimento de PET/PEAD.
+- <img src="assets/icons/human_18_black.svg" width="18px"> [ ] **Integração **: Cruzar dados de geração de resíduos (ENG-MEM-004) com a capacidade produtiva dos moldes modulares.
+- <img src="assets/icons/human_14_black.svg" width="18px"> [ ] **Plano de Escoamento**: Definir rotas fluviais/terrestres para distribuição do "Kit Tijolo Modular" via unidades móveis.
 
 
 # Memorando Técnico: Engenharia de Moldes em PP para Compósitos de PU Vegetal
-![Status: Ready](https://img.shields.io/badge/Status-Ready-brightgreen)
-
 ## 1. Tese de Manufatura e Inovação
 
 O Projeto Mulheres que Tecem a Floresta utiliza um sistema construtivo baseado em biocompósitos de **Poliuretano Vegetal (Mamona)** e fibras naturais (serragem, PET e bambu). A inovação crítica reside na interface de moldagem: o uso de **Polipropileno (PP) de Alta Dureza** usinado para garantir antiaderência permanente em moldagem a frio, eliminando a necessidade de desmoldantes químicos agressivos.
 
-- **Material do Molde**: Chapa de PP 20mm usinada CNC.
-- **Acabamento Superficial**: Rugosidade média (**Ra < 0,8 µm**) para facilitar o desmolde.
-- **Geometria de Projeto**: Pinos cônicos usinados (Ø60–62 mm, H=55 mm) e sistema colmeia modular.
+- <img src="assets/icons/human_13_black.svg" width="18px"> **Material do Molde**: Chapa de PP 20mm usinada CNC.
+- <img src="assets/icons/human_16_black.svg" width="18px"> **Acabamento Superficial**: Rugosidade média (**Ra < 0,8 µm**) para facilitar o desmolde.
+- <img src="assets/icons/human_08_black.svg" width="18px"> **Geometria de Projeto**: Pinos cônicos usinados (Ø60–62 mm, H=55 mm) e sistema colmeia modular.
 
-## 2. Especificações de Peças Sugeridas (Matriz SGMAS)
+## 2. Especificações de Peças Sugeridas (Matriz )
 
 | Tipo de Peça | Dimensões Úteis (mm) | Configuração do Molde | Aplicação |
 | :--- | :--- | :--- | :--- |
@@ -51,14 +61,14 @@ A triagem identifica empresas aptas a realizar a transição do protótipo à es
 3. **Indusmart**: Atuação em projetos sob desenho (DXF/STEP) com acabamento técnico refinado.
 4. **NTC Company (RS/SP)**: Engenharia de polímeros avançados; ideal para discussão de blends e estabilidade dimensional.
 
-## 4. Estratégia de Cruzamento e Geolocalização (SGMAS)
+## 4. Estratégia de Cruzamento e Geolocalização ()
 
 A integração entre resíduos (ENG-MEM-004) e manufatura (ENG-MEM-009) define a seguinte malha de **Bio-Soberania Territorial**:
 
 ### 4.1. Níveis de Planta e Localização
-- **Nível 2 (Hub Industrial - Rio Branco)**: Produção de moldes e painéis estruturais. Escoamento via BR-364.
-- **Nível 1 (Pré-Beneficiamento - Cruzeiro do Sul / Mâncio Lima)**: Transformação de passivos (PET/PEAD) e bambu em matéria-prima secundária. Proximidade com lixões operacionais e TIs.
-- **Nível 0 (Unidades Itinerantes - Alto Juruá)**: Coleta e processamento primário (NT-ENG-001) para Porto Walter e Marechal Thaumaturgo.
+- <img src="assets/icons/human_17_black.svg" width="18px"> **Nível 2 (Hub Industrial - <img src="assets/icons/human_17_black.svg" width="18px"> Rio Branco)**: Produção de moldes e painéis estruturais. Escoamento via BR-364.
+- <img src="assets/icons/human_04_black.svg" width="18px"> **Nível 1 (Pré-Beneficiamento - <img src="assets/icons/human_04_black.svg" width="18px"> Cruzeiro do Sul / Mâncio Lima)**: Transformação de passivos (PET/PEAD) e bambu em matéria-prima secundária. Proximidade com lixões operacionais e TIs.
+- <img src="assets/icons/human_06_black.svg" width="18px"> **Nível 0 (Unidades Itinerantes - <img src="assets/icons/human_06_black.svg" width="18px"> Alto Juruá)**: Coleta e processamento primário (NT-ENG-001) para Porto Walter e Marechal Thaumaturgo.
 
 ### 4.2. BoM de Equipamentos Adjacentes (Estimativa por Unidade N1)
 
@@ -70,7 +80,7 @@ A integração entre resíduos (ENG-MEM-004) e manufatura (ENG-MEM-009) define a
 | **Prensa de Fardos** | Manual/Hidráulica (10 tons) | Logística Reversa (Cooperativas) |
 
 ### 4.3. Associações e Cooperativas (Catadores)
-- **Parceria Estratégica**: Integração com a **ASCCRUS** (Associação de Catadores de Cruzeiro do Sul) e núcleos de Rio Branco para fornecimento estável de plásticos, remunerando o serviço ambiental como crédito de logística reversa.
+- <img src="assets/icons/human_02_black.svg" width="18px"> **Parceria Estratégica**: Integração com a **ASCCRUS** <img src="assets/icons/human_02_black.svg" width="18px"> (Associação de Catadores de Cruzeiro do Sul) e núcleos de Rio Branco para fornecimento estável de plásticos, remunerando o serviço ambiental como crédito de logística reversa.
 
 ### 4.4. BoM Escalonado e Projeção Orçamentária (CAPEX / Ativos PI)
 
@@ -85,9 +95,9 @@ A integração entre resíduos (ENG-MEM-004) e manufatura (ENG-MEM-009) define a
 
 ## 5. Protocolo de Desmolde e Manutenção
 
-- **Agente de Limpeza**: Uso exclusivo de Álcool 96° para remoção de resíduos de PU sem degradar a matriz de PP.
-- **Estabilidade Térmica**: Resistência operacional para a curva exotérmica do PU vegetal durante a cura.
-- **Logística Juruá**: Moldes leves e modulares para montagem rápida no Canteiro-Escola de Rio Branco (AC).
+- <img src="assets/icons/human_10_black.svg" width="18px"> **Agente de Limpeza**: Uso exclusivo de Álcool 96° para remoção de resíduos de PU sem degradar a matriz de PP.
+- <img src="assets/icons/human_01_black.svg" width="18px"> **Estabilidade Térmica**: Resistência operacional para a curva exotérmica do PU vegetal durante a cura.
+- <img src="assets/icons/human_07_black.svg" width="18px"> **Logística Juruá**: Moldes leves e modulares para montagem rápida no Canteiro-Escola de Rio Branco (AC).
 
 ## 5. Bibliografia Sincronizada (Sync-Link)
 
@@ -97,8 +107,12 @@ A integração entre resíduos (ENG-MEM-004) e manufatura (ENG-MEM-009) define a
 4. **[NBR 16828](https://www.abntcatalogo.com.br/)**: *Estruturas de Bambu - Projeto e Execução*.
 
 ---
-**Elaboração**: Antigravity Technical Agent (v1.0).
-*Refinado sob Protocolo Advocacy Mulheres que Tecem a Floresta (IA-Free) - Março 2026.*
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

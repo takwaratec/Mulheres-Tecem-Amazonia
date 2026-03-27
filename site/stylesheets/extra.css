@@ -31,15 +31,15 @@
   top: 4.8rem !important;
 }
 
-/* 2. Fundo das Colunas Laterais (Vermelho Urucum Indígena) */
+/* 2. Fundo das Colunas Laterais (Vermelho Urucum Indígena com Alpha) */
 .md-sidebar--primary .md-sidebar__scrollwrap,
 .md-sidebar--secondary .md-sidebar__scrollwrap {
-  background-color: #9E1A1A !important; /* Vermelho Urucum */
+  background-color: rgba(158, 26, 26, 0.94) !important; /* Vermelho Urucum com 94% de opacidade */
   margin-top: -1.2rem;
   padding-top: 1.2rem;
   border-radius: 0;
   overflow: hidden;
-  box-shadow: inset 0 0 10px rgba(0,0,0,0.2);
+  box-shadow: inset 0 0 10px rgba(0,0,0,0.3);
 }
 
 /* ============================================================
@@ -57,6 +57,10 @@
     backdrop-filter: none !important;
     -webkit-backdrop-filter: none !important;
     text-shadow: none !important;
+}
+
+.md-sidebar--secondary .md-nav__title {
+  display: none !important; /* Remove o espelhamento do H1 na barra lateral direita */
 }
 
 /* 2. DIREITA: Remoção do Blur e Ajuste de Margem do Índice */
@@ -168,7 +172,7 @@
 /* Miolo: Fundo Branco Imaculado Elevado */
 .md-content {
   background-color: #ffffff !important;
-  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+  box-shadow: none;
   border-radius: 4px;
   z-index: 1;
   color: #000000 !important;
@@ -255,23 +259,28 @@
     margin-top: -2px;
 }
 
-/* --- Climate Clock Widget --- */
+/* --- Climate Clock Widget (NASA) --- */
 .mqtf-climate-clock-container {
+    padding: 0;
     position: absolute;
-    right: 20px;
-    top: 48px; /* Abaixo do painel git */
-    z-index: 10;
-    opacity: 0.9;
-    transition: opacity 0.3s;
+    right: 320px;     /* Alinhado sob o painel do GitHub em telas padrão */
+    top: 52px;        /* Exatamente encostado na faixa do header */
+    z-index: 1000;
+    opacity: 1.0;     /* Visibilidade total */
+    transition: all 0.3s ease;
+    transform: scale(0.95); /* Tamanho adequado à tarja solicitado */
+    transform-origin: top right;
 }
 
 .mqtf-climate-clock-container:hover {
     opacity: 1;
+    transform: scale(0.72); /* Leve ênfase no hover */
 }
 
 .mqtf-climate-clock-container iframe {
     background: transparent;
-    border-radius: 4px;
+    border-radius: 8px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 /* Esconder o widget em telas muito pequenas */

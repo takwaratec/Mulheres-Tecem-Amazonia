@@ -9,6 +9,18 @@ author:
 date: '2026-03-26'
 ---
 
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"A força do lugar é a força do mundo."<br>— Milton Santos</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: WTF_INDICE-CORRELACAO-BIG-PROJECT.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 # Master Correlation Index: Big Project (BNDES Componente 2)
 
 Este índice é o **Mapa de Calor** e a fonte de verdade para todos os agentes de criação (IA) e colaboradores internos. Ele correlaciona as tecnologias proprietárias com seus respectivos memoriais, notas técnicas e rubricas orçamentárias.
@@ -29,14 +41,14 @@ Este índice é o **Mapa de Calor** e a fonte de verdade para todos os agentes d
 
 ## 2. Matriz Estratégica e Territorial (NT-Series)
 
-- **Estratégia de Manejo**: [ENG-NT-001](../T02_REATOR_BIORREFINARIA/ENG-NT-001_ESTRATEGIA-MANEJO-BIORREFINARIA.md) -> Base para a redução de volume na fonte.
-- **Análise de Eficiência**: [ENG-NT-002](../T01_FORNO_ECOLOGICO/ENG-NT-002_COMPARATIVO-FORNOS-REATORES.md) -> Prova da superioridade técnica Takwara.
-- **Geopolítica do Bambu**: [NT-GEO-002](../SISTEMAS_E_GEOPOLITICA/NT-GEO-002_SOBERANIA-MAISTRAGEM-ACRE.md) -> Correlação com as bacias hidrográficas do Acre.
+- <img src="assets/icons/human_05_black.svg" width="18px"> **Estratégia de Manejo**: [ENG-NT-001](../T02_REATOR_BIORREFINARIA/ENG-NT-001_ESTRATEGIA-MANEJO-BIORREFINARIA.md) -> Base para a redução de volume na fonte.
+- <img src="assets/icons/human_04_black.svg" width="18px"> **Análise de Eficiência**: [ENG-NT-002](../T01_FORNO_ECOLOGICO/ENG-NT-002_COMPARATIVO-FORNOS-REATORES.md) -> Prova da superioridade técnica Takwara.
+- <img src="assets/icons/human_13_black.svg" width="18px"> **Geopolítica do Bambu**: [NT-GEO-002](../SISTEMAS_E_GEOPOLITICA/NT-GEO-002_SOBERANIA-MAISTRAGEM-ACRE.md) -> Correlação com as bacias hidrográficas do Acre.
 
 ## 3. Matriz Executiva e Financeira (ORC/CRON)
 
-- **Inventário de CAPEX/OPEX**: [ENG-INVENTARIO-CIRURGICO-ORCAMENTO](WTF_INVENTARIO-CIRURGICO-ORCAMENTO.md).
-- **Cronograma 24 Meses**: [WTF_CRONOGRAMA-EXECUCAO-24M](WTF_CRONOGRAMA-EXECUCAO-24M.md).
+- <img src="assets/icons/human_17_black.svg" width="18px"> **Inventário de CAPEX/OPEX**: [ENG-INVENTARIO-CIRURGICO-ORCAMENTO](WTF_INVENTARIO-CIRURGICO-ORCAMENTO.md).
+- <img src="assets/icons/human_03_black.svg" width="18px"> **Cronograma 24 Meses**: [WTF_CRONOGRAMA-EXECUCAO-24M](WTF_CRONOGRAMA-EXECUCAO-24M.md).
 
 ## 4. Guia para Agentes de Criação
 
@@ -47,7 +59,12 @@ Para produzir novos documentos ou conteúdos sobre o Big Project:
 4.  **Localização**: Cruze com a `NT-GEO-002` para contextualizar a entrega no território do Acre.
 
 ---
-**🎋 Mapa de calor atualizado para ativação total das equipes.**
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

@@ -9,15 +9,27 @@ author:
 date: '2026-03-26'
 ---
 
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+
+<p align="right"><i>"A educação não transforma o mundo. Educação muda as pessoas. Pessoas mudam o mundo."<br>— Paulo Freire</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: FICHA_Nota_Tecnica_001_BIOECONOMIA_CTI_Bioeconomia_no_Amazonas.md
+*   **Status**: Status Consolidado
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 ## FICHA CIENTÍFICA ESTRUTURADA
 
 ### 1. METADADOS E CABEÇALHO
 
-*   **projeto:** Mulheres Que Tecem a Floresta
-*   **instituicao:** Consórcio UnB/UFRR/UFAC
-*   **tipo:** Pesquisa: Amazônia Setentrional (PES)
-*   **referencia:** PES-TEC-6593-2026
-*   **status:** Ready
+* <img src="assets/icons/human_07_black.svg" width="18px">   **projeto:** <img src="assets/icons/human_07_black.svg" width="18px"> Mulheres Que Tecem a Floresta
+* <img src="assets/icons/human_14_black.svg" width="18px">   **instituicao:** <img src="assets/icons/human_14_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
+* <img src="assets/icons/human_02_black.svg" width="18px">   **tipo:** <img src="assets/icons/human_02_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
+* <img src="assets/icons/human_10_black.svg" width="18px">   **referencia:** <img src="assets/icons/human_10_black.svg" width="18px"> PES-TEC-6593-2026
+* <img src="assets/icons/human_15_black.svg" width="18px">   **status:** <img src="assets/icons/human_15_black.svg" width="18px"> Ready
 
 **REFERÊNCIA BIBLIOGRÁFICA (ABNT):**
 
@@ -25,10 +37,10 @@ AMAZONAS. Secretaria de Estado de Desenvolvimento Econômico, Ciência, Tecnolog
 
 ### 2. TRADUÇÃO E SÍNTESE TÉCNICA
 
-*   **Tradução do Resumo (Abstract):**
+* <img src="assets/icons/human_13_black.svg" width="18px">   **Tradução do Resumo (Abstract):**
     Não há resumo (Abstract) no texto bruto fornecido. O documento consiste em Notas Técnicas que estabelecem diretrizes conceituais para a bioeconomia no Amazonas.
 
-*   **Palavras-chave em português:**
+* <img src="assets/icons/human_06_black.svg" width="18px">   **Palavras-chave em português:**
     1.  Bioeconomia
     2.  Amazônia
     3.  Desenvolvimento Sustentável
@@ -52,22 +64,22 @@ AMAZONAS. Secretaria de Estado de Desenvolvimento Econômico, Ciência, Tecnolog
 
 ### 4. RELAÇÃO COM O PROJETO (CONEXÃO WTF)
 
-*   **Como isso beneficia as mulheres extrativistas?**
+* <img src="assets/icons/human_19_black.svg" width="18px">   **Como isso beneficia as mulheres extrativistas?**
     O texto enfatiza a "Bioeconomia da Sociobiodiversidade", que se alinha diretamente com as atividades das mulheres extrativistas. Este setor é caracterizado pela matéria-prima proveniente da coleta/extrativismo e do cultivo no âmbito da agricultura familiar tradicional, com alta dependência dos recursos da biodiversidade e dos serviços ecossistêmicos. Beneficia as mulheres extrativistas por:
-    *   **Valorização de Saberes Tradicionais:** Destaca a aplicação dos saberes tradicionais e o modo de produção familiar.
-    *   **Organização Coletiva:** Menciona a formação de associações e cooperativas, estruturas que podem fortalecer economicamente as mulheres extrativistas.
-    *   **Sustentabilidade e Conservação:** Caracteriza-se por baixo nível de impactos ambientais negativos e elevado grau de conservação, garantindo a longevidade dos recursos naturais de subsistência.
-    *   **Redução de Desigualdades:** Um dos princípios norteadores da Bioeconomia Amazônica é a "Diminuição das desigualdades sociais e territoriais", o que é crucial para as comunidades extrativistas.
-    *   **Mercados Não-Disruptivos:** Propõe inovar nas estruturas de mercado visando uma escala não-disruptiva dos modos e culturas tradicionais, respeitando seus padrões sociais e modos de vida, além de considerar a repartição de benefícios e proteção do conhecimento tradicional.
+    * <img src="assets/icons/human_11_black.svg" width="18px">   **Valorização de Saberes Tradicionais:** <img src="assets/icons/human_11_black.svg" width="18px"> Destaca a aplicação dos saberes tradicionais e o modo de produção familiar.
+    * <img src="assets/icons/human_05_black.svg" width="18px">   **Organização Coletiva:** <img src="assets/icons/human_05_black.svg" width="18px"> Menciona a formação de associações e cooperativas, estruturas que podem fortalecer economicamente as mulheres extrativistas.
+    * <img src="assets/icons/human_04_black.svg" width="18px">   **Sustentabilidade e Conservação:** <img src="assets/icons/human_04_black.svg" width="18px"> Caracteriza-se por baixo nível de impactos ambientais negativos e elevado grau de conservação, garantindo a longevidade dos recursos naturais de subsistência.
+    * <img src="assets/icons/human_08_black.svg" width="18px">   **Redução de Desigualdades:** <img src="assets/icons/human_08_black.svg" width="18px"> Um dos princípios norteadores da Bioeconomia Amazônica é a "Diminuição das desigualdades sociais e territoriais", o que é crucial para as comunidades extrativistas.
+    * <img src="assets/icons/human_17_black.svg" width="18px">   **Mercados Não-Disruptivos:** <img src="assets/icons/human_17_black.svg" width="18px"> Propõe inovar nas estruturas de mercado visando uma escala não-disruptiva dos modos e culturas tradicionais, respeitando seus padrões sociais e modos de vida, além de considerar a repartição de benefícios e proteção do conhecimento tradicional.
 
-*   **Quais as diretrizes para o projeto e a bioeconomia?**
+* <img src="assets/icons/human_18_black.svg" width="18px">   **Quais as diretrizes para o projeto e a bioeconomia?**
     As diretrizes e princípios norteadores para a bioeconomia, que podem ser aplicadas ao projeto e à bioeconomia em geral, são:
-    *   **Quatro Princípios Norteadores da Bioeconomia Amazônica:**
+    * <img src="assets/icons/human_09_black.svg" width="18px">   **Quatro Princípios Norteadores da Bioeconomia Amazônica:**
         1.  Conservação da biodiversidade.
         2.  Ciência e tecnologia voltadas ao uso sustentável da sociobiodiversidade.
         3.  Diminuição das desigualdades sociais e territoriais.
         4.  Expansão das áreas florestadas biodiversas e sustentáveis.
-    *   **Cinco Pautas Prioritárias para a Agenda Bioeconômica (Hélice Quíntupla):**
+    * <img src="assets/icons/human_03_black.svg" width="18px">   **Cinco Pautas Prioritárias para a Agenda Bioeconômica (Hélice Quíntupla):**
         1.  Investimentos inovadores.
         2.  Marcos regulatórios.
         3.  Formação científica.
@@ -111,4 +123,12 @@ MARSTON, A.; KENNEMORE, A. Extraction, Revolution, Plurinationalism: Rethinking 
 SILVA, L. H. P. da; PINTO, L. C. L.; TEIXEIRA, S. A. de Melo; DRUMOND, M. A. Pequi fruit (Caryocar brasiliense) in Minas Gerais: commercialization and public policy. *Floresta e Ambiente*, v. 27, n. 2, e201711, 2020.
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

@@ -28,11 +28,24 @@ translations:
 type: Boletim Técnico-Científico
 version: '2.2.2'
 ---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"Nós somos a floresta que pensa."<br>— Davi Kopenawa</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: nota-tecnica-saneamento-ecologico.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 # Nota Técnica: Saneamento Ecológico e Bio-resiliência Turística
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./nota-tecnica-saneamento-ecologico.md)
+[![<img src="assets/icons/human_01_red.svg" width="18px"><img src="assets/icons/human_01_red.svg" width="18px"> PT](https://img.shields.io/badge/<img src="assets/icons/human_01_red.svg" width="18px"><img src="assets/icons/human_01_red.svg" width="18px">-Português-green)](./nota-tecnica-saneamento-ecologico.md)
 ![Status](https://img.shields.io/badge/status-V2.2.2%20(Advocacy%205.1)-blue)
 ![Tipo](https://img.shields.io/badge/tipo-Boletim%20Técnico--Científico-teal)
 
@@ -115,9 +128,9 @@ As águas cinzas, provenientes de lavatórios e duchas, embora possuam carga org
 
 O módulo hidráulico proposto é composto por três etapas de tratamento:
 
-* **Caixa de Decantação (100-200L):** Dimensionada para um tempo de retenção mínima de 2 horas, retendo sólidos em suspensão e gorduras.  
-* **Filtro de Areia e Cascalho:** Realiza a remoção física de finos antes do efluente entrar no leito plantado.  
-* **Wetlands de Fluxo Subsuperficial:** Leitos de 10-15m² para cada 20 usuários/dia, cultivados com plantas macrófitas como *Typha* e *Canna*. A microbiota associada às raízes digere a carga orgânica, devolvendo água polida ao meio ambiente.
+* <img src="assets/icons/human_01_black.svg" width="18px"> **Caixa de Decantação (100-200L):** <img src="assets/icons/human_01_black.svg" width="18px"> Dimensionada para um tempo de retenção mínima de 2 horas, retendo sólidos em suspensão e gorduras.  
+* <img src="assets/icons/human_12_black.svg" width="18px"> **Filtro de Areia e Cascalho:** <img src="assets/icons/human_12_black.svg" width="18px"> Realiza a remoção física de finos antes do efluente entrar no leito plantado.  
+* <img src="assets/icons/human_19_black.svg" width="18px"> **Wetlands de Fluxo Subsuperficial:** <img src="assets/icons/human_19_black.svg" width="18px"> Leitos de 10-15m² para cada 20 usuários/dia, cultivados com plantas macrófitas como *Typha* <img src="assets/icons/human_19_black.svg" width="18px"> e *Canna*. A microbiota associada às raízes digere a carga orgânica, devolvendo água polida ao meio ambiente.
 
 Estudos científicos em cenários similares no Brasil comprovam que a tecnologia de wetlands é extremamente eficiente em climas tropicais, alcançando remoção de ortofosfato de até 92% e redução de coliformes em duas a quatro unidades logarítmicas.26
 
@@ -135,9 +148,9 @@ O investimento em saneamento descentralizado apresenta uma relação custo-benef
 
 A proposta para a Chapada Diamantina introduz o conceito de "Operação e Manutenção (O\&M) via Brigadas de Saneamento". Este modelo gera benefícios socioeconômicos diretos:
 
-* **Geração de Empregos Verdes:** A operação do sistema cria renda local qualificada para guias e brigadistas, fortalecendo o senso de pertencimento e vigilância territorial.  
-* **Gestão de Passivos e Ativos:** Ao adotar o modelo de "Adote uma Trilha", marcas e parceiros investidores podem alinhar seus objetivos de Compliance ESG à conservação direta de biomas e à saúde comunitária, ganhando visibilidade em um destino de alto prestígio.  
-* **Resiliência Financeira:** Cada R$ 1 investido em saneamento economiza R$ 4 em saúde pública, permitindo que os municípios realoquem recursos de tratamentos curativos para ações preventivas e promocionais do destino.33
+* <img src="assets/icons/human_05_black.svg" width="18px"> **Geração de Empregos Verdes:** <img src="assets/icons/human_05_black.svg" width="18px"> A operação do sistema cria renda local qualificada para guias e brigadistas, fortalecendo o senso de pertencimento e vigilância territorial.  
+* <img src="assets/icons/human_13_black.svg" width="18px"> **Gestão de Passivos e Ativos:** <img src="assets/icons/human_13_black.svg" width="18px"> Ao adotar o modelo de "Adote uma Trilha", marcas e parceiros investidores podem alinhar seus objetivos de Compliance ESG à conservação direta de biomas e à saúde comunitária, ganhando visibilidade em um destino de alto prestígio.  
+* <img src="assets/icons/human_02_black.svg" width="18px"> **Resiliência Financeira:** <img src="assets/icons/human_02_black.svg" width="18px"> Cada R$ 1 investido em saneamento economiza R$ 4 em saúde pública, permitindo que os municípios realoquem recursos de tratamentos curativos para ações preventivas e promocionais do destino.33
 
 ## **Educação Ambiental e o Protocolo de Vigilância Cidadã**
 
@@ -196,15 +209,11 @@ Somente destinos que tratarem seu esgoto com seriedade técnica e inovação des
 
 ---
 
-**🎋 Institucional — Tecnologia do Bambu para a Soberanía Amazónica**
-**DOI: [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106)**
+---
 
 ---
 
-## Como Citar
-
-**APA:**
-Institucional, F. R. (2026). *Nota Técnica: Saneamento Ecológico e Bio-resiliência Turística* (Versão 2.1). Boletim Técnico-Científico — Núcleo Institucional / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106
+---
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

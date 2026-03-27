@@ -1,12 +1,4 @@
-# REVIEW TÉCNICO: Imperveg
-**Referência do Review:** PES-REV-3903-2026
-**Data do Ensaio:** 01-04-2024
-**Local do Ensaio:** Coimbra, Portugal (Laboratório ECOS do ITecons)
-**Órgão Emissor:** ITecons
-**Solicitante:** Tecnoveg - Indústria e Comércio, Lda.
-
 ---
-
 ## 1. Tabelas de Resultados
 
 **Tabela 1: Resistência Adesiva (Pull-off) do Produto Imperveg**
@@ -60,8 +52,39 @@ Em suma, o produto Imperveg demonstra uma capacidade de aderência ao concreto q
 1.  **Valor de Resistência Adesiva Medido:** O produto Imperveg demonstrou uma resistência adesiva de 1,4 MPa para a amostra ARG007A/24.03, conforme o ensaio pull-off da EN 1542:1999. Este valor, considerando sua incerteza expandida de 0,230 MPa, posiciona o material em uma faixa de aderência relevante para aplicações de reparo e proteção de concreto, exigindo, no entanto, uma comparação direta com os requisitos mínimos de normas de desempenho aplicáveis, como a EN 1504, para uma avaliação completa de sua eficácia em serviço.
 2.  **Limitação na Apresentação dos Dados e Confiabilidade da Amostra:** Apesar da indicação de cinco corpos de prova válidos, o relatório apresenta explicitamente apenas um resultado numérico (1,4 MPa) na tabela. Esta incompletude impede a determinação da média, desvio padrão e variabilidade dos resultados, comprometendo a robustez estatística e a representatividade do desempenho do produto "Imperveg". Uma análise mais aprofundada requer a divulgação de todos os dados individuais para uma inferência mais confiável sobre o comportamento do material.
 3.  **Indefinição do Tipo de Ruptura e Implicações para a Interface:** O relatório lista detalhadamente os tipos possíveis de ruptura, mas falha em especificar qual deles ocorreu para a amostra com resistência adesiva de 1,4 MPa. A natureza da ruptura (coesiva no substrato vs. adesiva na interface) é um indicador crítico da qualidade da ligação, influenciando diretamente a durabilidade do sistema de reparo. A ausência desta informação impede a identificação do "elo mais fraco" na interface Imperveg-concreto, limitando a compreensão dos mecanismos de falha e a otimização de sua formulação ou aplicação.
-
 ---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"O futuro pode ser ancestral."<br>— Ailton Krenak</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: REVIEW_ARG063-24 aderência pull-off.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
+# REVIEW TÉCNICO: Imperveg
+**Referência do Review:** PES-REV-3903-2026
+**Data do Ensaio:** 01-04-2024
+**Local do Ensaio:** Coimbra, Portugal (Laboratório ECOS do ITecons)
+**Órgão Emissor:** ITecons
+**Solicitante:** Tecnoveg - Indústria e Comércio, Lda.
+
+
 **Autor da Análise:** Fabio Resck Takwara (ORCID: "0009-0002-6044-2583")
 **Data da Revisão:** 25/03/2026
 **Local da Análise:** "São Paulo-SP"
+
+---
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

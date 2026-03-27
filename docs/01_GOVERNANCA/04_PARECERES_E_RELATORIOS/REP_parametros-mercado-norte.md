@@ -9,12 +9,20 @@ author:
 date: '2026-03-24'
 ---
 
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+
+<p align="right"><i>"Inventar é imaginar o que os outros não pensaram."<br>— Santos Dumont</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: REP_parametros-mercado-norte.md
+*   **Status**: Status Consolidado
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 # Parâmetros de Referência: Precificação Industrial Norte
-![Status: Ready](https://img.shields.io/badge/Status-Ready-brightgreen)
-
 **Série:** Governança e Estratégia | **Versão:** 1.0 | **Data:** 2026-03-24 | **Autor:** Coordenação Técnica | **Status:** Status Ready
-
-![Status: Ready](https://img.shields.io/badge/Status-Ready-brightgreen)
 
 Para o cálculo de **Contrapartida de PI** e **CAPEX de Projetos**, utilizaremos as seguintes médias ponderadas obtidas via sondagem de mercado (incluindo custos de frete logístico, impostos locais e insalubridade de operação remota).
 
@@ -38,11 +46,9 @@ Para o cálculo de **Contrapartida de PI** e **CAPEX de Projetos**, utilizaremos
 
 ## 3. Fatores Adicionais (Mark-up Logístico)
 
-*   **Fator Logístico (FL):** +15% sobre o custo de insumos (reflete o frete Manaus-Rio Branco/Interior).
-*   **Margem de Contingência:** 5% para variações de câmbio em componentes importados (ex: inversores).
-*   **Valuation de Soberania (VS):** Multiplicador de **1.4x** sobre o custo de fábrica. Este fator quantifica o ativo intangível (Invenção/Patente), cobrindo o risco de P&D e a ausência de royalties estrangeiros.
-
----
+* <img src="assets/icons/human_19_black.svg" width="18px">   **Fator Logístico (FL):** <img src="assets/icons/human_19_black.svg" width="18px"> +15% sobre o custo de insumos (reflete o frete Manaus-Rio Branco/Interior).
+* <img src="assets/icons/human_10_black.svg" width="18px">   **Margem de Contingência:** <img src="assets/icons/human_10_black.svg" width="18px"> 5% para variações de câmbio em componentes importados (ex: inversores).
+* <img src="assets/icons/human_17_black.svg" width="18px">   **Valuation de Soberania (VS):** <img src="assets/icons/human_17_black.svg" width="18px"> Multiplicador de **1.4x** <img src="assets/icons/human_17_black.svg" width="18px"> sobre o custo de fábrica. Este fator quantifica o ativo intangível (Invenção/Patente), cobrindo o risco de P&D e a ausência de royalties estrangeiros.
 
 ## Como Citar Este Trabalho
 
@@ -52,13 +58,16 @@ Para o cálculo de **Contrapartida de PI** e **CAPEX de Projetos**, utilizaremos
 > DOI: 10.5281/zenodo.18827106.
 > Licença CC BY 4.0.
 
----
-
 *Texto completo da licença:
 [creativecommons.org/licenses/by/4.0](https://creativecommons.org/licenses/by/4.0/)*
 
 ---
-**🎋 Consórcio UnB/UFRR/UFAC — Soberania Técnica em Bioeconomia**
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

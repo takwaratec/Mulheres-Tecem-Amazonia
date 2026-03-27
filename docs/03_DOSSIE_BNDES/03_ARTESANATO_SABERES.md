@@ -9,7 +9,19 @@ author:
 date: '2026-03-26'
 ---
 
-# 🎨 Componente 3: Artesanato e Saberes Tradicionais
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"O povo é o único soberano."<br>— João Ubaldo Ribeiro</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: 03_ARTESANATO_SABERES.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
+# <img src="assets/icons/human_01_red.svg" width="18px"> Componente 3: Artesanato e Saberes Tradicionais
 **Responsável Técnica:** Profa. Dra. Georgia Ferko  
 **Metodologia de Redação:** 4 Mãos (Coordenação Técnica Colegiada)
 
@@ -21,21 +33,19 @@ A governança dos polos baseia-se na identificação precisa dos recursos natura
 
 ## 2. Diferenciais e Design Colaborativo
 O artesanato de base comunitária do projeto diferencia-se pela alta agregação de valor via design sistêmico:
-- **Bio-Design**: Utilização de subprodutos da biorrefinaria e das cadeias de açaí/castanha para a criação de peças exclusivas que dialogam com o mercado de bioinsumos e luxo sustentável.
-- **Valorização Imaterial**: Cada peça carrega a narrativa da floresta e da comunidade, protegida por marcas coletivas e sistemas de rastreabilidade que garantem o retorno justo às artesãs.
+- <img src="assets/icons/human_04_black.svg" width="18px"> **Bio-Design**: Utilização de subprodutos da biorrefinaria e das cadeias de açaí/castanha para a criação de peças exclusivas que dialogam com o mercado de bioinsumos e luxo sustentável.
+- <img src="assets/icons/human_07_black.svg" width="18px"> **Valorização Imaterial**: Cada peça carrega a narrativa da floresta e da comunidade, protegida por marcas coletivas e sistemas de rastreabilidade que garantem o retorno justo às artesãs.
 
 ## 3. Formação e Replicabilidade
 Através do canteiro-escola e das oficinas territoriais, o projeto promove o intercâmbio de saberes entre as gerações. A capacitação em gestão de empreendimentos solidários e técnicas de acabamento aprimoradas eleva a autonomia das mulheres, transformando o artesanato em uma atividade estruturada, inclusiva e economicamente resiliente no Vale do Juruá e demais áreas de atuação.
 
 ---
-**Coordenação Geral de P&D**  
-*Consórcio Interinstitucional UnB / UFAC / UFRR — 2026*
-
-### 📚 Referências Estratégicas (P&D)
-Para o detalhamento técnico e científico dos conceitos apresentados neste componente, consulte os resumos estratégicos consolidados no acervo digital:
-
-- [**Resumo Estratégico: Geoprocessamento e Bambu no Acre**](../04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/01_CIENTIFICO/TECNOLOGIA/WTF_RES_pesquisa_bambu_indigenas_georreferenciamento.md): Mapeamento técnico e governança socioambiental entre IFAC, UFAC e IMAC.
-- [**Resumo Estratégico: Bioeconomia no Amazonas (CTI/MCTI)**](../04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/01_CIENTIFICO/TECNOLOGIA/WTF_RES_00000041_nota_tecnica_001_bioeconomia_cti_bioeconomia_no_amazonaspdf.md): Defesa do modelo de floresta em pé e valorização de saberes tradicionais.
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

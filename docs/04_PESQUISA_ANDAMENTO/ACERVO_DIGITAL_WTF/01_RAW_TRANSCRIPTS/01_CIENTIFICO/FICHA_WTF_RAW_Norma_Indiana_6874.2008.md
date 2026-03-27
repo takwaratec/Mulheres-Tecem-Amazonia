@@ -1,3 +1,25 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFRR/UFAC
+tipo: Documento de Acervo
+referencia: FICHA_WTF_RAW_Norma_Indiana_6874.2008.md
+status: Em Revisão
+author:
+- name: Consórcio UnB/UFRR/UFAC
+---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"O conhecimento é a nossa maior arma contra o atraso."<br>— Bertha Lutz</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: FICHA_WTF_RAW_Norma_Indiana_6874.2008.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 NAO
 
 ### 1. METADADOS E CABEÇALHO
@@ -19,9 +41,9 @@ A composição do Comitê responsável pela formulação desta norma é dada no 
 Ao relatar os resultados de um teste ou análise feita de acordo com esta norma, se o valor final, observado ou calculado, for arredondado, isso deve ser feito de acordo com IS 2 : 1960 'Regras para arredondamento de valores numéricos (revisado)'.
 
 **Palavras-chave em português:**
-*   Bambu
-*   Testes de Propriedades
-*   Norma Técnica
+* <img src="assets/icons/human_20_black.svg" width="18px">   Bambu
+* <img src="assets/icons/human_16_black.svg" width="18px">   Testes de Propriedades
+* <img src="assets/icons/human_02_black.svg" width="18px">   Norma Técnica
 
 ### 3. EXTRAÇÃO DE DADOS (TABELA)
 
@@ -47,3 +69,14 @@ Ao relatar os resultados de um teste ou análise feita de acordo com esta norma,
 2.  INDIA. Bureau of Indian Standards. *Methods of tests for split bamboos*. New Delhi: Bureau of Indian Standards, 1976. IS 8242.
 3.  INDIA. Bureau of Indian Standards. *Rules for rounding off numerical values* (revised). New Delhi: Bureau of Indian Standards, 1960. IS 2.
 4.  INDIA. Bureau of Indian Standards. *Glossary of terms applicable to timber technology and utilization* (second revision). New Delhi: Bureau of Indian Standards, 1976. IS 707.
+
+---
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

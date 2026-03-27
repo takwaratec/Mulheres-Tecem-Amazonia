@@ -9,9 +9,19 @@ author:
 date: '2026-03-24'
 ---
 
-# **Vanessa Fernandes: Interfaces entre Bioeconomia, Direitos Territoriais e a Emancipação de Mulheres e Indígenas na Universidade de Brasília**
-![Status: Ready](https://img.shields.io/badge/Status-Ready-brightgreen)
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
+<p align="right"><i>"O Brasil, última nação a abrogar a escravidão, tem um compromisso terrível com o seu povo."<br>— Darcy Ribeiro</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: Dossiê Vanessa Fernandes_ Bioeconomia e Emancipação.md
+*   **Status**: Status Consolidado
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
+# **Vanessa Fernandes: Interfaces entre Bioeconomia, Direitos Territoriais e a Emancipação de Mulheres e Indígenas na Universidade de Brasília**
 A trajetória intelectual e institucional vinculada ao nome Vanessa Fernandes no ecossistema da Universidade de Brasília (UnB), particularmente no campus da Faculdade de Planaltina (FUP), configura-se como um ponto de convergência entre a ciência química aplicada, a gestão de políticas de fomento à pesquisa e o fortalecimento de movimentos sociais de base identitária. Este dossiê organiza e analisa de forma exaustiva o acervo de publicações, as redes de colaboração e as implicações sociopolíticas da atuação dessa figura — e de perfis homônimos que se cruzam na produção científica da instituição — com foco na bioeconomia sustentável, na emancipação feminina e no protagonismo das populações indígenas.
 
 ## **A Faculdade de Planaltina como Epicentro da Sustentabilidade e Interculturalidade**
@@ -170,4 +180,12 @@ A produção científica e a atuação institucional documentadas neste dossiê 
 30. Máscara Vesta: capaz de inativar o vírus da covid-19, respirador facial é apresentado a sociedade acadêmica \- Finatec, acessado em março 17, 2026, [https://www.finatec.org.br/noticia/mascara-vesta-capaz-de-inativar-o-virus-da-covid-19-respirador-facial-e-apresentado-a-sociedade-academica/](https://www.finatec.org.br/noticia/mascara-vesta-capaz-de-inativar-o-virus-da-covid-19-respirador-facial-e-apresentado-a-sociedade-academica/)
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

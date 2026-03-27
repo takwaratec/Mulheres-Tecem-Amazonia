@@ -1,36 +1,43 @@
+---
+**TAREFA 2: Definição de Categoria/Subcategoria**
+
+**Categoria/Subcategoria:** `Saneamento/Ecoturismo_Sustentavel`
+---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"Só se aprende o que se pratica."<br>— Anísio Teixeira</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: WTF_RAW_00000125-Saneamento_Ecológico_e_Turismo_Brasileiro.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 **TAREFA 1: Avaliação de Relevância**
 
 O arquivo `WTF_RAW_00000125-Saneamento_Ecológico_e_Turismo_Brasileiro.txt` é um relatório técnico-científico que analisa a viabilidade do saneamento ecológico modular no contexto do crescimento turístico brasileiro, com foco em infraestrutura e saúde pública. Apresenta dados, estudos de caso (Chapada Diamantina), arcabouço legal e análise de viabilidade econômica. É um documento de caráter científico e de alta relevância para os temas de sustentabilidade e desenvolvimento territorial.
 
 **Relevância:** Manter.
 
----
 
-**TAREFA 2: Definição de Categoria/Subcategoria**
-
-**Categoria/Subcategoria:** `Saneamento/Ecoturismo_Sustentavel`
-
----
 
 **TAREFA 3: Geração de Markdown (.md) Limpo**
 
 ```markdown
----
 Ref: PES-TEC-8347-2026
 projeto: Mulheres Que Tecem a Floresta
 instituicao: Consórcio UnB/UFAC/UFRR
 equipe: Gestão e Parceria Regional
 tipo: Acervo de Consulta RAW (Transcrição)
----
-
 # Análise Estrutural e Validação Técnica do Saneamento Ecológico no Contexto do Crescimento Turístico Brasileiro: Um Relatório de Infraestrutura e Saúde Pública
 
 **Autores:** Acervo Digital Mulheres que Tecem a Floresta
 
 **Resumo:**
 O setor de turismo no Brasil atravessa um momento de expansão histórica, caracterizado por recordes de visitação em Unidades de Conservação e um aporte significativo de investimentos estrangeiros. Contudo, essa trajetória de crescimento encontra um gargalo crítico na infraestrutura de saneamento básico, especialmente em áreas remotas e destinos de natureza. Este relatório avalia a viabilidade técnica e a urgência da proposta de saneamento ecológico modular, confrontando o cenário nacional de déficit sanitário com as demandas de um setor que se posiciona como motor do desenvolvimento econômico. A análise a seguir valida os modelos de banheiros secos e wetlands construídos como soluções fundamentais para a preservação do capital natural brasileiro e a segurança biológica de visitantes e comunidades locais.
-
----
 
 ## O Cenário Nacional do Saneamento: Entre o Déficit Histórico e a Transição Institucional
 
@@ -54,8 +61,6 @@ A tabela a seguir apresenta os indicadores macroestruturais que definem o ponto 
 
 A precariedade do saneamento em áreas urbanas é frequentemente exacerbada por eventos climáticos extremos. A combinação de baixo percentual de tratamento de esgoto com a ausência de sistemas de drenagem adequados — presentes em apenas 5,3% dos municípios — cria o que especialistas chamam de "tempestade perfeita".8 Em períodos chuvosos, o esgoto bruto mistura-se às águas pluviais, aumentando a incidência de doenças como a leptospirose, que registrou 4.142 casos em 2024, mais que o dobro do registrado em 2021.8 Este cenário urbano degradado serve de alerta para o potencial de destruição da imagem de destinos turísticos naturais caso não sejam adotadas medidas preventivas.
 
----
-
 ## A Dinâmica do Turismo no Brasil: Crescimento e Pressão em Áreas Protegidas
 
 Enquanto o saneamento básico luta para superar déficits históricos, o turismo brasileiro demonstra uma vitalidade excepcional. O ano de 2024 foi marcado por recordes históricos, com as Unidades de Conservação (UCs) recebendo 25,5 milhões de visitantes.11 O setor não apenas se recuperou dos impactos da pandemia, mas estabeleceu novos patamares de receita e investimento. O turismo internacional, por exemplo, gerou uma receita cambial de US$ 7,34 bilhões em 2024, superando as metas estabelecidas pelo Plano Nacional de Turismo para 2027 com anos de antecedência.12
@@ -73,8 +78,6 @@ O impacto econômico do setor é acompanhado por um aumento significativo nos in
 | Empregos formais no setor (2024)               | 3,51 milhões       |       |
 
 O paradoxo reside no fato de que o crescimento de 45% nas chegadas de turistas internacionais entre janeiro e setembro de 2024 aumenta exponencialmente a carga orgânica em locais desprovidos de rede de esgoto.14 Trilhas de alto apelo cênico, como a Cachoeira da Fumaça na Chapada Diamantina, enfrentam fluxos de até 100 visitantes por dia em alta temporada.18 Sem infraestrutura de manejo de resíduos humanos, o ecoturismo deixa de ser uma fonte de conservação para tornar-se um vetor de patógenos, ameaçando a segurança sanitária de visitantes e residentes.18
-
----
 
 ## Confronto de Dados: O Impacto da Inação no Destino Chapada Diamantina
 
@@ -94,8 +97,6 @@ A realidade local revela que o investimento em infraestrutura de saneamento pres
 | Domicílios Sujeitos a Inundação                       | 18,4%     |       |
 
 A contaminação por esquistossomose em Lençóis, que registrou 944 casos em 2017, demonstra como a falta de saneamento e a presença de populações ribeirinhas sem assistência criam armadilhas sanitárias.22 A interdição de pontos turísticos como o Poção gera um lucro cessante imediato para o trade turístico e danifica a reputação internacional do destino.24 A segurança sanitária, portanto, não é um luxo, mas a base técnica indispensável para a manutenção da marca "Chapada" como um destino de classe mundial.18
-
----
 
 ## Validação Técnica da Proposta: Saneamento Ecológico Modular
 
@@ -120,13 +121,11 @@ As águas cinzas, provenientes de lavatórios e duchas, embora possuam carga org
 
 O módulo hidráulico proposto é composto por três etapas de tratamento:
 
-*   **Caixa de Decantação (100-200L):** Dimensionada para um tempo de retenção mínima de 2 horas, retendo sólidos em suspensão e gorduras.
-*   **Filtro de Areia e Cascalho:** Realiza a remoção física de finos antes do efluente entrar no leito plantado.
-*   **Wetlands de Fluxo Subsuperficial:** Leitos de 10-15m² para cada 20 usuários/dia, cultivados com plantas macrófitas como *Typha* e *Canna*. A microbiota associada às raízes digere a carga orgânica, devolvendo água polida ao meio ambiente.
+* <img src="assets/icons/human_15_black.svg" width="18px">   **Caixa de Decantação (100-200L):** <img src="assets/icons/human_15_black.svg" width="18px"> Dimensionada para um tempo de retenção mínima de 2 horas, retendo sólidos em suspensão e gorduras.
+* <img src="assets/icons/human_09_black.svg" width="18px">   **Filtro de Areia e Cascalho:** <img src="assets/icons/human_09_black.svg" width="18px"> Realiza a remoção física de finos antes do efluente entrar no leito plantado.
+* <img src="assets/icons/human_07_black.svg" width="18px">   **Wetlands de Fluxo Subsuperficial:** <img src="assets/icons/human_07_black.svg" width="18px"> Leitos de 10-15m² para cada 20 usuários/dia, cultivados com plantas macrófitas como *Typha* <img src="assets/icons/human_07_black.svg" width="18px"> e *Canna*. A microbiota associada às raízes digere a carga orgânica, devolvendo água polida ao meio ambiente.
 
 Estudos científicos em cenários similares no Brasil comprovam que a tecnologia de wetlands é extremamente eficiente em climas tropicais, alcançando remoção de ortofosfato de até 92% e redução de coliformes em duas a quatro unidades logarítmicas.26
-
----
 
 ## Marco Legal e Regulação: Amparo para Soluções Descentralizadas
 
@@ -136,27 +135,21 @@ A Norma de Referência (NR) nº 8/2024 da ANA é o instrumento regulatório fund
 
 Além disso, a Portaria de Consolidação nº 5/2017 do Ministério da Saúde reforça o dever do poder público municipal em garantir a vigilância da qualidade da água e o padrão de potabilidade, independentemente da localização geográfica do ponto de consumo.18 Isso significa que o fornecimento de saneamento em trilhas e áreas protegidas não é uma discricionariedade do gestor, mas uma obrigação administrativa passível de controle pela sociedade civil e pelo Ministério Público.
 
----
-
 ## Análise de Viabilidade Econômica e Social: O Retorno do Investimento Verde
 
 O investimento em saneamento descentralizado apresenta uma relação custo-benefício superior às tentativas de urbanização forçada em áreas preservadas. O custo da inação, mensurado em surtos epidemiológicos e perda de atratividade turística, é significativamente maior do que o CAPEX necessário para a implantação de módulos ecológicos. Estima-se que a universalização do saneamento no Brasil poderia gerar ganhos de renda para o turismo da ordem de R$ 4 bilhões por ano.32
 
 A proposta para a Chapada Diamantina introduz o conceito de "Operação e Manutenção (O&M) via Brigadas de Saneamento". Este modelo gera benefícios socioeconômicos diretos:
 
-*   **Geração de Empregos Verdes:** A operação do sistema cria renda local qualificada para guias e brigadistas, fortalecendo o senso de pertencimento e vigilância territorial.
-*   **Gestão de Passivos e Ativos:** Ao adotar o modelo de "Adote uma Trilha", marcas e parceiros investidores podem alinhar seus objetivos de Compliance ESG à conservação direta de biomas e à saúde comunitária, ganhando visibilidade em um destino de alto prestígio.
-*   **Resiliência Financeira:** Cada R$ 1 investido em saneamento economiza R$ 4 em saúde pública, permitindo que os municípios realoquem recursos de tratamentos curativos para ações preventivas e promocionais do destino.33
-
----
+* <img src="assets/icons/human_16_black.svg" width="18px">   **Geração de Empregos Verdes:** <img src="assets/icons/human_16_black.svg" width="18px"> A operação do sistema cria renda local qualificada para guias e brigadistas, fortalecendo o senso de pertencimento e vigilância territorial.
+* <img src="assets/icons/human_18_black.svg" width="18px">   **Gestão de Passivos e Ativos:** <img src="assets/icons/human_18_black.svg" width="18px"> Ao adotar o modelo de "Adote uma Trilha", marcas e parceiros investidores podem alinhar seus objetivos de Compliance ESG à conservação direta de biomas e à saúde comunitária, ganhando visibilidade em um destino de alto prestígio.
+* <img src="assets/icons/human_19_black.svg" width="18px">   **Resiliência Financeira:** <img src="assets/icons/human_19_black.svg" width="18px"> Cada R$ 1 investido em saneamento economiza R$ 4 em saúde pública, permitindo que os municípios realoquem recursos de tratamentos curativos para ações preventivas e promocionais do destino.33
 
 ## Educação Ambiental e o Protocolo de Vigilância Cidadã
 
 A sustentabilidade técnica dos sistemas depende intrinsecamente do comportamento do visitante. O projeto incorpora diretrizes de conduta baseadas nos princípios "Leave No Trace" (Não Deixe Rastros). O turista deixa de ser apenas um consumidor de paisagem para tornar-se um parceiro da conservação ao utilizar corretamente os banheiros secos e respeitar a proibição de detergentes em cursos d'água.
 
 O protocolo "Sentinelas da Água" é a linha de frente da defesa territorial. Ele capacita as associações locais para realizar monitoramentos microbiológicos simplificados, como o teste H2S e o Colitest, criando um "Mapa de Pontos Críticos".18 Esses dados permitem a emissão de alertas precoces aos visitantes e fornecem subsídios técnicos inquestionáveis para ações de advocacy junto ao Ministério Público e às secretarias municipais.
-
----
 
 ## Conclusões Estratégicas e Recomendações
 
@@ -171,8 +164,6 @@ Para a viabilização deste cenário, recomenda-se:
 
 Somente destinos que tratarem seu esgoto com seriedade técnica e inovação descentralizada permanecerão viáveis e resilientes no cenário global do turismo de natureza de alto impacto. O saneamento básico não é apenas uma obra de engenharia; é o fundamento da soberania biológica e do sucesso econômico do Brasil como potência ambiental.
 
----
-
 ## Referências
 
 **Nota:** O documento original apresenta diversas citações no texto (indicadas por números), mas a seção "Referências citadas" está incompleta, listando apenas as duas primeiras referências e com a segunda de forma truncada. As referências são formatadas abaixo conforme o padrão ABNT para documentos eletrônicos.
@@ -180,7 +171,16 @@ Somente destinos que tratarem seu esgoto com seriedade técnica e inovação des
 1.  BRASIL. Governo Federal. Ministério das Cidades. **Coleta de Dados SINISA 2024**. [S. l.]: GOV. Acesso em: 14 fev. 2026. Disponível em: https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/saneamento/snis/area-do-prestador-e-municipios
 2.  BRASIL. Governo Federal. Ministério das Cidades. **SINISA**. [S. l.]: GOV. Acesso em: 14 fev. 2026. Disponível em: https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/san [**Nota:** URL incompleta no documento original.]
 
----
-
 #CATEGORIA: Saneamento/Ecoturismo_Sustentavel
 ```
+
+---
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

@@ -9,6 +9,18 @@ author:
 date: '2026-03-26'
 ---
 
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+
+<p align="right"><i>"Viver é muito perigoso."<br>— Guimarães Rosa</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: FICHA_NEA-Nova-Economia-Amazonia-Relatorio-Completo-portugues.md
+*   **Status**: Status Consolidado
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 ### 1. METADADOS E CABEÇALHO
 projeto: Mulheres Que Tecem a Floresta
 instituicao: Consórcio UnB/UFRR/UFAC
@@ -18,8 +30,6 @@ status: Ready
 
 **REFERÊNCIA BIBLIOGRÁFICA (ABNT):**
 NOBRE, C. A. et al. **Nova Economia da Amazônia**. São Paulo: WRI Brasil, 2023. Relatório. Disponível em: <www.wribrasil.org.br/nova-economia-da-amazonia>. Acesso em: 24 mar. 2026.
-
----
 
 ### 2. TRADUÇÃO E SÍNTESE TÉCNICA
 
@@ -32,8 +42,6 @@ A análise revela que a economia atual da AML é deficitária em transações co
 1.  Bioeconomia Amazônica
 2.  Desmatamento Zero
 3.  Transição Energética
-
----
 
 ### 3. EXTRAÇÃO DE DADOS (TABELA)
 
@@ -60,19 +68,17 @@ A análise revela que a economia atual da AML é deficitária em transações co
 | **Intensidade Desmatamento (Exportações AML)**  | -                          | -                          | 4,90 ha/R$ 1 milhão exportado | 45% superior às transações com o restante do Brasil.                               |
 | **Agricultura Familiar (AML, 2017)**            | -                          | -                          | 2,3 milhões de pessoas empregadas | 74% do pessoal ocupado na agropecuária da AML, 82% dos empregos femininos. |
 
----
-
 ### 4. RELAÇÃO COM O PROJETO (CONEXÃO WTF)
 
 O Projeto WTF (Mulheres Que Tecem a Floresta) beneficia as mulheres extrativistas e o projeto da bioeconomia na Amazônia Legal (AML) de diversas maneiras, conforme o relatório:
 
 **Benefícios para as mulheres extrativistas:**
 
-*   **Geração de Emprego e Renda Inclusiva**: A expansão da bioeconomia no cenário NEA prevê 365 mil empregos adicionais, com um aumento de 345 mil postos de trabalho para negros e indígenas (que atualmente representam 80% das ocupações na AML, e 91% no extrativismo não exaustivo). As iniciativas familiares, frequentemente lideradas por mulheres, são um pilar da economia indígena e extrativista, garantindo que o crescimento beneficie diretamente essas populações.
-*   **Fortalecimento de Arranjos Produtivos Locais**: O relatório destaca que os processos produtivos da economia indígena, muitas vezes liderados por mulheres, estruturam-se em iniciativas familiares, associações e cooperativas. A estratégia da NEA é multiplicar esses arranjos inclusivos, baseados em habilidades e inteligências locais, valorizando o conhecimento tradicional, incluindo o artesanato, onde a participação de mulheres é significativa.
-*   **Valorização da Sociobiodiversidade e Conhecimento Tradicional**: A bioeconomia proposta pela NEA, pautada na floresta em pé e rios fluindo, reconhece o papel fundamental dos povos indígenas e comunidades tradicionais, que historicamente manejam a natureza. A promoção da distribuição justa dos benefícios e o apoio técnico-financeiro às iniciativas dessas comunidades valorizam os saberes ancestrais, muitas vezes transmitidos e aplicados pelas mulheres.
-*   **Melhoria das Condições de Vida e Acesso a Serviços**: A transição para a NEA, com investimentos em infraestrutura e descarbonização, visa melhorar o acesso a eletricidade, saneamento e conectividade em comunidades remotas. Isso impacta diretamente a qualidade de vida, saúde e bem-estar das mulheres e suas famílias, além de facilitar a produção e comercialização de seus produtos.
-*   **Engajamento e Protagonismo**: O relatório enfatiza a necessidade de "nada sobre nossos produtos sem nós" e que profissionais indígenas devem protagonizar o planejamento e a operacionalização das cadeias produtivas. Isso garante que as vozes e necessidades das mulheres extrativistas sejam consideradas na formulação das políticas e projetos.
+* <img src="assets/icons/human_17_black.svg" width="18px">   **Geração de Emprego e Renda Inclusiva**: A expansão da bioeconomia no cenário NEA prevê 365 mil empregos adicionais, com um aumento de 345 mil postos de trabalho para negros e indígenas (que atualmente representam 80% das ocupações na AML, e 91% no extrativismo não exaustivo). As iniciativas familiares, frequentemente lideradas por mulheres, são um pilar da economia indígena e extrativista, garantindo que o crescimento beneficie diretamente essas populações.
+* <img src="assets/icons/human_13_black.svg" width="18px">   **Fortalecimento de Arranjos Produtivos Locais**: O relatório destaca que os processos produtivos da economia indígena, muitas vezes liderados por mulheres, estruturam-se em iniciativas familiares, associações e cooperativas. A estratégia da NEA é multiplicar esses arranjos inclusivos, baseados em habilidades e inteligências locais, valorizando o conhecimento tradicional, incluindo o artesanato, onde a participação de mulheres é significativa.
+* <img src="assets/icons/human_06_black.svg" width="18px">   **Valorização da Sociobiodiversidade e Conhecimento Tradicional**: A bioeconomia proposta pela NEA, pautada na floresta em pé e rios fluindo, reconhece o papel fundamental dos povos indígenas e comunidades tradicionais, que historicamente manejam a natureza. A promoção da distribuição justa dos benefícios e o apoio técnico-financeiro às iniciativas dessas comunidades valorizam os saberes ancestrais, muitas vezes transmitidos e aplicados pelas mulheres.
+* <img src="assets/icons/human_15_black.svg" width="18px">   **Melhoria das Condições de Vida e Acesso a Serviços**: A transição para a NEA, com investimentos em infraestrutura e descarbonização, visa melhorar o acesso a eletricidade, saneamento e conectividade em comunidades remotas. Isso impacta diretamente a qualidade de vida, saúde e bem-estar das mulheres e suas famílias, além de facilitar a produção e comercialização de seus produtos.
+* <img src="assets/icons/human_03_black.svg" width="18px">   **Engajamento e Protagonismo**: O relatório enfatiza a necessidade de "nada sobre nossos produtos sem nós" e que profissionais indígenas devem protagonizar o planejamento e a operacionalização das cadeias produtivas. Isso garante que as vozes e necessidades das mulheres extrativistas sejam consideradas na formulação das políticas e projetos.
 
 **Diretrizes para o projeto e a bioeconomia:**
 
@@ -84,8 +90,6 @@ O Projeto WTF (Mulheres Que Tecem a Floresta) beneficia as mulheres extrativista
 6.  **Combate à Desigualdade Rural e Acesso a Mercados**: Priorizar o acesso da agricultura familiar a crédito, assistência técnica e gerencial customizada (inclusive para produtos da bioeconomia) e mercados diferenciados (institucionais e de denominação de origem), fortalecendo sua inclusão social e o fluxo circular de renda.
 7.  **Inovação na Rastreabilidade**: Implementar sistemas de rastreabilidade sanitária, fiscal e ambiental que abranjam os mercados regional e nacional, garantindo a origem e a sustentabilidade dos produtos da AML.
 8.  **Reorientação de Investimentos e Subsídios**: Redirecionar subsídios de combustíveis fósseis para energias renováveis e de atividades intensivas em carbono para o desenvolvimento de tecnologias e práticas de baixa emissão. Criar arcabouços metodológicos e taxonomias para investimentos verdes que promovam a redução de emissões e a preservação da biodiversidade na Amazônia.
-
----
 
 ### 5. Extrair Bibliografia citada no texto
 
@@ -860,4 +864,12 @@ XU, Y. et al. Eco-driving for transit: an effective strategy to conserve fuel an
 ZHANG, R.; FUJIMORI, S. The role of transport electrification in global climate change mitigation scenarios. **Environmental Research Letters**, v. 15, p. 034019, 2020.
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

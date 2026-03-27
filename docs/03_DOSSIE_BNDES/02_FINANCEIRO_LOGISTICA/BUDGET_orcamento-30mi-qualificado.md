@@ -5,6 +5,18 @@ status: "Finalizado"
 tags: ["Orçamento", "BNDES", "Fundo Amazônia", "Gestão", "OPEX", "CAPEX", "Qualificação 5.1"]
 ---
 
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"Ensinar não é transferir conhecimento, mas criar as possibilidades para a sua própria produção ou a sua construção."<br>— Paulo Freire</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: BUDGET_orcamento-30mi-qualificado.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 # Projeto Mulheres que Tecem a Floresta
 **Planilha Orçamentária Detalhada – 48 meses / R$ 30.000.000**
 
@@ -75,16 +87,21 @@ tags: ["Orçamento", "BNDES", "Fundo Amazônia", "Gestão", "OPEX", "CAPEX", "Qu
 
 ## CONTRAPARTIDA E INDICADORES
 
-- **Contrapartida Não Financeira:** R$ 4.000.000
-- **Valor Total do Projeto (com contrapartida):** **R$ 34.000.000**
-- **Solicitação ao BNDES/Fundo Amazônia:** **R$ 30.000.000**
+- <img src="assets/icons/human_18_black.svg" width="18px"> **Contrapartida Não Financeira:** <img src="assets/icons/human_18_black.svg" width="18px"> R$ 4.000.000
+- <img src="assets/icons/human_01_black.svg" width="18px"> **Valor Total do Projeto (com contrapartida):** <img src="assets/icons/human_01_black.svg" width="18px"> **R$ 34.000.000**
+- <img src="assets/icons/human_14_black.svg" width="18px"> **Solicitação ao BNDES/Fundo Amazônia:** <img src="assets/icons/human_14_black.svg" width="18px"> **R$ 30.000.000**
 
 > [!NOTE]
 > **INDICADORES DE EFICIÊNCIA:**
 > Essa estrutura está alinhada com as diretrizes do Fundo Amazônia e programas como Coopera+ Amazônia, priorizando formação, autonomia das mulheres e sustentabilidade de longo prazo, com CAPEX eficiente e OPEX robusto.
 
 ---
-**🎋 Institucional — Soberania e Gestão Regenerativa**
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

@@ -1,3 +1,25 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFRR/UFAC
+tipo: Documento de Acervo
+referencia: FICHA_WTF_RAW_08a-_NOV-18_Projeto_Geração_de_Autonomia_sustentável_-_IFB.md
+status: Em Revisão
+author:
+- name: Consórcio UnB/UFRR/UFAC
+---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"O Brasil é uma invenção de si mesmo."<br>— João Ubaldo Ribeiro</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: FICHA_WTF_RAW_08a-_NOV-18_Projeto_Geração_de_Autonomia_sustentável_-_IFB.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 SIM
 
 ### 1. METADADOS E CABEÇALHO
@@ -35,3 +57,14 @@ Coordenadas geográficas: Não mencionadas no texto.
 ### 4. EXTRAÇÃO DE BIBLIOGRAFIA CITADA NO TEXTO
 1.  DRUMOND, M. A.; WIEDMAN, G. (2017). A citação completa não está presente no texto. Uma possível referência, com base em pesquisa externa e contexto científico, é:
     DRUMOND, M. A.; WIEDMAN, G. **Usos do Bambu no Brasil.** 2. ed. [S. l.]: Livraria e Editora Livronovo, 2017.
+
+---
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

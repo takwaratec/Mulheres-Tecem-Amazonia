@@ -9,9 +9,19 @@ author:
 date: '2026-03-24'
 ---
 
-# **Análise Multidimensional da Produção Científica e Gestão Acadêmica de Geórgia Patrícia da Silva Ferko: Bioeconomia, Emancipação e Dinâmicas Territoriais na Amazônia Setentrional**
-![Status: Ready](https://img.shields.io/badge/Status-Ready-brightgreen)
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
+<p align="right"><i>"Ensinar não é transferir conhecimento, mas criar as possibilidades para a sua própria produção ou a sua construção."<br>— Paulo Freire</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: Geórgia Ferko_ Bioeconomia e Emancipação.md
+*   **Status**: Status Consolidado
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
+# **Análise Multidimensional da Produção Científica e Gestão Acadêmica de Geórgia Patrícia da Silva Ferko: Bioeconomia, Emancipação e Dinâmicas Territoriais na Amazônia Setentrional**
 A trajetória acadêmica e profissional da Professora Doutora Geórgia Patrícia da Silva Ferko, vinculada à Universidade Federal de Roraima (UFRR), configura-se como um nexo fundamental para a compreensão das transformações socioeconômicas e ambientais na Amazônia Setentrional. Sua atuação, que transita entre a gestão departamental, a docência em programas de pós-graduação stricto sensu e a produção científica de ponta, revela um compromisso profundo com a inovação tecnológica, a sustentabilidade e a justiça social.1 Este dossiê detalha de forma exaustiva o acervo de suas publicações, seus vínculos institucionais e a convergência de sua pesquisa com os paradigmas da bioeconomia e os movimentos de emancipação de mulheres e populações indígenas, fundamentado em dados precisos e metadados de plataformas de gestão acadêmica.
 
 ## **Estrutura Institucional e Liderança Acadêmica na UFRR**
@@ -153,4 +163,12 @@ As implicações de sua pesquisa são vastas: elas oferecem caminhos para a mode
 33. v. 23 n. 10 (2025) \- OBSERVATÓRIO DE LA ECONOMÍA LATINOAMERICANA, acessado em março 17, 2026, [https://ojs.observatoriolatinoamericano.com/ojs/index.php/olel/issue/view/57](https://ojs.observatoriolatinoamericano.com/ojs/index.php/olel/issue/view/57)
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

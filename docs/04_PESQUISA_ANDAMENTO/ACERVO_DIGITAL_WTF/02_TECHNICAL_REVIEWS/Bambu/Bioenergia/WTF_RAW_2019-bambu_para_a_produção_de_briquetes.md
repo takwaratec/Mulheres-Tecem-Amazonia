@@ -1,22 +1,32 @@
-Olá! Como Bibliotecário Científico do Projeto Mulheres Que Tecem a Floresta, realizei a análise do arquivo `WTF_RAW_2019-bambu_para_a_produção_de_briquetes.txt`.
-
 ---
-
 ### TAREFA 1: Avaliação de Relevância
 
 O conteúdo do arquivo é um extrato de um artigo científico que discute o potencial de diferentes espécies de bambu para a produção de briquetes, avaliando suas propriedades físicas e energéticas. Trata-se de uma pesquisa experimental e técnica, altamente relevante para estudos de bioenergia, uso sustentável de recursos naturais e bioeconomia.
 
 **Relevância:** RELEVANTE
-
 ---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"O espaço geográfico é o encontro de objetos e ações."<br>— Milton Santos</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: WTF_RAW_2019-bambu_para_a_produção_de_briquetes.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
+Olá! Como Bibliotecário Científico do Projeto Mulheres Que Tecem a Floresta, realizei a análise do arquivo `WTF_RAW_2019-bambu_para_a_produção_de_briquetes.txt`.
+
+
 
 ### TAREFA 2: Definição de Categoria/Subcategoria
 
 Com base na análise do texto, que aborda a utilização de espécies de bambu para geração de energia (briquetes), a categoria mais adequada é "Bambu" e a subcategoria "Bioenergia".
 
 **Categoria/Subcategoria:** Bambu/Bioenergia
-
----
 
 ### TAREFA 3: Geração de Markdown (.md)
 
@@ -36,15 +46,11 @@ Angela Zakostelsky Neves Gaa²
 ² Universidade do Estado de Santa Catarina, Departamento de Engenharia Florestal, Setor de Ciências Agroveterinárias, Lages, SC, Brasil. E-mail/ORCID: martha.brand@udesc.br/0000-0001-5438-2081, dani_nones@hotmail.com/0000-0002-5547-3855, espacoa.design@gmail.com/0000-0002-2377-9622.
 ³ Centro Universitário Facvest, Departamento de Engenharias, Lages, SC, Brasil. E-mail/ORCID: balduino.ailton@gmail.com/0000-0002-5621-154X.
 
----
-
 ### RESUMO
 
 O bambu é uma planta versátil e amplamente utilizada na alimentação, fabricação de utensílios, construção civil e usos ambientais. O uso energético dos colmos ou resíduos de outras aplicações é uma alternativa cada vez mais promissora e compatível com os princípios do desenvolvimento sustentável. Objetivou-se avaliar o potencial de quatro espécies de bambu (Bambusa vulgaris, Phyllostachys bambusoides, Phyllostachys edulis e Phyllostachys nigra) para a produção de briquetes. Avaliaram-se o teor de umidade, densidade aparente, resistência à compressão, composição química imediata, poder calorífico superior e densidade energética. Os briquetes tiveram densidade aparente variando de 1,109 g cm⁻³ a 1,228 g cm⁻³; resistência à compressão de 4,68 MPa a 5,82 MPa; teor de voláteis de 79,01 % a 82,25 %; teor de carbono fixo de 15,26 % a 20,18 %; teor de cinzas de 0,38 % a 2,49 %; poder calorífico superior de 4.571 kcal kg⁻¹ a 4.716 kcal kg⁻¹; e densidade energética de 5,08 Gcal m⁻³ a 5,84 Gcal m⁻³. Os briquetes produzidos a partir de *P. nigra* apresentaram melhor qualidade energética, seguidos dos briquetes de *P. edulis*, *P. bambusoides* e *B. vulgaris*. Diante dos resultados, pode-se aferir que as quatro espécies de bambu são matérias-primas alternativas para a geração de energia.
 
 **PALAVRAS-CHAVES:** *Bambusa vulgaris*, *Phyllostachys bambusoides*, *Phyllostachys edulis*, *Phyllostachys nigra*, combustíveis renováveis.
-
----
 
 ### INTRODUÇÃO
 
@@ -154,8 +160,6 @@ Briquettes with a high compression strength have advantages such as the reductio
 
 By analyzing the volatile content, *B. vulgaris* had the highest value, which did not differ statistically from *P. bambusoides*. For the fixed carbon cont... (Trecho final do texto bruto foi cortado aqui).
 
----
-
 ### REFERÊNCIAS
 
 **Nota:** A bibliografia completa no padrão ABNT com DOI-sync foi gerada para o artigo principal. Para as referências citadas no corpo do texto, que não foram fornecidas com detalhes completos no arquivo RAW, foram listadas com as informações disponíveis no texto, indicando a natureza parcial das mesmas.
@@ -204,7 +208,16 @@ VALE, A. T. do; SILVA, A. L. (2000). [Referência completa não disponível no t
 
 VAN DAM, J. et al. (2018). [Referência completa não disponível no texto RAW].
 
----
-
 #CATEGORIA: Bambu/Bioenergia
 ```
+
+---
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

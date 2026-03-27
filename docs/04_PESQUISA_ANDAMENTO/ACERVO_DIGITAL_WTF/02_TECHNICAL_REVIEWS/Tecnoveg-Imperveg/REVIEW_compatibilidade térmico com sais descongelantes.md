@@ -1,12 +1,4 @@
-# REVIEW TÉCNICO: IMPERVEGº RQI 132
-**Referência do Review:** PES-REV-3674-2026
-**Data do Ensaio:** 23/09/2025
-**Local do Ensaio:** Coimbra, Portugal (Laboratório ITecons)
-**Órgão Emissor:** ITecons
-**Solicitante:** Tecnoveg — Indústria e Comércio, Lda.
-
 ---
-
 ## 1. Tabelas de Resultados
 
 **Tabela 1: Resultados obtidos no Corpo de Prova de referência**
@@ -57,8 +49,39 @@ Em suma, o "IMPERVEGº RQI 132" demonstrou excelente compatibilidade térmica e 
 1.  **Manutenção da Integridade Estrutural e Adesiva sob Condições Extremas:** Os resultados demonstram que o revestimento IMPERVEGº RQI 132 preserva sua integridade visual (ausência de bolhas, fissuras, delaminação) e um nível de resistência adesiva (média de 1,1 MPa, mínimo de 0,9 MPa) após 10 ciclos de choque térmico e 50 ciclos de gelo-degelo com sais de degelo. Este desempenho consistentemente acima dos requisitos da NP EN 1504-2:2006 (geralmente 1,0 MPa médio e 0,8 MPa mínimo) valida sua durabilidade em ambientes severos.
 2.  **Modo de Ruptura Consistente e Previsível:** O modo de ruptura adesiva, predominante na interface entre o substrato de concreto e a primeira camada do sistema tanto para as amostras de referência quanto para as envelhecidas, indica uma falha previsível do sistema. Embora a interface seja o ponto mais fraco, a força necessária para a ruptura está acima dos valores mínimos exigidos, sugerindo um ponto de falha bem definido e gerenciável, crucial para a engenharia de materiais e o dimensionamento de sistemas de proteção.
 3.  **Potencial de Aplicação em Ambientes Agressivos:** A combinação de alta resistência adesiva, estabilidade dimensional (ausência de defeitos visíveis) e conformidade com os requisitos normativos após ensaios acelerados de envelhecimento térmico e químico posiciona o IMPERVEGº RQI 132 como um material altamente promissor para a proteção e reparo de estruturas de concreto em aplicações externas sujeitas a variações climáticas extremas e exposição a sais de degelo.
-
 ---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"A educação não transforma o mundo. Educação muda as pessoas. Pessoas mudam o mundo."<br>— Paulo Freire</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: REVIEW_compatibilidade térmico com sais descongelantes.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
+# REVIEW TÉCNICO: IMPERVEGº RQI 132
+**Referência do Review:** PES-REV-3674-2026
+**Data do Ensaio:** 23/09/2025
+**Local do Ensaio:** Coimbra, Portugal (Laboratório ITecons)
+**Órgão Emissor:** ITecons
+**Solicitante:** Tecnoveg — Indústria e Comércio, Lda.
+
+
 **Autor da Análise:** Fabio Resck Takwara (ORCID: "0009-0002-6044-2583")
 **Data da Revisão:** 25/03/2026
 **Local da Análise:** "São Paulo-SP"
+
+---
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

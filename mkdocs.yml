@@ -7,8 +7,8 @@ theme:
   name: material
   custom_dir: docs/overrides
   language: pt-BR
-  logo: assets/patterns/square_06_red.svg
-  favicon: assets/patterns/square_06_red.svg
+  logo: assets/logo_BQTF/logo_mqtf_soberana.svg
+  favicon: assets/logo_BQTF/logo_mqtf_soberana.svg
   palette:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate

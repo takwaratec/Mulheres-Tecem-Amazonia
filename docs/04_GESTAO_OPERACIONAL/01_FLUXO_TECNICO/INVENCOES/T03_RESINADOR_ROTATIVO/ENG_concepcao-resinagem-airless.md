@@ -19,14 +19,24 @@ type: Nota Técnica
 version: '5.1'
 ---
 
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"Não se morre enquanto houver quem nos lembre."<br>— Cora Coralina</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: ENG_concepcao-resinagem-airless.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 # Conceituação Técnica: Resinagem Airless e Resinador Rotativo (T03)
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ![Status](https://img.shields.io/badge/status-V5.1%20(Advocacy)-blue)
 ![Tipo](https://img.shields.io/badge/tipo-Nota%20Técnica-teal)
-
----
 
 ## 1. O Problema Técnico
 A aplicação manual de poliuretano (PU) em colmos de 6 metros é morosa, gera desperdício e é limitada pelo **potlife** (tempo de vida útil) da mistura de resina. A falta de uniformidade compromete a proteção estrutural e o acabamento.
@@ -39,23 +49,17 @@ Inspirado no mecanismo de assadeiras de frango, este maquinário rotaciona as va
 2.  **Transmissão Sincronizada (Corrente):** Um sistema de **corrente única** (estilo motor de moto ou assadeira industrial) faz com que todos os eixos rotacionem simultaneamente a uma velocidade controlada por um único motor.
 3.  **Aplicação Airless:** Utilização de pistolas airless para atomização da resina UG132A em varas lixadas e secas (<12% umidade).
 4.  **Escalonamento por Lote:**
-    *   **Modelo de 3 Eixos:** Para aplicação manual ou pequenos lotes.
-    *   **Modelo Multieixos:** Para grandes lotes, aproveitando o volume total de PU misturado antes da polimerização.
-
----
+    * <img src="assets/icons/human_19_black.svg" width="18px">   **Modelo de 3 Eixos:** <img src="assets/icons/human_19_black.svg" width="18px"> Para aplicação manual ou pequenos lotes.
+    * <img src="assets/icons/human_13_black.svg" width="18px">   **Modelo Multieixos:** <img src="assets/icons/human_13_black.svg" width="18px"> Para grandes lotes, aproveitando o volume total de PU misturado antes da polimerização.
 
 ## 3. Cenário Imagético e Mapa Mental
 
 ### 3.1 Descrição Visual
 Uma fileira horizontal de 6m de bambus suspensos por eixos cônicos de aço, girando em sincronia sob uma névoa de resina transparente. O bambu entra seco e bruto e sai blindado contra intempéries.
 
----
-
 ## 4. Briefing de Criação de Imagem (AI Prompt)
 
 > **Prompt (EN):** 3D technical view of a "Bamboo Rotisserie Coating Rack". Multiple parallel horizontal bamboo poles held by conical steel chucks on a 6m rack. A central drive chain connects all gears. A spray nozzle moves along the poles, coating them with a glossy resin mist. Steampunk-industrial, Takwara style. 8k render.
-
----
 
 ## Como Citar
 
@@ -63,4 +67,12 @@ Uma fileira horizontal de 6m de bambus suspensos por eixos cônicos de aço, gir
 Takwara, F. R. (2026). *Conceituação Técnica: Maquinário de Resinagem Airless ("Frangueira")* (Versão 5.1). Nota Técnica — Núcleo Institucional / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

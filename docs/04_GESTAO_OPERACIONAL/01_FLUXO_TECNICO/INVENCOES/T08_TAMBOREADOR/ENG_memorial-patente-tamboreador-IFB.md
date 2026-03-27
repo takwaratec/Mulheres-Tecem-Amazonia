@@ -19,13 +19,23 @@ type: Memorial de Patente
 version: '5.1'
 ---
 
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"A educação é o direito de todos e dever do Estado."<br>— Anísio Teixeira</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: ENG_memorial-patente-tamboreador-IFB.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 # Memorial Jurídico: Tamboreador Comunitário IFB/UnB (Mídia Granular Aquecida)
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ![Status](https://img.shields.io/badge/status-V5.1%20(Advocacy)-blue)
-
----
 
 ## 1. Relatório Descritivo de Modelo de Utilidade
 
@@ -38,8 +48,6 @@ Equipamentos convencionais de lixamento mecânico operam a frio, exigindo alta p
 ### 1.3 Solução Proposta
 A disposição reivindicada consiste em um tambor de aço de 200 litros (reuso) montado sobre um eixo de rotação horizontal, submetido a aquecimento externo direto via **fornalha tipo Rocket Stove**. O movimento rotatório, aliado ao calor irradiado pelo metal e transferido à areia interna, promove uma abrasão profunda e uniforme com baixo consumo energético (motorização < 1/2 CV) e combustível renovável (biomassa).
 
----
-
 ## 2. Descrição da Configuração de Utilidade
 
 1.  **Cilindro de Processamento:** Tambor metálico de reuso com fechamento estanque e aletas internas.
@@ -47,20 +55,14 @@ A disposição reivindicada consiste em um tambor de aço de 200 litros (reuso) 
 3.  **Transmissão de Baixa Rotação:** Polias e correias (podendo utilizar peças de bicicletas ou maquinário reciclado) conectadas a um motor monofásico ou tração manual.
 4.  **Mídia Abrasiva Granular:** Areia de quartzo ou resíduos silicosos pré-aquecidos pela condução térmica do tambor.
 
----
-
 ## 3. Reivindicações
 
 1.  **DISPOSIÇÃO INTRODUZIDA EM TAMBOREADOR DE VARAS**, caracterizada por um cilindro rotativo metálico (1) posicionado sobre uma câmara de combustão tipo Rocket Stove (2), permitindo o aquecimento da **mídia granular abrasiva** interna durante o ciclo de rotação.
 2.  **DISPOSIÇÃO**, de acordo com a reivindicação 1, caracterizada pelo uso de **areia aquecida por condução térmica direta do cilindro** como agente de facilitação de lixamento de superfícies ricas em sílica e ceras naturais.
 3.  **DISPOSIÇÃO**, de acordo com a reivindicação 1, caracterizada pelo arranjo construtivo modular que utiliza **tambores de 200 litros** como câmara de reação térmica e mecânica.
 
----
-
 ## 4. Resumo
 Modelo de utilidade para um tamboreador de bambu que utiliza o princípio da "Abrasão Térmica" via areia quente. O equipamento integra um fogão de alta eficiência (Rocket Stove) a um tambor rotativo de reuso, permitindo o tratamento superficial de colmos com baixo custo operacional e alta eficácia em contextos de bioeconomia comunitária e soberania tecnológica.
-
----
 
 ## Como Citar
 
@@ -68,4 +70,12 @@ Modelo de utilidade para um tamboreador de bambu que utiliza o princípio da "Ab
 Institucional, F. R. (2026). *Memorial Jurídico: Tamboreador Comunitário IFB/UnB (Mídia Granular Aquecida)* (Versão 5.1). Memorial de Patente — Núcleo Institucional / Universidade de Brasília / IFB. https://doi.org/10.5281/zenodo.18827106
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

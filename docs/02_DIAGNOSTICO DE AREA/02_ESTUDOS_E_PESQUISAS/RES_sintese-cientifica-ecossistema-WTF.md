@@ -23,6 +23,18 @@ type: Memorando Técnico Interno
 version: '3.0'
 ---
 
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"A ciência não é apenas um corpo de conhecimento, é um modo de pensar."<br>— Marcelo Gleiser</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: RES_sintese-cientifica-ecossistema-WTF.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 # O Bambu e a Mamona — Os Pilares Ignorados da Soberania Tecnológica Brasileira
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
@@ -46,8 +58,8 @@ O Brasil realizou, com o Programa Nacional do Álcool (Proálcool, 1975) e a obr
 
 No entanto, essa lógica de soberania não foi estendida aos setores de **construção civil** e **transporte fluvial** — precisamente os dois domínios onde a Amazônia Legal enfrenta sua carência mais aguda. A região importa aço, cimento, alumínio e diesel a custos multiplicados pelo "frete amazônico", enquanto possui, em abundância absoluta, dois materiais capazes de substituí-los:
 
-- **Bambu** (*Guadua* spp.): resistência à tração de 120–160 MPa, densidade de 500–700 kg/m³, renovabilidade em 3–5 anos, flutuabilidade natural por estrutura oca. Estimativa de 21,8 bilhões de hastes disponíveis somente no Acre (Embrapa, 2016; Bayma, 2023).
-- **Poliuretano vegetal de mamona** (*Ricinus communis*): biopolímero 100% sólido, isento de solventes, com alta resistência UV, adesão excepcional em fibras naturais e comportamento viscoelástico superior ao de resinas petroquímicas (Imperveg; Almeida & Ferreira, 2006; Cangemi, 2006).
+- <img src="assets/icons/human_14_black.svg" width="18px"> **Bambu** <img src="assets/icons/human_14_black.svg" width="18px"> (*Guadua* <img src="assets/icons/human_14_black.svg" width="18px"> spp.): resistência à tração de 120–160 MPa, densidade de 500–700 kg/m³, renovabilidade em 3–5 anos, flutuabilidade natural por estrutura oca. Estimativa de 21,8 bilhões de hastes disponíveis somente no Acre (Embrapa, 2016; Bayma, 2023).
+- <img src="assets/icons/human_12_black.svg" width="18px"> **Poliuretano vegetal de mamona** <img src="assets/icons/human_12_black.svg" width="18px"> (*Ricinus communis*): biopolímero 100% sólido, isento de solventes, com alta resistência UV, adesão excepcional em fibras naturais e comportamento viscoelástico superior ao de resinas petroquímicas (Imperveg; Almeida & Ferreira, 2006; Cangemi, 2006).
 
 A combinação desses dois insumos — bambu como reforço estrutural e PU de mamona como matriz polimérica — produz um **bio-compósito** com desempenho mecânico documentado:
 
@@ -73,10 +85,10 @@ A região onde esses materiais são mais abundantes é também a região onde s�
 
 O corredor fluvial Juruá-Purus, que interliga o Acre ao Amazonas, apresenta indicadores socioeconômicos de emergência:
 
-- **Ipixuna (AM):** IDHM de 0,481 (muito baixo), apenas 36,8% dos domicílios com banheiro, 0% de esgoto tratado, mortalidade infantil de 29,63‰ (IBGE, 2022–2023).
-- **Vale do Purus:** 66,6% da população abaixo da linha da pobreza. O DSEI Alto Rio Purus registrou mortalidade infantil indígena de 65,32‰ em 2020, com diarreia e gastroenterite como causas principais.
-- **BR-319:** A pavimentação do "Trecho do Meio" (405,7 km) ameaça o desmatamento de até 9 milhões de hectares e a invasão de 51 Terras Indígenas (RIMA/DNIT, 2021; Observatório BR-319, 2023).
-- A **ANA**, pela Resolução nº 264/2025, declarou Situação Crítica de Escassez Quantitativa para os rios Juruá, Purus, Acre e Iaco.
+- <img src="assets/icons/human_05_black.svg" width="18px"> **Ipixuna (AM):** <img src="assets/icons/human_05_black.svg" width="18px"> IDHM de 0,481 (muito baixo), apenas 36,8% dos domicílios com banheiro, 0% de esgoto tratado, mortalidade infantil de 29,63‰ (IBGE, 2022–2023).
+- <img src="assets/icons/human_16_black.svg" width="18px"> **Vale do Purus:** <img src="assets/icons/human_16_black.svg" width="18px"> 66,6% da população abaixo da linha da pobreza. O DSEI Alto Rio Purus registrou mortalidade infantil indígena de 65,32‰ em 2020, com diarreia e gastroenterite como causas principais.
+- <img src="assets/icons/human_18_black.svg" width="18px"> **BR-319:** <img src="assets/icons/human_18_black.svg" width="18px"> A pavimentação do "Trecho do Meio" (405,7 km) ameaça o desmatamento de até 9 milhões de hectares e a invasão de 51 Terras Indígenas (RIMA/DNIT, 2021; Observatório BR-319, 2023).
+- <img src="assets/icons/human_06_black.svg" width="18px"> A **ANA**, pela Resolução nº 264/2025, declarou Situação Crítica de Escassez Quantitativa para os rios Juruá, Purus, Acre e Iaco.
 
 Nessas comunidades, uma embarcação de alumínio fissurada exige solda especializada e eletricidade — recursos inexistentes. Uma casa de alvenaria exige cimento e aço transportados por milhares de quilômetros. Um fogão a gás exige GLP subsidiado que chega por avião.
 
@@ -96,9 +108,9 @@ A termorretificação do bambu — tratamento térmico entre 120°C e 140°C —
 
 ### 3.3. PU Vegetal em Aplicações Náuticas
 As resinas Imperveg (AGT 1315 / UG 132), desenvolvidas no Brasil a partir do óleo de mamona, são reconhecidas por:
-- Impermeabilização monolítica resistente a UV (Almeida, 2000).
-- Defensas náuticas com comportamento viscoelástico superior a elastômeros petroquímicos (Lopes, 2019).
-- Adesão em fibras de bambu documentada como "excelente" (Santos et al., 2018; Barbalho & Silva, 2018).
+- <img src="assets/icons/human_17_black.svg" width="18px"> Impermeabilização monolítica resistente a UV (Almeida, 2000).
+- <img src="assets/icons/human_08_black.svg" width="18px"> Defensas náuticas com comportamento viscoelástico superior a elastômeros petroquímicos (Lopes, 2019).
+- <img src="assets/icons/human_01_black.svg" width="18px"> Adesão em fibras de bambu documentada como "excelente" (Santos et al., 2018; Barbalho & Silva, 2018).
 
 ### 3.4. Navegação em Bio-Compósitos
 Estudos publicados por instituições como a Northumbria University confirmam a viabilidade de cascos em compósitos de fibras de bambu para aplicações marítimas, com desempenho mecânico competitivo e possibilidade de construção em configuração sanduíche. A redução de peso em relação ao aço pode atingir 40%, resultando em calados operacionais compatíveis com os rios amazônicos durante a vazante (calado mínimo de 0,9 m no Rio Branco; 1,1 m no Juruá).
@@ -116,17 +128,17 @@ O bio-compósito Bambu + PU é a ponta visível de um ecossistema tecnológico m
 
 A pirólise lenta de biomassa (300–600°C em atmosfera controlada) converte bambu, cascas de castanha, caroços de açaí e outros resíduos em três coprodutos de alto valor:
 
-- **Biochar** (28–32% da massa seca): carvão estável que, quando incorporado ao solo, sequestra carbono por séculos. Certificável pela metodologia **VERRA VM0044** como remoção durável de CO₂. Aplicações adicionais: substrato para filtros de purificação de água, componente de banheiros ecológicos secos (compostagem acelerada), e regeneração de solos degradados por garimpo ou pecuária extensiva.
-- **Carvão ativado**: obtido por ativação física ou química do biochar, com área superficial de 500–1.200 m²/g. Utilizado em filtros de purificação de água potável, tratamento de efluentes e remoção de metais pesados — tecnologias críticas para comunidades sem saneamento.
-- **Extrato pirolenhoso** (40–45% da massa): rico em fenóis e ácidos orgânicos. Funciona como defensivo agrícola natural, preservativo antifúngico para madeira e bambu, e — quando adicionado em proporção de 20% à água de caldeira — produz **vapor quimicamente enriquecido** que age como conservante estrutural de ação bactericida, fechando um ciclo circular de tratamento.
+- <img src="assets/icons/human_07_black.svg" width="18px"> **Biochar** <img src="assets/icons/human_07_black.svg" width="18px"> (28–32% da massa seca): carvão estável que, quando incorporado ao solo, sequestra carbono por séculos. Certificável pela metodologia **VERRA VM0044** <img src="assets/icons/human_07_black.svg" width="18px"> como remoção durável de CO₂. Aplicações adicionais: substrato para filtros de purificação de água, componente de banheiros ecológicos secos (compostagem acelerada), e regeneração de solos degradados por garimpo ou pecuária extensiva.
+- <img src="assets/icons/human_13_black.svg" width="18px"> **Carvão ativado**: obtido por ativação física ou química do biochar, com área superficial de 500–1.200 m²/g. Utilizado em filtros de purificação de água potável, tratamento de efluentes e remoção de metais pesados — tecnologias críticas para comunidades sem saneamento.
+- <img src="assets/icons/human_02_black.svg" width="18px"> **Extrato pirolenhoso** <img src="assets/icons/human_02_black.svg" width="18px"> (40–45% da massa): rico em fenóis e ácidos orgânicos. Funciona como defensivo agrícola natural, preservativo antifúngico para madeira e bambu, e — quando adicionado em proporção de 20% à água de caldeira — produz **vapor quimicamente enriquecido** <img src="assets/icons/human_02_black.svg" width="18px"> que age como conservante estrutural de ação bactericida, fechando um ciclo circular de tratamento.
 
 ### 4.2. Cascateamento Térmico e Cogeração
 
 O calor residual da pirólise não é resíduo — é recurso. A separação estrita entre o "universo sujo" (gases pirólise) e o "universo limpo" (ar quente da jaqueta externa) permite:
 
-- **Secagem de alimentos e biomassa** a 60–80°C via ar limpo, sem contaminação.
-- **Vapor para pasteurização** de leite, sucos e polpas — utilizável diretamente em unidades itinerantes fluviais.
-- **Briquetagem**: os resíduos compactados alcançam poder calorífico de 4.500–6.200 kcal/kg (vs. 2.500–3.500 kcal/kg da lenha), substituindo diesel e GLP nas cadeias produtivas locais.
+- <img src="assets/icons/human_10_black.svg" width="18px"> **Secagem de alimentos e biomassa** <img src="assets/icons/human_10_black.svg" width="18px"> a 60–80°C via ar limpo, sem contaminação.
+- <img src="assets/icons/human_19_black.svg" width="18px"> **Vapor para pasteurização** <img src="assets/icons/human_19_black.svg" width="18px"> de leite, sucos e polpas — utilizável diretamente em unidades itinerantes fluviais.
+- <img src="assets/icons/human_03_black.svg" width="18px"> **Briquetagem**: os resíduos compactados alcançam poder calorífico de 4.500–6.200 kcal/kg (vs. 2.500–3.500 kcal/kg da lenha), substituindo diesel e GLP nas cadeias produtivas locais.
 
 O queimador Rocket Stove, operando por tiragem natural a pressão neutra (0 barg), consome os gases não condensáveis (CO, H₂, metano) e alimenta caldeiras sem exaustores mecânicos — uma simplificação operacional que permite aceitação comunitária.
 
@@ -134,9 +146,9 @@ O queimador Rocket Stove, operando por tiragem natural a pressão neutra (0 barg
 
 A questão da propulsão para embarcações amazônicas admite hoje múltiplas rotas tecnológicas, todas compatíveis com cascos de bio-compósito:
 
-- **Motores a vapor de última geração**: O motor Uniflow (US9657568B2) opera sem lubrificação convencional, produzindo vapor "limpo" (*culinary grade*) reutilizável para processos alimentares embarcados. Alimentado por briquetes de biomassa, elimina a dependência de diesel.
-- **Propulsão elétrica solar**: Painéis fotovoltaicos sobre a cobertura do casco alimentam motores elétricos de baixa potência, suficientes para a navegação lenta dos rios interiores. Combinados com baterias de ciclo profundo, permitem operação 24h em trechos de corrente moderada.
-- **Sistemas híbridos**: A combinação vapor + solar + eólico (pequenas turbinas verticais) é adaptável conforme o perfil do rio, a carga e a estação hidrológica.
+- <img src="assets/icons/human_20_black.svg" width="18px"> **Motores a vapor de última geração**: O motor Uniflow (US9657568B2) opera sem lubrificação convencional, produzindo vapor "limpo" (*culinary grade*) reutilizável para processos alimentares embarcados. Alimentado por briquetes de biomassa, elimina a dependência de diesel.
+- <img src="assets/icons/human_15_black.svg" width="18px"> **Propulsão elétrica solar**: Painéis fotovoltaicos sobre a cobertura do casco alimentam motores elétricos de baixa potência, suficientes para a navegação lenta dos rios interiores. Combinados com baterias de ciclo profundo, permitem operação 24h em trechos de corrente moderada.
+- <img src="assets/icons/human_11_black.svg" width="18px"> **Sistemas híbridos**: A combinação vapor + solar + eólico (pequenas turbinas verticais) é adaptável conforme o perfil do rio, a carga e a estação hidrológica.
 
 A escolha da propulsão é modular. O casco de bambu + PU é a plataforma — neutra em relação ao motor.
 
@@ -144,11 +156,11 @@ A escolha da propulsão é modular. O casco de bambu + PU é a plataforma — ne
 
 O mesmo bio-compósito e os mesmos processos (laminação, termorretificação, conformação por prensa) que produzem cascos de embarcação produzem:
 
-- **Painéis construtivos** para habitações de interesse social, com desempenho térmico e acústico superior ao da alvenaria convencional em clima equatorial.
-- **Treliças e estruturas portantes** normalizadas pela ABNT NBR 16828-1.
-- **Domos geodésicos de secagem** para processamento agroindustrial (castanha, açaí, artesanato).
-- **Defensas portuárias e náuticas** em PU de mamona, substituindo pneus descartados que contaminam os rios.
-- **Elementos de saneamento**: filtros de biochar/carvão ativado para purificação de água, módulos de banheiro ecológico seco com compostagem termofílica.
+- <img src="assets/icons/human_04_black.svg" width="18px"> **Painéis construtivos** <img src="assets/icons/human_04_black.svg" width="18px"> para habitações de interesse social, com desempenho térmico e acústico superior ao da alvenaria convencional em clima equatorial.
+- <img src="assets/icons/human_09_black.svg" width="18px"> **Treliças e estruturas portantes** <img src="assets/icons/human_09_black.svg" width="18px"> normalizadas pela ABNT NBR 16828-1.
+- <img src="assets/icons/human_14_black.svg" width="18px"> **Domos geodésicos de secagem** <img src="assets/icons/human_14_black.svg" width="18px"> para processamento agroindustrial (castanha, açaí, artesanato).
+- <img src="assets/icons/human_12_black.svg" width="18px"> **Defensas portuárias e náuticas** <img src="assets/icons/human_12_black.svg" width="18px"> em PU de mamona, substituindo pneus descartados que contaminam os rios.
+- <img src="assets/icons/human_05_black.svg" width="18px"> **Elementos de saneamento**: filtros de biochar/carvão ativado para purificação de água, módulos de banheiro ecológico seco com compostagem termofílica.
 
 A convergência é clara: o combinado de bambu estrutural, PU de mamona como impermeabilizante e biopolímero, biochar como substrato sanitário e regenerativo, e briquetes como combustível renovável compõem um **sistema integrado de infraestrutura comunitária** que pode ser fabricado localmente, mantido com insumos nacionais e escalado por meio de formação técnica descentralizada.
 
@@ -190,69 +202,69 @@ A terceira prova aguarda.
 
 ## Referências
 
-- ABNT. **NBR 16828-1:2020** — Estruturas de bambu: Projeto. Rio de Janeiro, 2020. [Acesso via ABNT Catálogo](https://www.abntcatalogo.com.br/)
+- <img src="assets/icons/human_16_black.svg" width="18px"> ABNT. **NBR 16828-1:2020** <img src="assets/icons/human_16_black.svg" width="18px"> — Estruturas de bambu: Projeto. Rio de Janeiro, 2020. [Acesso via ABNT Catálogo](https://www.abntcatalogo.com.br/)
 
-- ANA. **Resolução nº 264/2025**: Escassez Quantitativa nos Rios Juruá, Purus, Acre e Iaco. Brasília, 2025. [Acesso via Diário Oficial](https://www.in.gov.br/)
+- <img src="assets/icons/human_18_black.svg" width="18px"> ANA. **Resolução nº 264/2025**: Escassez Quantitativa nos Rios Juruá, Purus, Acre e Iaco. Brasília, 2025. [Acesso via Diário Oficial](https://www.in.gov.br/)
 
-- ALMEIDA, A. E. F. S. Desempenho de revestimento PU vegetal em ambientes agressivos. Dissertação — EESC/USP, 2000. [Acesso via Teses USP](https://www.teses.usp.br/)
+- <img src="assets/icons/human_06_black.svg" width="18px"> ALMEIDA, A. E. F. S. Desempenho de revestimento PU vegetal em ambientes agressivos. Dissertação — EESC/USP, 2000. [Acesso via Teses USP](https://www.teses.usp.br/)
 
-- ALMEIDA, A. E. F. S.; FERREIRA, O. P. Poliuretana de óleos vegetais em intemperismo artificial. *Polímeros*, v. 16, n. 3, 2006. [doi:10.1590/S0104-14282006000300011](https://doi.org/10.1590/S0104-14282006000300011)
+- <img src="assets/icons/human_17_black.svg" width="18px"> ALMEIDA, A. E. F. S.; FERREIRA, O. P. Poliuretana de óleos vegetais em intemperismo artificial. *Polímeros*, v. 16, n. 3, 2006. [doi:10.1590/S0104-14282006000300011](https://doi.org/10.1590/S0104-14282006000300011)
 
-- BARBALHO, G. H. N.; SILVA, J. R. Desempenho do PU vegetal para impermeabilização de madeiras. *Anais VII ENPG*, v. 2, 2018.
+- <img src="assets/icons/human_08_black.svg" width="18px"> BARBALHO, G. H. N.; SILVA, J. R. Desempenho do PU vegetal para impermeabilização de madeiras. *Anais VII ENPG*, v. 2, 2018.
 
-- BAYMA, M. M. A. Estimativa do volume e potencial econômico de bambu *Guadua* spp. no Acre. Tese — UEA, 2023. [Acesso via BDTD](https://bdtd.ibict.br/)
+- <img src="assets/icons/human_01_black.svg" width="18px"> BAYMA, M. M. A. Estimativa do volume e potencial econômico de bambu *Guadua* <img src="assets/icons/human_01_black.svg" width="18px"> spp. no Acre. Tese — UEA, 2023. [Acesso via BDTD](https://bdtd.ibict.br/)
 
-- BAYMA, M. M. A. et al. Uso sustentável do bambu nativo do Acre. *Aracê*, v. 7, n. 4, 2025.
+- <img src="assets/icons/human_07_black.svg" width="18px"> BAYMA, M. M. A. et al. Uso sustentável do bambu nativo do Acre. *Aracê*, v. 7, n. 4, 2025.
 
-- BRAND, M. A. et al. Avaliação de quatro espécies de bambu para produção de carvão vegetal. *Ciência Florestal*, v. 30, n. 1, 2020. [doi:10.5902/1980509831576](https://doi.org/10.5902/1980509831576)
+- <img src="assets/icons/human_13_black.svg" width="18px"> BRAND, M. A. et al. Avaliação de quatro espécies de bambu para produção de carvão vegetal. *Ciência Florestal*, v. 30, n. 1, 2020. [doi:10.5902/1980509831576](https://doi.org/10.5902/1980509831576)
 
-- BRASIL/DNIT. **RIMA**: Pavimentação BR-319/AM (Trecho do Meio). Brasília, 2021. [Acesso via DNIT](https://www.gov.br/dnit/)
+- <img src="assets/icons/human_02_black.svg" width="18px"> BRASIL/DNIT. **RIMA**: Pavimentação BR-319/AM (Trecho do Meio). Brasília, 2021. [Acesso via DNIT](https://www.gov.br/dnit/)
 
-- BRASIL/MTE. **NR-13**: Caldeiras, Vasos de Pressão e Tubulações. Brasília, atualizada em 2022. [Acesso via GOV.BR](https://www.gov.br/trabalho-e-emprego/)
+- <img src="assets/icons/human_10_black.svg" width="18px"> BRASIL/MTE. **NR-13**: Caldeiras, Vasos de Pressão e Tubulações. Brasília, atualizada em 2022. [Acesso via GOV.BR](https://www.gov.br/trabalho-e-emprego/)
 
-- BRITO, F. M. S. Efeito da termorretificação nas propriedades do bambu. Dissertação — UFES, 2013. [Acesso via BDTD](https://bdtd.ibict.br/)
+- <img src="assets/icons/human_19_black.svg" width="18px"> BRITO, F. M. S. Efeito da termorretificação nas propriedades do bambu. Dissertação — UFES, 2013. [Acesso via BDTD](https://bdtd.ibict.br/)
 
-- CANGEMI, J. M. Biodegradação de PU derivado de óleo de mamona. Tese — IQSC/USP, 2006. [doi:10.11606/T.75.2006.tde-09042007-090743](https://doi.org/10.11606/T.75.2006.tde-09042007-090743)
+- <img src="assets/icons/human_03_black.svg" width="18px"> CANGEMI, J. M. Biodegradação de PU derivado de óleo de mamona. Tese — IQSC/USP, 2006. [doi:10.11606/T.75.2006.tde-09042007-090743](https://doi.org/10.11606/T.75.2006.tde-09042007-090743)
 
-- CARVALHO, R. L. et al. Pegada de carbono na construção de embarcações marítimas: estudo de caso. 2019. [Acesso via ResearchGate](https://www.researchgate.net/)
+- <img src="assets/icons/human_20_black.svg" width="18px"> CARVALHO, R. L. et al. Pegada de carbono na construção de embarcações marítimas: estudo de caso. 2019. [Acesso via ResearchGate](https://www.researchgate.net/)
 
-- CONAMA. **Resolução nº 382/2006**: Limites de emissão para fontes fixas. Brasília, 2006. [Acesso via MMA](https://www.gov.br/mma/)
+- <img src="assets/icons/human_15_black.svg" width="18px"> CONAMA. **Resolução nº 382/2006**: Limites de emissão para fontes fixas. Brasília, 2006. [Acesso via MMA](https://www.gov.br/mma/)
 
-- EMBRAPA Acre. **Plano Estadual de Desenvolvimento do Bambu**. Rio Branco, 2016. [Acesso via Embrapa](https://www.embrapa.br/busca-de-publicacoes/-/publicacao/1154259)
+- <img src="assets/icons/human_11_black.svg" width="18px"> EMBRAPA Acre. **Plano Estadual de Desenvolvimento do Bambu**. Rio Branco, 2016. [Acesso via Embrapa](https://www.embrapa.br/busca-de-publicacoes/-/publicacao/1154259)
 
-- EMBRAPA Clima Temperado. **Caracterização e uso do extrato pirolenhoso**. Pelotas, 2015. (Circular Técnica, 177). [Acesso via Embrapa](https://www.embrapa.br/busca-de-publicacoes/)
+- <img src="assets/icons/human_04_black.svg" width="18px"> EMBRAPA Clima Temperado. **Caracterização e uso do extrato pirolenhoso**. Pelotas, 2015. (Circular Técnica, 177). [Acesso via Embrapa](https://www.embrapa.br/busca-de-publicacoes/)
 
-- IABr — Instituto Aço Brasil. **Relatório de Sustentabilidade 2022**: emissões médias de 1,7 t CO₂/t aço. Rio de Janeiro, 2023. [Acesso via IABr](https://acobrasil.org.br/)
+- <img src="assets/icons/human_09_black.svg" width="18px"> IABr — Instituto Aço Brasil. **Relatório de Sustentabilidade 2022**: emissões médias de 1,7 t CO₂/t aço. Rio de Janeiro, 2023. [Acesso via IABr](https://acobrasil.org.br/)
 
-- ISO. **ISO 22157:2019** — Bamboo: physical and mechanical properties. Genebra, 2019. [Acesso via ISO](https://www.iso.org/standard/65950.html)
+- <img src="assets/icons/human_14_black.svg" width="18px"> ISO. **ISO 22157:2019** <img src="assets/icons/human_14_black.svg" width="18px"> — Bamboo: physical and mechanical properties. Genebra, 2019. [Acesso via ISO](https://www.iso.org/standard/65950.html)
 
-- LOPES, R. S. *Defensas náuticas de poliuretano vegetal*. Atena Editora, 2019. [doi:10.22533/at.ed.](https://www.atenaeditora.com.br/)
+- <img src="assets/icons/human_12_black.svg" width="18px"> LOPES, R. S. *Defensas náuticas de poliuretano vegetal*. Atena Editora, 2019. [doi:10.22533/at.ed.](https://www.atenaeditora.com.br/)
 
-- MONTRUCCHIO, M. A. et al. Carpintaria Naval Artesanal Bragantina. *Amazônica*, v. 17, n. 1, 2025. [Acesso via UFPA](https://periodicos.ufpa.br/index.php/amazonica)
+- <img src="assets/icons/human_05_black.svg" width="18px"> MONTRUCCHIO, M. A. et al. Carpintaria Naval Artesanal Bragantina. *Amazônica*, v. 17, n. 1, 2025. [Acesso via UFPA](https://periodicos.ufpa.br/index.php/amazonica)
 
-- NELSON, P. M. et al. Compósito de PU de mamona e partículas de bambu. *Polímeros*, v. 23, n. 2, 2013. [doi:10.4322/polimeros.2013.007](https://doi.org/10.4322/polimeros.2013.007)
+- <img src="assets/icons/human_16_black.svg" width="18px"> NELSON, P. M. et al. Compósito de PU de mamona e partículas de bambu. *Polímeros*, v. 23, n. 2, 2013. [doi:10.4322/polimeros.2013.007](https://doi.org/10.4322/polimeros.2013.007)
 
-- Observatório BR-319. **Nota Técnica nº 05**. Manaus, 2023. [Acesso via Observatório BR-319](https://observatoriobr319.org.br/)
+- <img src="assets/icons/human_18_black.svg" width="18px"> Observatório BR-319. **Nota Técnica nº 05**. Manaus, 2023. [Acesso via Observatório BR-319](https://observatoriobr319.org.br/)
 
-- SANTOS, J. V. G. et al. Biocompósitos de bambu e resina de mamona. *Blucher Design Proceedings*, v. 4, n. 3, 2018. [doi:10.5151/sigradi2018-1397](https://doi.org/10.5151/sigradi2018-1397)
+- <img src="assets/icons/human_06_black.svg" width="18px"> SANTOS, J. V. G. et al. Biocompósitos de bambu e resina de mamona. *Blucher Design Proceedings*, v. 4, n. 3, 2018. [doi:10.5151/sigradi2018-1397](https://doi.org/10.5151/sigradi2018-1397)
 
-- SILVA, J. Saberes e Práticas Tradicionais em Estaleiros de Manaus. Tese — UFAM, 2018. [Acesso via BDTD](https://bdtd.ibict.br/)
+- <img src="assets/icons/human_17_black.svg" width="18px"> SILVA, J. Saberes e Práticas Tradicionais em Estaleiros de Manaus. Tese — UFAM, 2018. [Acesso via BDTD](https://bdtd.ibict.br/)
 
-- SILVA, R. V. Compósito de resina PU de mamona e fibras vegetais. Tese — USP, 2003. [doi:10.11606/T.88.2003.tde-28092015-163939](https://doi.org/10.11606/T.88.2003.tde-28092015-163939)
+- <img src="assets/icons/human_08_black.svg" width="18px"> SILVA, R. V. Compósito de resina PU de mamona e fibras vegetais. Tese — USP, 2003. [doi:10.11606/T.88.2003.tde-28092015-163939](https://doi.org/10.11606/T.88.2003.tde-28092015-163939)
 
-- US Patent 9657568B2 — Motor a vapor Uniflow para pequena geração com biomassa. [Acesso via Google Patents](https://patents.google.com/patent/US9657568B2)
+- <img src="assets/icons/human_01_black.svg" width="18px"> US Patent 9657568B2 — Motor a vapor Uniflow para pequena geração com biomassa. [Acesso via Google Patents](https://patents.google.com/patent/US9657568B2)
 
-- VERRA. **VM0044**: Methodology for Biochar Utilization. v. 1.2. Washington, DC, 2025. [Acesso via Verra](https://verra.org/methodologies/vm0044)
+- <img src="assets/icons/human_07_black.svg" width="18px"> VERRA. **VM0044**: Methodology for Biochar Utilization. v. 1.2. Washington, DC, 2025. [Acesso via Verra](https://verra.org/methodologies/vm0044)
 
-- ZANUNCIO, A. J. V. et al. Colorimetria aplicada à ciência da madeira. *Floresta e Ambiente*, v. 21, n. 1, 2014. [doi:10.4322/floram.2014.010](https://doi.org/10.4322/floram.2014.010)
+- <img src="assets/icons/human_13_black.svg" width="18px"> ZANUNCIO, A. J. V. et al. Colorimetria aplicada à ciência da madeira. *Floresta e Ambiente*, v. 21, n. 1, 2014. [doi:10.4322/floram.2014.010](https://doi.org/10.4322/floram.2014.010)
+
+---
 
 ---
 
-**🎋 Institucional — Tecnologia do Bambu para a Soberania Amazônica**
-**DOI: [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106)**
-
-*Projeto Mulheres Que Tecem a Floresta — Documento técnico interno.*
-*Licença CC BY 4.0.*
+---
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

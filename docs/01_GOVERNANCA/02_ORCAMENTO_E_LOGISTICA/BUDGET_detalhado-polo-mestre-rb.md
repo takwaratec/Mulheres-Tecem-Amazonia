@@ -9,13 +9,21 @@ author:
 date: '2026-03-24'
 ---
 
-# Simulação Detalhada: Polo Mestre (Rio Branco) vs. Expansão Territorial
-![Status: Ready](https://img.shields.io/badge/Status-Ready-brightgreen)
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
+<p align="right"><i>"Inventar é imaginar o que os outros não pensaram."<br>— Santos Dumont</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: BUDGET_detalhado-polo-mestre-rb.md
+*   **Status**: Status Consolidado
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
+# Simulação Detalhada: Polo Mestre (Rio Branco) vs. Expansão Territorial
 **Análise de Contingência Budgets e Sobras Operacionais (2026)**
 **Teto Líquido (Consolidado):** R$ 25.000.000
-
----
 
 ## 1. Núcleo Institucional (Hub Rio Branco) - O Canteiro-Escola
 O "Polo Mestre" é o centro de pesquisa, fabricação e formação permanente. Seu orçamento é de **Capital A**, amortizado como infraestrutura pública.
@@ -27,8 +35,6 @@ O "Polo Mestre" é o centro de pesquisa, fabricação e formação permanente. S
 | **OPEX RB** | Equipe Fixa Takwara (Mestre/Eng) | R$ 1.000.000 | 24 meses de folha (Gross-to-Net) |
 | **M&M** | Insumos e Materiais de P&D | R$ 300.000 | Resinas, aços, biocompósitos |
 | **Subtotal** | **Polo Mestre (Takwara)** | **R$ 7.000.000** | **28% do Projeto** |
-
----
 
 ## 2. Expansão Territorial (Cruzeiro/Purus/Juruá)
 Os 5 núcleos interligados representam o **Capital B** (Incrementos Territoriais).
@@ -42,8 +48,6 @@ Os 5 núcleos interligados representam o **Capital B** (Incrementos Territoriais
 | **OPEX Exp** | Equipe de Campo e ALICoop | R$ 1.000.000 | 48 meses de supervisão |
 | **Subtotal** | **Expansão Territorial** | **R$ 10.500.000** | **42% do Projeto** |
 
----
-
 ## 3. Programa Nacional de Bolsas (BNDES)
 Verba horizontal repassada via FINATEC/NIT (Tax-Exempt/Admin Fee logic).
 
@@ -52,8 +56,6 @@ Verba horizontal repassada via FINATEC/NIT (Tax-Exempt/Admin Fee logic).
 | **Bolsas** | Mulheres Educandas (M6-M42) | R$ 2.400.000 | 100 mulheres (12 meses) |
 | **Inovação** | Bolsistas de P&D e Mestrado | R$ 2.600.000 | 15 pesquisadores (48 meses) |
 | **Subtotal** | **Bolsas (OPEX)** | **R$ 5.000.000** | **20% do Projeto** |
-
----
 
 ## 4. Auditoria de Carga Tributária (Bruto vs. Líquido)
 Para atingir os **R$ 30M Brutos**, a carga tributária e administrativa é provisionada:
@@ -64,8 +66,6 @@ Para atingir os **R$ 30M Brutos**, a carga tributária e administrativa é provi
 | **Tributos Rec. Humanos (CLT)**| ~5% | R$ 1.500.000 |
 | **Tributos Compras (ICMS/IPI)** | ~1,6%| R$ 500.000 |
 | **Total Retenção** | **~16,6%** | **R$ 5.000.000** |
-
----
 
 ## 5. Auditoria de Postos de Trabalho (Equipe Fixa)
 Postos técnicos fundamentais para o sucesso do polo mestre:
@@ -79,7 +79,12 @@ Postos técnicos fundamentais para o sucesso do polo mestre:
 Todas as remunerações estão provisionadas nas rubricas de OPEX (1.0M Takwara + 1.0M Campo).
 
 ---
-**🎋 Núcleo Institucional — Engenharia de Soberania**
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

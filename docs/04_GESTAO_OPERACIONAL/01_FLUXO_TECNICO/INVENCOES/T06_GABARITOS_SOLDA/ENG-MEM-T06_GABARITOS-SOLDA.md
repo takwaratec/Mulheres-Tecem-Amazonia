@@ -18,13 +18,23 @@ keywords:
 - montagem estrutural
 ---
 
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"Só se aprende o que se pratica."<br>— Anísio Teixeira</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: ENG-MEM-T06_GABARITOS-SOLDA.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 # Memorial Técnico: Gabaritos de Montagem para Solda Vegetal T06
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ![Status](https://img.shields.io/badge/status-CONSOLIDADO%20WTF-blue)
-
----
 
 ## 1. Relatório Descritivo de Modelo de Utilidade
 
@@ -37,25 +47,19 @@ A irregularidade geométrica natural dos colmos de bambu exige alinhamento preci
 ### 1.3 Solução Proposta
 Estrutura modular composta por **Colunas de Suporte Vertical**, um **Eixo Mestre Pivotante** e um **Miolo Giratório** dotado de grade de trilhos longitudinais e transversais. O diferencial reside na capacidade de rotação de 360°, permitindo o posicionamento ergonômico em eixos angulares genéricos. O sistema bifacial opera como o berço primário para a **Prensa T07**.
 
----
-
 ## 2. Descrição Detalhada e Protocolos
 
 ### 2.1 Precisão de Alinhamento
 A mesa matricial permite a montagem de treliças de até 6 metros. O uso de **Grampos Anti-Aderentes** (revestidos com Teflon) protege o maquinário contra o excedente da Solda Vegetal.
 
 ### 2.2 Variantes Construtivas
-- **Modelo Artesanal (Legacy):** Bancada de madeira (compensado naval) com abraçadeiras "meia-lua" em barras roscadas.
-- **Modelo Industrial (Consolidação 5.1):** Mesa matricial metálica (A36) perfurada a laser com **Toggle Clamps** de fixação rápida e rotulada.
-
----
+- <img src="assets/icons/human_19_black.svg" width="18px"> **Modelo Artesanal (Legacy):** <img src="assets/icons/human_19_black.svg" width="18px"> Bancada de madeira (compensado naval) com abraçadeiras "meia-lua" em barras roscadas.
+- <img src="assets/icons/human_11_black.svg" width="18px"> **Modelo Industrial (Consolidação 5.1):** <img src="assets/icons/human_11_black.svg" width="18px"> Mesa matricial metálica (A36) perfurada a laser com **Toggle Clamps** <img src="assets/icons/human_11_black.svg" width="18px"> de fixação rápida e rotulada.
 
 ## 3. Bill of Materials (BoM) - Variante Industrial
-- **Base:** Mesa matricial A36 perfurada.
-- **Agarras:** Grampos rápidos (Toggle Clamps) com eixos rotulados.
-- **Eixo:** Sistema pivotante com rolamentos de carga pesada.
-
----
+- <img src="assets/icons/human_06_black.svg" width="18px"> **Base:** <img src="assets/icons/human_06_black.svg" width="18px"> Mesa matricial A36 perfurada.
+- <img src="assets/icons/human_15_black.svg" width="18px"> **Agarras:** <img src="assets/icons/human_15_black.svg" width="18px"> Grampos rápidos (Toggle Clamps) com eixos rotulados.
+- <img src="assets/icons/human_05_black.svg" width="18px"> **Eixo:** <img src="assets/icons/human_05_black.svg" width="18px"> Sistema pivotante com rolamentos de carga pesada.
 
 ## 4. Reivindicações
 1. **DISPOSIÇÃO INTRODUZIDA EM GABARITOS DE MONTAGEM**, caracterizada por compreender uma grade de trilhos deslizantes montada sobre estrutura de **Colunas de Apoio e Eixo Pivotante 360°**, permitindo movimentação orbital de grandes estruturas (3m+).
@@ -63,19 +67,20 @@ A mesa matricial permite a montagem de treliças de até 6 metros. O uso de **Gr
 3. **DISPOSIÇÃO**, de acordo com a reivindicação 1, caracterizada pelo eixo pivotante possuir **mecanismo de travamento angular indexado**.
 4. **DISPOSIÇÃO**, de acordo com a reivindicação 1, caracterizada pela integração mecânica com a **Prensa T07**.
 
----
-
 ## Documentos Relacionados
-- **ENG-NT-T06-01**: Memorial de Campo — Gabarito Vertical de Madeira.
-
----
+- <img src="assets/icons/human_07_black.svg" width="18px"> **ENG-NT-T06-01**: Memorial de Campo — Gabarito Vertical de Madeira.
 
 ## Como Citar
 **APA:**
 Takwara, F. R. (2026). *Memorial Jurídico: Gabaritos de Montagem para Solda Vegetal T06* (Versão 1.0 Mulheres que Tecem a Floresta). Projeto Mulheres Que Tecem a Floresta / Consórcio Consórcio UnB/UFRR/UFAC. https://doi.org/10.5281/zenodo.18827106
 
 ---
-**🎋 Institucional — Geometria Precisa e Bioconstrução Sistêmica**
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

@@ -1,3 +1,20 @@
+---
+> [!NOTE]
+> Este relatório compõe o Acervo de Diagnóstico de Área do Consórcio UnB/UFAC/UFRR.
+---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"A educação não transforma o mundo. Educação muda as pessoas. Pessoas mudam o mundo."<br>— Paulo Freire</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: WTF-DIAG-001_Patrimonio_Imaterial_Grafismo.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 # WTF-DIAG-001: Patrimônio Imaterial – Grafismos e Identidade Indígena
 
 Este documento sistematiza a análise do patrimônio imaterial focado nos sistemas gráficos das etnias Huni Kuĩ e Kaiowá, explorando a relação entre estética, proteção espiritual e preservação da memória coletiva na Amazônia Ocidental e regiões fronteiriças.
@@ -7,9 +24,9 @@ O grafismo indígena transcende a mera função decorativa, operando como uma **
 
 ## 2. O Sistema Kene (Huni Kuĩ — Acre)
 No contexto dos povos Huni Kuĩ (Rio Branco/Acre), o **Kene** é a manifestação máxima da identidade. 
-- **Origem**: Atribuído à visão do Grande Espírito através da *Yuxibu* (força criadora) e transmitido prioritariamente pelas mulheres e jovens em processos de iniciação.
-- **Função**: Proteção contra o "corpo fraco" e conexão com os espíritos da floresta.
-- **Suportes**: Pintura corporal (jenipapo/urucum), tecelagem de algodão e cerâmica.
+- <img src="assets/icons/human_05_black.svg" width="18px"> **Origem**: Atribuído à visão do Grande Espírito através da *Yuxibu* <img src="assets/icons/human_05_black.svg" width="18px"> (força criadora) e transmitido prioritariamente pelas mulheres e jovens em processos de iniciação.
+- <img src="assets/icons/human_08_black.svg" width="18px"> **Função**: Proteção contra o "corpo fraco" e conexão com os espíritos da floresta.
+- <img src="assets/icons/human_06_black.svg" width="18px"> **Suportes**: Pintura corporal (jenipapo/urucum), tecelagem de algodão e cerâmica.
 
 ## 3. O Sistema Jegua (Kaiowá/Guarani — MS/Fronteira)
 Embora geograficamente distinto, o **Jegua** compartilha a premissa da proteção espiritual. Rossandra Cabreira (2014) destaca que os grafismos Kaiowá são linguagens que "falam" com a natureza, representando a resistência de um povo diante do confinamento territorial e da pressão externa.
@@ -58,9 +75,9 @@ O sistema de documentação permite a inclusão de grafismos vetoriais que podem
 
 ### Como dar Cor aos Desenhos (MKDocs)
 Para aplicar cores personalizadas aos vetores ao longo do texto, utilize as classes CSS integradas no arquivo `index.css`:
-- `.svg-color-primary`: Aplica a cor padrão da identidade WTF (Preto).
-- `.svg-color-accent`: Aplica o Vermelho Ururau.
-- `.svg-color-eco`: Aplica o Verde Floresta.
+- <img src="assets/icons/human_18_black.svg" width="18px"> `.svg-color-primary`: Aplica a cor padrão da identidade WTF (Preto).
+- <img src="assets/icons/human_16_black.svg" width="18px"> `.svg-color-accent`: Aplica o Vermelho Ururau.
+- <img src="assets/icons/human_04_black.svg" width="18px"> `.svg-color-eco`: Aplica o Verde Floresta.
 
 Exemplo de uso: `![Grafismo](caminho.svg){ .svg-color-accent }`
 
@@ -73,5 +90,12 @@ IPHAN. **Dossiê de Registro dos Grafismos Kene Huni Kuĩ**. Rio Branco: Superin
 CABREIRA, Rossandra. **O Grafismo Kaiowá e Guarani: identidade e resistência e o sistema Jegua**. Dourados: UFGD (Trabalho de Conclusão de Curso em História), 2014.
 
 ---
-> [!NOTE]
-> Este relatório compõe o Acervo de Diagnóstico de Área do Consórcio UnB/UFAC/UFRR.
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

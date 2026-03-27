@@ -9,19 +9,29 @@ author:
 date: '2026-03-26'
 ---
 
-Como Pesquisador Sênior e Analista de Dados do Projeto WTF, apresento a Ficha Científica Estruturada, convertida a partir do texto bruto fornecido.
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
----
+<p align="right"><i>"O homem é o estilo."<br>— Machado de Assis</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: FICHA_Influência+da+Governança+Municipal.md
+*   **Status**: Status Consolidado
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
+Como Pesquisador Sênior e Analista de Dados do Projeto WTF, apresento a Ficha Científica Estruturada, convertida a partir do texto bruto fornecido.
 
 ## FICHA CIENTÍFICA ESTRUTURADA – PROJETO WTF
 
 ### 1. METADADOS E CABEÇALHO
 
-*   **projeto:** Mulheres Que Tecem a Floresta
-*   **instituicao:** Consórcio UnB/UFRR/UFAC
-*   **tipo:** Pesquisa: Amazônia Setentrional (PES)
-*   **referencia:** PES-TEC-5370-2026
-*   **status:** Ready
+* <img src="assets/icons/human_08_black.svg" width="18px">   **projeto:** <img src="assets/icons/human_08_black.svg" width="18px"> Mulheres Que Tecem a Floresta
+* <img src="assets/icons/human_05_black.svg" width="18px">   **instituicao:** <img src="assets/icons/human_05_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
+* <img src="assets/icons/human_04_black.svg" width="18px">   **tipo:** <img src="assets/icons/human_04_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
+* <img src="assets/icons/human_07_black.svg" width="18px">   **referencia:** <img src="assets/icons/human_07_black.svg" width="18px"> PES-TEC-5370-2026
+* <img src="assets/icons/human_02_black.svg" width="18px">   **status:** <img src="assets/icons/human_02_black.svg" width="18px"> Ready
 
 **REFERÊNCIA BIBLIOGRÁFICA (ABNT):**
 
@@ -76,20 +86,20 @@ Este artigo tem como objetivo investigar a influência da governança municipal 
 
 ### 4. RELAÇÃO COM O PROJETO (CONEXÃO WTF)
 
-*   **Como isso beneficia as mulheres extrativistas?**
+* <img src="assets/icons/human_06_black.svg" width="18px">   **Como isso beneficia as mulheres extrativistas?**
     O estudo destaca a urgência de melhorar as condições sociais e ambientais na Amazônia Legal, apontando problemas como a precariedade no saneamento básico, a deficiência na educação, a pouca garantia de direitos individuais e o aumento do desmatamento. Para as mulheres extrativistas, que dependem diretamente da saúde da floresta e de serviços básicos para sua subsistência e bem-estar, as melhorias advindas de uma governança municipal eficiente (em "Finanças", "Gestão" e "Desempenho") são cruciais. Uma melhor governança pode resultar em:
-    *   **Água limpa e saneamento básico:** Essencial para a saúde de suas famílias e comunidades.
-    *   **Segurança pública:** Proteção contra a violência rural e o avanço de atividades ilegais que ameaçam seus territórios e vidas.
-    *   **Educação de qualidade:** Oferece mais oportunidades para suas filhas e filhos, sem a necessidade de abandonar o modo de vida tradicional.
-    *   **Garantia de direitos individuais:** Fortalece o reconhecimento de seus direitos territoriais e o apoio a suas práticas extrativistas sustentáveis.
-    *   **Redução do desmatamento:** Preserva a floresta, que é a base de seus recursos, economia e cultura.
+    * <img src="assets/icons/human_16_black.svg" width="18px">   **Água limpa e saneamento básico:** <img src="assets/icons/human_16_black.svg" width="18px"> Essencial para a saúde de suas famílias e comunidades.
+    * <img src="assets/icons/human_18_black.svg" width="18px">   **Segurança pública:** <img src="assets/icons/human_18_black.svg" width="18px"> Proteção contra a violência rural e o avanço de atividades ilegais que ameaçam seus territórios e vidas.
+    * <img src="assets/icons/human_01_black.svg" width="18px">   **Educação de qualidade:** <img src="assets/icons/human_01_black.svg" width="18px"> Oferece mais oportunidades para suas filhas e filhos, sem a necessidade de abandonar o modo de vida tradicional.
+    * <img src="assets/icons/human_09_black.svg" width="18px">   **Garantia de direitos individuais:** <img src="assets/icons/human_09_black.svg" width="18px"> Fortalece o reconhecimento de seus direitos territoriais e o apoio a suas práticas extrativistas sustentáveis.
+    * <img src="assets/icons/human_10_black.svg" width="18px">   **Redução do desmatamento:** <img src="assets/icons/human_10_black.svg" width="18px"> Preserva a floresta, que é a base de seus recursos, economia e cultura.
     Em suma, uma governança mais eficaz pode direcionar recursos e políticas que garantam a proteção do meio ambiente e o acesso a serviços essenciais, beneficiando diretamente a qualidade de vida e a sustentabilidade das atividades das mulheres extrativistas.
 
-*   **Relação com saberes ancestrais (Tania, Sonia, Georgia).**
+* <img src="assets/icons/human_17_black.svg" width="18px">   **Relação com saberes ancestrais (Tania, Sonia, Georgia).**
     Embora o artigo não mencione explicitamente saberes ancestrais ou nomes específicos como Tania, Sonia e Georgia, a pesquisa estabelece uma base crítica para entender os desafios que impactam diretamente a continuidade desses conhecimentos. Os problemas identificados (desmatamento, precariedade social, falta de direitos) são ameaças diretas às comunidades tradicionais e seus modos de vida, que são os guardiões desses saberes.
-    *   **Desmatamento:** A perda da floresta significa a perda de recursos naturais e espaços onde os saberes ancestrais (sobre plantas medicinais, manejo sustentável, técnicas de extrativismo) são praticados e transmitidos.
-    *   **Precariedade social:** A falta de saneamento, saúde e educação de qualidade impacta a capacidade dessas comunidades de florescer e manter suas tradições, forçando, por vezes, a migração ou a aculturação.
-    *   **Pouca garantia de direitos individuais:** A ausência de proteção jurídica e territorial impede que as comunidades com saberes ancestrais tenham a autonomia necessária para proteger seus conhecimentos e terras de explorações externas.
+    * <img src="assets/icons/human_11_black.svg" width="18px">   **Desmatamento:** <img src="assets/icons/human_11_black.svg" width="18px"> A perda da floresta significa a perda de recursos naturais e espaços onde os saberes ancestrais (sobre plantas medicinais, manejo sustentável, técnicas de extrativismo) são praticados e transmitidos.
+    * <img src="assets/icons/human_14_black.svg" width="18px">   **Precariedade social:** <img src="assets/icons/human_14_black.svg" width="18px"> A falta de saneamento, saúde e educação de qualidade impacta a capacidade dessas comunidades de florescer e manter suas tradições, forçando, por vezes, a migração ou a aculturação.
+    * <img src="assets/icons/human_12_black.svg" width="18px">   **Pouca garantia de direitos individuais:** <img src="assets/icons/human_12_black.svg" width="18px"> A ausência de proteção jurídica e territorial impede que as comunidades com saberes ancestrais tenham a autonomia necessária para proteger seus conhecimentos e terras de explorações externas.
     Portanto, a melhoria da governança municipal e do progresso social, conforme defendido no artigo, criaria um ambiente mais estável e justo. Isso permitiria que as mulheres, como Tania, Sonia e Georgia (representantes das mulheres que tecem a floresta), tivessem as condições para preservar, praticar e transmitir seus conhecimentos ancestrais às futuras gerações, garantindo sua relevância e continuidade cultural e ecológica na Amazônia.
 
 ### 5. Extrair Bibliografia citada no texto
@@ -137,4 +147,12 @@ Este artigo tem como objetivo investigar a influência da governança municipal 
 **Observação:** Algumas referências citadas no corpo do texto bruto (e.g., Koppenjan et al., 2010; Eccles, 1985; Branco, 1985; Mitnick, 1986; Spence & Zeckhauser, 1971; Demski & Feltham, 1978; Fama, 1980; Basu, Lai, Srinivasan, & Staelin, 1985; Kosnik, 1987) não foram encontradas na lista de "REFERÊNCIAS" fornecida no final do mesmo texto. Para manter a fidelidade à instrução de "Extrair Bibliografia citada no texto" e "Liste todas as referências bibliográficas citadas no texto. Formate como ABNT", apenas as referências presentes na seção de REFERÊNCIAS foram incluídas e formatadas.
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

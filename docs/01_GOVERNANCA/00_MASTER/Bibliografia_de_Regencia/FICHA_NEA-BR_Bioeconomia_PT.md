@@ -9,15 +9,27 @@ author:
 date: '2026-03-26'
 ---
 
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+
+<p align="right"><i>"As invenções são o resultado de um trabalho teimoso."<br>— Santos Dumont</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: FICHA_NEA-BR_Bioeconomia_PT.md
+*   **Status**: Status Consolidado
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
 ## FICHA CIENTÍFICA ESTRUTURADA
 
 ### 1. METADADOS E CABEÇALHO
 
-*   **Projeto:** Mulheres Que Tecem a Floresta
-*   **Instituição:** Consórcio UnB/UFRR/UFAC
-*   **Tipo:** Pesquisa: Amazônia Setentrional (PES)
-*   **Referência:** PES-TEC-6551-2026
-*   **Status:** Ready
+* <img src="assets/icons/human_10_black.svg" width="18px">   **Projeto:** <img src="assets/icons/human_10_black.svg" width="18px"> Mulheres Que Tecem a Floresta
+* <img src="assets/icons/human_05_black.svg" width="18px">   **Instituição:** <img src="assets/icons/human_05_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
+* <img src="assets/icons/human_14_black.svg" width="18px">   **Tipo:** <img src="assets/icons/human_14_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
+* <img src="assets/icons/human_04_black.svg" width="18px">   **Referência:** <img src="assets/icons/human_04_black.svg" width="18px"> PES-TEC-6551-2026
+* <img src="assets/icons/human_07_black.svg" width="18px">   **Status:** <img src="assets/icons/human_07_black.svg" width="18px"> Ready
 
 **REFERÊNCIA BIBLIOGRÁFICA (ABNT):**
 
@@ -64,12 +76,12 @@ O texto discute o conceito de bioeconomia no Brasil, suas nuances, limitações 
 
 A abordagem de bioeconomia bioecológica, proposta como ideal para a Amazônia, beneficia diretamente as mulheres extrativistas ao:
 
-*   **Valorizar Conhecimentos Tradicionais:** Reconhece e incorpora os saberes e modos de vida dos povos tradicionais (nos quais as mulheres extrativistas desempenham um papel fundamental) como elementos norteadores da ciência e inovações tecnológicas. Exemplos como a Pimenta Baniwa demonstram como o conhecimento local pode ser a base de cadeias produtivas.
-*   **Garantir Direitos e Inclusão:** Defende a manutenção dos direitos de povos e comunidades tradicionais, incluindo a garantia dos direitos à terra e a distribuição justa dos benefícios gerados pela comercialização de produtos da floresta e serviços ecossistêmicos, contribuindo para a redução das desigualdades sociais e territoriais.
-*   **Apoiar Economias Locais e Verticalização:** Propõe o apoio ao adensamento das economias locais e a verticalização da atividade produtiva, gerando maior agregação de valor para os produtos da sociobiodiversidade, o que pode aumentar a renda e o bem-estar das comunidades, incluindo as mulheres que atuam na coleta e beneficiamento.
-*   **Promover o Desmatamento Zero e Manejo Sustentável:** A prioridade na conservação da floresta e na restauração de áreas degradadas, juntamente com o fomento a sistemas agroflorestais (SAF) e o manejo sustentável de produtos florestais não madeireiros, assegura a base de recursos para as atividades extrativistas em longo prazo.
-*   **Combater Ilegalidades:** Ao lutar contra a grilagem de terras e a exploração ilegal (madeira, ouro), a bioeconomia bioecológica protege os territórios e os meios de subsistência das mulheres extrativistas, reduzindo a violência e a degradação ambiental.
-*   **Melhorar Infraestrutura e Assistência Técnica:** A demanda por conectividade, energia elétrica descentralizada, tecnologia industrial e assistência técnica para os empreendimentos locais fortalece a capacidade produtiva e de gestão das associações e cooperativas, onde as mulheres extrativistas podem ter papéis de liderança e participação ativa.
+* <img src="assets/icons/human_06_black.svg" width="18px">   **Valorizar Conhecimentos Tradicionais:** <img src="assets/icons/human_06_black.svg" width="18px"> Reconhece e incorpora os saberes e modos de vida dos povos tradicionais (nos quais as mulheres extrativistas desempenham um papel fundamental) como elementos norteadores da ciência e inovações tecnológicas. Exemplos como a Pimenta Baniwa demonstram como o conhecimento local pode ser a base de cadeias produtivas.
+* <img src="assets/icons/human_13_black.svg" width="18px">   **Garantir Direitos e Inclusão:** <img src="assets/icons/human_13_black.svg" width="18px"> Defende a manutenção dos direitos de povos e comunidades tradicionais, incluindo a garantia dos direitos à terra e a distribuição justa dos benefícios gerados pela comercialização de produtos da floresta e serviços ecossistêmicos, contribuindo para a redução das desigualdades sociais e territoriais.
+* <img src="assets/icons/human_18_black.svg" width="18px">   **Apoiar Economias Locais e Verticalização:** <img src="assets/icons/human_18_black.svg" width="18px"> Propõe o apoio ao adensamento das economias locais e a verticalização da atividade produtiva, gerando maior agregação de valor para os produtos da sociobiodiversidade, o que pode aumentar a renda e o bem-estar das comunidades, incluindo as mulheres que atuam na coleta e beneficiamento.
+* <img src="assets/icons/human_17_black.svg" width="18px">   **Promover o Desmatamento Zero e Manejo Sustentável:** <img src="assets/icons/human_17_black.svg" width="18px"> A prioridade na conservação da floresta e na restauração de áreas degradadas, juntamente com o fomento a sistemas agroflorestais (SAF) e o manejo sustentável de produtos florestais não madeireiros, assegura a base de recursos para as atividades extrativistas em longo prazo.
+* <img src="assets/icons/human_16_black.svg" width="18px">   **Combater Ilegalidades:** <img src="assets/icons/human_16_black.svg" width="18px"> Ao lutar contra a grilagem de terras e a exploração ilegal (madeira, ouro), a bioeconomia bioecológica protege os territórios e os meios de subsistência das mulheres extrativistas, reduzindo a violência e a degradação ambiental.
+* <img src="assets/icons/human_11_black.svg" width="18px">   **Melhorar Infraestrutura e Assistência Técnica:** <img src="assets/icons/human_11_black.svg" width="18px"> A demanda por conectividade, energia elétrica descentralizada, tecnologia industrial e assistência técnica para os empreendimentos locais fortalece a capacidade produtiva e de gestão das associações e cooperativas, onde as mulheres extrativistas podem ter papéis de liderança e participação ativa.
 
 **Quais as diretrizes para o projeto e a bioeconomia?**
 
@@ -157,4 +169,12 @@ As diretrizes para o projeto e para a bioeconomia na Amazônia, segundo o texto,
 67. WORLD BANK. *World Bank Open Data*. 2022. Disponível em: https://data.worldbank.org/. Acesso em: 24 mar. 2026.
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

@@ -9,20 +9,30 @@ author:
 date: '2026-03-26'
 ---
 
-Como Pesquisador Sênior e Analista de Dados do Projeto WTF, apresento a seguir a FICHA CIENTÍFICA ESTRUTURADA do texto bruto fornecido, com foco nas informações relevantes para a nossa iniciativa.
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
----
+<p align="right"><i>"O real não está na saída nem na chegada: ele se dispõe para a gente é no meio da travessia."<br>— Guimarães Rosa</i></p>
+
+### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: FICHA_Gestão+Social+e+Metodologias.md
+*   **Status**: Status Consolidado
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
+Como Pesquisador Sênior e Analista de Dados do Projeto WTF, apresento a seguir a FICHA CIENTÍFICA ESTRUTURADA do texto bruto fornecido, com foco nas informações relevantes para a nossa iniciativa.
 
 ## FICHA CIENTÍFICA ESTRUTURADA – PROJETO WTF
 
 ### 1. METADADOS E CABEÇALHO
 
-*   **projeto**: Mulheres Que Tecem a Floresta
-*   **instituicao**: Consórcio UnB/UFRR/UFAC
-*   **tipo**: Pesquisa: Amazônia Setentrional (PES)
-*   **referencia**: PES-TEC-5305-2026
-*   **status**: Ready
-*   **date**: 2026-03-24
+* <img src="assets/icons/human_16_black.svg" width="18px">   **projeto**: Mulheres Que Tecem a Floresta
+* <img src="assets/icons/human_05_black.svg" width="18px">   **instituicao**: Consórcio UnB/UFRR/UFAC
+* <img src="assets/icons/human_11_black.svg" width="18px">   **tipo**: Pesquisa: Amazônia Setentrional (PES)
+* <img src="assets/icons/human_01_black.svg" width="18px">   **referencia**: PES-TEC-5305-2026
+* <img src="assets/icons/human_15_black.svg" width="18px">   **status**: Ready
+* <img src="assets/icons/human_06_black.svg" width="18px">   **date**: 2026-03-24
 
 **REFERÊNCIA BIBLIOGRÁFICA (ABNT):**
 
@@ -58,16 +68,16 @@ Deliberative Citizenship and Social Management are intrinsically related as they
 
 Este ensaio teórico possui uma conexão vital com o Projeto "Mulheres Que Tecem a Floresta" (WTF), pois fundamenta a importância e as possibilidades de aplicação de metodologias participativas e da Gestão Social para empoderar comunidades, especialmente grupos marginalizados.
 
-*   **Benefícios para Mulheres Extrativistas:**
-    *   **Voz e Inclusão:** As metodologias participativas defendidas (como o Diagnóstico Participativo, Planejamento Participativo e Oficinas) oferecem um caminho estruturado para que as mulheres extrativistas sejam incluídas ativamente nos processos decisórios. Isso significa que suas necessidades, desafios e propostas para a gestão da floresta e de seus recursos serão ouvidos e integrados, combatendo a exclusão histórica.
-    *   **Autonomia e Emancipação:** O texto enfatiza a "autonomia" e a "emancipação" como resultados da participação ativa. Para as mulheres extrativistas, isso se traduz na capacidade de analisar sua própria realidade, identificar seus pontos fortes e de melhoria, e projetar ações para o bem-estar coletivo, fortalecendo sua autodeterminação frente a lógicas de mercado ou governamentais externas.
-    *   **Horizontalidade do Saber:** A valorização do "conhecimento local" e das "contribuições sem juízos de valor" é crucial. Isso permite que o saber ancestral e empírico das mulheres extrativistas sobre o manejo da floresta, o uso sustentável dos recursos e as dinâmicas sociais da comunidade seja reconhecido como valioso e fundamental para a construção de soluções.
-    *   **Controle Social e Bem Comum:** Métodos como o Orçamento Participativo e a avaliação contínua das ações permitem que as mulheres monitorem a implementação de políticas e projetos, assegurando que os recursos sejam aplicados para o "bem comum" da comunidade, e não apenas para interesses isolados.
+* <img src="assets/icons/human_12_black.svg" width="18px">   **Benefícios para Mulheres Extrativistas:**
+    * <img src="assets/icons/human_07_black.svg" width="18px">   **Voz e Inclusão:** <img src="assets/icons/human_07_black.svg" width="18px"> As metodologias participativas defendidas (como o Diagnóstico Participativo, Planejamento Participativo e Oficinas) oferecem um caminho estruturado para que as mulheres extrativistas sejam incluídas ativamente nos processos decisórios. Isso significa que suas necessidades, desafios e propostas para a gestão da floresta e de seus recursos serão ouvidos e integrados, combatendo a exclusão histórica.
+    * <img src="assets/icons/human_02_black.svg" width="18px">   **Autonomia e Emancipação:** <img src="assets/icons/human_02_black.svg" width="18px"> O texto enfatiza a "autonomia" e a "emancipação" como resultados da participação ativa. Para as mulheres extrativistas, isso se traduz na capacidade de analisar sua própria realidade, identificar seus pontos fortes e de melhoria, e projetar ações para o bem-estar coletivo, fortalecendo sua autodeterminação frente a lógicas de mercado ou governamentais externas.
+    * <img src="assets/icons/human_03_black.svg" width="18px">   **Horizontalidade do Saber:** <img src="assets/icons/human_03_black.svg" width="18px"> A valorização do "conhecimento local" e das "contribuições sem juízos de valor" é crucial. Isso permite que o saber ancestral e empírico das mulheres extrativistas sobre o manejo da floresta, o uso sustentável dos recursos e as dinâmicas sociais da comunidade seja reconhecido como valioso e fundamental para a construção de soluções.
+    * <img src="assets/icons/human_17_black.svg" width="18px">   **Controle Social e Bem Comum:** <img src="assets/icons/human_17_black.svg" width="18px"> Métodos como o Orçamento Participativo e a avaliação contínua das ações permitem que as mulheres monitorem a implementação de políticas e projetos, assegurando que os recursos sejam aplicados para o "bem comum" da comunidade, e não apenas para interesses isolados.
 
-*   **Relação com Saberes Ancestrais (Tania, Sonia, Georgia):**
-    *   A pesquisa valida a incorporação de "conhecimentos empíricos valiosos" e a "horizontalidade do saber". Isso é o cerne do que mulheres como Tania, Sonia e Georgia representam. Seus saberes ancestrais – sobre as plantas medicinais, os ciclos da floresta, as técnicas de manejo sustentável, a organização comunitária – são formas de conhecimento validadas pela experiência de gerações.
-    *   As metodologias e técnicas participativas (como "Mapeamento Participativo", "Círculo de Histórias", "Linha do Tempo") fornecem as ferramentas para que esses saberes sejam externalizados, compartilhados, sistematizados e integrados nos processos de Gestão Social. Em vez de serem meros receptores de informações, elas se tornam coautoras e líderes na formulação de planos de desenvolvimento local.
-    *   A ênfase na "continuidade do processo educativo" permite que o aprendizado mútuo entre saberes formais e ancestrais ocorra de forma perene, transformando as práticas e fortalecendo o Projeto WTF em sua missão de tecer a floresta com base no conhecimento e empoderamento das mulheres.
+* <img src="assets/icons/human_10_black.svg" width="18px">   **Relação com Saberes Ancestrais (Tania, Sonia, Georgia):**
+    * <img src="assets/icons/human_19_black.svg" width="18px">   A pesquisa valida a incorporação de "conhecimentos empíricos valiosos" e a "horizontalidade do saber". Isso é o cerne do que mulheres como Tania, Sonia e Georgia representam. Seus saberes ancestrais – sobre as plantas medicinais, os ciclos da floresta, as técnicas de manejo sustentável, a organização comunitária – são formas de conhecimento validadas pela experiência de gerações.
+    * <img src="assets/icons/human_04_black.svg" width="18px">   As metodologias e técnicas participativas (como "Mapeamento Participativo", "Círculo de Histórias", "Linha do Tempo") fornecem as ferramentas para que esses saberes sejam externalizados, compartilhados, sistematizados e integrados nos processos de Gestão Social. Em vez de serem meros receptores de informações, elas se tornam coautoras e líderes na formulação de planos de desenvolvimento local.
+    * <img src="assets/icons/human_08_black.svg" width="18px">   A ênfase na "continuidade do processo educativo" permite que o aprendizado mútuo entre saberes formais e ancestrais ocorra de forma perene, transformando as práticas e fortalecendo o Projeto WTF em sua missão de tecer a floresta com base no conhecimento e empoderamento das mulheres.
 
 ### 5. Extrair Bibliografia citada no texto (ABNT)
 
@@ -123,4 +133,12 @@ Este ensaio teórico possui uma conexão vital com o Projeto "Mulheres Que Tecem
 50. VILLELA, L. E. Escopo metodológico. In: TENÓRIO, F. G. (Org.). *Cidadania e desenvolvimento local: critérios de análise*. Rio de Janeiro: FGV, 2012. p. 35-46.
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
