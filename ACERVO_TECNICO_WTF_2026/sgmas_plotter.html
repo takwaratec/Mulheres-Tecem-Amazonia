@@ -1,0 +1,1001 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> MONITOR v7.0 | ROI TOTALITY | Mulheresqtf</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        :root {
+            --bg: #0f172a;
+            --sidebar-bg: #1e293b;
+            --primary: #ffffff;
+            --secondary: #94a3b8;
+            --accent: #f43f5e;
+            --n2: #f43f5e;
+            --n1: #38bdf8;
+            --n0: #fbbf24;
+            --border: #334155;
+            --success: #2dd4bf;
+            --flood: rgba(56, 189, 248, 0.2);
+            --carbon: #a78bfa;
+            --roi-green: #4ade80;
+            --roi-blue: #60a5fa;
+            --roi-gold: #fbbf24;
+        }
+
+        body {
+            margin: 0;
+            font-family: 'Inter', sans-serif;
+            background: var(--bg);
+            color: var(--primary);
+            overflow: hidden;
+        }
+
+        #app {
+            display: flex;
+            height: 100vh;
+        }
+
+        #sidebar {
+            width: 420px;
+            background: var(--sidebar-bg);
+            border-right: 1px solid var(--border);
+            display: flex;
+            flex-direction: column;
+            z-index: 1000;
+            box-shadow: 20px 0 50px rgba(0, 0, 0, 0.5);
+        }
+
+        .header {
+            padding: 25px 20px;
+            background: #0f172a;
+            border-bottom: 2px solid var(--accent);
+        }
+
+        .header h1 {
+            margin: 0;
+            font-size: 1.1rem;
+            font-weight: 900;
+            letter-spacing: -0.5px;
+        }
+
+        .version-badge {
+            background: var(--accent);
+            color: white;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 0.55rem;
+            font-weight: 900;
+            margin-bottom: 8px;
+            display: inline-block;
+            text-transform: uppercase;
+        }
+
+        .tagline {
+            font-size: 0.7rem;
+            color: var(--success);
+            font-weight: 800;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-top: 4px;
+        }
+
+        .content {
+            flex: 1;
+            overflow-y: auto;
+            padding: 20px;
+            scrollbar-width: thin;
+        }
+
+        .node-header {
+            border-bottom: 1px solid var(--border);
+            padding-bottom: 12px;
+            margin-bottom: 20px;
+        }
+
+        .node-header h2 {
+            margin: 0;
+            font-size: 1.2rem;
+            font-weight: 900;
+            color: #fff;
+        }
+
+        .node-header span {
+            font-size: 0.7rem;
+            color: var(--secondary);
+            font-weight: 700;
+            text-transform: uppercase;
+        }
+
+        .section-header {
+            font-size: 0.65rem;
+            color: var(--secondary);
+            text-transform: uppercase;
+            font-weight: 900;
+            letter-spacing: 1px;
+            margin: 25px 0 10px;
+            border-left: 3px solid var(--accent);
+            padding-left: 10px;
+        }
+
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px;
+        }
+
+        .metric-card {
+            background: rgba(15, 23, 42, 0.4);
+            border: 1px solid var(--border);
+            padding: 10px;
+            border-radius: 8px;
+        }
+
+        .metric-card label {
+            display: block;
+            font-size: 0.6rem;
+            color: var(--secondary);
+            font-weight: 800;
+            margin-bottom: 3px;
+            text-transform: uppercase;
+        }
+
+        .metric-card .val {
+            font-size: 0.85rem;
+            font-weight: 800;
+            color: #fff;
+        }
+
+        .metric-card .fixation {
+            font-size: 0.65rem;
+            color: var(--carbon);
+            font-weight: 700;
+            margin-top: 2px;
+        }
+
+        .chart-wrap {
+            background: rgba(30, 41, 59, 0.3);
+            border-radius: 12px;
+            padding: 10px;
+            border: 1px solid var(--border);
+            box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.2);
+        }
+
+        .technical-entry {
+            background: rgba(15, 23, 42, 0.6);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 12px;
+            margin-top: 8px;
+        }
+
+        .tech-row {
+            margin-bottom: 12px;
+            border-bottom: 1px dashed var(--border);
+            padding-bottom: 10px;
+        }
+
+        .tech-row:last-child {
+            border: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        .tech-key {
+            font-weight: 900;
+            color: var(--success);
+            font-size: 0.55rem;
+            text-transform: uppercase;
+            display: block;
+            margin-bottom: 3px;
+        }
+
+        .tech-val {
+            font-size: 0.75rem;
+            color: #e2e8f0;
+            line-height: 1.4;
+            font-weight: 500;
+        }
+        
+        .roi-header {
+            background: linear-gradient(90deg, rgba(74, 222, 128, 0.1) 0%, rgba(15, 23, 42, 0) 100%);
+            border-left: 3px solid var(--roi-green);
+            padding: 10px;
+            margin: 15px 0;
+            border-radius: 0 8px 8px 0;
+        }
+
+        .roi-stat {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 5px;
+        }
+
+        .roi-label {
+            font-size: 0.6rem;
+            font-weight: 900;
+            text-transform: uppercase;
+            color: var(--secondary);
+            flex: 1;
+        }
+
+        .roi-value {
+            font-size: 0.8rem;
+            font-weight: 900;
+            color: var(--roi-green);
+        }
+
+        .sovereignty-badge {
+            background: rgba(251, 191, 36, 0.1);
+            border: 1px solid var(--roi-gold);
+            color: var(--roi-gold);
+            font-size: 0.55rem;
+            padding: 2px 6px;
+            border-radius: 4px;
+            text-transform: uppercase;
+            font-weight: 900;
+            margin-left: 8px;
+        }
+
+        .tag {
+            background: #334155;
+            color: #fff;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 0.6rem;
+            font-weight: 800;
+            margin-right: 4px;
+            margin-bottom: 4px;
+            display: inline-block;
+        }
+
+        #map {
+            flex: 1;
+            background: #020617;
+        }
+
+        .city-label {
+            background: none !important;
+            border: none !important;
+            box-shadow: none !important;
+            font-size: 0.7rem;
+            font-weight: 900;
+            color: #fff;
+            text-shadow: 0 0 5px #000;
+            margin-top: -20px !important;
+        }
+
+        .dist-label {
+            background: #0f172a;
+            color: #fff;
+            border: 1px solid var(--border);
+            padding: 1px 5px;
+            border-radius: 4px;
+            font-size: 0.6rem;
+            font-weight: 900;
+            opacity: 0.8;
+        }
+
+        .legend-final {
+            background: rgba(15, 23, 42, 0.95);
+            color: #fff;
+            padding: 15px;
+            border-radius: 12px;
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.6);
+            font-size: 0.75rem;
+            border: 1px solid var(--border);
+        }
+
+        .leg-title {
+            font-weight: 900;
+            text-transform: uppercase;
+            margin-bottom: 10px;
+            border-bottom: 1px solid var(--border);
+            padding-bottom: 5px;
+            font-size: 0.7rem;
+            color: var(--secondary);
+        }
+
+        .leg-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 6px;
+            font-weight: 700;
+            color: #cbd5e1;
+        }
+
+        .leg-dot {
+            height: 10px;
+            width: 10px;
+            border-radius: 2px;
+            margin-right: 12px;
+            border: 1px solid #fff;
+        }
+
+        .header-stats {
+            display: flex;
+            gap: 10px;
+            margin-top: 10px;
+            font-size: 0.65rem;
+            font-weight: 800;
+            color: var(--success);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            border-top: 1px solid var(--border);
+            padding-top: 10px;
+        }
+
+        .header-stats span {
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        .stat-item {
+            margin-bottom: 10px;
+        }
+
+        .stat-label {
+            font-size: 0.6rem;
+            font-weight: 900;
+            color: var(--secondary);
+            text-transform: uppercase;
+        }
+
+        .stat-val {
+            font-size: 0.9rem;
+            font-weight: 900;
+            color: #fff;
+        }
+
+        /* Seasonal Panel - Refined */
+        #seasonal-panel {
+            position: absolute;
+            bottom: 20px;
+            left: 440px;
+            background: rgba(15, 23, 42, 0.95);
+            border: 2px solid var(--accent);
+            padding: 12px;
+            border-radius: 12px;
+            width: 330px;
+            z-index: 1001;
+            box-shadow: 0 15px 45px rgba(0, 0, 0, 0.7);
+            display: none;
+            /* Sync with Inundação Layer */
+        }
+
+        .seasonal-header {
+            font-size: 0.75rem;
+            font-weight: 900;
+            text-transform: uppercase;
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            color: var(--accent);
+            border-bottom: 1px solid rgba(244, 63, 94, 0.3);
+            padding-bottom: 5px;
+        }
+
+        .seasonal-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+        }
+
+        .season-box {
+            padding: 10px;
+            border-radius: 8px;
+            background: rgba(30, 41, 59, 0.6);
+            border: 1px solid var(--border);
+        }
+
+        .season-title {
+            font-size: 0.65rem;
+            font-weight: 900;
+            text-transform: uppercase;
+            color: var(--success);
+        }
+
+        .season-desc {
+            font-size: 0.75rem;
+            color: #fff;
+            font-weight: 700;
+            margin-top: 4px;
+            line-height: 1.3;
+        }
+
+        .season-months {
+            font-size: 0.6rem;
+            color: var(--secondary);
+            font-weight: 800;
+            margin-top: 6px;
+            border-top: 1px solid var(--border);
+            padding-top: 5px;
+        }
+
+        /* Responsive Mobile Layout */
+        #mobile-menu-btn {
+            position: absolute;
+            top: 15px;
+            left: 15px;
+            z-index: 2000;
+            background: var(--sidebar-bg);
+            border: 2px solid var(--accent);
+            color: white;
+            padding: 8px 12px;
+            border-radius: 8px;
+            font-size: 1rem;
+            cursor: pointer;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+            display: none;
+            align-items: center;
+            gap: 8px;
+            font-weight: 800;
+        }
+
+        #close-sidebar {
+            display: none;
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            background: rgba(244, 63, 94, 0.2);
+            border: 1px solid var(--accent);
+            color: white;
+            border-radius: 50%;
+            width: 32px;
+            height: 32px;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            font-weight: 900;
+        }
+
+        @media (max-width: 768px) {
+            #mobile-menu-btn { display: flex; }
+            #close-sidebar { display: flex; }
+            
+            #sidebar {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100vh;
+                transform: translateX(-100%);
+                transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+                box-shadow: none;
+                z-index: 5000;
+            }
+            #sidebar.active {
+                transform: translateX(0);
+            }
+            #close-sidebar { 
+                display: flex; 
+                z-index: 5001;
+                right: 20px; 
+                top: 20px;
+            }
+            #seasonal-panel {
+                left: 10px;
+                width: calc(100% - 20px);
+                max-width: 350px;
+            }
+            .metrics-grid { grid-template-columns: 1fr; }
+            .legend-final { display: none; } /* Hide legend on small mobile to save space */
+        }
+    </style>
+</head>
+
+<body>
+    <div id="app">
+        <button id="mobile-menu-btn" onclick="toggleSidebar(true)">📊 MONITOR</button>
+        <div id="sidebar">
+            <div id="close-sidebar" onclick="toggleSidebar(false)">✕</div>
+            <div class="header">
+                <span class="version-badge"> v7.0 | ROI TOTALITY</span>
+                <h1>PROJETO MULHERESQTF</h1>
+                <div class="tagline">Bioeconomia & Soberania Vegetal</div>
+                <div class="header-stats">
+                    <span>📍 7 Hubs + 7 Diag.</span>
+                    <span>👥 2.800+ Famílias</span>
+                    <span>🌿 10k tCO2e</span>
+                    <span>💰 R$ 30M</span>
+                </div>
+            </div>
+            <div class="content">
+                <div id="info-panel">
+                    <div id="intro-view">
+                        <div class="node-header">
+                            <h2>Gabinete de Auditoria</h2><span>Auditória de Impacto BNDES 30M</span>
+                        </div>
+                        <p style="font-size: 0.8rem; color: var(--secondary); line-height: 1.6;">Projeção de Retorno sobre Soberania. Escala Industrial Integrada. 
+                            Zero subtração de indicadores de impacto socioambiental (MRV).</p>
+                        
+                        <div class="roi-header">
+                            <div class="roi-stat"><span class="roi-label">🌱 Carbono Contido</span><span class="roi-value">~10.000 tCO2e</span></div>
+                            <div class="roi-stat"><span class="roi-label">🏥 Retorno Saúde (ROSI)</span><span class="roi-value">R$ 1,00 : R$ 5,40</span></div>
+                            <div class="roi-stat"><span class="roi-label">💰 Geração de Renda</span><span class="roi-value">+R$ 12k p/ família</span></div>
+                        </div>
+                    </div>
+                    <div id="details" style="display:none;">
+                        <div class="node-header">
+                            <h2 id="n-label">-</h2><span id="n-type">-</span>
+                        </div>
+
+                        <div class="section-header">Indicadores Didáticos (8D)</div>
+                        <div class="metrics-grid">
+                            <div class="metric-card"><label>👥 População</label>
+                                <div class="val" id="m-pop">-</div>
+                            </div>
+                            <div class="metric-card"><label>♻️ Troca/Entrega</label>
+                                <div class="val" id="m-exchange" style="font-size:0.7rem; line-height:1.2;">-</div>
+                            </div>
+                            <div class="metric-card"><label>🌿 Biomassa Local</label>
+                                <div class="val" id="m-biomass">-</div>
+                                <div class="fixation" id="m-fix">-</div>
+                            </div>
+                            <div class="metric-card"><label>💰 CAPEX ()</label>
+                                <div class="val" id="m-cost" style="color:var(--accent)">-</div>
+                            </div>
+                            <div class="metric-card"><label>🏥 Saúde (Risco)</label>
+                                <div class="val" id="m-health">-</div>
+                            </div>
+                            <div class="metric-card"><label>🚰 Gap Sanitário</label>
+                                <div class="val" id="m-sanitary">-</div>
+                            </div>
+                        </div>
+                        <div class="section-header">Impacto de Passivos & Biomassa</div>
+                        <div class="chart-wrap"><canvas id="mainChart"></canvas></div>
+
+                        <div class="section-header">⚙️ Engenharia & Financiamento (Ref: NT/TAK)</div>
+                        <div class="technical-entry" id="m-tech"></div>
+
+                        <div class="section-header">🤝 Parceiros Institucionais</div>
+                        <div class="p-tags" id="m-partners"
+                            style="display:flex; flex-wrap:wrap; gap:4px; padding-bottom:20px;"></div>
+                    </div>
+                </div>
+            </div>
+            <footer
+                style="padding:12px; text-align:center; font-size:0.6rem; font-weight:800; border-top:1px solid var(--border); color:var(--secondary)">
+                MULHERESQTF | &copy; 2026 | CONSÓRCIO UnB/UFAC/UFRR</footer>
+        </div>
+        <div id="map">
+            <div id="seasonal-panel">
+                <div class="seasonal-header">⚡ CICLOS SAZONAIS (ALTO JURUÁ)</div>
+                <div class="seasonal-grid">
+                    <div class="season-box">
+                        <div class="season-title">🌊 CHEIA SEVERA</div>
+                        <div class="season-desc">Inundação de Várzea e Interpulsos de Sedimentos.</div>
+                        <div class="season-months">Dezembro - Maio</div>
+                    </div>
+                    <div class="season-box" style="border-color: #f97316;">
+                        <div class="season-title" style="color: #f97316;">☀️ SECA EXTREMA</div>
+                        <div class="season-desc">Isolamento Fluvial e Restrição de Calado.</div>
+                        <div class="season-months">Junho - Novembro</div>
+                    </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script>
+        const map = L.map('map', { zoomControl: false }).setView([-5, -63], 5);
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png').addTo(map);
+        L.control.zoom({ position: 'bottomright' }).addTo(map);
+        let currentChart = null;
+
+        const masterData = [
+            {
+                name: "Rio Branco (AC)", coords: [-9.974, -67.810], type: "Hub N2 Industrial", pop: "413.418",
+                exchange: "Protótipo -> Matriz Brasil", biomass: "Bambu Guadua / Resíduos", fix: "125 tCO2e/ha",
+                health: "85% DRSAI", sanitary: "42% Gap", cost: "R$ 12.500.000,00", status: "Hub Industrial",
+                partners: ["UnB", "UFAC", "BNDES", "Embrapa", "SEICT", "Fundo Amazônia"],
+                roi: { carbon: "3.200 t", social: "R$ 16.2M", income: "R$ 4.8M/ano" },
+                tech: [
+                    { k: "Canteiro-Escola T01", v: "Fábrica de Bio-Soluções Modulares (BSM) e Prensa Sanduíche T07." },
+                    { k: "Patentes T01-T08", v: "Soberania em Moldagem PU Mamona e Painéis Estruturais de Bambu." },
+                    { k: "Financiamento", v: "CAPEX Escala Industrial (BNDES 5.1). Investimento em Ativos Fixos + Obras." }
+                ], chart: [40, 30, 30]
+            },
+            {
+                name: "Cruzeiro do Sul (AC)", coords: [-7.631, -72.670], type: "Hub N2 Territorial", pop: "98.382",
+                exchange: "Resíduos -> Briquetes", biomass: "Bambu / Açaí / Castanha", fix: "143.6 tCO2e/ha",
+                health: "Crítico", sanitary: "65% Gap", cost: "R$ 2.850.000,00", status: "Ativo",
+                partners: ["UFAC", "ASCCRUS", "IMAC", "IFAC"],
+                roi: { carbon: "2.100 t", social: "R$ 8.4M", income: "R$ 2.2M/ano" },
+                tech: [
+                    { k: "Logística Juruá", v: "Central de pré-beneficiamento com Prensa T07 para painéis sanduíche." },
+                    { k: "Gestão de Mastragem", v: "Mapeamento exaustivo de Guadua spp (Ref: NT-003) para suprimento industrial." },
+                    { k: "Infraestrutura", v: "Unidade de Extração de Óleos e Secagem Híbrida Geodésica." }
+                ], chart: [20, 50, 30]
+            },
+            {
+                name: "Tarauacá (AC)", coords: [-8.156, -70.766], type: "Hub N2 Regional + Artesanato", pop: "43.151",
+                exchange: "Açaí -> Biochar/Energia", biomass: "Resíduos / Fibras", fix: "135 tCO2e/ha",
+                health: "Severo", sanitary: "78% Gap", cost: "R$ 2.850.000,00", status: "Fase 1 / Projeto Georgia",
+                partners: ["IMAC", "CPI", "Gov AC", "ICMBio", "UFRR"],
+                roi: { carbon: "1.800 t", social: "R$ 6.2M", income: "R$ 1.5M/ano" },
+                tech: [
+                    { k: "TI Arara Humaitá", v: "Núcleo de design circular e biojoias ancestrais (Maestria Georgia)." },
+                    { k: "Canteiro-Escola", v: "Gabarito de bambu para BSM e preenchimento com biopolímero expansivo." },
+                    { k: "Domo N2", v: "Unidade geodésica para beneficiamento e criação coletiva." }
+                ], chart: [15, 60, 25]
+            },
+            {
+                name: "Lábrea (AM)", coords: [-7.258, -64.800], type: "Hub N1 Bio-residência", pop: "46.882",
+                exchange: "Açaí -> Ciclo Fechado", biomass: "Manejo Regenerativo", fix: "120 tCO2e/ha",
+                health: "Severo", sanitary: "70% Gap", cost: "R$ 1.150.000,00", status: "RESEX Médio Purus",
+                partners: ["ICMBio", "IBAMA", "Sonia Marise", "EcoSol"],
+                roi: { carbon: "950 t", social: "R$ 4.2M", income: "R$ 1.1M/ano" },
+                tech: [
+                    { k: "Domo Produtivo", v: "Unidade geodésica para beneficiamento sanitário da polpa (300m²)." },
+                    { k: "BSM Habitacional", v: "Módulos de habitação em bio-compósito para famílias coletoras." },
+                    { k: "Plataforma EcoSol", v: "Rastreabilidade blockchain 'do tronco ao pote' (Sonia Marise)." }
+                ], chart: [15, 70, 15]
+            },
+            {
+                name: "Feijó (AC)", coords: [-8.164, -70.353], type: "Hub N1 TI Kaxinawá", pop: "Indígena",
+                exchange: "Açaí -> Soberania", biomass: "Açaizal Nativo", fix: "138 tCO2e/ha",
+                health: "Crítico", sanitary: "85% Gap", cost: "R$ 1.150.000,00", status: "Pacto Huni Kuin",
+                partners: ["Funai", "Sonia Marise", "CPI"],
+                roi: { carbon: "740 t", social: "R$ 2.1M", income: "R$ 600k/ano" },
+                tech: [
+                    { k: "Soberania Digital", v: "Capacitação em tecnologias de resistência e monitoramento via satélite." },
+                    { k: "Domo de Saber", v: "Espaço pedagógico para intercâmbio de conhecimentos tradicionais." }
+                ], chart: [5, 90, 5]
+            },
+            {
+                name: "Porto Velho (RO)", coords: [-9.262, -64.404], type: "Hub N1 RESEX Jaci-Paraná", pop: "548k",
+                exchange: "Contenção -> Bioeconomia", biomass: "Bambu / Açaí", fix: "130 tCO2e/ha",
+                health: "Severo", sanitary: "55% Gap", cost: "R$ 1.150.000,00", status: "Expansão RO",
+                partners: ["Gov RO", "Sonia Marise", "UnB", "EcoSol"],
+                roi: { carbon: "1.100 t", social: "R$ 5.1M", income: "R$ 1.2M/ano" },
+                tech: [
+                    { k: "Escudo Verde", v: "Barreira econômica contra o desmatamento via unidades produtivas." },
+                    { k: "Bio-residência", v: "Unidade geodésica integrando processamento e habitação modular BSM." }
+                ], chart: [20, 60, 20]
+            },
+            {
+                name: "Machadinho (RO)", coords: [-9.444, -61.983], type: "Hub N1 Rio Preto-Jacundá", pop: "30.000",
+                exchange: "Manejo -> Tecnologia", biomass: "Castanha / Resin.", fix: "135 tCO2e/ha",
+                health: "Severo", sanitary: "65% Gap", cost: "R$ 450.000,00", status: "Fase 1 / Sonia",
+                partners: ["ICMBio", "Sonia Marise", "EcoSol"],
+                roi: { carbon: "650 t", social: "R$ 1.8M", income: "R$ 450k/ano" },
+                tech: [
+                    { k: "P&D Biomassa", v: "Transformação de cascas e fibras em componentes construtivos (Ciclo Fechado)." },
+                    { k: "Canteiro-Escola", v: "Oficinas práticas de bioarquitetura adaptada ao clima de RO." }
+                ], chart: [10, 80, 10]
+            },
+            {
+                name: "Guajará-Mirim (RO)", coords: [-10.781, -65.334], type: "Hub N1 TI Igarapé Lage", pop: "Wari'",
+                exchange: "Design -> Autonomia", biomass: "Fibras / Sementes", fix: "140 tCO2e/ha",
+                health: "Crítico", sanitary: "90% Gap", cost: "R$ 450.000,00", status: "Pacto Georgia",
+                partners: ["Funai", "Georgia Ferko", "CIR"],
+                roi: { carbon: "820 t", social: "R$ 2.5M", income: "R$ 680k/ano" },
+                tech: [
+                    { k: "Artesanato Ancestral", v: "Proteção de grafismos e design paramétrico em biojoias (Maestria Georgia)." },
+                    { k: "Unidade Geodésica", v: "Espaço de criação e secagem com infraestrutura 100% renovável." }
+                ], chart: [5, 90, 5]
+            },
+            {
+                name: "Amajari (RR)", coords: [3.656, -61.419], type: "Hub N1 Lavrado / Design", pop: "13.000",
+                exchange: "Lavrado -> Inovação", biomass: "Fibras / Castanha", fix: "115 tCO2e/ha",
+                health: "Alerta", sanitary: "45% Gap", cost: "R$ 450.000,00", status: "Expansão RR",
+                partners: ["UFRR", "Georgia Ferko", "CIR"],
+                roi: { carbon: "320 t", social: "R$ 1.8M", income: "R$ 400k/ano" },
+                tech: [
+                    { k: "Joalheria Botânica", v: "Capacitação em design de joias com identidade cultural do Lavrado." },
+                    { k: "Módulo BSM", v: "Construção de baixo custo baseada em painéis de bambu e biopolímero." }
+                ], chart: [5, 85, 10]
+            },
+            {
+                name: "Normandia (RR)", coords: [3.882, -59.620], type: "Hub N1 Raposa / Lavrado", pop: "9.000",
+                exchange: "Design -> Resistência", biomass: "Fibras Naturais", fix: "112 tCO2e/ha",
+                health: "Alerta", sanitary: "50% Gap", cost: "R$ 450.000,00", status: "Integração WTF",
+                partners: ["UFRR", "Georgia Ferko", "CIR"],
+                roi: { carbon: "280 t", social: "R$ 1.5M", income: "R$ 380k/ano" },
+                tech: [
+                    { k: "Tecnologia T06", v: "Unidade móvel de beneficiamento de fibras para design circular." },
+                    { k: "Domo de Saber", v: "Núcleo de fortalecimento do associativismo entre artesãs locais." }
+                ], chart: [5, 85, 10]
+            },
+            {
+                name: "Boa Vista (RR)", coords: [2.820, -60.673], type: "Hub N2 Digital + Design", pop: "419k",
+                exchange: "Dados -> Rastreabilidade", biomass: "Resíduos Digitais", fix: "110 tCO2e/ha",
+                health: "Alerta", sanitary: "35% Gap", cost: "R$ 1.050.000,00", status: "UFRR / Ativo",
+                partners: ["UFRR", "Georgia Ferko", "CIR"],
+                roi: { carbon: "850 t", social: "R$ 5.8M", income: "R$ 1.2M/ano" },
+                tech: [
+                    { k: "Soberania Digital", v: "Rastreamento blockchain de ativos da sociobiodiversidade (Georgia Ferko)." },
+                    { k: "Polo Tecnológico", v: "Centro de P&D em tintas naturais e acabamentos biológicos para arquitetura." }
+                ], chart: [40, 20, 40]
+            },
+            {
+                name: "Mucajaí (RR)", coords: [2.439, -60.919], type: "Hub N1 Borda Yanomami", pop: "Alerta Social",
+                exchange: "Barreira -> Resistência", biomass: "Bio-Insumos", fix: "118 tCO2e/ha",
+                health: "Crítico", sanitary: "95% Gap", cost: "R$ 450.000,00", status: "Pacto Regional",
+                partners: ["UFRR", "FUNAI", "CIR"],
+                roi: { carbon: "350 t", social: "R$ 2.1M", income: "N/A (Socio-Prot)" },
+                tech: [
+                    { k: "Acessibilidade", v: "Módulo BSM para postos de saúde e apoio comunitário em áreas de conflito." },
+                    { k: "Energia Solar Off-grid", v: "Kits fotovoltaicos integrados à bio-residência de segurança." }
+                ], chart: [0, 90, 10]
+            },
+            {
+                name: "Sena Madureira (AC)", coords: [-9.066, -68.657], type: "Hub N1 PA Humaitá", pop: "46.000",
+                exchange: "Açaí -> Ciclo Fechado", biomass: "Açaí / Biochar", fix: "125 tCO2e/ha",
+                health: "Severo", sanitary: "75% Gap", cost: "R$ 450.000,00", status: "Fase 1 / Sonia",
+                partners: ["Gov AC", "Sonia Marise", "IMAC"],
+                roi: { carbon: "580 t", social: "R$ 1.4M", income: "R$ 520k/ano" },
+                tech: [
+                    { k: "Manejo Regenerativo", v: "Enriquecimento de açaizais nativos com foco em produtividade de longo prazo." },
+                    { k: "Bio-Tijolos", v: "Implementação de infraestrutura comunitária em terra crua e resíduo de fibras." }
+                ], chart: [15, 75, 10]
+            },
+            {
+                name: "Boca do Acre (AM)", coords: [-8.752, -67.397], type: "Hub N1 PA Monte", pop: "34.606",
+                exchange: "Purus -> Bio-Insumos", biomass: "Açaí / Bambu", fix: "110 tCO2e/ha",
+                health: "Severo", sanitary: "60% Gap", cost: "R$ 450.000,00", status: "Fase 1 / Sonia",
+                partners: ["Gov AC", "Sonia Marise", "EcoSol"],
+                roi: { carbon: "420 t", social: "R$ 1.5M", income: "R$ 480k/ano" },
+                tech: [
+                    { k: "Zero Cimento", v: "Construção de Bio-residência (Domo) 100% em materiais de base biológica." },
+                    { k: "Nutrição Vegetal", v: "Uso do biochar de açaí (P&D Sonia) para fertilização de solos degradados." }
+                ], chart: [20, 60, 20]
+            },
+            {
+                name: "Humaitá (AM)", coords: [-7.506, -63.027], type: "Hub N1 BR-319", pop: "57.890",
+                exchange: "Contenção -> Soberania", biomass: "Madeira-319", fix: "Est. 120 tCO2e/ha",
+                health: "Severo", sanitary: "55% Gap", cost: "R$ 450.000,00", status: "Pacto de Fronteira",
+                partners: ["Funai", "Observatório BR-319", "UnB"],
+                roi: { carbon: "550 t", social: "R$ 2.8M", income: "R$ 720k/ano" },
+                tech: [
+                    { k: "Tecnologia de Resistência", v: "Unidades modulares BSM para monitoramento e vigilância comunitária." },
+                    { k: "Canteiro-Escola", v: "Formação acelerada em bioconstrução para jovens da BR-319." }
+                ], chart: [25, 50, 25]
+            },
+            {
+                name: "Manaus (AM)", coords: [-3.119, -60.022], type: "Hub N2 Logística", pop: "2.1M",
+                exchange: "Polímeros -> Bio-Mix", biomass: "Urbana / Industrial", fix: "N/A",
+                health: "Moderado", sanitary: "25% Gap", cost: "R$ 1.050.000,00", status: "PNTS/UEA",
+                partners: ["UEA", "IPAAM", "UnB", "Sonia Marise"],
+                roi: { carbon: "N/A", social: "R$ 12.5M", income: "R$ 3.1M/ano" },
+                tech: [
+                    { k: "Logística Reversa", v: "Nó de integração de polímeros pós-consumo para injeção em painéis T07." },
+                    { k: "Polo Bio-Industrial", v: "P&D em biopolímeros híbridos (vegetal + sintético resiliente)." }
+                ], chart: [45, 15, 40]
+            },
+            {
+                name: "Squad Domo AC", coords: [-9.5, -69.2], type: "★ N0 Unidade Móvel", pop: "Social",
+                exchange: "Kit -> Habitação", biomass: "Estrutural", fix: "Impacto Social",
+                health: "Audit", sanitary: "Socio-Hab", cost: "R$ 350.000,00", status: "Operacional",
+                partners: ["MUQTF", "UFAC"],
+                roi: { carbon: "120 t", social: "R$ 1.8M", income: "N/A" },
+                tech: [
+                    { k: "Injeção v8", v: "Matrizes de bambu with injeção de PU Mamona (Soberania)." },
+                    { k: "Arquitetura Efêmera", v: "Design de montagem rápida em áreas de tensão territorial." }
+                ], chart: [0, 0, 100]
+            },
+            {
+                name: "★ Balsa Juruá 1", coords: [-8.5, -72.8], type: "N0 Unidade Fluvial", pop: "Ribeirinha",
+                exchange: "Logística Circular", biomass: "Mix Fluvial", fix: "Dinâmico",
+                health: "Prev.", sanitary: "STAC", cost: "R$ 1.850.000,00", status: "Operacional",
+                partners: ["UnB", "Marinha", "MUQTF", "UFAC"],
+                roi: { carbon: "950 t", social: "R$ 4.5M", income: "R$ 1.8M/ano" },
+                tech: [
+                    { k: "Logística Circular", v: "Transporte de BSM/Briquetes e coleta de resíduos plásticos." },
+                    { k: "Saneamento Móvel", v: "Sistemas STAC embarcados para suporte ribeirinho." },
+                    { k: "Processamento", v: "Pasteurização HTST 100L/h e Moagem de Polímeros (40 kg/h)." }
+                ], chart: [5, 90, 5]
+            },
+            {
+                name: "★ Caravana Est. 1", coords: [-8.2, -67.4], type: "★ N0 Estação Itinerante", pop: "Fluvial",
+                exchange: "Briquete -> Coleta", biomass: "Bioenergia", fix: "N/A",
+                health: "Prev.", sanitary: "STAC", cost: "R$ 250.000,00", status: "Percurso",
+                partners: ["MUQTF"],
+                roi: { carbon: "50 t", social: "R$ 450k", income: "N/A" },
+                tech: [{ k: "Mini Estação", v: "Unidade de apoio para beneficiamento de biomassa e produção de briquetes." }], chart: [10, 80, 10]
+            },
+            {
+                name: "★ Caravana Est. 2", coords: [-6.5, -63.5], type: "★ N0 Estação Itinerante", pop: "Fluvial",
+                exchange: "Briquete -> Coleta", biomass: "Bioenergia", fix: "N/A",
+                health: "Prev.", sanitary: "STAC", cost: "R$ 250.000,00", status: "Percurso",
+                partners: ["MUQTF"],
+                roi: { carbon: "50 t", social: "R$ 450k", income: "N/A" },
+                tech: [{ k: "Mini Estação", v: "Unidade de apoio para beneficiamento de biomassa e produção de briquetes." }], chart: [10, 80, 10]
+            },
+            {
+                name: "★ Caravana Est. 3", coords: [-4.5, -61.2], type: "★ N0 Estação Itinerante", pop: "Fluvial",
+                exchange: "Briquete -> Coleta", biomass: "Bioenergia", fix: "N/A",
+                health: "Prev.", sanitary: "STAC", cost: "R$ 250.000,00", status: "Percurso",
+                partners: ["MUQTF"],
+                roi: { carbon: "50 t", social: "R$ 450k", income: "N/A" },
+                tech: [{ k: "Mini Estação", v: "Unidade de apoio para beneficiamento de biomassa e produção de briquetes." }], chart: [10, 80, 10]
+            }
+        ];
+        const layers = { 
+            flood: L.layerGroup().addTo(map), 
+            bamboo: L.layerGroup().addTo(map), 
+            br: L.layerGroup().addTo(map), 
+            rio: L.layerGroup().addTo(map), 
+            n1: L.layerGroup().addTo(map), 
+            n2: L.layerGroup().addTo(map), 
+            n0: L.layerGroup().addTo(map),
+            diag: L.layerGroup().addTo(map),
+            purus: L.layerGroup().addTo(map)
+        };
+        // Sync Seasonal Panel with Inundação layer
+        map.on('overlayadd', function (e) {
+            if (e.name === 'Inundação') document.getElementById('seasonal-panel').style.display = 'block';
+        });
+        map.on('overlayremove', function (e) {
+            if (e.name === 'Inundação') document.getElementById('seasonal-panel').style.display = 'none';
+        });
+        function updateSidebar(n) {
+            document.getElementById('intro-view').style.display = 'none';
+            document.getElementById('details').style.display = 'block';
+            document.getElementById('m-pop').innerText = n.pop;
+            
+            // Sovereignty Badge Logic
+            const isIndustrial = n.cost.includes('R$ 1') || n.cost.includes('R$ 2') || n.cost.includes('Industrial');
+            const badge = isIndustrial ? '<span class="sovereignty-badge">Escala Industrial</span>' : '';
+            document.getElementById('n-label').innerHTML = n.name + badge;
+            
+            document.getElementById('m-exchange').innerText = n.exchange;
+            document.getElementById('m-biomass').innerText = n.biomass;
+            document.getElementById('m-fix').innerText = n.fix;
+            document.getElementById('m-health').innerText = n.health;
+            document.getElementById('m-sanitary').innerText = n.sanitary;
+            document.getElementById('m-cost').innerText = n.cost;
+
+            // Injetar ROI Dashboard
+            const existingROI = document.getElementById('roi-dash');
+            if (existingROI) existingROI.remove();
+            
+            if (n.roi) {
+                const roiDiv = document.createElement('div');
+                roiDiv.id = 'roi-dash';
+                roiDiv.className = 'roi-header';
+                roiDiv.innerHTML = `
+                    <div class="leg-title" style="margin-bottom:8px; border:none; padding:0;">Projeção de Retorno (v7.0)</div>
+                    <div class="roi-stat"><span class="roi-label">🌱 Carbono Contido</span><span class="roi-value">${n.roi.carbon}</span></div>
+                    <div class="roi-stat"><span class="roi-label">🏥 Retorno Social (ROSI)</span><span class="roi-value">${n.roi.social}</span></div>
+                    <div class="roi-stat"><span class="roi-label">💰 Geração de Renda</span><span class="roi-value">${n.roi.income}</span></div>
+                `;
+                document.getElementById('m-partners').before(roiDiv);
+            }
+
+            const pt = document.getElementById('m-partners');
+            pt.innerHTML = '';
+            n.partners.forEach(p => {
+                const s = document.createElement('span'); s.className = 'tag'; s.innerText = p; pt.appendChild(s);
+            });
+
+            const tc = document.getElementById('m-tech');
+            tc.innerHTML = '';
+            n.tech.forEach(t => {
+                const di = document.createElement('div'); di.className = 'tech-row';
+                di.innerHTML = `<span class="tech-key">${t.k}</span><div class="tech-val">${t.v}</div>`;
+                tc.appendChild(di);
+            });
+
+            if (currentChart) currentChart.destroy();
+            currentChart = new Chart(document.getElementById('mainChart').getContext('2d'), {
+                type: 'doughnut',
+                data: {
+                    labels: ['Plásticos', 'Biomassa', 'Orgânico'],
+                    datasets: [{ data: n.chart, backgroundColor: ['#38bdf8', '#2dd4bf', '#fbbf24'], borderWidth: 0 }]
+                },
+                options: { cutout: '70%', plugins: { legend: { position: 'bottom', labels: { boxWidth: 8, font: { size: 9, weight: '800' }, color: '#94a3b8' } } } }
+            });
+        }
+        // Acre Bamboo Zone
+        L.circle([-8.5, -70.5], { radius: 250000, color: '#2dd4bf', weight: 1, fillOpacity: 0.05, dashArray: '5, 5', interactive: false }).addTo(layers.bamboo);
+        L.marker([-8.5, -70.5], { icon: L.divIcon({ className: 'city-label', html: '<div style="color:#2dd4bf; opacity:0.6;">GUADUA SPP. ZONE<br>~18M t Biomassa</div>', iconSize: [120, 40] }), interactive: false }).addTo(layers.bamboo);
+        masterData.forEach(n => {
+            const isN2 = n.type.includes('N2');
+            const isN0 = n.name.includes('★') || n.name.includes('Squad');
+            const isDiag = n.type.includes('Diagnóstico') || n.type.includes('Referência');
+            let col = isN2 ? '#f43f5e' : (n.type.includes('N1') ? '#38bdf8' : '#fbbf24');
+            if (isDiag) col = '#a78bfa';
+
+            let m;
+            if (isN0) {
+                const starIcon = L.divIcon({
+                    className: 'custom-div-icon',
+                    html: `<div style="font-size: 20px; color: ${col}; text-shadow: 0 0 8px rgba(0,0,0,0.8);">★</div>`,
+                    iconSize: [20, 20],
+                    iconAnchor: [10, 10]
+                });
+                m = L.marker(n.coords, { icon: starIcon }).addTo(layers.n0);
+            } else if (isDiag) {
+                const diagIcon = L.divIcon({
+                    className: 'custom-div-icon',
+                    html: `<div style="font-size: 16px; color: ${col}; text-shadow: 0 0 8px rgba(0,0,0,0.8);">◆</div>`,
+                    iconSize: [16, 16],
+                    iconAnchor: [8, 8]
+                });
+                m = L.marker(n.coords, { icon: diagIcon }).addTo(layers.diag);
+            } else {
+                const circleSize = isN2 ? 20 : 12;
+                const circleIcon = L.divIcon({
+                    className: 'custom-circle-icon',
+                    html: `<div style="background-color: ${col}; width: ${circleSize}px; height: ${circleSize}px; border-radius: 50%; border: 1.5px solid #fff; box-shadow: 0 0 5px rgba(0,0,0,0.5);"></div>`,
+                    iconSize: [circleSize, circleSize],
+                    iconAnchor: [circleSize/2, circleSize/2]
+                });
+                m = L.marker(n.coords, { icon: circleIcon }).addTo(layers[isN2 ? 'n2' : 'n1']);
+            }
+
+            m.bindTooltip(n.name, { permanent: true, direction: 'top', className: 'city-label', offset: [0, -10], opacity: 0.9 });
+            m.on('click', (e) => {
+                L.DomEvent.stopPropagation(e);
+                updateSidebar(n);
+                if (window.innerWidth < 768) toggleSidebar(true);
+                map.flyTo(n.coords, (n.name.includes('Domo') || n.name.includes('★')) ? 8 : 7);
+            });
+        });
+
+        function toggleSidebar(show) {
+            const sidebar = document.getElementById('sidebar');
+            if (show === undefined) sidebar.classList.toggle('active');
+            else if (show) sidebar.classList.add('active');
+            else sidebar.classList.remove('active');
+        }
+        // Default select
+        updateSidebar(masterData[0]);
+        const rs = { color: '#475569', weight: 1.5, opacity: 0.4, dashArray: '4, 8', interactive: false };
+        const fs = { color: '#38bdf8', weight: 3, opacity: 0.5, interactive: false };
+        function path(l, c1, c2, d, s) { L.polyline([c1, c2], s).addTo(l); if (d) L.marker([(c1[0] + c2[0]) / 2, (c1[1] + c2[1]) / 2], { icon: L.divIcon({ className: 'dist-label', html: d, iconSize: [50, 18] }), interactive: false }).addTo(l); }
+        path(layers.br, [-9.974, -67.810], [-9.066, -68.657], "145km", rs); path(layers.br, [-9.066, -68.657], [-8.164, -70.353], "220km", rs);
+        path(layers.br, [-8.164, -70.353], [-8.156, -70.766], "45km", rs); path(layers.br, [-8.156, -70.766], [-7.631, -72.670], "210km", rs);
+        path(layers.br, [-3.119, -60.022], [2.820, -60.673], "780km", rs);
+
+        // Caravana Route
+        path(layers.rio, [-9.974, -67.810], [-8.5, -67.4], null, fs);
+        path(layers.rio, [-8.5, -67.4], [-6.5, -63.5], null, fs);
+        path(layers.rio, [-6.5, -63.5], [-4.5, -61.2], null, fs);
+        path(layers.rio, [-4.5, -61.2], [-3.119, -60.022], null, fs);
+        path(layers.rio, [-3.119, -60.022], [-0.130, -67.089], "950km", fs);
+        path(layers.rio, [-7.631, -72.670], [-8.941, -72.792], "160km", fs);
+        path(layers.rio, [-8.269, -72.744], [-8.5, -72.8], "25km", fs);
+        // === NOVAS ROTAS — Purus + BR-319 (21/03/2026) ===
+        const ps = { color: '#a78bfa', weight: 2.5, opacity: 0.5, dashArray: '6, 6', interactive: false };
+        const bs = { color: '#f97316', weight: 1.5, opacity: 0.4, dashArray: '3, 6', interactive: false };
+        // Rio Purus (Boca do Acre → Canutama → Tapauá → Beruri → Manaus)
+        path(layers.purus, [-8.752, -67.397], [-7.258, -64.800], "350km", ps);
+        path(layers.purus, [-7.258, -64.800], [-6.534, -64.388], "120km", ps);
+        path(layers.purus, [-6.534, -64.388], [-5.628, -63.181], "180km", ps);
+        path(layers.purus, [-5.628, -63.181], [-3.700, -61.480], "280km", ps);
+        path(layers.purus, [-3.700, -61.480], [-3.119, -60.022], "200km", ps);
+        // BR-319 (Manaus → Humaitá)
+        path(layers.br, [-3.119, -60.022], [-7.506, -63.027], "590km", bs);
+        // Juruá (Ipixuna → Cruzeiro do Sul)
+        path(layers.rio, [-7.050, -71.695], [-7.631, -72.670], "110km", fs);
+        // Nascente Juruá (Peru) → Cruzeiro do Sul
+        path(layers.rio, [-9.767, -72.079], [-7.631, -72.670], null, { color: '#38bdf8', weight: 1.5, opacity: 0.3, dashArray: '2, 8', interactive: false });
+        // Flood zones — Purus
+        L.circle([-6.5, -64.0], { radius: 120000, color: '#a78bfa', weight: 1, fillOpacity: 0.06, interactive: false }).addTo(layers.flood);
+        L.circle([-7.5, -63.0], { radius: 80000, color: '#f97316', weight: 1, fillOpacity: 0.06, interactive: false }).addTo(layers.flood);
+        L.circle([-8.2, -72.0], { radius: 100000, color: '#38bdf8', weight: 1, fillOpacity: 0.1, interactive: false }).addTo(layers.flood);
+        L.circle([-3.2, -59.5], { radius: 70000, color: '#38bdf8', weight: 1, fillOpacity: 0.1, interactive: false }).addTo(layers.flood);
+
+        const leg = L.control({ position: 'bottomright' });
+        leg.onAdd = function () {
+            const d = L.DomUtil.create('div', 'legend-final');
+            d.innerHTML = `<div class="leg-title"> - "Cartilha Ilustrada"</div>
+            <div class="leg-item"><span class="leg-dot" style="background:#f43f5e"></span> Hub Tecnológico (N2)</div>
+            <div class="leg-item"><span class="leg-dot" style="background:#38bdf8"></span> Polo Regional (N1)</div>
+            <div class="leg-item"><span class="leg-dot" style="background:#fbbf24"></span> Unidade Itinerante (★)</div>
+            <div class="leg-item"><span class="leg-dot" style="background:#a78bfa"></span> Diagnóstico Social (◆)</div>
+            <div class="leg-item" style="margin-top:8px; font-size:0.65rem; color:var(--success); border-top:1px solid var(--border); padding-top:8px;">Protocolo  v7.1 — Juruá-Purus</div>`;
+            return d;
+        };
+        leg.addTo(map);
+    </script>
+</body>

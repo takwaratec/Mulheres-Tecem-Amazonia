@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  <style>
+    .md-footer-meta {
+      background-color: #050810;
+    }
+  </style>
+{% endblock %}
+
+{% block header %}
+  {{ super() }}
+  <!-- Widget Climate Clock NASA/World (Versão Iframe para resiliência) -->
+  <div class="mqtf-climate-clock-container">
+    <iframe src="https://embed.climateclock.net?buttons=1&audio=0" 
+            style="width: 180px; height: 35px; border: none; overflow: hidden;" 
+            scrolling="no"></iframe>
+  </div>
+{% endblock %}
+
+{% block scripts %}
+  {{ super() }}
+  <script>
+    var injectMQTFSubtitle = function() {
+      var siteName = document.querySelector(".md-header__topic .md-ellipsis");
+      if (siteName && !document.querySelector(".mqtf-subtitle")) {
+        var subtitle = document.createElement("span");
+        subtitle.className = "mqtf-subtitle";
+        subtitle.innerText = "Consórcio Científico - UnB/UFFR/UFAC";
+        siteName.appendChild(subtitle);
+      }
+    };
+
+    // Suporte para navegação instantânea do Material
+    document.addEventListener("DOMContentLoaded", injectMQTFSubtitle);
+    if (typeof location$ !== "undefined") {
+      location$.subscribe(function() {
+        setTimeout(injectMQTFSubtitle, 100);
+      });
+    }
+  </script>
+{% endblock %}
