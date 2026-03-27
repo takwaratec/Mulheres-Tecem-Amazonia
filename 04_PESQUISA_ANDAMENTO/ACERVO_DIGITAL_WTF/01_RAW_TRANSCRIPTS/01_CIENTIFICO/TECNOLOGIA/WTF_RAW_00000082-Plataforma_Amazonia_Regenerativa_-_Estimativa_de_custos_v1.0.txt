@@ -1,0 +1,324 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFAC/UFRR
+equipe: Gestão e Parceria Regional
+tipo: Acervo de Consulta RAW (Transcrição)
+autor: Acervo Digital Mulheres que Tecem a Floresta
+data: '2025'
+---
+Observação: os valores abaixo são de referência inicial para estudo de viabilidade, não substituem cotações formais. Base para planilha BNDES.
+12.1 Obras civis e instalações
+Premissas:
+Galpão biorrefinaria ~600–800 m2;
+Pátios externos de manejo/compostagem ~2.000 m2;
+Bases para 2–3 domos; padrão construtivo simples (pré-moldado/estrutura metálica leve) em cidade média do Norte.
+  Item principal
+  Unidade
+ Qtd.
+ R$/un (mín– méd– alto)
+ Custo total estimado (médio)
+ Observações / riscos de preço
+  Galpão industrial biorrefinaria 700 m2
+  m2
+  1.500– 2.200– 2.800
+  1,54 mi
+  Forte impacto de aço e frete Norte; usar estruturas metálicas nacionais.
+  Fundação/piso reforçado área fornos/briquetes 300 m2
+   m2
+   650–900– 1.200
+   270 mil
+   Concreto e aço com grande volatilidade; orçar localmente.
+  Pátio de biomassa e compostagem 2.000 m2
+ m2
+  2.000
+ 120–200– 300
+ 320 mil
+ Pode reduzir custo com solo estabilizado; sensível a drenagem.
+  Bases/platôs para domos (3 unidades)
+  un
+  60–90– 140 mil
+  270 mil
+  Domos como estufas + comunitário exigem drenagem e acessos.
+  Oficina de máquinas/ manutenção (100 m2)
+   m2
+   1.400– 2.000– 2.400
+   180 mil
+   Pode integrar a galpão para reduzir custo.
+  Edificações apoio (almox., escritório, vestiário) 150 m2
+  m2
+  1.600– 2.300– 2.800
+  345 mil
+  Acabamento simples, prever ventilação natural.
+  Abertura/ melhoria de ramais de manejo (20 km)
+  km
+  100–180– 300 mil
+  3,0 mi
+  Alto custo, depender de parcerias com Estado/municípios; risco de ser item crítico.
+ Faixa total indicativa 12.1 (48 meses): R$ 5,0 – 7,0 milhões (cenário médio ≈ R$ 5,9 mi). Principais inconsistências/riscos possíveis:
+Ramais e estradas: se forem orçados sem parceria com governo, tendem a inflar o CAPEX e sofrer variação forte com diesel e manutenção de máquinas pesadas.
+Galpões na Amazônia costumam ficar 20–40% acima de preços do Sudeste por frete e logística; BNDES questiona unitários muito abaixo disso.
+ 
+12.2 Recursos humanos – equipe técnica e gestão
+Premissa: remuneração compatível com projetos Fundo Amazônia/BNDES, contratos CLT ou PJ 40h, ao longo de 48 meses.
+12.2.1 Coordenação e gestão
+Cargo Qtd. Remuneração mensal ref. (R$)
+Meses
+Total (R$)
+Observações
+        Coordenador(a) geral
+ 18–22 mil
+  960 mil (20k)
+  Evitar valores muito abaixo disso; BNDES questiona sub-remuneração em projetos complexos.
+  Coord. administrativo-financeiro
+  12–16 mil
+   672 mil (14k)
+   Pode ser PJ compartilhado com outra instituição para reduzir custo.
+  Assistente projetos/monitor.
+ 6–8 mil
+  336 mil (7k)
+  Importante para relatórios BNDES/Fundo Amazônia.
+ Subtotal 12.2.1 ≈ R$ 2,0 milhões (cenário médio). 12.2.2 Equipe técnica especializada
+ Cargo
+  Qtd.
+ Remensal (R$)
+  Meses úteis (média)
+ Total (R$)
+ Observações
+ Sanitarista / eng. sanitarista
+14–18 mil
+  768 mil (16k)
+ Necessário para BSM/BER e interface com saúde.
+ Eng. mecânico / desenhista industrial
+ 14–18 mil
+ 576 mil (16k)
+ Pode ser parcial (picos em fases 1–2).
+ Arquiteto(a) especialista em bambu
+ 12–16 mil
+ 504 mil (14k)
+ Atuação mais intensa em Fases 2–3.
+ Especialista em biopolímeros / PU vegetal
+12–16 mil
+  420 mil (14k)
+ Parte via parceria Imperveg/universidade.
+  Especialista em bioeconomia/modelagem negócios
+ 12–16 mil
+   420 mil
+  Importante para VPL/TIR e arranjos cooperativas.
+  Especialista em gênero/desenv. comunitário
+  10–14 mil
+    432 mil (12k)
+   Alinhado a salvaguardas de gênero e CPLI.
+ Subtotal 12.2.2 ≈ R$ 3,1 milhões.
+12.2.3 Equipes operacionais locais e bolsas
+
+      Função Qtd. Remensal média (R$)
+Carpinteiros/bambuzeiros/montadores 4 3–4 mil
+Meses Total (R$)
+48 768
+mil fases 2–3.
+Observações
+  Operadores fornos/biorrefinaria
+ 3–4 mil
+   768 mil (3,5k)
+  Turnos e insalubridade a considerar.
+  Operadores briquetadeiras/biomassa
+  2,8–3,5 mil
+    576 mil (3k)
+   Pode acumular função na biorrefinaria.
+ Essenciais nas
+ Brigadas de saneamento (BSM/BER)
+ 2,5–3,2 mil
+  614 mil (2,8k)
+ Inclui campo em comunidades.
+ Manutenção eletromecânica
+3,5–4,5 mil
+  384 mil (4k)
+ Pode ser misto local + apoio externo.
+  Bolsas de aprendizagem (jovens/mulheres)
+    20 bolsas/ano
+  1,2–1,5 mil
+   36 (média)
+    864 mil (1,2k)
+   Central para gestão sombra e formação.
+ Subtotal 12.2.3 ≈ R$ 4,0 milhões.
+Total indicativo 12.2 (RH 48 meses): R$ 9,0 – 10,0 milhões (médio ≈ R$ 9,1 mi). Pontos de atenção:
+Qualquer valor muito abaixo da faixa para especialistas de alto nível gera inconsistência com mercado de projetos estruturantes na Amazônia.
+Custos de RH PQ/PJ têm menor volatilidade que obras e máquinas, mas podem subir com inflação de serviços qualificados.
+12.3 Máquinas, equipamentos e ferramentas
+Foco em fabricantes nacionais (briquetadeiras, fornos, câmaras de vapor, moedores, prensas).
+ 12.3.1 Linha de biorrefinaria e briquetes
+ Equipamento principal
+  Qtd.
+ R$/un (mín–méd– alto)
+   Total médio (R$)
+ Observações
+Fornos de pirólise / carvão c/ 2 coleta de extrato (médio porte)
+Caldeira/câmara de vapor p/ 1 tratamento térmico de bambu
+Secadores de biomassa 2 (estufa/túnel)
+350–600– 850 mil
+350–600– 900 mil
+250–400– 600 mil
+1,2 mi 600 mil
+800 mil
+Custo varia com automatização e controle de emissões.
+Preferir fabricantes nacionais de caldeiras e autoclaves.
+Pode usar domos como apoio para secagem.
+      Briquetadeira industrial (rosca/pistão)
+  450–700– 1.000 mil
+    700 mil
+   Cuidado com subdimensionamento; alto consumo de motor.
+     
+ Equipamento principal
+  Qtd.
+ R$/un (mín–méd– alto)
+   Total médio (R$)
+ Observações
+Moedores/picadores de biomassa 3
+Sistema de peneiramento e 1 classificação
+Sistemas de exaustão/controle 1 emissões
+Transporte interno (esteiras, lote pallets, big-bags)
+80–140– 220 mil
+150–250– 400 mil
+200–400– 700 mil
+250–350– 450 mil
+360 mil 250 mil 400 mil 350 mil
+Total médio (R$)
+1,4 mi 240 mil 400 mil 200 mil
+Equipamentos nacionais amplamente disponíveis.
+Integrado à linha de briquetes e biochar.
+Exigência ambiental pode elevar custo.
+Podem ser nacionais, sensíveis ao aço.
+Observações
+Produção de painéis, tijolos, HIS 3×3 m.
+Fase 1 mais manual, Fase 3 com sistemas airless.
+Desenvolvidos em parceria com Núcleo Institucional.
+Normas de segurança NR-35.
+                Subtotal 12.3.1 ≈ R$ 4,7 milhões.
+12.3.2 Linha de biopolímeros e domos
+     Equipamento Qtd.
+Prensas hidráulicas c/ 2 cassetes
+Aplicadores PU 2 (pistolas/bombas)
+Mesas, gabaritos e moldes lote estruturais
+Andaimes, escadas, sistemas lote ancoragem
+R$/un (mín– méd–alto)
+400–700– 1.000 mil
+60–120–180 mil
+250–400–600 mil
+120–200–320 mil
+                         Subtotal 12.3.2 ≈ R$ 2,2 milhões.
+12.3.3 Ferramentas gerais e laboratório de campo
+   Item
+Serras, parafusadeiras, lixadeiras Motosserras elétricas/bateria
+Compressores, bombas, lavadoras
+Balanças, medidores umidade, etc.
+EPIs, extintores, segurança
+Subtotal 12.3.3 ≈ R$ 0,77 milhão.
+Total médio (R$)
+150 mil 120 mil 120 mil
+200 mil 180 mil
+Observações
+Ferramentas elétricas nacionais. Para manejo fino de colmos. Uso geral em oficinas/limpeza.
+Base para controle de processo.
+Custos recorrentes (reposição) não contemplados aqui.
+                  12.3.4 Equipamentos saneamento e água + 12.3.5 Manejo/logística primária
+
+     Item
+Estruturas pré-fabricadas BSM/BER (20 un.)
+Bombonas, reservatórios, calhas, filtros
+Escavadeira hidráulica (compra ou leasing 48m)
+Pá-carregadeira
+Caminhão 3/4 cabine dupla
+Qtd. R$/un (méd)
+20 40 mil lote –
+1 –
+1 –
+1 300 mil
+Total médio (R$)
+800 mil 400 mil 1,5 mi 900 mil 300 mil
+Observações
+Inclui superestrutura sem fundações.
+Inclui pequenos sistemas solares/exaustores.
+Considerar forte volatilidade; leasing pode ser mais adequado.
+Avaliar uso compartilhado com governo local.
+Chassi nacional com carroceria adaptada.
+                              Subtotal 12.3.4 + 12.3.5 ≈ R$ 3,9 milhões.
+Total indicativo 12.3 (máquinas/equipamentos): R$ 11,0 – 13,0 milhões (cenário médio ≈ R$ 11,5 mi). Principais oscilações: câmbio (componentes importados em prensas e bombas), aço, frete Amazônia e máquinas pesadas.
+12.4 Insumos e materiais de consumo (48 meses)
+    Grupo de insumos
+PU vegetal (mamona) – resinas A e B
+Solventes e agentes limpeza compatíveis
+Materiais BSM/BER (chapas, ferragens etc.)
+Materiais laboratório/monitoramento
+Materiais escritório e comunicação
+Estimativa 48 meses (R$)
+1,5 – 2,5 mi 200 – 350 mil 800 – 1,2 mi 300 – 450 mil 250 – 350 mil
+Observações
+Alto custo, sensível ao petróleo e formuladores; essencial priorizar Imperveg/congêneres nacionais.
+Controlar uso para reduzir riscos ambientais. Influi muito número de módulos instalados. Reagentes, vidrarias, kits de teste água/solo. Inclui cartilhas, placas, materiais educativos.
+                  Obs.: biomassa (bambu, resíduos açaí, castanha etc.) tende a entrar como contrapartida das comunidades ou custo operacional interno, não como grande item de compra.
+Faixa total 12.4: R$ 3,0 – 4,5 milhões. Pontos de risco:
+PU vegetal é um dos insumos mais voláteis do projeto; BNDES sempre olha com lupa se o consumo estimado bate com a capacidade de produção de painéis/tijolos.
+Materiais de BSM/BER podem ser otimizados se parte for produzida em bambu/compósitos, reduzindo dependência de madeira serrada tratada.
+ 
+12.5 Passagens, deslocamentos, veículos e seguros
+   Item
+Passagens aéreas/terrestres equipe técnica
+Diárias e hospedagem
+Combustível e manutenção veículos/barcos
+Licenciamento e seguros de veículos
+Seguros equipamentos e RC
+Estimativa 48 meses (R$)
+800 mil – 1,2 mi
+600 – 900 mil 1,0 – 1,6 mi
+250 – 350 mil 300 – 500 mil
+Observações
+Muitos deslocamentos entre capitais e municípios amazônicos.
+Missões de campo, oficinas, monitoramento. Diesel na Amazônia é altamente volátil.
+Inclui seguro náutico quando houver. Pode ser exigência contratual do BNDES.
+                  Faixa total 12.5: R$ 3,0 – 4,5 milhões.
+Pontos sensíveis: combustíveis e manutenção em estradas/rios de difícil acesso; subestimar isso costuma
+gerar desvios.
+12.6 Documentação técnica, testes, laudos, certificações e publicações
+    Subitem
+Projetos executivos, memoriais, ART/CREA/CAU
+Ensaios mecânicos, higroscópicos, lixiviação
+Ensaios água/efluentes, desempenho térmico
+Certificações produtos, créditos de carbono
+Produção técnica/científica e publicações
+Estimativa (R$)
+600 – 900 mil 700 – 1,1 mi 400 – 700 mil 800 – 1,5 mi 250 – 400 mil
+Observações
+Inclui saneamento, biorrefinaria, domos, painéis.
+Laboratórios acreditados são onerosos, principalmente para séries de compósitos bambu–PU–PET.
+Necessários para BSM/BER e domos.
+Inclui validação/metodologia VM0044 biochar, taxas de registro.
+Manuais, artigos, materiais para replicação.
+                  Faixa total 12.6: R$ 2,8 – 4,6 milhões.
+Riscos: custo e tempo de certificação de carbono e de produtos de construção; subestimar taxas e
+campanhas de ensaios gera necessidade de aditivos.
+12.7 Capacitação, oficinas e comunicação
+Item Estimativa 48 meses (R$)
+Oficinas técnicas para operadores 400 – 600 mil
+Observações
+Inclui instrutores, materiais, logística.
+       
+   Item
+Cursos/formações para cooperativas e mulheres
+Materiais didáticos (apostilas, vídeos, plataforma)
+Eventos comunitários, seminários, intercâmbios
+Faixa total 12.7: R$ 1,5 – 2,4 milhões.
+Estimativa 48 meses (R$)
+500 – 800 mil 300 – 500 mil 300 – 500 mil
+Observações
+Eixo central de gênero e governança.
+Pode captar cofinanciamento em editais.
+Importante para replicação e visibilidade.
+                12.8 Reservas para pesquisa e incrementos
+Sugestão de a 5–10% do orçamento como reserva de P&D e ajustes tecnológicos ao longo de 48 meses. Se somarmos, em cenário médio, os blocos acima:
+12.1 ≈ R$ 5,9 mi 12.2 ≈ R$ 9,1 mi 12.3 ≈ R$ 11,5 mi 12.4 ≈ R$ 3,7 mi 12.5 ≈ R$ 3,7 mi 12.6 ≈ R$ 3,7 mi 12.7 ≈ R$ 2,0 mi
+Total base aproximado (12.1–12.7): R$ 39–40 milhões para 48 meses. Aplicando reserva P&D:
+5%: ~R$ 2,0 mi 10%: ~R$ 4,0 mi
+Faixa razoável para 12.8: R$ 2,0 – 4,0 milhões, resultando em orçamento global 48 meses na casa de R$ 41–44 milhões
+Pontos de maior oscilação e atenção para defesa junto ao BNDES:
+Máquinas pesadas, ramais e fretes – maior sensibilidade a combustíveis, câmbio e logística Amazônia. PU vegetal e componentes de prensas/aplicadores – parte relevante atrelada a cadeias químicas e eventualmente importadas, embora o formulador seja nacional.
+Ensaios e certificações – forte incerteza de custos de série (especialmente se forem necessários reensaios por ajustes de formulação).
