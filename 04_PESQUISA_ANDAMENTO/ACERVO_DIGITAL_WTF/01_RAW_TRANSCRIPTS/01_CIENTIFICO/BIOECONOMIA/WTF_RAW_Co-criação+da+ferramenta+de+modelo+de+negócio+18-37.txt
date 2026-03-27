@@ -1,0 +1,465 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFAC/UFRR
+equipe: Gestão e Parceria Regional
+tipo: Acervo de Consulta RAW (Transcrição)
+autor: Acervo Digital Mulheres que Tecem a Floresta
+data: '2025'
+---
+Democracia, Ciência e Tecnologia: aprofundamento Revista C&TS Volume 4 - Número 1 - Ano 2021
+18
+as contribuições sobre a incubação em economia solidária
+Co-criação da ferramenta de modelo de negócio para Empreendimentos Econômicos Solidários: inovação na metodologia da Incubadora de Tecnologia Social da Universidade de Brasília com a configuração do Canvas Social
+Co-creation of the business model tool for Solidary Economic Enterprises: innovation in the methodology of the Social Technology Incubator
+at the University of Brasília with the configuration of the Social Canvas
+ISSN 2236-7837
+Profa. Dra Sônia Marise Salles Carvalho1 Profa. Dra Tânia Cristina da Silva Cruz 2 Profa. Dra. Denise Machado Duran Gutierrez 3
+Resumo: Esse artigo apresenta um dos resultados da pesquisa, referente ao Edital CNPQ/MTB-SENAES No 27/2017, que foi a aplicação e melhoria da ferramenta de análise de modelo de negócio denominado CANVAS, para adaptá-lo aos negócios dos empreendimentos econômicos solidários (EES). A proposta foi incorporar os indi- cadores da tecnologia social e da economia solidária na modelagem do negócio. A pesquisa foi realizada no ano de 2018 com a aplicação e adaptação do CANVAS a três EES: Instituto Batucar (tecnologia social e cultural) Rede Pequi (tecnologia organizacional) e Associação Lixo Mania (tecnologia ambiental e social). Utilizou-se como re- ferencial teórico as categorias da Sociologia do Trabalho, Economia Solidária, Tecnologia Social e Modelagem de Negócio. As transversalidades dos conceitos e princípios traduziram o trabalho compreendido como centralidade dos vínculos sociais, com possibilidade de dar identidade e reconhecimento, mediante uma sociedade em processo de mudança social. O resultado foi a co-criação da ferramenta Canvas Social que se tornou efetivamente adequada para modelar negócios no campo da Economia Solidária e das Tecnologias Sociais.
+Palavras-chave: economia solidária, tecnologia social, incubadora, inovação, Canvas Social
+Abstract: This article introduces one of the research results, about the CNPQ/MTB-SENAES No 27/2017, which was the application and improvement of solidarity economics enterprises (SEE) analyses tool. The proposal was incorporate social technology indicators and from solidarity economy in modeling business. The research was realized in 2018 with application and adaptation from CANVAS modeling business in three (SEE) enterprises: Batucar Institute (social and culture technology) , Pequi Network (organizational technology) and Mania Lixo Association (social and environment technology). The theoretical referential used was the categories work sociology, solidarity economy, social technology and business modeling. The concepts and principals transversality translated on this understood job was a centrality of social bonds, with possibility of giving identity and recognition, through society in process of social changing. The result was a co-creation of Canvas Social tool which became effectively proper for modeling business in solidarity economy field and social technology’s.
+Keywords: Solidarity economy, Social Technology, Incubator , Innovation, Social Canvas. INTRODUÇÃO
+No ano de 2016, o Centro de Apoio ao Desenvolvimento Tecnológico (CDT/UnB), passa a fazer parte da estrutura do Decanato de Pesquisa e Inovação - DPI e continuou a desempenhar o papel relevante no desenvolvimento do empreendedorismo e no apoio à inovação no Distrito Federal, es-
+1 Universidade de Brasília – smarises@yahoo.com.br - Lattes: http://lattes.cnpq.br/7582726565531671
+2 Universidade de Brasília – taniacristina75@gmail.com - Lattes: http://lattes.cnpq.br/3940059129469564 3 Universidade Federal do Amazonas – ddgutie@ufam.edu.br - http://lattes.cnpq.br/5137661928193717
+ 
+Democracia, Ciência e Tecnologia: aprofundamento Revista C&TS Volume 4 - Número 1 - Ano 2021 as contribuições sobre a incubação em economia solidária ISSN 2236-7837
+timulado desde 2007, pelo Ato da Reitoria no 882, onde passou a cumprir as funções de Núcleo de Inovação Tecnológica (NIT). Esse papel foi reforçado dado à obrigatoriedade imposta pela Lei de Inovação No 13.243, de 11 de janeiro de 2016, que dispõe sobre estímulos ao desenvolvimento cien- tífico, à pesquisa, à capacitação científica e tecnológica e à inovação; e ao Decreto 9.283, de 7 de fevereiro de 2018, que regulamenta essa Lei.
+Nesse contexto o Conselho Universitário da Universidade de Brasília, em sua 466a Reunião, rea- lizada em 31/1/2020, institui a sua Política de Inovação, e assim reforça as atribuições desse NIT no Art. 9o. Dentre as suas principais competências está registrada no inciso XII o apoio à inovação em tecnologias sociais e economia solidária. Esse artigo fortalece o papel da Incubadora de Tecnologia Social e Inovação e a motiva a melhorar seu desempenho no apoio aos empreendimentos econômicos solidários.
+A Resolução do Conselho Universitário No 0006/2020, que instituiu a política de inovação em conformidade com as diretrizes da Política Nacional de Ciência, Tecnologia e Inovação, suscitou a expectativa por uma universidade mais inovadora, aberta e capaz de incorporar, na formação dos estudantes, a perspectiva do empreendedorismo e o desenvolvimento de novas relações entre empre- endimentos, empresas, universidade e governo.
+Essa conjuntura favoreceu a compreensão da relevância da Incubadora de Tecnologia Social e Inovação, na disputa por uma ciência pública com novos construtos e base teórica mergulhada nos pressupostos da tecnologia social e no comprometimento com os movimentos sociais, principalmente na luta por inclusão socioeconômica, diante um momento histórico de precarização do trabalho, ins- tabilidade do emprego e insegurança nas diferentes dimensões do ser humano.
+Nesse sentido, o planejamento estratégico da incubadora de tecnologia social e inovação, no pe- ríodo de 2016 a 2020, tem reforçado a pertinência da melhoria da incubação de empreendimentos econômicos solidários, tendo como diretriz uma universidade comprometida com o Movimento pela Tecnologia Social/MTS, que invoca uma ciência pública, multidisciplinar, com determinismo socio- lógico e, fundamentalmente, integradora do conhecimento popular com o conhecimento científico.
+Para Nascimento (2019), a Tecnologia Social (TS) é um movimento em construção (pautado na ar- ticulação entre a sociedade cível/comunidades, universidades) que orienta o desenvolvimento de pro- dutos, processos, técnicas ou metodologias, a partir da necessidade dos usuários, visando à inclusão social. Em recente pesquisa, intitulada O Movimento da Tecnologia Social: uma Revisão Sistemática de seus Elementos Estruturantes entre 2007 e 2017, Nascimento (2019) aponta que
+(...) nos últimos dez anos, uma busca sistemática nas bases Science Direct e do Portal Periódicos CAPES, evidenciaram que: (a) atores de diferentes áreas do conhecimento participam do movimento da TS; (b) a perspectiva teórica mais vinculada nas pesquisas foi a Abordagem Sociotécnica; (c) o princípio da “Aprendizagem e Participação como Processo” foi o atributo mais destacável; (d) a TS possibilita a inclusão social e contribui para o desenvolvimento local; (e) os limites da TS são devidos a falta de políticas públicas, dificuldades de gestão financeira e limitações teóricas; (f) há uma estreita relação entre a TS e a Economia Solidária, fato que não ocorre em relação à Inovação Social e à Responsabilidade Social Corporativa. Podemos registrar que o movimento da TS é multidisciplinar, tendo como orientação a emancipação e inclusão social por meio da crítica e reconstrução das tecnologias convencionais (NASCIMENTO, 2019, pg. 93).
+19
+
+Democracia, Ciência e Tecnologia: aprofundamento Revista C&TS Volume 4 - Número 1 - Ano 2021 as contribuições sobre a incubação em economia solidária ISSN 2236-7837
+Para o Movimento pela Tecnologia Social (MTS) a ciência deve ser vista como inteligência coletiva destinada a melhorar a vida por meio de condições iguais de oportunidades ao mundo do trabalho, considerando a cidade um ambiente de inovação social, onde o conhecimento produzido em conjunto deve ter sua apropriabilidade pelos atores sociais e a sua reaplicabilidade pelas redes sociais em torno de uma Tecnologia Social – TS (FONSECA, 2013).
+O pressuposto do MTS é definir certificações participativas para um regime regulatório capaz de assegurar as condições legítimas de reaplicabilidade da TS. Em ambos os casos condições legítimas diz respeito aos processos autogestionários em cooperativas, associações de produtores e redes de colaboração solidária.
+Nesse sentido a inovação precisa avançar para além de conhecimentos tecnocientíficos (orientados para soluções que apenas atendam aos interesses do capital, que valorizam somente a vertente fun- dada numa lógica de competição intercapitalista) e apoiar estruturalmente (com políticas públicas, cooperações em redes ) o trabalho e das demandas sociais.
+A Incubadora de tecnologia social da UnB, orientada por esse movimento se diferencia: i) na produção do conhecimento, porque alia diferentes saberes; ii) no interesse pelas classes populares na inclusão socioprodutiva ; iii) na devida junção da ciência e da técnica; e, iv) apropriação do conheci- mento pela lei de patentes, direitos autorais e transferências de tecnologias.
+Essas especificidades apontam para processos pedagógicos de incubação, com agregação do valor voltada ao trabalho não subordinado ao capital, ou seja, significa organizar o trabalho para reproduzir a vida (e não o capital) de milhares de pessoas, que estão na base da pirâmide econômica e social.
+Considera-se que a incubação de grupos provenientes das classes populares em busca da integração ao mundo do trabalho, por meio dos princípios da tecnologia social, com práticas de autogestão, solida- riedade, cooperação e viabilidade econômica, pode representar a preocupação legitima da universidade pública brasileira em fazer com que os problemas do povo estejam nas políticas da universidade, como anunciava Darcy Ribeiro, um dos mais importantes reitores da Universidade de Brasília.
+Esse contexto motiva a incubadora a atualizar e aprimorar o processo de incubação, por meio do desenvolvimento de pesquisa referente à implementação de ferramentas tecnológicas, que possa contribuir para modelar negócios mais adequados aos empreendimentos econômicos solidários, na proposição de geração de renda, trabalho emancipado e cidadania. Trata-se de uma perspectiva ético - política comprometida com o bem comum e com os processos democráticos.
+Esse artigo descreve um dos resultados da pesquisa proveniente da participação no Edital CNPQ/ MTB-SENAES No 27/2017, cujo propósito foi melhorar uma dessas ferramentas de modelagem de negócio denominada CANVAS para adaptá-la a modelos de negócio no campo da economia solidária e da tecnologia social. A opção nos pareceu importante, porque essa ferramenta traduz a possibilidade de desenvolver esquemas visuais sobre modelagem de negócios que expressam os princípios da ação alinhados aos propósitos dessa outra economia e tecnologia.
+A relevância da co-criação de modelos de negócios com as comunidades dos EES, pode assegurar um bem-viver mediado por outras premissas como a geração de renda em substituição ao lucro, o trabalho reconfigurado para a emancipação e a prática da cidadania com o reconhecimento e respeito ao outro, em todas as suas diferenças.
+Esse artigo inicia-se pela reflexão do marco teórico, que dá suporte à compreensão da dinâmica de trabalho de três empreendimentos, que buscam fortalecer os princípios da economia solidária em sua forma de gestão e de aprimorar as tecnologias sociais, que já desenvolvem para a geração de renda e trabalho. A partir desse referencial, apresenta como foi aplicado o Canvas e as necessidades de dar
+20
+
+Democracia, Ciência e Tecnologia: aprofundamento Revista C&TS Volume 4 - Número 1 - Ano 2021 as contribuições sobre a incubação em economia solidária ISSN 2236-7837
+outro significado aos nove componentes da ferramenta. Como resultado acrescenta outros componen- tes ao modelo tradicional que passamos a nominar de Canvas Social.
+MARCO TEÓRICO
+O Programa Nacional de Incubadoras de Cooperativas Populares – PRONINC foi instituído pelo Decreto 7657/2010 e no artigo 84 reforça a integração de órgãos do governo com o objetivo de de- senvolver ações que permitam a geração de renda e trabalho na perspectiva da Economia Solidária. Teve como finalidade fortalecer os processos de incubação de empreendimentos para que conseguis- sem realizar a gestão das atividades e a organização do trabalho associado.
+A relevância do programa foi a possiblidade de articulação e integração de políticas públicas na promoção do desenvolvimento local e regional e a orientação metodológica nos processos de incu- bação. A expectativa foi desenvolver boas metodologias de incubação para que os grupos apoiados pudessem desenvolver a autogestão e a solidariedade nas relações de trabalho.
+O Comitê Gestor do Programa teve a participação de representantes das redes de incubadoras - a rede de ITCPs ( Incubadores tecnológicas de cooperativas populares) e a UNITRABALHO (rede interuniversitária de estudos e pesquisas sobre o mundo do trabalho), A Incubadora de Tecnologia Social da Universidade de Brasília vinculou- se ao PRONINC, por meio da Rede UNITRABALHO.
+Segundo o Decreto 7657/2010 da casa civil as incubadoras universitárias que apoiam o desenvol- vimento de empreendimentos econômicos solidários são constituídas por um grupo de pesquisadores em diálogo com as diferentes dimensões do conhecimento e são espaços de pesquisas, estudos e de desenvolvimento de tecnologias voltadas para a organização do trabalho, com foco na autogestão, solidariedade, cooperação e viabilidade econômica. Sendo assim a incubação se torna um processo político-pedagógico, mediado pelo uso de tecnologias sociais, que visa apoiar a formação e conso- lidação de empreendimentos, que atuam com o trabalho associado, potencializando a reprodução ampliada da vida e a produção de práticas sociais emancipatórias.
+Podemos considerar que o papel das incubadoras desse tipo têm três significados: i) aproximam as universidades públicas aos movimentos sociais, por uma troca de saberes e experiências, interferindo na formação de docentes e discentes; ii) respondem a outra forma de qualificação organizacional mais alinhada com as práticas já existentes de organização do trabalho com autogestão iii) representam um embate permanente em consolidar a tecnologia social na Política Cientifica e Tecnológica (PCT) do Ministério de Ciência e Tecnologia.
+A Incubadora é, em si mesma, uma tecnologia social, que oportuniza a universidade a se legitimar em sua capacidade empreendedora e inovadora e, por isso, faz sentido o desenvolvimento de pesqui- sas que contribuam com a permanente melhoria do processo de incubação. Foi com esse intuito que se propôs para o período de 2016 a 2020 o desenvolvimento de uma melhor adequação na metodolo- gia de incubação, com a introdução do modelo de negócio- CANVAS que ressignificasse o modelo mental de um empreendimento de economia solidária e os pressupostos da tecnologia social.
+Na proposta do planejamento estratégico da incubadora foi evidenciada a necessidade de quatro mudanças a serem implementadas: 1) uma equipe mais qualificada no campo da Economia Solidária com ações que envolvesse ensino, pesquisa, extensão e inovação; 2) atualização da incubadora nos marcos legais da ciência e tecnologia, para repensar essa relação para além do determinismo tec- nológico, que reforça a produção do conhecimento com separação entre pesquisa básica e pesquisa aplicada, e na crença da neutralidade científica; 3) circularidade em espiral nas interações estabele-
+21
+
+Democracia, Ciência e Tecnologia: aprofundamento Revista C&TS Volume 4 - Número 1 - Ano 2021 as contribuições sobre a incubação em economia solidária ISSN 2236-7837
+cidas nos ambientes de inovação internos e externos à universidade, com redes de colaboração no fortalecimento da quádrupla hélice (governo, empreendimentos, movimento social, universidade); e 4) desenvolvimento de indicadores e registros confiáveis, úteis para aprimoramento da metodologia de incubação, com indicadores da tecnologia social e da Economia Solidária.
+A condição de operar com essas mudanças está alinhada a caracterização da Geração das incuba- doras, que pressupõe na primeira geração a disponibilização de infraestrutura, na segunda geração amplia para oferta de serviços internos de apoio aos negócios e na terceira geração o acesso às redes como proposta de valor.
+A Incubadora de tecnologia Social da UnB, para operar com as mudanças pretendidas, precisa estar alinhada à Terceira Geração das incubadoras, caracterizadas pela geração de negócios a partir de oportunidades no mercado, prospecção de empreendimentos em grupos de pesquisa, com o modelo sistematizado de apoio à concepção e desenvolvimento de negócios inovadores - forte integração com outros ambientes inovadores - tendo a incubadora como ambiente para o desenvolvimento regional.
+Para a incubadora de tecnologia social e inovação a abordagem territorial e regional é imprescin- dível, visto que a lógica de incubação pressupõe relações comunitárias fecundas com a presença da universidade na comunidade. Assim o objeto da incubação se estende ao território onde estão enraiza- dos os empreendimentos apoiados e, portanto, há um compromisso latente com a gestão democrática do território.
+No entanto, a inovação proposta na gestão da incubadora se mostrou insuficiente para adequá-la aos preceitos da tecnologia social e da economia solidária e no intuito de “movimentar o movimento da incubadora”, ou seja, dar sentido aos dados registrados de forma sistematizada, com possibilidade de explorar conjuntamente os caminhos adequados para o êxito de empreendimentos econômicos solidários que desenvolvem tecnologias sociais, foi necessário agregar valor à ferramenta de modelo de negócio já existente, introduzindo novos componentes de análise, para melhorar o mapeamento das necessidades dos empreendimentos em aprimorar o seu negócio.
+A proposta de pesquisa foi a co-criação de modelo de negócio, aplicável aos empreendimentos que se organizam pelos princípios da economia solidária e da tecnologia social, de modo a introduzir no- vos elementos capazes de diagnosticar com maior confiabilidade os desafios e potencialidades desses empreendimentos na sua atuação na sociedade.
+O conceito de co-criação foi desenvolvido pelo especialista em Marketing Aric Rindfleisch em 2004. O autor mostrou que a co-criação é uma forma de inovação que consegue agregar valor à ges- tão da organização, de modo a renovar as estratégias em busca de resultados econômicos e sociais significativos, para gerar a inclusão socioprodutiva (ARIC, 2004). Em linhas gerais, é uma iniciativa de gestão, ou forma de estratégia econômica, que reúne diferentes partes (por exemplo, uma empresa e um grupo de clientes), a fim de produzir conjuntamente um resultado mutuamente valorizado (PRAHALAD, C.K.; RAMASWAMY, V; 2004).
+Nesse sentido, co-criar no campo da economia solidária e no desenvolvimento de tecnologias sociais significa inferir inúmeras possibilidades de fazer conexões e reafirmar ligações necessárias ao desenvolvimento de um empreendimento que deve estar intrinsicamente enraizado no território, expressando sua cultura, crenças, valores e reconectando-se ao outro ser humano em reciprocidade. É reconhecer que a Comunidade é sujeito nos processos de discussão e também autora nas tomadas de decisão.
+Portanto o modelo de negócio apropriado aos EES está associado às diferentes áreas do conhe- cimento, que perpassa as fronteiras das ciências humanas de modo geral (administração, economia,
+22
+
+Democracia, Ciência e Tecnologia: aprofundamento Revista C&TS Volume 4 - Número 1 - Ano 2021 as contribuições sobre a incubação em economia solidária ISSN 2236-7837
+ciências sociais, ciências da vida). Porém a literatura sobre esse tema relaciona os objetivos de um modelo de negócio à sua capacidade de estabelecer estratégias competitivas, tendo o empreendedo- rismo e a inovação como aliados desse processo.
+Orofino (2011), em revisão literária que realizou sobre o termo Modelo de Negócio, mostra que esse conceito tem sido estudando com maior pertinência no campo da economia e da administração, revelando estratégias da empresa em obter lucro e conhecer melhor o seu negócio. Nesta perspectiva do que deve ser um bom negócio, há dois elementos em comum na análise do autor que é a criação e captura de valor por parte da organização.
+A partir da evolução desse termo, autores como Osterwalder e Pigneur (2010) desenvolveram a ferramenta Business Model Canvas, atribuindo a esta nove dimensões:
+Quadro 1. Business Model Canvas
+Fonte: Osterwalder e Pigneur (2010)
+Segundo Pimenta (2010) o quadro do Canvas é uma ferramenta visual que ajuda a compreender e comparar os nove blocos e estabelece relações entre eles e dando sentido ao negócio. Já foi aplicada e testada em diferentes lugares do mundo, como o governo do Canada e por empresas como IBM, Ericsson, Deloitte, Public Works.
+Para melhorar a compreensão das dimensões são construídas perguntas norteadoras para entender cada campo do Canvas:
+23
+ 
+Democracia, Ciência e Tecnologia: aprofundamento Revista C&TS Volume 4 - Número 1 - Ano 2021 as contribuições sobre a incubação em economia solidária ISSN 2236-7837
+Quadro 2. Elementos do CANVAS
+24
+ Dimensões
+  Perguntas Norteadoras
+   Segmento de Clientes
+  • para quem estamos criando valor?
+• quais as características do(s) segmento(s)? • quais os clientes mais importantes?
+   Relacionamento com o Cliente
+ • que tipo de relacionamento os clientes de cada segmento podem esperar? • qual o custo de cada um?
+• de que modo esse relacionamento se integra ao restante do modelo de negócios? • o que se pode esperar em termos de aquisição e retenção para esse tipo de relacionamento?
+ Canais de Distribuição
+   • por quais canais nossos segmentos de clientes preferem ser abordados? • de que forma esses canais estão integrados?
+• qual a relação custo/benefício da utilização de cada canal?
+   Proposta de Valor
+ • que tipo de valor entregamos para o cliente?
+• quais os problemas do cliente estamos ajudando a resolver?
+• que necessidades do cliente estão sendo satisfeitas?
+• que produtos ou serviços está sendo oferecido para cada segmento de clientes?
+ Recursos-chave
+  • que recursos são importantes para a proposta de valor, para os canais de distribuição, para os relacionamentos com os clientes e para implementação das fontes de renda?
+ Atividades-chave
+   • quais atividades são importantes para a proposta de valor, para os canais de distribuição, para os relacionamentos com os clientes e para implementação das fontes de renda?
+   Parcerias-chave
+ • quais devem ser nossas parcerias-chave?
+• quais os nossos fornecedores estratégicos?
+• que tipo de recursos-chave está sendo obtidos desses parceiros estratégicos? • quais atividades-chave esses parceiros produzem?
+ Estruturas de Custos
+   • quais são os custos mais importantes inerentes ao modelo de negócios? • quais os recursos-chave mais valiosos?
+• quais as atividades-chave mais custosas?
+   Fontes de Renda
+  • o que o cliente valoriza e está disposto a pagar?
+• pelo que esse mesmo cliente tem pago ultimamente para resolver o mesmo problema? • de que modo o cliente prefere pagar pelo valor gerado?
+• qual a parcela de contribuição de cada fonte de receita para a receita total esperada?
+   Fonte: Osterwalder e Pigneur (2010)
+Essa ferramenta foi aplicada, prioritariamente, às empresas para melhorar o planejamento estraté- gico no alcance de resultados econômicos positivos. No entanto, para o alcance de objetivos de cunho social, ambiental e cultural seria necessário ressignificar os componentes do Canvas, seja na mudança de significado das palavras-chaves que o compõe, seja na introdução de novos elementos.
+Pimenta (2010) explica que há três pilares da definição de modelo de negócios: criação de valor (parcerias-chave, atividades-chave e recursos-chave); entrega de valor (canais, segmento de clientes e relacionamentos com o cliente); e captura de valor (estrutura de custo e fontes de receitas).
+Para constituir um modelo de negócio adequado aos empreendimentos econômicos solidários, ou seja, de um Canvas Social, deve-se considerar, na criação de valor do empreendimento, a missão e os impactos sociais com inclusão socioprodutiva e impactos ambientais positivos que devem estar de- vidamente reforçados nas parcerias-chave, atividades-chave e recursos-chave. Assim como a entrega de valor (canais, segmento de clientes e relacionamentos com o cliente) serão buscados nos valores do comercio justo e dos princípios das finanças solidarias; e, ainda, a captura de valor (estrutura de
+
+Democracia, Ciência e Tecnologia: aprofundamento Revista C&TS Volume 4 - Número 1 - Ano 2021 as contribuições sobre a incubação em economia solidária ISSN 2236-7837
+custo e fontes de receitas) faz parte de uma rede de intercooperação, com formação de cadeias de valor e arranjos produtivos locais.
+A produção de conhecimento no Brasil sobre o Canvas Social não tem sido ainda objeto de maior análise científica e as referências bibliográficas derivam de estudos de empresas para ministrar con- sultorias e de autores como Osterwalder e Blank (2010). A referência no mundo sobre empreen- dedorismo social são a Escola Americana Empreendedorismo Social – Universidade de Stanford, Empreendedorismo de impacto social (no Brasil – SEBRAE) e Escola Europeia (Comissão Europeia, Universidade de Oxford, Essec).
+Embora se acrescente no Canvas Social alguns elementos pertinentes à dimensão social, ainda se encontra no padrão definido no Business Model Canvas, tendo como modelo a lógica de operar a produção na sociedade capitalista. Por isso o padrão de elementos pode até permanecer , mas os indicadores de cada um deles deve refletir os pressupostos e princípios da economia solidária e da tecnologia social.
+Para a introdução de novos elementos no Canvas, de modo a operá-lo como um Canvas Social, que permita modelar negócios adequados aos EES (empreendimentos econômicos solidários), faz-se necessário estabelecermos a relação entre economia solidária e tecnologia social. Observa-se o que há de comum nos dois conceitos:
+Economia Solidária é um conjunto das iniciativas coletivas de organização do trabalho e da produção, realizadas por setores da sociedade civil. Essas experiências coletivas significaram a busca pelo trabalho emancipado, que compreende o respeito pela aptidão do trabalhador (a) a sua realização pessoal, vinculado ao reconhecimento de seus pares e utilidade para quem o recebeu, democratização dos ganhos de produtividade, acesso ao conhecimento, reafirmação da identidade pessoal e coletiva, e valorização da vida (CONAE, 2014). Tecnologia social se refere a todo produto, método, processo ou técnica criada para solucionar algum tipo de problema social e que atenda aos quesitos de simplicidade, baixo custo, fácil aplicabilidade/ reaplicabilidade e de impacto social comprovado (DAGNINO, 2014).
+Os dois conceitos expressam uma nova conexão entre o capital e o trabalho, como dois fenômenos sociais que traduzem uma inversão de valores, onde o trabalho tem como objetivo a emancipação do homem. Para isso precisa gerar produção útil à sociedade, por meio da possibilidade de garantir que os problemas sociais sejam resolvidos por tecnologias simples e de largo alcance.
+Há mesmo que considerar que a tecnologia social somente pode ter substrato em economias so- lidárias, porque ocorre uma proposta de desenvolvimento da tecnologia voltada para soluções de demandas de problemas coletivos das comunidades e que efetivamente sejam inclusivas. Não é para atender interesses de determinado grupo e muito menos para fortalecer e concentrar o capital.
+A Economia Solidária traz em seu bojo uma concepção de política, enquanto uma proposta de transformação social, desenvolvida dentro da tradição socialista do século XIX, acolhendo os princí- pios da autogestão e do trabalho coletivo como elementos constituintes da relação social. Essa pers- pectiva é defendida por Paul Singer (1998), que desloca à sociedade civil a responsabilidade de ge- renciar o Estado, que se torna subsidiário para implementar demandas oriundas dos grupos populares.
+Essa definição mostra que não se trata apenas de mudanças operadas no interior da organização do trabalho dos grupos populares, mas uma proposta de mudança cultural e estratégica de constituir outra maneira do trabalhador (a), se relacionar com o seu trabalho e com os outros trabalhadores, mediante nova relação entre o Estado e a Sociedade.
+25
+
+Democracia, Ciência e Tecnologia: aprofundamento Revista C&TS Volume 4 - Número 1 - Ano 2021 as contribuições sobre a incubação em economia solidária ISSN 2236-7837
+Os empreendimentos econômicos solidários, que se organizam pela solidariedade, autogestão, cooperação e viabilidade econômica, buscam nas tecnologias sociais a referência para produção de uma ciência útil, cujo conhecimento possa ser efetivo na valorização da vida.
+Bava (2003) aponta que a tecnologia social compreende o processo de empoderamento comunitá- rio para que a comunidade possa disputar, nos espaços públicos, propostas alternativas de desenvol- vimento e assim estabelecer novas experiências de trabalho, de métodos e técnicas de aprendizagem colaborativa e principalmente de manutenção de laços afetivos e efetivos.
+Para praticar esses atributos é necessário que a organização da produção e do trabalho ocorra sobre outra proposta de sociedade, de modo que o desenvolvimento de negócios sejam campos férteis de experimentações democráticas.
+Portanto, é relevante ter como referência o Movimento pela Tecnologia Social /MTS onde a ciên- cia deve ser vista como inteligência coletiva destinada a melhorar a vida por meio de condições iguais de oportunidades ao mundo do trabalho, considerando a cidade um ambiente de inovação social, onde o conhecimento produzido em conjunto deve ter sua apropriação pelos atores e atrizes sociais e a sua reaplicabilidade pelas redes sociais em torno de uma Tecnologia Social - TS.
+Para estudiosos dessa questão, como exemplo o professor Ricardo Neder da Universidade de Brasília, a apropriação está associada ao ato de incorporação da inovação pelo sujeito social, da qual ele se considera criador coletivo. Já a reaplicabilidade, ao contrário, é o processo desenvolvido entre os mediadores e extensionistas e o sujeito social. O ato de uma TS ter sido apropriada pelos sujeitos sociais num lugar e transferida para outros territórios, com demanda social semelhante, já é consi- derado o processo. Hoje este processo está ligado ao próprio futuro da economia popular solidária (NEDER, 2010).
+Nesse sentido a inovação precisa avançar para além de conhecimentos tecnocientíficos orientados para soluções que apenas atendam aos interesses do capital, valorizando a vertente fundada numa lógica de competição intercapitalista, do trabalho e das demandas sociais. Neder (2010) sinaliza que deve-se criar um diálogo permanente entre a ciência, tecnologia e sociedade, para a formação de mercados solidários e autogestionários. Portanto, a qualificação desse diálogo pode depender da forma como realizamos o processo de incubação e como ajustamos a dimensão social e tecnológica na geração de renda e trabalho.
+Para a Incubadora de Tecnologia Social e Inovação da Universidade de Brasília, a tecnologia so- cial possui uma dimensão técnica, política e social, pois engendra uma visão de mundo e sociedade, pressupõe uma plataforma cognitiva e política da Teoria da Inovação voltada para abordagem da teoria crítica da ciência e tecnologia, que nega o excesso de planejamento e controle, o aumento do aparato burocrático e um sistema de avaliações de resultados sem levar em conta a cultura, a história do grupo, a política econômica do país e as representações de mundo que orientam a ação. Aqui o protagonismo é da Comunidade e não da tecnociência e dos tecnocratas.
+A responsabilidade da incubadora em produzir tecnologias alinhadas com os pressupostos de uma economia comprometida com o ser humano levou à crítica do desenvolvimento tecnológico assumi- do pela sociedade em geral. Trata-se de assegurar a propriedade coletiva do conhecimento, mas com utilidade pública, de modo a abranger a condição humana com efetividade de um bem-viver. Portanto introduzir novos elementos no Canvas referentes à tecnologia social pode qualificar a utilização de plataforma de modelos de negócio.
+Os marcadores da tecnologia social revelam uma intrínseca relação entre economia e desenvol- vimento e, especialmente, uma economia engajada pela responsabilidade com o ser humano e todos
+26
+
+Democracia, Ciência e Tecnologia: aprofundamento Revista C&TS Volume 4 - Número 1 - Ano 2021 as contribuições sobre a incubação em economia solidária ISSN 2236-7837
+os seres vivos. Por isso a tecnologia social na Economia Solidaria está alinhada ao desenvolvimento local que se constitui como:
+O processo que mobiliza pessoas e instituições buscando a transformação da economia e da sociedade locais, criando oportunidades de trabalho e renda, superando dificuldades para favorecer a melhoria das condições de vida da população local (JESUS, 2003).
+A perspectiva dessa relação gera uma responsabilidade recíproca, construída a partir do diálogo livre e qualificado entre atrizes e atores da s da Sociedade, do Estado e do Capital, que enseja o surgi- mento de inovações sociais e tecnológicas, visando o desenvolvimento social e solidário, baseado na paz, democracia e “justiça social”, as condições reais de efetividade da vida social (LIANZA, 2005).
+Portanto, o modelo de negócio também pressupõe colocar em xeque a política pública que requer a integração dos trabalhadores ao mundo do trabalho sob outras perspectivas. Por isso a categoria trabalho precisa ser bem compreendida nesse campo. Aqui nos reportamos as análises realizadas no campo da Sociologia do Trabalho que elegeu essa categoria como elemento de centralidade, identida- de e capilaridade das relações de trocas sociais, com reais possibilidades de engendrar crises sociais e de solucioná-las, com destaque nas interações sociais produzidas no âmbito das relações de trabalho, com aporte na concepção de trabalho em Karl Marx (1970) e estudos de Robert Castel (2000).
+O trabalho é determinante na vida social, porque a atividade laboral representa a principal fonte de ren- da da população, a sua inscrição no reconhecimento por um grupo social e o cerne de sua identidade pes- soal e coletiva, dada às condições de pertencimento ao meio comunitário em que vivem os atores sociais.
+Historicamente a ausência do “direito ao trabalho” provoca a crise social, na medida em que, sem re- conhecimento e identidade, as atrizes e atores sociais se encontram em situação de vulnerabilidade e sem proteção social, que somente são garantidos mediante a inserção nos ditames do contrato assalariado.
+A constituição do campo da Economia Solidária está enraizada nas experiências desses sujeitos sociais que, na ausência de proteção social, apostaram no trabalho coletivo e solidário, como aporte da integração social e econômica.
+Há que se reforçar que a Tecnologia Social no campo da Economia Solidária é a produção coletiva e ampla socialização de conhecimentos (técnicas, ferramentas, processos, produtos e serviços) para solucionar demandas concretas, vividas e identificadas por uma população, por meio de uma agenda de decisão democrática, com a mobilização e a participação na tomada de decisões; são conhecimen- tos compartilhados que gerem novos conhecimentos; planejamento da ação coletiva, sustentabilidade das propostas coletivas e geração de aprendizagens, que são referências para novas experiências, com formação crítica do próprio desenvolvimento tecnológico.
+Nesse sentido a proposta de uma metodologia de incubação que inove na modelagem de negócio tendo como referência os marcadores da economia solidária e da tecnologia social, pode ser uma al- ternativa viável a um modelo de sociedade que busca paz, respeito e solidariedade.
+REFERENCIAL METODOLÓGICO − ESTUDO DE CASO
+A pesquisa teve como área geográfica, política e sociocultural o Distrito Federal e entorno, situado no Planalto Central e região Centro-Oeste, que se caracteriza por ser um território que não é Estado e nem município, mas um território autônomo, dividido em cidades administrativas, que possuem dependência econômica de Brasília.
+27
+
+Democracia, Ciência e Tecnologia: aprofundamento Revista C&TS Volume 4 - Número 1 - Ano 2021 as contribuições sobre a incubação em economia solidária ISSN 2236-7837
+Esse território apresenta um paradoxo em relação ao seu desenvolvimento, pois o Distrito Federal é detentor da maior renda per capita do Brasil, possui o IDH - índice de desenvolvimento humano - alto e, no entanto, temos 20% da população economicamente ativa desempregada (IBGE, 2010). Ao mesmo tempo as cidades administrativas são caracterizadas pela ausência de políticas públicas so- ciais e de trabalho, associadas à precariedade das administrações na gestão do território. A população dessas cidades administrativas mantém-se em vulnerabilidade socioeconômica, com pouca perspec- tiva de trabalho e emprego.
+Essa pesquisa está relacionada a essa categoria social, com representação de empreendimentos localizados em três cidades administrativas: Taguatinga, Paranoá e Recanto das Emas. Essas cidades administrativas guardam semelhanças entre si, em relação às condições de vida de sua população e as necessidades de acesso à cidadania, que lhes é negada.
+Os três empreendimentos que participaram da pesquisa estão caracterizados no quadro abaixo: Quadro 3. Caracterização dos empreendimentos participantes
+28
+  Empreendimento
+   Forma organizacional
+    Local
+   Tecnologia Social desenvolvida e/ ou potencial
+  Instituto Batucar 40 participantes
+  Instituto de Cultura Popular
+   Recanto das Emas
+  Tecnologia cultural e social
+Propõe inclusão social de jovens por meio da musica com percussão corporal e ferramentas de aprendizagem
+múltipla, para atendimento às crianças e adolescentes em vulnerabilidade social e econômica.
+  Rede PEQUI de Comercialização com 8 associações
+  Rede de Comercialização Solidaria
+   Taguatinga Sul
+  Tecnologia organizacional e social
+Rede de Comercialização Solidaria de produtos artesanais para o empoderamento das mulheres e geração de autonomia e renda. Dá suporte à Rede Candanga de Confecção com a comercialização da produção da RESF/ DF através do comércio justo e solidário que incentiva o consumo ético.
+  Associação de Assistência Social e Ambiental, “LIXOMANIA”. com 25 membros
+  Associação
+   Paranoá
+  Tecnologia Social e ambiental
+O objetivo é qualificar ex - presidiários e dependentes químicos a lidar com o resíduo sólido (lixo) e dele criar peças artesanais que vão de móveis a objetos decorativos. Com esse aprendizado os participantes passam a entender
+a importância do cuidado com o meio-ambiente, a oportunidade de ser inserido e reinserido na sociedade como artesão e ainda ter a autoestima recuperada, se tornando capaz de exercer um trabalho digno e decente, capaz de prover seu próprio sustento e de sua família.
+    Fonte: adaptada pelas autoras dos documentos oficiais dos empreendimentos (2018)
+Os três empreendimentos praticam a economia solidária porque desenvolvem a autogestão, a so- lidariedade e a cooperação, no entanto precisam melhorar a área da viabilidade econômica. Eles buscam aperfeiçoar as tecnologias sociais adotadas e, portanto, a pesquisa realizada pela incubadora, ao experimentar uma ferramenta mais apropriada para modelar negócios nesses três grupos, tem sido importante na medida em que ao aplicar o Canvas vai surgindo a necessidade de novos dados para diagnosticar as efetivas necessidades desses empreendimentos.
+
+Democracia, Ciência e Tecnologia: aprofundamento Revista C&TS Volume 4 - Número 1 - Ano 2021 as contribuições sobre a incubação em economia solidária ISSN 2236-7837
+A aplicação do Canvas nos três empreendimentos foi realizada no mês de agosto de 2018, nas comunidades de sua origem, com a participação dos pesquisadores da incubadora e dos associados. Seguem abaixo os quadros 4, 5 e 6 com Canvas de cada um desses empreendimentos.
+Quadro 4. CANVAS - Rede Pequi
+29
+ Parceiros
+   Atividades Chave
+  Proposta de Valor
+  Rel. com o Cliente
+   Segmento de Clientes
+  Mamãe Taguá
+- Postos de Cultura - Centro Público de Economia Solidária - Governo/Editais - Fórum de Mulheres
+- SEBRAE
+-- Associação
+Comercial de Taguatinga
+- Tribo das Artes - CDT/UnB
+- Armazém do ofício
+- Fornecedores de matéria prima - Instituto Federal de Brasília
+- Batalhão da polícia militar
+- Mulheres do cerrado
+  - Saraus - Eventos
+- Costura e Cenografia
+- Artesanato e acessórios de decoração (crochê, pintura e estamparia) - Troca de experiências
+- Produção coletiva
+CULTURA
+- Clima organizacional positivo: os
+integrantes da RedePequi gostam de fazer parte do grupo - Cultura forte: os integrantes da Rede-Pequi formam uma família, no qual todos se ajudam
+- Gestão do conhecimento: existe troca de técnicas e experiências entre os integrantes
+- Qualidade de vida: os integrantes contam com o auxílio da rede fora da vida profissional PRODUÇÃO
+- Conhecimento de todo o processo de produção dos produtos: desde a compra dos materiais ao produto final
+- Acessórios exclusivos e com histórias: nenhum item é igual a outro
+- Design único e diferenciado: cores, inovação e exclusividade nos produtos - Atualização constante dos produtos
+de acordo com a demanda do mercado: inspiração na moda
+- Sustentável: a produção usa de materiais reciclados e é menos nociva ao meio ambiente e Promoção de eventos: a rede pode angariar fundos por meio de eventos no batalhão.
+Canais
+- Site - Facebook
+- WhatsApp
+- Boca a boca
+- Feiras e eventos - Panfletos e cartões de visita
+  - Diálogo aberto com os clientes: fidelização e amizade
+- Clientes engajados: clientes assíduos, dispostos a aguardar ou se locomover pelo produto - Pós venda: aplicação de questionários na loja física
+ Diferente para cada
+tipo de produtos: como a RedePequi tem um grande ramo de atuação (artesanato, cenografia,
+eventos),
+o segmento de clientes
+é amplo
+de adolescentes à idosos.
+   Recursos Chave
+       - Máquinas de Costura e de Botões - Tecidos
+- Materiais recicláveis
+- Espaço para confecção do artesanato
+- Espaço do batalhão para realizar eventos - Loja física para venda de produtos coletivos
+- Fogão
+   Estrutura de Custos
+   Fluxo de Receitas
+  - Máquina de costura e de botões (dentre outras) - Aluguel e gastos de água e luz com a loja física - Transporte - Alimentação
+  - Doações
+- Vendas dos Produtos - Loja física
+- Eventos
+   Fonte: Business Model Canvas BMC, 2004
+
+Democracia, Ciência e Tecnologia: aprofundamento Revista C&TS Volume 4 - Número 1 - Ano 2021 as contribuições sobre a incubação em economia solidária ISSN 2236-7837
+Quadro 5. CANVAS - Instituto Batucar
+30
+  Proposta de Valor
+   Recursos Chave
+    Atividades Chave
+  Qualidade de vida Fortalecimento de vínculos Felicidade e segurança Artista
+Empoderamento Valorização
+Celebrar
+Realização e autoconfiança
+ Corpo Instrumentos Material didático
+  Projeto Batucadeiros Percussão corporal Espaço de aprendizagem Apoio pedagógico Oficinas de violão, teatro, dança
+Saraus e shows
+  Estrutura de custo
+   Relação com clientes (trocas sociais)
+    Segmento de mercado
+  Aluguel
+Água, luz
+Alimentação
+Uniformes
+Manutenção do espaço e dos instrumentos organizadores do espaço
+(Monitores)
+ Serviços por cuidado Inclusão social Impacto social
+  Comunidade do Recanto das Emas
+Crianças
+Empresas
+Escolas
+  Fontes de renda
+   Parceria chave
+    Canais
+  Igreja Apresentações Oficinas
+Marca
+Doações
+Venda de camisetas Editais
+  Escolas
+Posto de saúde
+Governo estadual
+CDCA
+Comunidade
+Igreja
+JR Serigrafia
+UNB/CDT
+Administração regional
+Rede de proteção à criança e adolescente
+   Mídias, redes sociais Atendimento direto Transporte
+   Fonte: Business Model Canvas BMC, 2004
+
+Democracia, Ciência e Tecnologia: aprofundamento Revista C&TS Volume 4 - Número 1 - Ano 2021 as contribuições sobre a incubação em economia solidária ISSN 2236-7837
+Quadro 6. CANVAS - Lixo Mania
+31
+   Clientes, segmentos, usuários
+   Macro econômico e Meio ambiente
+  Proposta de Valor
+    Parceiros
+   Atividade+ Recurso
+  Clientes, pessoas
+com interesse em botânica, jardinagem e paisagens. Beneficiados: Ex dependentes químicos, comunidade
+  Demanda pelo serviço Espaço não regularizado Insalubridade
+  Criar uma oportunidade de trabalho
+Proporcionar terapia ocupacional
+Dar um destino para resíduos
+Dar oportunidades a pessoas marginalizadas Aumentar o número de negócios
+Métrica do impacto social: número de alunos no curso e feedbacks positivos
+   Os fornecedores de matéria prima não são fixos, mas são possíveis parceiros. Vendedores Ex alunos dos cursos
+UnB
+ Reutilização e artesanato Recurso físico: espaço apropriado, materiais, ferramentas. Recurso humano: Edson e alunos Recurso intelectual: como fazer a arte. Recurso financeiro: venda do produto
+    Vendas + marketing
+      Competitividade
+    Estrutura de custo
+  Concorrentes da loja: outros vendedores da associação, outros polos de plantas, artesões Diferenciais: hortas e cursos
+    Vendas: plantas (hortas, flores), arranjos, esculturas
+Energia elétrica Ferramentas Transporte Materia Prima
+    Receitas
+   Fonte de renda com as vendas dos produtos. Doações Crowdfunding
+   Fonte: Business Model Canvas BMC, 2004.
+A Rede Pequi, eminentemente composta por mulheres, configura oito associações, cujo produto principal é o artesanato, atua em uma loja compartilhada e solidária no Distrito Federal na cidade administrativa de Taguatinga Sul e pratica a autogestão e o mercado justo e solidário. No entanto ao aplicar o Canvas, onde a história e a motivação do grupo não consta, ficou difícil pensar um modelo de negócio que não associasse as histórias de vida e as motivações dessas mulheres em associar-se e gerar empoderamento pelo trabalho associado.
+O que as motiva não é somente geração de renda, mas a possibilidade de estar juntas e decidir cole- tivamente sobre os negócios e sobre a vida cotidiana. Nesse sentido o propósito de valor está centrado nas pessoas e não no produto e a proposta de valor condicionada aos princípios de outra economia. Ou seja, tem, já em seus fundamentos, aspectos relacionais, de coesão e apoio social muito relevantes para sua instituição e manutenção.
+Outro exemplo é a tecnologia produzida pela organização não governamental Lixo Mania ao utilizar-se de material reciclável para fazer artefatos de jardim, cujo empreendimento somente poderá organizar-se à luz dos princípios da tecnologia e do empreendedorismo social. Isto quer dizer produzir uma tecnologia inclusiva com agregação de valor no impacto que gera, seja social, ambiental e laboral.
+
+Democracia, Ciência e Tecnologia: aprofundamento Revista C&TS Volume 4 - Número 1 - Ano 2021 as contribuições sobre a incubação em economia solidária ISSN 2236-7837
+Em relação ao Instituto Batucar a tecnologia social baseada na percussão, utiliza os sons do corpo humano, compõe uma orquestra e promove inovação de procedimentos na relação homem- -natureza, de modo a desenvolver uma cultura relacionada à origem étnico-racial dos membros do empreendimento. Isto significa que toda e qualquer forma de negócio deverá estar associado aos pressupostos de uma tecnologia inclusiva.
+A própria forma de aplicação do Canvas está associada à abordagem da educação popular que suscita trocas entre os saberes populares e os conhecimentos técnicos científicos, por uma gerência dialógica, na qual a autoridade decisória é compartilhada entre os participantes da ação. Foi com essa abordagem que aos envolvidos na aplicação do Canvas pode aferir outros componentes necessários à compreensão da dinâmica de atuação desses empreendimentos.
+A experiência de aplicar a ferramenta Canvas nos 3 empreendimentos revelou a necessidade de um senso crítico necessário à introdução de novos significados aos nove componentes dessa ferramenta, legitimando e fortalecendo a proposta da economia solidaria e da tecnologia social. Afinal é preciso dar visibilidade as outras formas de praticar a economia e produzir tecnologia.
+RESULTADOS DA PESQUISA
+Tendo como base o referencial teórico e os resultados da aplicação do Canvas aos três empreen- dimentos constatou-se que há uma dificuldade em estabelecer o modelo de negócio para empreendi- mentos econômicos solidários, porque o sentido e o significado dos nove elementos que compõem o Canvas clássico estão circunscritos ao modelo econômico capitalista, ou seja:
+a) As palavras-chaves do quadro possuem um significado restrito de economia, produção e mer- cado (estratégias de vencer a escassez e não o cuidado com a produção para o bem-viver mediante as possiblidades de trocas de uma economia plural);
+b) Há uma lógica utilitarista de prover os bens materiais – toda a ação leva ao ganho monetário diante de um individualismo metodológico - primeiro satisfazer minhas necessidades depois as ne- cessidades do coletivo;
+c) A missão e visão do empreendimento estão subordinados à lógica do sistema que é transformar dinheiro em capital, compondo estratégias de auferição de lucro mediante tecnologias pouco inclusi- vas, com legado direcionado a produzir mais em menor tempo e com baixo custo. Portanto a missão e visão não parecem com clareza dado que a priori já está estabelecido na ação econômica.
+d) São desconsiderados a história, as motivações e o cenário futuro do empreendimento;
+e) A tecnologia está direcionada ao desenvolvimento de produtos para oferecer bens e serviços para o mercado e deve ser capaz de gerar valor por meio da competitividade no diferencial tecnoló- gico que apresenta.
+f) Predomina a lógica da oferta de mercado em detrimento da demanda social;
+g) A gestão do empreendimento está assentada sob uma hierarquia vertical caracterizada pela he- terogestão impossibilitando a prática da autogestão.
+h) Impera a estratégia de lidar com os concorrentes e não estratégia de ampliar a colaboração e a solidariedade.
+O que está em jogo não são os componentes do Canvas em si, mas o significado que apresentam ao analisar a adequação do modelo de negócio a outras lógicas de organização do trabalho e da econo-
+32
+
+Democracia, Ciência e Tecnologia: aprofundamento Revista C&TS Volume 4 - Número 1 - Ano 2021 as contribuições sobre a incubação em economia solidária ISSN 2236-7837
+mia. Portanto necessita-se adaptar o Canvas à modelagem de negócio referente aos empreendimentos econômicos solidários, que associa renda e gestão, ganho individual e coletivo, trabalho e emanci- pação.
+A introdução de diferentes significados aos componentes do Canvas significa estar em alinhamen- to aos princípios da economia solidária, ou seja, a prática da intercooperação, relações econômicas com sistemas de trocas alternativas e o propósito da ação voltada para o bem- viver. Isso significa que as atitudes empreendedoras para a modelagem do negócio deverão ser capazes de conectar soli- dariedade e economia.
+A aplicação de uma ferramenta que possa suscitar aos empreendimentos a reflexão de estratégias para o enfrentamento de uma lógica utilitarista em prol de uma lógica emancipatória motivou a co- -criar um Canvas para empreendimentos econômicos solidários.
+A equipe da incubadora, ao realizar a escuta sensível e valorizar os saberes populares provenientes dos membros dos empreendimentos, destacou novos elementos a serem introduzidos no formulário do Canvas.
+33
+
+Democracia, Ciência e Tecnologia: aprofundamento Revista C&TS Volume 4 - Número 1 - Ano 2021
+34
+as contribuições sobre a incubação em economia solidária
+Quadro 7. Co-criação da ferramenta de modelos de negócios para EES
+ISSN 2236-7837
+   MISSÃO História/ Trajetória do Grupo
+Qual é a
+história de sua organização? quais os acontecimentos mais marcantes?
+Propósito
+Porque a instituição existe? o que o empreendimento sabe fazer melhor?
+O que ama fazer? Com o que se importa?
+O que pretende atualmente
+VISÃO
+Atuar com solidariedade, afirmando práticas inclusivas, produtivas e criativas no mundo do trabalho.
+CENÁRIO
+Quais os três acontecimentos futuro que deseja
+Como o empreendimento se vê nos próximos cinco dez e quinze anos
+ ATIVIDADE CHAVE
+Gestão (partilhada/ colaborativa)
+Qual o maior desafio para cumprir sua missão?
+O que tem feito para atingir sua visão?
+Qual o problema que você está tentando resolver?
+Qual sua estratégia para superação os problemas ?
+Que soluções tem encontrado? Por que sua solução é melhor ou atende melhor a uma necessidade não satisfeita?
+PARCEIROS Intercooperação
+Como realiza a intercooperação com os movimentos sociais, vizinhança, comunidade local, empresários e outros empreendimentos. gestores públicos, administração da cidade, secretarias com políticas sociais inclusivas. e entidades de apoio e fomento.
+   PROPOSTA
+DE VALOR Impactos Social ambiental, cultural , econômico, financeiro
+Empreendedorismo
+Quais as competências empreendedoras tem ocorrido no empreendimento e por quais meios?
+-Liderança, iniciativa, generosidade, outros.
+Inovação
+Quais inovações o empreendimento tem realizado em relação ao produto, processo, organizacional e marketing?
+Qual o impacto disso no território?
+ CANAIS DE COMERCIALIZAÇÃO
+- SNCJS, Economia plural e Finanças Solidarias
+Quais as trocas econômicas segundo a economia plural que tem realizado?
+Trocas de produto /produto
+Produto/ serviço
+Serviço /serviço Serviço/dinheiro Produto /dinheiro
+Como desenvolve as finanças solidarias?
+Fundo rotativo solidário - Cooperativa de credito - Banco comunitário
+- Clube de trocas
+Que mercado o empreendimento tem reforçado?
+Transparência, preço justo, produto sustentável ,respeito ao meio-ambiente, baixo impacto ambiental (mercado justo e solidário)
+Quais os segmentos /usuários possuem ligação com seu empreendimento?
+- Classe social, estratificação social, nível de renda, escolarização, gênero, idade, condições de empregabilidade.
+Quem são as pessoas, instituições e outros empreendimentos que irão trocar e comprar o seu produto / serviço ou metodologia de processo ou gestão ou irão se beneficiar com essa compra e troca?
+RECURSOS CHAVES
+(CAPITAL SOCIAL)
+Quais as entidades que promove parcerias? Como estabelece a confiança, a ajuda recíproca e a cooperação e que incorporam benefícios como redução dos custos de transação, produção de bens públicos e facilitação da constituição
+de organizações de gestão de bases efetivas, de atores sociais e de sociedades civis saudáveis. Concorrentes/colaboradores/ aliados no território
+Quem são seus concorrentes?
+Quem são seus colaboradores?
+Quem são seus parceiros?
+Quem são seus aliados?
+Quem são os principais beneficiários do empreendimento
+Vendas / + marketing
+Quais são as suas vendas e seu plano de marketing?
+Como você alcança os beneficiários? Como você alcança os pagadores?
+Que tipo de relacionamento faz
+Com cada segmento de troca que estabelece?
+   EIXO TECNOLOGICO
+Tecnologia Social
+Quais os princípios das Tecnologias sociais que tem praticado no empreendimento? -relevância social; conhecimento, ciência, tecnologia, inovação educação participação, cidadania, democracia.
+ ESTRUTURA DE CUSTOS Quais são os principais fatores de custo?
+      BENEFICIO
+E GERAÇÃO DE RECEITAS
+Doações, atividade voluntaria, mutirão, trocas não mercantis e mercantis, , s versus renda aferida?
+    Fonte: elaboração Sonia M. Carvalho, 2019.
+
+Democracia, Ciência e Tecnologia: aprofundamento Revista C&TS Volume 4 - Número 1 - Ano 2021 as contribuições sobre a incubação em economia solidária ISSN 2236-7837
+A diferença em relação ao Canvas original foi a introdução nos componentes do Canvas a missão e histórico do empreendimento; o propósito conectado à proposta de valor; a apresentação de cenários e a composição de estratégias para ampliar positivamente os impactos sociais, ambientais, culturais, econômicos e financeiros. O empreendedorismo social, tecnologia social e Capital Social balizarão os canais de comercialização e a estrutura de custos e benefícios.
+Quanto aos significados dos componentes do Canvas para EES serão certificados pelos conceitos do campo da economia solidária e da tecnologia social, que estão contidos na teoria critica das ciên- cias e no dicionário internacional de Economia Solidaria.
+A proposta de aplicação do Canvas para EES é a organização de negócios cujos modelos contribu- am para a prática de uma economia que prima pelo bem viver.
+CONSIDERAÇÕES FINAIS
+A Aplicação da ferramenta Canvas teve como principal resultado mostrar a insuficiência de seus componentes para modelar negócios para empreendimentos econômicos solidários, pela necessidade de incorporar outros significados aos nove elementos e ainda introduzir dentro dos componentes da- dos que fazem parte dos princípios da economia solidária ou seja, pensar o negócio à luz dos princí- pios da solidariedade, cooperação, autogestão e viabilidade econômica.
+Outro aspecto foi incorporar na proposta de modelagem de negócio o desenvolvimento de tec- nologias tendo como referência os atributos da tecnologia social que é ser efetivamente inclusiva e para isso precisa ser de baixo custo monetário e ao mesmo tempo de alto valor agregado quanto ao impacto positivo ambiental, cultural e financeiro; associado ao fato da valorização do protagonismo comunitário, cujo conhecimento gerado possa ser de fácil aplicação e de reaplicabilidade, dado que o conhecimento gerado consegue conectar teoria e prática e saberes populares e científicos.
+Esses pressupostos determinaram as mudanças necessárias à ferramenta Canvas, de modo a apre- sentar uma visualização cujos dados apresentam um modelo de negócio que provê a proposta de uma economia com solidariedade.
+O mais importante foi a experimentação da educação popular onde ocorreram trocas de conheci- mento entre os membros da incubadora e dos empreendimentos, de modo a assegurar com maior con- fiabilidade um Canvas efetivamente aplicável aos empreendimentos econômicos solidários, balizados pela economia solidaria e os pressupostos da tecnologia social.
+.As implicações práticas dessa pesquisa foi melhorar a proposta de modelo de negócio dos grupos apoiados pela incubadora e verificar as limitações da aplicação do Canvas, com possibilidades de inserir novos componentes na análise do modelo de negócio.
+Essas reflexões trazidas aqui precisam ser ampliadas em outras esferas de discussão e aprofun- dadas por novas investigações empíricas. Uma delas poderia ser um estudo comparado dos resultados do Canvas Social a grupos de empreendimentos diferenciados, tendo como tipo ideal os pressupostos da economia solidária. Outra proposta seria validar os conceitos do campo da economia solidária a partir de sua aplicação prática. O maior desafio ainda é produzir um conhecimento novo com criação de componentes mais alinhados com a configuração de um negócio de economia solidária.
+35
+
+Democracia, Ciência e Tecnologia: aprofundamento Revista C&TS Volume 4 - Número 1 - Ano 2021 as contribuições sobre a incubação em economia solidária ISSN 2236-7837
+REFERÊNCIAS BIBLIOGRÁFICAS
+ARIC. Rindfleisch. Co-criação. University of Illinois Urbana-Champaign UIUC, Department off
+Business Administartion. 2004.
+BAVA, Caccia. S. A produção da agenda social mundial: uma discussão sobre contextos e concei- tos. In: Mitos e realidades sobre inclusão social, participação cidadã e desenvolvimento local. PGU- -AL, 2003. Disponível em: <www.polis.org.br>.
+BRASIL. CONFERENCIA NACIONAL DE ECONOMIA SOLIDARIA. 2014 CASTEL, Robert. Metamorforses da questão social. Edu. 2000
+DAGNINO, R. A anomalia da política de ciência e tecnologia. Revista Brasileira de Ciências So- ciais, v. 29, n. 86, p. 45-55, 2014.
+___. Tecnologia Social: contribuições conceituais e metodológicas. Campina Grande, PB: EDUE- PB; Florianópolis, SC: Ed. Insular, 2014. 319 p.
+___. BRANDÃO, F. C.; NOVAES, H. T. Sobre o marco analítico-conceitual da tecnologia social. In: FBB.
+FONSECA, Zilma Catarina Libania da. O movimento da tecnologia social no Brasil contemporâ- neo. 2013. 229 f. Dissertação (Mestrado Profissional em Educação Profissional em Saúde) - Funda- ção Oswaldo Cruz. Escola Politécnica de Saúde Joaquim Venâncio, Rio de Janeiro, 2013.
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. CENSO 2010
+JESUS, V. M. B.; COSTA, A. B. Tecnologia Social e Políticas Públicas. São Paulo: Instituto Pólis; Brasília: Fundação Banco do Brasil, 2013. 284 p.
+LIANZA, S.; ADDOR, F.; CARVALHO, V. F. M. Solidariedade técnica: por uma formação crítica no desenvolvimento tecnológico. In: Tecnologia e desenvolvimento social e solidário. Porto Alegre: Editora da UFRGS, 2005. p. 27-41.
+MARX, Karl. O capital. Livro 2.Volume III. Difel, 1970.
+NASCIMENTO, Daniel Teotonio; BINOTTO, Erlaine; BENINI, Elcio Gustavo. O Movimento da Tecnologia Social: uma Revisão Sistemática de seus Elementos Estruturantes entre 2007 e 2017. De- senvolve Revista de Gestão do Unilasalle, v. 8, n. 3, p. 93-111, 2019.
+NEDER, Ricardo T. A teoria Crítica de Andrew Feenberg: Racionalização democrática, poder e tecnologia. Brasília: Ed. CDS/Observatório Movimento Tecnologia Social América Latina. Cadernos Primeira Versão - Construção Social da Tecnologia número 3 (341 pp). 2010.
+36
+
+Democracia, Ciência e Tecnologia: aprofundamento Revista C&TS Volume 4 - Número 1 - Ano 2021 as contribuições sobre a incubação em economia solidária ISSN 2236-7837
+OROFINO, M.A.R. Técnicas de criação do conhecimento no desenvolvimento de modelos de negócio. 2011. 233 Dissertação (Mestrado). Centro Tecnológico, Programa de Pós-Graduação em Engenharia e Gestão do Conhecimento, Universidade Federal de Santa Catarina. Disponível em: <http://btd.egc.ufsc.br/wpcontent/uploads/2011/04/Disserta%C3%A7%C3%A3 oAugusta_ Cria%C3%A7%C3%A3o-do-Conhecimento-e-modelos-denegocio_Vers%C3%A3o31.pdf> Acesso em: jul. 2014.
+OSTERWALDER, A.; PIGNEUR, Y. Bussines Model Generation - Inovação em Modelo de Negó- cios. 1 ed. Rio de Janeiro: Alta books, 2010.
+PRAHALAD, C.K.; RAMASWAMY, V. “Co-Creation Experiences: The Next Practice in Value Cre- ation”. Journal of Interactive Marketing. Volume 18, Number 3. 2004.
+PIMENTA, Marcelo. Modelo Canvas. Estudos de caso Meu sucesso.com, 2010.
+PRESIDÊNCIA DA REPÚBLICA. SECRETARIA GERAL. Lei no 13.243, de 11 de janeiro de 2016. Dispõe sobre estímulos ao desenvolvimento científico, à pesquisa, à capacitação científica e tecnoló- gica e à inovação e dá outras providências.
+PRESIDÊNCIA DA REPÚBLICA. Casa Civil. Decreto no 7.357 de novembro de 2010. Dispõe sobre o Programa Nacional de Incubadoras de Cooperativas Populares PRONINC e dá outras providências
+SEBRAE. Cartilha o quadro de modelo de negócios, 2013. Disponível em: <http://gestaoportal. sebrae.com.br/uf/amazonas/cartilha_modelo_negocio1/cartilha_modelo_negocio> Acesso em: jun. 2014.
+SINGER, Paul. Introdução à Economia Solidária. Ed. UFR, 1998.
+TERCEIRA CONFERÊNCIA NACIONAL DE ECONOMIA SOLIDÁRIA. Construindo um Plano Nacional de Economia Solidária para promover o direito de produzir e viver de forma associativa e sustentável. 2014.
+UNIVERSIDADE DE BRASILIA. Ato da Reitoria no 882. Criação do Centro de Apoio ao Desenvol- vimento Tecnológico. 2007.
+UNIVERSIDADE DE BRASILIA. Resolução do Conselho no 0006/2020. Institui a Política de Ino- vação da Universidade de Brasília(UnB), em consonância com as diretrizes da Política Nacional de Ciência, Tecnologia e Inovação.
+37

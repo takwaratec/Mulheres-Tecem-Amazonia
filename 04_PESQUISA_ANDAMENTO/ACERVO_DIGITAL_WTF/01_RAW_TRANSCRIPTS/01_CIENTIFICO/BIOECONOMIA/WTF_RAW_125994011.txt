@@ -1,0 +1,149 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFAC/UFRR
+equipe: Gestão e Parceria Regional
+tipo: Acervo de Consulta RAW (Transcrição)
+autor: Acervo Digital Mulheres que Tecem a Floresta
+data: '2025'
+---
+Design of Rocket Stove with Computational Fluid Dynamics (CFD) Simulation
+Yotam Stefanditya1(), Felicia Maya Puspita Anastasya Kusbagyo1, Agus Kurniawan2, and Bayu Prabandono1
+1Manufacturing Design Engineering, Polytechnic ATMI Surakarta, Surakarta, Indonesia 2Industrial Mechanical Engineering, Polytechnic ATMI Surakarta, Surakarta, Indonesia
+Abstract. The rocket stove is a type of improved cooked stove that adopts an L- elbow/J-elbow shape. There are many rocket stoves on the market but the design itself only adapts in terms of shape without taking into account the design principles for wood-burning cook stoves. This study aims to analyze the design development of a rocket stove using computational fluid dynamics simulation. Development of the rocket stove design using the Product Development Method described in the book Engineering Design: A Systematic Approach. Started from task clarification to identify design requirements and specifications. Conceptual design to get a list of product concept options. Embodiment design by making a 3D rocket stove design, and simulating each 3D design using computational fluid dynamics (CFD). The result of this study is the identification of development needs for rocket stoves based on the design principles of wood stoves. CFD simulation results regarding the addition of insulation and pot skirt repairs show that the temperature leaving the combustion chamber has increased from 374.91°C to 452.94°C. The results of this study could be used to improve the performance of wood stoves. Wood stoves become more efficient when used for daily activities such as cooking.
+Keywords: Rocket stove, simulation, computational fluid 1 Introduction
+The traditional wood stove which in Javanese society is known as Pawon is usually made of stone, brick, etc with a hole in the front for firewood input [1]. The thermal efficiency of traditional wood stoves is only about 15% [2] and air pollution due to the use of wood stoves reaches 31.23% [3]. Recently, to improve efficiency, many traditional stoves have been developed and are known as the improved cook stove.
+One of the popular improved cook stove designs is the rocket stove. The rocket stove has an “L elbow or J-elbow” shape, this shape makes the user more familiar to operate the stove. The rocket stove itself has undergone many developments. However, the de- sign of the rocket stove only adapts in terms of shape without taking into account the design principles for wood-burning cook stoves [4]. The design process of cook stove
+© The Author(s) 2023
+M. Setiyo et al. (eds.), Proceedings of the 4th Borobudur International Symposium on Science and Technology 2022 (BIS-STE 2022), Advances in Engineering Research 225,
+https://doi.org/10.2991/978-94-6463-284-2_3
+ 
+Design of Rocket Stove with Computational Fluid Dynamics (CFD) Simulation 13
+has evolved significantly. from trial and error becoming simulation analysis such as finite element analysis and computational fluid dynamics [5].
+Computational fluid dynamics (CFD) is an analytical method that produces quanti- tative predictions of fluid flow phenomena. CFD analysis is able to carry out simula- tions and produces predictions of fluid flow and heat transfer that occur inside the stove, with various changing parameters. This allows experiments to be carried out with var- ious parameters to obtain the most optimal wood stove design [6].
+Based on this background, rocket stoves need to be further investigated to obtain designs that are in accordance with the design principles of wood stoves to improve stove performance. Development of a rocket stove design using the Product Develop- ment Method described in the book Engineering Design: A Systematic Approach by Gerhard Pahl and Wolfgang Beitz. To find out the increase in stove performance re- sulting from the development, a computational fluid dynamics simulation will be run using SOLIDWORKS Flow Simulation.
+2 Method
+2.1 Rocket Stove Spesification
+The rocket stove developed in this research uses an existing rocket stove that is already on the market. The existing rocket stove is made of steel with a thickness of 2.3mm, 3kg weight, and an approximate size of 30 x 28 x 60 cm, and also has an inclined chimney as firewood input (Fig. 1).
+Fig. 1. Rocket Stove
+ 
+14 Y. Stefanditya et al.
+2.2 Product Development Stage
+Process designs of rocket stoves using the product development method described in the book Engineering Design: A Systematic Approach by Gerhard Pahl and Wolfgang Beitz [7]. The product development process consists of 3 steps: Planning & Task Clarification, Conceptual Design, & Embodiment Design (Fig. 2)
+2.3 Computational Fluid Dynamics Simulation
+After obtaining the appropriate design, Computational Fluid Dynamics Simulation was run using SOLIDWORK flow simulation software. CFD simulation is used to predict the heat transfer in the developed rocket stove design.
+Task
+Market, company, environment
+Requirements list (Design specification)
+Principle solution (Concept)
+Preliminary layout
+Definitive layout
+Product documentation
+Solution
+Fig. 2. Steps in the planning & design process
+      Detail design Embodiment design Conceptual design Planning & task clarification
+  Plan and clarify the task:
+Analyse the market and the company situation Find and select product ideas
+Formulate a product proposal
+Clarify the task
+Elaborate a requirements list
+   Develop the principle solution:
+Identify essential problems
+Establish function structures
+Search for working principles and working structures Combine and firm up into concept variants
+Evaluate against technical and economic criteria
+ Upgrade and improve
+   Develop the construction structure:
+Preliminary from design, material selection and calculation Select best preliminary layouts
+Refine and improve layouts
+Evaluate against technical and economic criteria
+  Define the construction structure:
+Eliminate weak spots
+Check for errors, disturbing influences and minimum cost
+Prepare the preliminary parts list and production and assembly documents
+    Prepare production and operating documents:
+Elaborate detail drawings and parts lists
+Check all documents
+Complete production, assembly, transport and operating instructions
+                       Information: Adapt the requirments list
+                                                            
+Design of Rocket Stove with Computational Fluid Dynamics (CFD) Simulation 15
+3 Result and Discussion
+3.1 Planning and Task Clarification
+First step of product development is Planning and Task Clarification. Identification of development needs required for existing rocket stove design is carried out by referring to The Design Principles for Wood Burning Cook Stoves book [4]. Identification results show that the principle of insulation is not owned by the existing rocket stove and also it does not take into account the size of the size gap.
+3.2 Conceptual Design
+From the previous step, it is known that the insulation needs to be developed. The Con- ceptual Design step was passed to determine the most appropriate type of insulation from the various options available. Various insulation options are assessed from tech- nical and economic evaluation with a rating scale of 1-4 (Table 1 and Table 2). The scale value is based on the level of suitability of the function to the solution, a value of 1 means very inappropriate and a value of 4 means very suitable. The assessment results show that the alternative insulation made from ceramic fiber has been selected.
+Table 1. Technical Evaluation of Insulation Variants
+     No
+1 2 3 4
+No
+1 2 3
+Function
+Simple Construction
+Ease of manufacturing process Thermal conductivity
+Space Requirements
+Solution I Glass Fiber
+3 3 4 3
+Solution II Ceramic Fiber
+3 3 3 4
+Solution III Polyurethane
+3 2 1 3 9 0.63
+Solution III Polyurethane
+1 3 3
+     Total 13 13 Score = Total / 16 0.81 0.81
+Table 2. Economic Evaluation of Insulation Variants
+     Function
+Low cost of components Ease of purchase
+Low manufacturing costs
+Solution I Glass Fiber
+1 3 3
+Solution II Ceramic Fiber
+3 3 3
+    Total 7 9 7 Score = Total / 12 0.58 0.75 0.58
+ 
+16 Y. Stefanditya et al.
+3.3 Embodiment Design
+The selected insulation material is then made into a 3D CAD design in the embodiment design step. Insulation with ceramic fiber material is added around the outer wall of the stove combustion chamber. The thickness of the insulation is 30 mm, adjusting the thickness of the finished material on the market, and we also changed the design of the existing pot skirt (Fig. 3).
+Fig. 3. Developed Rocket Stove with Insulation 3.4 Computational Fluid Dynamics Simulation
+CFD simulations was run on the existing design and the modified design to see if there was an impact on the performance stove. The CFD simulation was run with the assump- tion that the combustion process is a stream of hot air [8]. The boundary conditions that were run in this simulation could be seen in Fig. 4. The heat source is at the base of the stove above the grate with a temperature setting of 700°C which is determined based on the results of the temperature range in the experiment. The heat source is set at the end of the firewood according to the original state. The type of rocket stove is a natural draft, the air velocity at the inlet is regulated at 0.3 m/s and the air temperature is 30°C [9]. The air flowing into the combustion chamber touches the flame and then heads up the bottom of the pan and exits through the sides of the pan. Hot air output (outlet) is regulated as environmental pressure with a value of air pressure is 101325 Pa and air temperature is 30°C.
+The results of the CFD simulation are visualization of heat distribution that occurs in the stove. Warm and hot areas are marked in orange and red, and areas with low temperatures are marked with green to blue. To see the value in this simulation we take 5 sections on the stove and measure the temperature, starting from the upper surface of the flame, the lower, middle, and upper chimney, and the area under the pan (Fig. 5). Data from CFD simulation results on the existing design and the modified design rocket stove are summarized in Table 3.
+ 
+Design of Rocket Stove with Computational Fluid Dynamics (CFD) Simulation 17
+ Fig. 4. Boundary Condition in CFD Simulation
+ Fig. 5. Boundary Condition in CFD Simulation Table 3. Result of Surface Temperature Measurement
+    No Surface Temperature Measurement
+1 Combution area
+2 Lower chimney
+3 Central chimney
+4 Upper chimney
+5 Under the pot
+Temperature changes (%)
+Before
+493.06°C 411.48°C 408.35°C 417.82°C 374.91°C 53.56%
+After
+525.68°C 468.61°C 469.13°C 476.25°C 452.94°C 64.71%
+     
+18 Y. Stefanditya et al.
+4 Conclusion
+According to the research that has been done, it can be concluded: The design develop- ment of the rocket stove by adding insulation made of ceramic fiber with a thickness of 30 mm surrounds the outer wall of the combustion chamber of the stove and fixing the pot skirt can improve the stove performance. Computational Fluid Dynamics Simula- tion show that modified stoves can increase stove performance by up to 11.15 %.
+Acknowledgements. Thank you to Politeknik ATMI Surakarta, especially to Manu- facturing Design Engineering Study Program for funding this research so that this re- search can be completed properly and the results can be useful for the general public.
+References
+1. Srisunarni,N.3ManfaatMemasakMenggunakanTungkuKayu,SalahSatunyaJadiLebih Sedap Available online: https://yoursay.suara.com/lifestyle/2022/02/28/154731/3-manfaat- memasak-menggunakan-tungku-kayu-salah-satunya-jadi-lebih-sedap (accessed on 28 February 2022).
+2. Memon, S.A.; Jaiswal, M.S.; Jain, Y.; Acharya, V.; Upadhyay, D.S. A Comprehensive Review and a Systematic Approach to Enhance the Performance of Improved Cookstove (ICS). J. Therm. Anal. Calorim. 2020, 141, 2253–2263, doi:10.1007/s10973-020-09736-2.
+3. Syaaf,S.PenggunaKayuBakarUntukMemasakMasihTinggiDiIndonesia.
+4. Bryden,M.;Still,D.;Scott,P.;Hoffa,G.;Ogle,D.;Bailis,R.;Goyer,K.DesignPrinciples
+for Wood Burning Cookstoves; 2006;.
+5. Makonese, T.; Bradnum, C.M. Design and Performance Evaluation of Wood-Burning
+Cookstoves for Low-Income Households in South Africa. J. Energy South. Africa 2018, 29,
+1–12, doi:10.17159/2413-3051/2018/V29I4A4529.
+6. Matsson,J.AnIntroductiontoSolidWorksFlowSimulation2019;2019;.
+7. Pahl,G.;Beitz,W.;Feldhusen,J.;Grote,K.H.EngineeringDesign:ASystematicApproach;
+Springer London, 2007; ISBN 1846283183.
+8. Okino,J.;Komakech,A.J.;Wanyama,J.;Ssegane,H.;Olomo,E.;Omara,T.Performance
+Characteristics of a Cooking Stove Improved with Sawdust as an Insulation Material. J.
+Renew. Energy 2021, 2021, 9969806, doi:10.1155/2021/9969806.
+9. Agyei-Agyemang,A.;Commeh,M.K.;Tawiah,P.O.;Asaaga,B.A.NumericalModelingof
+a Hot Plate Stove for Peanut Roasting. J. Eng. (United Kingdom) 2022, 2022, doi:10.1155/2022/9523767.
+
+Design of Rocket Stove with Computational Fluid Dynamics (CFD) Simulation 19
+Open Access This chapter is licensed under the terms of the Creative Commons Attribution- NonCommercial 4.0 International License (http://creativecommons.org/licenses/by-nc/4.0/), which permits any noncommercial use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made.
+The images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.

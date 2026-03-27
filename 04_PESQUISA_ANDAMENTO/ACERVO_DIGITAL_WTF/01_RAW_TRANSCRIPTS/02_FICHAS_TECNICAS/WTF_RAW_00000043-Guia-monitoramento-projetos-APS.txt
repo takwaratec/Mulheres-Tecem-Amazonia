@@ -1,0 +1,726 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFAC/UFRR
+equipe: Gestão e Parceria Regional
+tipo: Acervo de Consulta RAW (Transcrição)
+autor: Acervo Digital Mulheres que Tecem a Floresta
+data: '2025'
+---
+PRODUÇÃO
+         
+ Publicação produzida no âmbito do Projeto “Cooperação com o Fundo Amazônia/ BNDES” pela Cooperação Alemã para o Desenvolvimento Sustentável, representada pela Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH.
+Rio de Janeiro, 2020
+
+ SUMÁRIO
+APRESENTAÇÃO 4
+1. MONITORAMENTO DE EFETIVIDADE DE PROJETOS:
+CONCEITOS BÁSICOS 5 1.1. O que é monitoramento de projetos? 6 1.3. Indicadores 10 1.4. Marco zero (linha de base) e metas 11 1.5. Monitoramento da equidade de gênero e da inclusão social 11 1.6. Elementos do Quadro de Resultados do Fundo Amazônia 12
+2. MONITORAMENTO DE EFETIVIDADE DE PROJETOS DE
+PRODUÇÃO SUSTENTÁVEL 18 2.1. Agregação de indicadores 20 2.2. Indicadores de efetividade 21 2.3. Indicadores de eficácia 26
+3. COMO RELATAR EFICÁCIA E EFETIVIDADE 28
+4. FICHAS ORIENTADORAS 31
+4.1. Ficha orientadora: faturamento (produtos in natura e beneficiados ou serviços) 32 4.2. Ficha orientadora: área de floresta manejada 34 4.3. Ficha orientadora: aplicação dos conhecimentos adquiridos 35 4.4. Ficha orientadora: desenvolvimento organizacional 38 4.5. Ficha orientadora: áreas reflorestadas ou recuperadas 41 4.6. Definição do tamanho de uma amostra 42
+5. CONCLUSÃO 43
+6. PARA SABER MAIS 46
+7. MODELO DE QUADRO DE RESULTADOS (QR) PARA PROJETOS
+DE PRODUÇÃO SUSTENTÁVEL 48
+8. REFERÊNCIAS 51
+
+ APRESENTAÇÃO
+O Fundo Amazônia apoia ações de prevenção, monitoramento e combate ao desmatamento, assim como promove a conservação e o uso sustentável dos recursos naturais na Amazônia Legal. O fundo apoia projetos que promovem práticas de produção pautadas na exploração sustentável dos recursos naturais, geram renda para os produtores, estruturam cadeias de valor para produtos importantes da Amazônia, bem como ampliam as áreas reflorestadas a partir da implantação de sistemas agroflorestais (SAFs) que visam ganhos econômicos, sociais e ecológicos.
+Esse guia foi formulado no âmbito do projeto de cooperação entre a Deuts- che Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH e o Fundo Amazônia/BNDES, tendo como objetivos: (i) fornecer orientação sobre o mo- nitoramento e a avaliação de impactos de projetos apoiados pelo Fundo Ama- zônia que promovam a produção sustentável; e (ii) qualificar a relatoria anual e final desses projetos, podendo ser utilizado como uma ferramenta adicional de avaliação de impactos das ações das organizações da sociedade civil e ins- tituições governamentais que executam esses projetos.
+O guia apresenta um conjunto de indicadores padronizados para projetos de produção sustentável, que são apresentados após uma breve introdução conceitual ao tema de monitoramento e avaliação de projetos e programas.
+ 
+ 1.
+01.
+ MONITORAMENTO DE EFETIVIDADE
+DE PRO
+JETOS: CO
+NCEITOS BÁSICOS
+                    
+ MONITORAMENTO DE EFETIVIDADE DE PROJETOS: CONCEITOS BÁSICOS
+1.1. O que é monitoramento de projetos?
+Projetos surgem a partir do desejo de mudar uma realidade. Dentro da capacidade dos atores envolvidos, são definidos objetivos e metas a serem alcançados e são investidos recursos financeiros e humanos.
+As mudanças em decorrência de tais intervenções são denominadas efeitos. Efeitos podem ser desejados ou não desejados, diretos e indiretos, positivos ou negativos. Na medida em que é possível traçar uma relação causal entre os insumos fornecidos, as atividades realizadas e uma mudança como consequên- cia, é possível identificar os impactos de um projeto. Impactos podem ocorrer tanto ao longo da execução como após o término do projeto1.
+O monitoramento é um processo de observação das mudanças ocorridas com a implementação de um projeto, em que se verifica o progresso feito na aplicação dos recursos disponíveis e na execução das atividades planejadas, além dos efeitos diretos e indiretos da execução do projeto. No caso do pre- sente guia, o foco é o monitoramento de efeitos resultantes dos projetos, ou seja, sua efetividade.
+O monitoramento é realizado com a finalidade de:
+• Acompanhar como os recursos (financeiros, humanos e outros) devem ser distribuídos ou redistribuídos ao longo do projeto para obter os resultados desejados;
+• Implementar medidas para corrigir o andamento do projeto ou programa, caso necessário;
+• Obter as informações necessárias para poder relatar sobre efi- cácia e efetividade nos relatórios de desempenho do projeto (elaborados ao longo de sua implementação) e para a elaboração de seu relatório final;
+• Recolher informações que possam ser usadas no processo de avaliação do projeto individual e do programa no qual esteja inserido; e.
+• Avaliar se os objetivos e as metas definidas estão sendo alcan- çados.
+1 Impactos levantados após o término de um projeto são analisados em avaliações ex post. Para mais informações sobre esse tema, veja o documento denominado Marco Conceitual de Avaliação de Efetividade dos Projetos Apoiados pelo Fundo Amazônia, publicado na página do Fundo na internet: http://www.fundoamazonia.gov.br/export/sites/default/pt/.galleries/ documentos/monitoramento-avaliacao/FA_Marco_Conceitual_Avaliacao_Efetividade_ Projetos_2016.pdf
+ MONITORAMENTO DE EFETIVIDADE DE PROJETOS: CONCEITOS BÁSICOS
+    Aprendizagem
+Preparação/ Planejamento Estratégico
+Planejamento operacional
+Ciclo de Projeto
+Avaliação Execução
+Gestão Monitoramento
+ Figura 1. Ciclo de projeto. Fonte: GIZ
+As fases de um projeto envolvem o planejamento estratégico, que conceitua o projeto; o planejamento operacional, que ocorre periodicamente; a gestão e o monitoramento, que verificam se as metas estão sendo cumpridas e se os efeitos (as mudanças) desejados estão ocorrendo ou não.
+Os dados dos indicadores para monitoramento são coletados e analisados continuamente. A análise (Figura 1) de tais dados provoca decisões de ges- tão, como a necessidade de adaptação das atividades, assim como decisões estratégicas. Os produtos do monitoramento fomentam aprendizagem aos executores e permitem uma avaliação, baseada em evidências dos impactos causados pelo projeto.
+Este guia pretende contribuir com a observação da efetividade resultante dos projetos de apoio à produção sustentável, de maneira sistemática e em bases comparáveis, de forma a colaborar para:
+a) a qualidade da própria execução dos projetos; e
+b) a relatoria periódica e final da efetividade alcançada pelos projetos ao Fundo Amazônia e ao público em geral.
+1.2. Gestão por resultados
+Devido ao foco nas mudanças alcançadas por um projeto, o monitoramen- to é atrelado a uma gestão focada em resultados. Esse termo tem sido cada vez mais empregado com o objetivo de elevar o desempenho organizacional.
+ Objetivo geral do Fundo Amazônia
+Somatório dos objetivos específicos dos projetos
+Objetivo específico do projeto
+Cadeia de resultados
+Efeitos indiretos agregados
+Efeitos diretos agregados
+Efeito direto do projeto
+Qual é a mudança de médio/longo prazo pretendida?
+O que deseja alcançar a curto prazo?
+O que é produzido/entregue?
+O que é realizado?
+O que é necessário para realizar o que desejamos?
+MONITORAMENTO DE EFETIVIDADE DE PROJETOS: CONCEITOS BÁSICOS
+A gestão por resultados baseia-se no planejamento estratégico, na pactuação de objetivos e metas e na conversão de intenções estratégicas em resultados palpáveis.
+Entende-se que a gestão por resultados estabelece hierarquização das mudanças, que são representadas em “cadeia”, gerada a partir do modelo ela- borado, conforme demonstrado a seguir (Figura 2):
+        Produtos e serviços Atividades
+Insumos
+(recursos $$$, humanos etc)
+Figura 2. Cadeia de resultados com hierarquização (Adaptado do Manual  ̈Results Mana- gement in Norwegian Development Cooperation”)
+No caso de diversos projetos com efeitos esperados (objetivos) afins é importante levar em consideração os indicadores de efetividade agregados (conceito explicado na seção 2.1). Eles possibilitam analisar os efeitos integrados de vários projetos, que podem ser entendidos como um programa.
+No contexto dos projetos de apoio à produção sustentável, por exemplo, os efeitos esperados em longo prazo são “atividades que mantêm a floresta em pé têm atratividade econômica” e que ocorra a “redução do desmatamento anual” na região/nos municípios XY ̈ a partir da ampliação da área de floresta manejada e da renda gerada por essas atividades. Medir esses resultados por meio de indicadores agregados é a melhor forma de demonstrar a efetividade.
+Tais indicadores contribuem, mas não são suficientes, para o alcance do objetivo geral do Fundo Amazônia, a saber: “redução do desmatamento com desenvolvimento sustentável na Amazônia Legal”. Para atingir esse objetivo ge- ral, o Fundo Amazônia apoia projetos não só no eixo de produção sustentável,
+ MONITORAMENTO DE EFETIVIDADE DE PROJETOS: CONCEITOS BÁSICOS
+mas também em três outros eixos: monitoramento e controle do desmatamento; ordenamento territorial; e ciência, inovação e instrumentos econômicos2.
+Efeitos diretos são resultados alcançados em curto ou médio prazo e definem o que se pretende mudar e alcançar com o projeto. No contexto dos projetos de apoio à produção sustentável, os efeitos diretos são:
+• Atividades econômicas de uso sustentável da floresta e da biodiversidade identificadas e desenvolvidas (ex. extrativismo/ armazenagem/logística);
+• Cadeias dos produtos agroflorestais e da biodiversidade com valor agregado ampliado (ex. beneficiamento/industrialização/ certificação/comercialização);
+• Capacidades gerenciais e técnicas ampliadas; e
+• Áreas desmatadas e degradadas recuperadas e utilizadas para fins econômicos e de conservação ecológica (e.g. sistemas agro- florestais).
+Ou seja, efeitos diretos são consequências dos produtos e serviços ela- borados no âmbito do projeto. Neles, é incluído o uso dos produtos e serviços pelo público-alvo de um projeto. No caso dos projetos de apoio à produção sustentável, exemplos de efeitos esperados podem ser:
+• Indivíduos capacitados efetivamente utilizando os conhecimen- tos adquiridos
+• Receita ampliada com o beneficiamento e comercialização de produtos da sociobiodiversidade
+Produtos e serviços gerados descrevem quais foram as mudanças dire- tamente alcançadas pelas atividades que este realizou. Pode se tratar de bens, serviços, conhecimentos ministrados, normatizações e regulamentos elaborados, entre outros. Exemplos de produtos e serviços gerados por projetos de apoio à produção sustentável são:
+• Agroindústria de beneficiamento de açaí e cupuaçu reformada e ampliada;
+• Cursos de capacitação em técnicas agroflorestais realizados;
+• Viveiro de espécies nativas e frutíferas implantado.
+Atividades são as ações desenvolvidas para a entrega de um determina- do produto ou serviço. Insumos são os recursos financeiros, humanos e outros necessários para a execução das atividades do projeto.
+2 Ver o documento “Quadro Lógico do Fundo Amazônia - 2017”, no website do Fundo Amazônia: http://www.fundoamazonia.gov.br/export/sites/default/pt/.galleries/documentos/monitoramento- avaliacao/FA_Quadro_Logico_2017.pdf
+ MONITORAMENTO DE EFETIVIDADE DE PROJETOS: CONCEITOS BÁSICOS
+1.3. Indicadores
+Um indicador é uma forma de tornar um objetivo claro e tangível. O monitoramento por meio de indicadores permite analisar os resultados de um projeto (ou programa) de forma direta, afastando conjecturas com fundamento não verificável.
+Além disso, utilizar perguntas orientadoras que expressem as necessidades dos atores é fundamental para a análise e a avaliação de efetividade. Os indicadores ajudam a responder às perguntas orientadoras.
+As perguntas orientadoras apoiam a definição de indicadores objetivamente com- prováveis e a identificação dos instrumentos capazes de captar o conteúdo para os indicadores e gerar dados e informações em busca de respostas. Assim, sintetizam informações que possibilitam o entendimento de alguns aspectos da realidade.
+Exemplos para perguntas orientadoras:
+• Quando e como percebemos que a mudança desejada ocorreu ou não?
+• Quais são os aspectos chaves referentes aos efeitos desejados? Quais são aspectos secundários?
+• Que informações concretas são necessárias para saber se houve pro- gresso ou evolução? Quem possui esse tipo de dados e informações?
+• Que métodos precisamos aplicar para conseguir informações de que a mudança ocorreu da forma desejada?
+• Qual a relação custo-benefício entre o esforço de levantar as informa- ções necessárias e a qualidade (conteúdo) destas?
+Na formulação de indicadores deve-se considerar o método SMART, que define algumas premissas para sua elaboração, sintetizadas em cinco itens:
+S
+M
+A
+R
+T
+  Específicos (Specific) – claros, concisos, tangíveis Mensuráveis (Measurable) – capazes de serem medidos
+(tempo, dinheiro, volume etc.)
+    Atingíveis (Attainable) – viáveis em termos de recursos, tempo e domínio técnico
+  Relevantes (Realistic) – expressam a condição final desejada
+  Temporalmente delimitados (Time bound) – possuem datas definidas para início, realização, conclusão
+Quadro 1. Premissas para indicadores elaborados com método SMART.
+ MONITORAMENTO DE EFETIVIDADE DE PROJETOS: CONCEITOS BÁSICOS
+No mais, é aconselhável:
+• Definir uma ou mais fontes de comprovação para o levantamen- to de dados, que ajudam a definir se a meta de um indicador foi alcançada.
+• Identificar mudanças que podem ser demonstradas de forma quantitativa ou qualitativa:
+o Quantitativa: envolve variáveis mensuráveis (receita, área, volume, quantidade etc.), cujo desenvolvimento será obser- vado ao longo do tempo;
+o Qualitativa: informa sobre avaliações, opiniões e mensura “fatos” como, por exemplo, satisfação e confiança.
+Por fim, é recomendável combinar vários indicadores (quantitativos e qualitativos) que visam à mesma mudança desejada.
+1.4. Marco zero (linha de base) e metas
+Os indicadores vão medir as mudanças que o projeto proporcionou. Para cada indicador deve ser definido um marco zero (também chamado de baseline ou linha de base). O marco zero pode ser entendido como a condição inicial de determinado indicador ou projeto, ou seja, a situação imediatamente anterior ao início da execução de um projeto, fornecendo a base para:
+• determinar e verificar metas realistas e desafiadoras;
+• compreender os progressos alcançados;
+• medir as mudanças em comparação com a situação anterior ao projeto;
+• apoiar avaliações posteriores.
+Uma vez que o marco zero é estabelecido, as metas devem ser definidas. Ambos devem estar claramente alinhados com o indicador, usando a mesma unidade de medida. Os valores dos indicadores podem ser medidos ao longo da execução e na finalização do projeto.
+1.5. Monitoramento da equidade de gênero e da inclusão social
+Os projetos de produção sustentável apoiados pelo Fundo Amazônia são em si uma estratégia de inclusão social, na medida em que definem como
+ MONITORAMENTO DE EFETIVIDADE DE PROJETOS: CONCEITOS BÁSICOS
+beneficiários preferenciais povos indígenas e outras comunidades tradicionais, assentados da reforma agrária e agricultores familiares. Mas, mesmo dentro desses grupos, ainda é possível avançar nas ações indutoras da equidade de gênero e inclusão social na gestão de projetos.
+Essa perspectiva está relacionada a algumas perguntas fundamentais:
+• Como se pode incentivar o acesso igualitário aos recursos e aos benefícios dos projetos?
+• Como contribuir para a identificação e a superação de barreiras existentes que impedem a participação igualitária de homens / mulheres / povos indígenas?
+Para um monitoramento sensível à equidade de gênero e à inclusão social, é necessário considerar essas questões já na fase de planejamento e determinar indicadores específicos que orientem o monitoramento. Há duas opções para abordar assuntos de gênero e inclusão social nos indicadores:
+• Indicadores que incluem um componente de gênero e um de inclusão social; e
+• Indicadores que lidem diretamente com a equidade de gênero ou inclusão social como objetivo principal do projeto.
+É importante coletar, analisar e apresentar os dados de uma forma que permita a desagregação com recorte de gênero e grupo social, como no exem- plo a seguir:
+Desagregação de dados no relatório de desempenho ou resultados
+• Dos indivíduos capacitados, um total de 120 utiliza efetivamente os conhecimentos adquiridos, dentre os quais 42 são mulheres e 87 são indígenas.
+• Das pessoas capacitadas, 120 utilizam efetivamente os conhecimentos adquiridos, dentre as quais, 42 são mulheres e 87 são indígenas.
+1.6. Elementos do Quadro de Resultados do Fundo Amazônia
+O monitoramento é um processo que envolve diversas etapas e atores. O Fundo Amazônia adota para o monitoramento dos projetos que apoia uma
+ MONITORAMENTO DE EFETIVIDADE DE PROJETOS: CONCEITOS BÁSICOS
+ferramenta desenvolvida pelo BNDES denominada Quadro de Resultados (QR)3. O QR dos projetos individuais apresenta: (i) os objetivos (efeitos diretos), em termos de resultados para os quais o projeto contribuirá; (ii) o valor do finan- ciamento associado a cada objetivo; e (iii) os indicadores de eficácia (produtos e serviços) e de efetividade (efeitos esperados) a serem monitorados4.
+Criar uma estratégia de monitoramento a partir dos indicadores de um QR significa definir a frequência da medição, as fontes de dados e os atores envolvidos. Nesse tópico, os modelos do Fundo Amazônia são usados como referência e trazem como indicação:
+• Na fase de elaboração do projeto: apresentar uma proposta mais geral, mas com foco claro nos produtos e serviços a serem entregues e os efeitos esperados, que serão monitorados com indicadores de eficácia e de efetividade.
+• Na análise do projeto: proponente do projeto e a equipe do Fundo Amazônia pactuam o QR do projeto.
+• Na implementação do projeto: envio dos dados (medição) dos indicadores do QR do projeto apoiado pelo responsável por sua execução, junto com os relatórios periódicos de desempenho e, ao final do projeto, com o relatório de avaliação de resultados do projeto.
+Planejar o monitoramento durante a etapa de análise do projeto possibilita abrir espaço para o diálogo e a negociação entre os proponentes e o Fundo Amazônia. Observa-se que todos os projetos apoiados pelo devem estar ali- nhados com seu quadro lógico5.
+O objetivo geral definido para o Fundo Amazônia é “redução do desma- tamento com desenvolvimento sustentável na Amazônia Legal”. Na definição desse objetivo, convergiu-se para uma proposição resumida e focada na Ama- zônia Legal, incluindo a possibilidade de o Fundo apoiar o desenvolvimento de sistemas de monitoramento e controle do desmatamento em outras regiões do Brasil e em outros países tropicais.
+No estabelecimento dos efeitos indiretos a serem atingidos pelo Fundo Amazônia adotou-se como ponto de partida as sete áreas temáticas definidas
+3 Essa ferramenta simplificada passou a ser adotada para os projetos apoiados a partir de 2018. Anteriormente era utilizada a metodologia do quadro lógico ou plano de monitoramento princi- palmente em programas operacionais. A adoção do QR para os projetos individuais facilitará a digitalização do processo de seu monitoramento, com ganhos de eficiência e qualidade.
+4 O QR tomado como referência para a elaboração dos QRs individuais pode ser conferido no website do Fundo Amazônia: http://www.fundoamazonia.gov.br/pt/monitoramento-e-avaliacao/
+5 http://www.fundoamazonia.gov.br/export/sites/default/pt/.galleries/documentos/monitoramento- avaliacao/FA_Quadro_Logico_2017.pdf
+ MONITORAMENTO DE EFETIVIDADE DE PROJETOS: CONCEITOS BÁSICOS
+no Decreto n° 6.527/2008, a saber: (i) gestão de florestas públicas e áreas protegidas; (ii) controle, monitoramento e fiscalização ambiental; (iii) manejo florestal sustentável; (iv) atividades econômicas desenvolvidas a partir do uso sustentável da vegetação; (v) zoneamento ecológico e econômico, ordenamen- to territorial e regularização fundiária; (vi) conservação e uso sustentável da biodiversidade; e (vii) recuperação de áreas desmatadas.
+As áreas temáticas do Fundo Amazônia, conforme definidas por esse mesmo Decreto, contribuem para todos os eixos do PPDCAM, que são: (i) “Fo- mento às Atividades Produtivas Sustentáveis”, (ii) “Monitoramento e Controle”, (iii) “Ordenamento Fundiário e Territorial” e (iv) “Instrumentos Normativos e Econômicos”.
+Tendo em vista a amplitude das áreas de atuação do Fundo Amazônia, seu quadro lógico também foi estruturado em quatro componentes, conforme figura a seguir (Quadro 2). Cabe mencionar que foi dado destaque à questão da ciência, tecnologia e inovação na elaboração do quadro lógico, por se tratar de questão estratégica e transversal a todas as componentes do Fundo, e foi incorporada a utilização de instrumentos econômicos, a partir da 4a. Fase do PPCDAm (2016 a 2020).
+  Objetivo geral
+Efeitos indiretos
+Lógica de intervenção
+Redução do desmatamento com desenvolvimento sustentável na Amazônia Legal
+  Componente 1
+Atividades que mantêm a floresta em pé têm atratividade econômica
+ Componente 2
+Ações governamentais asseguram a adequação de atividades antrópicas à legislação ambiental
+ Componente 3
+Área da Amazônia Legal está ordenada territorialmente
+ Componente 4
+Instrumentos econômicos e atividades de ciência, tecnologia e inovação contribuem para a recuperação,
+a conservação e o uso sustentável da biodiversidade
+Quadro 2. Lógica de intervenção do Fundo Amazônia.
+No quadro a seguir (Quadro 3), pode ser conferida a árvore de objetivos do Fundo Amazônia, com o objetivo geral, as quatro componentes, os efeitos diretos e indiretos do conjunto dos projetos apoiados. Nesse guia de monito- ramento de impactos, serão abordados somente indicadores definidos para projetos de produção sustentável, detalhadamente os seus efeitos diretos, com referência aos indicadores de eficácia (produtos e serviços).
+ MONITORAMENTO DE EFETIVIDADE DE PROJETOS: CONCEITOS BÁSICOS
+ÁRVORE DE OBJETIVOS DO FUNDO AMAZÔNIA
+ OBJETIVO GERAL
+Redução do desmatamento com desenvolvimento sustentável na Amazônia Legal
+     Componente Produção Sustentável
+EFEITO INDIRETO DOS PROJETOS (1)
+Atividades que mantêm a floresta em pé têm atratividade econômica
+EFEITOS DIRETOS DOS PROJETOS
+1.1 - Atividades econômicas de uso sustentável da floresta e da biodiversidade identificadas e desenvolvidas
+1.2 - Cadeias dos produtos agroflorestais e da biodiversidade com valor agregado ampliado
+1.3 - Capacidades gerencial e técnica ampliadas para a implementação de atividades econômicas de uso sustentável da floresta e da biodiversidade
+1.4 - Áreas desmatadas e degradadas recuperadas e utilizadas para fins econômicos e de conservação ecológica
+Componente Monitoramento e Controle
+EFEITO INDIRETO DOS PROJETOS (2)
+Ações governamentais asseguram a adequação de atividades antrópicas à legislação ambiental
+EFEITOS DIRETOS DOS PROJETOS
+2.1 Instituições de monitoramento, controle e responsabilização ambiental estruturadas e modernizadas
+2.2 Acesso ampliado dos produtores rurais à regularização ambiental de suas propriedades
+Componente Ordenamento Territorial
+EFEITO INDIRETO DOS PROJETOS (3)
+Área da Amazônia Legal está ordenada territorialmente
+EFEITOS DIRETOS DOS PROJETOS
+3.1 Florestas públicas e áreas protegidas ampliadas
+3.2 Áreas protegidas com infraestrutura, proteção territorial e gestão consolidada
+3.3 Áreas de terras com situação fundiária regular ampliadas
+3.4 Áreas de terras com organização do território definida através do zoneamento ecológico-econômico (ZEE) ampliadas
+Componente Ciência, Inovação e Instrumentos Econômicos
+EFEITO INDIRETO DOS PROJETOS (4)
+Instrumentos econômicos e atividades de ciência, tecnologia e inovação contribuem para a recuperação, a conservação e o uso sustentável da biodiversidade
+EFEITOS DIRETOS DOS PROJETOS
+4.1 Conhecimentos e
+tecnologias voltados para a conservação e o uso sustentável da biodiversidade, o monitoramento e controle do desmatamento e o ordenamento territorial produzidos, difundidos e utilizados
+4.2 Instrumentos econômicos voltados para a conservação e o uso sustentável da biodiversidade, o monitoramento e controle do desmatamento e o ordenamento territorial desenvolvidos, difundidos e utilizados
+        Quadro 3. Quadro Lógico do Fundo Amazônia / Árvore de Objetivos.
+ MONITORAMENTO DE EFETIVIDADE DE PROJETOS: CONCEITOS BÁSICOS
+Os seguintes elementos devem compor um QR:
+• Objetivos (efeitos diretos): no caso de projetos de produção sustentável os objetivos devem ser selecionados a partir dos quatro efeitos diretos previstos na componente “produção sus- tentável” do quadro lógico do Fundo Amazônia (ver Figura 1). Os efeitos diretos definem as mudanças que se pretende alcançar no curto e médio prazos.
+• Valor do financiamento alocado a cada objetivo (efeito direto): no caso de projetos que pretendem alcançar mais de um objetivo deverá ser informado o valor estimado dos recursos não reem- bolsáveis do Fundo Amazônia para cada um desses objetivos.
+• Indicador: instrumento utilizado para a medição do atingimento de metas ou objetivos. Para monitorar a eficácia e a efetividade foi desenvolvido um conjunto de indicadores comuns que per- mitem sua consolidação e proporcionam uma visão agregada de suas ações dos projetos apoiados pelo Fundo Amazônia6. Os indicadores dos projetos individuais devem ser selecionados a partir do modelo de referência do QR publicado no website do Fundo Amazônia , sendo que cada QR de projeto deverá incluir tanto indicadores de eficácia quanto de efetividade, para medir tanto as entregas dos projetos (produtos e serviços) quanto a sua efetividade, isto é, se os efeitos esperados foram atingidos.
+• Marco zero (linha de base): situação inicial imediatamente ante- rior à execução do projeto. Por exemplo, informar a “área de flo- resta diretamente manejada (hectares)” antes da implementação de um projeto de apoio à expansão de atividades extrativistas e o “faturamento anual com atividade econômica de uso sustentá- vel - produtos in natura (R$ mil)” no último exercício (ano fiscal) anterior ao início da execução das ações previstas no projeto.
+• Valor previsto (meta): situação que se pretende alcançar com a execução do projeto. Todos os indicadores devem ter valor pre- visto, apesar de ser um grande desafio quantificá-los para indica- dores de efetividade, como por exemplo, de comportamento do faturamento em anos futuros. O não atingimento de algum valor previsto não acarreta um descumprimento contratual perante o Fundo Amazônia, desde que as atividades previstas tenham sido adequadamente realizadas e os recursos disponibilizados corre6 Quadro de Resultados do Fundo Amazônia: http://www.fundoamazonia.gov.br/pt/monitoramento-e-avaliacao/
+ MONITORAMENTO DE EFETIVIDADE DE PROJETOS: CONCEITOS BÁSICOS
+tamente aplicados. Em projetos com instituições aglutinadoras7 que ainda irão selecionar subprojetos, esses valores previstos deverão ser informadas assim que tenham sido definidas com as aglutinadas após a seleção dos subprojetos a serem apoiados.
+• Frequência: os valores realizados dos indicadores do QR do projeto devem ser informados pelo responsável por sua execução junto com a sua prestação de contas periódica (“Relatório de Desempenho”) e ao final do projeto junto com sua avaliação de resultados (“Relatório de Avaliação de Resultados”). Os dados coletados deverão ter como data-base a do término do período de acompanhamento coberto pelo Relatório de Desempenho ou data anterior próxima a esta.
+O indicador que mede a evolução da receita com a implanta- ção do projeto (“faturamento anual com atividade econômica de uso sustentável”) deve ser informado considerando o último exercício (ano fiscal) completo para o qual essa informação se encontra disponível. Por fim, menciona-se que os indicadores de efetividade poderão ser utilizados em eventuais avaliações de efetividade “ex post”, isto é, avaliações realizadas alguns anos após a conclusão dos projetos.
+• Responsável: quem realiza a coleta e organiza os dados. Essa responsabilidade é primordialmente do executor do projeto que contratou o apoio do Fundo Amazônia. Não obstante, a equipe do Fundo Amazônia monitora a taxa de desmatamento na área de abrangência dos projetos, quando disponibilizados publica- mente pelo Instituto Nacional de Pesquisas Espaciais (Inpe), para reflexão (ao final dos projetos) sobre seu impacto no que tange a redução das taxas de desmatamento8.
+É importante ressaltar que o proponente de um projeto deverá solicitar esclarecimentos à equipe do Fundo Amazônia sempre que tiver dúvida sobre o significado de algum indicador, seu foco de observação e objetivo. Ademais, quando necessário, a equipe do Fundo Amazônia poderá incluir novos indica- dores na gama daqueles monitorados pelos projetos.
+7 Modalidadeaglutinadora-nestamodalidade,aaglutinadora,instituiçãoproponente,coordenaum arranjo integrado de subprojetos de outras organizações, denominadas aglutinadas, orientados para o desenvolvimento de cadeias de valor com base no uso sustentável dos recursos naturais.
+8 http://www.obt.inpe.br/OBT/assuntos/programas/amazonia/prodes; http://www.dpi.inpe.br/prodesdigital/prodesmunicipal.php; http://www.dpi.inpe.br/prodesdigital/prodesuc.php.
+ 02.
+02.
+ MONITORAMENTO DE EFETIVIDADE DE PROJETOS DE PRODUÇÃO SUSTENTÁVEL
+MONITORAMENTO DE EFETIVIDADE DE PROJETOS DE PRODUÇÃO SUSTEN- TÁVEL
+  MONITORAMENTO DE EFETIVIDADE DE PROJETOS DE PRODUÇÃO SUSTENTÁVEL
+O Fundo Amazônia tem como objetivo geral a redução do desmatamento com o desenvolvimento sustentável na Amazônia. O apoio às atividades produ- tivas sustentáveis está inserido na componente Produção Sustentável. Visando facilitar o entendimento para fins de monitoramento e avaliação de projetos, organizaremos o conjunto de projetos apoiados para fomentar as atividades produtivas sustentáveis em um bloco temático ou programa. Programas são caracterizados por uma arquitetura de intervenção em vários níveis, como segue:
+• Programa: conjunto de projetos de apoio às atividades de pro- dução sustentável, financiados pelo Fundo Amazônia;
+• Aglutinadora: organização com elevada capacidade de gestão administrativa e financeira que coordena um arranjo integrado de subprojetos de outras organizações, denominadas aglutinadas, orientados para o desenvolvimento de cadeias de valor com base no uso sustentável dos recursos naturais;
+• Projetos: cooperativas, organizações locais e/ou comunidades;
+• Beneficiários finais: unidades produtivas que podem ser orga- nizados como famílias, indivíduos ou outros tipos de coletivos como em alguns casos de povos indígenas.
+A ilustração a seguir indica os diferentes níveis de governança dos projetos de produção sustentável apoiados pelo Fundo Amazônia, e os diferentes níveis de implementação e públicos relacionados (stakeholders).
+   Nível dos Nível da Nível do Nível do Subprojetos Aglutinadora Programa Fundo
+Beneficiários Unidade Produtiva
+Fundo Amazônia
+X Projetos em apoio a Produção Sustentável
+        Organização A
+Organização B
+               Nível dos
+Unidade Unidade Produtiva Produtiva
+Unidade Produtiva
+Unidade Produtiva
+Unidade Unidade
+Unidade Produtiva Produtiva Produtiva
+        Figura 3. Níveis de governança dos projetos apoiados pelo Fundo Amazônia. Fonte: elaboração GIZ
+ MONITORAMENTO DE EFETIVIDADE DE PROJETOS DE PRODUÇÃO SUSTENTÁVEL
+A lógica de intervenção dos projetos de produção sustentável apoiados pelo Fundo Amazônia permite monitorar aspectos semelhantes entre eles. Em consequência, será possível saber não somente o que o apoio a uma organi- zação da sociedade civil ou instituição governamental alcançou no projeto A em uma região B, mas o que o apoio do Fundo Amazônia às organizações da sociedade civil ou instituições governamentais em vários estados da região amazônica contribuiu em termos do aumento da atratividade de atividades produtivas sustentáveis. Com isso, torna-se mais claro o papel do Fundo – e de seus parceiros – no desenvolvimento sustentável e na redução do desmatamento na região. Mas essa análise e reflexão em nível regional só será possível quando todos os projetos de apoio à produção sustentável aderirem a um cardápio homogêneo de indicadores.
+2.1. Agregação de indicadores
+Um conjunto de indicadores comuns, aplicado e aproveitado por um grupo de projetos com objetivos parecidos, potencializa o monitoramento da efetivida- de alcançada. O processo de “alimentação vertical” de um indicador agregado pode ser ilustrado/ exemplificado da seguinte forma:
+   Atividades que mantêm a floresta em pé têm atratividade Econômica
+     Agregação de impacto
+Prioridade de monitoramento do programa
+Mesma base de informações = agregáveis!
+Reais/ unidade produtiva
+Indicador
+Receita das unidades produtivas
+Projeto A
+Reais/ unidade produtiva
+Indicador
+Receita das unidades produtivas
+Projeto B
+Reais/ unidade produtiva
+Indicador
+Receita das unidades produtivas
+Projeto C
+    Figura 4. Esquema de agregação de impactos. Fonte: GIZ.B
+Geração de renda
+Receita das unidades produtivas envolvidas no programa
+ MONITORAMENTO DE EFETIVIDADE DE PROJETOS DE PRODUÇÃO SUSTENTÁVEL
+As vantagens que a agregação de indicadores de efetividade traz para projetos apoiados e para o Fundo Amazônia são:
+• Permite medir a contribuição dos projetos à redução do des- matamento na Amazônia com desenvolvimento sustentável;
+• Permite tirar conclusões sobre o que deu certo nos projetos apoiados, subsidiando a formulação de estratégias e sinalizando o mérito (ou não) de sua priorização;
+• Auxilia na reflexão acerca dos resultados alcançados a partir de uma visão comparativa;
+• Comunica melhor o que foi alcançado para os financiadores e o público em geral;
+• Disponibiliza dados de referência e facilita parcerias institucionais. Entende-se como indicador agregável aquele que:
+• É formulado de maneira que muitos projetos numa área espe- cífica possam alimentá-lo com dados;
+• Representa aspectos de fácil mensuração e que muitas vezes têm caráter quantitativo;
+• Permite a todos os projetos usarem os mesmos métodos para o levantamento de dados.
+Agregar as informações de indicadores requer alguns cuidados para evi- tar a distorção que levem a análises equivocadas. Assim, para os projetos de produção sustentável foi elaborado um conjunto de indicadores de efetividade padronizados, que será apresentado a seguir.
+2.2. Indicadores de efetividade
+Nessa seção, serão apresentados os indicadores de efetividade adotados pelo Fundo para o monitoramento de projetos de produção sustentável. Mas antes de apresentar cada um desses indicadores de efetividade vale lembrar que o Fundo Amazônia também monitora indicadores de eficácia, já que tam- bém deseja medir as entregas dos projetos, ou seja, seus produtos e serviços (ver a seção 2.3).
+O conjunto dos indicadores adotados pelo Fundo pode ser utilizado para monitorar a efetividade de projetos de produção sustentável, ou seja, em que grau os efeitos esperados com as ações apoiadas foram alcançados. A escolha de indicadores para cada projeto dependerá das suas características específicas, de quais ações serão implementadas e que efeitos pretende alcançar.
+ MONITORAMENTO DE EFETIVIDADE DE PROJETOS DE PRODUÇÃO SUSTENTÁVEL
+Os indicadores de efetividade seguem a lógica dos quatro efeitos diretos de projetos de produção sustentável apoiados pelo Fundo Amazônia, conforme seu Quadro Lógico (Quadro 3 na seção 1.6).
+Efeito direto 1.1 – Atividades econômicas de uso sustentável da floresta e da biodiver- sidade identificadas e desenvolvidas
+A geração de receitas é um dos principais efeitos esperados dos projetos de produção sustentável. Parte-se da premissa de que a produção ambiental- mente sustentável aliada à geração de renda ampliam o interesse e apoio ao uso da terra e da biodiversidade compatíveis com a conservação das florestas.
+O efeito direto “atividades econômicas de uso sustentável da floresta e da biodiversidade identificadas e desenvolvidas” abrange projetos de produção sustentável que se dediquem à produção extrativista ou à produção a partir de sistemas agroflorestais, sendo a produção destinada à comercialização in natura.
+O impacto econômico da produção sustentável será verificado por um indicador que mede as suas receitas (faturamento) obtidas a partir da produção do projeto apoiado, nesse caso de produtos in natura, ou seja, de produtos que não passaram por processos de beneficiamento.
+Nos casos de atividades há também um indicador associado que mensura a área das florestas diretamente manejadas, extrativistas, evidenciando a área em que as atividades são desenvolvidas e, consequentemente, a extensão das florestas “fiscalizadas” pelas populações locais que desenvolvem e se benefi- ciam dessas atividades. Ou seja, o crescimento da área de florestas diretamente manejadas evidencia a escala territorial do apoio às atividades extrativistas, visando a geração de renda, ao mesmo tempo em que promove a conservação florestal, já que as populações que vivem na floresta passam a valorizá-la e se encontram motivadas a protegê-la.
+No que tange a frequência da medição, o indicador que mede a evolução da receita com a implantação do projeto (“faturamento anual com atividade econômica de uso sustentável”) deve ser informado considerando o último exer- cício completo (ano fiscal) para o qual essa informação se encontra disponível. Por exemplo, se o Relatório de Desempenho se refere ao período de 01.12.2018 a 30.04.2019 deverá ser informado o faturamento de todo o ano de 2018, sem- pre que o ano fiscal corresponder ao ano civil. Nesse exemplo, somente em 2020 poderá ser informado o faturamento anual do ano fiscal anterior, 2019. Posteriormente serão comparados os resultados anuais do faturamento das atividades econômicas apoiadas com a situação inicial imediatamente anterior à execução do projeto (linha de base ou marco zero).
+Vale esclarecer que caso um projeto tenha iniciado a execução de suas ações em 2019, por exemplo, será considerado como sua linha de base ou marco zero o faturamento anual de 2018, ou seja, o ano imediatamente anterior.
+ MONITORAMENTO DE EFETIVIDADE DE PROJETOS DE PRODUÇÃO SUSTENTÁVEL
+Na análise do comportamento desse indicador, deverão ser observadas ao final do projeto a sua linha de base (faturamento anual imediatamente anterior ao início do projeto), o último ano (faturamento anual do último ano de execu- ção do projeto) e o incremento de receita gerada pelo projeto. O cálculo desse incremento é feito pela comparação anual da receita em um determinado ano com a receita da linha de base. Esse incremento (ou redução) anual é somado ao longo dos anos da execução do projeto e, quando consolidado, representa o incremento de receita produzido pelo projeto. Dessa forma, mesmo projetos que tenham sofrido quebras de safra com redução da produção no último ano de sua execução poderão evidenciar sua efetividade a partir da medição do incremento do faturamento verificado ao longo de todo o período do projeto.
+A frequência da medição do indicador “área de floresta diretamente ma- nejada (hectares)” deverá ter como data-base o término do período de acom- panhamento coberto pelo Relatório de Desempenho (ou a data anterior mais próxima para qual essa informação esteja disponível). Esse é um indicador cumulativo, isto é, se a área de floresta diretamente manejada com atividades extrativistas for ampliada deverá ser informada a nova área total objeto de manejo sustentável. Para ambos indicadores deverão ser informados a linha de base e o valor previsto (meta) ao final do projeto.
+Muitos outros indicadores poderiam ser monitorados para avaliar a efeti- vidade dos projetos de produção sustentável apoiados pelo Fundo Amazônia, como por exemplo, de renda per capita, o volume produzido por cadeia produ- tiva, o nível de segurança alimentar e nutricional das populações diretamente beneficiadas etc. Todavia, priorizou-se uma estratégia de poucos indicadores, haja vista a dificuldade inerente ao monitoramento de projetos implementados em territórios remotos que beneficiam populações socialmente vulneráveis. Mas isso não impede que os responsáveis pelos projetos adotem indicadores complementares, para enriquecer e qualificar as análises sobre sua efetividade.
+Indicadores para o efeito direto 1.1:
+Faturamento anual com atividade econômica de uso sustentável - produtos in natura (R$ mil)
+Área de floresta diretamente manejada (hectares)
+Efeito direto 1.2 - Cadeias dos produtos agroflorestais e da biodiversidade com valor agregado ampliado
+A agregação de valor aos produtos da sociobiodiversidade pode se dar por meio de diferentes estratégias ou sua combinação, tais como o seu bene- ficiamento ou industrialização local, a adoção de processos de certificação e outras abordagens para sua comercialização. O efeito direto “cadeias dos pro-
+ MONITORAMENTO DE EFETIVIDADE DE PROJETOS DE PRODUÇÃO SUSTENTÁVEL
+dutos agroflorestais e da biodiversidade com valor agregado ampliado” dialoga, portanto, com a agregação de valor, incluindo atividades como artesanato e turismo comunitário, dentre outras.
+A verificação do impacto econômico das atividades produtivas susten- táveis que agreguem valor aos produtos da sociobiodiversidade ou apoiem a prestação de serviços como alternativa para a preservação dos ecossistemas, será verificada por um indicador específico que mede as receitas geradas a partir dessas ações. Dessa forma, auferindo separadamente os indicadores de receita de produtos in natura e beneficiados, serão monitorados ao longo do tempo como se desenvolvem tais produções na região amazônica a partir do apoio do Fundo Amazônia.
+Para o monitoramento de projetos que contribuam para o efeito direto 1.2, também poderá ser adotado o indicador “área de floresta diretamente manejada”, quando for possível medir a ampliação da área em decorrência do aumento da demanda por produtos do extrativismo gerada pelo projeto de beneficiamento, ou seja, agregação de valor apoiado com recursos do Fundo Amazônia.
+Indicadores para o efeito direto 1.2:
+Faturamento anual com atividade econômica de uso sustentável - produtos beneficiados e serviços (R$ mil)
+Área de floresta diretamente manejada (hectares)
+Efeito direto 1.3 - Capacidades gerencial e técnica ampliadas para o desenvolvimento de atividades econômicas de uso sustentável da floresta e da biodiversidade.
+O desenvolvimento de atividades econômicas de uso sustentável da floresta e da biodiversidade requer capacidades gerenciais ou técnicas em diferentes áreas e níveis. Os produtores podem precisar de capacidades técnicas volta- das à produção sustentável e também a outras áreas ligadas à cadeia de valor, como a gestão de unidades de beneficiamento/industrialização, conhecimento de normas produtivas, sanitárias e de comercialização etc.
+Como os projetos podem incluir treinamentos para atividades importantes de suas intervenções, o monitoramento de efeitos busca ir além de simples- mente listar as capacitações realizadas, propondo-se verificar a aplicação dos conhecimentos. Ou seja, busca-se verificar no universo das pessoas capacitadas quantos de fato estão utilizando os conhecimentos adquiridos, já que algumas das pessoas capacitadas pelo projeto podem ter mudado de ocupação e não estarem utilizando as novas competências adquiridas. Neste indicador devem ser incluídas ainda, as perspectivas de gênero e indígena, buscando identificar o número de mulheres e indígenas que utilizam os conhecimentos adquiridos.
+ MONITORAMENTO DE EFETIVIDADE DE PROJETOS DE PRODUÇÃO SUSTENTÁVEL
+No âmbito do Fundo Amazônia também podem ser apoiadas ações para o fortalecimento das organizações comunitárias, para isso foi previsto um indicador para monitorar o nível de desenvolvimento dessas organizações, calculado a partir da medição objetiva de um conjunto de critérios, a saber: (i) capacidade de planejamento, (ii) a qualidade de sua prestação de contas e (iii) a robustez de governança. Maiores explicações se encontram na ficha orientadora “gover- nança e capacidade gerencial das organizações comunitárias” (seção 4).
+Indicador para o efeito direto 1.3:
+Indivíduos capacitados para a prática e gestão de atividades eco- nômicas sustentáveis que efetivamente aplicam os conhecimentos adquiridos - total (no de indivíduos)
+Indivíduos capacitados para a prática e gestão de atividades eco- nômicas sustentáveis que efetivamente aplicam os conhecimentos adquiridos - mulheres (no de mulheres)
+Indivíduos capacitados para a prática e gestão de atividades eco- nômicas sustentáveis que efetivamente aplicam os conhecimentos adquiridos - indígenas (no de indígenas)
+Organizações do terceiro setor que avançaram em gestão e gover- nança (no de organizações)
+Efeito direto 1.4 - Áreas desmatadas e degradadas recuperadas e utilizadas para fins econômicos e de conservação ecológica
+São passíveis de apoio pelo Fundo Amazônia ações de reflorestamento e de recuperação da vegetação de áreas desmatadas ou degradadas, para fins de conservação ou regularização ambiental, como por exemplo, o reflorestamento de áreas de reserva legal (RL), seja para fins econômicos de uso sustentável, como a recuperação da cobertura vegetal por meio de sistemas agroflorestais (SAFs).
+Os indicadores previstos buscam diferenciar as áreas recuperadas para fins ecológicos e/ou de regularização ambiental daquelas recuperadas para fins econômicos. Independente da técnica utilizada, será utilizado o indicador de acordo com o objetivo principal de uso da área.
+A rigor, o processo de recuperação completa de áreas rurais para fins eco- lógicos ou para atender as exigências da legislação ambiental leva mais tempo que o período de implementação dos projetos apoiados. Por esse motivo, o indicador que mede a efetividade das ações de recuperação para essa finalidade inclui a expressão “regeneração em andamento”, isto é, deverão ser conside- radas as áreas com atividades de revegetação concluídas e que se encontram nos estágios sucessionais de formação de uma floresta recuperada. Por outro
+ MONITORAMENTO DE EFETIVIDADE DE PROJETOS DE PRODUÇÃO SUSTENTÁVEL
+lado, as áreas recuperadas para fins econômicos na maioria das vezes começam a ser utilizadas ao longo da execução dos projetos, não havendo, necessidade de acrescentar essa ressalva.
+Indicadores para o efeito direto 1.4
+Área recuperada em utilização para fins econômicos (hectares)
+Área recuperada para fins de conservação ambiental e/ou regulari- zação ambiental - regeneração em andamento (hectares)
+Vale esclarecer que no nível dos indicadores de eficácia (próxima seção) serão diferenciadas e mensuradas as técnicas utilizadas para a recuperação da cobertura vegetal, como por exemplo, se a recuperação se deu mediante plantio, enriquecimento, adensamento, condução da regeneração natural ou por meio de SAFs. Esses indicadores de produtos e serviços são úteis para monitorar a execução dos planos de trabalho dos projetos e também para análises poste- riores sobre o custo-benefício dos resultados alcançados, isto é, se o recurso financeiro foi investido de forma mais econômica e se os resultados foram al- cançados de forma satisfatória.
+2.3. Indicadores de eficácia
+Os indicadores de eficácia são utilizados para monitorar as entregas de um projeto, ou seja, servem para acompanhar a sua execução física, tais como obras executadas, treinamentos, estudos realizados e extensão das áreas com ações concluídas de recuperação da cobertura vegetal. O Fundo Amazônia também padronizou esses indicadores, para permitir sua consolidação. A seguir são apresentados exemplos de indicadores de eficácia que constam do Quadro de Resultados do Fundo Amazônia9, que também deverão ser acompanhados quando aplicáveis ao projeto apoiado10:
+• Unidades de beneficiamento de produtos da agricultura familiar e do extrativismo implantadas, ampliadas ou reformadas (no de unidades de beneficiamento);
+• Unidades demonstrativas implantadas - sistemas agroflorestais / pecuária sustentável / integração lavoura-pecuária-floresta (no de unidades demonstrativas);
+9 Quadro de Resultados do Fundo Amazônia: http://www.fundoamazonia.gov.br/pt/monitoramento-e-avaliacao/
+10 Para conhecer outros indicadores de eficácia adotados pelos projetos apoiados pelo Fundo Amazônia veja a seção 7 ao final deste documento
+ MONITORAMENTO DE EFETIVIDADE DE PROJETOS DE PRODUÇÃO SUSTENTÁVEL
+• Imóveis rurais beneficiados com assistência técnica (no de imóveis);
+• Infraestrutura para produção sustentável e recuperação de ve- getação - viveiros / casas de semente / galpões - implantada (no de unidades);
+• Estudos para produção sustentável elaborados - diagnósticos / planos de negócios / planos de comunicação (no de estudos);
+• Capacitação para a prática e gestão de atividades econômicas sustentáveis (no de pessoas);
+• Área com ações concluídas de recuperação da cobertura vegetal com espécies nativas - plantio, enriquecimento ou adensamento (hectares) etc.
+Também são monitorados outros indicadores de desempenho que indicam o tamanho e o tipo do público-alvo beneficiado pelos projetos, bem como o perfil dos funcionários das organizações responsáveis pela implementação dos projetos apoiados (sob a ótica de gênero):
+• Total de indivíduos diretamente beneficiados pelo projeto - produção sustentável (no de indivíduos);
+• Mulheres diretamente beneficiadas pelo projeto - produção sustentável (no de mulheres);
+• Indígenas diretamente beneficiados pelo projeto - produção sustentável (no de indígenas);
+• Funcionários na instituição responsável pela execução do pro- jeto – total (n° de funcionários);
+• Funcionários na instituição responsável pela execução do pro- jeto – mulheres (n° de funcionários mulheres);
+• Funcionários exercendo funções de coordenação na instituição responsável pela execução do projeto - total (n° de coordenadores);
+• Funcionários exercendo funções de coordenação na instituição responsável pela execução do projeto - mulheres (n° de coorde- nadores mulheres).
+ 03.
+03.
+COMO RELATAR EFICÁCIA E EFETIVIDADE
+ 3. COMO RELATAR EFICÁCIA E EFETIVIDADE
+  Ao longo da implementação dos projetos apoiados pelo Fundo Amazônia devem ser enviados ao BNDES relatórios de desempenho sobre o progresso do projeto, e, ao seu final, um relatório de avaliação de seus resultados.
+No âmbito desses relatórios, são utilizados alguns elementos-chave:
+• Relatórios de Desempenho11 abordam informações como a evolução física e financeira do projeto, as ocorrências relevantes referentes ao beneficiário, o atendimento às obrigações contratu- ais e o monitoramento dos indicadores do quadro de resultados (QR), entre outros.
+• Relatório de Avaliação de Resultados12 abrange todo o pe- ríodo de implantação do projeto, tendo como objetivo básico consolidar informações sobre a execução, contém informações sobre a evolução e os valores dos indicadores de eficácia e de efetividade de seu QR (incluindo comparação entre os valores realizados e os valores previstos), sobre a sustentabilidade futura desses resultados, os aspectos institucionais e administrativos relacionados com sua implementação, os conhecimentos ge- rados e as lições aprendidas. Também devem ser apontados os possíveis fatores (controláveis ou não) que contribuíram para os resultados obtidos.
+Em síntese, é importante relatar a mudança produzida com as interven- ções do projeto e em que medida essa mudança corresponde ao que havia sido esperado, e ainda, se foi positiva ou negativa, direta ou indireta, de curto ou longo prazo. Para elaborar um relatório de desempenho ou de avaliação dos seus resultados, responder às seguintes perguntas pode facilitar o trabalho:
+• O que foi realizado (em termos de produtos e serviços)?
+• O que mudou para o indivíduo, a organização, a comunidade etc. com as intervenções do projeto?
+• Que tipo de evidência existe para demonstrar a relação entre a intervenção do projeto e a mudança provocada?
+• Os dados coletados para documentar a mudança são sólidos e confiáveis?
+Mudanças não são verificadas de forma imediata. Devido à duração de um
+11 Disponível em: http://www.fundoamazonia.gov.br/export/sites/default/pt/.galleries/ documentos/docs-apresentacao-projetos/Relatorio_de_Desempenho.doc
+12 Disponível em: http://www.fundoamazonia.gov.br/export/sites/default/pt/.galleries/ documentos/docs-apresentacao-projetos/Relatorio_de_Avaliacao_de_Resultados_2019.doc
+COMO RELATAR EFICÁCIA E EFETIVIDADE
+ projeto (dois a três anos), às vezes não é possível documentar todos os seus efeitos. Segue abaixo, segue um exemplo de impacto bem documentado:
+Para se chegar a um impacto bem documentado, são imprescindíveis os elementos descritos anteriormente (indicador, marco zero e valor previsto), assim como uma metodologia para realizar os levantamentos necessários no início e durante a implementação de um projeto. Na figura a seguir é demonstrado o ciclo de monitoramento e avaliação de um projeto.
+Ciclo do monitoramento
+COMO RELATAR EFICÁCIA E EFETIVIDADE
+ Com os equipamentos para o beneficiamento e armazenamento do açaí comprados e as capacitações realizadas, 200 extrativistas foram treinados para uma produção com maior qualidade e quantidade. Um ano depois das capacitações, o levantamento de dados demonstra que 80% dos capacitados aplicaram seus conhecimentos e que o faturamento com a produção da polpa do açaí aumentou em 40%, chegando agora até a capital do estado.
+Definição de objetivo, indicadores, marco-zero e valores previstos
+    Avaliação ex-post Aprendizagem
+SISTEMA DE MONITORAMENTO: Levantamento de marco zero Criação da base de dados Definição dos responsáveis
+Monitoramento
+Relatório de desempenho e de avaliação
+Atualização frequente da base de dados Análise dos resultados da atualização e ajustes na gestão do projeto
+  Figura 5. Ciclo do Monitoramento e Avaliação (elaboração própria)
+ 04.
+04.
+FICHAS ORIENTADORAS
+ 4. FICHAS ORIENTADORAS
+ A seguir são apresentadas fichas orientadoras para o levantamento e a medição de cada um dos indicadores de efetividade apresentados na seção 2.2 desse documento. Observa-se que as fichas limitam-se exclusivamente à coleta de dados para o conjunto desses indicadores, sendo que cada projeto poderá ter perguntas e indicadores adicionais relevantes para a sua própria gestão e monitoramento de efetividade.
+4.1. Ficha orientadora: faturamento (produtos in natura e beneficia- dos ou serviços)
+Efeito direto 1.1 - Atividades econômicas de uso sustentável da flo- resta e da biodiversidade identificadas e desenvolvidas
+Efeito direto 1.2 - Cadeias dos produtos agroflorestais e da biodiver- sidade com valor agregado ampliado
+Indicador a: Faturamento anual com atividade econômica de uso sustentável - produtos in natura (R$ mil)
+Indicador b: Faturamento anual com atividade econômica de uso sustentável - produtos beneficiados e serviços (R$ mil)
+FICHAS ORIENTADORAS
+     Definição e Conceitos
+Esses indicadores analisam a evolução do faturamento obtido ao longo dos anos por meio da produção sustentável. Refle- tem a importância econômica dos projetos na sua totalidade. O faturamento é resultante da venda de bens ou serviços, não devendo ser confundido com lucro, que é a diferença entre as receitas e os custos.
+No âmbito das organizações aglutinadas, caso não existam registros, o entrevistador deverá apoiar o responsável na cria- ção dos controles para uma medição efetiva e orientá-lo na realização de uma estimativa para o marco zero (faturamento do ano que serve como linha de base).
+No indicador a serão consideradas todas as receitas dos pro- dutos in natura das atividades de produção sustentável. São os valores recebidos pelas vendas de produtos sem nenhum processamento adicional.
+No indicador b serão consideradas todas as receitas dos pro- dutos beneficiados e serviços das atividades de produção sus- tentável (ex.: sabonete, óleo, castanhas embaladas, artesanato, diárias de hospedagem etc.), ou seja, produtos in natura que foram beneficiados com atividades que agregaram valor ou resultaram da prestação de serviços como alternativa para a preservação dos ecossistemas.
+ Unidade de medida
+Valor previsto
+Instrumento de coleta
+Cálculo do Indicador
+Real (BRL)
+Aumentar o faturamento obtido com a produção sustentável pelo projeto (ou organização aglutinada), em relação ao marco zero (linha de base). Cada projeto deve definir no seu plane- jamento e QR a linha de base desses indicadores e os valores previstos que pretende alcançar.
+Levantamento aplicado ao projeto e, quando cabível, junto às organizações aglutinadas. É recomendável elaborar formulário que sirva de apoio a essa atividade no caso das organizações aglutinadas.
+• Passo 1: Identificar a linha de base do projeto (faturamento anual imediatamente anterior ao início do projeto);
+• Passo 2: Monitorar ao longo da execução das ações do projeto o faturamento anual alcançado ano a ano; e
+• Passo 3: Calcular o incremento de receita com a implementação do projeto. Esse cálculo é feito comparando-se anualmente a receita de um determinado ano com a receita da linha de base do projeto. Esse incremento anual (ou redução) é somado ao longo dos anos da execução do projeto e, quando consolidado, representa o incremento (ou redução) de receita resultante do projeto.
+FICHAS ORIENTADORAS
+         Para o monitoramento desses dois indicadores foi desenvolvida uma pla- nilha de apoio que calcula automaticamente os totais de faturamento anual com atividade econômica de uso sustentável (produtos in natura e produtos beneficiados ou serviços), bem como o respectivo incremento de receita gerada pelo projeto ao longo de sua execução13.
+ 13 Disponível em: http://www.fundoamazonia.gov.br/pt/monitoramento-e-avaliacao/resultados-e-impactos/
+ 4.2. Ficha orientadora: área de floresta manejada
+Efeito direto 1.1 - Atividades econômicas de uso sustentável da flo- resta e da biodiversidade identificadas e desenvolvidas.
+Efeito direto 1.214- Cadeias dos produtos agroflorestais e da biodiver- sidade com valor agregado ampliado .
+Indicador: Área de floresta diretamente manejada (hectares)
+FICHAS ORIENTADORAS
+   Definição e conceitos
+Unidade de medida
+Valor previsto
+Instrumento de coleta
+Cálculo do indicador
+Esse indicador analisa a evolução da área diretamente vincula- da às ações de manejo florestal sustentável, madeireiro e não madeireiro do projeto, permitindo a análise dos avanços da área total de manejo ao longo do tempo e, portanto, a medição da efetividade das ações para estimular e apoiar o manejo florestal.
+Hectares
+Aumentar o número de hectares de floresta manejados de ma- neira sustentável. Cada projeto deve definir no seu planejamen- to e QR a linha de base desse indicador e o valor previsto de área de floresta manejada de forma sustentável que pretende alcançar. O marco zero corresponde ao número de hectares de florestas manejados de maneira sustentável no ano anterior ao início da implementação do projeto.
+Levantamento aplicado ao projeto e, quando cabível, junto às organizações aglutinadas.
+• Passo 1: Somar as áreas de florestas manejadas de maneira sustentável no ano anterior à implementação do projeto (linha de base) e, quando aplicável, pelas organizações aglutinadas; e
+• Passo 2: Monitorar anualmente ao longo da execução das ações de produção sustentável implementadas pelo projeto as áreas de florestas manejadas de maneira sustentável.
+          14 O indicador “área de floresta diretamente manejada” também poderá ser utilizado em proje- tos que apoiem atividades de beneficiamento de produtos da sociobiodiversidade quando for verificado aumento da área de floresta manejada em decorrência da maior demanda por esses produtos provocada pelo projeto.
+ 4.3. Ficha orientadora: aplicação dos conhecimentos adquiridos
+Efeito direto 1.3 - Capacidades gerencial e técnica ampliadas para o desenvolvimento de atividades econômicas de uso sustentável da floresta e da biodiversidade.
+Indicador: Indivíduos capacitados para a prática e gestão de ativida- des econômicas sustentáveis que efetivamente aplicam os conheci- mentos adquiridos - total (no de indivíduos)
+Indicador: Indivíduos capacitados para a prática e gestão de ativida- des econômicas sustentáveis que efetivamente aplicam os conheci- mentos adquiridos - mulheres (no de mulheres)
+Indicador: Indivíduos capacitados para a prática e gestão de ativida- des econômicas sustentáveis que efetivamente aplicam os conheci- mentos adquiridos - indígenas (no de indígenas).
+FICHAS ORIENTADORAS
+     Definição e Conceitos
+Estes indicadores analisam a utilização efetiva dos conhecimen- tos obtidos em capacitações realizadas pelo projeto, a partir da identificação de indivíduos que passaram a exercer as funções ou atividades técnicas para as quais foram capacitados, no âmbito da implantação de atividades de manejo florestal, beneficiamento de produtos da sociobiodiversidade, turismo comunitário, gestão de organizações produtivas comunitárias etc.
+Serão consideradas aqui as capacitações que tenham por objetivo:
+• Exercício de funções de gestão em organizações produtivas co- munitárias;
+• Desenvolvimento de habilidades ou funções no processo produ- tivo: plantação, coleta, secagem, embalagem, vendas, controle de qualidade, marketing, logística, armazenamento etc.
+Não é levado em consideração nesse indicador o tipo de capaci- tação (oficina, curso, intercâmbio etc.) ou a quantidade de vezes que uma mesma pessoa participou desses eventos.
+ FICHAS ORIENTADORAS
+ Definição e Conceitos
+Unidade de medida
+Valor previsto
+Instrumento de coleta
+Universo
+Além do indicador que mede o total de indivíduos capacitados aplicando os conhecimentos adquiridos, são monitorados dois in- dicadores adicionais, que são subconjuntos do primeiro, dedicados a medir as quantidades de mulheres e de indígenas que aplicam os conhecimentos adquiridos com o projeto. Essa desagregação dos dados visa monitorar e promover a sensibilização sobre a igualdade entre homens e mulheres e mapear o apoio aos povos indígenas, pois se espera acesso e participação mais igualitários desses gru- pos a partir dos projetos apoiados pelo Fundo Amazônia.
+Número de indivíduos
+Aumentar o número de indivíduos que ao longo do projeto parti- ciparam integralmente de pelo menos um evento de capacitação técnica e/ou funcional, e que no último ano exerceram as técnicas ou funções para as quais foram capacitados.
+Levantamento aplicado junto ao universo de indivíduos capaci- tados pelo projeto.
+Universo de indivíduos capacitados pelo projeto. Nos casos em que o número de indivíduos capacitados seja grande e haja sig- nificativa dificuldade em obter a informação, poderá ser feito um levantamento por amostragem (ver orientação na seção 4.6 sobre técnicas de definição de amostras).
+• Passo 1: Levantar o total dos participantes de treinamentos e capacitações executados pelo projeto e verificar o número desses participantes que efetivamente utilizam os conhecimentos adqui- ridos (quantos responderam sim ao questionário); ou
+• Passo 1: levantar o total dos participantes de treinamentos e capacitações executados pelo projeto e calcular a amostra;
+• Passo 2: levantar o número de participantes da amostra que efe- tivamente utilizaram os conhecimentos (quantos responderam sim ao questionário) e dividir o número obtido pela amostra; e
+• Passo 3: aplicar o percentual obtido ao número total de parti- cipantes.
+               Cálculo do indicador
+ Modelos de alimentação
+Para o levantamento dos dados desses três indicadores recomenda-se:
+a. Identificar a capacitação realizada;
+b. Elaborar lista com nome e CPF de cada participante das ca- pacitações realizadas;
+c. Identificar o número total de participantes da capacitação, o número de mulheres (incluindo mulheres indígenas) e o número de indígenas (incluindo mulheres indígenas); e
+d. Levantar quantas pessoas capacitadas informaram ter utilizado os conhecimentos adquiridos no último ano.
+FICHAS ORIENTADORAS
+ 4.4. Ficha orientadora: desenvolvimento organizacional
+Efeito direto 1.3 - Capacidades gerencial e técnica ampliadas para
+a implementação de atividades econômicas de uso sustentável da floresta e da biodiversidade.
+Indicador: Organizações do terceiro setor que avançaram em gestão e governança (no de organizações).
+FICHAS ORIENTADORAS
+     Definição e conceitos
+Unidade de medida
+Meta
+Instrumento de coleta
+Universo
+Esse indicador visa avaliar como as organizações do terceiro setor estão evoluindo em sua governança e capacidade geren- cial como consequência das ações de fortalecimento organi- zacional apoiadas pelo projeto. Para isso, é necessário medir essa capacidade no início do projeto (linha de base) utilizando as mesmas ferramentas que serão usadas posteriormente. De acordo com uma pontuação predefinida, serão avaliados o nível da qualidade gerencial e a robustez da governança a partir de um conjunto de critérios em uma escala de três níveis.
+Níveis: Baixo, Médio e Alto
+Melhorar em um nível a qualidade gerencial da(s) organiza- ção(ões) comunitária(s) em relação à linha de base.
+Levantamento e verificação da respectiva documentação.
+Organização responsável pela execução do projeto e/ou orga- nizações aglutinadas apoiadas pelo projeto.
+Foram definidos três níveis de qualidade gerencial com uma pontuação que depende das respostas dadas em relação a 12 variáveis pré-definidas:
+1. Baixo (0-8, nível 1); 2. Médio (9-17, nível 2); 3. Alto (18-24, nível 3).
+As 12 questões pré-definidas estão organizadas em torno das seguintes dimensões: planejamento, prestação de contas e go- vernança.
+Valores das Variáveis 1 a 12:
+Respostas negativas: Não - 0 ponto
+Respostas positivas: Sim - 2 pontos
+Respostas positivas: Mais de duas vezes - 2 pontos Respostas intermediárias: Em parte - 1 ponto Respostas intermediárias: Uma ou duas vezes - 1 ponto
+          Cálculo do indicador
+ FICHAS ORIENTADORAS
+ Cálculo do indicador
+Cálculo do indicador:
+• Soma dos valores das variáveis
+• Identificação do nível atual
+• Comparação com o nível inicial da organização (linha de base) Constatação se a organização subiu ou não subiu na escala dos níveis
+  Modelos de alimentação: Medição do nível de desenvolvimento organizacional
+Para medir o nível de desenvolvimento organizacional das organizações do terceiro setor foi desenvolvido um questionário no formato de planilha, disponível no site do Fundo Amazônia15, que calcula automaticamente o nível de desenvolvimento organizacional. Alternativamente, pode-se responder às seguintes questões, com Sim ou Não, exceto nas questões e, h, j e l, que devem ser respondidas conforme as respectivas observações.
+FORMAS DE PLANEJAMENTO
+a. Existe uma previsão orçamentária para o ano corrente?
+b. Existe um plano anual de trabalho com objetivos, ações e responsáveis?
+c. Existe um plano ou estratégia definida para 3 anos ou mais?
+d. Está sendo monitorado, pelo menos uma vez ao ano, se o que foi planejado está sendo colocado em prática?
+1. PRESTAÇÃO DE CONTAS
+e. Os documentos financeiros e fiscais do grupo ou organização estão organizados e arquivados? (Obs.: responder com Sim; Não; ou em parte)
+f. Os registros financeiros de receitas e despesas foram atualiza- dos até 2 meses atrás?
+g. A organização está atualmente sem dívidas comerciais ou trabalhistas que poderiam impedir a movimentação bancária ou a obtenção de crédito junto a bancos ou fornecedores ou que bloquearam na justiça algum bem da organização?
+h. O pagamento de fornecedores e membros ou associados vem sendo feito no prazo previsto? (Obs.: responder com Sim; Não; ou em parte)
+i. O último relatório anual financeiro foi entregue no prazo?
+15 Ver http://www.fundoamazonia.gov.br/pt/monitoramento-e-avaliacao/resultados-e-impactos/
+ 2. GOVERNANÇA
+j. As instâncias e os papéis de coordenação estão claramente definidos e escritos em algum regimento interno ou estatuto? (Obs.: responder com Sim; Não; ou em parte)
+k. Houve a apresentação de alguma prestação de contas da or- ganização para o coletivo ou membros nos últimos 6 meses?
+l. Com que frequência, no último ano, ocorreram reuniões ou as- sembleias, envolvendo todos os membros da organização para informação e tomada de decisões? (Obs.: responder com Não aconteceram; Uma ou duas vezes; ou mais de duas vezes)
+FICHAS ORIENTADORAS
+ 4.5. Ficha orientadora: áreas reflorestadas ou recuperadas
+Efeito direto 1.4 - Áreas desmatadas e degradadas recuperadas e utilizadas para fins econômicos e de conservação ecológica. Indicador: Área recuperada em utilização para fins econômicos (hectares). Indicador: Área recuperada para fins de conservação ambiental e/ou regularização ambiental - regeneração em andamento (hectares).
+FICHAS ORIENTADORAS
+   Definição e conceitos
+Unidade de medida
+Valor previsto
+Instrumento de coleta
+Cálculo do indicador
+Esses indicadores visam medir a recuperação das áreas desma- tadas ou degradadas para fins de conservação e regularização ambiental e de áreas que foram recuperadas visando sua utili- zação para fins econômicos. O indicador “área recuperada em utilização para fins econômicos” mede principalmente as áreas desmatadas ou degradadas que tiveram sua cobertura vegetal recuperada por meio de SAFs e que estejam em produção.
+Hectares
+Aumentar o número de hectares de área recuperada para fins de conservação ambiental e ou regularização ambiental com o seu processo de regeneração em andamento e aumentar o número de hectares de área recuperada em utilização para fins econômicos.
+Levantamento aplicado ao projeto.
+Somar as áreas reflorestadas e ou recuperadas pelo projeto e, quando cabível, por cada organização aglutinada.
+ 4.6. Definição do tamanho de uma amostra
+Quando não é possível entrevistar e observar todos os beneficiários para a coleta de dados, deve-se usar uma amostra de parte dos beneficiários. Como a amostragem probabilística tem base em leis estatísticas, para facilitar o pro- cesso de definição do tamanho de uma amostra, é possível fazer uso de tabelas e calculadoras de tamanho de amostra disponibilizadas na internet16. No intuito de selecionar as pessoas que serão entrevistadas, deve ser aplicada uma sele- ção aleatória.
+CONCLUSÃO
+  IMPORTANTE: sugestão para definição de amostras
+Com apoio (de calculadoras de tamanho de amostra), é possível inserir o número total (universo) da população-alvo, e o progra- ma vai mostrar o tamanho da amostra necessária para se obter resultados confiáveis, considerando a margem de erro e o grau de confiança17.
+Embora pesquisas científico-acadêmicas costumem utilizar uma margem de erro de 5% e um grau de confiança de 95%, para os fins do monitoramento e levando em conta os recursos disponí- veis, podem ser considerados como adequados uma margem de
+erro de 10% e um grau de confiança de 90%. Por exemplo:
+Com uma população de 100 pessoas (margem de erro de 5% e nível de confiança de 95%), é preciso uma amostra de 80 pessoas;
+Com a mesma população de 100 pessoas (margem de erro de 10% e nível de confiança de 90%), será necessária uma amostra de apenas 41 pessoas.
+Observa-se que com números maiores da população inteira, a percentagem proporcional da amostra também diminui.
+ 16 Exemplo de calculadora virtual: https://pt.surveymonkey.com/mp/sample-size-calculator/
+17 A margem de erro e o nível de confiança são valores estatísticos que fornecem informaçôes sobre a confiabilidade dos resultados de uma análise por meio de amostras.
+ 05.
+05.
+CONCLUSÃO
+ 5. CONCLUSÃO
+ Em suma, ao longo desse guia foram vistos os passos para a elaboração e implementação de um plano de monitoramento dos impactos de um projeto. Em linhas gerais os passos são:
+Passos para elaborar e utilizar um Sistema de Monitoramento
+    Elaboração e Operação do sistema + Utilização dos resultados para a revisão e adaptação da intervenção
+Passo
+1 Planejamento
+Planejar o sistema de
+monitoramento
+Realizar a coleta e
+analisar os dados
+Utilizar os resultados do
+monitoramento, para...
+Explicação - O que fazer?
+Considerar os requisitos do monitoramento na planificação
+Definir os objetivos e indicadores com as metas Orçar o monitoramento
+Elaborar plano de monitoramento
+Definir os métodos de coleta de dados e desenvolver os instrumentos
+Definir a frequência e o cronograma para a coleta de dados
+Distribuir as responsabilidades
+Definir a forma de documentação e distribuição
+CONCLUSÃO
+    Coletar e documentar os dados da linha de base (marco zero) para todos os indicadores
+Coletar os dados para todos os indicadores numa frequência definida
+Analisar e avaliar os dados
+Documentar os resultados da coleta, análise e avaliação
+  Avaliação da gestão do projeto: tomar decisões sobre estratégias, gestão e orçamento
+Prestação de contas: avaliação, relatório de progresso e finais
+Gestão de conhecimento/aprendizagem: documentação/comunicação
+Figura 6. Passos para elaborar e utilizar um sistema de monitoramento.
+Esse guia visa qualificar o processo de monitoramento de resultados e impactos dos projetos de produção sustentável apoiados pelo Fundo Amazô- nia, bem como aperfeiçoar a prestação de contas ao longo de sua execução e a sua relatoria final. O objetivo também é obter insumos padronizados, que
+ possibilitem a comparação entre os dados obtidos nos diferentes projetos como forma de permitir uma análise regional das iniciativas.
+A partir dessas informações, o Fundo Amazônia e os seus parceiros execu- tores de projetos poderão comunicar de forma clara e convincente os resultados e impactos alcançados pelos projetos aos diversos públicos interessados.
+Essas informações servirão também para uma reflexão, em uma escala regional, sobre o que deu certo nos projetos, sendo possível identificar se as estratégias adotadas estão de fato contribuindo para a redução do desmata- mento e a promoção do desenvolvimento sustentável.
+PARA SABER MAIS
+ 06.
+06.
+PARA SABER MAIS
+ 6. PARA SABER MAIS
+  1. Coleta de dados / métodos de coleção de dados (entrevistas, grupos focais, questionário).
+O primeiro link remete a explicações resumidas de vários métodos de coleta de dados (entrevistas, questionário, observação etc.). O segundo link traz uma definição de grupo focal.
+• Métodos de Coleta de Dados: http://darleisimioni.blogspot. com/2010/09/metodos-de-coleta-de-dados.html
+• Grupo focal: https://pt.wikipedia.org/wiki/Grupo_focal
+2. Como calcular tamanho de amostra
+O primeiro link vai ao calculador de amostra e o segundo a um site que explica como calcular amostras.
+• Cálculo Amostral: https://comentto.com/calculadora-amostral/
+• Tamanho da amostra do questionário: https://pt.surveymonkey. com/mp/sample-size/?repeat=w3tc e https://pt.surveymonkey. com/mp/sample-size-calculator/
+3. Elaboração de indicadores
+O primeiro link responde à pergunta: O que são e como se cons- troem os indicadores na avaliação de impacto?
+• ¿Qué son y cómo se construyen los indicadores en la evaluación de impacto? http://guia.oitcinterfor.org/como-evaluar/como-se- construyen-indicadores (espanhol)
+4. Gestão por resultados (GpR)
+No link encontram-se explicações sobre os aspectos mais rele- vantes do sistema de gestão por resultados.
+• http://www.venki.com.br/blog/gestao-por-resultados/
+5. Manuais de monitoramento e avaliação
+O link abaixo oferece um exemplo de um manual detalhado ela- borado pelo Ministério do Meio Ambiente, com a cooperação da GIZ.
+• Livro (2004): “Monitoramento e avaliação de projetos” (pág. 10-12): http://www.mma.gov.br/estruturas/168/_publicacao/168_ publicacao30012009115158.pdf
+PARA SABER MAIS
+ 07.
+07.
+MODELO DE QUADRO DE RESULTADOS
+    Continua
+  MODELO DE QUADRO DE RESULTADOS
+ Objetivos (Efeitos Diretos)
+ 1.1 - Atividades econômicas de uso sustentável da floresta e da biodiversidade identificadas e desenvolvidas
+1.2 - Cadeias dos produtos agroflorestais
+e da biodiversidade com valor agregado ampliado
+  1.3 - Capacidades gerencial e técnica ampliadas para a imple- mentação de atividades econômicas de uso sustentável da floresta e da biodiversidade
+ 1.4 - Áreas desmatadas e degradadas recuperadas e utilizadas para fins econômicos e de conservação ecológica
+  Qual o
+valor do financiamento alocado a cada objetivo?
+  R$ X mil
+ R$ X mil
+   R$ X mil
+  R$ X mil
+     Como podem ser medidas as entregas (eficácia) associadas a cada objetivo?
+      Imóveis rurais com projetos de produção sustentável implantados (no de imóveis)
+Unidades de beneficia- mento de produtos da agricultura familiar e do extrativismo implantadas, ampliadas ou reformadas (no de unidades de benefi- ciamento)
+  Capacitação para a prática e gestão de atividades econômicas sustentáveis - total (no de pessoas)
+ Área com ações concluídas de recuperação da cobertura vegetal com espécies nativas - plantio, enriquecimento ou adensamento (hectares)
+   Imóveis rurais beneficiados com assistência técnica (no de imóveis)
+  Infraestrutura para produção sustentável
+e recuperação de vegetação - viveiros
+/ casas de semente / galpões implantada (no de unidades)
+    Capacitação para a prática e gestão de atividades econômicas sustentáveis - mulheres (no de mulheres)
+   Área com ações concluídas de recuperação da cobertura vegetal com espécies nativas - condução da regeneração natural (hectares)
+   Unidades demonstrativas implantadas - sistemas agroforestais / pecuária sustentável / integração lavoura-pecuária- floresta (no de unidades demonstrativas)
+Equipamentos de transporte adquiridos para produção sustentável - embarcações / carros
+/ caminhões / tratores
+e motocicletas (no de equipamentos)
+  Capacitação para a prática e gestão de atividades econômicas sustentáveis - indígenas (no de indígenas)
+ Área com ações concluídas de recuperação da cobertura vegetal - sistemas agroflorestais SAFs (hectares)
+   Infraestrutura para produção sustentável e recuperação de vegetação - viveiros
+/ casas de semente / galpões implantada (no de unidades)
+  Estudos para produção sustentável elaborados - diagnósticos / planos de negócios / planos de comunicação (no de estudos)
+    Projetos de pequeno porte apoiados por entidades aglutinadoras - projetos até R$ 150 mil (no de projetos)
+   Infraestrutura para produção sustentável e recuperação de vegetação - viveiros
+/ casas de semente / galpões implantada (no de unidades)
+   Equipamentos de trans- porte adquiridos para produção sustentável
+- embarcações / carros / caminhões / tratores e motocicletas (no de equipamentos)
+Projetos de pequeno porte apoiados por entidades aglutinadoras - projetos até R$ 150 mil (no de projetos)
+  Projetos de médio
+ou grande porte apoiados por entidades aglutinadoras - projetos acima de R$ 150 mil (no de projetos)
+ Equipamentos de trans- porte adquiridos para produção sustentável
+- embarcações / carros
+/ caminhões / tratores e motocicletas (no de equi- pamentos)
+   Estudos para produção sustentável elaborados - diagnósticos / planos de negócios / planos de comunicação (no de estudos)
+  Projetos de médio ou grande porte apoiados por entidades aglutinadoras - projetos acima de R$ 150 mil (no de projetos)
+    Eventos integradores para produção sustentável - seminários / oficinas realizados (no de eventos)
+   Projetos de pequeno porte apoiados por entidades aglutinadoras - projetos até R$ 150 mil (no de projetos)
+   Projetos de pequeno porte apoiados por entidades aglutinadoras - projetos até R$ 150 mil (no de projetos)
+ Eventos integradores para produção sustentável
+- seminários / oficinas realizados (no de eventos)
+   Publicações pedagógicas ou mídias elaboradas para produção sustentável (no de publicações)
+  Projetos de médio
+ou grande porte apoiados por entidades aglutinadoras - projetos acima de R$ 150 mil (no de projetos)
+ MODELO DE QUADRO DE RESULTADOS
+  Objetivos (Efeitos Diretos)
+ 1.1 - Atividades econômicas de uso sustentável da floresta e da biodiversidade identificadas e desenvolvidas
+   1.2 - Cadeias
+dos produtos agroflorestais e
+da biodiversidade com valor agregado ampliado
+ 1.3 - Capacidades gerencial
+e técnica ampliadas para a implementação de atividades econômicas de uso sustentável da floresta e da biodiversidade
+ 1.4 - Áreas desmatadas e degradadas recuperadas e utilizadas para fins econômicos e de conservação ecológica
+ Como podem ser medidas as entregas (eficácia) associadas a cada objetivo?
+  Projetos de médio
+ou grande porte apoiados por entidades aglutinadoras - projetos acima de R$ 150 mil (no de projetos)
+   Publicações pedagó- gicas ou mídias elabo- radas para produção sustentável (no de publicações)
+ Total de indivíduos diretamente beneficiados pelo projeto
+- produção sustentável (no de indivíduos)
+   Eventos integradores para produção sustentável - seminários / oficinas realizados (no de eventos)
+  Eventos integradores para produção sustentável - seminários / oficinas realizados (no de eventos)
+   Total de indivíduos diretamente beneficiados pelo projeto - produção sustentável (no de indivíduos)
+ Mulheres diretamente beneficiadas pelo projeto - produção sustentável (no de mulheres)
+   Publicações pedagógicas ou mídias elaboradas para produção sustentável (no de publicações)
+  Publicações pedagógicas ou mídias elaboradas para produção sustentável (no de publicações)
+    Mulheres diretamente beneficiadas pelo projeto - produção sustentável (no de mulheres)
+  Indígenas diretamente beneficiados pelo projeto - produção sustentável (no de indígenas)
+    Total de indivíduos diretamente beneficiados pelo projeto - produção sustentável (no de indivíduos)
+  Total de indivíduos diretamente beneficiados pelo projeto - produção sustentável (no de indivíduos)
+  Indígenas diretamente beneficiados pelo projeto - produção sustentável (no de indígenas)
+ Instituições apoiadas indiretamente - aglutinadas / chamadas públicas de parceiros (no de instituições)
+  Mulheres diretamente beneficiadas pelo projeto - produção sustentável (no de mulheres)
+   Mulheres diretamente beneficiadas pelo pro- jeto - produção susten- tável (no de mulheres)
+  Instituições apoiadas indiretamente
+- aglutinadas / chamadas públicas de parceiros (no de instituições)
+     Indígenas diretamente beneficiados pelo projeto - produção sustentável (no de indígenas)
+   Indígenas diretamente beneficiados pelo projeto - produção sustentável (no de indígenas)
+   Instituições apoiadas indiretamente - aglutinadas / chamadas públicas de parceiros (no de instituições)
+   Instituições apoiadas indiretamente - aglutinadas / chamadas públicas de parceiros (no de instituições)
+       Como podem ser medidos os efeitos esperados (efetividade) a partir das entregas do projeto?
+    Faturamento anual com atividade econômica de uso sustentável -produtos in natura (R$ mil)
+  Faturamento anual com atividade econômica de uso sustentável -produtos beneficiados e serviços (R$ mil)
+  Indivíduos capacitados para a prática e gestão de atividades econômicas sustentáveis
+que efetivamente aplicam os conhecimentos adquiridos - total (no de indivíduos)
+   Área recuperada em utilização para fins econômicos (hectares)
+  Área de floresta diretamente manejada (hectares)
+   Área de floresta diretamente manejada (hectares)
+ Indivíduos capacitados para a prática e gestão de atividades econômicas sustentáveis
+que efetivamente aplicam os conhecimentos adquiridos - mulheres (no de mulheres)
+  Área recuperada para fins de conservação ambiental e/ou regularização ambiental - regeneração em andamento (hectares)
+  Organizações do terceiro setor que avançaram em gestão e governança (no de organizações)*
+   Organizações do terceiro setor que avançaram em gestão e governança (no de organizações)*
+    Indivíduos capacitados para a prática e gestão de atividades econômicas sustentáveis
+que efetivamente aplicam os conhecimentos adquiridos - indígenas (no de indígenas)
+ Organizações do terceiro setor que avançaram em gestão e governança (no de organizações)*
+   Organizações do terceiro setor que avançaram em gestão e governança (no de organizações)*
+ REFERÊNCIAS
+Fundo Amazônia / BNDES. Quadro Lógico do Fundo Amazônia. Disponível em: http://www.fundoamazonia.gov.br/export/sites/default/pt/.galleries/ documentos/monitoramento-avaliacao/FA_Quadro_Logico_2017.pdf Acesso em setembro de 2019
+Fundo Amazônia / BNDES. Modelo de “Relatório de Avaliação de Resultados”. Disponível em: http://www.fundoamazonia.gov.br/pt/como-apresentar-projetos/ Acesso em setembro de 2019.
+GIZ. Del modelo de resultados a la matriz de resultados: guia para el examen de medida y la elaboración de ofertas. Disponível em: https://www.gob.mx/cms/ uploads/attachment/file/64829/5-Del_modelo_de_resultados_a_la_matriz_ de_resultados.pdf Acesso em setembro de 2019.
+Oportunidades de apoio a atividades produtivas sustentáveis na Amazônia: subsídios para debate. GIZ. Disponível em: http://www.fundoamazonia.gov. br/export/sites/default/pt/.galleries/documentos/biblioteca/GIZ_Estudo_ Oportunidades_APS_Resumo.pdf Acesso em setembro 2019.
+NORWEGIAN AGENCY FOR DEVELOPMENT COOPERATION– NORAD. Results management in Norwegian Development Cooperation: a practical guide. Disponível em: https://norad.no/en/toolspublications/publications/2009/results- management-in-norwegian-development-cooperation--a-practical-guide/ Acesso em setembro 2019.
+UNITED NATIONS DEVEPMENT PROGRAMME – UNDP. UNDP Evaluation Guidelines. Disponível em: http://web.undp.org/evaluation/guideline/documents/ PDF/UNDP_Evaluation_Guidelines.pdf
+Acesso em setembro de 2019.
+REFERÊNCIAS
+ MODELO DE QUADRO DE RESULTADOS
