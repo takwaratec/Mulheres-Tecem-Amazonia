@@ -9,15 +9,15 @@ author:
 date: '2026-03-26'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"A ciência é um patrimônio universal."<br>— Oswaldo Cruz</i></p>
+<p align="right"><i>"O conhecimento é a nossa maior arma contra o atraso."<br>— Bertha Lutz</i></p>
 
 ### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_Co-criação+da+ferramenta+de+modelo+de+negócio+18-37.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -52,6 +52,10 @@ Este artigo apresenta um dos resultados da pesquisa, referente ao Edital CNPQ/MT
 
 | Categoria                | Descrição/Dado                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | :
+
+---
+
+---
 
 ---
 

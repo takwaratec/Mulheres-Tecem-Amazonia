@@ -9,15 +9,15 @@ author:
 date: '2026-03-24'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"A crise da educação no Brasil não é uma crise; é um projeto."<br>— Darcy Ribeiro</i></p>
+<p align="right"><i>"O real não está na saída nem na chegada: ele se dispõe para a gente é no meio da travessia."<br>— Guimarães Rosa</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: Sonia Marise.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -183,6 +183,10 @@ As evidências coletadas demonstram que o alinhamento entre a UnB, o PROFNIT e a
 23. Pesquisar \- Biblioteca Digital da Produção Intelectual Discente \- UnB, acessado em março 17, 2026, [https://bdm.unb.br/simple-search?query=quero+ponto+gasmig\&sort\_by=score\&order=desc\&rpp=10\&etal=0\&start=360](https://bdm.unb.br/simple-search?query=quero+ponto+gasmig&sort_by=score&order=desc&rpp=10&etal=0&start=360)  
 24. Junho 2021 \- ResearchGate, acessado em março 17, 2026, [https://www.researchgate.net/profile/Sergio-Velho/publication/355163910\_Book\_RPE51\_v3\_final\_com\_capa/links/6161aa68ae47db4e57b39e28/Book-RPE51-v3-final-com-capa.pdf](https://www.researchgate.net/profile/Sergio-Velho/publication/355163910_Book_RPE51_v3_final_com_capa/links/6161aa68ae47db4e57b39e28/Book-RPE51-v3-final-com-capa.pdf)  
 25. acessado em dezembro 31, 1969, [https://concertacaoamazonia.com.br/?jet\_download=802e82db0026541eebcd7cba0ece5a932e251dbe](https://concertacaoamazonia.com.br/?jet_download=802e82db0026541eebcd7cba0ece5a932e251dbe)
+
+---
+
+---
 
 ---
 

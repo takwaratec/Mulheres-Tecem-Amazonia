@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O Brasil, última nação a abrogar a escravidão, tem um compromisso terrível com o seu povo."<br>— Darcy Ribeiro</i></p>
+<p align="right"><i>"O espaço geográfico é o encontro de objetos e ações."<br>— Milton Santos</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -67,6 +67,10 @@ O texto fornecido é um catálogo e não cita outras obras em seu corpo principa
 * <img src="../../../../../../assets/icons/human_01_black.svg" width="18px">   NBR 1628.md (Norma brasileira de estruturas de madeira/bambu adaptada)
 * <img src="../../../../../../assets/icons/human_04_black.svg" width="18px">   Norma Indiana.md (Referencial BIS para construção em bambu)
 * <img src="../../../../../../assets/icons/human_12_black.svg" width="18px">   EN Plus.md (Certificação de Pellets/Bioenergia)
+
+---
+
+---
 
 ---
 

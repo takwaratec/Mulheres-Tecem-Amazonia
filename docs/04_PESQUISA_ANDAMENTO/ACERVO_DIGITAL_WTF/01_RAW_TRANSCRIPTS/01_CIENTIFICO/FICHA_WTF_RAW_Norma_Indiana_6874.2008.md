@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O conhecimento é a nossa maior arma contra o atraso."<br>— Bertha Lutz</i></p>
+<p align="right"><i>"O Brasil, última nação a abrogar a escravidão, tem um compromisso terrível com o seu povo."<br>— Darcy Ribeiro</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -69,6 +69,10 @@ Ao relatar os resultados de um teste ou análise feita de acordo com esta norma,
 2.  INDIA. Bureau of Indian Standards. *Methods of tests for split bamboos*. New Delhi: Bureau of Indian Standards, 1976. IS 8242.
 3.  INDIA. Bureau of Indian Standards. *Rules for rounding off numerical values* (revised). New Delhi: Bureau of Indian Standards, 1960. IS 2.
 4.  INDIA. Bureau of Indian Standards. *Glossary of terms applicable to timber technology and utilization* (second revision). New Delhi: Bureau of Indian Standards, 1976. IS 707.
+
+---
+
+---
 
 ---
 

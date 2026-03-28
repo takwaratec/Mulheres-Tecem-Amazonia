@@ -12,7 +12,7 @@ date: '2026-03-24'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A vida é curta, a arte é longa."<br>— Machado de Assis</i></p>
+<p align="right"><i>"O Brasil precisa de ciência para ser soberano."<br>— Ennio Candotti</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -48,6 +48,10 @@ O **Tamboreador Artesanal (T08-A)** opera com carga mista:
 ## 4. Impacto na Cadeia Produtiva (Acre)
 
 O redirecionamento das cascas de castanha das usinas de beneficiamento para o **Hub N2 (Rio Branco)** transforma um passivo ambiental em um **Insumo Industrial de Processamento**, fechando o ciclo da bioeconomia circular regional.
+
+---
+
+---
 
 ---
 

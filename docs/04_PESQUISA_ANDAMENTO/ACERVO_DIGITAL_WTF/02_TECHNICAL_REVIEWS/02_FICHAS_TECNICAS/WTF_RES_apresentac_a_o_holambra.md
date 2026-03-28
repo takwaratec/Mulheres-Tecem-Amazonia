@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A terra não é um negócio, a terra é a nossa mãe."<br>— Ailton Krenak</i></p>
+<p align="right"><i>"A ciência é um patrimônio universal."<br>— Oswaldo Cruz</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -34,6 +34,10 @@ ano_publicacao: '2025'
 - <img src="../../../../../../assets/icons/human_08_black.svg" width="18px"> 3 cabos Institucional (bambu + PU Vegetal)
 - <img src="../../../../../../assets/icons/human_01_black.svg" width="18px"> Amostras de bambu em diferentes idades (jovem, maduro, velho)
 - <img src="../../../../../../assets/icons/human_09_black.svg" width="18px"> Componentes A e B do PU Vegetal para ...
+
+---
+
+---
 
 ---
 

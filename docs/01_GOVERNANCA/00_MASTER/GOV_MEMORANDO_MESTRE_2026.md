@@ -11,15 +11,15 @@ author:
 date: '2026-03-24'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"Eu sou a favor do Brasil real."<br>— Ariano Suassuna</i></p>
+<p align="right"><i>"O povo é o único soberano."<br>— João Ubaldo Ribeiro</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: GOV_MEMORANDO_MESTRE_2026.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -60,6 +60,10 @@ Cada polo territorial integra três camadas de valor:
 
 *Este memorando constitui a base técnica para a submissão BNDES/Fundo Amazônia 2026.*
 *Aprovado pela Coordenação Geral (Profª Tânia).*
+
+---
+
+---
 
 ---
 

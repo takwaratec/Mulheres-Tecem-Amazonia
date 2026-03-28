@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A ciência é um patrimônio universal."<br>— Oswaldo Cruz</i></p>
+<p align="right"><i>"Só se aprende o que se pratica."<br>— Anísio Teixeira</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -30,6 +30,10 @@ Veja as respostas enviadas.
 
 1. Este formulário ficará aberto até o final do dia 26 de agosto de 2025.
 2. O resultado do processo seletivo das palestras será divulgado até o d...
+
+---
+
+---
 
 ---
 

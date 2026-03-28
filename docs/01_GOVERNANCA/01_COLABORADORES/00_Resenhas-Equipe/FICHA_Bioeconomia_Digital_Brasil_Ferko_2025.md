@@ -9,15 +9,15 @@ author:
 date: '2026-03-26'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"Arte sem ética não é arte."<br>— Ariano Suassuna</i></p>
+<p align="right"><i>"Só se aprende o que se pratica."<br>— Anísio Teixeira</i></p>
 
 ### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_Bioeconomia_Digital_Brasil_Ferko_2025.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -54,6 +54,10 @@ MARASSATO, José Mário; ARANTES, Emerson Clayton; FERKO, Georgia Patrícia da S
 
 | Categoria              | Descrição/Dados Relevantes                                                                                                                                                                                                                                                                                                                                                                                             |
 | :
+
+---
+
+---
 
 ---
 

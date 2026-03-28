@@ -11,7 +11,7 @@ date: '2026-03-26'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A força do lugar é a força do mundo."<br>— Milton Santos</i></p>
+<p align="right"><i>"A vida é curta, a arte é longa."<br>— Machado de Assis</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -57,6 +57,10 @@ Para produzir novos documentos ou conteúdos sobre o Big Project:
 2.  **Tecnologia**: Identifique o `Cód T` e consulte o `Memorial` correspondente para fidelidade técnica.
 3.  **Rubrica**: Verifique o `Inventário Cirúrgico` para garantir que o custo está dentro do orçamento BNDES.
 4.  **Localização**: Cruze com a `NT-GEO-002` para contextualizar a entrega no território do Acre.
+
+---
+
+---
 
 ---
 

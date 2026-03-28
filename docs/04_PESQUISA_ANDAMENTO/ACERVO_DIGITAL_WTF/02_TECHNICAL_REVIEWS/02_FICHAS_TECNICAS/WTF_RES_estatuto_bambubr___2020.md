@@ -10,7 +10,7 @@ ano_publicacao: '2020'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O espaço geográfico é o encontro de objetos e ações."<br>— Milton Santos</i></p>
+<p align="right"><i>"A vida é curta, a arte é longa."<br>— Machado de Assis</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -23,6 +23,10 @@ ano_publicacao: '2020'
 ## CAPÍTULO I - Da denominação, duração, sede e fins
 
 Artigo 1º A Associação Brasileira do Bambu, também denominada pela sigla BambuBR ou por sua identidade visual logotipo/logomarca, é uma associação  civil  de  direito  privado,  sem  fins  lucrativos,  fundada  em 20/04/2018  e  duração  por  tempo  indeterminado,  com  autonomia administrativa, financeira e política, regendo-se pelo presente estatuto e pelos artigos 44 e 53 a 61 da Lei 10.406 de...
+
+---
+
+---
 
 ---
 

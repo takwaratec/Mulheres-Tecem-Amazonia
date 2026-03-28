@@ -53,7 +53,7 @@ Em suma, o "IMPERVEGº RQI 132" demonstrou excelente compatibilidade térmica e 
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A educação não transforma o mundo. Educação muda as pessoas. Pessoas mudam o mundo."<br>— Paulo Freire</i></p>
+<p align="right"><i>"A força do lugar é a força do mundo."<br>— Milton Santos</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -74,6 +74,10 @@ Em suma, o "IMPERVEGº RQI 132" demonstrou excelente compatibilidade térmica e 
 **Autor da Análise:** Fabio Resck Takwara (ORCID: "0009-0002-6044-2583")
 **Data da Revisão:** 25/03/2026
 **Local da Análise:** "São Paulo-SP"
+
+---
+
+---
 
 ---
 

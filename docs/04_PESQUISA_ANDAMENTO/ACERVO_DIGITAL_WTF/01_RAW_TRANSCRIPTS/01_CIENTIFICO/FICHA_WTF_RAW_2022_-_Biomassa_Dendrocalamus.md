@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O homem é o estilo."<br>— Machado de Assis</i></p>
+<p align="right"><i>"O conhecimento é a nossa maior arma contra o atraso."<br>— Bertha Lutz</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -59,6 +59,10 @@ Buscar alternativas sustentáveis para diversificar a matriz energética tornou-
 2.  INTERNATIONAL ENERGY AGENCY (2021)
 
 *(Observação: As referências completas não foram fornecidas no fragmento. Apenas as citações no texto foram extraídas e formatadas para indicar a autoria e o ano.)***
+
+---
+
+---
 
 ---
 

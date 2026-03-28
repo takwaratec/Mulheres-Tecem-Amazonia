@@ -11,7 +11,7 @@ date: '2026-03-24'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O Brasil, última nação a abrogar a escravidão, tem um compromisso terrível com o seu povo."<br>— Darcy Ribeiro</i></p>
+<p align="right"><i>"O real não está na saída nem na chegada: ele se dispõe para a gente é no meio da travessia."<br>— Guimarães Rosa</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -95,6 +95,10 @@ Abaixo, os fundamentos científicos que validam a rota tecnológica Takwara:
 - <img src="../../../../../../assets/icons/human_15_black.svg" width="18px"> **GALLÓN, R. T. & DELGADO, M. (2015):** <img src="../../../../../../assets/icons/human_15_black.svg" width="18px"> *Chemical Characterization of Pyroligneous Acid from Guadua angustifolia Kunth.* <img src="../../../../../../assets/icons/human_15_black.svg" width="18px"> Documenta a alta concentração de compostos fenólicos no extrato de *Guadua*, validando seu uso na "ativação" natural para filtros hídricos.
 - <img src="../../../../../../assets/icons/human_08_black.svg" width="18px"> **PANITA, A. & SUMARSONO, D. A. (2015):** <img src="../../../../../../assets/icons/human_08_black.svg" width="18px"> *Utilization of Dendrocalamus Asper Bamboo Charcoal and Pyroligneous Acid.* <img src="../../../../../../assets/icons/human_08_black.svg" width="18px"> Demonstra que a combinação do carvão com seu próprio ácido maximiza a capacidade de adsorção através da abertura de porosidade secundária em processos de maturação térmica.
 - <img src="../../../../../../assets/icons/human_19_black.svg" width="18px"> **LIN, H. C. (2017):** <img src="../../../../../../assets/icons/human_19_black.svg" width="18px"> *Safety Evaluation of Bamboo Pyrolysis Products.* <img src="../../../../../../assets/icons/human_19_black.svg" width="18px"> Fornece a base de segurança para o uso doméstico e comunitário dos subprodutos da pirólise em sistemas descentralizados.
+
+---
+
+---
 
 ---
 

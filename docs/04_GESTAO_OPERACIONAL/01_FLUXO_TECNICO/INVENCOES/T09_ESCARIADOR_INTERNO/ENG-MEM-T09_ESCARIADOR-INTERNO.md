@@ -13,7 +13,7 @@ date: '2026-03-24'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O que vale na vida não é o ponto de partida e sim a caminhada."<br>— Cora Coralina</i></p>
+<p align="right"><i>"O real não está na saída nem na chegada: ele se dispõe para a gente é no meio da travessia."<br>— Guimarães Rosa</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -62,6 +62,10 @@ A invenção consiste em um **Eixo Longilíneo Telescópico** dotado de uma **Ca
 ## Como Citar
 **APA:**
 Takwara, F. R. (2026). *Memorial Técnico: Escariador Interno de Nós de Bambu T09* (v1.0). Projeto Mulheres Que Tecem a Floresta / Consórcio UnB/UFRR/UFAC.
+
+---
+
+---
 
 ---
 

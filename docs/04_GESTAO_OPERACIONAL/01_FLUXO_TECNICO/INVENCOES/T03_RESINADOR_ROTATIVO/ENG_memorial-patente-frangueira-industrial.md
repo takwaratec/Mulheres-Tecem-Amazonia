@@ -21,7 +21,7 @@ version: '5.1'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A vida é curta, a arte é longa."<br>— Machado de Assis</i></p>
+<p align="right"><i>"O Brasil precisa de ciência para ser soberano."<br>— Ennio Candotti</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -82,6 +82,10 @@ O sistema é otimizado para o **"Gel-Time"** do biopolímero (aprox. 2 horas). C
 
 **APA:**
 Takwara, F. R. (2026). *Memorial Jurídico: Resinador Rotativo Industrial "Frangueira" T03* (Versão 5.1). Memorial de Patente — Núcleo Institucional / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106
+
+---
+
+---
 
 ---
 

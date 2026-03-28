@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O homem é o estilo."<br>— Machado de Assis</i></p>
+<p align="right"><i>"O povo é o único soberano."<br>— João Ubaldo Ribeiro</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -62,6 +62,10 @@ O texto não apresenta citações bibliográficas formais (Autor, Ano) que permi
 - <img src="../../../../../../assets/icons/human_05_black.svg" width="18px"> BNDES/Fundo Amazônia
 - <img src="../../../../../../assets/icons/human_15_black.svg" width="18px"> Fundo Clima
 - <img src="../../../../../../assets/icons/human_13_black.svg" width="18px"> Pronaf Bioeconomia
+
+---
+
+---
 
 ---
 

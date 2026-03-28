@@ -11,7 +11,7 @@ date: '2026-03-26'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Não se morre enquanto houver quem nos lembre."<br>— Cora Coralina</i></p>
+<p align="right"><i>"A crise da educação no Brasil não é uma crise; é um projeto."<br>— Darcy Ribeiro</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -86,6 +86,10 @@ A sublimação de uma cultura não acontece com um grito. Acontece no silêncio.
 *Elaborado para o Projeto Mulheres Tecem Amazônia *
 *Núcleo Institucional / Universidade de Brasília*
 *21 de Março de 2026*
+
+---
+
+---
 
 ---
 

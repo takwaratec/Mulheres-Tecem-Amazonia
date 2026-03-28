@@ -10,7 +10,7 @@ ano_publicacao: '2020'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Não se morre enquanto houver quem nos lembre."<br>— Cora Coralina</i></p>
+<p align="right"><i>"A vida é curta, a arte é longa."<br>— Machado de Assis</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -29,6 +29,10 @@ ano_publicacao: '2020'
 Mauro Bologna ͷ,ͻ &amp; Gerardo Aquino ͸,͹,ͺ,ͻ ✉
 
 In this paper we afford a quantitative analysis of the sustainability of current world population growth in relation to the parallel deforestation process adopting a statistical point of view. We consider a simplified model based on a stochastic growth process driven by a continuous time random walk, which depicts the technological...
+
+---
+
+---
 
 ---
 

@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O povo é o único soberano."<br>— João Ubaldo Ribeiro</i></p>
+<p align="right"><i>"O Brasil é uma invenção de si mesmo."<br>— João Ubaldo Ribeiro</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -31,6 +31,10 @@ Descrever o sistema construtivo de cabos para ferramentas agrícolas utilizando 
 ## 2. Materiais Utilizados
 
 - <img src="../../../../../../assets/icons/human_04_black.svg" width="18px"> Colmos de Bambu: S...
+
+---
+
+---
 
 ---
 

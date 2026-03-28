@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O espaço geográfico é o encontro de objetos e ações."<br>— Milton Santos</i></p>
+<p align="right"><i>"Nós somos a floresta que pensa."<br>— Davi Kopenawa</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -107,6 +107,10 @@ MUNIZ, A. S. S. S.; PELLEGRINI, M. A.; FERKO, G. P. S. Cultura e espaço de cuid
 PASTORE JR, F.; ARAÚJO, V. F. Bambu no Brasil: potencial de uso e tecnologias de transformação. [S. l.]: [s. n.], [s. d.]. Nota: Identificado nos arquivos LATEQ/UnB.
 
 PASTORE JR, F.; ARAÚJO, V. F. Plantas da Amazônia para Produção Cosmética: uma abordagem química (v. 1). [S. l.]: [s. n.], 2005. Disponível em: <https://www.scribd.com/document/382619216/2-2-Plantas-da-Amazonia-para-producao-cosmetica-pdf>. Acesso em: 17 maio 2024.
+
+---
+
+---
 
 ---
 

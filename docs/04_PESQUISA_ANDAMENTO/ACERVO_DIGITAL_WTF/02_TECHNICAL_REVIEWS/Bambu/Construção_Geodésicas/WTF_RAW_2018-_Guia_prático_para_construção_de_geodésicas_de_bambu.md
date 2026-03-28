@@ -15,7 +15,7 @@ Neste guia é mostrado um procedimento para construir uma cúpula geodésica usa
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O conhecimento é a nossa maior arma contra o atraso."<br>— Bertha Lutz</i></p>
+<p align="right"><i>"Ciência é a investigação da verdade."<br>— Carlos Chagas</i></p>
 
 ### <img src="../../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -112,6 +112,10 @@ O fechamento da cúpula geodésica pode ser feito em diferentes etapas unindo as
 ### Referências
 
 OSTAPIV, F.; SALAMON, C.; STAHLSCHNIDT, J.; BETT, C.F. Estudos iniciais para ensaios e construção de cúpulas geodésicas usando colmos de bambu. **MIX SUSTENTÁVEL (ONLINE)**, Santa Catarina, v. 4, p. 108-116, 2018. Disponível em: <http://www.nexos.ufsc.br/index.php/mixsustentavel/article/view/2506/1549>. Acesso em: [Inserir data de acesso]. DOI: [DOI não informado no texto original].
+
+---
+
+---
 
 ---
 

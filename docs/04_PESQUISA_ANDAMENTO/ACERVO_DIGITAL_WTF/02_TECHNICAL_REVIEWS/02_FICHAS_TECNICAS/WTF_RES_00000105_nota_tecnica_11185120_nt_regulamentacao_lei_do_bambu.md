@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A vida é curta, a arte é longa."<br>— Machado de Assis</i></p>
+<p align="right"><i>"Ensinar não é transferir conhecimento, mas criar as possibilidades para a sua própria produção ou a sua construção."<br>— Paulo Freire</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -27,6 +27,10 @@ Pesquisador Embrapa Acre Dr. Solos em Nutrição de Plantas Área de Concentraç
 Presidente da Associação Brasileira Produtores de Bambu - Aprobambu
 
 O  desenvolvimento  precisa  ser  compatível  com  a  conservação  do  ambiente,  ter capacidade de gerar emprego e renda e buscar o bem-estar da sociedad...
+
+---
+
+---
 
 ---
 

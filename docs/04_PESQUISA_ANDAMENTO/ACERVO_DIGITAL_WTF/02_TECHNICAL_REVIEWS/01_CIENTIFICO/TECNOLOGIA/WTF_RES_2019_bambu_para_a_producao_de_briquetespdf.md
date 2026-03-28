@@ -10,7 +10,7 @@ ano_publicacao: '2019'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O homem é o estilo."<br>— Machado de Assis</i></p>
+<p align="right"><i>"A força do lugar é a força do mundo."<br>— Milton Santos</i></p>
 
 ### <img src="../../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -24,6 +24,10 @@ title: "Resumo Estratégico e Comparativo P&D - Potencial Energético do Bambu p
 status: "Ativo"
 tags: [P&D, Bambu, Bioenergia, Sustentabilidade]
 *Anexos e Documentos Originais (*.pdf) encontram-se dispostos na pasta `02_PESQUISA_DESENVOLVIMENTO` para consulta da coordenação técnica do componente R&D.*
+
+---
+
+---
 
 ---
 

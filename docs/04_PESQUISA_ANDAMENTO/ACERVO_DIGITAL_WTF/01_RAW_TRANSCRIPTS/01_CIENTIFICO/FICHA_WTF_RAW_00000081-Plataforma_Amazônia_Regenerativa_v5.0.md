@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O que vale na vida não é o ponto de partida e sim a caminhada."<br>— Cora Coralina</i></p>
+<p align="right"><i>"Ensinar não é transferir conhecimento, mas criar as possibilidades para a sua própria produção ou a sua construção."<br>— Paulo Freire</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -56,6 +56,10 @@ A Plataforma Amazônia Regenerativa propõe a criação de um polo de bioindúst
 
 ### 4. Extrair Bibliografia citada no texto
 O texto menciona a incorporação de "evidências de Avaliação de Ciclo de Vida (ACV) e validações acadêmicas recentes sobre tecnologias de tratamento térmico/pirolenhoso, compósitos bambu–PU–PET e saneamento ecológico BSM/BER", mas não apresenta referências bibliográficas específicas formatadas conforme ABNT.
+
+---
+
+---
 
 ---
 

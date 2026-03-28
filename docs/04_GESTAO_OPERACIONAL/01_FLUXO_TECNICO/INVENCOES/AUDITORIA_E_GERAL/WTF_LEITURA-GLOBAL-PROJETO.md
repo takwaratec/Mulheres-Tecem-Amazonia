@@ -11,7 +11,7 @@ date: '2026-03-26'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A educação é o direito de todos e dever do Estado."<br>— Anísio Teixeira</i></p>
+<p align="right"><i>"A educação não transforma o mundo. Educação muda as pessoas. Pessoas mudam o mundo."<br>— Paulo Freire</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -43,6 +43,10 @@ A distribuição orçamentária para 24 meses prioriza o **CAPEX de Ativação**
 O sucesso do projeto é medido pela entrega física: 
 - <img src="../../../../../../assets/icons/human_12_black.svg" width="18px"> **Ano 1**: Entrega de 20 Banheiros Secos Modulares (BSM) e ativação do Canteiro-Escola.
 - <img src="../../../../../../assets/icons/human_04_black.svg" width="18px"> **Ano 2**: Escalonamento para 50+ unidades e início das unidades habitacionais (HIS).
+
+---
+
+---
 
 ---
 

@@ -9,15 +9,15 @@ author:
 date: '2026-03-26'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"Eu sou a favor do Brasil real."<br>— Ariano Suassuna</i></p>
+<p align="right"><i>"A força do lugar é a força do mundo."<br>— Milton Santos</i></p>
 
 ### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_Politica_Nacional_Tecnologia_Social_Carvalho_2020.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -52,6 +52,10 @@ A fim de promover trocas econômicas mais justas e comprometidas com a transform
 
 | Característica / Incubadora        | Incubadora Social da UFG              | Núcleo Alternativas de Produção (NAP) da UFMG | Incop da Unesp-Assis                  |
 | :
+
+---
+
+---
 
 ---
 

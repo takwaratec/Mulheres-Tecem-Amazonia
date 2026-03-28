@@ -6,7 +6,7 @@
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Arte sem ética não é arte."<br>— Ariano Suassuna</i></p>
+<p align="right"><i>"As invenções são o resultado de um trabalho teimoso."<br>— Santos Dumont</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -138,6 +138,10 @@ Embora o ITecons seja um centro de excelência, a necessidade de enviar amostras
 * <img src="../../../../assets/icons/human_20_black.svg" width="18px">   **Desenvolvimento de Pesquisa e Inovação:** <img src="../../../../assets/icons/human_20_black.svg" width="18px"> A ausência de uma infraestrutura robusta de testes impede que o Brasil lidere ou participe ativamente da vanguarda da pesquisa e desenvolvimento em certas áreas de materiais de construção, perpetuando um ciclo de dependência tecnológica.
 
 Para o Brasil alcançar uma maior **soberania tecnológica** em materiais de construção e engenharia, é imperativo um investimento estratégico na modernização de laboratórios, na capacitação de pesquisadores e técnicos, e na criação e atualização de normas ABNT que reflitam as exigências internacionais e as necessidades de inovação. A validação de produtos de excelência como o IMPERVEG RQI 132 no próprio país fortaleceria a indústria nacional, impulsionaria a inovação local e reduziria a dependência externa.
+
+---
+
+---
 
 ---
 

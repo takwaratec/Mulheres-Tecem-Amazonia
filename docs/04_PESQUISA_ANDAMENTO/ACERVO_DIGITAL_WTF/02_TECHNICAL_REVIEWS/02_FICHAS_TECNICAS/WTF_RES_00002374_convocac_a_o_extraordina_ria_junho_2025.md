@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Só se aprende o que se pratica."<br>— Anísio Teixeira</i></p>
+<p align="right"><i>"O real não está na saída nem na chegada: ele se dispõe para a gente é no meio da travessia."<br>— Guimarães Rosa</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -23,6 +23,10 @@ ano_publicacao: '2025'
 Ficam convocados todos os associados, nos termos do artigo 15 do Estatuto da BambuBR, para  a  realização  da  Assembleia  Geral  Extraordinária  a  realizar-se  no  próximo  dia 06/07/2025, por meio eletrônico. Endereço: Sistema eletrônico de videoconferência a ser disponibilizado para teste até a data de 05/07/2025, a ser informado.
 
 A convocação dar-se-á às 09:00 horas do dia mencionado, horário de Bra...
+
+---
+
+---
 
 ---
 

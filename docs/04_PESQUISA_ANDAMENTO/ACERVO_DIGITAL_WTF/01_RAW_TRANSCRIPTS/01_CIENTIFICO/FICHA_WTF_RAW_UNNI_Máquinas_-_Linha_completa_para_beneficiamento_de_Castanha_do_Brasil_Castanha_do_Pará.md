@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O espaço geográfico é o encontro de objetos e ações."<br>— Milton Santos</i></p>
+<p align="right"><i>"Eu sou a favor do Brasil real."<br>— Ariano Suassuna</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -64,6 +64,10 @@ Este documento é uma transcrição de uma página de produtos da empresa UNNI M
 
 ### 4. Extrair Bibliografia citada no texto
 Não há referências bibliográficas citadas no corpo do texto, que consiste em uma transcrição de catálogo de produtos. A única fonte externa é o próprio site da UNNI Máquinas, referenciado na ficha bibliográfica acima.
+
+---
+
+---
 
 ---
 

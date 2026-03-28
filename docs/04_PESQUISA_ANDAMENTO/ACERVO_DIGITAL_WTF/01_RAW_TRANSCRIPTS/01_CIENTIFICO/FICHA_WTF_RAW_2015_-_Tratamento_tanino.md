@@ -63,7 +63,7 @@ O texto fornecido é um extrato de um relatório descritivo de patente, que não
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Eu sou a favor do Brasil real."<br>— Ariano Suassuna</i></p>
+<p align="right"><i>"Inventar é imaginar o que os outros não pensaram."<br>— Santos Dumont</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -72,6 +72,10 @@ O texto fornecido é um extrato de um relatório descritivo de patente, que não
 *   **Status**: Status Em Revisão
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
+
+---
+
+---
 
 ---
 

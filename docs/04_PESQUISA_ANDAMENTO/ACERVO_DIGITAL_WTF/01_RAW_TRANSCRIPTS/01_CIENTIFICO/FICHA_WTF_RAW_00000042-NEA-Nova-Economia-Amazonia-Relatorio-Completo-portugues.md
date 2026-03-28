@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A terra não é um negócio, a terra é a nossa mãe."<br>— Ailton Krenak</i></p>
+<p align="right"><i>"Viver é muito perigoso."<br>— Guimarães Rosa</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -49,6 +49,10 @@ Periódico/Local: São Paulo: WRI Brasil. Relatório.
 
 ### 4. Extrair Bibliografia citada no texto
 Não há outras referências bibliográficas citadas dentro do fragmento de texto fornecido, além da própria sugestão de citação do relatório em questão.
+
+---
+
+---
 
 ---
 

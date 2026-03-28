@@ -12,7 +12,7 @@ date: '2026-03-24'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O real não está na saída nem na chegada: ele se dispõe para a gente é no meio da travessia."<br>— Guimarães Rosa</i></p>
+<p align="right"><i>"O povo é o único soberano."<br>— João Ubaldo Ribeiro</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -58,6 +58,10 @@ Implantar um polo integrado de beneficiamento de bambu, castanha-do-Brasil e aç
 2. **Estrutural:** Dimensionamento conforme ABNT NBR 16828-1:2020 e ISO 22157:2019. Conexões em aço para garantir durabilidade e flexibilidade estrutural.[^1]
 3. **Térmico:** Operação de caldeira T04 a 0 barg (vapor saturado a 100°C), simplificando certificações NR-13 sem comprometer a segurança operacional.[^1]
 4. **MRV e Auditoria:** Integração com  Plotter v1.0 para rastreabilidade total de colmos e bioativos.[^1]
+
+---
+
+---
 
 ---
 

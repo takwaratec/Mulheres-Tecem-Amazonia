@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O real não está na saída nem na chegada: ele se dispõe para a gente é no meio da travessia."<br>— Guimarães Rosa</i></p>
+<p align="right"><i>"Não se faz ciência sem amor ao próximo."<br>— Oswaldo Cruz</i></p>
 
 ### <img src="../../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -24,6 +24,10 @@ title: "Resumo Estratégico e Comparativo P&D - FISPQ PU Vegetal Sinergia"
 status: "Ativo"
 tags: [P&D, Bioinsumos, Processos Químicos, Segurança do Trabalho]
 *Anexos e Documentos Originais (*.pdf) encontram-se dispostos na pasta `02_PESQUISA_DESENVOLVIMENTO` para consulta da coordenação técnica do componente R&D.*
+
+---
+
+---
 
 ---
 

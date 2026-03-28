@@ -1,25 +1,25 @@
 ---
-projeto: Mulheres Que Tecem a Floresta 
+projeto: Mulheres Que Tecem a Floresta
 instituicao: Consórcio UnB/UFRR/UFAC
 tipo: Memorando Técnico e de Governança (GOV)
-referencia: GOV-MEM-001-2026
-status: Status Ready
+referencia: WTF_PROJETO_INTEGRADO.md
+status: Status Em Revisão
 author:
 - name: Consórcio UnB/UFRR/UFAC
-date: '2026-03-24'
+date: '2026-03-28'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O Brasil é uma invenção de si mesmo."<br>— João Ubaldo Ribeiro</i></p>
+<p align="right"><i>"O povo é o único soberano."<br>— João Ubaldo Ribeiro</i></p>
 
 ### <img src="../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: WTF_PROJETO_INTEGRADO.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Em Revisão
 *   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 27 de Março de 2026
+*   **Data**: 28 de Março de 2026
 
 # MEMORANDO TÉCNICO E DE GOVERNANÇA
 ## PROJETO MULHERES QUE TECEM A FLORESTA
@@ -370,6 +370,10 @@ Com R$ 30 milhões solicitados ao BNDES (R$ 25 milhões líquidos aplicados em C
 * <img src="../../../assets/icons/human_08_black.svg" width="18px"> **Um núcleo permanente de formação e inovação em bioeconomia na Amazônia Legal.**
 
 Este memorando técnico e de governança estabelece as bases para execução, monitoramento e prestação de contas, alinhado integralmente às diretrizes do **Fundo Amazônia, BNDES** e programas de bioeconomia feminina em curso.
+
+---
+
+---
 
 ---
 

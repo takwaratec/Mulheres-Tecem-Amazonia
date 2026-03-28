@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O céu está caindo porque os brancos não param de comer a terra."<br>— Davi Kopenawa</i></p>
+<p align="right"><i>"Ensinar não é transferir conhecimento, mas criar as possibilidades para a sua própria produção ou a sua construção."<br>— Paulo Freire</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -33,6 +33,10 @@ Assunto: Análise técnica sobre a gestão de fim de vida, protocolos de descart
 ## Resumo Executivo
 
 Este relatório técnico apresenta uma análise exaustiva e uma estrutura de gestão integrada para o bambu trat...
+
+---
+
+---
 
 ---
 

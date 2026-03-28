@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O povo é o único soberano."<br>— João Ubaldo Ribeiro</i></p>
+<p align="right"><i>"A vida é curta, a arte é longa."<br>— Machado de Assis</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -31,6 +31,10 @@ Vimos, pela presente, aplicar-lhe advertência disciplinar pelo fato de difamar 
 Solicitamos  adequar  seu  comportamento  às  normas  estatutárias  desta  associação  e  manter  a disciplina necessária à boa convivência com todos os associados.
 
 Esclarecemos que ...
+
+---
+
+---
 
 ---
 

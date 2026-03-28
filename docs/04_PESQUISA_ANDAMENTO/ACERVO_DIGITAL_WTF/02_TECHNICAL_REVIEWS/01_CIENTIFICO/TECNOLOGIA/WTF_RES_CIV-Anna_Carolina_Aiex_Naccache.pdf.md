@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O povo é o único soberano."<br>— João Ubaldo Ribeiro</i></p>
+<p align="right"><i>"A vida é curta, a arte é longa."<br>— Machado de Assis</i></p>
 
 ### <img src="../../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -24,6 +24,10 @@ title: "Resumo Estratégico e Comparativo P&D - Tratamentos de Bambu para Uso Es
 status: "Ativo"
 tags: [P&D, Bambu, Construção Sustentável, Bioeconomia]
 *Anexos e Documentos Originais (*.pdf) encontram-se dispostos na pasta `02_PESQUISA_DESENVOLVIMENTO` para consulta da coordenação técnica do componente R&D.*
+
+---
+
+---
 
 ---
 

@@ -65,7 +65,7 @@ O fragmento de texto fornecido não contém uma seção de "Referências Bibliog
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A ciência não é apenas um corpo de conhecimento, é um modo de pensar."<br>— Marcelo Gleiser</i></p>
+<p align="right"><i>"A ciência é um patrimônio universal."<br>— Oswaldo Cruz</i></p>
 
 ### <img src="../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -74,6 +74,10 @@ O fragmento de texto fornecido não contém uma seção de "Referências Bibliog
 *   **Status**: Status Em Revisão
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
+
+---
+
+---
 
 ---
 

@@ -9,15 +9,15 @@ author:
 date: '2026-03-26'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"O espaço geográfico é o encontro de objetos e ações."<br>— Milton Santos</i></p>
+<p align="right"><i>"Ensinar não é transferir conhecimento, mas criar as possibilidades para a sua própria produção ou a sua construção."<br>— Paulo Freire</i></p>
 
 ### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_Bioeconomia uma agenda para o Brasil.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -111,6 +111,10 @@ As diretrizes extraídas do relatório para o Projeto WTF e a bioeconomia amazô
 27. TIMES, P. et al. Programming Languages for Synthetic Biology. **Syst. Synth. Biol.**, [s. l.], v. 4, n. 125, p. 134, 2010.
 28. U.S. NATIONAL BIOECONOMY BLUEPRINT. **The White House**. [S. l.: s. n.], 2012.
 29. UNESCO. **O mapa estratégico da Indústria 2013-2022**. [S. l.]: UNESCO, [s.d.]. Disponível em: http://www.mct.gov.br/upd_blob/0225/225301.pdf. Acesso em: 13 mai. 2013.
+
+---
+
+---
 
 ---
 

@@ -10,7 +10,7 @@ ano_publicacao: '2017'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O Brasil, última nação a abrogar a escravidão, tem um compromisso terrível com o seu povo."<br>— Darcy Ribeiro</i></p>
+<p align="right"><i>"Nós somos a floresta que pensa."<br>— Davi Kopenawa</i></p>
 
 ### <img src="../../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -24,6 +24,10 @@ title: "Resumo Estratégico e Comparativo P&D - Resistência Mecânica dos Bambu
 status: "Ativo"
 tags: [P&D, Bambu, Engenharia Estrutural, Construção Sustentável]
 *Anexos e Documentos Originais (*.pdf) encontram-se dispostos na pasta `02_PESQUISA_DESENVOLVIMENTO` para consulta da coordenação técnica do componente R&D.*
+
+---
+
+---
 
 ---
 

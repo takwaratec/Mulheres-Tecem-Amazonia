@@ -9,15 +9,15 @@ author:
 date: '2026-03-24'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"A terra não é um negócio, a terra é a nossa mãe."<br>— Ailton Krenak</i></p>
+<p align="right"><i>"Não se faz ciência sem amor ao próximo."<br>— Oswaldo Cruz</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: BUDGET_orcamento-30mi-qualificado.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -86,6 +86,10 @@ date: '2026-03-24'
 > [!NOTE]
 > **INDICADORES DE EFICIÊNCIA:**
 > Essa estrutura está alinhada com as diretrizes do Fundo Amazônia e programas como Coopera+ Amazônia, priorizando formação, autonomia das mulheres e sustentabilidade de longo prazo, com CAPEX eficiente e OPEX robusto.
+
+---
+
+---
 
 ---
 

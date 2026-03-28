@@ -11,15 +11,15 @@ author:
 date: '2026-03-24'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"Ensinar não é transferir conhecimento, mas criar as possibilidades para a sua própria produção ou a sua construção."<br>— Paulo Freire</i></p>
+<p align="right"><i>"O Brasil precisa de ciência para ser soberano."<br>— Ennio Candotti</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: BUDGET_bom-modular.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -62,6 +62,10 @@ O Núcleo Institucional não é mais uma parceiro externa, mas **parte integrant
 - <img src="../../../../assets/icons/human_16_black.svg" width="18px"> **Engenharia de Campo**: Atuação direta na montagem e manutenção dos hubs de engenharia e kits territoriais.
 
 > **Nota sobre COP30:** Todas as referências à COP30 futura foram removidas. O projeto agora foca em resultados tangíveis pós-conferência e resiliência local.
+
+---
+
+---
 
 ---
 

@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O conhecimento é a nossa maior arma contra o atraso."<br>— Bertha Lutz</i></p>
+<p align="right"><i>"O futuro pode ser ancestral."<br>— Ailton Krenak</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -60,6 +60,10 @@ Espécies Invasoras
 ### 4. BIBLIOGRAFIA CITADA NO TEXTO
 * <img src="../../../../../../assets/icons/human_01_black.svg" width="18px">   FU, [Ano não especificado]. In: [Detalhes completos não disponíveis no texto].
 * <img src="../../../../../../assets/icons/human_15_black.svg" width="18px">   PIMENTEL, D. et al. **Economia, Agricultura, Ecossistema e Ambiente**. [Local: Editora], 2001. (Local e editora não especificados no texto).
+
+---
+
+---
 
 ---
 

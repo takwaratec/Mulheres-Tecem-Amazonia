@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O Brasil é uma invenção de si mesmo."<br>— João Ubaldo Ribeiro</i></p>
+<p align="right"><i>"As invenções são o resultado de um trabalho teimoso."<br>— Santos Dumont</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -57,6 +57,10 @@ Coordenadas geográficas: Não mencionadas no texto.
 ### 4. EXTRAÇÃO DE BIBLIOGRAFIA CITADA NO TEXTO
 1.  DRUMOND, M. A.; WIEDMAN, G. (2017). A citação completa não está presente no texto. Uma possível referência, com base em pesquisa externa e contexto científico, é:
     DRUMOND, M. A.; WIEDMAN, G. **Usos do Bambu no Brasil.** 2. ed. [S. l.]: Livraria e Editora Livronovo, 2017.
+
+---
+
+---
 
 ---
 

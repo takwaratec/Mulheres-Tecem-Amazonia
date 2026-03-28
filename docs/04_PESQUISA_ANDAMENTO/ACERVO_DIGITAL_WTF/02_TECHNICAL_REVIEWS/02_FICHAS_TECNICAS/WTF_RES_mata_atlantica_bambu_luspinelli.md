@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Ensinar não é transferir conhecimento, mas criar as possibilidades para a sua própria produção ou a sua construção."<br>— Paulo Freire</i></p>
+<p align="right"><i>"O conhecimento é a nossa maior arma contra o atraso."<br>— Bertha Lutz</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -26,6 +26,10 @@ Outubro/2003
 
 
 Resumo :  Nos últimos anos diversas discussões vêm sendo realizadas com o intuito de aprimorar diretrizes  e  políticas  de  preservação  e  recuperação  da  Mata  Atlântica.  A  impleme...
+
+---
+
+---
 
 ---
 

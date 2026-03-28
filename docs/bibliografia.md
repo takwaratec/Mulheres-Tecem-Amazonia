@@ -3,15 +3,15 @@ projeto: Mulheres Que Tecem a Floresta
 instituicao: Consórcio UnB/UFRR/UFAC
 tipo: Referências Bibliográficas (ANEXO)
 referencia: ANX-REF-001-2026
-status: Status Ready
+status: Status Em Revisão
 author:
 - name: Consórcio UnB/UFRR/UFAC
-date: '2026-03-24'
+date: '2026-03-28'
 ---
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O Brasil é uma invenção de si mesmo."<br>— João Ubaldo Ribeiro</i></p>
+<p align="right"><i>"O que vale na vida não é o ponto de partida e sim a caminhada."<br>— Cora Coralina</i></p>
 
 ### <img src="../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -19,7 +19,7 @@ date: '2026-03-24'
 *   **Referência**: bibliografia.md
 *   **Status**: Status Em Revisão
 *   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 27 de Março de 2026
+*   **Data**: 28 de Março de 2026
 
 # ANEXO VII: Referências Bibliográficas e Publicações
 **Base Científica e Técnica do Projeto (Consolidado 2026)**
@@ -56,6 +56,10 @@ date: '2026-03-24'
 - <img src="../../assets/icons/human_16_black.svg" width="18px"> **WRI BRASIL.** <img src="../../assets/icons/human_16_black.svg" width="18px"> Nova Economia da Amazônia: Transição para a Base Florestal. 2023.
 - <img src="../../assets/icons/human_09_black.svg" width="18px"> **BRASIL.** <img src="../../assets/icons/human_09_black.svg" width="18px"> Lei nº 13.123/2015 (Marco da Biodiversidade e Acesso ao Patrimônio Genético).
 - <img src="../../assets/icons/human_17_black.svg" width="18px"> **UNB/UFAC/UFRR.** <img src="../../assets/icons/human_17_black.svg" width="18px"> Proposta Estruturante de Bio-Soberania: Transformando Passivos em Ativos Regenerativos. 2025.
+
+---
+
+---
 
 ---
 

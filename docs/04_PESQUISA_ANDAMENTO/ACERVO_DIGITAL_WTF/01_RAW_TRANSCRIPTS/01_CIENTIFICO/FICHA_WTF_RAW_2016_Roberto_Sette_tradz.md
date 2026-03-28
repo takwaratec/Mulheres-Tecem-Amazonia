@@ -58,7 +58,7 @@ SETTE JR, C. R.; FREITAS, P. C. e; FREITAS, V. P.; YAMAJI, F. M.; ALMEIDA, R. A.
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O Brasil é uma invenção de si mesmo."<br>— João Ubaldo Ribeiro</i></p>
+<p align="right"><i>"A terra não é um negócio, a terra é a nossa mãe."<br>— Ailton Krenak</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -67,6 +67,10 @@ SETTE JR, C. R.; FREITAS, P. C. e; FREITAS, V. P.; YAMAJI, F. M.; ALMEIDA, R. A.
 *   **Status**: Status Em Revisão
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
+
+---
+
+---
 
 ---
 

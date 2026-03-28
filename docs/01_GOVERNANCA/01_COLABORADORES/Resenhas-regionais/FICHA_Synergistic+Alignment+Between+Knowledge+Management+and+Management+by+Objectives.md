@@ -9,15 +9,15 @@ author:
 date: '2026-03-26'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"A ciência não é apenas um corpo de conhecimento, é um modo de pensar."<br>— Marcelo Gleiser</i></p>
+<p align="right"><i>"Ensinar não é transferir conhecimento, mas criar as possibilidades para a sua própria produção ou a sua construção."<br>— Paulo Freire</i></p>
 
 ### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_Synergistic+Alignment+Between+Knowledge+Management+and+Management+by+Objectives.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -51,6 +51,10 @@ GAMMARANO, Igor; MARTINS, Miralda Sousa; SOARES, Cléber Beleza; SANTOS, Cleber
 
 | Item / Dado                   | Descrição / Valor                                                                                                      |
 | :
+
+---
+
+---
 
 ---
 

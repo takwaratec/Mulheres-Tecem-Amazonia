@@ -25,7 +25,7 @@ version: '3.0'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A ciência não é apenas um corpo de conhecimento, é um modo de pensar."<br>— Marcelo Gleiser</i></p>
+<p align="right"><i>"A educação é o direito de todos e dever do Estado."<br>— Anísio Teixeira</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -257,6 +257,10 @@ A terceira prova aguarda.
 - <img src="../../../../assets/icons/human_07_black.svg" width="18px"> VERRA. **VM0044**: Methodology for Biochar Utilization. v. 1.2. Washington, DC, 2025. [Acesso via Verra](https://verra.org/methodologies/vm0044)
 
 - <img src="../../../../assets/icons/human_13_black.svg" width="18px"> ZANUNCIO, A. J. V. et al. Colorimetria aplicada à ciência da madeira. *Floresta e Ambiente*, v. 21, n. 1, 2014. [doi:10.4322/floram.2014.010](https://doi.org/10.4322/floram.2014.010)
+
+---
+
+---
 
 ---
 

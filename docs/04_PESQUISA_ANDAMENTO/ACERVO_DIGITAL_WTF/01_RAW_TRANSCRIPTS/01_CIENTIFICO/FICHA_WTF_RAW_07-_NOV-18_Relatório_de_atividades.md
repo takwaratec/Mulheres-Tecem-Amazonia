@@ -56,7 +56,7 @@ Não há referências bibliográficas formatadas em ABNT ou de outro formato cit
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Ciência é a investigação da verdade."<br>— Carlos Chagas</i></p>
+<p align="right"><i>"Arte sem ética não é arte."<br>— Ariano Suassuna</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -65,6 +65,10 @@ Não há referências bibliográficas formatadas em ABNT ou de outro formato cit
 *   **Status**: Status Em Revisão
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
+
+---
+
+---
 
 ---
 

@@ -21,7 +21,7 @@ version: '5.1'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Não se morre enquanto houver quem nos lembre."<br>— Cora Coralina</i></p>
+<p align="right"><i>"O futuro pode ser ancestral."<br>— Ailton Krenak</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -71,6 +71,10 @@ O projeto prioriza o **CAPEX reduzido** (investimento inicial baixo).
 
 **APA:**
 Institucional, F. R. (2026). *Conceituação Técnica: Prensa de Sanduíche para Painéis e OSB T07* (Versão 5.1). Nota Técnica — Núcleo Institucional / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106
+
+---
+
+---
 
 ---
 

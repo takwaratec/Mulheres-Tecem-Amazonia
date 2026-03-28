@@ -8,7 +8,7 @@ licenca: CC BY-NC 4.0
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Ciência é a investigação da verdade."<br>— Carlos Chagas</i></p>
+<p align="right"><i>"As invenções são o resultado de um trabalho teimoso."<br>— Santos Dumont</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -63,6 +63,10 @@ STEFANDITYA, Y. et al. **Design of Rocket Stove with Computational Fluid Dynamic
 ---
 > [!NOTE]
 > Este documento foi gerado via protocolo `/triage` a partir do documento bruto `125994011.pdf` e integra a base de conhecimento soberano da Biorrefinaria 5.1.
+
+---
+
+---
 
 ---
 

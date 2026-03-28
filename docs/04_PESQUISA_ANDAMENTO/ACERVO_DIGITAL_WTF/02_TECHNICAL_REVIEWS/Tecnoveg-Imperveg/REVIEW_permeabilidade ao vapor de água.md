@@ -51,7 +51,7 @@ Em síntese, o IMPERVEGº RQI 132 demonstra total conformidade com os requisitos
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A educação não transforma o mundo. Educação muda as pessoas. Pessoas mudam o mundo."<br>— Paulo Freire</i></p>
+<p align="right"><i>"As invenções são o resultado de um trabalho teimoso."<br>— Santos Dumont</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -72,6 +72,10 @@ Em síntese, o IMPERVEGº RQI 132 demonstra total conformidade com os requisitos
 **Autor da Análise:** Fabio Resck Takwara (ORCID: "0009-0002-6044-2583")
 **Data da Revisão:** 25/03/2026
 **Local da Análise:** "São Paulo-SP"
+
+---
+
+---
 
 ---
 

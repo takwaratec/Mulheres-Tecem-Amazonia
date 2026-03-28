@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A educação não transforma o mundo. Educação muda as pessoas. Pessoas mudam o mundo."<br>— Paulo Freire</i></p>
+<p align="right"><i>"O que vale na vida não é o ponto de partida e sim a caminhada."<br>— Cora Coralina</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -26,6 +26,10 @@ A sustentabilidade t ó xica de p é s descal ç os
 
 
 ediquei mais de uma d é cada da minha vida ao bambu. Estudei suas qualidades e caracter í sticas, testei alternativas de tratamento n ã o t ó xico, visitei comunidades produtoras, dialoguei com pesquisadores nacionais e internacionais. Durante todos esses ano...
+
+---
+
+---
 
 ---
 

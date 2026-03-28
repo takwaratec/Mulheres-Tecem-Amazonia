@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O real não está na saída nem na chegada: ele se dispõe para a gente é no meio da travessia."<br>— Guimarães Rosa</i></p>
+<p align="right"><i>"O que vale na vida não é o ponto de partida e sim a caminhada."<br>— Cora Coralina</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -23,6 +23,10 @@ ano_publicacao: '2025'
 ## Executive Summary
 
 This report explores the thesis of economist Yanis Varoufakis, who argues that capitalism has been supplanted by "technofeudalism," a new global economic order dominated by Big Tech. This new system is characterized by the replacement of markets with digital platforms (digital fiefdoms) and the shift from profit accumulation to the extraction of rent. This transformation is ...
+
+---
+
+---
 
 ---
 

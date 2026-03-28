@@ -12,7 +12,7 @@ date: '2026-03-24'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O Brasil, última nação a abrogar a escravidão, tem um compromisso terrível com o seu povo."<br>— Darcy Ribeiro</i></p>
+<p align="right"><i>"A força do lugar é a força do mundo."<br>— Milton Santos</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -84,6 +84,10 @@ Conforme diretrizes do consórcio, a flutuabilidade e integridade do casco de ba
 - <img src="../../../../../../assets/icons/human_13_black.svg" width="18px"> **Referência Geopolítica**: [GOV_MEMORANDO_MESTRE_2026.md](../../../../01_GOVERNANCA/00_MASTER/GOV_MEMORANDO_MESTRE_2026.md)
 
 *Revisado em 19 de Março de 2026 para retificação de protocolos de tratamento e detalhamento de BoM.*
+
+---
+
+---
 
 ---
 

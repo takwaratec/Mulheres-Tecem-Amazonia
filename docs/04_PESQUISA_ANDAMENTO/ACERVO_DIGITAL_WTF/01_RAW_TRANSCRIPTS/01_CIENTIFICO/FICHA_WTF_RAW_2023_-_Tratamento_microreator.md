@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A crise da educação no Brasil não é uma crise; é um projeto."<br>— Darcy Ribeiro</i></p>
+<p align="right"><i>"A ciência é um patrimônio universal."<br>— Oswaldo Cruz</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -63,6 +63,10 @@ FACULDADES CATÓLICAS. PANDOLI, O. G.; GHAVAMI, K.; SÁ, D. S. **Processo de cor
 - <img src="../../../../../../assets/icons/human_13_black.svg" width="18px">   CHINA. **Microrreator com microestrutura em forma de articulação de bambu**. CN105964198A. (Data de publicação não especificada no texto).
 - <img src="../../../../../../assets/icons/human_02_black.svg" width="18px">   CHINA. **Misturador de um reator tubular**. CN202497876U. (Data de publicação não especificada no texto).
 - <img src="../../../../../../assets/icons/human_12_black.svg" width="18px">   JAPÃO. **Microrreator metálico do estado da técnica e seu método de manufatura**. JP2008100163A. (Data de publicação não especificada no texto).
+
+---
+
+---
 
 ---
 

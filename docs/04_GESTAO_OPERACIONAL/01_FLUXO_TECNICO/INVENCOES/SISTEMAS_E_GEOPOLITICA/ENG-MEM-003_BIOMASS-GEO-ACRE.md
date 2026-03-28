@@ -12,7 +12,7 @@ date: '2026-03-24'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O futuro pode ser ancestral."<br>— Ailton Krenak</i></p>
+<p align="right"><i>"Viver é muito perigoso."<br>— Guimarães Rosa</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -94,6 +94,10 @@ Para fins de integração com o Sistema de Gestão e Monitoramento (), os dados 
 3. **Nelson, B. W. (2001)**: *Dinâmicas de clareiras e ciclos de floração*. (Science/INPA Data).
 4. **IMAC (2015)**: *Instrução Normativa nº 10/2015 - Manejo Sustentável de Bambu*.
 5. **Relatórios AMAAIAC/CPI-Acre**: Etnomapeamento e gestão florestal em terras indígenas. [ENG-MEM-003-REF](ENG-MEM-003_BIOMASS-GEO-ACRE.md)
+
+---
+
+---
 
 ---
 

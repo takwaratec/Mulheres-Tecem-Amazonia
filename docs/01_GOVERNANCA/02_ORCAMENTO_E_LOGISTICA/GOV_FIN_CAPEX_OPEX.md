@@ -9,15 +9,15 @@ author:
 date: '2026-03-24'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"Ciência é a investigação da verdade."<br>— Carlos Chagas</i></p>
+<p align="right"><i>"O espaço geográfico é o encontro de objetos e ações."<br>— Milton Santos</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: GOV_FIN_CAPEX_OPEX.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -58,6 +58,10 @@ O orçamento reserva cerca de **R$ 940.000** para Monitoramento, Comunicação e
 ## <img src="../../../../assets/icons/human_01_red.svg" width="18px"> Conclusão da Auditoria
 
 O orçamento de **R$ 30.000.000** está dimensionado corretamente para a ambição do projeto. A divergência visual no Plotter deve ser tratada como um erro de **configuração de exibição (frontend)** que não invalida a engenharia financeira apresentada ao GG e ao BNDES. A proposta apresenta um balanço CAPEX/OPEX eficiente, priorizando a transferência de tecnologia para as mulheres (via Bolsas) enquanto constrói os ativos de soberania (Maquinário).
+
+---
+
+---
 
 ---
 

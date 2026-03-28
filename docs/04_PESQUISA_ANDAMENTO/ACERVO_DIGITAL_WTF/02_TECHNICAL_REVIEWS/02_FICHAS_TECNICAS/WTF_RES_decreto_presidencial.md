@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O Brasil precisa de ciência para ser soberano."<br>— Ennio Candotti</i></p>
+<p align="right"><i>"Viver é muito perigoso."<br>— Guimarães Rosa</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -27,6 +27,10 @@ ano_publicacao: '2025'
 ## Proposta de regulamentação da Lei do Bambu NÃO ACEITAMOS MENOS QUE ISSO! JUSTIFICATIVA
 
 Este Projeto de Lei consolida 14 anos de omissão governamental sobre uma das políticas mais estratégicas para o desenvolvimento sustentável brasileiro. A regulamentação da PNMCB não é apenas uma questão ambiental, mas de soberania nacional, justiça social e segurança sanitária . A inclusão da ANVISA como ó...
+
+---
+
+---
 
 ---
 

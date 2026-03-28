@@ -11,7 +11,7 @@ date: '2026-03-26'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O conhecimento é a nossa maior arma contra o atraso."<br>— Bertha Lutz</i></p>
+<p align="right"><i>"Não se faz ciência sem amor ao próximo."<br>— Oswaldo Cruz</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -86,6 +86,10 @@ O investimento em pessoas (OPEX) é desenhado para que, após 48 meses, a rede d
 - <img src="../../../../assets/icons/human_07_black.svg" width="18px">   **Alavancagem**: Cada R$ 1 investido em máquinas no Acre deve gerar capacidade produtiva para R$ 2 em serviços nos territórios.
 - <img src="../../../../assets/icons/human_11_black.svg" width="18px">   **Equidade**: Mínimo de 60% do orçamento de formação (Núcleo 2) destinado diretamente a mulheres e lideranças de base.
 - <img src="../../../../assets/icons/human_03_black.svg" width="18px">   **Carbono**: Custo por tonelada de CO2e removida monitorado via MRV automatizado.
+
+---
+
+---
 
 ---
 

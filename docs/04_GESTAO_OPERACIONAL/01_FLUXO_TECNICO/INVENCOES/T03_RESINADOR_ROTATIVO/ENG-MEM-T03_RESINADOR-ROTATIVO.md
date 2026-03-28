@@ -20,7 +20,7 @@ keywords:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O povo é o único soberano."<br>— João Ubaldo Ribeiro</i></p>
+<p align="right"><i>"O Brasil é uma invenção de si mesmo."<br>— João Ubaldo Ribeiro</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -74,6 +74,10 @@ Sincronizado com o "Gel-Time" do biopolímero (aprox. 2 horas), o layout inclui 
 ## Como Citar
 **APA:**
 Takwara, F. R. (2026). *Memorial Jurídico: Resinador Rotativo Industrial "Frangueira" T03* (Versão 1.0 Mulheres que Tecem a Floresta). Projeto Mulheres Que Tecem a Floresta / Consórcio Consórcio UnB/UFRR/UFAC. https://doi.org/10.5281/zenodo.18827106
+
+---
+
+---
 
 ---
 

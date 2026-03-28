@@ -9,15 +9,15 @@ author:
 date: '2026-03-24'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"O Brasil é uma invenção de si mesmo."<br>— João Ubaldo Ribeiro</i></p>
+<p align="right"><i>"Nós somos a floresta que pensa."<br>— Davi Kopenawa</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: REP_memorial-contrapartida-PI.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -86,6 +86,10 @@ A valoração deste compêndio de PI baseia-se nos custos de Pesquisa e Desenvol
 
 *Texto completo da licença:
 [creativecommons.org/licenses/by/4.0](https://creativecommons.org/licenses/by/4.0/)*
+
+---
+
+---
 
 ---
 

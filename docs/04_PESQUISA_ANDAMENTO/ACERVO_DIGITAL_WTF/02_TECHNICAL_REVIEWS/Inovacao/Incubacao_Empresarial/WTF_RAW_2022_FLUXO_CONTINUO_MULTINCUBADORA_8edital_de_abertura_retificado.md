@@ -10,7 +10,7 @@ Este tipo de documento é **altamente relevante** para o Projeto Mulheres Que Te
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O espaço geográfico é o encontro de objetos e ações."<br>— Milton Santos</i></p>
+<p align="right"><i>"A vida é curta, a arte é longa."<br>— Machado de Assis</i></p>
 
 ### <img src="../../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -29,6 +29,10 @@ Olá! Como Bibliotecário Científico do Projeto Mulheres Que Tecem a Floresta, 
 Com base no conteúdo do edital, que foca na seleção e apoio a empreendimentos inovadores e de base tecnológica através de um programa de incubação universitário, a categoria e subcategoria mais apropriadas são:
 
 **Categoria/Subcategoria:** `Inovacao/Incubacao_Empresarial`
+
+---
+
+---
 
 ---
 

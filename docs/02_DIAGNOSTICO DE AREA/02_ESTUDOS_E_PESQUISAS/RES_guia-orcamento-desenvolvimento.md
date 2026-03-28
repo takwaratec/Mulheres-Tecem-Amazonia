@@ -22,7 +22,7 @@ version: '2.2.2'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A força do lugar é a força do mundo."<br>— Milton Santos</i></p>
+<p align="right"><i>"A vida é curta, a arte é longa."<br>— Machado de Assis</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -70,6 +70,10 @@ O Polipropileno foi selecionado como material padrão por sua performance superi
 2.  **Validação de Protótipo**: Iniciar pelo molde de tijolo comum (190x90x50mm) em colmeia para validar a cura e o tempo de desmolde.
 3.  **Protocolo de Limpeza**: Treinar a equipe no uso exclusivo de **Álcool 96 ou Isopropílico**. Proibir Thinner, Acetona ou Tolueno que degradam o polimento do PP.
 4.  **Escalabilidade**: O sistema modular permite que as cavidades sejam multiplicadas conforme a demanda da obra, mantendo o mesmo padrão de pinos ejetores.
+
+---
+
+---
 
 ---
 

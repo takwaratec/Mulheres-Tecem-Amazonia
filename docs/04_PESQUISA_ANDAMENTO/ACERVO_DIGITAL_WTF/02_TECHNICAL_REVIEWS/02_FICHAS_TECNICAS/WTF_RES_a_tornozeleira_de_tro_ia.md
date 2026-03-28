@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Inventar é imaginar o que os outros não pensaram."<br>— Santos Dumont</i></p>
+<p align="right"><i>"O futuro pode ser ancestral."<br>— Ailton Krenak</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -21,6 +21,10 @@ ano_publicacao: '2025'
 *   **Data**: 27 de Março de 2026
 
 Brasília, 18 de julho de 2025 - Enquanto o Brasil se distraía com o espetáculo farsesco da "Tornozeleira de Tróia", um drama judicial com roteiro de reality show, um roteiro mais antigo e muito mais sombrio se cumpria. Não foi escrito em gabinetes de Brasília ou em salas de redação, mas décadas antes, nas págin...
+
+---
+
+---
 
 ---
 

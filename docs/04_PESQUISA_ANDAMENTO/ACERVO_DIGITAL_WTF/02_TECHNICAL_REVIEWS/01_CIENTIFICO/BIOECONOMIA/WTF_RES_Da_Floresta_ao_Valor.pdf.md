@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O espaço geográfico é o encontro de objetos e ações."<br>— Milton Santos</i></p>
+<p align="right"><i>"Inventar é imaginar o que os outros não pensaram."<br>— Santos Dumont</i></p>
 
 ### <img src="../../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -24,6 +24,10 @@ title: "Resumo Estratégico e Comparativo P&D - Da Floresta ao Valor"
 status: "Ativo"
 tags: [P&D, Bioeconomia, Cadeias de Valor, Sustentabilidade]
 *Anexos e Documentos Originais (*.pdf) encontram-se dispostos na pasta `02_PESQUISA_DESENVOLVIMENTO` para consulta da coordenação técnica do componente R&D.*
+
+---
+
+---
 
 ---
 

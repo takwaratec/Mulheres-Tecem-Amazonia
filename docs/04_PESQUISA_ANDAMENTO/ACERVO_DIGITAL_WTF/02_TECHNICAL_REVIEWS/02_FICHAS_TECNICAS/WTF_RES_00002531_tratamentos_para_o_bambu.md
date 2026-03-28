@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O futuro pode ser ancestral."<br>— Ailton Krenak</i></p>
+<p align="right"><i>"O que vale na vida não é o ponto de partida e sim a caminhada."<br>— Cora Coralina</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -24,6 +24,10 @@ Parte I: A Ilusão de uma Solução Rápida: O Verdadeiro Custo da Preservação
 
 
 O bambu emerge no século XXI como um farol de esperança para uma bioeconomia sustentável. Esta gramínea notável, com seu crescimento prodigiosamente rápido, capacidade de sequestro...
+
+---
+
+---
 
 ---
 

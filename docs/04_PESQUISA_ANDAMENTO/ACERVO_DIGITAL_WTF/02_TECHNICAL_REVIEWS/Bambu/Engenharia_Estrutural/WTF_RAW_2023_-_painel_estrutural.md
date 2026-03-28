@@ -8,7 +8,7 @@ O conteúdo é uma transcrição de um pedido de patente (INPI BR 112023001673-8
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Inventar é imaginar o que os outros não pensaram."<br>— Santos Dumont</i></p>
+<p align="right"><i>"A vida é curta, a arte é longa."<br>— Machado de Assis</i></p>
 
 ### <img src="../../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -27,6 +27,10 @@ Como Bibliotecário Científico do Projeto Mulheres Que Tecem a Floresta, realiz
 O documento descreve a engenharia e composição de painéis estruturais inovadores que utilizam bambu, abordando aspectos de design, materiais híbridos e desempenho estrutural.
 
 **Categoria/Subcategoria:** `Bambu/Engenharia_Estrutural`
+
+---
+
+---
 
 ---
 

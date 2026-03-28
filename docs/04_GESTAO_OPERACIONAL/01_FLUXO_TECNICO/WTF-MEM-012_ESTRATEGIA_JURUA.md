@@ -11,7 +11,7 @@ date: '2026-03-26'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O que vale na vida não é o ponto de partida e sim a caminhada."<br>— Cora Coralina</i></p>
+<p align="right"><i>"Inventar é imaginar o que os outros não pensaram."<br>— Santos Dumont</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -58,6 +58,10 @@ As seguintes coordenadas devem ser integradas ao  Plotter para monitoramento em 
 1. Inclusão do Relatório Técnico [RES_analise-geoestrategica-jurua.md](../../02_DIAGNOSTICO DE AREA/02_ESTUDOS_E_PESQUISAS/RES_analise-geoestrategica-jurua.md) no acervo oficial.
 2. Atualização das métricas de vulnerabilidade no  Plotter com base nos índices identificados (66,6% pobreza no Purus).
 3. Integração dos valores de frete logístico identificados (R$ 610,00/trecho).
+
+---
+
+---
 
 ---
 

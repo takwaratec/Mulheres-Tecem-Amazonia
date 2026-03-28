@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Arte sem ética não é arte."<br>— Ariano Suassuna</i></p>
+<p align="right"><i>"Só se aprende o que se pratica."<br>— Anísio Teixeira</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -45,6 +45,10 @@ O fragmento de texto fornecido não contém dados numéricos ou técnicos estrut
 
 ### 4. Extrair Bibliografia citada no texto
 O fragmento de texto fornecido corresponde a seções introdutórias (folha de rosto, dedicatórias e agradecimentos) e não apresenta referências bibliográficas citadas no corpo do texto.
+
+---
+
+---
 
 ---
 

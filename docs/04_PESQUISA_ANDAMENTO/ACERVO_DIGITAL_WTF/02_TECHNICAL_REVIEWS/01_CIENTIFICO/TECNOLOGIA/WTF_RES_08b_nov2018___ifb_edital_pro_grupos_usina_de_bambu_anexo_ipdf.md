@@ -10,7 +10,7 @@ ano_publicacao: '2018'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O futuro pode ser ancestral."<br>— Ailton Krenak</i></p>
+<p align="right"><i>"A educação é o direito de todos e dever do Estado."<br>— Anísio Teixeira</i></p>
 
 ### <img src="../../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -21,6 +21,10 @@ ano_publicacao: '2018'
 *   **Data**: 27 de Março de 2026
 
 *Anexos e Documentos Originais (*.pdf) encontram-se dispostos na pasta `02_PESQUISA_DESENVOLVIMENTO` para consulta da coordenação técnica do componente R&D.*
+
+---
+
+---
 
 ---
 

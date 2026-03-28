@@ -61,7 +61,7 @@ A proposta detalha a expansão de uma plataforma tecnológica nacional de Poliur
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O que vale na vida não é o ponto de partida e sim a caminhada."<br>— Cora Coralina</i></p>
+<p align="right"><i>"A educação não transforma o mundo. Educação muda as pessoas. Pessoas mudam o mundo."<br>— Paulo Freire</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -70,6 +70,10 @@ A proposta detalha a expansão de uma plataforma tecnológica nacional de Poliur
 *   **Status**: Status Em Revisão
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
+
+---
+
+---
 
 ---
 

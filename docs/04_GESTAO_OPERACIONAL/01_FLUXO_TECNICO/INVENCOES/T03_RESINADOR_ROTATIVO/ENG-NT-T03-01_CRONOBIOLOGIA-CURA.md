@@ -13,7 +13,7 @@ doi: 10.5281/zenodo.18827106
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Viver é muito perigoso."<br>— Guimarães Rosa</i></p>
+<p align="right"><i>"O que vale na vida não é o ponto de partida e sim a caminhada."<br>— Cora Coralina</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -37,6 +37,10 @@ A função do T03 é neutralizar a gravidade durante o tempo de gel das resinas:
 ## 3. Dimensionamento de Torque
 - <img src="../../../../../../assets/icons/human_01_black.svg" width="18px"> **Carga:** <img src="../../../../../../assets/icons/human_01_black.svg" width="18px"> ~180 kg por lote de 12 varas.
 - <img src="../../../../../../assets/icons/human_02_black.svg" width="18px"> **Torque:** <img src="../../../../../../assets/icons/human_02_black.svg" width="18px"> Motor de 1/2 CV a 1 CV com redutor de alta redução.
+
+---
+
+---
 
 ---
 

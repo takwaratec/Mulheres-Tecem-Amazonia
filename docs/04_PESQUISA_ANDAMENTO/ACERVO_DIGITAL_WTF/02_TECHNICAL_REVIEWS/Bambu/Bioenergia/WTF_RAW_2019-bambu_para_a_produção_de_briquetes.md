@@ -8,7 +8,7 @@ O conteúdo do arquivo é um extrato de um artigo científico que discute o pote
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O espaço geográfico é o encontro de objetos e ações."<br>— Milton Santos</i></p>
+<p align="right"><i>"Ciência é a investigação da verdade."<br>— Carlos Chagas</i></p>
 
 ### <img src="../../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -210,6 +210,10 @@ VAN DAM, J. et al. (2018). [Referência completa não disponível no texto RAW].
 
 #CATEGORIA: Bambu/Bioenergia
 ```
+
+---
+
+---
 
 ---
 

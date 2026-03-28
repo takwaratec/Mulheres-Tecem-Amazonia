@@ -11,7 +11,7 @@ date: '2026-03-26'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"As invenções são o resultado de um trabalho teimoso."<br>— Santos Dumont</i></p>
+<p align="right"><i>"O Brasil é uma invenção de si mesmo."<br>— João Ubaldo Ribeiro</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -43,6 +43,10 @@ Este checklist sistematiza os requisitos obrigatórios extraídos do dossiê **M
 - <img src="../../../../../../assets/icons/human_12_black.svg" width="18px"> [ ] **Trâmeite Verra**: Reserva de R$ 532k para certificação MRV (PDD + VVB).
 - <img src="../../../../../../assets/icons/human_19_black.svg" width="18px"> [ ] ** Integration**: Sistema de Gestão Social e Ambiental ativo para monitoramento de impacto.
 - <img src="../../../../../../assets/icons/human_05_black.svg" width="18px"> [ ] **CPLI**: Protocolo de Consentimento Prévio, Livre e Informado assinado pelas comunidades.
+
+---
+
+---
 
 ---
 

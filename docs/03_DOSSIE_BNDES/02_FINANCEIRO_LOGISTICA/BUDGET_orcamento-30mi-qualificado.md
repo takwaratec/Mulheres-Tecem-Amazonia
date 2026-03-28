@@ -7,7 +7,7 @@ tags: ["Orçamento", "BNDES", "Fundo Amazônia", "Gestão", "OPEX", "CAPEX", "Qu
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Ensinar não é transferir conhecimento, mas criar as possibilidades para a sua própria produção ou a sua construção."<br>— Paulo Freire</i></p>
+<p align="right"><i>"Só se aprende o que se pratica."<br>— Anísio Teixeira</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -94,6 +94,10 @@ tags: ["Orçamento", "BNDES", "Fundo Amazônia", "Gestão", "OPEX", "CAPEX", "Qu
 > [!NOTE]
 > **INDICADORES DE EFICIÊNCIA:**
 > Essa estrutura está alinhada com as diretrizes do Fundo Amazônia e programas como Coopera+ Amazônia, priorizando formação, autonomia das mulheres e sustentabilidade de longo prazo, com CAPEX eficiente e OPEX robusto.
+
+---
+
+---
 
 ---
 

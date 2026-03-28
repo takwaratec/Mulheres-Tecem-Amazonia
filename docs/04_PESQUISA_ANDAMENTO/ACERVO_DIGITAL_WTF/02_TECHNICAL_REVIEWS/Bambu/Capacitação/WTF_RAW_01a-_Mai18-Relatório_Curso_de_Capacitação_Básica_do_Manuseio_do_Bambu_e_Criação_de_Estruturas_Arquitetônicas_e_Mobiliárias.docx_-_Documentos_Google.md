@@ -8,7 +8,7 @@ Este documento é **RELEVANTE**.
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O Brasil é uma invenção de si mesmo."<br>— João Ubaldo Ribeiro</i></p>
+<p align="right"><i>"O real não está na saída nem na chegada: ele se dispõe para a gente é no meio da travessia."<br>— Guimarães Rosa</i></p>
 
 ### <img src="../../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -25,6 +25,10 @@ Aqui está a análise e a saída solicitada:
 **TAREFA 2: Defina Categoria/Subcategoria.**
 
 Bambu/Capacitação
+
+---
+
+---
 
 ---
 

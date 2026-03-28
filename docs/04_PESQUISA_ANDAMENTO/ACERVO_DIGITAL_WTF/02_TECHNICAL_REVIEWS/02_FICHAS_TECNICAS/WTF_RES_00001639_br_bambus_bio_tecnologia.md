@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A educação não transforma o mundo. Educação muda as pessoas. Pessoas mudam o mundo."<br>— Paulo Freire</i></p>
+<p align="right"><i>"O futuro pode ser ancestral."<br>— Ailton Krenak</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -39,6 +39,10 @@ MINISTERIO DA
 MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES:
 
 MINISTRO: Gilberto  Kassab  | SECRETáRIO-ExECUTIVO: Elton  Santa  Fé  Zacarias  | SECRETáRIO  DE POLíTICAS E PROGRAMAS DE PESqUISA E DESENVOLVIMENTO: Jailson Bittencourt de Andrade | DIRETOR DO DEPARTAMENTO DE POLíTICAS E PROGRAMAS TEMáTIC...
+
+---
+
+---
 
 ---
 

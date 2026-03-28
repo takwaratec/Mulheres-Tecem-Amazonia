@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A força do lugar é a força do mundo."<br>— Milton Santos</i></p>
+<p align="right"><i>"O Brasil é uma invenção de si mesmo."<br>— João Ubaldo Ribeiro</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -61,6 +61,10 @@ A atividade de mineração, incluindo a de não-metálicos, tem uma participaç�
 
 ### 4. Extrair Bibliografia citada no texto
 Nenhuma referência bibliográfica externa é citada explicitamente no fragmento de texto fornecido. O texto contém os metadados de sua própria publicação.
+
+---
+
+---
 
 ---
 

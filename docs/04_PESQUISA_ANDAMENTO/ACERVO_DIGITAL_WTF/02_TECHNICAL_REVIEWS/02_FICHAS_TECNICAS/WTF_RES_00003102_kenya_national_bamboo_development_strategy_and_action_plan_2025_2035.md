@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O conhecimento é a nossa maior arma contra o atraso."<br>— Bertha Lutz</i></p>
+<p align="right"><i>"A terra não é um negócio, a terra é a nossa mãe."<br>— Ailton Krenak</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -46,6 +46,10 @@ www.environment.go.ke
 
 
 This document may be produced in whole or in part in any form for educational purposes or non-profit uses without permission of the copyr...
+
+---
+
+---
 
 ---
 

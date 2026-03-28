@@ -12,7 +12,7 @@ date: '2026-03-24'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O conhecimento é a nossa maior arma contra o atraso."<br>— Bertha Lutz</i></p>
+<p align="right"><i>"O Brasil, última nação a abrogar a escravidão, tem um compromisso terrível com o seu povo."<br>— Darcy Ribeiro</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -176,6 +176,10 @@ Para especificações técnicas detalhadas, Bill of Materials (BoM), parâmetros
 - <img src="../../../../../../assets/icons/human_10_black.svg" width="18px"> LUGO, A. E.; ARCE, M.; GONZÁLEZ, G. Bamboo: ecology, silviculture and economic uses. *Forest Ecology and Management*, v. 315, p. 1–7, 2014.  
 - <img src="../../../../../../assets/icons/human_07_black.svg" width="18px"> LOUREIRO, C. F. B. Educação ambiental e movimentos sociais na construção da cidadania ecológica. São Paulo: Cortez, 2004.  
 - <img src="../../../../../../assets/icons/human_01_black.svg" width="18px"> TAKWARA, F. R. Memorial Técnico: Escariador Interno de Nós de Bambu T09. Consórcio Consórcio UnB/UFRR/UFAC, 2026.
+
+---
+
+---
 
 ---
 

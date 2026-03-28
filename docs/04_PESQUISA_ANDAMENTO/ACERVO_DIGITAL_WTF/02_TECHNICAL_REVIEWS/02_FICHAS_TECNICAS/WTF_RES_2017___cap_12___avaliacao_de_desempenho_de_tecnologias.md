@@ -10,7 +10,7 @@ ano_publicacao: '2017'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O céu está caindo porque os brancos não param de comer a terra."<br>— Davi Kopenawa</i></p>
+<p align="right"><i>"Só se aprende o que se pratica."<br>— Anísio Teixeira</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -25,6 +25,10 @@ Khosrow Ghavami Normando Perazzo Barbosa Luis Eustáquio Moreira
 ## 1.  Introdução
 
 Pelo fato de ser um material renovável, que absorve gás carbônico e usa energia solar, ser facilmente reincorporado à natureza após seu ciclo de vida, crescer com facilidade e rapidamente e possuir espécies que apresentam excelentes  propriedades  de  engenharia,  o  bambu,  planta  milenar,  pode ser chamado, nessa época de preocupações com a sustentabilidade, de um mater...
+
+---
+
+---
 
 ---
 

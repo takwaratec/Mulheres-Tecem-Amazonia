@@ -8,7 +8,7 @@ O conteúdo do arquivo é um artigo científico focado na prospecção de perfis
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A crise da educação no Brasil não é uma crise; é um projeto."<br>— Darcy Ribeiro</i></p>
+<p align="right"><i>"O Brasil é uma invenção de si mesmo."<br>— João Ubaldo Ribeiro</i></p>
 
 ### <img src="../../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -27,6 +27,10 @@ Como Bibliotecário Científico do Projeto Mulheres Que Tecem a Floresta, realiz
 Considerando o tema principal (intoxicações por agrotóxicos), a área geográfica (Região Norte/Amazônia) e o impacto na saúde humana, a categoria mais adequada é:
 
 **Categoria/Subcategoria:** `Saúde_Ambiental/Agrotoxicos_Amazonia`
+
+---
+
+---
 
 ---
 

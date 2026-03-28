@@ -10,7 +10,7 @@ ano_publicacao: '2002'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Só se aprende o que se pratica."<br>— Anísio Teixeira</i></p>
+<p align="right"><i>"O Brasil precisa de ciência para ser soberano."<br>— Ennio Candotti</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -26,6 +26,10 @@ ano_publicacao: '2002'
 Bamboo itself has a lot of advantages using it for building houses, bridges... . It is a cheap, fast growing material with excellent statistics according to the mechanical properties. The connections are the difficult structures in bamboo constructions. Here are a few reasons:
 
 - <img src="../../../../../../assets/icons/human_13_black.svg" width="18px"> ? Bamboo has got a round profile. Creating connections with round...
+
+---
+
+---
 
 ---
 

@@ -6,7 +6,7 @@
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Só se aprende o que se pratica."<br>— Anísio Teixeira</i></p>
+<p align="right"><i>"O povo é o único soberano."<br>— João Ubaldo Ribeiro</i></p>
 
 ### <img src="../../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -173,6 +173,10 @@ Somente destinos que tratarem seu esgoto com seriedade técnica e inovação des
 
 #CATEGORIA: Saneamento/Ecoturismo_Sustentavel
 ```
+
+---
+
+---
 
 ---
 

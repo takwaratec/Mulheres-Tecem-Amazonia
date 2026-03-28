@@ -9,15 +9,15 @@ author:
 date: '2026-03-26'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"Arte sem ética não é arte."<br>— Ariano Suassuna</i></p>
+<p align="right"><i>"O espaço geográfico é o encontro de objetos e ações."<br>— Milton Santos</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: ANEXO_VI_MAPAS_INTERVENCAO.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -39,6 +39,10 @@ O projeto atua em uma rede descentralizada composta por:
 
 ## 3. MONITORAMENTO GEOESPACIAL (SMGA)
 Toda a área de manejo de bambu e os polos construídos são georreferenciados no sistema de MRV, garantindo a visualização da "Pegada de Regeneração" do projeto.
+
+---
+
+---
 
 ---
 

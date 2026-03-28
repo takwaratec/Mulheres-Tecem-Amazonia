@@ -13,7 +13,7 @@ date: '2026-03-19'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Viver é muito perigoso."<br>— Guimarães Rosa</i></p>
+<p align="right"><i>"Arte sem ética não é arte."<br>— Ariano Suassuna</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -45,6 +45,10 @@ Este relatório identifica os documentos do Dossiê BNDES/Fundo Amazônia que ne
 ## 3. Justificativa de Enquadramento
 
 A inclusão da T10 altera o paradigma de logística passiva para **Logística Ativa e Produtiva**. O enquadramento nos formulários do BNDES deve focar na **inovação radical** dos cascos de bio-compósitos e na **autonomia energética** via vapor moderno, eliminando a dependência de diesel subsidiado e fortalecendo a segurança alimentar regional.
+
+---
+
+---
 
 ---
 

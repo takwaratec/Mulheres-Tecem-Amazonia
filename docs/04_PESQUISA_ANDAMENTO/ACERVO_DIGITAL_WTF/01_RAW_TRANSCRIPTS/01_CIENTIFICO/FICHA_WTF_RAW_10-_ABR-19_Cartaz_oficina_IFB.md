@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O Brasil, última nação a abrogar a escravidão, tem um compromisso terrível com o seu povo."<br>— Darcy Ribeiro</i></p>
+<p align="right"><i>"O Brasil é uma invenção de si mesmo."<br>— João Ubaldo Ribeiro</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -65,6 +65,10 @@ Este documento apresenta um projeto de extensão focado na criação de uma unid
 
 ### 4. Extrair Bibliografia citada no texto
 Não há referências bibliográficas citadas no corpo do texto. O documento em questão é uma apresentação de projeto/extensão, não contendo citações a outras obras.
+
+---
+
+---
 
 ---
 

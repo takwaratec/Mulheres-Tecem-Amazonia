@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A vida é curta, a arte é longa."<br>— Machado de Assis</i></p>
+<p align="right"><i>"O Brasil, última nação a abrogar a escravidão, tem um compromisso terrível com o seu povo."<br>— Darcy Ribeiro</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -57,6 +57,10 @@ Palavras-chave:
 1. KAUR, Perminder Jit et al. Eco preservative for bamboo. **BioResources**, [s. l.], v. 11, n. 4, [s. d.]. (Citação in-text no próprio artigo em análise).
 2. SCHULTZ, T. P.; NICHOLAS, D. D.; PRESTON, A. F. A brief history of wood preservation emphasizing development since 1970. In: **Wood preservation in the 21st century**. Forest Products Society, 2007. p. 1-13.
 3. XU, Y.; ZHANG, Y.; LU, Y. Environmentally friendly wood preservatives and modification technologies for wood. **Journal of Wood Science and Technology**, v. 47, n. 4, p. 811-828, 2013.
+
+---
+
+---
 
 ---
 

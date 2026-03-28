@@ -9,15 +9,15 @@ author:
 date: '2026-03-24'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"A crise da educação no Brasil não é uma crise; é um projeto."<br>— Darcy Ribeiro</i></p>
+<p align="right"><i>"A educação não transforma o mundo. Educação muda as pessoas. Pessoas mudam o mundo."<br>— Paulo Freire</i></p>
 
 ### <img src="../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: GOV01_RES_EXECUTIVO_WTF.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -300,6 +300,10 @@ As 51 Terras Indígenas (Apurinã, Mura, Kulina, Kanamari, Katukina) são as pri
 - <img src="../../../assets/icons/human_15_black.svg" width="18px"> VERRA. **VM0044**: Methodology for Biochar Utilization. v. 1.2, 2025. [Acesso via Verra](https://verra.org/methodologies/vm0044)
 
 - <img src="../../../assets/icons/human_14_black.svg" width="18px"> ZANUNCIO, A. J. V. et al. Colorimetria aplicada à ciência da madeira. *Floresta e Ambiente*, v. 21, n. 1, 2014. [doi:10.4322/floram.2014.010](https://doi.org/10.4322/floram.2014.010)
+
+---
+
+---
 
 ---
 

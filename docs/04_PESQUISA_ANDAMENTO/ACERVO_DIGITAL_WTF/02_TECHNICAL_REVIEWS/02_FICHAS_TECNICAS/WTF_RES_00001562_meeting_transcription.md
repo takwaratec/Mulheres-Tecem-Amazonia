@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O conhecimento é a nossa maior arma contra o atraso."<br>— Bertha Lutz</i></p>
+<p align="right"><i>"Ciência é a investigação da verdade."<br>— Carlos Chagas</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -27,6 +27,10 @@ View original transcript at Tactiq.
 ## Summary and Action items
 
 ### Resumo rápido ### Durante esta reunião, Bambusa, Danilo, Cláudia, Casa, Om, Vilmar, Nivaldo, Adriano, Hans-Jürgen, e Bruno discutira...
+
+---
+
+---
 
 ---
 

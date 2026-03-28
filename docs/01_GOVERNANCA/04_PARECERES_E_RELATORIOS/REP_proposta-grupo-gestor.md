@@ -9,15 +9,15 @@ author:
 date: '2026-03-24'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"Só se aprende o que se pratica."<br>— Anísio Teixeira</i></p>
+<p align="right"><i>"A ciência é um patrimônio universal."<br>— Oswaldo Cruz</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: REP_proposta-grupo-gestor.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -25,6 +25,10 @@ date: '2026-03-24'
 Guia para integração do Grupo Gestor com o sistema de Triagem Digital.
 
 (Conteúdo idêntico ao artifact gerado anteriormente, agora catalogado formalmente).
+
+---
+
+---
 
 ---
 

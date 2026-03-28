@@ -51,7 +51,7 @@ Adicionalmente, a inspeção visual dos corpos de prova após o ciclo térmico n
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A educação é o direito de todos e dever do Estado."<br>— Anísio Teixeira</i></p>
+<p align="right"><i>"A terra não é um negócio, a terra é a nossa mãe."<br>— Ailton Krenak</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -72,6 +72,10 @@ Adicionalmente, a inspeção visual dos corpos de prova após o ciclo térmico n
 **Autor da Análise:** Fabio Resck Takwara (ORCID: "0009-0002-6044-2583")
 **Data da Revisão:** 25/03/2026
 **Local da Análise:** "São Paulo-SP"
+
+---
+
+---
 
 ---
 

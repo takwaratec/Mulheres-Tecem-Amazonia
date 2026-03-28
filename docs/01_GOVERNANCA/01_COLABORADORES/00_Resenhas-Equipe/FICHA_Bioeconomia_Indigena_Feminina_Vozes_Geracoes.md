@@ -9,15 +9,15 @@ author:
 date: '2026-03-26'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"Só se aprende o que se pratica."<br>— Anísio Teixeira</i></p>
+<p align="right"><i>"O céu está caindo porque os brancos não param de comer a terra."<br>— Davi Kopenawa</i></p>
 
 ### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_Bioeconomia_Indigena_Feminina_Vozes_Geracoes.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -97,6 +97,10 @@ O caderno é uma profunda imersão nos saberes ancestrais das mulheres indígena
 * <img src="../../../../../assets/icons/human_05_black.svg" width="18px">   **Georgia Jordão:** <img src="../../../../../assets/icons/human_05_black.svg" width="18px"> Sua participação como coordenadora de conteúdo e revisora crítica do texto demonstra a ponte entre os saberes ancestrais e o campo acadêmico/institucional. Para Georgia, que é responsável pela frente de Conhecimento, este caderno é um recurso valioso que legitima as "ciências da floresta" como conhecimento legítimo, desafiando a visão unilateral de "inovação". Ele oferece um arcabouço sólido para integrar as perspectivas indígenas na gestão da sustentabilidade, mostrando que as soluções para os desafios contemporâneos (incluindo as mudanças climáticas) residem nas práticas milenares e na visão holística que as mulheres indígenas possuem sobre o corpo-território.
 
 Em síntese, o documento é um tesouro de informações que valida a centralidade das mulheres indígenas e seus saberes ancestrais para a construção de um futuro sustentável para a Amazônia, alinhando-se perfeitamente aos objetivos do Projeto WTF.
+
+---
+
+---
 
 ---
 

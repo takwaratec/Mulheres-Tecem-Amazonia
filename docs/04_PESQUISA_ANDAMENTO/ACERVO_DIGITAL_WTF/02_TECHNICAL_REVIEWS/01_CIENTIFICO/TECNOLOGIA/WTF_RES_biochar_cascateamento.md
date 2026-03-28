@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A educação é o direito de todos e dever do Estado."<br>— Anísio Teixeira</i></p>
+<p align="right"><i>"A ciência não é apenas um corpo de conhecimento, é um modo de pensar."<br>— Marcelo Gleiser</i></p>
 
 ### <img src="../../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -64,6 +64,10 @@ CARLONI, Ken et al. **Place-Based Biochar Production**. In: Biomass to Biochar: 
 MATARRU, Andre Amba; SHIN, Donghoon. Biochar Production Technology as a Negative Emission Strategy: A Review. **Energies**, v. 18, n. 4898, p. 1-35, 2025. DOI: 10.3390/en18184898.
 
 THENGANE, Sonal K. et al. Market prospects for biochar production and application in California. **Biofuels, Bioproducts and Biorefining**, v. 15, n. 6, p. 1-19, 2021. DOI: 10.1002/bbb.2280.
+
+---
+
+---
 
 ---
 

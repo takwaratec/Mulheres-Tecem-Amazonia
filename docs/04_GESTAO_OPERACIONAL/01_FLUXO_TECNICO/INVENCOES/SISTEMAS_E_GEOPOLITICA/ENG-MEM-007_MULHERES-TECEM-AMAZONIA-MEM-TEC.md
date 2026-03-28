@@ -11,7 +11,7 @@ date: '2026-03-24'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Eu sou a favor do Brasil real."<br>— Ariano Suassuna</i></p>
+<p align="right"><i>"Só se aprende o que se pratica."<br>— Anísio Teixeira</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -77,6 +77,10 @@ O projeto propõe uma transição bioeconômica centrada no protagonismo feminin
 4. **Verra (VM0044)**: *Biochar Utilization in Soil and Non-Soil Applications*. [Standard Carbono](https://verra.org/methodology/vm0044-methodology-for-biochar-utilization-in-soil-and-non-soil-applications/)
 5. **Takwara, F. R. (2026)**: *Filosofia e Engenharia de Construção em Bambu Guadua na Amazônia*. [Domínio Público]
 6. **Ferreira, E. J. L. (2014)**: *O bambu no Acre: ecologia e economia*. [Ficha Botânica](ENG-MEM-003_BIOMASS-GEO-ACRE.md)
+
+---
+
+---
 
 ---
 

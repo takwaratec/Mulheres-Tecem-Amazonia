@@ -9,15 +9,15 @@ author:
 date: '2026-03-26'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"As invenções são o resultado de um trabalho teimoso."<br>— Santos Dumont</i></p>
+<p align="right"><i>"A vida é curta, a arte é longa."<br>— Machado de Assis</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: ANEXO_III_PROTOCOLO_INTENCOES.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -37,6 +37,10 @@ date: '2026-03-26'
 
 ## 3. DO COMPROMISSO COM O DOMÍNIO PÚBLICO
 As partes acordam que todos os resultados técnicos, patentes sociais e metodologias pedagógicas derivados do projeto BNDES serão de **domínio público**, não podendo ser objeto de apropriação privada ou restrição de uso comunitário por nenhuma das signatárias.
+
+---
+
+---
 
 ---
 

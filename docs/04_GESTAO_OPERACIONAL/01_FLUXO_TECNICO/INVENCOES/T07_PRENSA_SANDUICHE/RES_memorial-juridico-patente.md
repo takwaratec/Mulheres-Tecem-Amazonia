@@ -22,7 +22,7 @@ version: '2.2.2'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O povo é o único soberano."<br>— João Ubaldo Ribeiro</i></p>
+<p align="right"><i>"O conhecimento é a nossa maior arma contra o atraso."<br>— Bertha Lutz</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -50,6 +50,10 @@ Atualmente, a construção civil utiliza painéis de poliuretano derivados de pe
 3.  **Compósito Vegetal de Alta Densidade**: Caracterizado pela proporção mássica de 40% de matriz ligante de poliuretano de mamona e 60% de carga orgânica/reciclada (serragem e PET), resultando em Shore D entre 30 e 70.
 4.  **Sistema de Travamento de Canto**: Caracterizado pela inclusão de fibras longitudinais de Bambu Nativo em matriz de PU Vegetal líquido no interior de moldes de canto em "L", criando uma união monolítica de paredes.
 5.  **Processo de Produção Amazônico**: Caracterizado pelo rigoroso controle de ponto de orvalho (UR < 90%) e cura pós-desmolde de 24 horas em ambiente ventilado, específico para a polimerização de ricinoleatos em climas tropicais úmidos.
+
+---
+
+---
 
 ---
 

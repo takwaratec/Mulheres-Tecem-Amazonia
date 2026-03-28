@@ -9,15 +9,15 @@ author:
 date: '2026-03-26'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"As invenções são o resultado de um trabalho teimoso."<br>— Santos Dumont</i></p>
+<p align="right"><i>"O que vale na vida não é o ponto de partida e sim a caminhada."<br>— Cora Coralina</i></p>
 
 ### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_NEA-BR_Bioeconomia_PT.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -167,6 +167,10 @@ As diretrizes para o projeto e para a bioeconomia na Amazônia, segundo o texto,
 65. WHITE HOUSE. *National Bioeconomy Blueprint*. Washington, DC, 2012. Disponível em: https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/national_bioeconomy_blueprint_april_2012.pdf. Acesso em: 24 mar. 2026.
 66. WHITE HOUSE. *Summary White House Summit on America’s Bioeconomy*. 2019. Disponível em: https://trumpwhitehouse.archives.gov/wp-content/uploads/2019/10/Summary-of-White-House-Summit-on-Americas-Bioeconomy-October-2019.pdf. Acesso em: 24 mar. 2026.
 67. WORLD BANK. *World Bank Open Data*. 2022. Disponível em: https://data.worldbank.org/. Acesso em: 24 mar. 2026.
+
+---
+
+---
 
 ---
 

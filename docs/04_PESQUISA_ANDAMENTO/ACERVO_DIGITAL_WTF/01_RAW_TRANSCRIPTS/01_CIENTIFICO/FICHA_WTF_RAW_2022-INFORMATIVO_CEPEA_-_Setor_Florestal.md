@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A terra não é um negócio, a terra é a nossa mãe."<br>— Ailton Krenak</i></p>
+<p align="right"><i>"O futuro pode ser ancestral."<br>— Ailton Krenak</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -73,6 +73,10 @@ Coordenadas geográficas: Não foram encontradas coordenadas geográficas espec�
 
 ### 4. Extrair Bibliografia citada no texto
 Não há referências bibliográficas citadas no corpo do texto deste informativo. O documento é uma publicação própria do CEPEA.
+
+---
+
+---
 
 ---
 

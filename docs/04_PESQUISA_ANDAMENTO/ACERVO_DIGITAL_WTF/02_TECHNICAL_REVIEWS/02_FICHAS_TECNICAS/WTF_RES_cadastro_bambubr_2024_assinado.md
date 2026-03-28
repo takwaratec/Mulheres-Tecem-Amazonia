@@ -10,7 +10,7 @@ ano_publicacao: '2024'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O conhecimento é a nossa maior arma contra o atraso."<br>— Bertha Lutz</i></p>
+<p align="right"><i>"O homem é o estilo."<br>— Machado de Assis</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -23,6 +23,10 @@ ano_publicacao: '2024'
 --|
 
 | END.: R. Cel Gabriel Carneiro, 888   | END.: R. Cel Gabriel...
+
+---
+
+---
 
 ---
 

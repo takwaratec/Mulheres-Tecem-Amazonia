@@ -11,7 +11,7 @@ date: '2026-03-26'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O que vale na vida não é o ponto de partida e sim a caminhada."<br>— Cora Coralina</i></p>
+<p align="right"><i>"Não se morre enquanto houver quem nos lembre."<br>— Cora Coralina</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -75,6 +75,10 @@ Este documento detalha as rubricas permitidas para o projeto **Mulheres Que Tece
 Cada real investido em **CAPEX (Máquinas)** é convertido em autonomia via **OPEX (Pessoas)**. O resultado não é apenas um bem patrimonial, mas a capacidade da rede de gerar seus próprios meios de vida ("Lucro Territorial"). A redução de doenças transmitidas pela água (via BSM) libera recursos municipais e aumenta a produtividade local, fechando o ciclo de bio-resiliência.
 
 Os ajustes de intercâmbio territorial (como mobiliário entregue pela biorrefinaria) são contabilizados como lucro operacional do projeto, fortalecendo a autonomia dos núcleos e **permitindo a ampliação das entregas originais**. Cabe ressaltar que as previsões atuais são **conservadoras**: o alto potencial multiplicador da proposta indica que a rede será capaz de gerar excedentes e novas infraestruturas muito além das metas base estabelecidas.
+
+---
+
+---
 
 ---
 

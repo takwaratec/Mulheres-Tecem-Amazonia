@@ -21,7 +21,7 @@ version: '5.1'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Não se morre enquanto houver quem nos lembre."<br>— Cora Coralina</i></p>
+<p align="right"><i>"Ensinar não é transferir conhecimento, mas criar as possibilidades para a sua própria produção ou a sua construção."<br>— Paulo Freire</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -65,6 +65,10 @@ Uma fileira horizontal de 6m de bambus suspensos por eixos cônicos de aço, gir
 
 **APA:**
 Takwara, F. R. (2026). *Conceituação Técnica: Maquinário de Resinagem Airless ("Frangueira")* (Versão 5.1). Nota Técnica — Núcleo Institucional / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106
+
+---
+
+---
 
 ---
 

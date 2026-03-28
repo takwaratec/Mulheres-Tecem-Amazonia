@@ -22,7 +22,7 @@ version: '5.1'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O espaço geográfico é o encontro de objetos e ações."<br>— Milton Santos</i></p>
+<p align="right"><i>"A terra não é um negócio, a terra é a nossa mãe."<br>— Ailton Krenak</i></p>
 
 ### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -90,6 +90,10 @@ Este documento consolida os **Memoriais Descritivos de Patente** e as **Concepç
 
 ### Inovação como Ativo de Justiça Climática
 Todos os ativos listados neste memorial são creditados como **Contrapartida de Propriedade Intelectual** da Projeto Mulheres Que Tecem a Floresta. O licenciamento destas tecnologias prioriza o modelo **Social-Regenerativo**, garantindo que a soberania técnica permaneça com as comunidades locais.
+
+---
+
+---
 
 ---
 

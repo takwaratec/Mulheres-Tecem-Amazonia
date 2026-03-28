@@ -21,7 +21,7 @@ version: '5.1'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O Brasil é uma invenção de si mesmo."<br>— João Ubaldo Ribeiro</i></p>
+<p align="right"><i>"A crise da educação no Brasil não é uma crise; é um projeto."<br>— Darcy Ribeiro</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -61,6 +61,10 @@ Modelo de utilidade focado na flexibilidade de oficinas comunitárias. Permite a
 
 **APA:**
 Takwara, F. R. (2026). *Memorial Jurídico: Resinador Rotativo Artesanal 3m "Frangueira"* (Versão 5.1). Memorial de Patente — Núcleo Institucional / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106
+
+---
+
+---
 
 ---
 

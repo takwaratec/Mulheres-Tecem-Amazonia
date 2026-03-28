@@ -13,7 +13,7 @@ date: '2026-03-24'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O real não está na saída nem na chegada: ele se dispõe para a gente é no meio da travessia."<br>— Guimarães Rosa</i></p>
+<p align="right"><i>"O que vale na vida não é o ponto de partida e sim a caminhada."<br>— Cora Coralina</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -75,6 +75,10 @@ O Coração Térmico é uma unidade de geração modular, conectada aos terminai
 * <img src="../../../../assets/icons/human_14_black.svg" width="18px">   **Estrutura de Calor**: Tambores de aço A36 e refratários de alta alumina.
 * <img src="../../../../assets/icons/human_06_black.svg" width="18px">   **Estrutura de Vapor**: Aço Inox 316 (Serpentina) e Bombonas HDPE (Câmaras de Vapor - <img src="../../../../assets/icons/human_06_black.svg" width="18px"> Uso Frio/Morno).
 * <img src="../../../../assets/icons/human_03_black.svg" width="18px">   **Segurança**: Válvulas de alívio atmosférico e retentores de chama ISO 16852.
+
+---
+
+---
 
 ---
 

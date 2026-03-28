@@ -13,7 +13,7 @@ doi: 10.5281/zenodo.18827106
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A educação não transforma o mundo. Educação muda as pessoas. Pessoas mudam o mundo."<br>— Paulo Freire</i></p>
+<p align="right"><i>"O que vale na vida não é o ponto de partida e sim a caminhada."<br>— Cora Coralina</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -35,6 +35,10 @@ O protótipo utiliza **areia quente** como mídia abrasiva e vetor térmico, amo
 
 ## 3. Resultados Esperados
 Lixamento profundo e uniforme com baixíssimo consumo energético, ideal para contextos de soberania tecnológica em comunidades isoladas.
+
+---
+
+---
 
 ---
 

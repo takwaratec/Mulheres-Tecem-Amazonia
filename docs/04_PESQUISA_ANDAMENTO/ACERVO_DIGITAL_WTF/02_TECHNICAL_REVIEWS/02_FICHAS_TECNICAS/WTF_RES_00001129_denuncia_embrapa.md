@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Não se faz ciência sem amor ao próximo."<br>— Oswaldo Cruz</i></p>
+<p align="right"><i>"O Brasil é uma invenção de si mesmo."<br>— João Ubaldo Ribeiro</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -25,6 +25,10 @@ Prezada Sra. Silvia Massruhá,
 As  entidades  e  profissionais  abaixo  assinados  vêm,  por  meio  desta,  manifestar  sua  profunda preocupação e apresentar formalmente uma denúncia sobre a atuação da Embrapa Acre no setor do bambu, especificamente quanto à promoção indevida do Sr. Guilherme Korte como referência nacional na área.
 
 Desde  a  promulgação  da  Lei  nº  12.484/201,  que  in...
+
+---
+
+---
 
 ---
 

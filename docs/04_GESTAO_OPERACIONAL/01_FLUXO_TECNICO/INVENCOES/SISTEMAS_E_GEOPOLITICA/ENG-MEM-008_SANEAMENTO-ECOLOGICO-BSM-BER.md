@@ -12,7 +12,7 @@ date: '2026-03-24'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Arte sem ética não é arte."<br>— Ariano Suassuna</i></p>
+<p align="right"><i>"As invenções são o resultado de um trabalho teimoso."<br>— Santos Dumont</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -60,6 +60,10 @@ A infraestrutura dos banheiros (cabines e bases) utiliza os ativos de soberania 
 2. **Patente Social Takwara**: *Manual de Fabricação de Bio-Soluções Modulares (BSM)*.
 3. **UBC-MycoToilet (Reference)**: *Scientific alignment on mushroom-powered biodegradation*.
 4. **ENG-MEM-005**: *Processamento de Biochar e Pirólise*.
+
+---
+
+---
 
 ---
 

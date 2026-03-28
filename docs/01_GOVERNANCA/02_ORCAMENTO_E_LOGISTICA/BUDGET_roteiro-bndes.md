@@ -9,15 +9,15 @@ author:
 date: '2026-03-24'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"A vida é curta, a arte é longa."<br>— Machado de Assis</i></p>
+<p align="right"><i>"O céu está caindo porque os brancos não param de comer a terra."<br>— Davi Kopenawa</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: BUDGET_roteiro-bndes.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -70,6 +70,10 @@ Este documento detalha as rubricas permitidas para o projeto **Mulheres Que Tece
 Cada real investido em **CAPEX (Máquinas)** é convertido em autonomia via **OPEX (Pessoas)**. O resultado não é apenas um bem patrimonial, mas a capacidade da rede de gerar seus próprios meios de vida ("Lucro Territorial"). A redução de doenças transmitidas pela água (via BSM) libera recursos municipais e aumenta a produtividade local, fechando o ciclo de bio-resiliência.
 
 Os ajustes de intercâmbio territorial (como mobiliário entregue pela biorrefinaria) são contabilizados como lucro operacional do projeto, fortalecendo a autonomia dos núcleos e **permitindo a ampliação das entregas originais**. Cabe ressaltar que as previsões atuais são **conservadoras**: o alto potencial multiplicador da proposta indica que a rede será capaz de gerar excedentes e novas infraestruturas muito além das metas base estabelecidas.
+
+---
+
+---
 
 ---
 

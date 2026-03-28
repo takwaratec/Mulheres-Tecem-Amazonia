@@ -7,7 +7,7 @@ status: DRAFT (Aguardando Refinamento Equipe)
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O Brasil é uma invenção de si mesmo."<br>— João Ubaldo Ribeiro</i></p>
+<p align="right"><i>"Arte sem ética não é arte."<br>— Ariano Suassuna</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -50,6 +50,10 @@ Este documento consolida a alocação de recursos do **Projeto Mulheres Que Tece
 - <img src="../../../../../../assets/icons/human_08_black.svg" width="18px"> **Insumos (PU/Biomassa)**: R$ 1.497.600,00.
 - <img src="../../../../../../assets/icons/human_20_black.svg" width="18px"> **Capital de Giro e Reservas**: R$ 1.806.650,00.
 - <img src="../../../../../../assets/icons/human_11_black.svg" width="18px"> **Overhead e Domo Voador**: R$ 555.600,00.
+
+---
+
+---
 
 ---
 

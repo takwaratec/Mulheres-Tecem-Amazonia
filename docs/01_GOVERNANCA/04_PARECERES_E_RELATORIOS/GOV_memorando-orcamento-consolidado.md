@@ -17,15 +17,15 @@ type: Governança
 version: '2.2.2'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"Ensinar não é transferir conhecimento, mas criar as possibilidades para a sua própria produção ou a sua construção."<br>— Paulo Freire</i></p>
+<p align="right"><i>"A educação não transforma o mundo. Educação muda as pessoas. Pessoas mudam o mundo."<br>— Paulo Freire</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: GOV_memorando-orcamento-consolidado.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -67,6 +67,10 @@ Elaboração de laudos de avaliação de ativos e minutas de cartas de compromis
 3. **Consolidação do dossiê (60–90 dias):** Fechamento do orçamento e anexos técnicos.
 
 *Documento interno de uso restrito — Consórcio UnB/UFRR/UFAC.*
+
+---
+
+---
 
 ---
 

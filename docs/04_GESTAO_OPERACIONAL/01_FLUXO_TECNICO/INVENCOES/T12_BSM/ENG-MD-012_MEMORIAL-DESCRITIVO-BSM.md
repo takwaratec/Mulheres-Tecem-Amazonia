@@ -12,7 +12,7 @@ date: '2026-03-24'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O que vale na vida não é o ponto de partida e sim a caminhada."<br>— Cora Coralina</i></p>
+<p align="right"><i>"O Brasil precisa de ciência para ser soberano."<br>— Ennio Candotti</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -45,6 +45,10 @@ O T12 é otimizado para três cenários críticos:
 
 ## 5. P&D Amazônico: O Horizonte Micelial
 Inicialmente operando com serragem e biochar, o T12 é a plataforma de teste para a introdução de **matrizes miceliais amazônicas**. Este esforço de P&D busca isolar fungos locais capazes de biodegradar dejetos em tempos recordes, eliminando a dependência de tecnologias licenciadas de outros biomas (como a matriz canadense).
+
+---
+
+---
 
 ---
 

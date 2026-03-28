@@ -9,15 +9,15 @@ author:
 date: '2026-03-26'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"A ciência é um patrimônio universal."<br>— Oswaldo Cruz</i></p>
+<p align="right"><i>"A educação não transforma o mundo. Educação muda as pessoas. Pessoas mudam o mundo."<br>— Paulo Freire</i></p>
 
 ### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_agrotoxicos_Amazonia.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -100,6 +100,10 @@ OLIVEIRA, J. V. G.; GOMES, R. D. Prospecção de perfis epidemiológicos de into
 17. MORAES, R. F. Agrotóxicos no Brasil: padrões de uso, política da regulação e prevenção da captura regulatória. Brasília, DF: Instituto de Pesquisa Econômica Aplicada, 2019. (Texto para Discussão (TD)). Disponível em: http://repositorio.ipea.gov.br/browse?type=author&value=Moraes%2C+Rodrigo+Fracalossi+%2Bde. Acesso em: 14 nov. 2021.
 18. CEPEDA, P. G. A thesis submitted to the Faculty of Graduate Studies and Research in partial fulfillrnent of the requirements for the degree of. 1998. 156 f. Dissertation (Department of Geography) – Carleton University, [s. l.], 1998. Disponível em: https://www.collectionscanada.gc.ca/obj/s4/f2/dsk2/tape17/PQDD_0001/MQ36823.pdf. Acesso em: 1 ago. 2021.
 19. VEIGA, M. M. et al. A contaminação por agrotóxicos e os Equipamentos de Proteção Individual (EPIs). **Revista Brasileira de Saúde Ocupacional**, [s. l.], v. 32, p. 57-68, 2007. Disponível em: https://www.scielo.br/j/rbso/a/b7ykZGV8W4MStxNT9hhsCMg/?lang=pt&format=pdf. Acesso em: 14 nov. 2021.
+
+---
+
+---
 
 ---
 

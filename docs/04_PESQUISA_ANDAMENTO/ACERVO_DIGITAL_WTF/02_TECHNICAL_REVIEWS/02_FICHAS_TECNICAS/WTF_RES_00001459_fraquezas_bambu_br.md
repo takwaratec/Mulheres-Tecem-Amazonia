@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Ensinar não é transferir conhecimento, mas criar as possibilidades para a sua própria produção ou a sua construção."<br>— Paulo Freire</i></p>
+<p align="right"><i>"Viver é muito perigoso."<br>— Guimarães Rosa</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -28,6 +28,10 @@ ano_publicacao: '2025'
 - <img src="../../../../../../assets/icons/human_07_black.svg" width="18px"> Há sobrecarga da diretoria e falta de delegação de responsabilidades.
 - <img src="../../../../../../assets/icons/human_12_black.svg" width="18px"> Ausência de um regimento interno bem estruturado impacta a tomada de decisões.
 - <img src="../../../../../../assets/icons/human_05_black.svg" width="18px"> Falta de clareza nos processos decisórios e baixa transparência nas açõ...
+
+---
+
+---
 
 ---
 

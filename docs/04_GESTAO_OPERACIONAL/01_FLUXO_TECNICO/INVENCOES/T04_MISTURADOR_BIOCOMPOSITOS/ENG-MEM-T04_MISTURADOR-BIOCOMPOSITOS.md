@@ -20,7 +20,7 @@ keywords:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A educação é o direito de todos e dever do Estado."<br>— Anísio Teixeira</i></p>
+<p align="right"><i>"O Brasil, última nação a abrogar a escravidão, tem um compromisso terrível com o seu povo."<br>— Darcy Ribeiro</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -72,6 +72,10 @@ O ponto crítico utiliza uma caixa de gaxeta com anéis de fibra de PTFE (Teflon
 ## Como Citar
 **APA:**
 Takwara, F. R. (2026). *Memorial Jurídico: Misturador de Biocompósitos "Betoneira Impermeável" T04* (Versão 1.0 Mulheres que Tecem a Floresta). Projeto Mulheres Que Tecem a Floresta / Consórcio Consórcio UnB/UFRR/UFAC. https://doi.org/10.5281/zenodo.18827106
+
+---
+
+---
 
 ---
 

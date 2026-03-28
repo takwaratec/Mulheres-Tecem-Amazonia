@@ -11,7 +11,7 @@ date: '2026-03-26'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Eu sou a favor do Brasil real."<br>— Ariano Suassuna</i></p>
+<p align="right"><i>"Não se morre enquanto houver quem nos lembre."<br>— Cora Coralina</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -68,6 +68,10 @@ Os desembolsos são ativados por marcos técnicos:
 
 ## 4. Avaliação Conclusiva
 A alocação está em total conformidade com a nova diretriz de bioeconomia modular. O projeto entrega infraestrutura tangível, reduz o risco de "obras brancas" e garante que o conhecimento técnico da Institucional flua diretamente para o território como patrimônio do consórcio.
+
+---
+
+---
 
 ---
 

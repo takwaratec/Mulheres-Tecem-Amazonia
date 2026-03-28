@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"As invenções são o resultado de um trabalho teimoso."<br>— Santos Dumont</i></p>
+<p align="right"><i>"Inventar é imaginar o que os outros não pensaram."<br>— Santos Dumont</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -29,6 +29,10 @@ ano_publicacao: '2025'
 Brasil, 23 de setembro de 2025.
 
 O palco da 80ª Assembleia Geral das Nações Unidas testemunhou mais um capítulo da complexa narrativa ambiental brasileira. O Presidente Luiz Inácio Lula da Silva, com a maestria oratória que lhe é característica, reverberou pelos corredores do poder mundial, falando da "única guer...
+
+---
+
+---
 
 ---
 

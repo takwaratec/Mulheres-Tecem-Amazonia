@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Viver é muito perigoso."<br>— Guimarães Rosa</i></p>
+<p align="right"><i>"O conhecimento é a nossa maior arma contra o atraso."<br>— Bertha Lutz</i></p>
 
 ### <img src="../../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -22,6 +22,10 @@ ano_publicacao: '2025'
 
 > [!NOTE]
 > Este documento foi gerado via protocolo `/triage` a partir do documento bruto `125994011.pdf` e integra a base de conhecimento soberano da Biorrefinaria 5.1.
+
+---
+
+---
 
 ---
 

@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"As invenções são o resultado de um trabalho teimoso."<br>— Santos Dumont</i></p>
+<p align="right"><i>"A crise da educação no Brasil não é uma crise; é um projeto."<br>— Darcy Ribeiro</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -27,6 +27,10 @@ G. E Pereira 1 .  K. L. Santos 1* .  M. P. Guerra 2 . D. C. Ortiz 1 . L. R. Tapa
 Received: 19 June 2024/Accepted: 26 November 2024 Published 10 July 2025
 
 Abstract :  In  the  Atlantic  Forest,  several  native  bamboo species have a history of use by local populations, being a source  of  Non-Timber  Forest  Products  (NTFPs).  Later, with  the  colonization  process,  th...
+
+---
+
+---
 
 ---
 

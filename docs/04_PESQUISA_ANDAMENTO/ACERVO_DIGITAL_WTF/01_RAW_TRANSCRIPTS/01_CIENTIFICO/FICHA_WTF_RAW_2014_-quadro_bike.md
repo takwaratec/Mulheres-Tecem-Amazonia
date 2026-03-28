@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O conhecimento é a nossa maior arma contra o atraso."<br>— Bertha Lutz</i></p>
+<p align="right"><i>"O espaço geográfico é o encontro de objetos e ações."<br>— Milton Santos</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -61,6 +61,10 @@ Coordenadas geográficas: Não há coordenadas geográficas explícitas no texto
 
 ### 4. Extrair Bibliografia citada no texto
 Não há referências bibliográficas citadas no corpo do texto. O documento faz menção a "Já são conhecidos vários quadros de bicicleta que utilizam o bambu", mas não fornece citações formais.
+
+---
+
+---
 
 ---
 

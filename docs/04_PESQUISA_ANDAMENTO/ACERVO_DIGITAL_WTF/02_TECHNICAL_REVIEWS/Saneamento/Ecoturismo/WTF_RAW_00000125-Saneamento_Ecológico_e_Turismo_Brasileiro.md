@@ -7,7 +7,7 @@ O documento apresenta uma análise técnica e estrutural sobre saneamento ecoló
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O real não está na saída nem na chegada: ele se dispõe para a gente é no meio da travessia."<br>— Guimarães Rosa</i></p>
+<p align="right"><i>"Ensinar não é transferir conhecimento, mas criar as possibilidades para a sua própria produção ou a sua construção."<br>— Paulo Freire</i></p>
 
 ### <img src="../../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -25,6 +25,10 @@ Como Bibliotecário Científico do Projeto Mulheres Que Tecem a Floresta, analis
 
 O texto foca predominantemente em "Saneamento Ecológico" e suas implicações e soluções para o "Turismo" (especialmente "Ecoturismo" e em "Áreas Protegidas").
 **Categoria/Subcategoria:** Saneamento/Ecoturismo
+
+---
+
+---
 
 ---
 

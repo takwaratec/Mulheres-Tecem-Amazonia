@@ -34,7 +34,7 @@ version: '2.2.2'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Não se morre enquanto houver quem nos lembre."<br>— Cora Coralina</i></p>
+<p align="right"><i>"O Brasil, última nação a abrogar a escravidão, tem um compromisso terrível com o seu povo."<br>— Darcy Ribeiro</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -302,6 +302,10 @@ KARL, Bernie. *Implementação operacional de usinas binárias em sistemas isola
 OLAH, George A.; GOEPPERT, Alain; PRAKASH, G. K. Surya. **Beyond Oil and Gas: The Methanol Economy**. 2. ed. Weinheim: Wiley-VCH, 2009.
 
 UFJF — Universidade Federal de Juiz de Fora. **MEC010: Transferência de Calor e Design de Projetos Térmicos** — termodinâmica de processos não condensáveis. Juiz de Fora: Departamento de Engenharia Mecânica.
+
+---
+
+---
 
 ---
 

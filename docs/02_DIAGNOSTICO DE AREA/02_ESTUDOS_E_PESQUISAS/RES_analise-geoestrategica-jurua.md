@@ -11,7 +11,7 @@ date: '2026-03-26'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Não se morre enquanto houver quem nos lembre."<br>— Cora Coralina</i></p>
+<p align="right"><i>"O conhecimento é a nossa maior arma contra o atraso."<br>— Bertha Lutz</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -131,6 +131,10 @@ A modernização para frotas elétricas e o fortalecimento do Polo Naval de Cruz
 - <img src="../../../../assets/icons/human_03_black.svg" width="18px"> SEVEN PUBLISHING. Estudo preliminar de uma usina de briquetagem para resíduos de cupuaçu no Amazonas. **International Scientific Journal**, 2024.
 - <img src="../../../../assets/icons/human_17_black.svg" width="18px"> SILVA, R. G. C. **Produção e caracterização de briquetes de biomassas lignocelulósicas em diferentes granulometrias**. 2020. Monografia (Graduação em Engenharia Florestal) – Universidade Federal de Alagoas, Rio Largo, 2020.
 - <img src="../../../../assets/icons/human_19_black.svg" width="18px"> WWF-BRASIL. **Bioeconomia e Infraestrutura na Amazônia**. São Paulo: FGVces, 2022.
+
+---
+
+---
 
 ---
 

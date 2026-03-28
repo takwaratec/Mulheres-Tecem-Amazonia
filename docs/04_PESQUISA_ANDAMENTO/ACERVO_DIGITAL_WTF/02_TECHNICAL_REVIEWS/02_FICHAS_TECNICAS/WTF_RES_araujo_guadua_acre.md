@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Só se aprende o que se pratica."<br>— Anísio Teixeira</i></p>
+<p align="right"><i>"Não se faz ciência sem amor ao próximo."<br>— Oswaldo Cruz</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -27,6 +27,10 @@ Letícia Medeiros de Araújo 1 , Bruno Fernando Gianelli 2 , Sandro Donnini Manc
 2  Materials and Plasma Laboratory, Federal Institute of Education, Science, and Technology of São Paulo (IFSP), Itapetininga Campus, São Paulo, Brazil
 
 Correspo...
+
+---
+
+---
 
 ---
 

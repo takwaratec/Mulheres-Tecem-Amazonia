@@ -9,15 +9,15 @@ author:
 date: '2026-03-26'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"A vida é curta, a arte é longa."<br>— Machado de Assis</i></p>
+<p align="right"><i>"A força do lugar é a força do mundo."<br>— Milton Santos</i></p>
 
 ### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_Physical-mechanical properties and biological resistance of thermally modified juvenile Handroanthus chrysotrichuswood.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -53,6 +53,10 @@ A madeira, em seu estado natural, é vulnerável a organismos xilófagos, demand
 
 | Propriedade / Característica | Detalhe da Observação | Resultado Principal / Tendência | Condição Ótima (se aplicável) |
 | :
+
+---
+
+---
 
 ---
 

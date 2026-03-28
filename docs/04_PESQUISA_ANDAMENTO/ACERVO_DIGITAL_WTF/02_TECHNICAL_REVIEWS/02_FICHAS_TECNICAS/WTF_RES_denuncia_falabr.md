@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Nós somos a floresta que pensa."<br>— Davi Kopenawa</i></p>
+<p align="right"><i>"O futuro pode ser ancestral."<br>— Ailton Krenak</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -29,6 +29,10 @@ Número de protocolo: 02303015641202546 Email utilizado: fabioInstitucional@gmai
 Cidadão cadastrado Acesse o sistema (com seu usuário e senha) e consulte todas as manifestações que você cadastrou no sistema.
 
 Cidadão sem cadastro no sistemaInforme o número do protocolo e o código de acesso...
+
+---
+
+---
 
 ---
 

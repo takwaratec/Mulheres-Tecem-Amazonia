@@ -8,7 +8,7 @@ O texto fornecido aborda de maneira aprofundada o desenvolvimento do poliuretano
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Nós somos a floresta que pensa."<br>— Davi Kopenawa</i></p>
+<p align="right"><i>"O espaço geográfico é o encontro de objetos e ações."<br>— Milton Santos</i></p>
 
 ### <img src="../../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -27,6 +27,10 @@ Aqui está a análise e o documento Markdown solicitado:
 Com base no conteúdo que detalha os avanços tecnológicos, as características do material, o ecossistema industrial e as barreiras regulatórias do poliuretano vegetal, a categoria mais apropriada é:
 
 **Categoria/Subcategoria:** `PU_Vegetal/Inovacao_e_Regulacao`
+
+---
+
+---
 
 ---
 

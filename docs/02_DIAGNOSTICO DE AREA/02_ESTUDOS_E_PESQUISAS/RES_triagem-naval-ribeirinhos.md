@@ -11,7 +11,7 @@ date: '2026-03-26'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Arte sem ética não é arte."<br>— Ariano Suassuna</i></p>
+<p align="right"><i>"A vida é curta, a arte é longa."<br>— Machado de Assis</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -102,6 +102,10 @@ date: '2026-03-26'
 2. **Catalogar** as 3 peças técnicas analisadas como **Fichas Técnicas de Referência** no acervo `02_ESTUDOS_E_PESQUISAS`.
 3. **Integrar** os dados complementares sugeridos (Seção 3) nos documentos existentes.
 4. **Validar** a hierarquia de estaleiros artesanais com fontes primárias locais.
+
+---
+
+---
 
 ---
 

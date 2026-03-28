@@ -10,7 +10,7 @@ ano_publicacao: '2024'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A crise da educação no Brasil não é uma crise; é um projeto."<br>— Darcy Ribeiro</i></p>
+<p align="right"><i>"O Brasil precisa de ciência para ser soberano."<br>— Ennio Candotti</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -23,6 +23,10 @@ ano_publicacao: '2024'
 Ficam convocados todos os associados, nos termos do artigo 14 do Estatuto da BambuBR, para a realização da Assembleia Geral Ordinária a realizar-se no próximo dia 15/12/2024, por meio eletrônico. Endereço: Sistema eletrônico de videoconferência a ser disponibilizado para teste até a data de 14/12/2023, a ser informado.
 
 A convocação dar-se-á às 9 horas do dia mencionado, horário de Brasília, onde insta...
+
+---
+
+---
 
 ---
 

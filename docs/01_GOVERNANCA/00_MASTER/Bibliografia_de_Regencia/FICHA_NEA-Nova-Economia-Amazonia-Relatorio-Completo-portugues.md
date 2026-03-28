@@ -9,15 +9,15 @@ author:
 date: '2026-03-26'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"Viver é muito perigoso."<br>— Guimarães Rosa</i></p>
+<p align="right"><i>"A educação é o direito de todos e dever do Estado."<br>— Anísio Teixeira</i></p>
 
 ### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_NEA-Nova-Economia-Amazonia-Relatorio-Completo-portugues.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -862,6 +862,10 @@ WORLD BANK. **The World Bank's evolutionary approach to mining sector reform**. 
 XU, Y. et al. Eco-driving for transit: an effective strategy to conserve fuel and emissions. **Applied Energy**, v. 194, p. 784-797, 2017.
 
 ZHANG, R.; FUJIMORI, S. The role of transport electrification in global climate change mitigation scenarios. **Environmental Research Letters**, v. 15, p. 034019, 2020.
+
+---
+
+---
 
 ---
 

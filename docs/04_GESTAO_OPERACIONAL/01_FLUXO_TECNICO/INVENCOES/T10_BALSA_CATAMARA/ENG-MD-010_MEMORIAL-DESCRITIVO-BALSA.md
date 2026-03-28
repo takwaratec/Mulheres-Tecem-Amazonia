@@ -12,7 +12,7 @@ date: '2026-03-24'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O espaço geográfico é o encontro de objetos e ações."<br>— Milton Santos</i></p>
+<p align="right"><i>"Ciência é a investigação da verdade."<br>— Carlos Chagas</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -57,6 +57,10 @@ A energia térmica de exaustão do motor (vapores a ~100°C) é recuperada por t
 ## 5. Sustentabilidade e Segurança
 
 O projeto cumpre integralmente a **NR-13**, com sistemas de segurança redundantes, e a **NORMAM**, garantindo a segurança operacional em ambiente fluvial. Ambientalmente, a balsa atua como um sumidouro de biomassa residual, reduzindo emissões fósseis e promovendo a economia circular nas florestas profundas.
+
+---
+
+---
 
 ---
 

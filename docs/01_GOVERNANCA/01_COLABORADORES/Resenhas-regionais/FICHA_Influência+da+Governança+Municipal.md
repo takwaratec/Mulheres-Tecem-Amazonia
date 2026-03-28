@@ -9,15 +9,15 @@ author:
 date: '2026-03-26'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"O homem é o estilo."<br>— Machado de Assis</i></p>
+<p align="right"><i>"A força do lugar é a força do mundo."<br>— Milton Santos</i></p>
 
 ### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_Influência+da+Governança+Municipal.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -145,6 +145,10 @@ Este artigo tem como objetivo investigar a influência da governança municipal 
 39. YONG, G.; WENHAO, C. Developing a city governance index: based on surveys in five major Chinese cities. **Social Indicators Research**, v. 109, n. 2, p. 305-316, 2012.
 
 **Observação:** Algumas referências citadas no corpo do texto bruto (e.g., Koppenjan et al., 2010; Eccles, 1985; Branco, 1985; Mitnick, 1986; Spence & Zeckhauser, 1971; Demski & Feltham, 1978; Fama, 1980; Basu, Lai, Srinivasan, & Staelin, 1985; Kosnik, 1987) não foram encontradas na lista de "REFERÊNCIAS" fornecida no final do mesmo texto. Para manter a fidelidade à instrução de "Extrair Bibliografia citada no texto" e "Liste todas as referências bibliográficas citadas no texto. Formate como ABNT", apenas as referências presentes na seção de REFERÊNCIAS foram incluídas e formatadas.
+
+---
+
+---
 
 ---
 

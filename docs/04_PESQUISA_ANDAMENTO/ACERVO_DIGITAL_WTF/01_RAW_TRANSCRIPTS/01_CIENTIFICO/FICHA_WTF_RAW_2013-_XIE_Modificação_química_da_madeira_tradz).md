@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O Brasil, última nação a abrogar a escravidão, tem um compromisso terrível com o seu povo."<br>— Darcy Ribeiro</i></p>
+<p align="right"><i>"A crise da educação no Brasil não é uma crise; é um projeto."<br>— Darcy Ribeiro</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -49,6 +49,10 @@ Nenhum dado numérico ou técnico específico, nem coordenadas geográficas, ade
 - <img src="../../../../../../assets/icons/human_05_black.svg" width="18px"> Formate como ABNT.
 
 WACKER. 2010.
+
+---
+
+---
 
 ---
 

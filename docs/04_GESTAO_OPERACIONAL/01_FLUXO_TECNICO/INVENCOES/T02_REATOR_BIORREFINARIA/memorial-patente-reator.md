@@ -12,7 +12,7 @@ keywords:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Inventar é imaginar o que os outros não pensaram."<br>— Santos Dumont</i></p>
+<p align="right"><i>"O Brasil, última nação a abrogar a escravidão, tem um compromisso terrível com o seu povo."<br>— Darcy Ribeiro</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -53,6 +53,10 @@ A invenção contempla uma rota de ativação tática para filtros de saneamento
 1. Reator de cascateamento térmico caracterizado por possuir um Riser central rodeado por serpentina de vapor flash.
 2. Sistema de ativação caracterizado pelo uso de uma **RAI (Retorta de Ativação Interna)** removível inserida no fluxo ascendente de gases do queimador.
 3. Método de ativação química caracterizado pela impregnação de carvão de bambu com vinagre de madeira de bambu (pH 2.5) sob regime de calor residual atmosférico.
+
+---
+
+---
 
 ---
 

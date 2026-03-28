@@ -31,7 +31,7 @@ version: '2.2.2'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Nós somos a floresta que pensa."<br>— Davi Kopenawa</i></p>
+<p align="right"><i>"O real não está na saída nem na chegada: ele se dispõe para a gente é no meio da travessia."<br>— Guimarães Rosa</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -206,6 +206,10 @@ Somente destinos que tratarem seu esgoto com seriedade técnica e inovação des
 31. AGR aprova resolução normativa sobre soluções alternativas para ..., acessado em fevereiro 14, 2026, [https://abar.org.br/agr-aprova-resolucao-normativa-sobre-solucoes-alternativas-para-saneamento/](https://abar.org.br/agr-aprova-resolucao-normativa-sobre-solucoes-alternativas-para-saneamento/)  
 32. Atividade turística e o saneamento: uma relação crucial para o, acessado em fevereiro 14, 2026, [https://tratabrasil.org.br/atividade-turistica-saneamento-economia/](https://tratabrasil.org.br/atividade-turistica-saneamento-economia/)  
 33. Destinos turísticos e a realidade do saneamento básico no Brasil, acessado em fevereiro 14, 2026, [https://www.sdwforall.com/nl/blog/blog-sdw-2/destinos-turisticos-e-a-realidade-do-saneamento-basico-no-brasil-18](https://www.sdwforall.com/nl/blog/blog-sdw-2/destinos-turisticos-e-a-realidade-do-saneamento-basico-no-brasil-18)
+
+---
+
+---
 
 ---
 

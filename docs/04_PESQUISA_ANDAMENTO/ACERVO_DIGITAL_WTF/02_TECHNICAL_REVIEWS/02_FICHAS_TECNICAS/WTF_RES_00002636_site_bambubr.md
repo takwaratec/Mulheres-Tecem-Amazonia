@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O céu está caindo porque os brancos não param de comer a terra."<br>— Davi Kopenawa</i></p>
+<p align="right"><i>"A ciência é um patrimônio universal."<br>— Oswaldo Cruz</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -29,6 +29,10 @@ Esta será a vitrine da associação, com o objetivo de informar, atrair novos m
 ## Página Inicial Dinâmica:
 
 - <img src="../../../../../../assets/icons/human_20_black.svg" width="18px"> Um design moderno e visualmente impactante, co...
+
+---
+
+---
 
 ---
 

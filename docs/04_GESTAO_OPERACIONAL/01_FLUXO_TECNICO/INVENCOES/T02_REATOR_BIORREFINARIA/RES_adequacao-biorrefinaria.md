@@ -19,7 +19,7 @@ version: '2.2.2'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O Brasil, última nação a abrogar a escravidão, tem um compromisso terrível com o seu povo."<br>— Darcy Ribeiro</i></p>
+<p align="right"><i>"Não se faz ciência sem amor ao próximo."<br>— Oswaldo Cruz</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -37,6 +37,10 @@ version: '2.2.2'
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![<img src="../../../../../../assets/icons/human_01_red.svg" width="18px"><img src="../../../../../../assets/icons/human_01_red.svg" width="18px"> PT](https://img.shields.io/badge/<img src="../../../../../../assets/icons/human_01_red.svg" width="18px"><img src="../../../../../../assets/icons/human_01_red.svg" width="18px">-Português-green)](./ENG_memorial-tecnico-biorrefinaria_pt.md)
 ![Status](https://img.shields.io/badge/status-V2.2.2%20(Advocacy%205.1)-blue)
+
+---
+
+---
 
 ---
 

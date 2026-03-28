@@ -9,15 +9,15 @@ author:
 date: '2026-03-26'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"A crise da educação no Brasil não é uma crise; é um projeto."<br>— Darcy Ribeiro</i></p>
+<p align="right"><i>"Eu sou a favor do Brasil real."<br>— Ariano Suassuna</i></p>
 
 ### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_BS47_Bioeconomia_FECHADO.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -119,6 +119,10 @@ Bioeconomia, Valor da bioeconomia, Economia sustentável.
 31. SERRANO, A.; ASTIZ, J. F. P; BELLOSO, M. S. J. Locating and designing a biorefinery supply chain under uncertainty in Navarre: a stochastic facility location problem case. **Transportation Research Procedia**, v. 10, p. 704-713, 2015.
 32. TIMMER, M. P. et al. An Illustrated User Guide to the World Input-Output Database: the Case of Global Automotive Production. **Review of International Economics**, v. 23, n. 3, p. 575-605, ago. 2015.
 33. VARIAN, H. R. **Intermediate microeconomics: a modern approach**. 8. ed. Nova York: W.W. Norton, 2002.
+
+---
+
+---
 
 ---
 

@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A vida é curta, a arte é longa."<br>— Machado de Assis</i></p>
+<p align="right"><i>"O espaço geográfico é o encontro de objetos e ações."<br>— Milton Santos</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -33,6 +33,10 @@ Assunto: Análise técnica sobre a gestão de fim de vida, protocolos de descart
 ## Resumo Executivo
 
 Este relatório técnico apresenta uma análise exaustiva e uma estrutura de gestão integrada para o bambu trat...
+
+---
+
+---
 
 ---
 

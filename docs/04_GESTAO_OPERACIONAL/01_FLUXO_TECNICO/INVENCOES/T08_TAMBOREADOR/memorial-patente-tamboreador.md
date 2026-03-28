@@ -21,7 +21,7 @@ version: '5.1'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O que vale na vida não é o ponto de partida e sim a caminhada."<br>— Cora Coralina</i></p>
+<p align="right"><i>"O Brasil, última nação a abrogar a escravidão, tem um compromisso terrível com o seu povo."<br>— Darcy Ribeiro</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -78,6 +78,10 @@ Invenção de um tamboreador industrial para bambus, operando por fricção rota
 
 **APA:**
 Institucional, F. R. (2026). *Memorial de Patente: Tamboreador de Varas de Bambu com Abrasão Térmica* (Versão 5.1). Memorial de Patente — Núcleo Institucional / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106
+
+---
+
+---
 
 ---
 

@@ -11,7 +11,7 @@ date: '2026-03-26'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A força do lugar é a força do mundo."<br>— Milton Santos</i></p>
+<p align="right"><i>"Ciência é a investigação da verdade."<br>— Carlos Chagas</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -53,6 +53,10 @@ date: '2026-03-26'
 - <img src="../../../../../../assets/icons/human_03_black.svg" width="18px"> **Anteprojeto:** <img src="../../../../../../assets/icons/human_03_black.svg" width="18px"> 60 dias após ordem de serviço.
 - <img src="../../../../../../assets/icons/human_08_black.svg" width="18px"> **Projeto Executivo:** <img src="../../../../../../assets/icons/human_08_black.svg" width="18px"> 120 dias após aprovação do anteprojeto.
 - <img src="../../../../../../assets/icons/human_05_black.svg" width="18px"> **Apoio Técnico:** <img src="../../../../../../assets/icons/human_05_black.svg" width="18px"> Durante toda a fase de execução da obra (aproximadamente 4,5 meses).[^1]
+
+---
+
+---
 
 ---
 

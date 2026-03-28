@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Eu sou a favor do Brasil real."<br>— Ariano Suassuna</i></p>
+<p align="right"><i>"Inventar é imaginar o que os outros não pensaram."<br>— Santos Dumont</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -27,6 +27,10 @@ Assunto: Afastamento Temporário por Saúde e Notificação de Questões Éticas
 Prezados(as) membros da BambuBR,
 
 Comunico, com fundamento no Artigo 7º do Regimento Interno da BambuBR , meu afastamento temporário do quadro ativo de associados, motivado primordialmente por questões graves de saúde , agravadas pelo desgaste ético e emocional decorrente da postura institucional truculenta, negligente e negacioni...
+
+---
+
+---
 
 ---
 

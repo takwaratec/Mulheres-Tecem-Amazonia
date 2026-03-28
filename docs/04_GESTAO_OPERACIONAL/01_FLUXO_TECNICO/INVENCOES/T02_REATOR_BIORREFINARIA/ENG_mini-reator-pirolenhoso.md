@@ -22,7 +22,7 @@ version: '5.1'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Ciência é a investigação da verdade."<br>— Carlos Chagas</i></p>
+<p align="right"><i>"A educação não transforma o mundo. Educação muda as pessoas. Pessoas mudam o mundo."<br>— Paulo Freire</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -67,6 +67,10 @@ A small set of vertical metal vessels (retorts) interconnected by copper or stee
 
 **APA:**
 Takwara, F. R. (2026). *Conceituação Técnica: Mini-Reator de Captura de Pirolenhoso* (Versão 5.1). Nota Técnica — Núcleo Institucional / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106
+
+---
+
+---
 
 ---
 

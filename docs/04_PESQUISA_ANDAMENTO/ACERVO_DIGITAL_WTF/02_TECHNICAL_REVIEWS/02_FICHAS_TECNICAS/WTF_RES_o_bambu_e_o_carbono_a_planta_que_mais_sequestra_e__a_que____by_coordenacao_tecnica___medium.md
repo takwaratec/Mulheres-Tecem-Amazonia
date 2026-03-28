@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O Brasil precisa de ciência para ser soberano."<br>— Ennio Candotti</i></p>
+<p align="right"><i>"A vida é curta, a arte é longa."<br>— Machado de Assis</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -25,6 +25,10 @@ base em estudos estoc á sticos, que a humanidade tem 10% de chances de sobreviv
 Especialistas afirmam ainda, existir uma subnotifica çã o no reporte de emiss õ es de v á rios pa í ses, por desconsiderarem os inc ê ndios e a degrada çã o florestal espont â nea como potenciais agentes de emiss ã o.
 
 O b...
+
+---
+
+---
 
 ---
 

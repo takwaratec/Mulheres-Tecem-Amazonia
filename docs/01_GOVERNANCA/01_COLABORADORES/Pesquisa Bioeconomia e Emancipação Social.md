@@ -9,15 +9,15 @@ author:
 date: '2026-03-24'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"O povo é o único soberano."<br>— João Ubaldo Ribeiro</i></p>
+<p align="right"><i>"O Brasil precisa de ciência para ser soberano."<br>— Ennio Candotti</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: Pesquisa Bioeconomia e Emancipação Social.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -190,6 +190,10 @@ Ambas as trajetórias confirmam que a verdadeira inovação ocorre na convergên
 22. Consórcio Doutoral – XIV EGEPE 2026, acessado em março 17, 2026, [https://egepe.org.br/xiv-egepe/consorcio-doutoral/](https://egepe.org.br/xiv-egepe/consorcio-doutoral/)  
 23. (PDF) Tecnologias sociais para ações de gestão de risco em desastres: uma revisão de escopo \- ResearchGate, acessado em março 17, 2026, [https://www.researchgate.net/publication/370451991\_Tecnologias\_sociais\_para\_acoes\_de\_gestao\_de\_risco\_em\_desastres\_uma\_revisao\_de\_escopo](https://www.researchgate.net/publication/370451991_Tecnologias_sociais_para_acoes_de_gestao_de_risco_em_desastres_uma_revisao_de_escopo)  
 24. Relatório de Atividades \- DPI \- UnB, acessado em março 17, 2026, [https://dpi.unb.br/images/CAPRO/relatorios\_consuni/Relatorio\_da\_Capro\_\_Janeiro\_a\_Setembro\_de\_2024.pdf](https://dpi.unb.br/images/CAPRO/relatorios_consuni/Relatorio_da_Capro__Janeiro_a_Setembro_de_2024.pdf)
+
+---
+
+---
 
 ---
 

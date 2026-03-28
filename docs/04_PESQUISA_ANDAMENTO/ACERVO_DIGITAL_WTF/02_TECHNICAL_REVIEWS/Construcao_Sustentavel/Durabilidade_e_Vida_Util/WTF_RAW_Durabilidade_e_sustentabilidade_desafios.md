@@ -8,7 +8,7 @@
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O Brasil é uma invenção de si mesmo."<br>— João Ubaldo Ribeiro</i></p>
+<p align="right"><i>"O homem é o estilo."<br>— Machado de Assis</i></p>
 
 ### <img src="../../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -99,6 +99,10 @@ Por outro lado, aumentando-se a durabilidade reduz-se também a quantidade de re
 
 A durabilidade depende muito mais de conhecimento do que em recursos. Muitas vezes na produção do componente é que se causa a maior carga ambiental e a vida útil pode ser aumentada ou diminuída sem afetar proporcionalmente as cargas ambientais. Alguns exemplos ilustram este conceito.
 Considere-se
+
+---
+
+---
 
 ---
 

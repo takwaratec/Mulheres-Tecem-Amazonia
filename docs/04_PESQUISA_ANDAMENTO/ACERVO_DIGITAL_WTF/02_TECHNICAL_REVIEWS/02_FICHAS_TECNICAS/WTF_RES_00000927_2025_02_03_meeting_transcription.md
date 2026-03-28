@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Ciência é a investigação da verdade."<br>— Carlos Chagas</i></p>
+<p align="right"><i>"Não se faz ciência sem amor ao próximo."<br>— Oswaldo Cruz</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -27,6 +27,10 @@ View original transcript at Tactiq.
 ## Short summary
 
 Na reunião, os participantes discutiram a importância da Bambu BR em promover a transparência e a ética, além de destacar a necessidade de formalizar parcerias com outras associ...
+
+---
+
+---
 
 ---
 

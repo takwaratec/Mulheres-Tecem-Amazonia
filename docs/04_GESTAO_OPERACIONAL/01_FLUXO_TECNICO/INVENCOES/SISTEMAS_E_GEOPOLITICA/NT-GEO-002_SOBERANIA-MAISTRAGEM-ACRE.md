@@ -8,7 +8,7 @@ status: CONSOLIDADO (-Ready)
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Não se faz ciência sem amor ao próximo."<br>— Oswaldo Cruz</i></p>
+<p align="right"><i>"Arte sem ética não é arte."<br>— Ariano Suassuna</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -78,6 +78,10 @@ A soberania digital do Projeto Mulheres que Tecem a Floresta é assegurada pelo 
 2. **[IBGE (2024)](https://agenciadenoticias.ibge.gov.br/)**: *Estimativas Populacionais para 2024*.
 3.- **Rendimento Volumétrico:** O Acre possui o maior banco genético de *Guadua* nativa do mundo. (Fonte: Ferreira, 2014).
 4.- **Licenciamento:** Adequação às normativas do IMAC.
+
+---
+
+---
 
 ---
 

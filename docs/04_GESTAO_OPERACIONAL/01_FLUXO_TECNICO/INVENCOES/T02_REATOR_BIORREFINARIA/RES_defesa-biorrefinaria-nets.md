@@ -8,7 +8,7 @@ licenca: CC BY-NC 4.0
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O real não está na saída nem na chegada: ele se dispõe para a gente é no meio da travessia."<br>— Guimarães Rosa</i></p>
+<p align="right"><i>"Não se faz ciência sem amor ao próximo."<br>— Oswaldo Cruz</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -50,6 +50,10 @@ MATARRU, Andre Amba; SHIN, Donghoon. Biochar Production Technology as a Negative
 
 > [!IMPORTANT]
 > Esta defesa técnica serve como base para editais de fomento (BNDES/Fundo Amazônia) e comprovação de viabilidade técnico-econômica.
+
+---
+
+---
 
 ---
 

@@ -9,15 +9,15 @@ author:
 date: '2026-03-26'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"Não se faz ciência sem amor ao próximo."<br>— Oswaldo Cruz</i></p>
+<p align="right"><i>"Não se morre enquanto houver quem nos lembre."<br>— Cora Coralina</i></p>
 
 ### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_VABICT_Modelo_Negocio_Lei_Inovacao.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -92,6 +92,10 @@ Atuando como Pesquisador Sênior e Analista de Dados do Projeto WTF, apresento a
     2.  **Valor Cultural e Econômico:** A valorização de "produtos amazônicos" e o desenvolvimento de "cadeias de valor sustentáveis" dependem da incorporação desse conhecimento tradicional para garantir a autenticidade e a qualidade dos produtos. A "bioeconomia inclusiva" idealmente integraria essas práticas ancestrais com novas tecnologias e gestão.
     3.  **Conexão com o Território:** As "especificidades culturais e ecológicas da região" (Cap. 1) são moldadas e preservadas pelos saberes ancestrais. O Projeto WTF, ao focar em mulheres que "tecem a floresta", sugere uma conexão profunda com a gestão tradicional do território, onde a tecelagem pode ser uma metáfora para a construção e manutenção da vida e cultura na floresta, baseada em conhecimentos passados de geração em geração.
     4.  **Reconhecimento e Inovação Contextualizada:** A colaboração entre o terceiro setor, setor público e sociedade civil deve incluir o diálogo com as detentoras dos saberes ancestrais para que as "diretrizes adequadas" e "estratégias integradas" sejam culturalmente sensíveis e eficazes, promovendo uma inovação que respeite e potencialize as práticas já existentes. As "Mulheres Que Tecem a Floresta" representam essa articulação vital entre o passado, o presente e o futuro da Amazônia, onde o conhecimento ancestral é o fio condutor da resiliência e do desenvolvimento sustentável.
+
+---
+
+---
 
 ---
 

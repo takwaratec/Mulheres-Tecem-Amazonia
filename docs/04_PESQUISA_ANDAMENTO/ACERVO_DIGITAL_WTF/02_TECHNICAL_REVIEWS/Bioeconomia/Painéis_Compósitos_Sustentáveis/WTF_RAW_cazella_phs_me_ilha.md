@@ -8,7 +8,7 @@ A alta demanda de produtos para a construção civil e o crescente descarte de r
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A crise da educação no Brasil não é uma crise; é um projeto."<br>— Darcy Ribeiro</i></p>
+<p align="right"><i>"Arte sem ética não é arte."<br>— Ariano Suassuna</i></p>
 
 ### <img src="../../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -223,6 +223,10 @@ _DOI: [DOI AQUI]_
 
 #CATEGORIA: Bioeconomia/Painéis_Compósitos_Sustentáveis
 ```
+
+---
+
+---
 
 ---
 

@@ -8,7 +8,7 @@ O arquivo apresenta um estudo científico detalhado sobre a caracterização fí
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Só se aprende o que se pratica."<br>— Anísio Teixeira</i></p>
+<p align="right"><i>"O Brasil, última nação a abrogar a escravidão, tem um compromisso terrível com o seu povo."<br>— Darcy Ribeiro</i></p>
 
 ### <img src="../../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -27,6 +27,10 @@ Olá! Como Bibliotecário Científico do Projeto Mulheres Que Tecem a Floresta, 
 Considerando o tema principal (bambu, resíduos, briquetagem, energia) e o contexto do projeto "Mulheres Que Tecem a Floresta" (que valoriza recursos florestais e práticas sustentáveis), a categoria mais apropriada é:
 
 **Categoria/Subcategoria:** `Bambu/Bioenergia`
+
+---
+
+---
 
 ---
 

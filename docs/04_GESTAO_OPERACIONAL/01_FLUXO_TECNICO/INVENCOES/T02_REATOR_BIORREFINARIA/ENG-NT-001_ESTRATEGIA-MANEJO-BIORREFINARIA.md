@@ -14,7 +14,7 @@ doi: 10.5281/zenodo.18827106
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Arte sem ética não é arte."<br>— Ariano Suassuna</i></p>
+<p align="right"><i>"A força do lugar é a força do mundo."<br>— Milton Santos</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -39,6 +39,10 @@ O Reator T02 atua como o núcleo de refino, utilizando o extrato pirolenhoso (EP
 | **Biochar** | ~1.800 kg | ~250 - 300 kg | Rendimento gravimétrico ~30%. |
 | **Extrato (EP)** | ~350 - 400 L | ~50 - 80 L | Coleta via condensação em pirólise lenta. |
 | **CVA (Ativado)** | Base de Carbono | ~150 kg | Funcionalização via EP concentrado. |
+
+---
+
+---
 
 ---
 

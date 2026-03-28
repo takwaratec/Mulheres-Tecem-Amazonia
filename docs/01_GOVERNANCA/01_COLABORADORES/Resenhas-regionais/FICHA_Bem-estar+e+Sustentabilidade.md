@@ -9,15 +9,15 @@ author:
 date: '2026-03-26'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"Arte sem ética não é arte."<br>— Ariano Suassuna</i></p>
+<p align="right"><i>"O homem é o estilo."<br>— Machado de Assis</i></p>
 
 ### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_Bem-estar+e+Sustentabilidade.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -122,6 +122,10 @@ A seguir, a lista de todas as referências citadas no texto, formatadas segundo 
 * <img src="../../../../../assets/icons/human_20_black.svg" width="18px">   A Ilha do Combú, 2025 (citado no texto, mas sem entrada na bibliografia).
 * <img src="../../../../../assets/icons/human_06_black.svg" width="18px">   ICMBio (2025) (citado na Tabela 1, mas sem entrada na bibliografia).
 * <img src="../../../../../assets/icons/human_16_black.svg" width="18px">   Miranda e Moreira (2024) (citado na Tabela 1, mas sem entrada na bibliografia).
+
+---
+
+---
 
 ---
 

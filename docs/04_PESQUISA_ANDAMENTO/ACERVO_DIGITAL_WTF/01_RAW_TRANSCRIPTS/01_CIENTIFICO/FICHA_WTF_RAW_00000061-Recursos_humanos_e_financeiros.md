@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Ciência é a investigação da verdade."<br>— Carlos Chagas</i></p>
+<p align="right"><i>"A educação não transforma o mundo. Educação muda as pessoas. Pessoas mudam o mundo."<br>— Paulo Freire</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -60,6 +60,10 @@ O texto detalha a estrutura de custos, pessoal e necessidades financeiras para 4
 * <img src="../../../../../../assets/icons/human_12_black.svg" width="18px">   ABNT NBR 16828 (Associação Brasileira de Normas Técnicas - <img src="../../../../../../assets/icons/human_12_black.svg" width="18px"> Norma para estruturas de bambu)
 * <img src="../../../../../../assets/icons/human_14_black.svg" width="18px">   Imperveg (Empresa/Parceria potencial para biopolímeros/PU vegetal)
 * <img src="../../../../../../assets/icons/human_07_black.svg" width="18px">   Campos, Jesiel (Referência para equipamentos customizados - <img src="../../../../../../assets/icons/human_07_black.svg" width="18px"> briquetadeiras, fornos, tamboreadores, aplicadores, etc.)
+
+---
+
+---
 
 ---
 

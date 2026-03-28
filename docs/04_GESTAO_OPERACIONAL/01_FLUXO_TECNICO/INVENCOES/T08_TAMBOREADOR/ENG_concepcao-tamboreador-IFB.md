@@ -21,7 +21,7 @@ version: '5.1'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Viver é muito perigoso."<br>— Guimarães Rosa</i></p>
+<p align="right"><i>"O povo é o único soberano."<br>— João Ubaldo Ribeiro</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -67,6 +67,10 @@ Este modelo deve ser protegido como **Modelo de Utilidade (MU)**, focando no arr
 
 **APA:**
 Takwara, F. R. (2026). *Conceituação Técnica: Protótipo Tamboreador IFB/UnB (Areia Quente)* (Versão 5.1). Nota Técnica — Núcleo Institucional / Universidade de Brasília / IFB. https://doi.org/10.5281/zenodo.18827106
+
+---
+
+---
 
 ---
 

@@ -14,7 +14,7 @@
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Só se aprende o que se pratica."<br>— Anísio Teixeira</i></p>
+<p align="right"><i>"As invenções são o resultado de um trabalho teimoso."<br>— Santos Dumont</i></p>
 
 ### <img src="../../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -110,6 +110,10 @@ ALLAN, Nicholas Taylor; HINKLE, William H. (Inventores). GLOBAL BAMBOO TECHNOLOG
 
 #CATEGORIA: Bambu/Painéis_Estruturais
 ```
+
+---
+
+---
 
 ---
 

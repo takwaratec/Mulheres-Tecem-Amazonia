@@ -12,7 +12,7 @@ date: '2026-03-24'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Não se morre enquanto houver quem nos lembre."<br>— Cora Coralina</i></p>
+<p align="right"><i>"O Brasil, última nação a abrogar a escravidão, tem um compromisso terrível com o seu povo."<br>— Darcy Ribeiro</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -354,6 +354,10 @@ TUMPKIN, J. et al. Recent advances in sustainable drying of agricultural produce
 **Coordenação Técnica:** Núcleo Institucional – Fabio Resck
 **Aprovação:** Coordenação Geral Mulheres que Tecem a Floresta (UnB)
 **Data: 23 Março de 2026
+
+---
+
+---
 
 ---
 

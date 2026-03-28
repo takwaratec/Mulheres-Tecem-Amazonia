@@ -12,7 +12,7 @@ date: '2026-03-24'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Não se morre enquanto houver quem nos lembre."<br>— Cora Coralina</i></p>
+<p align="right"><i>"A ciência não é apenas um corpo de conhecimento, é um modo de pensar."<br>— Marcelo Gleiser</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -105,6 +105,10 @@ A integração entre resíduos (ENG-MEM-004) e manufatura (ENG-MEM-009) define a
 2. **[ENG-MEM-007](ENG-MEM-007_MULHERES-TECEM-AMAZONIA-MEM-TEC.md)**: *Estruturação de Bioindústrias (BNDES)*.
 3. **[WTF_RES_Fernanda_Machado_de_Oliveira_Ferreira.pdf.md](../../../../04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/01_CIENTIFICO/TECNOLOGIA/WTF_RES_Fernanda_Machado_de_Oliveira_Ferreira.pdf.md)**: *Propriedades de Biocompósitos de PU Mamona*.
 4. **[NBR 16828](https://www.abntcatalogo.com.br/)**: *Estruturas de Bambu - Projeto e Execução*.
+
+---
+
+---
 
 ---
 

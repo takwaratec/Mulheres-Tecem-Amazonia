@@ -10,7 +10,7 @@ ano_publicacao: '2014'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Nós somos a floresta que pensa."<br>— Davi Kopenawa</i></p>
+<p align="right"><i>"Eu sou a favor do Brasil real."<br>— Ariano Suassuna</i></p>
 
 ### <img src="../../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -24,6 +24,10 @@ title: "Resumo Estratégico e Comparativo P&D - BR 20 2012 014381-5 U2"
 status: "Ativo"
 tags: [P&D, Bambu, Bioeconomia, Mobilidade Sustentável]
 *Anexos e Documentos Originais (*.pdf) encontram-se dispostos na pasta `02_PESQUISA_DESENVOLVIMENTO` para consulta da coordenação técnica do componente R&D.*
+
+---
+
+---
 
 ---
 

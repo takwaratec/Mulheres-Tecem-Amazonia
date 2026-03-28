@@ -9,15 +9,15 @@ author:
 date: '2026-03-26'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"O Brasil, última nação a abrogar a escravidão, tem um compromisso terrível com o seu povo."<br>— Darcy Ribeiro</i></p>
+<p align="right"><i>"O Brasil é uma invenção de si mesmo."<br>— João Ubaldo Ribeiro</i></p>
 
 ### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_leptospirose_Amazonia.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -137,6 +137,10 @@ Em síntese, o estudo fornece dados científicos robustos que validam muitas das
 39. FELZEMBURGH, R. D. M. et al. Prospective Study of Leptospirosis Transmission in an Urban Slum Community: Role of Poor Environment in Repeated Exposures to the Leptospira Agent. *PLoS Negl Trop Dis*, v. 8, n. 5, e2927, 2014. https://doi.org/10.1371/journal.pntd.0002927
 40. RODRIGUES, C. M. O círculo vicioso da negligência da leptospirose no Brasil The vicious circle of the leptospirosis negligence in Brazil. *Rev Inst Adolfo Lutz (São Paulo)*, v. 76, p. 1–11, 2017.
 41. SILVEIRA, R. P.; PINHEIRO, R. Entendendo a necessidade de médicos no interior da Amazônia - Brasil. *Rev Bras Educ Med*, v. 38, n. 4, p. 451–459, 2014. https://doi.org/10.1590/S0100-55022014000400006;
+
+---
+
+---
 
 ---
 

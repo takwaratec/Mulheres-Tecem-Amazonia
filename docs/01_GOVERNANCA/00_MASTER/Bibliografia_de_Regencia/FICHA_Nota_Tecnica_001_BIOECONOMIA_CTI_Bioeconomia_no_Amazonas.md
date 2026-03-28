@@ -9,15 +9,15 @@ author:
 date: '2026-03-26'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"A educação não transforma o mundo. Educação muda as pessoas. Pessoas mudam o mundo."<br>— Paulo Freire</i></p>
+<p align="right"><i>"O homem é o estilo."<br>— Machado de Assis</i></p>
 
 ### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_Nota_Tecnica_001_BIOECONOMIA_CTI_Bioeconomia_no_Amazonas.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -121,6 +121,10 @@ MARRONE, B. L. et al. Review of the harvesting and extraction program within the
 MARSTON, A.; KENNEMORE, A. Extraction, Revolution, Plurinationalism: Rethinking Extractivism from Bolivia. *Latin American Perspectives*, v. 0094582X1878134, 2018.
 
 SILVA, L. H. P. da; PINTO, L. C. L.; TEIXEIRA, S. A. de Melo; DRUMOND, M. A. Pequi fruit (Caryocar brasiliense) in Minas Gerais: commercialization and public policy. *Floresta e Ambiente*, v. 27, n. 2, e201711, 2020.
+
+---
+
+---
 
 ---
 

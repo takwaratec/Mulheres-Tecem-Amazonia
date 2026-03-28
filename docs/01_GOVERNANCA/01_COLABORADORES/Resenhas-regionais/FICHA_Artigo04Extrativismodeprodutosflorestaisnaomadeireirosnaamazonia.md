@@ -9,15 +9,15 @@ author:
 date: '2026-03-26'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"Não se faz ciência sem amor ao próximo."<br>— Oswaldo Cruz</i></p>
+<p align="right"><i>"As invenções são o resultado de um trabalho teimoso."<br>— Santos Dumont</i></p>
 
 ### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_Artigo04Extrativismodeprodutosflorestaisnaomadeireirosnaamazonia.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -142,6 +142,10 @@ O bioma amazônico representa um desafio multifacetado na atualidade. Muitas pro
 50. SILVA, E. N.; SANTANA, A. C.; SILVA, I. M.; OLIVEIRA, C. M. Aspectos socioeconômicos da produção extrativista de óleos de andiroba e de copaíba na floresta nacional do Tapajós, estado do Pará. **Revista de Ciências Agrárias**, v. 53, n. 1, p.12-23, jan./jun. 2010.
 51. TROVATTO, C. M. M.; GOMES, A.; INTINI, J. M. Evolução da linha de crédito Pronaf Floresta e suas Perspectivas de Continuidade. In: CONGRESSO BRASILEIRO DE SISTEMAS AGROFLORESTAIS DIÁLOGO E INTEGRAÇÃO DE SABERES EM SISTEMAS AGROFLORESTAIS PARA SOCIEDADE SUSTENTÁVEL, VII, 2009, Brasília. **Anais [...]**. Brasília: [s. n.], 2009. v. 1.
 52. WWF (WORLD WIDE FUND FOR NATURE). **Manejo Florestal na Amazônia**. Relatório da 1a Oficina de Manejo Florestal Comunitário com 12 iniciativas na Amazônia Brasileira. Brasília, 1998. v. 2, 44 p.
+
+---
+
+---
 
 ---
 

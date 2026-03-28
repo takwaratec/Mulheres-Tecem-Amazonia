@@ -13,7 +13,7 @@ date: '2026-03-24'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O Brasil precisa de ciência para ser soberano."<br>— Ennio Candotti</i></p>
+<p align="right"><i>"Ensinar não é transferir conhecimento, mas criar as possibilidades para a sua própria produção ou a sua construção."<br>— Paulo Freire</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -60,6 +60,10 @@ date: '2026-03-24'
 | **SUBTOTAL BoM** | **133.000** |
 | Montagem, Engenharia e Contingências (40%) | 53.200 |
 | **TOTAL INVESTIMENTO** | **R$ 186.200** |
+
+---
+
+---
 
 ---
 

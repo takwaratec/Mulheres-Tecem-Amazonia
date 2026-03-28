@@ -12,7 +12,7 @@ date: '2026-03-24'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Viver é muito perigoso."<br>— Guimarães Rosa</i></p>
+<p align="right"><i>"O povo é o único soberano."<br>— João Ubaldo Ribeiro</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -59,6 +59,10 @@ O BSM T12 utiliza uma **Unidade de Contenção de Ciclo Fechado** composta por b
 ## Como Citar
 **APA:**
 Takwara, F. R. (2026). *Memorial Técnico: Banheiro Seco Modular (BSM) T12*. Projeto Mulheres Que Tecem a Floresta / Consórcio Consórcio UnB/UFRR/UFAC. Acervo Digital Mulheres que Tecem a Floresta.
+
+---
+
+---
 
 ---
 

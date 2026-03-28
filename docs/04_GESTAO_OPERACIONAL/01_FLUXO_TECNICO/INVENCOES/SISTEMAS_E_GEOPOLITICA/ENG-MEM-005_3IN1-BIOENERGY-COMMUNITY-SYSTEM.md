@@ -12,7 +12,7 @@ date: '2026-03-24'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A educação não transforma o mundo. Educação muda as pessoas. Pessoas mudam o mundo."<br>— Paulo Freire</i></p>
+<p align="right"><i>"Não se faz ciência sem amor ao próximo."<br>— Oswaldo Cruz</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -78,6 +78,10 @@ Diferente das biorrefinarias fixas, as embarcações Mulheres que Tecem a Flores
 3. **UFPA/STAC (2024)**: *Sistema de Tratamento de Água com Carvão Ativado de Açaí*.
 4. **Winiarski & Still (Aprovecho)**: *Rocket Stove safety parameters*. [Análise de Viabilidade Fluvial](ENG-MEM-006_BIOINDUSTRIA-FLUVIAL-ESTUDO-VIABILIDADE.md)
 5. **INBAR/UNFCCC (2025)**: *BambooBoost - Bioenergia e Adaptação Climática*.
+
+---
+
+---
 
 ---
 

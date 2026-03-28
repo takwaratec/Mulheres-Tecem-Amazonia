@@ -14,7 +14,7 @@ Estas imagens estão sendo puxadas da pasta central de ativos para publicação:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Eu sou a favor do Brasil real."<br>— Ariano Suassuna</i></p>
+<p align="right"><i>"Nós somos a floresta que pensa."<br>— Davi Kopenawa</i></p>
 
 ### <img src="../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -36,6 +36,10 @@ Abaixo, aplicação de ícones centralizados na pasta de ativos do sistema de pu
 
 > [!IMPORTANT]
 > O arquivo foi registrado no menu lateral do MkDocs em **Anexos > Teste Taxonomia**.
+
+---
+
+---
 
 ---
 

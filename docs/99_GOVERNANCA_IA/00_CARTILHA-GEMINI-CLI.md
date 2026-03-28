@@ -17,7 +17,7 @@ export GOOGLE_API_KEY='AIzaSyDnUer8X3QiY0dJtK26xL9z8hGxbtm3R8A'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Inventar é imaginar o que os outros não pensaram."<br>— Santos Dumont</i></p>
+<p align="right"><i>"A força do lugar é a força do mundo."<br>— Milton Santos</i></p>
 
 ### <img src="../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -228,6 +228,10 @@ if __name__ == "__main__":
     # Defina aqui a pasta onde estão as gravações das mentoras/entrevistas
     PASTA_AUDIOS = "04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/03_AUDIOS_BRUTOS"
     executar_transcricao_recursiva(PASTA_AUDIOS)
+
+---
+
+---
 
 ---
 

@@ -9,15 +9,15 @@ author:
 date: '2026-03-26'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"As invenções são o resultado de um trabalho teimoso."<br>— Santos Dumont</i></p>
+<p align="right"><i>"O real não está na saída nem na chegada: ele se dispõe para a gente é no meio da travessia."<br>— Guimarães Rosa</i></p>
 
 ### <img src="../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: 00_repository_governance_inventory.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -108,6 +108,10 @@ Para que a colaboração ocorra sem alucinações ou termos obsoletos (como COP3
 5.  **Regra Temporal 2026**: Ignore metas futuras relacionadas à COP30. O tempo é AGORA (Consolidação e Escala).
 
 > Toda a atuação de IA é pautada pelo **system_prompt_institucional.txt**, que exige rigor ético, higiene de ativos e imutabilidade do corpo do texto consolidado. Sustentado pela sigla âncora **Mulheres que Tecem a Floresta**.
+
+---
+
+---
 
 ---
 

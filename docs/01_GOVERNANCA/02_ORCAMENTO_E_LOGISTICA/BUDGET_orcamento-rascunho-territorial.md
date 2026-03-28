@@ -9,15 +9,15 @@ author:
 date: '2026-03-24'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"O real não está na saída nem na chegada: ele se dispõe para a gente é no meio da travessia."<br>— Guimarães Rosa</i></p>
+<p align="right"><i>"A ciência é um patrimônio universal."<br>— Oswaldo Cruz</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: BUDGET_orcamento-rascunho-territorial.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -75,6 +75,10 @@ O investimento em pessoas (OPEX) é desenhado para que, após 48 meses, a rede d
 - <img src="../../../../assets/icons/human_19_black.svg" width="18px">   **Alavancagem**: Cada R$ 1 investido em máquinas no Acre deve gerar capacidade produtiva para R$ 2 em serviços nos territórios.
 - <img src="../../../../assets/icons/human_04_black.svg" width="18px">   **Equidade**: Mínimo de 60% do orçamento de formação (Núcleo 2) destinado diretamente a mulheres e lideranças de base.
 - <img src="../../../../assets/icons/human_16_black.svg" width="18px">   **Carbono**: Custo por tonelada de CO2e removida monitorado via MRV automatizado.
+
+---
+
+---
 
 ---
 

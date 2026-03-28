@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Arte sem ética não é arte."<br>— Ariano Suassuna</i></p>
+<p align="right"><i>"A crise da educação no Brasil não é uma crise; é um projeto."<br>— Darcy Ribeiro</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -59,6 +59,10 @@ Esta tese de doutorado explora o papel das intervenções de design na promoçã
 
 ### 4. Extrair Bibliografia citada no texto
 Não foram encontradas referências bibliográficas citadas no corpo do fragmento de texto fornecido (que consiste na capa e sumário de uma tese).
+
+---
+
+---
 
 ---
 

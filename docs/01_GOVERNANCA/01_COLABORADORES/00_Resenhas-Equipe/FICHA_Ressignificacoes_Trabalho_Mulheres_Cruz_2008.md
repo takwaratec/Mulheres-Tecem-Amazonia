@@ -9,15 +9,15 @@ author:
 date: '2026-03-26'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"O povo é o único soberano."<br>— João Ubaldo Ribeiro</i></p>
+<p align="right"><i>"A terra não é um negócio, a terra é a nossa mãe."<br>— Ailton Krenak</i></p>
 
 ### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_Ressignificacoes_Trabalho_Mulheres_Cruz_2008.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -32,6 +32,10 @@ Excelente! Atuando como Pesquisador Sênior e Analista de Dados do Projeto WTF, 
 * <img src="../../../../../assets/icons/human_17_black.svg" width="18px">   **Tipo:** <img src="../../../../../assets/icons/human_17_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
 * <img src="../../../../../assets/icons/human_03_black.svg" width="18px">   **Referência Interna:** <img src="../../../../../assets/icons/human_03_black.svg" width="18px"> PES-TEC-4240-2026
 * <img src="../../../../../assets/icons/human_19_black.svg" width="18px">   **Status:** <img src="../../../../../assets/icons/human_19_black.svg" width="18px"> Ready
+
+---
+
+---
 
 ---
 

@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Ensinar não é transferir conhecimento, mas criar as possibilidades para a sua própria produção ou a sua construção."<br>— Paulo Freire</i></p>
+<p align="right"><i>"A ciência não é apenas um corpo de conhecimento, é um modo de pensar."<br>— Marcelo Gleiser</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -62,6 +62,10 @@ UNIVERSIDADE DE BRASÍLIA. Decanato de Extensão. *Proposta de Ação de Extens�
 
 ### 4. Extrair Bibliografia citada no texto
 * <img src="../../../../../../assets/icons/human_08_black.svg" width="18px">   CAEIRO (2010). Não há detalhes bibliográficos completos no texto para formatação ABNT.
+
+---
+
+---
 
 ---
 

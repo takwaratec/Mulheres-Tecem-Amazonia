@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Viver é muito perigoso."<br>— Guimarães Rosa</i></p>
+<p align="right"><i>"A força do lugar é a força do mundo."<br>— Milton Santos</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -62,6 +62,10 @@ SILVA, O. O. **Máquina para fabricação de espetos de bambu**. PI 0500046-7 A.
 
 ### 4. Extrair Bibliografia citada no texto
 Não há referências bibliográficas citadas no corpo do texto fornecido. O documento é uma descrição de patente.
+
+---
+
+---
 
 ---
 

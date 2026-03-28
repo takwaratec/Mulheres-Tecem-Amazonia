@@ -9,15 +9,15 @@ author:
 date: '2026-03-24'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"O homem é o estilo."<br>— Machado de Assis</i></p>
+<p align="right"><i>"A força do lugar é a força do mundo."<br>— Milton Santos</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: ANEXO_VII_REFERENCIAS_BIBLIOGRAFICAS.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -54,6 +54,10 @@ date: '2026-03-24'
 - <img src="../../../../assets/icons/human_06_black.svg" width="18px"> **WRI BRASIL.** <img src="../../../../assets/icons/human_06_black.svg" width="18px"> Nova Economia da Amazônia: Transição para a Base Florestal. 2023.
 - <img src="../../../../assets/icons/human_16_black.svg" width="18px"> **BRASIL.** <img src="../../../../assets/icons/human_16_black.svg" width="18px"> Lei nº 13.123/2015 (Marco da Biodiversidade e Acesso ao Patrimônio Genético).
 - <img src="../../../../assets/icons/human_09_black.svg" width="18px"> **UNB/UFAC/UFRR.** <img src="../../../../assets/icons/human_09_black.svg" width="18px"> Proposta Estruturante de Bio-Soberania: Transformando Passivos em Ativos Regenerativos. 2025.
+
+---
+
+---
 
 ---
 

@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O real não está na saída nem na chegada: ele se dispõe para a gente é no meio da travessia."<br>— Guimarães Rosa</i></p>
+<p align="right"><i>"O homem é o estilo."<br>— Machado de Assis</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -55,6 +55,10 @@ Este estudo investiga a causa raiz da rachadura em colmos de bambu termicamente 
 
 ### 4. Extrair Bibliografia citada no texto
 As referências bibliográficas citadas no texto (ex: [1–3], [4–9], [10]) não foram detalhadas no fragmento fornecido, apenas indicadas numericamente.
+
+---
+
+---
 
 ---
 

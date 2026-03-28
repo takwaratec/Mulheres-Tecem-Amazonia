@@ -11,7 +11,7 @@ date: '2026-03-24'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A vida é curta, a arte é longa."<br>— Machado de Assis</i></p>
+<p align="right"><i>"O espaço geográfico é o encontro de objetos e ações."<br>— Milton Santos</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -52,6 +52,10 @@ Esta readequação garante a **Soberania Micro-industrial** do Acre como centro 
 - <img src="../../../../../../assets/icons/human_18_black.svg" width="18px"> Governança via **Conselho Gestor** <img src="../../../../../../assets/icons/human_18_black.svg" width="18px"> com execução direta, eliminando intermediários corporativos.
 
 *Catalogador: Biblioteconomista Sênior (IA-Mulheres que Tecem a Floresta)*
+
+---
+
+---
 
 ---
 

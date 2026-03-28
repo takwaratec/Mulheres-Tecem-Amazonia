@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O Brasil é uma invenção de si mesmo."<br>— João Ubaldo Ribeiro</i></p>
+<p align="right"><i>"A terra não é um negócio, a terra é a nossa mãe."<br>— Ailton Krenak</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -25,6 +25,10 @@ Maringá-PR 2025
 
 
 Trata-se de um  relatório técnico de  caráter diagnóstico  estratégico ,  elaborado  com  base na análise SWOT (Forças, Fraquezas, Oportunidades e Ameaças). Seu objetivo principal  é apresentar  uma  visão  abran...
+
+---
+
+---
 
 ---
 

@@ -9,15 +9,15 @@ author:
 date: '2026-03-24'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"A vida é curta, a arte é longa."<br>— Machado de Assis</i></p>
+<p align="right"><i>"O céu está caindo porque os brancos não param de comer a terra."<br>— Davi Kopenawa</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: REP_estrategia-defesa.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -37,6 +37,10 @@ Esta é a estrutura lógica para apresentar a proposta ao Grupo Gestor, transfor
 2. **Entrega Chave na Mão**: Infraestrutura física (geodésicas) entregue já equipada para cada cadeia.
 3. **Métricas de Impacto**: Zero Carbono, Zero Desperdício e 100% de Autonomia.
 4. **Faseamento Estratégico**: Começar com o Polo Rio Branco atendendo as demandas mais críticas já mapeadas.
+
+---
+
+---
 
 ---
 

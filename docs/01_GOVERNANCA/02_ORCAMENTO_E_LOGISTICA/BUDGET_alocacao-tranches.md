@@ -11,15 +11,15 @@ author:
 date: '2026-03-24'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"O povo é o único soberano."<br>— João Ubaldo Ribeiro</i></p>
+<p align="right"><i>"Não se faz ciência sem amor ao próximo."<br>— Oswaldo Cruz</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: BUDGET_alocacao-tranches.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -62,6 +62,10 @@ Os desembolsos são ativados por marcos técnicos:
 
 ## 4. Avaliação Conclusiva
 A alocação está em total conformidade com a nova diretriz de bioeconomia modular. O projeto entrega infraestrutura tangível, reduz o risco de "obras brancas" e garante que o conhecimento técnico do Núcleo Institucional flua diretamente para o território como patrimônio do consórcio.
+
+---
+
+---
 
 ---
 

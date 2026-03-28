@@ -13,7 +13,7 @@ date: '2026-03-19'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"As invenções são o resultado de um trabalho teimoso."<br>— Santos Dumont</i></p>
+<p align="right"><i>"O Brasil, última nação a abrogar a escravidão, tem um compromisso terrível com o seu povo."<br>— Darcy Ribeiro</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -70,6 +70,10 @@ Este documento detalha o Bill of Materials (BoM) prospectivo para a construção
 ## Resumo Financeiro Prospectivo T10
 - <img src="../../../../../../assets/icons/human_03_black.svg" width="18px"> **Total CAPEX Fábrica (Estimado):** <img src="../../../../../../assets/icons/human_03_black.svg" width="18px"> R$ 149.510,00
 - <img src="../../../../../../assets/icons/human_20_black.svg" width="18px"> **Total Valuation Contrapartida (1.4x):** <img src="../../../../../../assets/icons/human_20_black.svg" width="18px"> **R$ 209.314,00**
+
+---
+
+---
 
 ---
 

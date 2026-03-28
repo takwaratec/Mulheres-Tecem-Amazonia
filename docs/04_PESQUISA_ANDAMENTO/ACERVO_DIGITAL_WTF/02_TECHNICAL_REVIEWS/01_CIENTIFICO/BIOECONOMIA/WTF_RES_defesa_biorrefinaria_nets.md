@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A educação é o direito de todos e dever do Estado."<br>— Anísio Teixeira</i></p>
+<p align="right"><i>"Nós somos a floresta que pensa."<br>— Davi Kopenawa</i></p>
 
 ### <img src="../../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -22,6 +22,10 @@ ano_publicacao: '2025'
 
 > [!IMPORTANT]
 > Esta defesa técnica serve como base para editais de fomento (BNDES/Fundo Amazônia) e comprovação de viabilidade técnico-econômica.
+
+---
+
+---
 
 ---
 

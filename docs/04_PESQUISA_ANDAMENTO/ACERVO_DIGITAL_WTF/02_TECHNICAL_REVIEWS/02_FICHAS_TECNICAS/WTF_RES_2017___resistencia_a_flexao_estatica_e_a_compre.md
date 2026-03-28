@@ -10,7 +10,7 @@ ano_publicacao: '2017'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Não se morre enquanto houver quem nos lembre."<br>— Cora Coralina</i></p>
+<p align="right"><i>"Inventar é imaginar o que os outros não pensaram."<br>— Santos Dumont</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -23,6 +23,10 @@ ano_publicacao: '2017'
 Rodrigo Strzelecki Berndsen 1 , Ricardo Jorge Klitzke 2 , Djeison Cesar Batista 3 , Eduardo Mauro do Nascimento 4 , Fabiano Ostapiv 4
 
 1 Tecnólogo Mecânico, M.Sc., Depto. de Design de Produto, UP, Curitiba, PR, Brasil - rodrigoberndsen@yahoo.com.br 2 Eng. Florestal, Dr., Depto. de Engenharia e Tecnologia Florestal, UFPR, Curitiba, PR, Brasil - rjkklitzke@gmail.com 3 Eng. Florestal, M.Sc., Depto. d...
+
+---
+
+---
 
 ---
 

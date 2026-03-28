@@ -10,7 +10,7 @@ ano_publicacao: '2015'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A força do lugar é a força do mundo."<br>— Milton Santos</i></p>
+<p align="right"><i>"Arte sem ética não é arte."<br>— Ariano Suassuna</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -35,6 +35,10 @@ By Robert-Jan Vos
 ## 1.1. Proem
 
 This  thesis  has  been written as part of the MS4: 'Sust...
+
+---
+
+---
 
 ---
 

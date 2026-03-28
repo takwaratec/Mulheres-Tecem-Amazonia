@@ -20,7 +20,7 @@ keywords:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O homem é o estilo."<br>— Machado de Assis</i></p>
+<p align="right"><i>"Eu sou a favor do Brasil real."<br>— Ariano Suassuna</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -222,6 +222,10 @@ WORTICE. Turbinas a vapor: informações sobre a empresa fabricante. São Paulo,
 
 **APA:**  
 Takwara, F. R. (2026). *Memorial Técnico: Balsa Catamarã de Bio-Compósitos e Propulsão a Vapor T10*. Projeto Mulheres Que Tecem a Floresta / Consórcio Consórcio UnB/UFRR/UFAC. Acervo Digital Mulheres que Tecem a Floresta.
+
+---
+
+---
 
 ---
 

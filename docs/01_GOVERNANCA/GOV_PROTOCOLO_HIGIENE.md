@@ -9,15 +9,15 @@ author:
 date: '2026-03-27'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"O Brasil é uma invenção de si mesmo."<br>— João Ubaldo Ribeiro</i></p>
+<p align="right"><i>"Ciência é a investigação da verdade."<br>— Carlos Chagas</i></p>
 
 ### <img src="../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: GOV_PROTOCOLO_HIGIENE.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -52,6 +52,10 @@ A Mandala oficial (`square_06_red.svg` movida para `../../../assets/logo_BQTF/lo
 
 ## 5. Procedimento de Publicação
 Qualquer documento novo deve ser processado pelo `normalizador_acervo.py` para garantir o expurgo de IA e o alinhamento aos padrões acima descritos.
+
+---
+
+---
 
 ---
 

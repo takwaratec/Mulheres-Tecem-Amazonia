@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A ciência é um patrimônio universal."<br>— Oswaldo Cruz</i></p>
+<p align="right"><i>"Inventar é imaginar o que os outros não pensaram."<br>— Santos Dumont</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -21,6 +21,10 @@ ano_publicacao: '2025'
 *   **Data**: 27 de Março de 2026
 
 This report serves as a critical dossier for the international community, particularly in the context of the upcoming COP30 in Belém. It exposes a profound paradox: while Brazil projects an image of environmental leadership on the global stage, a sophisticated political manoeuvre is underway to usurp one of its most promising ...
+
+---
+
+---
 
 ---
 

@@ -94,7 +94,7 @@ Este estudo sublinha o vasto potencial dos polímeros de mamona brasileiros para
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Arte sem ética não é arte."<br>— Ariano Suassuna</i></p>
+<p align="right"><i>"A ciência é um patrimônio universal."<br>— Oswaldo Cruz</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -120,6 +120,10 @@ Fabio Resck Takwara (ORCID: 0009-0002-6044-2583)
 [4] Campanella, J. R. A., & Resck, F. S. (2022). *Castor Oil-Based Polyurethanes: Synthesis, Characterization, and Applications*. CRC Press.
 [5] Lemos, M. B. (2021). Desafios e oportunidades para a bioeconomia no Brasil. *Estudos Avançados*, 35(103), 7-22.
 [6] Neville, A. M. (2011). *Properties of Concrete*. Pearson Education Limited.
+
+---
+
+---
 
 ---
 

@@ -11,7 +11,7 @@ date: '2026-03-26'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Não se morre enquanto houver quem nos lembre."<br>— Cora Coralina</i></p>
+<p align="right"><i>"As invenções são o resultado de um trabalho teimoso."<br>— Santos Dumont</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -71,6 +71,10 @@ A Institucional não é mais uma fornecedora externa, mas **parte integrante do 
 ---
 
 > **Nota sobre COP30:** Todas as referências à COP30 futura foram removidas. O projeto agora foca em resultados tangíveis pós-conferência e resiliência local.
+
+---
+
+---
 
 ---
 

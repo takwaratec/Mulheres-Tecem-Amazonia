@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O Brasil precisa de ciência para ser soberano."<br>— Ennio Candotti</i></p>
+<p align="right"><i>"Nós somos a floresta que pensa."<br>— Davi Kopenawa</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -25,6 +25,10 @@ ano_publicacao: '2025'
 ## Executive Summary
 
 This report presents an in-depth analysis of the glamorization of "gray technologies" in civil construction, exemplified by "bambucreto" (bamboo-reinforced concrete) and asphalt modified with additives. The central thesis is that such innovations, while promoted as sustainable solutions, represent a form of systemic greenwashing that masks the perpetuation of extractive and unsustainable models. The analysis deconstructs marketing narrat...
+
+---
+
+---
 
 ---
 

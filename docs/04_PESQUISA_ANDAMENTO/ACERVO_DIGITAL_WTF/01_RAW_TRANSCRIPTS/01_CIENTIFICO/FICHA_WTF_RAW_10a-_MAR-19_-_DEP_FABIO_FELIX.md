@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A educação é o direito de todos e dever do Estado."<br>— Anísio Teixeira</i></p>
+<p align="right"><i>"As invenções são o resultado de um trabalho teimoso."<br>— Santos Dumont</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -66,6 +66,10 @@ INSTITUTO BRASÍLIA AMBIENTAL E DOS RECURSOS HÍDRICOS DO DISTRITO FEDERAL (IBRA
 
 ### 4. Extrair Bibliografia citada no texto
 - <img src="../../../../../../assets/icons/human_18_black.svg" width="18px"> CAEIRO (2010). (Detalhes bibliográficos completos não fornecidos no fragmento de texto).
+
+---
+
+---
 
 ---
 

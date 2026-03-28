@@ -9,15 +9,15 @@ author:
 date: '2026-03-26'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"O Brasil, última nação a abrogar a escravidão, tem um compromisso terrível com o seu povo."<br>— Darcy Ribeiro</i></p>
+<p align="right"><i>"A educação é o direito de todos e dever do Estado."<br>— Anísio Teixeira</i></p>
 
 ### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_bioeconomia+Revista_Terceira_Margem_Amazonia.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -116,6 +116,10 @@ Este artigo analisa as possibilidades e desafios da bioeconomia sob uma perspect
 24. ROMEIRO, A. Desenvolvimento sustentável: uma perspectiva econômico-ecológica. *Estudos Avançados*, v. 26, n. 74, p. 65-92, 2012. DOI: https://doi.org/10.1590/S0103-40142012000100006.
 25. SPENCE, J. *En busca de la China moderna*. México, DF: Tusquets Editores, 2011.
 26. VERÍSSIMO, A.; ROLLA, A.; VEDOVETO, M.; FUTADA, S. de M. *Áreas protegidas na Amazônia brasileira: avanços e desafios*. Belém, PA: Imazon; São Paulo: ISA, 2011. Disponível em: https://imazon.org.br/publicacoes/2673-2/. Acesso em: 14 ago. 2021.
+
+---
+
+---
 
 ---
 

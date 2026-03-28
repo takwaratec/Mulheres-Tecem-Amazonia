@@ -8,7 +8,7 @@ O conteúdo fornecido é um resumo e introdução de um artigo científico que a
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Não se morre enquanto houver quem nos lembre."<br>— Cora Coralina</i></p>
+<p align="right"><i>"O Brasil, última nação a abrogar a escravidão, tem um compromisso terrível com o seu povo."<br>— Darcy Ribeiro</i></p>
 
 ### <img src="../../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -27,6 +27,10 @@ Com base na análise do arquivo `WTF_RAW_2016_BLC_Asper_B_Vugaris_.txt`, procedo
 O texto foca na "caracterização física" e nas "propriedades físicas" de "Bambu Laminado Colado" sob diferentes condições de "tratamento preservativo e adesivos". As espécies de bambu são centrais na investigação. A categoria mais adequada, considerando os exemplos fornecidos e o foco do estudo, seria:
 
 **Categoria/Subcategoria: Bambu/Propriedades_Fisicas**
+
+---
+
+---
 
 ---
 

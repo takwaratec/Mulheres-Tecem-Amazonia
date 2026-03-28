@@ -20,7 +20,7 @@ keywords:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A educação não transforma o mundo. Educação muda as pessoas. Pessoas mudam o mundo."<br>— Paulo Freire</i></p>
+<p align="right"><i>"As invenções são o resultado de um trabalho teimoso."<br>— Santos Dumont</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -60,6 +60,10 @@ O equipamento compreende um cilindro rotativo de aço carbono perfurado de **6 m
 
 | Item | Componente | Especificação Técnica | Qtd |
 | :
+
+---
+
+---
 
 ---
 

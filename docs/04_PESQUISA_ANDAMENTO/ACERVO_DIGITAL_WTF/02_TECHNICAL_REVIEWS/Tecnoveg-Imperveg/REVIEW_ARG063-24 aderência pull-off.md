@@ -56,7 +56,7 @@ Em suma, o produto Imperveg demonstra uma capacidade de aderência ao concreto q
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O futuro pode ser ancestral."<br>— Ailton Krenak</i></p>
+<p align="right"><i>"Não se morre enquanto houver quem nos lembre."<br>— Cora Coralina</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -77,6 +77,10 @@ Em suma, o produto Imperveg demonstra uma capacidade de aderência ao concreto q
 **Autor da Análise:** Fabio Resck Takwara (ORCID: "0009-0002-6044-2583")
 **Data da Revisão:** 25/03/2026
 **Local da Análise:** "São Paulo-SP"
+
+---
+
+---
 
 ---
 

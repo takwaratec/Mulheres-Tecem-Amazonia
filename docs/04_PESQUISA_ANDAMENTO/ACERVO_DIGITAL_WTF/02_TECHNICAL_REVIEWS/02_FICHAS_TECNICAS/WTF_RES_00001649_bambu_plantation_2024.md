@@ -10,7 +10,7 @@ ano_publicacao: '2024'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O que vale na vida não é o ponto de partida e sim a caminhada."<br>— Cora Coralina</i></p>
+<p align="right"><i>"A ciência é um patrimônio universal."<br>— Oswaldo Cruz</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -50,6 +50,10 @@ WBO (2024). 2024 Global Bamboo Plantation Resource Survey Results Report.
 ## Acknowledgements
 
 This ...
+
+---
+
+---
 
 ---
 

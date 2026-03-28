@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O real não está na saída nem na chegada: ele se dispõe para a gente é no meio da travessia."<br>— Guimarães Rosa</i></p>
+<p align="right"><i>"A crise da educação no Brasil não é uma crise; é um projeto."<br>— Darcy Ribeiro</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -91,6 +91,10 @@ O texto é uma nota técnica da CNA e menciona as seguintes fontes de dados:
 * <img src="../../../../../../assets/icons/human_11_black.svg" width="18px">   **Ministério da Indústria, Comércio Exterior e Serviços**
 
 Não há referências bibliográficas formatadas em ABNT citadas dentro do corpo do texto. As menções acima são a órgãos ou bases de dados de onde as informações foram extraídas para a elaboração da nota técnica.
+
+---
+
+---
 
 ---
 

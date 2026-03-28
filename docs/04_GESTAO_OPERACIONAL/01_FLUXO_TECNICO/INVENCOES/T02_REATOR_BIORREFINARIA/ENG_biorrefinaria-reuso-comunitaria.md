@@ -22,7 +22,7 @@ version: '5.1'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O céu está caindo porque os brancos não param de comer a terra."<br>— Davi Kopenawa</i></p>
+<p align="right"><i>"A ciência é um patrimônio universal."<br>— Oswaldo Cruz</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -75,6 +75,10 @@ Em um assentamento agroecológico, uma estrutura robusta de tijolos e barro (Roc
 
 **APA:**
 Takwara, F. R. (2026). *Conceituação Técnica: Biorrefinaria de Reuso Comunitária (Vapor e Secagem)* (Versão 5.1). Nota Técnica — Núcleo Institucional / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106
+
+---
+
+---
 
 ---
 

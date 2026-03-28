@@ -9,15 +9,15 @@ author:
 date: '2026-03-26'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"O Brasil precisa de ciência para ser soberano."<br>— Ennio Candotti</i></p>
+<p align="right"><i>"O conhecimento é a nossa maior arma contra o atraso."<br>— Bertha Lutz</i></p>
 
 ### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_Bioeconomia indígena- saberes ancestrais e tecnologias sociais.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -96,6 +96,10 @@ Para Tania, Sonia, e Georgia – que no contexto do Projeto WTF podem ser pesqui
 5.  **Ampliando a Visão da Bioeconomia:** O documento desafia a visão ocidental utilitarista da bioeconomia, mostrando que para os indígenas, uma castanheira não é apenas madeira, mas um ser mitológico e uma fonte de múltiplas funções. Essa perspectiva enriquece o entendimento de Tania, Sonia e Georgia sobre o escopo e o significado da "bioeconomia da floresta" para o projeto.
 
 Em suma, o texto bruto serve como um manifesto e um manual prático para o Projeto WTF, reafirmando que o sucesso das iniciativas de bioeconomia na Amazônia depende fundamentalmente do reconhecimento, da valorização e do protagonismo dos saberes ancestrais, especialmente aqueles tecidos pelas mulheres indígenas.
+
+---
+
+---
 
 ---
 

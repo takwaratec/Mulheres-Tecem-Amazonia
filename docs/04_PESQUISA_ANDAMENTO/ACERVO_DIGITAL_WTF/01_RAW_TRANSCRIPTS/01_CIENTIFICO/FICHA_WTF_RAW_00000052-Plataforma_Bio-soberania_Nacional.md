@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Eu sou a favor do Brasil real."<br>— Ariano Suassuna</i></p>
+<p align="right"><i>"As invenções são o resultado de um trabalho teimoso."<br>— Santos Dumont</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -58,6 +58,10 @@ Nenhuma coordenada geográfica foi identificada no texto.
 
 ### 4. Extrair Bibliografia citada no texto
 Nenhuma referência bibliográfica explícita foi citada no corpo do texto.
+
+---
+
+---
 
 ---
 

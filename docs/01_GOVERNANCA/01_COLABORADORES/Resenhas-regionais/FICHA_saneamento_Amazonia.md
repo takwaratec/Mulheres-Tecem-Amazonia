@@ -9,15 +9,15 @@ author:
 date: '2026-03-26'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"A ciência não é apenas um corpo de conhecimento, é um modo de pensar."<br>— Marcelo Gleiser</i></p>
+<p align="right"><i>"O homem é o estilo."<br>— Machado de Assis</i></p>
 
 ### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_saneamento_Amazonia.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -114,6 +114,10 @@ Em suma, o estudo oferece uma base para entender os desafios de saúde, permitin
 13. NACIFE, M. B. P. S. L. **Prevalência das infecções parasitárias intestinais em aldeias da etnia indígena Maxakali, Minas Gerais, Brasil**. 2018. Dissertação (Mestrado em Ciências Biológicas) – Universidade Federal de Ouro Preto, Ouro Preto, 2018. Disponível em: https://repositorio.ufop.br/bitstream/123456789/11711/1/DISSERTA%c3%87%c3%83O_Preval%c3%aanciaInfec%c3%a7%c3%b5esParasit%c3%a1rias.pdf. Acesso em: 24 mar. 2026.
 14. ZENAZOKENAE, L. E. et al. Prevalence of enteroparasitosis in the indigenous community of Mato Grosso, Brazil: a look into the sanitation and ethno-development. **Saúde e Pesquisa**, [S. l.], v. 12, n. 2, p. 253-264, 2019. DOI: 10.17765/2176-9206.2019v12n2p253-264.
 15. OLIVEIRA, M. R. et al. Contribuição da educação e saúde na prevenção de parasitoses em uma comunidade indígena no município de Cantá-RR. **Contemporânea – Revista de Ética e Filosofia Política**, [S. l.], v. 3, n. 1, p. 538-549, 2023. DOI: 10.56083/RCV3N1-030.
+
+---
+
+---
 
 ---
 

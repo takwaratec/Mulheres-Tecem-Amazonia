@@ -12,7 +12,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A força do lugar é a força do mundo."<br>— Milton Santos</i></p>
+<p align="right"><i>"O espaço geográfico é o encontro de objetos e ações."<br>— Milton Santos</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -85,6 +85,10 @@ O espaço físico do N2 Hub opera como unidade de Biofabricação e Ensino (Capa
 
 > [!NOTE]
 > O saldo de R$ 7,21M do orçamento do Componente 2 é destinado a P&D (Bolsas), O&M, Logística e Insumos por 24 meses. Inclui a **Logística Volante de Montagem** (Kits Airless T10) para atendimento em canteiro.
+
+---
+
+---
 
 ---
 

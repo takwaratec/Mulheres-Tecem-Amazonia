@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O real não está na saída nem na chegada: ele se dispõe para a gente é no meio da travessia."<br>— Guimarães Rosa</i></p>
+<p align="right"><i>"Arte sem ética não é arte."<br>— Ariano Suassuna</i></p>
 
 ### <img src="../../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -1071,6 +1071,10 @@ The 43 peer-reviewed publications from which the data for Figures 1-9 were obtai
 | Zaragoza-Hernandez et al 2015 |       | ×     | ×     |       | ×     | ×     | ×     |
 
 <!-- image -->
+
+---
+
+---
 
 ---
 

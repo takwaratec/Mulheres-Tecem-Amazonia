@@ -12,7 +12,7 @@ date: '2026-03-24'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A ciência não é apenas um corpo de conhecimento, é um modo de pensar."<br>— Marcelo Gleiser</i></p>
+<p align="right"><i>"O Brasil precisa de ciência para ser soberano."<br>— Ennio Candotti</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -76,6 +76,10 @@ O escoamento e beneficiamento seguem a malha de Bio-Soberania (**ENG-MEM-009**):
 7.  **[Trata Brasil (2025)](https://tratabrasil.org.br/)**: *Impacto das internações por DRSAI*.
 8.  **Referência**: [ENG-MEM-MASTER_CORACAO-TERMICO.md](../../ENG-MEM-MASTER_CORACAO-TERMICO.md)
 9.  **Referência**: [WTF_PROJETO_INTEGRADO.md](../../../../01_GOVERNANCA/WTF_PROJETO_INTEGRADO.md)
+
+---
+
+---
 
 ---
 

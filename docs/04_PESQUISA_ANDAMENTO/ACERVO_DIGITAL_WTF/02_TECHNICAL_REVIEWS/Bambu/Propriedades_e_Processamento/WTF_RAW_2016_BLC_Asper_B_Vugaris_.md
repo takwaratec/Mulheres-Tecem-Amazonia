@@ -8,7 +8,7 @@ O documento é um artigo científico que investiga as propriedades físicas do b
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O conhecimento é a nossa maior arma contra o atraso."<br>— Bertha Lutz</i></p>
+<p align="right"><i>"Arte sem ética não é arte."<br>— Ariano Suassuna</i></p>
 
 ### <img src="../../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -27,6 +27,10 @@ Olá! Como Bibliotecário Científico do Projeto Mulheres Que Tecem a Floresta, 
 Com base no tema principal do artigo, que envolve a caracterização de materiais à base de bambu, seu processamento e avaliação de desempenho, a categoria e subcategoria mais apropriadas são:
 
 **Categoria/Subcategoria:** `Bambu/Propriedades_e_Processamento`
+
+---
+
+---
 
 ---
 

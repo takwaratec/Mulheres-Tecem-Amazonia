@@ -9,15 +9,15 @@ author:
 date: '2026-03-24'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"O Brasil, última nação a abrogar a escravidão, tem um compromisso terrível com o seu povo."<br>— Darcy Ribeiro</i></p>
+<p align="right"><i>"A vida é curta, a arte é longa."<br>— Machado de Assis</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: Dossiê Vanessa Fernandes_ Bioeconomia e Emancipação.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -178,6 +178,10 @@ A produção científica e a atuação institucional documentadas neste dossiê 
 28. MESA Track, acessado em março 17, 2026, [https://mesamalaria.org/principal\_investigat/gregory-j-tobin/](https://mesamalaria.org/principal_investigat/gregory-j-tobin/)  
 29. Food-based dietary guidelines: a comparative analysis between the Dietary Guidelines for the Brazilian Population 2006 and 2014 | Public Health Nutrition | Cambridge Core, acessado em março 17, 2026, [https://www.cambridge.org/core/journals/public-health-nutrition/article/foodbased-dietary-guidelines-a-comparative-analysis-between-the-dietary-guidelines-for-the-brazilian-population-2006-and-2014/DE1E83E39455D360D438DE4130FB1142](https://www.cambridge.org/core/journals/public-health-nutrition/article/foodbased-dietary-guidelines-a-comparative-analysis-between-the-dietary-guidelines-for-the-brazilian-population-2006-and-2014/DE1E83E39455D360D438DE4130FB1142)  
 30. Máscara Vesta: capaz de inativar o vírus da covid-19, respirador facial é apresentado a sociedade acadêmica \- Finatec, acessado em março 17, 2026, [https://www.finatec.org.br/noticia/mascara-vesta-capaz-de-inativar-o-virus-da-covid-19-respirador-facial-e-apresentado-a-sociedade-academica/](https://www.finatec.org.br/noticia/mascara-vesta-capaz-de-inativar-o-virus-da-covid-19-respirador-facial-e-apresentado-a-sociedade-academica/)
+
+---
+
+---
 
 ---
 

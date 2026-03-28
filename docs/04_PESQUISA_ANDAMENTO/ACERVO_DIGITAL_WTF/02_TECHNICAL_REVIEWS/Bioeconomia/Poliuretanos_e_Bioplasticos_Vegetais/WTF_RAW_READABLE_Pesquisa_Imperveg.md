@@ -17,7 +17,7 @@ A natureza dos links é predominantemente técnica, comercial e acadêmica, todo
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O real não está na saída nem na chegada: ele se dispõe para a gente é no meio da travessia."<br>— Guimarães Rosa</i></p>
+<p align="right"><i>"O conhecimento é a nossa maior arma contra o atraso."<br>— Bertha Lutz</i></p>
 
 ### <img src="../../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -147,6 +147,10 @@ As referências a seguir foram extraídas do texto bruto. Foram removidas duplic
 
 #CATEGORIA: Bioeconomia/Poliuretanos_e_Bioplasticos_Vegetais
 ```
+
+---
+
+---
 
 ---
 

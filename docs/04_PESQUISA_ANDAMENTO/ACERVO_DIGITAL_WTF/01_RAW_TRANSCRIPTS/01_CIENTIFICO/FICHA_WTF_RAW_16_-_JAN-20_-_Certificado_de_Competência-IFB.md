@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Não se morre enquanto houver quem nos lembre."<br>— Cora Coralina</i></p>
+<p align="right"><i>"Nós somos a floresta que pensa."<br>— Davi Kopenawa</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -55,6 +55,10 @@ MINISTÉRIO DA EDUCAÇÃO. INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGI
 
 ### 4. Extrair Bibliografia citada no texto
 Nenhuma referência bibliográfica específica é citada explicitamente no corpo do texto. O documento menciona uma consulta à "literatura disponibilizada nos bancos de pesquisa da academia sobre o tema", mas conclui que não há material semelhante ao trabalho apresentado pelo pesquisador.
+
+---
+
+---
 
 ---
 

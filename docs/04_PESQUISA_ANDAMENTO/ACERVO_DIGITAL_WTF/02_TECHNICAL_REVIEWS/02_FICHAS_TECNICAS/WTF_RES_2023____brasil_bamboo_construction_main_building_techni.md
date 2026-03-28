@@ -10,7 +10,7 @@ ano_publicacao: '2023'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A crise da educação no Brasil não é uma crise; é um projeto."<br>— Darcy Ribeiro</i></p>
+<p align="right"><i>"Eu sou a favor do Brasil real."<br>— Ariano Suassuna</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -30,6 +30,10 @@ Editors Felipe  Luis  Palombini Department  of  Industrial  Design  (DDI) Federa
 Fernanda  Mayara  Nogueira Faculty  of  Philosophy,  Sciences  and  Letters at  Ribeirao  Preto  (FFCLRP) University  of  São  Paulo  (USP) Ribeirão  Preto,  Brazil
 
 ISSN  2345-7...
+
+---
+
+---
 
 ---
 

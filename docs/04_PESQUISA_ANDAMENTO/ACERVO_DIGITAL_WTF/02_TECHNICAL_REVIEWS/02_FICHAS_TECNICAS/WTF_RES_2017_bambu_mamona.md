@@ -10,7 +10,7 @@ ano_publicacao: '2017'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Ciência é a investigação da verdade."<br>— Carlos Chagas</i></p>
+<p align="right"><i>"O povo é o único soberano."<br>— João Ubaldo Ribeiro</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -27,6 +27,10 @@ João Victor Gomes dos Santos; Giulianna de Moraes Godinho; Marco Antônio dos R
 ## resumo:
 
 Em busca da melhoria na qualidade de vida da população e na disponibilidade futura de matéria-prima e energia, os projetos de design têm passado a adotar c...
+
+---
+
+---
 
 ---
 

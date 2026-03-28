@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Não se faz ciência sem amor ao próximo."<br>— Oswaldo Cruz</i></p>
+<p align="right"><i>"O Brasil é uma invenção de si mesmo."<br>— João Ubaldo Ribeiro</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -23,6 +23,10 @@ ano_publicacao: '2025'
 ## Executive Summary
 
 This report continues the investigation into pathways for Brazilian sovereignty, shifting from a critique of "technofeudalism" to the analysis of a tangible, yet marginalized, counter-proposal: the holistic circular economy system developed by architects Sérgio Prado and Márcia Macul. This document posits that while Brazil's political establishment has failed for 14 years...
+
+---
+
+---
 
 ---
 

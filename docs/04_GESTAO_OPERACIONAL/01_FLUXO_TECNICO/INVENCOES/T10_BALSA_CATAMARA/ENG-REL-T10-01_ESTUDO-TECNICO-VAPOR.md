@@ -11,7 +11,7 @@ date: '2026-03-26'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Viver é muito perigoso."<br>— Guimarães Rosa</i></p>
+<p align="right"><i>"O espaço geográfico é o encontro de objetos e ações."<br>— Milton Santos</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -54,6 +54,10 @@ A Balsa T10 integra propulsão a vapor de ciclo fechado com cogeração térmica
 ## 4. Fundamentação Científica
 - <img src="../../../../../../assets/icons/human_03_black.svg" width="18px"> **Maturidade (TRL)**: Componentes individuais (Uniflow, Flash Steam, Biocompósitos) possuem TRL elevado em separado, mas a **integração sistêmica** <img src="../../../../../../assets/icons/human_03_black.svg" width="18px"> embarcada é inovação radical com TRL médio (~4/5).
 - <img src="../../../../../../assets/icons/human_16_black.svg" width="18px"> **Precedentes**: Patente US9657568B2 (Uniflow para pequena geração) e CN209025768U (Cogeração naval Diesel-Vapor-Frio).
+
+---
+
+---
 
 ---
 

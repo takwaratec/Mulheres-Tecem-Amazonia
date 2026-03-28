@@ -11,7 +11,7 @@ date: '2026-03-26'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O povo é o único soberano."<br>— João Ubaldo Ribeiro</i></p>
+<p align="right"><i>"A terra não é um negócio, a terra é a nossa mãe."<br>— Ailton Krenak</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -43,6 +43,10 @@ date: '2026-03-26'
 - <img src="../../../../assets/icons/human_01_black.svg" width="18px"> Licenças de software devem ser para fins de R&D de bioinsumos e design territorial.
 
 *Relatório de Triagem /awake.*
+
+---
+
+---
 
 ---
 

@@ -9,15 +9,15 @@ author:
 date: '2026-03-24'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"O que vale na vida não é o ponto de partida e sim a caminhada."<br>— Cora Coralina</i></p>
+<p align="right"><i>"O Brasil, última nação a abrogar a escravidão, tem um compromisso terrível com o seu povo."<br>— Darcy Ribeiro</i></p>
 
 ### <img src="../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: WTF-ALINHAMENTO_ESTRATEGICO.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -41,6 +41,10 @@ Para garantir a veiculação sem "furos" para a coordenação geral, as seguinte
 2.  **[OK] Harmonização dos Diretórios:** Pastas de inventos alinhadas à sequência mestra T01-T12.
 3.  **[OK] Fechamento do Memorial Master:** Documento [PROJETO INTEGRADO](WTF_PROJETO_INTEGRADO.md) atualizado com a nova lógica fiscal.
 4.  **[OK] Consolidação das Sobras:** Simulação de R$ 25M líquido realizada com contingências. Ver: [Simulação Orçamentária](02_ORCAMENTO_E_LOGISTICA/BUDGET_simulacao-operacional-25m.md).
+
+---
+
+---
 
 ---
 

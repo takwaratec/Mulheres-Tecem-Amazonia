@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A terra não é um negócio, a terra é a nossa mãe."<br>— Ailton Krenak</i></p>
+<p align="right"><i>"A ciência é um patrimônio universal."<br>— Oswaldo Cruz</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -57,6 +57,10 @@ MOREIRA, Luís Eustáquio. Conexão nervurada para tubos de bambu. Universidade 
 
 ### 4. Extrair Bibliografia citada no texto
 Não há referências bibliográficas citadas dentro do texto fornecido. O texto é o próprio documento de patente.
+
+---
+
+---
 
 ---
 

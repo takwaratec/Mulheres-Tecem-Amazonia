@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O Brasil é uma invenção de si mesmo."<br>— João Ubaldo Ribeiro</i></p>
+<p align="right"><i>"A educação não transforma o mundo. Educação muda as pessoas. Pessoas mudam o mundo."<br>— Paulo Freire</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -26,6 +26,10 @@ A presente invenção descreve um sistema de conexões utilizando cabos de aço 
 
 
 Os métodos tradicionais para conexão entre elementos estruturais de bambu envolvem técnicas como amarração com fibras naturais ou sintéticas, barras roscadas metálicas, tubos de PVC ou ainda ponte...
+
+---
+
+---
 
 ---
 

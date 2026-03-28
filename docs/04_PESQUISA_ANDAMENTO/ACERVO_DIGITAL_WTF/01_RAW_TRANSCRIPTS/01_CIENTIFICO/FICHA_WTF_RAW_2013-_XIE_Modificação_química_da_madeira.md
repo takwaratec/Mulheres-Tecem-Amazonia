@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Eu sou a favor do Brasil real."<br>— Ariano Suassuna</i></p>
+<p align="right"><i>"Ciência é a investigação da verdade."<br>— Carlos Chagas</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -50,6 +50,10 @@ A modificação química tem sido reconhecida como uma estratégia eficiente par
 ### 4. Extrair Bibliografia citada no texto
 WACKER (2010)
 *Nota: A referência completa de "Wacker 2010" é citada no texto, mas não está detalhada no fragmento fornecido.*
+
+---
+
+---
 
 ---
 

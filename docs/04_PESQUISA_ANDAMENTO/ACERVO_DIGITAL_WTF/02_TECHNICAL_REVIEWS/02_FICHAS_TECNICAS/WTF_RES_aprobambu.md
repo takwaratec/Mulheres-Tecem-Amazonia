@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A educação é o direito de todos e dever do Estado."<br>— Anísio Teixeira</i></p>
+<p align="right"><i>"A ciência é um patrimônio universal."<br>— Oswaldo Cruz</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -27,6 +27,10 @@ ano_publicacao: '2025'
 ## Executive Summary
 
 This report presents a critical analysis of the political dynamics shaping Brazil's national bamboo bioeconomy, intended to inform international debate at the 30th Conference of the Parties (COP30). It argues that while Brazil's landmark National Bamboo Policy (Law 12.484/2011) offers a robust framework for sustainable devel...
+
+---
+
+---
 
 ---
 

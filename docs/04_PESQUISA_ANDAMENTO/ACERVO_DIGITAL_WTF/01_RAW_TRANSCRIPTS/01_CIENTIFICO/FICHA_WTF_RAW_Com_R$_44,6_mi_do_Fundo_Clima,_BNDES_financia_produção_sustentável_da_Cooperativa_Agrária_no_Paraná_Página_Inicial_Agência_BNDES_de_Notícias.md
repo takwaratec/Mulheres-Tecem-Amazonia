@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O real não está na saída nem na chegada: ele se dispõe para a gente é no meio da travessia."<br>— Guimarães Rosa</i></p>
+<p align="right"><i>"O Brasil, última nação a abrogar a escravidão, tem um compromisso terrível com o seu povo."<br>— Darcy Ribeiro</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -61,6 +61,10 @@ O Banco Nacional de Desenvolvimento Econômico e Social (BNDES) aprovou um finan
 
 ### 4. Extrair Bibliografia citada no texto
 O texto é uma notícia e não apresenta referências bibliográficas formais ou citações a outros trabalhos científicos. As entidades e programas mencionados (BNDES, Fundo Clima, Cooperativa Agrária Agroindustrial, Ministério do Meio Ambiente e Mudança do Clima) são atores ou iniciativas centrais da matéria, não fontes bibliográficas citadas.
+
+---
+
+---
 
 ---
 

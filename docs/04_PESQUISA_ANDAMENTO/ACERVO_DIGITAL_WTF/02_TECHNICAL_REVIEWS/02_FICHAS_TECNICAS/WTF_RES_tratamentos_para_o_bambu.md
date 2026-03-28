@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Inventar é imaginar o que os outros não pensaram."<br>— Santos Dumont</i></p>
+<p align="right"><i>"A educação não transforma o mundo. Educação muda as pessoas. Pessoas mudam o mundo."<br>— Paulo Freire</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -24,6 +24,10 @@ Parte I: A Ilusão de uma Solução Rápida: O Verdadeiro Custo da Preservação
 
 
 O bambu emerge no século XXI como um farol de esperança para uma bioeconomia sustentável. Esta gramínea notável, com seu crescimento prodigiosamente rápido, capacidade de sequestro...
+
+---
+
+---
 
 ---
 

@@ -7,7 +7,7 @@ O documento é uma transcrição de um pedido de patente que descreve um materia
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Só se aprende o que se pratica."<br>— Anísio Teixeira</i></p>
+<p align="right"><i>"Viver é muito perigoso."<br>— Guimarães Rosa</i></p>
 
 ### <img src="../../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -27,6 +27,10 @@ Como Bibliotecário Científico do Projeto Mulheres Que Tecem a Floresta, realiz
 **Subcategoria: Materiais_Estruturais**
 
 *Justificativa:* O documento detalha o desenvolvimento e fabricação de vigas de bambu como material estrutural para a indústria da construção, abordando o processamento do bambu para otimizar suas propriedades mecânicas e adesão.
+
+---
+
+---
 
 ---
 

@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A ciência não é apenas um corpo de conhecimento, é um modo de pensar."<br>— Marcelo Gleiser</i></p>
+<p align="right"><i>"Só se aprende o que se pratica."<br>— Anísio Teixeira</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -66,6 +66,10 @@ MOREIRA, L. E.; SILVA, F. J. da. **Dispositivo de bambu protendido.** Patente BR
 2.  LIMA JR., H. C.; DIAS, A. A. Vigas mistas de madeira de reflorestamento e bambu laminado colado: análise teórica e experimental. **Revista Brasileira de Engenharia Agrícola e Ambiental**, v. 5, n. 3, p. 1807-1929, 2001.
 3.  FREIRE, W. J.; BERALDO, A. L. **Tecnologias e materiais alternativos de construção.** Campinas: Ed. da UNICAMP, 2003. p. 319.
 4.  PAES, J. B. et al. Caracterização físico-mecânica do laminado colado de bambu (Dendrocalamus giganteus). **Ciência Florestal**, v. 19, n. 1, p. 41-51, 2009.
+
+---
+
+---
 
 ---
 

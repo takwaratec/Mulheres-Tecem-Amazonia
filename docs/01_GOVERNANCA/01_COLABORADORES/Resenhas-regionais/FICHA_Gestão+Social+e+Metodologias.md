@@ -9,15 +9,15 @@ author:
 date: '2026-03-26'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"O real não está na saída nem na chegada: ele se dispõe para a gente é no meio da travessia."<br>— Guimarães Rosa</i></p>
+<p align="right"><i>"Ensinar não é transferir conhecimento, mas criar as possibilidades para a sua própria produção ou a sua construção."<br>— Paulo Freire</i></p>
 
 ### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_Gestão+Social+e+Metodologias.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -131,6 +131,10 @@ Este ensaio teórico possui uma conexão vital com o Projeto "Mulheres Que Tecem
 48. TENÓRIO, F. G. et al. Critérios para a avaliação de processos decisórios participativos deliberativos na implementação de políticas públicas. In: ENCONTRO DE ADMINISTRAÇÃO PÚBLICA E GOVERNANÇA, 2., 2008, Salvador. *Anais* [...]. Salvador: EnAPG, 2008.
 49. TORI, S.; PAPPERS, J.; KESERÚ, I. Developing disruptive mobility scenarios for rural areas. Participatory mobility scenario building in a Belgian village for the year 2050. *European Transport Research Review*, v. 14, n. 1, 2022.
 50. VILLELA, L. E. Escopo metodológico. In: TENÓRIO, F. G. (Org.). *Cidadania e desenvolvimento local: critérios de análise*. Rio de Janeiro: FGV, 2012. p. 35-46.
+
+---
+
+---
 
 ---
 

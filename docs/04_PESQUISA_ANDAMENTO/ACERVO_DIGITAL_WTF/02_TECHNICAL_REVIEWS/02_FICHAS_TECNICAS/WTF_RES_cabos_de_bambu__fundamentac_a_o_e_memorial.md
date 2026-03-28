@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Inventar é imaginar o que os outros não pensaram."<br>— Santos Dumont</i></p>
+<p align="right"><i>"O povo é o único soberano."<br>— João Ubaldo Ribeiro</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -23,6 +23,10 @@ ano_publicacao: '2025'
 Analise os documentos anexados e desenvolva um memorial descritivo para ato de encabar ferramentas com o uso do bambu tratado com PU Vegetal.
 
 Segue um memorial descritivo detalhado para o processo de encabar ferramentas agrícolas utilizando colmos de bambu tratados e reforçados internamente com espuma de poliuretano vegetal, conforme as informações técnicas fornecidas nos documentos anexados.
+
+---
+
+---
 
 ---
 

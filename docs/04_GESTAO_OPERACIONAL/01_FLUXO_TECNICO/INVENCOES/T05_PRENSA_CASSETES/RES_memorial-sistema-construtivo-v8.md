@@ -22,7 +22,7 @@ version: '2.2.2'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Só se aprende o que se pratica."<br>— Anísio Teixeira</i></p>
+<p align="right"><i>"A educação não transforma o mundo. Educação muda as pessoas. Pessoas mudam o mundo."<br>— Paulo Freire</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -85,6 +85,10 @@ O processo de polimerização em climas de alta umidade (UR > 80%) e temperatura
 ## 5. Referências e Adequação Científica
 
 Este memorial integra o legado do GQATP (Prof. Gilberto Chierice) e pesquisas contemporâneas em biopolímeros, mantendo-se em conformidade com o **Protocolo de Higiene de Ativos 5.1**. Proibições absolutas: cimento, CCA/CCB e solventes pesados.
+
+---
+
+---
 
 ---
 

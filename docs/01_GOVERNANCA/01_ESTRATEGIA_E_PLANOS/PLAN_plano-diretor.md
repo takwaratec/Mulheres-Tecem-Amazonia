@@ -9,15 +9,15 @@ author:
 date: '2026-03-24'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"Ciência é a investigação da verdade."<br>— Carlos Chagas</i></p>
+<p align="right"><i>"A educação é o direito de todos e dever do Estado."<br>— Anísio Teixeira</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: PLAN_plano-diretor.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -511,6 +511,10 @@ Brasília/DF, 16 de março de 2026
 - <img src="../../../../assets/icons/human_02_black.svg" width="18px"> Anexo V: Currículo Resumido da Equipe Técnica.
 - <img src="../../../../assets/icons/human_04_black.svg" width="18px"> Anexo VI: Mapas das Áreas de Intervenção.
 - <img src="../../../../assets/icons/human_09_black.svg" width="18px"> Anexo VII: Referências Bibliográficas e Publicações Prévias.
+
+---
+
+---
 
 ---
 

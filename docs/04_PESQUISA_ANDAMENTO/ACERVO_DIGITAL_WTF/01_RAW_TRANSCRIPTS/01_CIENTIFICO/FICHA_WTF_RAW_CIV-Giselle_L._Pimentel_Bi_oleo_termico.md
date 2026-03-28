@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O conhecimento é a nossa maior arma contra o atraso."<br>— Bertha Lutz</i></p>
+<p align="right"><i>"Arte sem ética não é arte."<br>— Ariano Suassuna</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -53,6 +53,10 @@ PIMENTEL, G. L. A. C.; GHAVAMI, K. (Orient.). *Método de Tratamento Térmico Bi
 
 ### 4. Extrair Bibliografia citada no texto
 As referências bibliográficas citadas no texto ([1], [2], [3], [4], [5], [6], [7]) não foram fornecidas em sua íntegra. Apenas as citações numéricas são apresentadas.
+
+---
+
+---
 
 ---
 

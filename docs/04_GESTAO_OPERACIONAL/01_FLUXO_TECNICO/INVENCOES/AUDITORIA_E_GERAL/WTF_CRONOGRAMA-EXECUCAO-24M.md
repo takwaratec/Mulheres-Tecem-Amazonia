@@ -7,7 +7,7 @@ status: DRAFT
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O espaço geográfico é o encontro de objetos e ações."<br>— Milton Santos</i></p>
+<p align="right"><i>"O conhecimento é a nossa maior arma contra o atraso."<br>— Bertha Lutz</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -40,6 +40,10 @@ status: DRAFT
 - <img src="../../../../../../assets/icons/human_07_black.svg" width="18px"> **Tranche 3 (20%)**: R$ 5.076.197.
 - <img src="../../../../../../assets/icons/human_14_black.svg" width="18px"> **Foco**: Certificação Verra VM0044, ativação da chain PET, sucessão comunitária (Gestão Sombra).
 - <img src="../../../../../../assets/icons/human_18_black.svg" width="18px"> **Check**: Emissão de créditos de carbono e handover para a Cooperativa de Mulheres.
+
+---
+
+---
 
 ---
 

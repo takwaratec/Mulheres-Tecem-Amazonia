@@ -77,4 +77,8 @@ As referências bibliográficas completas para as citações abaixo não estão 
 ---
 
 ---
+
+---
+
+---
 <p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

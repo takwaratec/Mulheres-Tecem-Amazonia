@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Eu sou a favor do Brasil real."<br>— Ariano Suassuna</i></p>
+<p align="right"><i>"A educação é o direito de todos e dever do Estado."<br>— Anísio Teixeira</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -63,6 +63,10 @@ LEITHOLD NETO, Alfredo. **Materiais utilizados para proteção de equipamentos s
 ### 4. Extrair Bibliografia citada no texto
 - <img src="../../../../../../assets/icons/human_10_black.svg" width="18px"> LEITHOLD NETO, Alfredo. Materiais utilizados para proteção de equipamentos sensíveis: A importância da biodegradação em solo simulado. 2014. Projeto do Trabalho de Conclusão de Curso (Bacharelado em Química) – Universidade Tecnológica Federal do Paraná. Curitiba, 2014.
 - <img src="../../../../../../assets/icons/human_16_black.svg" width="18px"> ASTM G 160. *Standard Practice for Assessing the Microbial Detoxification of Chemical Compounds in Soils*. (Mencionada como norma utilizada no estudo).
+
+---
+
+---
 
 ---
 

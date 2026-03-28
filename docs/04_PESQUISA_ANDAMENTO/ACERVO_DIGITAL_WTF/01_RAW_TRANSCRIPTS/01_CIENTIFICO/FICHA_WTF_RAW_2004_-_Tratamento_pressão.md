@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O conhecimento é a nossa maior arma contra o atraso."<br>— Bertha Lutz</i></p>
+<p align="right"><i>"O Brasil precisa de ciência para ser soberano."<br>— Ennio Candotti</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -63,6 +63,10 @@ BERALDO, Antonio Ludovico. *Dispositivo para tratamento de colmos de bambu sob p
 
 ### 4. EXTRAÇÃO DE BIBLIOGRAFIA CITADA NO TEXTO
 - <img src="../../../../../../assets/icons/human_08_black.svg" width="18px"> Não há referências bibliográficas formatadas (ABNT) citadas diretamente no corpo do texto para extração. O documento em si é uma publicação de patente. O "Método Boucherie Modificado" é mencionado como uma técnica conhecida, mas sem citação formal.
+
+---
+
+---
 
 ---
 

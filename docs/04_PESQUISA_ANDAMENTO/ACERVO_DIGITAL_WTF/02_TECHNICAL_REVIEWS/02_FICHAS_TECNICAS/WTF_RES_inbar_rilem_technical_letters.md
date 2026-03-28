@@ -40,4 +40,8 @@ Received: 20 September 2023 / Accepted: 21 December 2023 / Published online: 23 
 ---
 
 ---
+
+---
+
+---
 <p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

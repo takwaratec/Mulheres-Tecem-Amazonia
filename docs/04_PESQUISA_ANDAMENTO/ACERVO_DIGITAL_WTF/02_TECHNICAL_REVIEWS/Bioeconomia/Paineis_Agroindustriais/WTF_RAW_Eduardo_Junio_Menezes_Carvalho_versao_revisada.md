@@ -8,7 +8,7 @@ O arquivo é uma transcrição parcial de uma dissertação de mestrado da Unive
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A ciência não é apenas um corpo de conhecimento, é um modo de pensar."<br>— Marcelo Gleiser</i></p>
+<p align="right"><i>"A educação é o direito de todos e dever do Estado."<br>— Anísio Teixeira</i></p>
 
 ### <img src="../../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -27,6 +27,10 @@ Olá! Como Bibliotecário Científico do Projeto Mulheres Que Tecem a Floresta, 
 Com base no conteúdo principal sobre o desenvolvimento de materiais sustentáveis a partir de resíduos agroindustriais e bioadesivos, a categoria mais apropriada é:
 
 **Categoria/Subcategoria:** `Bioeconomia/Paineis_Agroindustriais`
+
+---
+
+---
 
 ---
 

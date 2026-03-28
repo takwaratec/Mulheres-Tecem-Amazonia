@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"A ciência é um patrimônio universal."<br>— Oswaldo Cruz</i></p>
+<p align="right"><i>"Ensinar não é transferir conhecimento, mas criar as possibilidades para a sua própria produção ou a sua construção."<br>— Paulo Freire</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -41,6 +41,10 @@ O fragmento de texto fornecido corresponde às páginas pré-textuais de uma tes
 
 ### 4. Extrair Bibliografia citada no texto
 O fragmento de texto fornecido não contém referências bibliográficas citadas.
+
+---
+
+---
 
 ---
 

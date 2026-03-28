@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O futuro pode ser ancestral."<br>— Ailton Krenak</i></p>
+<p align="right"><i>"A ciência não é apenas um corpo de conhecimento, é um modo de pensar."<br>— Marcelo Gleiser</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -62,6 +62,10 @@ Não foram fornecidas coordenadas geográficas explícitas no texto. No entanto,
 ### 4. Extrair Bibliografia citada no texto
 * <img src="../../../../../../assets/icons/human_07_black.svg" width="18px">   EMBRAPA. [Título da publicação não especificado no texto]. [Local de publicação não especificado]: EMBRAPA, 2017.
     * <img src="../../../../../../assets/icons/human_19_black.svg" width="18px">   *Nota: A referência completa não é fornecida no texto, apenas a citação abreviada.*
+
+---
+
+---
 
 ---
 

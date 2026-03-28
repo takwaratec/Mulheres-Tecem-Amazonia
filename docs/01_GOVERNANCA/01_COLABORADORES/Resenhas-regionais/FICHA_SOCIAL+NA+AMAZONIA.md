@@ -9,15 +9,15 @@ author:
 date: '2026-03-26'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"O povo é o único soberano."<br>— João Ubaldo Ribeiro</i></p>
+<p align="right"><i>"A terra não é um negócio, a terra é a nossa mãe."<br>— Ailton Krenak</i></p>
 
 ### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_SOCIAL+NA+AMAZONIA.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -127,6 +127,10 @@ O objetivo deste artigo é analisar a formação histórico-social na Amazônia 
 40. VIDAL, M. C.; MALCHER, M. A. **Sesmarias**. Belém, PA: ITERPA, 2009. 120 p. Disponível em: http://www.iterpa.pa.gov.br/sites/default/files/sesmarias.pdf. Acesso em: 15 jan. 2020.
 41. WEINSTEIN, B. **A borracha na Amazônia**: expansão e decadência (1850-1920). São Paulo: HUCITEC- EDUSP, 1993. 371 p.
 42. XIMENES, C.; COELHO, A. W. A descrição histórica, geográfica e etnográfica do rio Capim feita por João Barbosa Rodrigues. **Boletim do Museu Paraense Emílio Goeldi. Ciências Humanas**, v. 12, n. 2, p. 535-554, 2017. Disponível em: https://doi.org/10.1590/1981.81222017000200015. Acesso em: 25 fev. 2020.
+
+---
+
+---
 
 ---
 

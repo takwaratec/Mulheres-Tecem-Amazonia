@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Viver é muito perigoso."<br>— Guimarães Rosa</i></p>
+<p align="right"><i>"A ciência não é apenas um corpo de conhecimento, é um modo de pensar."<br>— Marcelo Gleiser</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -66,6 +66,10 @@ ACERVO DIGITAL MULHERES QUE TECEM A FLORESTA. **MAMONEX RD70**: Resina expansiva
 
 ### 4. Extrair Bibliografia citada no texto
 Nenhuma referência bibliográfica é citada explicitamente no corpo do texto.
+
+---
+
+---
 
 ---
 

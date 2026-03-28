@@ -13,7 +13,7 @@ doi: 10.5281/zenodo.18827106
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Inventar é imaginar o que os outros não pensaram."<br>— Santos Dumont</i></p>
+<p align="right"><i>"Não se morre enquanto houver quem nos lembre."<br>— Cora Coralina</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -38,6 +38,10 @@ Focado na eficiência de captura do **Extrato Pirolenhoso (Vinagre de Madeira)**
 2. Condensação via serpentina em tanque d'água.
 3. Coleta de líquido em bombonas PEAD.
 4. Queima de gases residuais (reforço térmico).
+
+---
+
+---
 
 ---
 

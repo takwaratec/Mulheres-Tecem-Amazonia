@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O Brasil precisa de ciência para ser soberano."<br>— Ennio Candotti</i></p>
+<p align="right"><i>"Viver é muito perigoso."<br>— Guimarães Rosa</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -60,6 +60,10 @@ SEVERO, Elias Taylor Durgante; TOMASELLI, Ivan. Efeito do tratamento de vaporiza
 ### 4. Extrair Bibliografia citada no texto
 - <img src="../../../../../../assets/icons/human_10_black.svg" width="18px">   PONCE, [Nome do autor]. [Título da obra]. [Local de Publicação]: [Editora], 1995.
     * <img src="../../../../../../assets/icons/human_05_black.svg" width="18px">   *Nota: Os detalhes bibliográficos completos para a obra de PONCE (1995) não estão disponíveis no fragmento de texto fornecido. A citação no texto é "Segundo PONCE (1995), a produção de madeira serrada de eucaliptos no Brasil situa-se em torno de 50.000 m3, ou seja apenas 0,25% da produção nacional de madeira serrada."*
+
+---
+
+---
 
 ---
 

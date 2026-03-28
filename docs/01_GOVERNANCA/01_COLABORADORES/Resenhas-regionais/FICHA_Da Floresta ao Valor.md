@@ -9,15 +9,15 @@ author:
 date: '2026-03-26'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"O céu está caindo porque os brancos não param de comer a terra."<br>— Davi Kopenawa</i></p>
+<p align="right"><i>"Não se faz ciência sem amor ao próximo."<br>— Oswaldo Cruz</i></p>
 
 ### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_Da Floresta ao Valor.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -102,6 +102,10 @@ O texto fornecido, sendo um artigo de blog/plataforma online, promove diversas o
 16. GALA, Paulo. *A Coreia do Sul e o Sucesso Asiático*. Curso EAD Online. [s.d.]. Disponível em: https://www.paulogala.com.br/curso-ead-online-a-coreia-do-sul-e-o-sucesso-asiatico/. Acesso em: 24 mar. 2026.
 17. GALA, Paulo. *14 interpretações para entender o Brasil*. Curso EAD. [s.d.]. Disponível em: https://www.paulogala.com.br/curso-ead-interpretes-do-brasil/. Acesso em: 24 mar. 2026.
 18. GALA, Paulo. *Ascensão e Queda do Império Americano*. Curso EAD. [s.d.]. Disponível em: https://www.paulogala.com.br/curso-ead-ascensao-e-queda-dos-eua/. Acesso em: 24 mar. 2026.
+
+---
+
+---
 
 ---
 

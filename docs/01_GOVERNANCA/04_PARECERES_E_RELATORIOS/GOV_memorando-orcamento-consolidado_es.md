@@ -17,15 +17,15 @@ type: Gobernanza
 version: '2.2.2'
 ---
 
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
-<p align="right"><i>"A vida é curta, a arte é longa."<br>— Machado de Assis</i></p>
+<p align="right"><i>"Só se aprende o que se pratica."<br>— Anísio Teixeira</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: GOV_memorando-orcamento-consolidado_es.md
-*   **Status**: Status Consolidado
+*   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -72,6 +72,10 @@ Elaboración de informes de valoración de activos y borradores de cartas de com
 3. **Consolidación del dossier (60–90 dias):** Cierre del presupuesto y anexos técnicos.
 
 *Documento interno de uso restringido — Consórcio UnB/UFRR/UFAC.*
+
+---
+
+---
 
 ---
 

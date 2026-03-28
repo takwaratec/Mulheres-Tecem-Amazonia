@@ -11,7 +11,7 @@ date: '2026-03-26'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Não se morre enquanto houver quem nos lembre."<br>— Cora Coralina</i></p>
+<p align="right"><i>"Ciência é a investigação da verdade."<br>— Carlos Chagas</i></p>
 
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -57,6 +57,10 @@ O ilustrador deve marcar três caminhos distintos:
 * <img src="../../../../assets/icons/human_13_black.svg" width="18px">   **Materiais**: Texturas de metal oxidado, plástico industrial de reuso e soldas aparentes.
 * <img src="../../../../assets/icons/human_03_black.svg" width="18px">   **Atmosfera**: Um ambiente de floresta ou beira de rio, onde o sistema parece perfeitamente adaptado, como se tivesse nascido ali.
 * <img src="../../../../assets/icons/human_12_black.svg" width="18px">   **Destaque de Segurança**: O alerta de água deve ser visual — um reservatório vazio deve ser representado como um risco de "parada cardíaca" do sistema.
+
+---
+
+---
 
 ---
 

@@ -10,7 +10,7 @@ ano_publicacao: '2025'
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"O céu está caindo porque os brancos não param de comer a terra."<br>— Davi Kopenawa</i></p>
+<p align="right"><i>"Ciência é a investigação da verdade."<br>— Carlos Chagas</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -24,6 +24,10 @@ ano_publicacao: '2025'
 
 
 Olá! Sou Coordenação Técnica (Fabio Resck), e é um prazer recebê-lo neste espaço que é mais do que um simples repositório de código. É um reflexo de uma jornada pessoal, uma busca incansável por conhecimento e uma paixão que me movem há muitos anos. Aqui, compartilhamos abertamente as soluções que desenvo...
+
+---
+
+---
 
 ---
 

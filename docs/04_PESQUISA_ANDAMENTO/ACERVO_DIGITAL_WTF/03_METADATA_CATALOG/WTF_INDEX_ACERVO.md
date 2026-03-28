@@ -10,7 +10,7 @@ author:
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-<p align="right"><i>"Arte sem ética não é arte."<br>— Ariano Suassuna</i></p>
+<p align="right"><i>"Não se morre enquanto houver quem nos lembre."<br>— Cora Coralina</i></p>
 
 ### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
@@ -276,6 +276,10 @@ Este índice vincula os transcritos brutos às respectivas resenhas técnicas e 
 | <img src="../../../../../assets/icons/human_01_red.svg" width="18px">️ | Nayara Lage Mineração Stl | --- |  (Fonte Acervo Interno) |  ---  |
 | <img src="../../../../../assets/icons/human_01_red.svg" width="18px">️ | Oliveira Rc Me Ilha | --- |  (Fonte Acervo Interno) |  ---  |
 | <img src="../../../../../assets/icons/human_01_red.svg" width="18px"> | Relatorio-Final-Cpi-Ongs-5-Dez-2023 | --- |  (Fonte Acervo Interno) |  ---  |
+
+---
+
+---
 
 ---
 

@@ -50,24 +50,40 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 nav:
-  - Hub Científico: index.md
-  - Projeto Integrado: 01_GOVERNANCA/WTF_PROJETO_INTEGRADO.md
-  - Alinhamento BNDES: 01_GOVERNANCA/WTF-ALINHAMENTO_ESTRATEGICO.md
-  - Dossiê BNDES:
+  - Home: index.md
+  - BNDES:
+      - Modelo 1 (Draft BNDES): 00_MODELO 1 - BNDES/03_CONSOLIDADO_TANIA_DRAFT.md
       - Resumo Executivo: 03_DOSSIE_BNDES/00_RESUMO_EXECUTIVO.md
-      - Cadeias de Valor: 03_DOSSIE_BNDES/01_CADEIAS_VALOR.md
-      - Biorrefinaria & Bioconstrução: 03_DOSSIE_BNDES/02_BIORREFINARIA_BIOCONSTRUCAO.md
-      - Artesanato & Saberes: 03_DOSSIE_BNDES/03_ARTESANATO_SABERES.md
-      - Governança Operacional: 03_DOSSIE_BNDES/04_GOVERNANCA_OPERACIONAL.md
-  - Anexos:
-      - Planejamento Financeiro: 01_GOVERNANCA/05_ANEXOS/ANEXO_I_PLANILHA_ORCAMENTARIA.md
-      - Monitoramento SGMAS: 01_GOVERNANCA/05_ANEXOS/ANEXO_IV_TR_MRV_SMGA.md
-  - Referências: bibliografia.md
-  - Acervo Científico:
+      - Modelo 01 (Estruturado): 03_DOSSIE_BNDES/MODELO_01_BNDES_FORMULARIO.md
+      - Governança & Protocolos:
+          - Plano de Carbono: 04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/SISTEMAS_E_GEOPOLITICA/ENG-MEM-003_BIOMASS-GEO-ACRE.md
+          - SGMAS (Trilles MRV): 01_GOVERNANCA/05_ANEXOS/ANEXO_IV_TR_MRV_SMGA.md
+          - Protocolos Cancún: 01_GOVERNANCA/GOV_PROTOCOLO_SEGURANCA_CANCUN.md
+          - Soberania Digital: 04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/SISTEMAS_E_GEOPOLITICA/NT-GEO-002_SOBERANIA-MAISTRAGEM-ACRE.md
+  - Projeto:
+      - Projeto Integrado: 01_GOVERNANCA/WTF_PROJETO_INTEGRADO.md
+      - Alinhamento Estratégico: 01_GOVERNANCA/WTF-ALINHAMENTO_ESTRATEGICO.md
+      - Governança & Protocolos:
+          - Plano de Carbono: 04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/SISTEMAS_E_GEOPOLITICA/ENG-MEM-003_BIOMASS-GEO-ACRE.md
+          - SGMAS (Trilles MRV): 01_GOVERNANCA/05_ANEXOS/ANEXO_IV_TR_MRV_SMGA.md
+          - Protocolos Cancún: 01_GOVERNANCA/GOV_PROTOCOLO_SEGURANCA_CANCUN.md
+          - Soberania Digital: 04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/SISTEMAS_E_GEOPOLITICA/NT-GEO-002_SOBERANIA-MAISTRAGEM-ACRE.md
+  - Recursos:
+      - Resumo Financeiro: 03_ORCAMENTO_E_LOGISTICA/RESUMO_FINANCEIRO_CONSOLIDADO.md
+      - Planilha Orçamentária: 01_GOVERNANCA/05_ANEXOS/ANEXO_I_PLANILHA_ORCAMENTARIA.md
+  - Diagnóstico:
+      - Patrimônio Imaterial: 02_DIAGNOSTICO DE AREA/WTF-DIAG-001_Patrimonio_Imaterial_Grafismo.md
+      - Paradigmas Bioeconomia: 02_DIAGNOSTICO DE AREA/WTF-DIAG-002_PARADIGMAS_BIOECONOMIA_AMAZONICA.md
+  - Artigos:
+      - Sônia (Sonaira): 04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/02_FICHAS_TECNICAS/WTF_RES_profa_sonaira_souza_silva.md
+      - Geórgia: 04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/01_CIENTIFICO/BIOECONOMIA/WTF_RES_alan+georgia+terras+indigenas.pdf.md
+  - SGMAS:
+      - Glossário SGMAS: 01_GOVERNANCA/sgmas_plotter.html
+      - Área de Abrangência: 01_GOVERNANCA/MOD_SGMAS_Acre.jpg
+  - Acervo:
+      - Bibliografia: bibliografia.md
       - Índice do Acervo: 04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/03_METADATA_CATALOG/WTF_INDEX_ACERVO.md
-      - Teste Taxonomia: 04_PESQUISA_ANDAMENTO/teste_taxonomia.md
-  - Engenharia & Gestão:
-      - Leitura Global: 04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/AUDITORIA_E_GERAL/WTF_LEITURA-GLOBAL-PROJETO.md
-      - Coração Térmico: 04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/ENG-MEM-MASTER_CORACAO-TERMICO.md
+  - Equipe:
+      - Consórcio UnB/UFRR/UFAC: 01_GOVERNANCA/01_COLABORADORES/00_EQUIPE_CONSORCIO.md
 
 
