@@ -24,6 +24,11 @@
             --route-road: #94a3b8;
         }
 
+        .leaflet-tile-pane {
+            filter: sepia(0.2) hue-rotate(80deg) brightness(1.0) saturate(0.8);
+            opacity: 0.9;
+        }
+
         body {
             margin: 0;
             font-family: 'Inter', sans-serif;
@@ -281,14 +286,15 @@
         }
 
         .dist-label {
-            background: rgba(255,255,255,0.8);
+            background: rgba(255,255,255,0.9);
             color: #dc2626;
-            border: 0.5px solid #dc2626;
+            border: 0.1px solid #dc2626;
             padding: 2px 4px;
             border-radius: 0px;
-            font-size: 0.65rem;
+            font-size: 0.6rem;
             font-weight: 800;
             font-family: 'Inter', sans-serif !important;
+            box-shadow: 2px 2px 0px rgba(220, 38, 38, 0.1);
         }
 
         .vt-marker-filter {
@@ -553,7 +559,7 @@
                             <h2 id="n-label">-</h2>
                         </div>
 
-                        <div class="section-header">Indicadores de Vulnerabilidade (PVIT)</div>
+                        <div class="section-header">Indicadores de Vulnerabilidade</div>
                         <div class="metrics-grid">
                             <div class="metric-card"><label>DEMOGRAFIA (HAB)</label><div class="val" id="m-pop">-</div></div>
                             <div class="metric-card"><label>SANEAMENTO (GAP)</label><div class="val" id="m-sanitary">-</div></div>
@@ -603,81 +609,149 @@
                 ], chart: [40, 30, 30]
             },
             {
-                name: "Cruzeiro do Sul (AC)", coords: [-7.631, -72.670], type: "Polo Regional", pop: "98.382", idh: "0,666 (Medio-Baixo)",
-                biomass: "Miritizal / Acai", health: "Critico", sanitary: "65% Gap", cost: "R$ 4.500.000,00",
-                partners: ["UFAC", "Estaleiros Locais", "Consórcio"],
-                roi: { carbon: "2.100 t", social: "R$ 8.4M" },
-                tech: [
-                    { k: "Polo Naval", v: "Produçao de Balsas T10 e Domos T11; integraçao com Mestres Navais." },
-                    { k: "Conflito", v: "Pressao de narcotrafico e isolamento logistico do Alto Jurua." }
-                ], chart: [20, 50, 30]
+                name: "Sena Madureira (AC)", coords: [-9.066, -68.657], type: "Rede Técnica", pop: "46.511", idh: "0,603 (Baixo)",
+                biomass: "Bambu / Guadua", health: "Moderado", sanitary: "58% Gap", cost: "R$ 0,00",
+                partners: ["IFAC", "UnB", "Consórcio"],
+                tech: [{ k: "Inovação", v: "Campus IFAC; desenvolvimento de nanotecnologia de bambu para saúde." }], chart: [30, 40, 30]
+            },
+            {
+                name: "Manoel Urbano (AC)", coords: [-8.839, -69.258], type: "Rede Técnica", pop: "9.581", idh: "0,522 (Baixo)",
+                biomass: "Manejo Florestal", health: "Precado", sanitary: "65% Gap", cost: "R$ 0,00",
+                partners: ["IMAC", "Consórcio"],
+                tech: [{ k: "Bioeconomia", v: "Inventário florestal de bambu; potencial de manejo sustentável." }], chart: [20, 50, 30]
+            },
+            {
+                name: "Feijó (AC)", coords: [-8.164, -70.353], type: "Instrumento de Denúncia", pop: "34.884", idh: "0,548 (Baixo)",
+                biomass: "Açaí / Fibras", health: "Crítico", sanitary: "85% Gap", cost: "R$ 0,00",
+                partners: ["Consórcio", "Povos Tradicionais"],
+                tech: [{ k: "Urgência", v: "Território com carência extrema de infraestrutura urbana e sanitária." }], chart: [10, 80, 10]
             },
             {
                 name: "Tarauacá (AC)", coords: [-8.156, -70.766], type: "Polo Regional", pop: "43.151", idh: "0,539 (Baixo)",
                 biomass: "Fibras / Castanha", health: "Precarizado", sanitary: "78% Gap", cost: "R$ 4.000.000,00",
                 partners: ["Consórcio", "Cooperativas", "UFAC"],
                 roi: { carbon: "1.800 t", social: "R$ 6.2M" },
-                tech: [
-                    { k: "Bio-Artesanato", v: "Unidade de beneficiamento de fibras e castanha; marca coletiva." },
-                    { k: "Dores", v: "Altos indices de gravidez na adolescencia; rota de vulnerabilidade extrema." }
-                ], chart: [15, 60, 25]
+                tech: [{ k: "Bio-Artesanato", v: "Unidade de beneficiamento de fibras e castanha; marca coletiva." }], chart: [15, 60, 25]
+            },
+            {
+                name: "Cruzeiro do Sul (AC)", coords: [-7.631, -72.670], type: "Polo Regional", pop: "98.382", idh: "0,666 (Medio-Baixo)",
+                biomass: "Miritizal / Acai", health: "Critico", sanitary: "65% Gap", cost: "R$ 4.500.000,00",
+                partners: ["UFAC", "Estaleiros Locais", "Consórcio"],
+                roi: { carbon: "2.100 t", social: "R$ 8.4M" },
+                tech: [{ k: "Polo Naval", v: "Produçao de Balsas T10 e Domos T11; mestres navais do Juruá." }], chart: [20, 50, 30]
             },
             {
                 name: "Jordão (AC)", coords: [-9.433, -71.883], type: "Instrumento de Denúncia", pop: "9.242", idh: "0,475 (Muito Baixo)",
-                biomass: "Isolamento", health: "TMI 16,9", sanitary: "85% Gap", cost: "R$ 0,00 (N/A)",
+                biomass: "Isolamento", health: "TMI 16,9", sanitary: "85% Gap", cost: "R$ 0,00",
                 partners: ["MUQTF", "POVOS ORIGINARIOS", "Consórcio"],
-                roi: { carbon: "1.200 t", social: "R$ 4.2M" },
-                tech: [
-                    { k: "Emergência", v: "Acesso fluvial de 5 dias; gas e comida com precos 3x maiores que a capital." },
-                    { k: "Saneamento", v: "Inexistencia de infraestrutura sanitaria em 95% do territorio." }
-                ], chart: [10, 80, 10]
+                tech: [{ k: "Emergência", v: "Acesso fluvial de 5 dias; isolamento logístico severo." }], chart: [10, 80, 10]
             },
             {
-                name: "Humaitá (AM)", coords: [-7.506, -63.027], type: "Instrumento de Denúncia", pop: "57k", idh: "0,605 (Baixo)",
-                biomass: "Residuos Purus", health: "Critico", sanitary: "55% Gap", cost: "R$ 0,00 (N/A)",
-                partners: ["Observatorio BR-319", "Consórcio"],
-                roi: { carbon: "550 t", social: "R$ 2.8M" },
-                tech: [
-                    { k: "Dilema BR-319", v: "Pavimentacao ameaca desmatamento de 9M ha e 51 Terras Indigenas." },
-                    { k: "Pobreza", v: "66,6% da populacao abaixo da linha da pobreza; carencia de serviços." }
-                ], chart: [25, 50, 25]
+                name: "Porto Walter (AC)", coords: [-8.268, -72.743], type: "Rede Técnica", pop: "12.241", idh: "0,472 (Muito Baixo)",
+                biomass: "Fluvial", health: "Crítico", sanitary: "82% Gap", cost: "R$ 0,00",
+                partners: ["Consórcio", "Soberania"],
+                tech: [{ k: "Nó Fluvial", v: "Conexão isolada via Juruá; suporte logístico naval." }], chart: [15, 75, 10]
+            },
+            {
+                name: "Marechal Thaumaturgo (AC)", coords: [-8.940, -72.791], type: "Rede Técnica", pop: "19.233", idh: "0,432 (Muito Baixo)",
+                biomass: "Reserva", health: "Extremo", sanitary: "88% Gap", cost: "R$ 0,00",
+                partners: ["Consórcio", "Indígenas"],
+                tech: [{ k: "Fronteira", v: "Vulnerabilidade extrema; território tradicional isolado." }], chart: [10, 85, 5]
+            },
+            {
+                name: "Mâncio Lima (AC)", coords: [-7.614, -72.896], type: "Rede Técnica", pop: "19.300", idh: "0,625 (Medio)",
+                biomass: "Bambu", health: "Moderado", sanitary: "55% Gap", cost: "R$ 0,00",
+                partners: ["IFAC", "Consórcio"],
+                tech: [{ k: "Extremidade", v: "Ponto mais ocidental do Brasil; manejo sustentável." }], chart: [35, 35, 30]
+            },
+            {
+                name: "Rodrigues Alves (AC)", coords: [-7.742, -72.647], type: "Rede Técnica", pop: "19.355", idh: "0,567 (Baixo)",
+                biomass: "Sócio-Biodiv", health: "Moderado", sanitary: "60% Gap", cost: "R$ 0,00",
+                partners: ["UFAC", "Consórcio"],
+                tech: [{ k: "Apoio Naval", v: "Suporte ao Polo Naval de Cruzeiro do Sul." }], chart: [25, 50, 25]
+            },
+            {
+                name: "Santa Rosa do Purus (AC)", coords: [-9.444, -70.482], type: "Instrumento de Denúncia", pop: "6.711", idh: "0,517 (Baixo)",
+                biomass: "Isolamento Purus", health: "Crítico", sanitary: "75% Gap", cost: "R$ 0,00",
+                partners: ["Consórcio", "Indígenas"],
+                tech: [{ k: "Logística", v: "Acesso fluvial crítico; carência de infraestrutura básica." }], chart: [15, 75, 10]
+            },
+            {
+                name: "Brasiléia (AC)", coords: [-11.000, -68.747], type: "Rede Técnica", pop: "26.702", idh: "0,669 (Medio-Baixo)",
+                biomass: "Fronteira", health: "Moderado", sanitary: "48% Gap", cost: "R$ 0,00",
+                partners: ["Gov AC", "Consórcio"],
+                tech: [{ k: "Integração", v: "Polo de fronteira; intercâmbio comercial e técnico." }], chart: [40, 30, 30]
+            },
+            {
+                name: "Assis Brasil (AC)", coords: [-10.940, -69.567], type: "Rede Técnica", pop: "7.534", idh: "0,588 (Baixo)",
+                biomass: "Tríplice Fronteira", health: "Crítico", sanitary: "62% Gap", cost: "R$ 0,00",
+                partners: ["Consórcio", "Povos da Floresta"],
+                tech: [{ k: "Vulnerabilidade", v: "Risco de tráfico humano; necessidade de proteção social." }], chart: [20, 40, 40]
+            },
+            {
+                name: "Xapuri (AC)", coords: [-10.651, -68.504], type: "Rede Técnica", pop: "19.722", idh: "0,669 (Medio-Baixo)",
+                biomass: "Borracha / Castanha", health: "Moderado", sanitary: "50% Gap", cost: "R$ 0,00",
+                partners: ["Resex Chico Mendes", "Consórcio"],
+                tech: [{ k: "Legado", v: "Reserva Extrativista; base da luta florestal amazônica." }], chart: [30, 40, 30]
+            },
+            {
+                name: "Boca do Acre (AM)", coords: [-8.752, -67.397], type: "Instrumento de Denúncia", pop: "34.635", idh: "0,588 (Baixo)",
+                biomass: "Expansão Agrícola", health: "Crítico", sanitary: "68% Gap", cost: "R$ 0,00",
+                partners: ["MQTF", "Consórcio"],
+                tech: [{ k: "Impacto", v: "Zona de expansão desordenada; desmatamento ilegal severo." }], chart: [15, 70, 15]
             },
             {
                 name: "Lábrea (AM)", coords: [-7.258, -64.800], type: "Polo Regional", pop: "46.882", idh: "0,527 (Baixo)",
                 biomass: "Acai / Purus", health: "Baixo IDH", sanitary: "70% Gap", cost: "R$ 2.000.000,00",
                 partners: ["Consórcio", "Soberania", "UFAC"],
                 roi: { carbon: "950 t", social: "R$ 4.2M" },
-                tech: [
-                    { k: "Bio-Habitacao", v: "Modulos resilientes as cheias severas; saneamento ribeirinho (BER)." },
-                    { k: "Conflito", v: "Zona de expansao da Transamazonica; extraçao ilegal de madeira." }
-                ], chart: [15, 70, 15]
+                tech: [{ k: "Bio-Habitacao", v: "Modulos resilientes; saneamento ribeirinho (BER)." }], chart: [15, 70, 15]
+            },
+            {
+                name: "Humaitá (AM)", coords: [-7.506, -63.027], type: "Instrumento de Denúncia", pop: "57k", idh: "0,605 (Baixo)",
+                biomass: "Residuos Purus", health: "Critico", sanitary: "55% Gap", cost: "R$ 0,00",
+                partners: ["Observatorio BR-319", "Consórcio"],
+                tech: [{ k: "Dilema", v: "Balsa-fábrica imobilizada; colapso do planejamento hídrico." }], chart: [20, 60, 20]
             },
             {
                 name: "Porto Velho (RO)", coords: [-8.761, -63.900], type: "Polo Regional", pop: "548k", idh: "0,736 (Medio)",
                 biomass: "Guadua RO", health: "Moderado", sanitary: "55% Gap", cost: "R$ 3.000.000,00",
                 partners: ["UnB", "Gov RO", "Consórcio"],
                 roi: { carbon: "1.100 t", social: "R$ 5.1M" },
-                tech: [
-                    { k: "Escudo Verde", v: "Contenco de desmatamento via manejo sustentavel de bambuzais." },
-                    { k: "Ameaça", v: "Avanco da fronteira da soja sobre territorios tradicionais e florestas." }
-                ], chart: [20, 60, 20]
+                tech: [{ k: "Escudo Verde", v: "Contenco de desmatamento via manejo sustentavel." }], chart: [20, 60, 20]
             },
             {
                 name: "Boa Vista (RR)", coords: [2.820, -60.673], type: "Polo Regional", pop: "419k", idh: "0,752 (Medio)",
                 biomass: "Fibras RR", health: "Emergencia", sanitary: "35% Gap", cost: "R$ 3.000.000,00",
                 partners: ["UFRR", "Consórcio", "Indigenas RR"],
                 roi: { carbon: "850 t", social: "R$ 5.8M" },
-                tech: [
-                    { k: "Emergencia Yanomami", v: "570 mortes infantis por garimpo ilegal; contaminacao por mercurio." },
-                    { k: "Bioeconomia", v: "Cadeias extrativistas limpas como alternativa ao garimpo predatório." }
-                ], chart: [40, 20, 40]
+                tech: [{ k: "Emergencia", v: "Mapeamento Yanomami; bioeconomia alternativa ao garimpo." }], chart: [40, 20, 40]
+            },
+            {
+                name: "Manaus (AM)", coords: [-3.119, -60.022], type: "Rede Técnica", pop: "2.1M", idh: "0,737 (Medio)",
+                biomass: "Urbana", health: "Moderado", sanitary: "25% Gap", cost: "R$ 0,00",
+                partners: ["UEA", "IPAAM", "UnB"],
+                tech: [{ k: "Logística", v: "Hub de integração de polímeros e distribuição digital." }], chart: [45, 15, 40]
+            },
+            {
+                name: "Benjamim Constant (AM)", coords: [-4.383, -70.033], type: "Instrumento de Denúncia", pop: "44.890", idh: "0,574 (Baixo)",
+                biomass: "Fluvial", health: "TMI 17,1", sanitary: "70% Gap", cost: "R$ 0,00",
+                partners: ["Consórcio", "UFAM"],
+                tech: [{ k: "Isolamento", v: "Colapso da navegação hídrica severa no Solimões." }], chart: [10, 80, 10]
+            },
+            {
+                name: "Atalaia do Norte (AM)", coords: [-4.372, -70.191], type: "Instrumento de Denúncia", pop: "20.337", idh: "0,450 (Muito Baixo)",
+                biomass: "Javari", health: "Baixo", sanitary: "85% Gap", cost: "R$ 0,00",
+                partners: ["Univaja", "Consórcio"],
+                tech: [{ k: "Vulnerabilidade", v: "Vale do Javari; território de alto isolamento e risco social." }], chart: [5, 90, 5]
             }
         ];
 
         const layers = { 
             n1: L.layerGroup().addTo(map), 
             n2: L.layerGroup().addTo(map), 
-            diag: L.layerGroup().addTo(map)
+            diag: L.layerGroup().addTo(map),
+            paths: L.layerGroup().addTo(map)
         };
 
         function updateSidebar(n) {
@@ -733,17 +807,17 @@
         }
 
         masterData.forEach(n => {
-            const isPolo = n.cost !== "R$ 0,00 (N/A)";
+            const isPolo = n.cost !== "R$ 0,00";
             const isDenuncia = n.type.includes('Instrumento');
             let iconPath = '../assets/icons/human_10_black.svg';
             if (isPolo) iconPath = '../assets/icons/human_01_red.svg';
-            if (isDenuncia) iconPath = '../assets/icons/human_19_red.svg';
+            else if (n.type.includes('Rede')) iconPath = '../assets/icons/human_13_green.svg';
 
             const m = L.marker(n.coords, { 
                 icon: L.icon({
                     iconUrl: iconPath,
-                    iconSize: isPolo ? [26, 26] : [18, 18],
-                    iconAnchor: [isPolo ? 13 : 9, isPolo ? 13 : 9],
+                    iconSize: isPolo ? [30, 30] : [21, 21],
+                    iconAnchor: [isPolo ? 15 : 10, isPolo ? 15 : 10],
                     className: 'vt-marker-filter'
                 }) 
             }).addTo(layers[isPolo ? 'n2' : (isDenuncia ? 'diag' : 'n1')]);
@@ -751,19 +825,63 @@
             m.on('click', () => { updateSidebar(n); map.flyTo(n.coords, 8); });
         });
 
+        // Restoring Trilha and Distance Logic
+        const rs = { color: '#94a3b8', weight: 0.8, opacity: 0.6, dashArray: '5, 10', interactive: false };
+        const fs = { color: '#dc2626', weight: 1.0, opacity: 0.7, dashArray: '1, 12', interactive: false };
+
+        function path(l, c1, c2, d, s) { 
+            L.polyline([c1, c2], s).addTo(l); 
+            if (d) {
+                const arrow = `<svg width="8" height="8" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="margin-right:3px; vertical-align:middle; transform: rotate(-45deg)"><path d="M5 12h14M12 5l7 7-7 7"/></svg>`;
+                L.marker([(c1[0] + c2[0]) / 2, (c1[1] + c2[1]) / 2], { 
+                    icon: L.divIcon({ className: 'dist-label', html: arrow + d, iconSize: [50, 16] }), 
+                    interactive: false 
+                }).addTo(l); 
+            }
+        }
+
+        // BR-364 Chain
+        path(layers.paths, [-9.974, -67.810], [-9.066, -68.657], "145km", rs);
+        path(layers.paths, [-9.066, -68.657], [-8.839, -69.258], "80km", rs);
+        path(layers.paths, [-8.839, -69.258], [-8.164, -70.353], "150km", rs);
+        path(layers.paths, [-8.164, -70.353], [-8.156, -70.766], "50km", rs);
+        path(layers.paths, [-8.156, -70.766], [-7.631, -72.670], "210km", rs);
+
+        // BR-317 & Border
+        path(layers.paths, [-9.974, -67.810], [-10.651, -68.504], "180km", rs);
+        path(layers.paths, [-10.651, -68.504], [-11.000, -68.747], "70km", rs);
+        path(layers.paths, [-11.000, -68.747], [-10.940, -69.567], "90km", rs);
+        path(layers.paths, [-9.974, -67.810], [-8.752, -67.397], "150km", rs);
+
+        // Fluvial Juruá
+        path(layers.paths, [-7.631, -72.670], [-8.268, -72.743], "120km", fs);
+        path(layers.paths, [-8.268, -72.743], [-8.940, -72.791], "180km", fs);
+        path(layers.paths, [-7.631, -72.670], [-9.433, -71.883], "580km", fs);
+
+        // Purus / Madeira / Solimões
+        path(layers.paths, [-9.974, -67.810], [-7.506, -63.027], "1.200km", fs);
+        path(layers.paths, [-7.506, -63.027], [-8.761, -63.900], "200km", rs);
+        path(layers.paths, [-7.506, -63.027], [-3.119, -60.022], "800km", fs);
+        path(layers.paths, [-3.119, -60.022], [-4.383, -70.033], "1.100km", fs);
+        path(layers.paths, [-4.383, -70.033], [-4.372, -70.191], "20km", fs);
+
         const leg = L.control({ position: 'bottomright' });
         leg.onAdd = function () {
             const d = L.DomUtil.create('div', 'legend-final');
             d.style.background = '#fff'; d.style.border = '0.5px solid #000'; d.style.padding = '12px';
             d.style.fontSize = '0.65rem'; d.style.fontFamily = 'Inter, sans-serif'; d.style.boxShadow = '5px 5px 0px rgba(220, 38, 38, 0.1)';
             d.innerHTML = `
-                <div style="font-weight:900; text-transform:uppercase; margin-bottom:8px; border-bottom:0.5px solid #000; padding-bottom:5px;">Síntese Executiva MQTF</div>
-                <div style="display:flex; align-items:center; margin-bottom:5px;"><span style="width:8px; height:8px; background:var(--accent); display:inline-block; margin-right:10px;"></span> Polo de Investimento</div>
-                <div style="display:flex; align-items:center; margin-bottom:5px;"><span style="width:8px; height:8px; background:#000; display:inline-block; margin-right:10px;"></span> Nó de Rede Técnica</div>
-                <div style="display:flex; align-items:center; margin-bottom:5px;"><span style="width:8px; height:8px; border:1px solid var(--accent); display:inline-block; margin-right:10px;"></span> Instrumento de Denúncia</div>
+                <div style="font-weight:900; text-transform:uppercase; margin-bottom:10px; border-bottom:0.5px solid #000; padding-bottom:5px;">Legendas</div>
+                <div style="display:flex; align-items:center; margin-bottom:8px;"><img src="../assets/icons/human_01_red.svg" width="16px" style="margin-right:10px;"> Polo de Investimento</div>
+                <div style="display:flex; align-items:center; margin-bottom:8px;"><img src="../assets/icons/human_13_green.svg" width="12px" style="margin-right:12px; margin-left:2px;"> Nó de Rede Técnica</div>
+                <div style="display:flex; align-items:center; margin-bottom:8px;"><img src="../assets/icons/human_10_black.svg" width="12px" style="margin-right:12px; margin-left:2px;"> Área de Abrangência</div>
+                <div style="margin-top:5px; border-top:0.2px solid #eee; padding-top:5px;">
+                    <div style="display:flex; align-items:center; margin-bottom:5px;"><span style="width:20px; border-top:0.8px dashed #94a3b8; display:inline-block; margin-right:10px;"></span> Percurso Rodoviário</div>
+                    <div style="display:flex; align-items:center; margin-bottom:5px;"><span style="width:20px; border-top:1.0px dashed #dc2626; display:inline-block; margin-right:10px;"></span> Percurso Fluvial</div>
+                </div>
                 <div style="margin-top:10px; padding-top:10px; border-top:0.5px solid #000; display:flex; flex-direction:column; align-items:center; gap:5px;">
-                    <img src="../assets/logo_BQTF/logo_mqtf_soberana.svg" width="30px" style="filter:grayscale(1);">
-                    <div style="font-size:0.5rem; text-align:center; font-weight:900;">UNB / UFRR / UFAC<br>Soberania 2026</div>
+                    <img src="../assets/logo_BQTF/logo_mqtf_soberana.svg" width="35px" style="filter:grayscale(1);">
+                    <div style="font-size:0.55rem; text-align:center; font-weight:900; text-transform:uppercase;">UNB / UFRR / UFAC<br>Soberania 2026</div>
                 </div>`;
             return d;
         };
