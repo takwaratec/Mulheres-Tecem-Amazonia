@@ -4,7 +4,7 @@ repo_url: "https://github.com/takwaratec/Mulheres-Tecem-Amazonia"
 edit_uri: ""
 
 # --- ADICIONE ESTAS LINHAS ---
-use_directory_urls: true
+use_directory_urls: false
 strict: false # Permite que o deploy continue mesmo se houver avisos de links
 remote_branch: gh-pages # Define a branch de destino do deploy
 remote_name: origin

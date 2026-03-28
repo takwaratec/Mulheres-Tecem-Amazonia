@@ -13,30 +13,36 @@ date: '2026-03-28'
 
 <p align="right"><i>"Liderança é a tecedura de saberes que se encontram no território."<br>— Memorial MQTF</i></p>
 
-### <img src="../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
-*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
-*   **Instituição**: Consórcio UnB / UFRR / UFAC
-*   **Referência**: 00_EQUIPE_CONSORCIO.md
-*   **Status**: Status Em Revisão
-*   **Direção Técnica**: Profa. Dra. Tânia Cruz
-*   **Data**: 28 de Março de 2026
+### <img src="../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+**Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+**Instituição**: Consórcio UnB / UFRR / UFAC
+**Referência**: 00_EQUIPE_CONSORCIO.md
+**Status**: Status Em Revisão
+**Direção Técnica**: Profa. Dra. Tânia Cruz
+**Data**: 28 de Março de 2026
 
-# EQUIPE E CONSÓRCIO: MQTF
+# <img src="../../assets/patterns/square_title_red.svg" width="30px"> EQUIPE E CONSÓRCIO: MQTF
 
 Este documento consolida a estrutura de liderança, mentorias e o corpo técnico do projeto **Mulheres Que Tecem a Floresta**, destacando a cooperação interinstitucional entre UnB, UFAC e UFRR.
 
 ---
 
-## 🏛️ Coordenação Geral e Governança
-- **Profa. Dra. Tânia Cristina Cruz (UnB)**: Coordenação Geral e Compliance Institucional.
-- **Profa. Dra. Vanessa Araújo (UnB)**: Gestão Operacional e Bioeconomia.
+## <img src="../../assets/patterns/square_01_red.svg" width="22px"> 🏛️ Coordenação Geral e Governança
+<img src="../../assets/icons/human_12_black.svg" width="18px"> **Profa. Dra. Tânia Cristina Cruz (UnB)**: Coordenação Geral e Compliance Institucional.
 
-## 🌿 Mentorias e Especialistas Territoriais
-- **Profa. Dra. Sonia Marise (UFAC)**: Especialista em Bioeconomia e Cadeias de Valor Amazônicas.
-- **Profa. Dra. Georgia Ferko (UFRR)**: Especialista em Design Colaborativo e Saberes Tradicionais.
-
-## 🛠️ Lideranças Técnicas e de Inovação
-- **Fabio Resck (Tec-UnB)**: Engenharia de Inovação e Infraestrutura Regenerativa.
+<img src="../../assets/icons/human_10_black.svg" width="18px"> **Profa. Dra. Vanessa Araújo (UnB)**: Gestão Operacional e Bioeconomia.
 
 ---
-<p align="center"><img src="../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+
+## <img src="../../assets/patterns/square_03_black.svg" width="22px"> 🌿 Mentorias e Especialistas Territoriais
+<img src="../../assets/icons/human_13_black.svg" width="18px"> **Profa. Dra. Sonia Marise (UFAC)**: Especialista em Bioeconomia e Cadeias de Valor Amazônicas.
+
+<img src="../../assets/icons/human_16_black.svg" width="18px"> **Profa. Dra. Georgia Ferko (UFRR)**: Especialista em Design Colaborativo e Saberes Tradicionais.
+
+---
+
+## <img src="../../assets/patterns/square_04_black.svg" width="22px"> 🛠️ Lideranças Técnicas e de Inovação
+<img src="../../assets/icons/human_14_black.svg" width="18px"> **Fabio Resck (Tec-UnB)**: Engenharia de Inovação e Infraestrutura Regenerativa.
+
+---
+<p align="center"><img src="../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

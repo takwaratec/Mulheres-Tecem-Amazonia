@@ -24,6 +24,16 @@
             --route-road: #94a3b8;
         }
 
+        #map {
+            flex: 1;
+            background: #f4ece1; /* Tan/Old Paper Base */
+        }
+
+        .leaflet-tile-pane {
+            filter: sepia(0.35) contrast(1.1) brightness(0.95) saturate(1.1);
+            opacity: 0.85;
+        }
+
         body {
             margin: 0;
             font-family: 'Inter', sans-serif;
@@ -554,7 +564,7 @@
                             <h2 id="n-label">-</h2>
                         </div>
 
-                        <div class="section-header">Indicadores de Vulnerabilidade (PVIT)</div>
+                        <div class="section-header">Indicadores de Vulnerabilidade</div>
                         <div class="metrics-grid">
                             <div class="metric-card"><label>DEMOGRAFIA (HAB)</label><div class="val" id="m-pop">-</div></div>
                             <div class="metric-card"><label>SANEAMENTO (GAP)</label><div class="val" id="m-sanitary">-</div></div>
@@ -589,7 +599,9 @@
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script>
         const map = L.map('map', { zoomControl: false }).setView([-5, -63], 5);
-        L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png').addTo(map);
+        L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}', {
+            attribution: 'Esri, DeLorme, HERE, TomTom, Intermap, increment P Corp., GEBCO, USGS, FAO, NPS, NRCAN, GeoBase, IGN, Kadaster NL, Ordnance Survey, Esri Japan, METI, Esri China (Hong Kong), swisstopo, and the GIS User Community'
+        }).addTo(map);
         L.control.zoom({ position: 'bottomright' }).addTo(map);
 
         const masterData = [
@@ -806,7 +818,7 @@
             const isDenuncia = n.type.includes('Instrumento');
             let iconPath = '../assets/icons/human_10_black.svg';
             if (isPolo) iconPath = '../assets/icons/human_01_red.svg';
-            if (isDenuncia) iconPath = '../assets/icons/human_19_red.svg';
+            else if (n.type.includes('Rede')) iconPath = '../assets/icons/human_13_green.svg';
 
             const m = L.marker(n.coords, { 
                 icon: L.icon({
@@ -821,14 +833,15 @@
         });
 
         // Restoring Trilha and Distance Logic
-        const rs = { color: '#94a3b8', weight: 0.8, opacity: 0.6, dashArray: '5, 10', interactive: false };
-        const fs = { color: '#dc2626', weight: 1.0, opacity: 0.7, dashArray: '1, 12', interactive: false };
+        const rs = { color: '#94a3b8', weight: 1.8, opacity: 0.7, dashArray: '6, 8', interactive: false };
+        const fs = { color: '#dc2626', weight: 2.2, opacity: 0.8, dashArray: '1, 15', interactive: false };
 
         function path(l, c1, c2, d, s) { 
             L.polyline([c1, c2], s).addTo(l); 
             if (d) {
+                const arrow = `<svg width="8" height="8" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="margin-right:3px; vertical-align:middle; transform: rotate(-45deg)"><path d="M5 12h14M12 5l7 7-7 7"/></svg>`;
                 L.marker([(c1[0] + c2[0]) / 2, (c1[1] + c2[1]) / 2], { 
-                    icon: L.divIcon({ className: 'dist-label', html: d, iconSize: [45, 16] }), 
+                    icon: L.divIcon({ className: 'dist-label', html: arrow + d, iconSize: [50, 16] }), 
                     interactive: false 
                 }).addTo(l); 
             }
@@ -865,13 +878,17 @@
             d.style.background = '#fff'; d.style.border = '0.5px solid #000'; d.style.padding = '12px';
             d.style.fontSize = '0.65rem'; d.style.fontFamily = 'Inter, sans-serif'; d.style.boxShadow = '5px 5px 0px rgba(220, 38, 38, 0.1)';
             d.innerHTML = `
-                <div style="font-weight:900; text-transform:uppercase; margin-bottom:8px; border-bottom:0.5px solid #000; padding-bottom:5px;">Síntese Executiva MQTF</div>
-                <div style="display:flex; align-items:center; margin-bottom:5px;"><span style="width:8px; height:8px; background:var(--accent); display:inline-block; margin-right:10px;"></span> Polo de Investimento</div>
-                <div style="display:flex; align-items:center; margin-bottom:5px;"><span style="width:8px; height:8px; background:#000; display:inline-block; margin-right:10px;"></span> Nó de Rede Técnica</div>
-                <div style="display:flex; align-items:center; margin-bottom:5px;"><span style="width:8px; height:8px; border:1px solid var(--accent); display:inline-block; margin-right:10px;"></span> Instrumento de Denúncia</div>
+                <div style="font-weight:900; text-transform:uppercase; margin-bottom:10px; border-bottom:0.5px solid #000; padding-bottom:5px;">Legendas</div>
+                <div style="display:flex; align-items:center; margin-bottom:8px;"><img src="../assets/icons/human_01_red.svg" width="16px" style="margin-right:10px;"> Polo de Investimento</div>
+                <div style="display:flex; align-items:center; margin-bottom:8px;"><img src="../assets/icons/human_13_green.svg" width="12px" style="margin-right:12px; margin-left:2px;"> Nó de Rede Técnica</div>
+                <div style="display:flex; align-items:center; margin-bottom:8px;"><img src="../assets/icons/human_10_black.svg" width="12px" style="margin-right:12px; margin-left:2px;"> Área de Abrangência</div>
+                <div style="margin-top:5px; border-top:0.2px solid #eee; padding-top:5px;">
+                    <div style="display:flex; align-items:center; margin-bottom:5px;"><span style="width:20px; border-top:0.8px dashed #94a3b8; display:inline-block; margin-right:10px;"></span> Percurso Rodoviário</div>
+                    <div style="display:flex; align-items:center; margin-bottom:5px;"><span style="width:20px; border-top:1.0px dashed #dc2626; display:inline-block; margin-right:10px;"></span> Percurso Fluvial</div>
+                </div>
                 <div style="margin-top:10px; padding-top:10px; border-top:0.5px solid #000; display:flex; flex-direction:column; align-items:center; gap:5px;">
-                    <img src="../assets/logo_BQTF/logo_mqtf_soberana.svg" width="30px" style="filter:grayscale(1);">
-                    <div style="font-size:0.5rem; text-align:center; font-weight:900;">UNB / UFRR / UFAC<br>Soberania 2026</div>
+                    <img src="../assets/logo_BQTF/logo_mqtf_soberana.svg" width="35px" style="filter:grayscale(1);">
+                    <div style="font-size:0.55rem; text-align:center; font-weight:900; text-transform:uppercase;">UNB / UFRR / UFAC<br>Soberania 2026</div>
                 </div>`;
             return d;
         };
