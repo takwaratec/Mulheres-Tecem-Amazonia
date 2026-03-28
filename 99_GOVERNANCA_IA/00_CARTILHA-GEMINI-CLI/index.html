@@ -1453,7 +1453,7 @@
 <p><img alt="Status: Em Revisão" src="https://img.shields.io/badge/Status-Em_Revisão-yellow" /></p>
 <p align="right"><i>"Inventar é imaginar o que os outros não pensaram."<br>— Santos Dumont</i></p>
 
-<h3 id="ficha-tecnica-e-metadados"><img src="../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados</h3>
+<h3 id="ficha-tecnica-e-metadados"><img src="../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados</h3>
 <ul>
 <li><strong>Projeto</strong>: Mulheres Que Tecem a Floresta (MQTF)</li>
 <li><strong>Instituição</strong>: Consórcio UnB / UFRR / UFAC</li>
@@ -1462,10 +1462,10 @@
 <li><strong>Autor</strong>: Consórcio UnB / UFRR / UFAC</li>
 <li><strong>Data</strong>: 27 de Março de 2026</li>
 </ul>
-<h2 id="cartilha-de-uso-gemini-25-no-terminal-projeto-wtf"><img src="../assets/icons/human_01_red.svg" width="18px"> Cartilha de Uso: Gemini 2.5 no Terminal (Projeto WTF)</h2>
+<h2 id="cartilha-de-uso-gemini-25-no-terminal-projeto-wtf"><img src="../../../assets/icons/human_01_red.svg" width="18px"> Cartilha de Uso: Gemini 2.5 no Terminal (Projeto WTF)</h2>
 <p>Companheiro, vamos colocar ordem na casa. O Ravi (seu Mac) e o Antigravity (seu servidor/ambiente de desenvolvimento) precisam dessa batida ritmada para o <strong>Consórcio UnB/UFRR/UFAC</strong> funcionar como uma linha de produção de alta precisão.</p>
 <p>Aqui está o seu <strong>Manual de Operações WTF 2026</strong>.</p>
-<h2 id="2-catalogo-de-scripts-o-que-usar-e-quando"><img src="../assets/icons/human_01_red.svg" width="18px"> 2. Catálogo de Scripts: O que usar e quando?</h2>
+<h2 id="2-catalogo-de-scripts-o-que-usar-e-quando"><img src="../../../assets/icons/human_01_red.svg" width="18px"> 2. Catálogo de Scripts: O que usar e quando?</h2>
 <table>
 <thead>
 <tr>
@@ -1492,7 +1492,7 @@
 </tr>
 </tbody>
 </table>
-<h2 id="3-extracao-de-pdfs-com-docling"><img src="../assets/icons/human_01_red.svg" width="18px"> 3. Extração de PDFs com Docling</h2>
+<h2 id="3-extracao-de-pdfs-com-docling"><img src="../../../assets/icons/human_01_red.svg" width="18px"> 3. Extração de PDFs com Docling</h2>
 <p>O Docling é o seu "tradutor de hieróglifos". Ele entende que um PDF tem colunas e tabelas e limpa isso para a IA.</p>
 <p><strong>Como ativar e usar:</strong>
 <div class="highlight"><pre><span></span><code><span class="c1"># O Docling geralmente está em um ambiente separado para não dar conflito</span>
@@ -1510,7 +1510,7 @@ docling<span class="w"> </span><span class="s2">&quot;99_RESTRITO/02_TRIAGEM_BRU
 <span class="c1"># Converta para MD em vez de TXT</span>
 docling<span class="w"> </span><span class="s2">&quot;99_RESTRITO/02_TRIAGEM_BRUTA/WA_MAM/Tecnoveg/ARG063-24 aderência pull-off.pdf&quot;</span><span class="w"> </span>--to<span class="w"> </span>md<span class="w"> </span>&gt;<span class="w"> </span><span class="s2">&quot;99_RESTRITO/02_TRIAGEM_BRUTA/WA_MAM/Tecnoveg/Tecnoveg-markdown/LAUDO_ESTRUTURADO.md&quot;</span>
 </code></pre></div></p>
-<h2 id="4-prompts-especificos-para-documentos-isolados"><img src="../assets/icons/human_01_red.svg" width="18px"> 4. Prompts Específicos para Documentos Isolados</h2>
+<h2 id="4-prompts-especificos-para-documentos-isolados"><img src="../../../assets/icons/human_01_red.svg" width="18px"> 4. Prompts Específicos para Documentos Isolados</h2>
 <p>Ao usar o <code>python gemini_lab.py "$(cat arquivo.txt) --- [PROMPT]"</code>, use estes modelos:</p>
 <h3 id="a-para-artigos-cientificos-bambupupirolenhoso"><strong>A. Para Artigos Científicos (Bambu/PU/Pirolenhoso)</strong></h3>
 <blockquote>
@@ -1524,7 +1524,7 @@ docling<span class="w"> </span><span class="s2">&quot;99_RESTRITO/02_TRIAGEM_BRU
 <blockquote>
 <p>"Identifique os conceitos-chave de <strong>Tecnologia Social ou Governança</strong>. Transforme este texto em uma diretriz de campo para o projeto WTF, mantendo o tom pedagógico e ancestral."</p>
 </blockquote>
-<h2 id="5-dicas-de-produtividade-com-o-gemini-cli"><img src="../assets/icons/human_01_red.svg" width="18px"> 5. Dicas de Produtividade com o Gemini CLI</h2>
+<h2 id="5-dicas-de-produtividade-com-o-gemini-cli"><img src="../../../assets/icons/human_01_red.svg" width="18px"> 5. Dicas de Produtividade com o Gemini CLI</h2>
 <ol>
 <li><strong>Use o <code>&gt;</code> para salvar</strong>: Em vez de ler no terminal, salve direto:
     <code>python gemini_lab.py "..." &gt; docs/analise_v1.md</code></li>
@@ -1533,9 +1533,9 @@ docling<span class="w"> </span><span class="s2">&quot;99_RESTRITO/02_TRIAGEM_BRU
 <li><strong>Tradução Reversa</strong>: Se estiver escrevendo um artigo para o consórcio em inglês, mande seu rascunho em português e peça:
     <code>"Traduza para inglês acadêmico (Nature/Science style) e mantenha os termos técnicos de bioeconomia."</code></li>
 </ol>
-<h2 id="o-proximo-passo"><img src="../assets/icons/human_01_red.svg" width="18px"> O Próximo Passo</h2>
+<h2 id="o-proximo-passo"><img src="../../../assets/icons/human_01_red.svg" width="18px"> O Próximo Passo</h2>
 <p>Notei que você tem <strong>110 arquivos</strong> na quarentena. O script <code>triagem_e_lapidacao.py</code> que corrigimos é a sua melhor ferramenta agora. </p>
-<p><strong>Deseja que eu prepare um comando do Docling que já direcione todos os PDFs da sua pasta de bibliografia direto para a quarentena, deixando o terreno pronto para o "Garimpo Digital"?</strong> <img src="../assets/icons/human_01_red.svg" width="18px"><img src="../assets/icons/human_01_red.svg" width="18px"></p>
+<p><strong>Deseja que eu prepare um comando do Docling que já direcione todos os PDFs da sua pasta de bibliografia direto para a quarentena, deixando o terreno pronto para o "Garimpo Digital"?</strong> <img src="../../../assets/icons/human_01_red.svg" width="18px"><img src="../../../assets/icons/human_01_red.svg" width="18px"></p>
 <h3 id="1-reativacao-do-ambiente-sempre-ao-abrir-o-terminal">1. Reativação do Ambiente (Sempre ao abrir o terminal)</h3>
 <p>Para que o Ravi reconheça o Python 3.12 e a biblioteca <code>google-genai</code> do projeto:</p>
 <div class="highlight"><pre><span></span><code><span class="nb">cd</span><span class="w"> </span>~/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia
@@ -1558,7 +1558,7 @@ docling<span class="w"> </span><span class="s2">&quot;99_RESTRITO/02_TRIAGEM_BRU
 <span class="s2">2. IDENTIFICAÇÃO BIBLIOGRÁFICA:</span>
 <span class="s2">   Extraia: Autores, Ano, Título Original, Periódico e Local.</span>
 
-<span class="s2">- &lt;img src=&quot;</span>../assets/icons/human_03_black.svg<span class="s2">&quot; width=&quot;</span>18px<span class="s2">&quot;&gt; name: Consórcio UnB/UFRR/UFAC</span>
+<span class="s2">- &lt;img src=&quot;</span>../../../assets/icons/human_03_black.svg<span class="s2">&quot; width=&quot;</span>18px<span class="s2">&quot;&gt; name: Consórcio UnB/UFRR/UFAC</span>
 <span class="s2">date: &#39;2026-03-24&#39;</span>
 
 <span class="s2">3. TRADUÇÃO E SÍNTESE TÉCNICA:</span>
@@ -1593,7 +1593,7 @@ docling<span class="w"> </span><span class="s2">&quot;99_RESTRITO/02_TRIAGEM_BRU
 </tr>
 </tbody>
 </table>
-<h3 id="dica-de-ouro-o-arquivo-zshrc"><img src="../assets/icons/human_01_red.svg" width="18px">️ Dica de Ouro: O Arquivo <code>.zshrc</code></h3>
+<h3 id="dica-de-ouro-o-arquivo-zshrc"><img src="../../../assets/icons/human_01_red.svg" width="18px">️ Dica de Ouro: O Arquivo <code>.zshrc</code></h3>
 <p>Se você não quiser digitar o <code>export GOOGLE_API_KEY</code> toda vez, rode este comando uma única vez:
 <div class="highlight"><pre><span></span><code><span class="nb">echo</span><span class="w"> </span><span class="s2">&quot;export GOOGLE_API_KEY=&#39;AIzaSyDnUer8X3QiY0dJtK26xL9z8hGxbtm3R8A&#39;&quot;</span><span class="w"> </span>&gt;&gt;<span class="w"> </span>~/.zshrc
 <span class="nb">source</span><span class="w"> </span>~/.zshrc
@@ -1609,7 +1609,7 @@ MODEL_ID = "models/gemini-1.5-flash" # Flash é excelente e rápido para áudio<
 <h1 id="2-extensoes-de-audio-suportadas">2. Extensões de áudio suportadas</h1>
 <p>EXTENSOES_AUDIO = ('.mp3', '.wav', '.m4a', '.aac', '.ogg')</p>
 <p>def transcrever_audio(caminho_audio, nome_arquivo):
-    print(f"<img src="../assets/icons/human_01_red.svg" width="18px">️ Enviando para transcrição: {nome_arquivo}...")</p>
+    print(f"<img src="../../../assets/icons/human_01_red.svg" width="18px">️ Enviando para transcrição: {nome_arquivo}...")</p>
 <pre><code>try:
     # Carrega o arquivo de áudio
     with open(caminho_audio, "rb") as f:
@@ -1636,7 +1636,7 @@ except Exception as e:
     return f"ERRO na transcrição: {e}"
 </code></pre>
 <p>def executar_transcricao_recursiva(diretorio_raiz):
-    print(f"<img src="../assets/icons/human_01_red.svg" width="18px"> Iniciando varredura de áudios em: {diretorio_raiz}")</p>
+    print(f"<img src="../../../assets/icons/human_01_red.svg" width="18px"> Iniciando varredura de áudios em: {diretorio_raiz}")</p>
 <pre><code>for raiz, dirs, arquivos in os.walk(diretorio_raiz):
     # Ignora pastas de transcrição já criadas para não entrar em loop
     if "transcricao" in raiz:
@@ -1681,7 +1681,7 @@ except Exception as e:
 <hr />
 <hr />
 <hr />
-<p align="center"><img src="../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
 
 
 
