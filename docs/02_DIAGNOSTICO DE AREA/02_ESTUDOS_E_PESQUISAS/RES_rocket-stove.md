@@ -10,7 +10,7 @@ licenca: CC BY-NC 4.0
 
 <p align="right"><i>"Ciência é a investigação da verdade."<br>— Carlos Chagas</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: RES_rocket-stove.md
@@ -25,18 +25,18 @@ Esta nota técnica consolida os parâmetros fundamentais para o desenvolvimento 
 
 ## 2. Especificações do Protótipo Base (Baseline)
 O estudo de referência utilizou um fogão com as seguintes características construtivas:
-- <img src="assets/icons/human_10_black.svg" width="18px"> **Material**: Aço com espessura de 2.3 mm.
-- <img src="assets/icons/human_19_black.svg" width="18px"> **Peso**: 3 kg.
-- <img src="assets/icons/human_09_black.svg" width="18px"> **Dimensões**: 30 x 28 x 60 cm.
-- <img src="assets/icons/human_02_black.svg" width="18px"> **Configuração**: Geometria em "L" (L-elbow) com chaminé inclinada para alimentação de lenha.
+- <img src="../../../../assets/icons/human_10_black.svg" width="18px"> **Material**: Aço com espessura de 2.3 mm.
+- <img src="../../../../assets/icons/human_19_black.svg" width="18px"> **Peso**: 3 kg.
+- <img src="../../../../assets/icons/human_09_black.svg" width="18px"> **Dimensões**: 30 x 28 x 60 cm.
+- <img src="../../../../assets/icons/human_02_black.svg" width="18px"> **Configuração**: Geometria em "L" (L-elbow) com chaminé inclinada para alimentação de lenha.
 
 ## 3. Parâmetros de Otimização e Resultados
 A principal inovação técnica reside na aplicação de isolamento térmico e no refinamento da geometria de saída (pot skirt).
 
 ### 3.1 Isolamento Térmico
-- <img src="assets/icons/human_12_black.svg" width="18px"> **Material Selecionado**: Fibra Cerâmica (superior à lã de vidro e poliuretano em condutividade e custo-benefício).
-- <img src="assets/icons/human_11_black.svg" width="18px"> **Espessura**: 30 mm, aplicada ao redor da câmara de combustão externa.
-- <img src="assets/icons/human_04_black.svg" width="18px"> **Impacto**: A adição do isolamento permitiu que o calor fosse concentrado no fluxo ascendente, reduzindo perdas radiais.
+- <img src="../../../../assets/icons/human_12_black.svg" width="18px"> **Material Selecionado**: Fibra Cerâmica (superior à lã de vidro e poliuretano em condutividade e custo-benefício).
+- <img src="../../../../assets/icons/human_11_black.svg" width="18px"> **Espessura**: 30 mm, aplicada ao redor da câmara de combustão externa.
+- <img src="../../../../assets/icons/human_04_black.svg" width="18px"> **Impacto**: A adição do isolamento permitiu que o calor fosse concentrado no fluxo ascendente, reduzindo perdas radiais.
 
 ### 3.2 Desempenho Térmico (Simulação CFD)
 As medições de temperatura mostraram um salto significativo de eficiência:
@@ -73,4 +73,4 @@ STEFANDITYA, Y. et al. **Design of Rocket Stove with Computational Fluid Dynamic
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

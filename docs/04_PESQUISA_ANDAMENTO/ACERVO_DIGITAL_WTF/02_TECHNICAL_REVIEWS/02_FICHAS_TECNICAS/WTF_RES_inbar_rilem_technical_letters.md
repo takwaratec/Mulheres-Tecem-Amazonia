@@ -12,7 +12,7 @@ ano_publicacao: '2025'
 
 <p align="right"><i>"O Brasil é uma invenção de si mesmo."<br>— João Ubaldo Ribeiro</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: WTF_RES_inbar_rilem_technical_letters.md
@@ -24,8 +24,8 @@ ano_publicacao: '2025'
 
 Kent Harries 1 , Luisa Molari 2 *
 
-- <img src="assets/icons/human_10_black.svg" width="18px"> 1 Civil and Environmental Engineering -University of Pittsburgh, Pittsburgh, USA; kharries@pitt.edu
-- <img src="assets/icons/human_12_black.svg" width="18px"> 2 DICAM, Alma Mater Studiorum -University of Bologna, Viale Risorgimento 2, 40136 Bologna, Italy; luisa.molari@unibo.it
+- <img src="../../../../../../assets/icons/human_10_black.svg" width="18px"> 1 Civil and Environmental Engineering -University of Pittsburgh, Pittsburgh, USA; kharries@pitt.edu
+- <img src="../../../../../../assets/icons/human_12_black.svg" width="18px"> 2 DICAM, Alma Mater Studiorum -University of Bologna, Viale Risorgimento 2, 40136 Bologna, Italy; luisa.molari@unibo.it
 
 Received: 20 September 2023 / Accepted: 21 December 2023 / Published online: 23 February 2024
 
@@ -40,4 +40,4 @@ Received: 20 September 2023 / Accepted: 21 December 2023 / Published online: 23 
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

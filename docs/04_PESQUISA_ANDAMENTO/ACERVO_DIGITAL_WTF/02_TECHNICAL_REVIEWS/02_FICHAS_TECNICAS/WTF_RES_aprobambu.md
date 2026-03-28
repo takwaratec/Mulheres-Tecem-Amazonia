@@ -12,7 +12,7 @@ ano_publicacao: '2025'
 
 <p align="right"><i>"A educação é o direito de todos e dever do Estado."<br>— Anísio Teixeira</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: WTF_RES_aprobambu.md
@@ -20,7 +20,7 @@ ano_publicacao: '2025'
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
-# <img src="assets/icons/human_01_red.svg" width="18px">️ Inventário de Curadoria - Tecnologia Institucional
+# <img src="../../../../../../assets/icons/human_01_red.svg" width="18px">️ Inventário de Curadoria - Tecnologia Institucional
 
 
 
@@ -37,4 +37,4 @@ This report presents a critical analysis of the political dynamics shaping Brazi
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

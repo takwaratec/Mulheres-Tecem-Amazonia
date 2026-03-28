@@ -12,7 +12,7 @@ ano_publicacao: '2025'
 
 <p align="right"><i>"Ciência é a investigação da verdade."<br>— Carlos Chagas</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: WTF_RES_00002983_regimento_interno_da_bambubr__1__1.md
@@ -23,7 +23,7 @@ ano_publicacao: '2025'
 ## CAPÍTULO I
 
 
-- <img src="assets/icons/human_06_black.svg" width="18px"> Art.  1º - <img src="assets/icons/human_06_black.svg" width="18px">  Este  Regimento  Interno  estabelece  o  detalhamento  das  principais  atividades rotineiras  da  Diretoria,  do  Conselho  Fiscal  e  das  Unidades  Regionais  da  BambuBR, complementando as disposições do Estatuto e visando garantir a coerência entre os dois documentos. §  1º - <img src="assets/icons/human_06_black.svg" width="18px">  As  Unidades  Regionais  da  BambuBR,  indicadas  no  Art. 4º  do  Estatuto,  poderão  ser criadas para cada uma das cinco regiões admini...
+- <img src="../../../../../../assets/icons/human_06_black.svg" width="18px"> Art.  1º - <img src="../../../../../../assets/icons/human_06_black.svg" width="18px">  Este  Regimento  Interno  estabelece  o  detalhamento  das  principais  atividades rotineiras  da  Diretoria,  do  Conselho  Fiscal  e  das  Unidades  Regionais  da  BambuBR, complementando as disposições do Estatuto e visando garantir a coerência entre os dois documentos. §  1º - <img src="../../../../../../assets/icons/human_06_black.svg" width="18px">  As  Unidades  Regionais  da  BambuBR,  indicadas  no  Art. 4º  do  Estatuto,  poderão  ser criadas para cada uma das cinco regiões admini...
 
 ---
 
@@ -34,4 +34,4 @@ ano_publicacao: '2025'
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

@@ -12,7 +12,7 @@ author:
 
 <p align="right"><i>"Viver é muito perigoso."<br>— Guimarães Rosa</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_WTF_RAW_FT_MAMONEX_RD70.md
@@ -33,9 +33,9 @@ REFERÊNCIA BIBLIOGRÁFICA (ABNT):
 ACERVO DIGITAL MULHERES QUE TECEM A FLORESTA. **MAMONEX RD70**: Resina expansiva rígida bicomponente de poliuretano vegetal. Consórcio UnB/UFAC/UFRR, 2025.
 
 ### 2. TRADUÇÃO E SÍNTESE TÉCNICA
-- <img src="assets/icons/human_17_black.svg" width="18px"> Tradução do resumo (Abstract) se estiver em inglês: Não aplicável (texto em português, sem resumo explícito).
-- <img src="assets/icons/human_14_black.svg" width="18px"> Síntese Técnica: O documento descreve o MAMONEX RD70, uma resina expansiva rígida bicomponente (A+B) de poliuretano vegetal, desenvolvida a partir do processamento do óleo de mamona (Ricinus Communis). Suas propriedades incluem leveza, resistência, alta durabilidade, baixa condutividade térmica e a característica de ser **biodegradável** <img src="assets/icons/human_14_black.svg" width="18px"> e ecologicamente correta, originária de **fonte renovável** <img src="assets/icons/human_14_black.svg" width="18px"> (biomassa). A expansão do produto é resultado da geração de CO2 durante a reação de polimerização, eliminando a necessidade de agentes de expansão físicos como CFCs. O texto detalha as instruções de manuseio e mistura (proporção 1:1, agitação manual por 15s), as propriedades físico-químicas (peso específico, resistência à compressão e tração, absorção de água, condutividade térmica, tempos de creme/gel/toque, combustibilidade, resistência a solventes, ácidos e álcalis, toxidade e caráter químico neutro), e as diversas aplicações, que vão desde isolamento térmico e acústico em construções (chapas, painéis, telhados) até a fabricação de moldes artísticos e preenchimento/fixação em estruturas de bambu.
-- <img src="assets/icons/human_09_black.svg" width="18px"> 3 palavras-chave em português:
+- <img src="../../../../../../assets/icons/human_17_black.svg" width="18px"> Tradução do resumo (Abstract) se estiver em inglês: Não aplicável (texto em português, sem resumo explícito).
+- <img src="../../../../../../assets/icons/human_14_black.svg" width="18px"> Síntese Técnica: O documento descreve o MAMONEX RD70, uma resina expansiva rígida bicomponente (A+B) de poliuretano vegetal, desenvolvida a partir do processamento do óleo de mamona (Ricinus Communis). Suas propriedades incluem leveza, resistência, alta durabilidade, baixa condutividade térmica e a característica de ser **biodegradável** <img src="../../../../../../assets/icons/human_14_black.svg" width="18px"> e ecologicamente correta, originária de **fonte renovável** <img src="../../../../../../assets/icons/human_14_black.svg" width="18px"> (biomassa). A expansão do produto é resultado da geração de CO2 durante a reação de polimerização, eliminando a necessidade de agentes de expansão físicos como CFCs. O texto detalha as instruções de manuseio e mistura (proporção 1:1, agitação manual por 15s), as propriedades físico-químicas (peso específico, resistência à compressão e tração, absorção de água, condutividade térmica, tempos de creme/gel/toque, combustibilidade, resistência a solventes, ácidos e álcalis, toxidade e caráter químico neutro), e as diversas aplicações, que vão desde isolamento térmico e acústico em construções (chapas, painéis, telhados) até a fabricação de moldes artísticos e preenchimento/fixação em estruturas de bambu.
+- <img src="../../../../../../assets/icons/human_09_black.svg" width="18px"> 3 palavras-chave em português:
     1.  Poliuretano vegetal
     2.  Biodegradação
     3.  Biomassa
@@ -62,7 +62,7 @@ ACERVO DIGITAL MULHERES QUE TECEM A FLORESTA. **MAMONEX RD70**: Resina expansiva
 | Gás de expansão                                   | CO2 gerado na reação       |
 | Caráter químico                                   | Neutro, isento de CFC      |
 
-- <img src="assets/icons/human_13_black.svg" width="18px"> Coordenadas geográficas: Nenhuma coordenada geográfica presente no texto.
+- <img src="../../../../../../assets/icons/human_13_black.svg" width="18px"> Coordenadas geográficas: Nenhuma coordenada geográfica presente no texto.
 
 ### 4. Extrair Bibliografia citada no texto
 Nenhuma referência bibliográfica é citada explicitamente no corpo do texto.
@@ -76,4 +76,4 @@ Nenhuma referência bibliográfica é citada explicitamente no corpo do texto.
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

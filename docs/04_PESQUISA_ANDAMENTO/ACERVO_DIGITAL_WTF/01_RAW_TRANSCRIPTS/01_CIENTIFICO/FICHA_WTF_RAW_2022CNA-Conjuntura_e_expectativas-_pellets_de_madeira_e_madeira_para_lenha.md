@@ -12,7 +12,7 @@ author:
 
 <p align="right"><i>"O real não está na saída nem na chegada: ele se dispõe para a gente é no meio da travessia."<br>— Guimarães Rosa</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_WTF_RAW_2022CNA-Conjuntura_e_expectativas-_pellets_de_madeira_e_madeira_para_lenha.md
@@ -33,11 +33,11 @@ REFERÊNCIA BIBLIOGRÁFICA (ABNT):
 LIMA FILHO, Rafael Ribeiro de. **Conjuntura e expectativas: pellets de madeira e madeira para lenha**. Brasília, DF: CNA, Diretoria Técnica, 4 out. 2022. (Nota Técnica CNA, n. 30/2022). Disponível em: www.cnabrasil.org.br. Acesso em: 24 mar. 2026.
 
 ### 2. TRADUÇÃO E SÍNTESE TÉCNICA
-- <img src="assets/icons/human_06_black.svg" width="18px"> O texto está em português. Não há "Abstract" em inglês para tradução.
-- <img src="assets/icons/human_16_black.svg" width="18px"> Palavras-chave:
-    * <img src="assets/icons/human_04_black.svg" width="18px">   Pellet de madeira
-    * <img src="assets/icons/human_14_black.svg" width="18px">   Biocombustível
-    * <img src="assets/icons/human_10_black.svg" width="18px">   Biomassa
+- <img src="../../../../../../assets/icons/human_06_black.svg" width="18px"> O texto está em português. Não há "Abstract" em inglês para tradução.
+- <img src="../../../../../../assets/icons/human_16_black.svg" width="18px"> Palavras-chave:
+    * <img src="../../../../../../assets/icons/human_04_black.svg" width="18px">   Pellet de madeira
+    * <img src="../../../../../../assets/icons/human_14_black.svg" width="18px">   Biocombustível
+    * <img src="../../../../../../assets/icons/human_10_black.svg" width="18px">   Biomassa
 
 ### 3. EXTRAÇÃO DE DADOS (TABELA)
 
@@ -86,9 +86,9 @@ Coordenadas geográficas: Não foram encontradas coordenadas geográficas no tex
 ### 4. Extrair Bibliografia citada no texto
 O texto é uma nota técnica da CNA e menciona as seguintes fontes de dados:
 
-* <img src="assets/icons/human_02_black.svg" width="18px">   **Comexstat**
-* <img src="assets/icons/human_09_black.svg" width="18px">   **ABIB** <img src="assets/icons/human_09_black.svg" width="18px"> (Associação Brasileira das Indústrias de Biomassa, Bioenergia Bioeletricidade e Pellets)
-* <img src="assets/icons/human_11_black.svg" width="18px">   **Ministério da Indústria, Comércio Exterior e Serviços**
+* <img src="../../../../../../assets/icons/human_02_black.svg" width="18px">   **Comexstat**
+* <img src="../../../../../../assets/icons/human_09_black.svg" width="18px">   **ABIB** <img src="../../../../../../assets/icons/human_09_black.svg" width="18px"> (Associação Brasileira das Indústrias de Biomassa, Bioenergia Bioeletricidade e Pellets)
+* <img src="../../../../../../assets/icons/human_11_black.svg" width="18px">   **Ministério da Indústria, Comércio Exterior e Serviços**
 
 Não há referências bibliográficas formatadas em ABNT citadas dentro do corpo do texto. As menções acima são a órgãos ou bases de dados de onde as informações foram extraídas para a elaboração da nota técnica.
 
@@ -101,4 +101,4 @@ Não há referências bibliográficas formatadas em ABNT citadas dentro do corpo
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

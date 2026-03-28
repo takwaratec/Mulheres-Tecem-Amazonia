@@ -24,7 +24,7 @@ version: '2.2.2'
 
 <p align="right"><i>"Só se aprende o que se pratica."<br>— Anísio Teixeira</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: RES_memorial-sistema-construtivo-v8.md
@@ -49,9 +49,9 @@ O sistema propõe a substituição de materiais construtivos convencionais (cime
 
 Diferente do estado da arte que utiliza alumínio ou madeira, o uso de PP Natural de 20mm oferece vantagens críticas para o processamento de PU Vegetal:
 
-* <img src="assets/icons/human_08_black.svg" width="18px">   **Antiaderência Natural**: A baixa energia superficial do PP dispensa desmoldantes agressivos (solventes), permitindo a limpeza apenas com álcool 96 ou cereal.
-* <img src="assets/icons/human_02_black.svg" width="18px">   **Inércia Térmica**: O PP dissipa o calor da reação exotérmica de forma controlada, garantindo uma cura homogênea sem "efeito esponja".
-* <img src="assets/icons/human_06_black.svg" width="18px">   **Modularidade CNC**: Permite usinagem de alta precisão (Ra < 0,8 µm) e alterações rápidas de design (troca de machos/pinos) com baixo custo operacional.
+* <img src="../../../../../../assets/icons/human_08_black.svg" width="18px">   **Antiaderência Natural**: A baixa energia superficial do PP dispensa desmoldantes agressivos (solventes), permitindo a limpeza apenas com álcool 96 ou cereal.
+* <img src="../../../../../../assets/icons/human_02_black.svg" width="18px">   **Inércia Térmica**: O PP dissipa o calor da reação exotérmica de forma controlada, garantindo uma cura homogênea sem "efeito esponja".
+* <img src="../../../../../../assets/icons/human_06_black.svg" width="18px">   **Modularidade CNC**: Permite usinagem de alta precisão (Ra < 0,8 µm) e alterações rápidas de design (troca de machos/pinos) com baixo custo operacional.
 
 ## 3. Especificações Técnicas e Posologia
 
@@ -78,9 +78,9 @@ Com base nos estudos de compósitos e referências acadêmicas do acervo (Cazzol
 
 O processo de polimerização em climas de alta umidade (UR > 80%) e temperatura (T > 30°C) exige:
 
-* <img src="assets/icons/human_03_black.svg" width="18px">   **Ponto de Orvalho**: Interrupção da produção se UR > 90% para evitar reação do isocianato com a umidade do ar.
-* <img src="assets/icons/human_04_black.svg" width="18px">   **Cura Pós-Usinagem**: Estufa solar ou repouso à sombra por 24h para estabilização da dureza Shore D (30-70).
-* <img src="assets/icons/human_19_black.svg" width="18px">   **Limpeza**: Uso obrigatório de Álcool 96 para remoção de resíduos de poliol sem contaminar o sistema com água.
+* <img src="../../../../../../assets/icons/human_03_black.svg" width="18px">   **Ponto de Orvalho**: Interrupção da produção se UR > 90% para evitar reação do isocianato com a umidade do ar.
+* <img src="../../../../../../assets/icons/human_04_black.svg" width="18px">   **Cura Pós-Usinagem**: Estufa solar ou repouso à sombra por 24h para estabilização da dureza Shore D (30-70).
+* <img src="../../../../../../assets/icons/human_19_black.svg" width="18px">   **Limpeza**: Uso obrigatório de Álcool 96 para remoção de resíduos de poliol sem contaminar o sistema com água.
 
 ## 5. Referências e Adequação Científica
 
@@ -95,4 +95,4 @@ Este memorial integra o legado do GQATP (Prof. Gilberto Chierice) e pesquisas co
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

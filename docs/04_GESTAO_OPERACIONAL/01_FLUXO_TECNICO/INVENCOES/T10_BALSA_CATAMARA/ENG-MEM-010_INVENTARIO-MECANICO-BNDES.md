@@ -14,7 +14,7 @@ author:
 
 <p align="right"><i>"A força do lugar é a força do mundo."<br>— Milton Santos</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: ENG-MEM-010_INVENTARIO-MECANICO-BNDES.md
@@ -46,30 +46,30 @@ Este documento consolida as especificações técnicas e o Bill of Materials (Bo
 
 A operação deste inventário é regida pelos protocolos de eficiência e soberania detalhados nas seguintes Notas Técnicas:
 
-- <img src="assets/icons/human_11_black.svg" width="18px"> **ENG-NT-001**: Estratégia de Manejo e Logística de Biorrefinaria.
-- <img src="assets/icons/human_12_black.svg" width="18px"> **ENG-NT-002**: Estudo Comparativo de Eficiência (T02 vs. Sistemas Industriais).
-- <img src="assets/icons/human_07_black.svg" width="18px"> **ENG-NT-T02-01**: Mini-Reator de Captura de Pirolenhoso.
-- <img src="assets/icons/human_13_black.svg" width="18px"> **ENG-NT-T03-01**: Cronobiologia da Cura e Estabilização.
-- <img src="assets/icons/human_10_black.svg" width="18px"> **ENG-NT-T06-01**: Variante de Gabarito em Madeira.
-- <img src="assets/icons/human_17_black.svg" width="18px"> **ENG-NT-T08-01**: Variante de Tamboreador IFB (Mídia Aquecida).
-- <img src="assets/icons/human_03_black.svg" width="18px"> **ENG-MEM-011**: Estratégia de Bio-Abrasivos (Castanha-do-Brasil).
+- <img src="../../../../../../assets/icons/human_11_black.svg" width="18px"> **ENG-NT-001**: Estratégia de Manejo e Logística de Biorrefinaria.
+- <img src="../../../../../../assets/icons/human_12_black.svg" width="18px"> **ENG-NT-002**: Estudo Comparativo de Eficiência (T02 vs. Sistemas Industriais).
+- <img src="../../../../../../assets/icons/human_07_black.svg" width="18px"> **ENG-NT-T02-01**: Mini-Reator de Captura de Pirolenhoso.
+- <img src="../../../../../../assets/icons/human_13_black.svg" width="18px"> **ENG-NT-T03-01**: Cronobiologia da Cura e Estabilização.
+- <img src="../../../../../../assets/icons/human_10_black.svg" width="18px"> **ENG-NT-T06-01**: Variante de Gabarito em Madeira.
+- <img src="../../../../../../assets/icons/human_17_black.svg" width="18px"> **ENG-NT-T08-01**: Variante de Tamboreador IFB (Mídia Aquecida).
+- <img src="../../../../../../assets/icons/human_03_black.svg" width="18px"> **ENG-MEM-011**: Estratégia de Bio-Abrasivos (Castanha-do-Brasil).
 
 ## 3. Tecnologias de Aproveitamento (N1/N0 - Escala Artesanal)
 
 > [!TIP]
 > Versões destinadas exclusivamente ao tratamento de bambu bruto, utilizando materiais de aproveitamento/reciclagem para redução de CAPEX em comunidades isoladas.
 
-- <img src="assets/icons/human_19_black.svg" width="18px"> **Reator Artesanal (T02-A)**: Construção em tambores de 200L reciclados para produção de extrato pirolenhoso local.
-- <img src="assets/icons/human_20_black.svg" width="18px"> **Tamboreador Artesanal (T08-A)**: **Substituição de Sílica por Casca de Castanha moída (ENG-MEM-011)**.
-- <img src="assets/icons/human_02_black.svg" width="18px"> **Câmaras de Vapor (N0)**: Tanques reaproveitados para imunização hidrotérmica.
+- <img src="../../../../../../assets/icons/human_19_black.svg" width="18px"> **Reator Artesanal (T02-A)**: Construção em tambores de 200L reciclados para produção de extrato pirolenhoso local.
+- <img src="../../../../../../assets/icons/human_20_black.svg" width="18px"> **Tamboreador Artesanal (T08-A)**: **Substituição de Sílica por Casca de Castanha moída (ENG-MEM-011)**.
+- <img src="../../../../../../assets/icons/human_02_black.svg" width="18px"> **Câmaras de Vapor (N0)**: Tanques reaproveitados para imunização hidrotérmica.
 
 ## 3. Infraestrutura: Canteiro-Escola (Rio Branco-AC)
 
 O espaço físico do N2 Hub opera como unidade de Biofabricação e Ensino (Capacitação de Mulheres), contemplando **alojamento e instalações completas para recepção de até 20 pessoas simultaneamente**.
 
-- <img src="assets/icons/human_09_black.svg" width="18px"> **Módulo Industrial / Galpão**: Estrutura adaptada (alvenaria proibida) via galpão tradicional ou aproveitamento de estrutura prévia - <img src="assets/icons/human_09_black.svg" width="18px"> R$ 350.000,00
-- <img src="assets/icons/human_05_black.svg" width="18px"> **Instalações Industriais**: Piso de alta resistência, Elétrica Solar e Hidráulica - <img src="assets/icons/human_05_black.svg" width="18px"> R$ 250.000,00
-- <img src="assets/icons/human_14_black.svg" width="18px"> **Total Infraestrutura**: **R$ 600.000,00**
+- <img src="../../../../../../assets/icons/human_09_black.svg" width="18px"> **Módulo Industrial / Galpão**: Estrutura adaptada (alvenaria proibida) via galpão tradicional ou aproveitamento de estrutura prévia - <img src="../../../../../../assets/icons/human_09_black.svg" width="18px"> R$ 350.000,00
+- <img src="../../../../../../assets/icons/human_05_black.svg" width="18px"> **Instalações Industriais**: Piso de alta resistência, Elétrica Solar e Hidráulica - <img src="../../../../../../assets/icons/human_05_black.svg" width="18px"> R$ 250.000,00
+- <img src="../../../../../../assets/icons/human_14_black.svg" width="18px"> **Total Infraestrutura**: **R$ 600.000,00**
 
 > [!TIP]
 > O CAPEX investido em infraestrutura possibilita a geração de lucro operacional para o Canteiro-Escola através da prestação de serviços e capacitações.
@@ -95,4 +95,4 @@ O espaço físico do N2 Hub opera como unidade de Biofabricação e Ensino (Capa
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

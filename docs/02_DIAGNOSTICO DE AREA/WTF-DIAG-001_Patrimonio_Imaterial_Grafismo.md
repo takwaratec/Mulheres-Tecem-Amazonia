@@ -7,7 +7,7 @@
 
 <p align="right"><i>"A educação não transforma o mundo. Educação muda as pessoas. Pessoas mudam o mundo."<br>— Paulo Freire</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: WTF-DIAG-001_Patrimonio_Imaterial_Grafismo.md
@@ -24,9 +24,9 @@ O grafismo indígena transcende a mera função decorativa, operando como uma **
 
 ## 2. O Sistema Kene (Huni Kuĩ — Acre)
 No contexto dos povos Huni Kuĩ (Rio Branco/Acre), o **Kene** é a manifestação máxima da identidade. 
-- <img src="assets/icons/human_05_black.svg" width="18px"> **Origem**: Atribuído à visão do Grande Espírito através da *Yuxibu* <img src="assets/icons/human_05_black.svg" width="18px"> (força criadora) e transmitido prioritariamente pelas mulheres e jovens em processos de iniciação.
-- <img src="assets/icons/human_08_black.svg" width="18px"> **Função**: Proteção contra o "corpo fraco" e conexão com os espíritos da floresta.
-- <img src="assets/icons/human_06_black.svg" width="18px"> **Suportes**: Pintura corporal (jenipapo/urucum), tecelagem de algodão e cerâmica.
+- <img src="../../../assets/icons/human_05_black.svg" width="18px"> **Origem**: Atribuído à visão do Grande Espírito através da *Yuxibu* <img src="../../../assets/icons/human_05_black.svg" width="18px"> (força criadora) e transmitido prioritariamente pelas mulheres e jovens em processos de iniciação.
+- <img src="../../../assets/icons/human_08_black.svg" width="18px"> **Função**: Proteção contra o "corpo fraco" e conexão com os espíritos da floresta.
+- <img src="../../../assets/icons/human_06_black.svg" width="18px"> **Suportes**: Pintura corporal (jenipapo/urucum), tecelagem de algodão e cerâmica.
 
 ## 3. O Sistema Jegua (Kaiowá/Guarani — MS/Fronteira)
 Embora geograficamente distinto, o **Jegua** compartilha a premissa da proteção espiritual. Rossandra Cabreira (2014) destaca que os grafismos Kaiowá são linguagens que "falam" com a natureza, representando a resistência de um povo diante do confinamento territorial e da pressão externa.
@@ -53,15 +53,15 @@ A "sublimação" aqui não é o desaparecimento, mas a transposição do sagrado
 Para subsidiar a compreensão técnica e estética, foram selecionados recortes da curadoria que exemplificam a evolução e aplicação dos grafismos:
 
 ### Prancha 1: Petróglifos e Marcas Ancestrais
-![Pintura Corporal](../assets/taxonomy/recorte_2_Lux_Vidal_Etnolinguistica_p14_0.jpeg)
+![Pintura Corporal](../../../assets/taxonomy/recorte_2_Lux_Vidal_Etnolinguistica_p14_0.jpeg)
 *Fig 1. Evidência de marcas territoriais e arqueológicas que fundamentam a antiguidade dos sistemas de comunicação visual na bacia amazônica (p. 14).*
 
 ### Prancha 2: O Fazer Manual e Social
-![Manual de Grafismo](../assets/taxonomy/recorte_3_Lux_Vidal_Etnolinguistica_p52_0.png)
+![Manual de Grafismo](../../../assets/taxonomy/recorte_3_Lux_Vidal_Etnolinguistica_p52_0.png)
 *Fig 2. Cartilha pedagógica Henfil/Warhol para transmissão de técnicas manuais (p. 52).*
 
 ### Prancha 3: O Labirinto Kene (Polifonia Cromática)
-![Labirinto Kene Colorido](../assets/taxonomy/recorte_4_Lux_Vidal_Etnolinguistica_p72_0.jpeg)
+![Labirinto Kene Colorido](../../../assets/taxonomy/recorte_4_Lux_Vidal_Etnolinguistica_p72_0.jpeg)
 *Fig 3. Ilustração detalhada de um sistema "Kene" colorido, demonstrando a complexidade geométrica e o uso simbólico das cores (p. 72).*
 
 ## 7. Integração Iconográfica (Vetores SVG)
@@ -70,14 +70,14 @@ O sistema de documentação permite a inclusão de grafismos vetoriais que podem
 
 | Grafismo | Fonte / Página | Aplicação Têxtil Sugerida |
 | :--- | :--- | :--- |
-| ![Icon](../assets/taxonomy/recorte_10_Lux_Vidal_Etnolinguistica_p72_0.svg){ .svg-color-primary } | Lux Vidal, p. 72 | Barras de saias e remates |
-| ![Icon](../assets/taxonomy/recorte_1_IPHAN_Huni_Kuin_p44_0.svg){ .svg-color-accent } | IPHAN, p. 44 | Bordados centrais em almofadas |
+| ![Icon](../../../assets/taxonomy/recorte_10_Lux_Vidal_Etnolinguistica_p72_0.svg){ .svg-color-primary } | Lux Vidal, p. 72 | Barras de saias e remates |
+| ![Icon](../../../assets/taxonomy/recorte_1_IPHAN_Huni_Kuin_p44_0.svg){ .svg-color-accent } | IPHAN, p. 44 | Bordados centrais em almofadas |
 
 ### Como dar Cor aos Desenhos (MKDocs)
 Para aplicar cores personalizadas aos vetores ao longo do texto, utilize as classes CSS integradas no arquivo `index.css`:
-- <img src="assets/icons/human_18_black.svg" width="18px"> `.svg-color-primary`: Aplica a cor padrão da identidade WTF (Preto).
-- <img src="assets/icons/human_16_black.svg" width="18px"> `.svg-color-accent`: Aplica o Vermelho Ururau.
-- <img src="assets/icons/human_04_black.svg" width="18px"> `.svg-color-eco`: Aplica o Verde Floresta.
+- <img src="../../../assets/icons/human_18_black.svg" width="18px"> `.svg-color-primary`: Aplica a cor padrão da identidade WTF (Preto).
+- <img src="../../../assets/icons/human_16_black.svg" width="18px"> `.svg-color-accent`: Aplica o Vermelho Ururau.
+- <img src="../../../assets/icons/human_04_black.svg" width="18px"> `.svg-color-eco`: Aplica o Verde Floresta.
 
 Exemplo de uso: `![Grafismo](caminho.svg){ .svg-color-accent }`
 
@@ -98,4 +98,4 @@ CABREIRA, Rossandra. **O Grafismo Kaiowá e Guarani: identidade e resistência e
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

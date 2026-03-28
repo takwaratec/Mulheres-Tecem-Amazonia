@@ -12,7 +12,7 @@ ano_publicacao: '2025'
 
 <p align="right"><i>"A ciência não é apenas um corpo de conhecimento, é um modo de pensar."<br>— Marcelo Gleiser</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: WTF_RES_memorial_sistema_construtivo_v8.md
@@ -20,7 +20,7 @@ ano_publicacao: '2025'
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
-**<img src="assets/icons/human_01_red.svg" width="18px"> Institucional — Engenharia de Soberania e Bioeconomia Regenerativa**
+**<img src="../../../../../../../assets/icons/human_01_red.svg" width="18px"> Institucional — Engenharia de Soberania e Bioeconomia Regenerativa**
 
 ---
 
@@ -31,4 +31,4 @@ ano_publicacao: '2025'
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

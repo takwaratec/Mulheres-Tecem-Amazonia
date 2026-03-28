@@ -12,7 +12,7 @@ author:
 
 <p align="right"><i>"O futuro pode ser ancestral."<br>— Ailton Krenak</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_WTF_RAW_08-_NOV-18_Projeto_Geração_de_Autonomia_sustentável_-_IFB.md
@@ -33,11 +33,11 @@ REFERÊNCIA BIBLIOGRÁFICA (ABNT):
 ACERVO DIGITAL MULHERES QUE TECEM A FLORESTA. **Produção de uma unidade de tratamento para bambu: tecnologia social de apoio à agricultura familiar.** 2025. Proposta de Projeto. Consórcio UnB/UFAC/UFRR. Planaltina, DF, 2025.
 
 ### 2. TRADUÇÃO E SÍNTESE TÉCNICA
-- <img src="assets/icons/human_18_black.svg" width="18px"> O resumo (Abstract) já está em português.
-- <img src="assets/icons/human_20_black.svg" width="18px"> Palavras-chave:
-    * <img src="assets/icons/human_11_black.svg" width="18px">   Bambu
-    * <img src="assets/icons/human_08_black.svg" width="18px">   Tanino
-    * <img src="assets/icons/human_16_black.svg" width="18px">   Tecnologia Social
+- <img src="../../../../../../assets/icons/human_18_black.svg" width="18px"> O resumo (Abstract) já está em português.
+- <img src="../../../../../../assets/icons/human_20_black.svg" width="18px"> Palavras-chave:
+    * <img src="../../../../../../assets/icons/human_11_black.svg" width="18px">   Bambu
+    * <img src="../../../../../../assets/icons/human_08_black.svg" width="18px">   Tanino
+    * <img src="../../../../../../assets/icons/human_16_black.svg" width="18px">   Tecnologia Social
 
 ### 3. EXTRAÇÃO DE DATOS (TABELA)
 
@@ -55,13 +55,13 @@ ACERVO DIGITAL MULHERES QUE TECEM A FLORESTA. **Produção de uma unidade de tra
 
 **Coordenadas Geográficas:**
 Não foram fornecidas coordenadas geográficas explícitas no texto. No entanto, foram mencionadas as seguintes localidades:
-* <img src="assets/icons/human_17_black.svg" width="18px">   **Acre:** <img src="assets/icons/human_17_black.svg" width="18px"> Local da maior floresta nativa de bambu do planeta. (Localizado na área de abrangência do projeto "Amazônia Setentrional").
-* <img src="assets/icons/human_13_black.svg" width="18px">   **Planaltina/Brasília:** <img src="assets/icons/human_13_black.svg" width="18px"> Locais de atuação da UnB/Campus Planaltina e IFB/Planaltina, onde a unidade de tratamento de bambu será implantada. (Não estão na área de abrangência do projeto "Amazônia Setentrional").
-* <img src="assets/icons/human_03_black.svg" width="18px">   **Estação Ecológica Águas Emendadas (DF):** <img src="assets/icons/human_03_black.svg" width="18px"> Local de manejo de bambu exótico invasor em parceria com o IBRAM. (Não está na área de abrangência do projeto "Amazônia Setentrional").
+* <img src="../../../../../../assets/icons/human_17_black.svg" width="18px">   **Acre:** <img src="../../../../../../assets/icons/human_17_black.svg" width="18px"> Local da maior floresta nativa de bambu do planeta. (Localizado na área de abrangência do projeto "Amazônia Setentrional").
+* <img src="../../../../../../assets/icons/human_13_black.svg" width="18px">   **Planaltina/Brasília:** <img src="../../../../../../assets/icons/human_13_black.svg" width="18px"> Locais de atuação da UnB/Campus Planaltina e IFB/Planaltina, onde a unidade de tratamento de bambu será implantada. (Não estão na área de abrangência do projeto "Amazônia Setentrional").
+* <img src="../../../../../../assets/icons/human_03_black.svg" width="18px">   **Estação Ecológica Águas Emendadas (DF):** <img src="../../../../../../assets/icons/human_03_black.svg" width="18px"> Local de manejo de bambu exótico invasor em parceria com o IBRAM. (Não está na área de abrangência do projeto "Amazônia Setentrional").
 
 ### 4. Extrair Bibliografia citada no texto
-* <img src="assets/icons/human_07_black.svg" width="18px">   EMBRAPA. [Título da publicação não especificado no texto]. [Local de publicação não especificado]: EMBRAPA, 2017.
-    * <img src="assets/icons/human_19_black.svg" width="18px">   *Nota: A referência completa não é fornecida no texto, apenas a citação abreviada.*
+* <img src="../../../../../../assets/icons/human_07_black.svg" width="18px">   EMBRAPA. [Título da publicação não especificado no texto]. [Local de publicação não especificado]: EMBRAPA, 2017.
+    * <img src="../../../../../../assets/icons/human_19_black.svg" width="18px">   *Nota: A referência completa não é fornecida no texto, apenas a citação abreviada.*
 
 ---
 
@@ -72,4 +72,4 @@ Não foram fornecidas coordenadas geográficas explícitas no texto. No entanto,
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

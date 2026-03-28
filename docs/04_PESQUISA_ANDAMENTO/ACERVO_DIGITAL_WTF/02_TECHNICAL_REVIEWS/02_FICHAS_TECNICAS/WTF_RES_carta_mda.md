@@ -12,7 +12,7 @@ ano_publicacao: '2025'
 
 <p align="right"><i>"O Brasil é uma invenção de si mesmo."<br>— João Ubaldo Ribeiro</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: WTF_RES_carta_mda.md
@@ -22,7 +22,7 @@ ano_publicacao: '2025'
 
 <!-- image -->
 
-<img src="assets/icons/human_01_red.svg" width="18px"><img src="assets/icons/human_01_red.svg" width="18px"> <img src="assets/icons/human_01_red.svg" width="18px"> <img src="assets/icons/human_01_red.svg" width="18px"><img src="assets/icons/human_01_red.svg" width="18px"> - 中国 - 巴⻄：可持续⽵业与创新技术
+<img src="../../../../../../assets/icons/human_01_red.svg" width="18px"><img src="../../../../../../assets/icons/human_01_red.svg" width="18px"> <img src="../../../../../../assets/icons/human_01_red.svg" width="18px"> <img src="../../../../../../assets/icons/human_01_red.svg" width="18px"><img src="../../../../../../assets/icons/human_01_red.svg" width="18px"> - 中国 - 巴⻄：可持续⽵业与创新技术
 
 ## À
 
@@ -43,4 +43,4 @@ Prezados(as) Senhores(as) da SAF/MDA,
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

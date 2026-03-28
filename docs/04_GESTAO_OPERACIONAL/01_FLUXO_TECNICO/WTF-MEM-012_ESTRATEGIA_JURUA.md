@@ -13,7 +13,7 @@ date: '2026-03-26'
 
 <p align="right"><i>"O que vale na vida não é o ponto de partida e sim a caminhada."<br>— Cora Coralina</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: WTF-MEM-012_ESTRATEGIA_JURUA.md
@@ -37,22 +37,22 @@ O Rio Juruá apresenta desafios únicos de navegabilidade que demandam uma frota
 ## 3. Recomendações de Ação
 
 ### 3.1. Transição Tecnológica e Materiais
-- <img src="assets/icons/human_07_black.svg" width="18px"> **PRIORIZAR o uso de Bambu (Guadua spp.)** <img src="assets/icons/human_07_black.svg" width="18px"> na construção local, visando a redução de até 96% nas emissões de logística e o fortalecimento da Patente Social do projeto.
-- <img src="assets/icons/human_02_black.svg" width="18px"> UTILIZAR o **alumínio naval** <img src="assets/icons/human_02_black.svg" width="18px"> como alternativa estratégica ao aço para componentes que exijam alta leveza e baixa manutenção (ACV), especialmente em embarcações de serviço rápido.
+- <img src="../../../../assets/icons/human_07_black.svg" width="18px"> **PRIORIZAR o uso de Bambu (Guadua spp.)** <img src="../../../../assets/icons/human_07_black.svg" width="18px"> na construção local, visando a redução de até 96% nas emissões de logística e o fortalecimento da Patente Social do projeto.
+- <img src="../../../../assets/icons/human_02_black.svg" width="18px"> UTILIZAR o **alumínio naval** <img src="../../../../assets/icons/human_02_black.svg" width="18px"> como alternativa estratégica ao aço para componentes que exijam alta leveza e baixa manutenção (ACV), especialmente em embarcações de serviço rápido.
 
 ### 3.2. Valorização do Acervo Industrial Local
-- <img src="assets/icons/human_18_black.svg" width="18px"> INTEGRAR os mestres bajoleiros do Miritizal nas oficinas de capacitação para aprimoramento de cascos e integração de sistemas de energia renovável.
-- <img src="assets/icons/human_17_black.svg" width="18px"> ESTABELECER parcerias com fornecedores locais (ex: Marco & Márcio) para logística rápida de insumos.
+- <img src="../../../../assets/icons/human_18_black.svg" width="18px"> INTEGRAR os mestres bajoleiros do Miritizal nas oficinas de capacitação para aprimoramento de cascos e integração de sistemas de energia renovável.
+- <img src="../../../../assets/icons/human_17_black.svg" width="18px"> ESTABELECER parcerias com fornecedores locais (ex: Marco & Márcio) para logística rápida de insumos.
 
 ### 3.3. Ciclo Bioeconômico (Bambu)
-- <img src="assets/icons/human_12_black.svg" width="18px"> UTILIZAR a rede fluvial para o escoamento planejado de **biomassa de bambu** <img src="assets/icons/human_12_black.svg" width="18px"> (*Guadua spp.*).
-- <img src="assets/icons/human_19_black.svg" width="18px"> IMPLEMENTAR unidades de briquetagem na origem (Acre) para viabilizar o frete fluvial até centros consumidores/processadores.
+- <img src="../../../../assets/icons/human_12_black.svg" width="18px"> UTILIZAR a rede fluvial para o escoamento planejado de **biomassa de bambu** <img src="../../../../assets/icons/human_12_black.svg" width="18px"> (*Guadua spp.*).
+- <img src="../../../../assets/icons/human_19_black.svg" width="18px"> IMPLEMENTAR unidades de briquetagem na origem (Acre) para viabilizar o frete fluvial até centros consumidores/processadores.
 
 ## 4. Georreferenciamento de Operação
 As seguintes coordenadas devem ser integradas ao  Plotter para monitoramento em tempo real:
-- <img src="assets/icons/human_20_black.svg" width="18px"> **Hub CZS:** <img src="assets/icons/human_20_black.svg" width="18px"> `7° 37′ 52″ S, 72° 40′ 10″ O`
-- <img src="assets/icons/human_08_black.svg" width="18px"> **Ponto Ipixuna:** <img src="assets/icons/human_08_black.svg" width="18px"> `7° 03′ 03″ S, 71° 41′ 42″ O`
-- <img src="assets/icons/human_01_black.svg" width="18px"> **Eixo Purus (Vizinhança):** <img src="assets/icons/human_01_black.svg" width="18px"> `3° 40′ 55″ S, 61° 28′ 31″ O` (Monitoramento de vulnerabilidades)
+- <img src="../../../../assets/icons/human_20_black.svg" width="18px"> **Hub CZS:** <img src="../../../../assets/icons/human_20_black.svg" width="18px"> `7° 37′ 52″ S, 72° 40′ 10″ O`
+- <img src="../../../../assets/icons/human_08_black.svg" width="18px"> **Ponto Ipixuna:** <img src="../../../../assets/icons/human_08_black.svg" width="18px"> `7° 03′ 03″ S, 71° 41′ 42″ O`
+- <img src="../../../../assets/icons/human_01_black.svg" width="18px"> **Eixo Purus (Vizinhança):** <img src="../../../../assets/icons/human_01_black.svg" width="18px"> `3° 40′ 55″ S, 61° 28′ 31″ O` (Monitoramento de vulnerabilidades)
 
 ## 5. Próximos Passos
 1. Inclusão do Relatório Técnico [RES_analise-geoestrategica-jurua.md](../../02_DIAGNOSTICO DE AREA/02_ESTUDOS_E_PESQUISAS/RES_analise-geoestrategica-jurua.md) no acervo oficial.
@@ -68,4 +68,4 @@ As seguintes coordenadas devem ser integradas ao  Plotter para monitoramento em 
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

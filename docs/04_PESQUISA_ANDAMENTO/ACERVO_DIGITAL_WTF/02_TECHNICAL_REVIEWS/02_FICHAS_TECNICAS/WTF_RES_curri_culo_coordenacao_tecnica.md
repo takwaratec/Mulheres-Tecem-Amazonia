@@ -12,7 +12,7 @@ ano_publicacao: '2025'
 
 <p align="right"><i>"A força do lugar é a força do mundo."<br>— Milton Santos</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: WTF_RES_curri_culo_coordenacao_tecnica.md
@@ -28,15 +28,13 @@ Pioneiro no desenvolvimento de soluções sustentáveis com bambu e PU Vegetal, 
 
 ## Contato:
 
-- <img src="assets/icons/human_14_black.svg" width="18px"> Email: fabioInstitucional@gmail.com
+- <img src="../../../../../../assets/icons/human_14_black.svg" width="18px"> Email: fabioInstitucional@gmail.com
 
-- <img src="assets/icons/human_09_black.svg" width="18px"> WhatsApp: (35)99761-1319
+- <img src="../../../../../../assets/icons/human_09_black.svg" width="18px"> WhatsApp: (35)99761-1319
 
-- <img src="assets/icons/human_08_black.svg" width="18px"> Repositório de Projetos: https://resck.github.io/Institucional-Tech/
+- <img src="../../../../../../assets/icons/human_08_black.svg" width="18px"> Repositório de Projetos: https://resck.github.io/Institucional-Tech/
 
-- <img src="assets/icons/human_12_black.svg" width="18px"> Empresa: Ecolaborativa LTDA - <img src="assets/icons/human_12_black.svg" width="18px"> ...
-
----
+- <img src="../../../../../../assets/icons/human_12_black.svg" width="18px"> Empresa: Ecolaborativa LTDA - <img src="../../../../../../assets/icons/human_12_black.svg" width="18px"> ...
 
 ---
 
@@ -45,4 +43,6 @@ Pioneiro no desenvolvimento de soluções sustentáveis com bambu e PU Vegetal, 
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+
+---
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

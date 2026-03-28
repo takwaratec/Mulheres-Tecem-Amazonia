@@ -5,7 +5,7 @@
 
 <p align="right"><i>"As invenções são o resultado de um trabalho teimoso."<br>— Santos Dumont</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Documento**: FICHA_WTF_RAW_2015_-_Tratamento_tanino.md
@@ -27,13 +27,13 @@ REFERÊNCIA BIBLIOGRÁFICA (ABNT):
 CARBONARI, Gilberto. **Tratamento Natural do Bambu com Tanino**. Patente BR 10 2013 020788-8 A2. Depositada em 15 ago. 2013. Publicada em 14 jul. 2015, Revista da Propriedade Industrial (RPI) n. 2323.
 
 ### 2. TRADUÇÃO E SÍNTESE TÉCNICA
-- <img src="assets/icons/human_13_black.svg" width="18px">   **Resumo (Abstract):**
+- <img src="../../../../../../assets/icons/human_13_black.svg" width="18px">   **Resumo (Abstract):**
     A presente invenção descreve a utilização de um preservativo para aumento da vida útil (durabilidade) dos colmos (varas) de bambu por meio de um tratamento natural com TANINO, inibindo a ação dos agentes agressivos (carunchos e fungos).
 
-- <img src="assets/icons/human_05_black.svg" width="18px">   **Palavras-chave:**
-    * <img src="assets/icons/human_01_black.svg" width="18px">   Tanino
-    * <img src="assets/icons/human_06_black.svg" width="18px">   Bambu
-    * <img src="assets/icons/human_18_black.svg" width="18px">   Preservação Natural
+- <img src="../../../../../../assets/icons/human_05_black.svg" width="18px">   **Palavras-chave:**
+    * <img src="../../../../../../assets/icons/human_01_black.svg" width="18px">   Tanino
+    * <img src="../../../../../../assets/icons/human_06_black.svg" width="18px">   Bambu
+    * <img src="../../../../../../assets/icons/human_18_black.svg" width="18px">   Preservação Natural
 
 ### 3. EXTRAÇÃO DE DADOS (TABELA)
 
@@ -65,7 +65,7 @@ O texto fornecido é um extrato de um relatório descritivo de patente, que não
 
 <p align="right"><i>"Eu sou a favor do Brasil real."<br>— Ariano Suassuna</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_WTF_RAW_2015_-_Tratamento_tanino.md
@@ -78,4 +78,4 @@ O texto fornecido é um extrato de um relatório descritivo de patente, que não
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

@@ -3,6 +3,12 @@ site_url: "https://takwaratec.github.io/Mulheres-Tecem-Amazonia/"
 repo_url: "https://github.com/takwaratec/Mulheres-Tecem-Amazonia"
 edit_uri: ""
 
+# --- ADICIONE ESTAS LINHAS ---
+use_directory_urls: true
+strict: false # Permite que o deploy continue mesmo se houver avisos de links
+remote_branch: gh-pages # Define a branch de destino do deploy
+remote_name: origin
+
 theme:
   name: material
   custom_dir: docs/overrides
@@ -64,5 +70,4 @@ nav:
       - Leitura Global: 04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/AUDITORIA_E_GERAL/WTF_LEITURA-GLOBAL-PROJETO.md
       - Coração Térmico: 04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/ENG-MEM-MASTER_CORACAO-TERMICO.md
 
-extra:
-  return_to_dashboard: "../../index.html"
+

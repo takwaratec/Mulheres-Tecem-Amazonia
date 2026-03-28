@@ -9,7 +9,7 @@ tags: ["Orçamento", "BNDES", "Fundo Amazônia", "Gestão", "OPEX", "CAPEX", "Qu
 
 <p align="right"><i>"Ensinar não é transferir conhecimento, mas criar as possibilidades para a sua própria produção ou a sua construção."<br>— Paulo Freire</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: BUDGET_orcamento-30mi-qualificado.md
@@ -87,9 +87,9 @@ tags: ["Orçamento", "BNDES", "Fundo Amazônia", "Gestão", "OPEX", "CAPEX", "Qu
 
 ## CONTRAPARTIDA E INDICADORES
 
-- <img src="assets/icons/human_18_black.svg" width="18px"> **Contrapartida Não Financeira:** <img src="assets/icons/human_18_black.svg" width="18px"> R$ 4.000.000
-- <img src="assets/icons/human_01_black.svg" width="18px"> **Valor Total do Projeto (com contrapartida):** <img src="assets/icons/human_01_black.svg" width="18px"> **R$ 34.000.000**
-- <img src="assets/icons/human_14_black.svg" width="18px"> **Solicitação ao BNDES/Fundo Amazônia:** <img src="assets/icons/human_14_black.svg" width="18px"> **R$ 30.000.000**
+- <img src="../../../../assets/icons/human_18_black.svg" width="18px"> **Contrapartida Não Financeira:** <img src="../../../../assets/icons/human_18_black.svg" width="18px"> R$ 4.000.000
+- <img src="../../../../assets/icons/human_01_black.svg" width="18px"> **Valor Total do Projeto (com contrapartida):** <img src="../../../../assets/icons/human_01_black.svg" width="18px"> **R$ 34.000.000**
+- <img src="../../../../assets/icons/human_14_black.svg" width="18px"> **Solicitação ao BNDES/Fundo Amazônia:** <img src="../../../../assets/icons/human_14_black.svg" width="18px"> **R$ 30.000.000**
 
 > [!NOTE]
 > **INDICADORES DE EFICIÊNCIA:**
@@ -104,4 +104,4 @@ tags: ["Orçamento", "BNDES", "Fundo Amazônia", "Gestão", "OPEX", "CAPEX", "Qu
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

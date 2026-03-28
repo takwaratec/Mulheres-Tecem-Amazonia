@@ -13,7 +13,7 @@ date: '2026-03-24'
 
 <p align="right"><i>"O homem é o estilo."<br>— Machado de Assis</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: NT-ENG-001_SINFONIA-FLUVIAL-AMAZONICA.md
@@ -43,15 +43,15 @@ O monitoramento geoespacial das embarcações integra os seguintes nós logísti
 
 A embarcação atua como uma **indústria volante** equipada com o módulo integrado de bioenergia:
 
-- <img src="assets/icons/human_03_black.svg" width="18px"> **Pasteurização HTST**: Capacidade de **100 Litros/Hora** <img src="assets/icons/human_03_black.svg" width="18px"> a 85°C utilizando calor residual do reator pirolítico. Garante a estabilidade enzimática da polpa de açaí *in situ*.
-- <img src="assets/icons/human_09_black.svg" width="18px"> **Moagem de Polímeros**: Moinho de facas (20-40 kg/h) para densificação de passivos PET/PEAD coletados. Mitigação local do derrame de **182.000 t/ano** <img src="assets/icons/human_09_black.svg" width="18px"> de plásticos no sistema fluvial [1].
-- <img src="assets/icons/human_01_black.svg" width="18px"> **Saneamento (STAC)**: Filtração de água via biochar ativado, garantindo água potável para o processamento e para a tripulação (Mitigação do Custo Social de Saúde de R$ 174M/ano [7]).
+- <img src="../../../../../../assets/icons/human_03_black.svg" width="18px"> **Pasteurização HTST**: Capacidade de **100 Litros/Hora** <img src="../../../../../../assets/icons/human_03_black.svg" width="18px"> a 85°C utilizando calor residual do reator pirolítico. Garante a estabilidade enzimática da polpa de açaí *in situ*.
+- <img src="../../../../../../assets/icons/human_09_black.svg" width="18px"> **Moagem de Polímeros**: Moinho de facas (20-40 kg/h) para densificação de passivos PET/PEAD coletados. Mitigação local do derrame de **182.000 t/ano** <img src="../../../../../../assets/icons/human_09_black.svg" width="18px"> de plásticos no sistema fluvial [1].
+- <img src="../../../../../../assets/icons/human_01_black.svg" width="18px"> **Saneamento (STAC)**: Filtração de água via biochar ativado, garantindo água potável para o processamento e para a tripulação (Mitigação do Custo Social de Saúde de R$ 174M/ano [7]).
 
 ## 4. Viabilidade Financeira (Orçamento Consolidado)
 
-- <img src="assets/icons/human_17_black.svg" width="18px"> **CAPEX Módulo Base**: **R$ 28.500,00** <img src="assets/icons/human_17_black.svg" width="18px"> (Inclui reator, prensa de 20t e filtros).
-- <img src="assets/icons/human_02_black.svg" width="18px"> **CAPEX Embarcação**: **R$ 18.500,00** <img src="assets/icons/human_02_black.svg" width="18px"> (Estrutura bambu termorretificado + PU Mamona).
-- <img src="assets/icons/human_14_black.svg" width="18px"> **Payback Social**: Estimado em 18 meses via substituição de GLP/Diesel e certificação de origem para açaí premium.
+- <img src="../../../../../../assets/icons/human_17_black.svg" width="18px"> **CAPEX Módulo Base**: **R$ 28.500,00** <img src="../../../../../../assets/icons/human_17_black.svg" width="18px"> (Inclui reator, prensa de 20t e filtros).
+- <img src="../../../../../../assets/icons/human_02_black.svg" width="18px"> **CAPEX Embarcação**: **R$ 18.500,00** <img src="../../../../../../assets/icons/human_02_black.svg" width="18px"> (Estrutura bambu termorretificado + PU Mamona).
+- <img src="../../../../../../assets/icons/human_14_black.svg" width="18px"> **Payback Social**: Estimado em 18 meses via substituição de GLP/Diesel e certificação de origem para açaí premium.
 
 ## 5. Bibliografia e Sync-Link
 
@@ -69,4 +69,4 @@ A embarcação atua como uma **indústria volante** equipada com o módulo integ
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

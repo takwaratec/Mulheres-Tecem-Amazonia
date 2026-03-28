@@ -13,7 +13,7 @@ date: '2026-03-26'
 
 <p align="right"><i>"Arte sem ética não é arte."<br>— Ariano Suassuna</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_Bem-estar+e+Sustentabilidade.md
@@ -27,11 +27,11 @@ Com prazer, atuo como Pesquisador Sênior e Analista de Dados para o Projeto WTF
 
 ## 1. METADADOS E CABEÇALHO
 
-* <img src="assets/icons/human_09_black.svg" width="18px">   **projeto:** <img src="assets/icons/human_09_black.svg" width="18px"> Mulheres Que Tecem a Floresta
-* <img src="assets/icons/human_13_black.svg" width="18px">   **instituicao:** <img src="assets/icons/human_13_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
-* <img src="assets/icons/human_04_black.svg" width="18px">   **tipo:** <img src="assets/icons/human_04_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
-* <img src="assets/icons/human_02_black.svg" width="18px">   **referencia:** <img src="assets/icons/human_02_black.svg" width="18px"> PES-TEC-5600-2026
-* <img src="assets/icons/human_10_black.svg" width="18px">   **status:** <img src="assets/icons/human_10_black.svg" width="18px"> Ready
+* <img src="../../../../../assets/icons/human_09_black.svg" width="18px">   **projeto:** <img src="../../../../../assets/icons/human_09_black.svg" width="18px"> Mulheres Que Tecem a Floresta
+* <img src="../../../../../assets/icons/human_13_black.svg" width="18px">   **instituicao:** <img src="../../../../../assets/icons/human_13_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
+* <img src="../../../../../assets/icons/human_04_black.svg" width="18px">   **tipo:** <img src="../../../../../assets/icons/human_04_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
+* <img src="../../../../../assets/icons/human_02_black.svg" width="18px">   **referencia:** <img src="../../../../../assets/icons/human_02_black.svg" width="18px"> PES-TEC-5600-2026
+* <img src="../../../../../assets/icons/human_10_black.svg" width="18px">   **status:** <img src="../../../../../assets/icons/human_10_black.svg" width="18px"> Ready
 
 **REFERÊNCIA BIBLIOGRÁFICA (ABNT):**
 
@@ -70,16 +70,16 @@ Este estudo teve como objetivo compreender o sentimento de esperança da popula
 
 Este estudo é de grande relevância para o Projeto "Mulheres Que Tecem a Floresta" (WTF), pois lança luz sobre as realidades e desafios de uma comunidade amazônica ribeirinha, com especial atenção ao papel das mulheres e à preservação de saberes ancestrais.
 
-* <img src="assets/icons/human_15_black.svg" width="18px">   **Benefícios para as mulheres extrativistas:**
-    * <img src="assets/icons/human_07_black.svg" width="18px">   **Visibilidade e Valorização do Trabalho Feminino:** <img src="assets/icons/human_07_black.svg" width="18px"> O texto destaca explicitamente que "a colheita do óleo da andiroba é feita majoritariamente por mulheres" (Melo & Bezerra, 2022), e menciona o papel de "Dona Nena" na fábrica de chocolate "Filha do Combú", que utiliza cacau local e fortalece a bioeconomia e a mão de obra local. Isso alinha-se diretamente com o foco do Projeto WTF em dar visibilidade ao trabalho e à liderança feminina nas cadeias produtivas extrativistas.
-    * <img src="assets/icons/human_18_black.svg" width="18px">   **Identificação de Vulnerabilidades:** <img src="assets/icons/human_18_black.svg" width="18px"> A pesquisa revela as pressões do desenvolvimento turístico sobre a pesca e o extrativismo, impactando negativamente o modo de vida tradicional. A escassez de peixe, a poluição e a falta de políticas públicas afetam diretamente a subsistência das mulheres que dependem dessas atividades, permitindo ao Projeto WTF direcionar ações de apoio e advocacy.
-    * <img src="assets/icons/human_03_black.svg" width="18px">   **Potencial de Empreendedorismo Sustentável:** <img src="assets/icons/human_03_black.svg" width="18px"> Embora a pesquisa aponte desafios, ela também mostra o potencial de empreendedorismo orgânico e sustentável na ilha (como a fábrica de chocolate e produtos artesanais com sementes da Amazônia). O Projeto WTF pode usar esses exemplos para inspirar e capacitar outras mulheres extrativistas a desenvolverem negócios que agreguem valor aos recursos da floresta de forma sustentável.
-    * <img src="assets/icons/human_05_black.svg" width="18px">   **Saúde e Bem-Estar:** <img src="assets/icons/human_05_black.svg" width="18px"> A pesquisa explora o bem-estar e a qualidade de vida, elementos cruciais para as mulheres que frequentemente carregam a dupla carga do trabalho produtivo e reprodutivo. Entender as carências (saúde, saneamento, educação) permite ao WTF defender políticas que melhorem essas condições para as mulheres e suas famílias.
+* <img src="../../../../../assets/icons/human_15_black.svg" width="18px">   **Benefícios para as mulheres extrativistas:**
+    * <img src="../../../../../assets/icons/human_07_black.svg" width="18px">   **Visibilidade e Valorização do Trabalho Feminino:** <img src="../../../../../assets/icons/human_07_black.svg" width="18px"> O texto destaca explicitamente que "a colheita do óleo da andiroba é feita majoritariamente por mulheres" (Melo & Bezerra, 2022), e menciona o papel de "Dona Nena" na fábrica de chocolate "Filha do Combú", que utiliza cacau local e fortalece a bioeconomia e a mão de obra local. Isso alinha-se diretamente com o foco do Projeto WTF em dar visibilidade ao trabalho e à liderança feminina nas cadeias produtivas extrativistas.
+    * <img src="../../../../../assets/icons/human_18_black.svg" width="18px">   **Identificação de Vulnerabilidades:** <img src="../../../../../assets/icons/human_18_black.svg" width="18px"> A pesquisa revela as pressões do desenvolvimento turístico sobre a pesca e o extrativismo, impactando negativamente o modo de vida tradicional. A escassez de peixe, a poluição e a falta de políticas públicas afetam diretamente a subsistência das mulheres que dependem dessas atividades, permitindo ao Projeto WTF direcionar ações de apoio e advocacy.
+    * <img src="../../../../../assets/icons/human_03_black.svg" width="18px">   **Potencial de Empreendedorismo Sustentável:** <img src="../../../../../assets/icons/human_03_black.svg" width="18px"> Embora a pesquisa aponte desafios, ela também mostra o potencial de empreendedorismo orgânico e sustentável na ilha (como a fábrica de chocolate e produtos artesanais com sementes da Amazônia). O Projeto WTF pode usar esses exemplos para inspirar e capacitar outras mulheres extrativistas a desenvolverem negócios que agreguem valor aos recursos da floresta de forma sustentável.
+    * <img src="../../../../../assets/icons/human_05_black.svg" width="18px">   **Saúde e Bem-Estar:** <img src="../../../../../assets/icons/human_05_black.svg" width="18px"> A pesquisa explora o bem-estar e a qualidade de vida, elementos cruciais para as mulheres que frequentemente carregam a dupla carga do trabalho produtivo e reprodutivo. Entender as carências (saúde, saneamento, educação) permite ao WTF defender políticas que melhorem essas condições para as mulheres e suas famílias.
 
-* <img src="assets/icons/human_11_black.svg" width="18px">   **Relação com saberes ancestrais (Tania, Sonia, Georgia):**
-    * <img src="assets/icons/human_17_black.svg" width="18px">   O estudo fornece exemplos concretos de como os saberes ancestrais estão intrinsecamente ligados às práticas extrativistas e à cosmovisão das comunidades ribeirinhas. A menção às "crenças associadas à colheita" do óleo de andiroba, onde as mulheres que trabalham na extração não devem estar em período menstrual ou mau-humor para que o óleo escorra apropriadamente, é um testemunho vívido de um saber tradicional transmitido e preservado por gerações. Esse tipo de conhecimento, que transcende a mera técnica para incluir aspectos espirituais e sociais, é fundamental para o Projeto WTF.
-    * <img src="assets/icons/human_01_black.svg" width="18px">   As figuras de Tania, Sonia e Georgia, como representantes de guardiãs desses conhecimentos, encontram na Ilha do Combú um paralelo com a rica tapeçaria de saberes sobre o manejo da floresta, a colheita de frutos (açaí, cacau), a pesca e o uso medicinal de plantas como a andiroba.
-    * <img src="assets/icons/human_19_black.svg" width="18px">   O texto reforça a importância de escutar as comunidades ribeirinhas e seus "povos originários", defendendo a proteção da "fauna, flora e cultura amazônica". Isso ressoa com a missão do WTF de documentar, valorizar e fortalecer a transmissão desses saberes, garantindo que a memória e as práticas de manejo ancestral continuem a guiar o desenvolvimento sustentável e a resiliência comunitária. A pesquisa sugere que o desequilíbrio ambiental impacta o "próprio modo de vida tradicional da comunidade", o que inclui a perda desses saberes.
+* <img src="../../../../../assets/icons/human_11_black.svg" width="18px">   **Relação com saberes ancestrais (Tania, Sonia, Georgia):**
+    * <img src="../../../../../assets/icons/human_17_black.svg" width="18px">   O estudo fornece exemplos concretos de como os saberes ancestrais estão intrinsecamente ligados às práticas extrativistas e à cosmovisão das comunidades ribeirinhas. A menção às "crenças associadas à colheita" do óleo de andiroba, onde as mulheres que trabalham na extração não devem estar em período menstrual ou mau-humor para que o óleo escorra apropriadamente, é um testemunho vívido de um saber tradicional transmitido e preservado por gerações. Esse tipo de conhecimento, que transcende a mera técnica para incluir aspectos espirituais e sociais, é fundamental para o Projeto WTF.
+    * <img src="../../../../../assets/icons/human_01_black.svg" width="18px">   As figuras de Tania, Sonia e Georgia, como representantes de guardiãs desses conhecimentos, encontram na Ilha do Combú um paralelo com a rica tapeçaria de saberes sobre o manejo da floresta, a colheita de frutos (açaí, cacau), a pesca e o uso medicinal de plantas como a andiroba.
+    * <img src="../../../../../assets/icons/human_19_black.svg" width="18px">   O texto reforça a importância de escutar as comunidades ribeirinhas e seus "povos originários", defendendo a proteção da "fauna, flora e cultura amazônica". Isso ressoa com a missão do WTF de documentar, valorizar e fortalecer a transmissão desses saberes, garantindo que a memória e as práticas de manejo ancestral continuem a guiar o desenvolvimento sustentável e a resiliência comunitária. A pesquisa sugere que o desequilíbrio ambiental impacta o "próprio modo de vida tradicional da comunidade", o que inclui a perda desses saberes.
 
 ## 5. EXTRAÇÃO DE BIBLIOGRAFIA CITADA NO TEXTO (ABNT)
 
@@ -119,9 +119,9 @@ A seguir, a lista de todas as referências citadas no texto, formatadas segundo 
 
 **Referências citadas no texto, mas não encontradas na bibliografia do documento original (ou incompletas):**
 
-* <img src="assets/icons/human_20_black.svg" width="18px">   A Ilha do Combú, 2025 (citado no texto, mas sem entrada na bibliografia).
-* <img src="assets/icons/human_06_black.svg" width="18px">   ICMBio (2025) (citado na Tabela 1, mas sem entrada na bibliografia).
-* <img src="assets/icons/human_16_black.svg" width="18px">   Miranda e Moreira (2024) (citado na Tabela 1, mas sem entrada na bibliografia).
+* <img src="../../../../../assets/icons/human_20_black.svg" width="18px">   A Ilha do Combú, 2025 (citado no texto, mas sem entrada na bibliografia).
+* <img src="../../../../../assets/icons/human_06_black.svg" width="18px">   ICMBio (2025) (citado na Tabela 1, mas sem entrada na bibliografia).
+* <img src="../../../../../assets/icons/human_16_black.svg" width="18px">   Miranda e Moreira (2024) (citado na Tabela 1, mas sem entrada na bibliografia).
 
 ---
 
@@ -132,4 +132,4 @@ A seguir, a lista de todas as referências citadas no texto, formatadas segundo 
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

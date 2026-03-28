@@ -15,7 +15,7 @@ doi: 10.5281/zenodo.18827106
 
 <p align="right"><i>"Inventar é imaginar o que os outros não pensaram."<br>— Santos Dumont</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: ENG-NT-T02-01_MINI-REATOR.md
@@ -29,9 +29,9 @@ doi: 10.5281/zenodo.18827106
 Focado na eficiência de captura do **Extrato Pirolenhoso (Vinagre de Madeira)** e na queima direta dos gases n-condensáveis para retroalimentação térmica em polos comunitários.
 
 ## 2. Diferenciais e Simplificação
-- <img src="assets/icons/human_01_black.svg" width="18px"> **Ausência de Cascateamento de Metanol:** <img src="assets/icons/human_01_black.svg" width="18px"> Reduz a necessidade de vasos de pressão certificados.
-- <img src="assets/icons/human_12_black.svg" width="18px"> **Alimentação Manual:** <img src="assets/icons/human_12_black.svg" width="18px"> Controle térmico via ajuste de ar no Rocket Stove.
-- <img src="assets/icons/human_06_black.svg" width="18px"> **Manutenibilidade:** <img src="assets/icons/human_06_black.svg" width="18px"> Conexões via flanges simples ou selagem com barro/cinza.
+- <img src="../../../../../../assets/icons/human_01_black.svg" width="18px"> **Ausência de Cascateamento de Metanol:** <img src="../../../../../../assets/icons/human_01_black.svg" width="18px"> Reduz a necessidade de vasos de pressão certificados.
+- <img src="../../../../../../assets/icons/human_12_black.svg" width="18px"> **Alimentação Manual:** <img src="../../../../../../assets/icons/human_12_black.svg" width="18px"> Controle térmico via ajuste de ar no Rocket Stove.
+- <img src="../../../../../../assets/icons/human_06_black.svg" width="18px"> **Manutenibilidade:** <img src="../../../../../../assets/icons/human_06_black.svg" width="18px"> Conexões via flanges simples ou selagem com barro/cinza.
 
 ## 3. Fluxo de Operação
 1. Pirólise de Biomassa em retorta suboxigenada.
@@ -48,4 +48,4 @@ Focado na eficiência de captura do **Extrato Pirolenhoso (Vinagre de Madeira)**
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

@@ -13,7 +13,7 @@ date: '2026-03-26'
 
 <p align="right"><i>"O Brasil precisa de ciência para ser soberano."<br>— Ennio Candotti</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_Bioeconomia indígena- saberes ancestrais e tecnologias sociais.md
@@ -27,12 +27,12 @@ Como Pesquisador Sênior e Analista de Dados do Projeto Mulheres Que Tecem a Flo
 
 ### 1. METADADOS E CABEÇALHO
 
-* <img src="assets/icons/human_12_black.svg" width="18px">   **projeto:** <img src="assets/icons/human_12_black.svg" width="18px"> Mulheres Que Tecem a Floresta
-* <img src="assets/icons/human_17_black.svg" width="18px">   **instituicao:** <img src="assets/icons/human_17_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
-* <img src="assets/icons/human_14_black.svg" width="18px">   **tipo:** <img src="assets/icons/human_14_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
-* <img src="assets/icons/human_03_black.svg" width="18px">   **referencia:** <img src="assets/icons/human_03_black.svg" width="18px"> PES-TEC-3871-2026
-* <img src="assets/icons/human_06_black.svg" width="18px">   **status:** <img src="assets/icons/human_06_black.svg" width="18px"> Ready
-* <img src="assets/icons/human_09_black.svg" width="18px">   **data de análise:** <img src="assets/icons/human_09_black.svg" width="18px"> 2026-03-24
+* <img src="../../../../../assets/icons/human_12_black.svg" width="18px">   **projeto:** <img src="../../../../../assets/icons/human_12_black.svg" width="18px"> Mulheres Que Tecem a Floresta
+* <img src="../../../../../assets/icons/human_17_black.svg" width="18px">   **instituicao:** <img src="../../../../../assets/icons/human_17_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
+* <img src="../../../../../assets/icons/human_14_black.svg" width="18px">   **tipo:** <img src="../../../../../assets/icons/human_14_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
+* <img src="../../../../../assets/icons/human_03_black.svg" width="18px">   **referencia:** <img src="../../../../../assets/icons/human_03_black.svg" width="18px"> PES-TEC-3871-2026
+* <img src="../../../../../assets/icons/human_06_black.svg" width="18px">   **status:** <img src="../../../../../assets/icons/human_06_black.svg" width="18px"> Ready
+* <img src="../../../../../assets/icons/human_09_black.svg" width="18px">   **data de análise:** <img src="../../../../../assets/icons/human_09_black.svg" width="18px"> 2026-03-24
 
 **REFERÊNCIA BIBLIOGRÁFICA (ABNT):**
 
@@ -46,9 +46,9 @@ Este volume da série "Cadernos da Concertação" aborda a bioeconomia sob a p
 
 **3 Palavras-chave em português:**
 
-* <img src="assets/icons/human_20_black.svg" width="18px">   Bioeconomia Indígena
-* <img src="assets/icons/human_11_black.svg" width="18px">   Saberes Ancestrais
-* <img src="assets/icons/human_18_black.svg" width="18px">   Tecnologias Sociais
+* <img src="../../../../../assets/icons/human_20_black.svg" width="18px">   Bioeconomia Indígena
+* <img src="../../../../../assets/icons/human_11_black.svg" width="18px">   Saberes Ancestrais
+* <img src="../../../../../assets/icons/human_18_black.svg" width="18px">   Tecnologias Sociais
 
 ### 3. EXTRAÇÃO DE DADOS (TABELA)
 
@@ -106,4 +106,4 @@ Em suma, o texto bruto serve como um manifesto e um manual prático para o Proje
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

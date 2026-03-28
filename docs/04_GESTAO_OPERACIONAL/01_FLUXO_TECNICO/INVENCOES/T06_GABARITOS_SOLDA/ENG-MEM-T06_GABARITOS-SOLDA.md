@@ -22,7 +22,7 @@ keywords:
 
 <p align="right"><i>"Só se aprende o que se pratica."<br>— Anísio Teixeira</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: ENG-MEM-T06_GABARITOS-SOLDA.md
@@ -53,13 +53,13 @@ Estrutura modular composta por **Colunas de Suporte Vertical**, um **Eixo Mestre
 A mesa matricial permite a montagem de treliças de até 6 metros. O uso de **Grampos Anti-Aderentes** (revestidos com Teflon) protege o maquinário contra o excedente da Solda Vegetal.
 
 ### 2.2 Variantes Construtivas
-- <img src="assets/icons/human_19_black.svg" width="18px"> **Modelo Artesanal (Legacy):** <img src="assets/icons/human_19_black.svg" width="18px"> Bancada de madeira (compensado naval) com abraçadeiras "meia-lua" em barras roscadas.
-- <img src="assets/icons/human_11_black.svg" width="18px"> **Modelo Industrial (Consolidação 5.1):** <img src="assets/icons/human_11_black.svg" width="18px"> Mesa matricial metálica (A36) perfurada a laser com **Toggle Clamps** <img src="assets/icons/human_11_black.svg" width="18px"> de fixação rápida e rotulada.
+- <img src="../../../../../../assets/icons/human_19_black.svg" width="18px"> **Modelo Artesanal (Legacy):** <img src="../../../../../../assets/icons/human_19_black.svg" width="18px"> Bancada de madeira (compensado naval) com abraçadeiras "meia-lua" em barras roscadas.
+- <img src="../../../../../../assets/icons/human_11_black.svg" width="18px"> **Modelo Industrial (Consolidação 5.1):** <img src="../../../../../../assets/icons/human_11_black.svg" width="18px"> Mesa matricial metálica (A36) perfurada a laser com **Toggle Clamps** <img src="../../../../../../assets/icons/human_11_black.svg" width="18px"> de fixação rápida e rotulada.
 
 ## 3. Bill of Materials (BoM) - Variante Industrial
-- <img src="assets/icons/human_06_black.svg" width="18px"> **Base:** <img src="assets/icons/human_06_black.svg" width="18px"> Mesa matricial A36 perfurada.
-- <img src="assets/icons/human_15_black.svg" width="18px"> **Agarras:** <img src="assets/icons/human_15_black.svg" width="18px"> Grampos rápidos (Toggle Clamps) com eixos rotulados.
-- <img src="assets/icons/human_05_black.svg" width="18px"> **Eixo:** <img src="assets/icons/human_05_black.svg" width="18px"> Sistema pivotante com rolamentos de carga pesada.
+- <img src="../../../../../../assets/icons/human_06_black.svg" width="18px"> **Base:** <img src="../../../../../../assets/icons/human_06_black.svg" width="18px"> Mesa matricial A36 perfurada.
+- <img src="../../../../../../assets/icons/human_15_black.svg" width="18px"> **Agarras:** <img src="../../../../../../assets/icons/human_15_black.svg" width="18px"> Grampos rápidos (Toggle Clamps) com eixos rotulados.
+- <img src="../../../../../../assets/icons/human_05_black.svg" width="18px"> **Eixo:** <img src="../../../../../../assets/icons/human_05_black.svg" width="18px"> Sistema pivotante com rolamentos de carga pesada.
 
 ## 4. Reivindicações
 1. **DISPOSIÇÃO INTRODUZIDA EM GABARITOS DE MONTAGEM**, caracterizada por compreender uma grade de trilhos deslizantes montada sobre estrutura de **Colunas de Apoio e Eixo Pivotante 360°**, permitindo movimentação orbital de grandes estruturas (3m+).
@@ -68,7 +68,7 @@ A mesa matricial permite a montagem de treliças de até 6 metros. O uso de **Gr
 4. **DISPOSIÇÃO**, de acordo com a reivindicação 1, caracterizada pela integração mecânica com a **Prensa T07**.
 
 ## Documentos Relacionados
-- <img src="assets/icons/human_07_black.svg" width="18px"> **ENG-NT-T06-01**: Memorial de Campo — Gabarito Vertical de Madeira.
+- <img src="../../../../../../assets/icons/human_07_black.svg" width="18px"> **ENG-NT-T06-01**: Memorial de Campo — Gabarito Vertical de Madeira.
 
 ## Como Citar
 **APA:**
@@ -83,4 +83,4 @@ Takwara, F. R. (2026). *Memorial Jurídico: Gabaritos de Montagem para Solda Veg
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

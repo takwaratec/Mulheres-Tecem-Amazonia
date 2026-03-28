@@ -13,7 +13,7 @@ date: '2026-03-26'
 
 <p align="right"><i>"Não se faz ciência sem amor ao próximo."<br>— Oswaldo Cruz</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_VABICT_Modelo_Negocio_Lei_Inovacao.md
@@ -27,28 +27,28 @@ Atuando como Pesquisador Sênior e Analista de Dados do Projeto WTF, apresento a
 
 ### 1. METADADOS E CABEÇALHO
 
-* <img src="assets/icons/human_09_black.svg" width="18px">   **Projeto:** <img src="assets/icons/human_09_black.svg" width="18px"> Mulheres Que Tecem a Floresta
-* <img src="assets/icons/human_12_black.svg" width="18px">   **Instituição:** <img src="assets/icons/human_12_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
-* <img src="assets/icons/human_05_black.svg" width="18px">   **Tipo:** <img src="assets/icons/human_05_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
-* <img src="assets/icons/human_13_black.svg" width="18px">   **Referência Interna:** <img src="assets/icons/human_13_black.svg" width="18px"> PES-TEC-3779-2026
-* <img src="assets/icons/human_08_black.svg" width="18px">   **Status:** <img src="assets/icons/human_08_black.svg" width="18px"> Ready
-* <img src="assets/icons/human_16_black.svg" width="18px">   **Nome do Analista/Pesquisador:** <img src="assets/icons/human_16_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
-* <img src="assets/icons/human_19_black.svg" width="18px">   **Data da Ficha:** <img src="assets/icons/human_19_black.svg" width="18px"> 2026-03-24
+* <img src="../../../../../assets/icons/human_09_black.svg" width="18px">   **Projeto:** <img src="../../../../../assets/icons/human_09_black.svg" width="18px"> Mulheres Que Tecem a Floresta
+* <img src="../../../../../assets/icons/human_12_black.svg" width="18px">   **Instituição:** <img src="../../../../../assets/icons/human_12_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
+* <img src="../../../../../assets/icons/human_05_black.svg" width="18px">   **Tipo:** <img src="../../../../../assets/icons/human_05_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
+* <img src="../../../../../assets/icons/human_13_black.svg" width="18px">   **Referência Interna:** <img src="../../../../../assets/icons/human_13_black.svg" width="18px"> PES-TEC-3779-2026
+* <img src="../../../../../assets/icons/human_08_black.svg" width="18px">   **Status:** <img src="../../../../../assets/icons/human_08_black.svg" width="18px"> Ready
+* <img src="../../../../../assets/icons/human_16_black.svg" width="18px">   **Nome do Analista/Pesquisador:** <img src="../../../../../assets/icons/human_16_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
+* <img src="../../../../../assets/icons/human_19_black.svg" width="18px">   **Data da Ficha:** <img src="../../../../../assets/icons/human_19_black.svg" width="18px"> 2026-03-24
 
-* <img src="assets/icons/human_17_black.svg" width="18px">   **REFERÊNCIA BIBLIOGRÁFICA (ABNT):**
+* <img src="../../../../../assets/icons/human_17_black.svg" width="18px">   **REFERÊNCIA BIBLIOGRÁFICA (ABNT):**
     AMORIM, N. L. (Org.). **Novas perspectivas da administração: transformações e tendências**. 1. ed. Recife: Omnis Scientia, 2025.
 
     *(Nota: A ficha foi elaborada com base no Capítulo 1, "Sustentáveis na Amazônia do Terceiro Setor: O Desenvolvimento de Cadeias de Valor de Produtos Amazônicos", por ser o mais diretamente alinhado ao escopo do Projeto WTF e da Amazônia. Dados numéricos relevantes do Capítulo 12, sobre o Pantanal, foram adicionados devido à sua conexão com a temática ambiental e de gestão de biomas brasileiros.)*
 
 ### 2. TRADUÇÃO E SÍNTESE TÉCNICA
 
-* <img src="assets/icons/human_07_black.svg" width="18px">   **Título do Capítulo Relevante (Original):** <img src="assets/icons/human_07_black.svg" width="18px"> SUSTENTÁVEIS NA AMAZÔNIA DO TERCEIRO SETOR: O DESENVOLVIMENTO DE CADEIAS DE VALOR DE PRODUTOS AMAZÔNICOS
-* <img src="assets/icons/human_02_black.svg" width="18px">   **Título do Capítulo Relevante (English Translation):** <img src="assets/icons/human_02_black.svg" width="18px"> SUSTAINABLE INITIATIVES IN THE AMAZON THIRD SECTOR: THE DEVELOPMENT OF AMAZON PRODUCT VALUE CHAINS
+* <img src="../../../../../assets/icons/human_07_black.svg" width="18px">   **Título do Capítulo Relevante (Original):** <img src="../../../../../assets/icons/human_07_black.svg" width="18px"> SUSTENTÁVEIS NA AMAZÔNIA DO TERCEIRO SETOR: O DESENVOLVIMENTO DE CADEIAS DE VALOR DE PRODUTOS AMAZÔNICOS
+* <img src="../../../../../assets/icons/human_02_black.svg" width="18px">   **Título do Capítulo Relevante (English Translation):** <img src="../../../../../assets/icons/human_02_black.svg" width="18px"> SUSTAINABLE INITIATIVES IN THE AMAZON THIRD SECTOR: THE DEVELOPMENT OF AMAZON PRODUCT VALUE CHAINS
 
-* <img src="assets/icons/human_10_black.svg" width="18px">   **Resumo (Abstract) Traduzido:**
+* <img src="../../../../../assets/icons/human_10_black.svg" width="18px">   **Resumo (Abstract) Traduzido:**
     O terceiro setor desempenha um papel estratégico na promoção do desenvolvimento sustentável na Amazônia, conciliando avanços socioeconômicos com a preservação ambiental. A riqueza da biodiversidade e as vulnerabilidades sociais da região tornam as iniciativas de manejo florestal sustentável e fortalecimento de cadeias de valor, como as de açaí, castanha e óleos essenciais, indispensáveis. Essas ações não apenas geram renda e impulsionam a economia regional, mas também promovem o uso responsável dos recursos naturais. Contudo, a escalabilidade e a efetividade dessas iniciativas enfrentam entraves, como a ausência de políticas públicas coordenadas, financiamento insuficiente e falta de diretrizes adequadas, limitando a replicabilidade dos modelos de manejo florestal. O estudo utilizou uma revisão de literatura em bases como Scopus, Web of Science e Spell, complementada por leituras no Google Acadêmico, para analisar estratégias integradas que vinculem o manejo sustentável ao desenvolvimento econômico em benefício das comunidades amazônicas. Além disso, técnicas de brainstorming enriqueceram a pesquisa ao destacar sua relevância. A colaboração entre o terceiro setor, o setor público e a sociedade civil é imprescindível para viabilizar uma bioeconomia inclusiva e duradoura, assegurando que o progresso econômico respeite os limites ambientais e sociais, gerando impactos positivos para o presente e o futuro.
 
-* <img src="assets/icons/human_03_black.svg" width="18px">   **3 Palavras-chave em Português:**
+* <img src="../../../../../assets/icons/human_03_black.svg" width="18px">   **3 Palavras-chave em Português:**
     1.  Bioeconomia
     2.  Amazônia
     3.  Cadeias de Valor Sustentáveis
@@ -79,14 +79,14 @@ Atuando como Pesquisador Sênior e Analista de Dados do Projeto WTF, apresento a
 
 ### 4. RELAÇÃO COM O PROJETO (CONEXÃO WTF)
 
-* <img src="assets/icons/human_14_black.svg" width="18px">   **Como isso beneficia as mulheres extrativistas?**
+* <img src="../../../../../assets/icons/human_14_black.svg" width="18px">   **Como isso beneficia as mulheres extrativistas?**
     O Capítulo 1, com seu foco no "Desenvolvimento de Cadeias de Valor de Produtos Amazônicos", é diretamente relevante para as mulheres extrativistas. A ênfase em manejo florestal sustentável e fortalecimento de cadeias de valor (açaí, castanha, óleos essenciais) traduz-se em benefícios claros:
     1.  **Geração e Aumento de Renda:** Ao estruturar e valorizar produtos da sociobiodiversidade, as iniciativas de bioeconomia criam oportunidades para que as mulheres extrativistas obtenham maior retorno financeiro por seu trabalho, contribuindo para a autonomia econômica e melhoria da qualidade de vida familiar e comunitária.
     2.  **Empoderamento e Reconhecimento:** A participação ativa em cadeias de valor sustentáveis e em redes colaborativas fortalece o papel das mulheres como produtoras, gestoras e guardiãs dos recursos naturais, aumentando seu poder de negociação e reconhecimento social.
     3.  **Capacitação e Inovação:** A necessidade de "capacitação técnica e gerencial dos produtores locais" (mencionada como desafio no Cap. 1) representa uma oportunidade para investir em programas específicos para mulheres extrativistas, ensinando técnicas de beneficiamento, controle de qualidade e acesso a mercados, que podem ser aliadas aos seus saberes tradicionais.
     4.  **Resiliência Comunitária:** Ao promover o uso responsável dos recursos e combater o desmatamento ilegal (Cap. 1 e 12), essas ações protegem o ambiente do qual as mulheres extrativistas dependem para sua subsistência e cultura, contribuindo para a segurança alimentar e a permanência em seus territórios.
 
-* <img src="assets/icons/human_04_black.svg" width="18px">   **Relação com saberes ancestrais (Tania, Sonia, Georgia):**
+* <img src="../../../../../assets/icons/human_04_black.svg" width="18px">   **Relação com saberes ancestrais (Tania, Sonia, Georgia):**
     Apesar dos nomes "Tania" e "Sonia" serem autores de um capítulo (Capítulo 14) que aborda Lei de Inovação e Ensino Superior (não diretamente relacionados a saberes ancestrais extrativistas no texto bruto), e "Georgia" não estar presente, a essência do Projeto WTF e o Capítulo 1 ressaltam a importância dos saberes ancestrais.
     1.  **Fundamento do Manejo Sustentável:** Os "saberes ancestrais" são a base do manejo florestal sustentável, que é central para a bioeconomia amazônica. As mulheres, em muitas comunidades extrativistas, são as principais detentoras e transmissoras desse conhecimento sobre ciclos da natureza, identificação de plantas medicinais, técnicas de colheita de baixo impacto (como a de castanha ou açaí), e beneficiamento de produtos da floresta.
     2.  **Valor Cultural e Econômico:** A valorização de "produtos amazônicos" e o desenvolvimento de "cadeias de valor sustentáveis" dependem da incorporação desse conhecimento tradicional para garantir a autenticidade e a qualidade dos produtos. A "bioeconomia inclusiva" idealmente integraria essas práticas ancestrais com novas tecnologias e gestão.
@@ -102,4 +102,4 @@ Atuando como Pesquisador Sênior e Analista de Dados do Projeto WTF, apresento a
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

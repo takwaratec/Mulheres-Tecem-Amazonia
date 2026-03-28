@@ -15,7 +15,7 @@ date: '2026-03-24'
 
 <p align="right"><i>"O real não está na saída nem na chegada: ele se dispõe para a gente é no meio da travessia."<br>— Guimarães Rosa</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: GOV_REGRAS_REDACAO_INSTITUCIONAL.md
@@ -23,7 +23,7 @@ date: '2026-03-24'
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
-# <img src="assets/icons/human_01_red.svg" width="18px"> Guia de Redação Institucional e Soberania Técnica
+# <img src="../../../../assets/icons/human_01_red.svg" width="18px"> Guia de Redação Institucional e Soberania Técnica
 
 **Projeto Mulheres Que Tecem a Floresta**  
 **Versão 1.0 (2026)**
@@ -31,27 +31,27 @@ date: '2026-03-24'
 ## 1. Nomenclatura e Propriedade Intelectual (PI)
 
 ### 1.1 Saneamento Ecológico
-- <img src="assets/icons/human_16_black.svg" width="18px"> **Termo Obrigatório**: **BSM — Banheiro Seco Modular**.
-- <img src="assets/icons/human_12_black.svg" width="18px"> **Atribuição**: Patente Social Takwara.
-- <img src="assets/icons/human_01_black.svg" width="18px"> **Referência Nacional**: **BER — Banheiro Ecológico Ribeirinho** <img src="assets/icons/human_01_black.svg" width="18px"> (V. Neu et al.).
-- <img src="assets/icons/human_03_black.svg" width="18px"> **Proibição**: Nunca utilizar "MycoToilet" como a tecnologia do projeto. O termo refere-se apenas a uma pesquisa canadense (UBC) de alinhamento científico.
+- <img src="../../../../assets/icons/human_16_black.svg" width="18px"> **Termo Obrigatório**: **BSM — Banheiro Seco Modular**.
+- <img src="../../../../assets/icons/human_12_black.svg" width="18px"> **Atribuição**: Patente Social Takwara.
+- <img src="../../../../assets/icons/human_01_black.svg" width="18px"> **Referência Nacional**: **BER — Banheiro Ecológico Ribeirinho** <img src="../../../../assets/icons/human_01_black.svg" width="18px"> (V. Neu et al.).
+- <img src="../../../../assets/icons/human_03_black.svg" width="18px"> **Proibição**: Nunca utilizar "MycoToilet" como a tecnologia do projeto. O termo refere-se apenas a uma pesquisa canadense (UBC) de alinhamento científico.
 
 ### 1.2 Unidades Formativas
-- <img src="assets/icons/human_20_black.svg" width="18px"> **Termo Obrigatório**: **Canteiro-Escola**.
-- <img src="assets/icons/human_04_black.svg" width="18px"> **Conceito**: Local de fabricação e transferência tecnológica (Bio-Soluções Modulares).
+- <img src="../../../../assets/icons/human_20_black.svg" width="18px"> **Termo Obrigatório**: **Canteiro-Escola**.
+- <img src="../../../../assets/icons/human_04_black.svg" width="18px"> **Conceito**: Local de fabricação e transferência tecnológica (Bio-Soluções Modulares).
 
 ### 1.3 Engenharia de Soberania
-- <img src="assets/icons/human_11_black.svg" width="18px"> Priorizar termos como: "Engenharia de Base Tecnológica Artesanal", "Bioeconomia Regenerativa" e "Soberania Vegetal".
+- <img src="../../../../assets/icons/human_11_black.svg" width="18px"> Priorizar termos como: "Engenharia de Base Tecnológica Artesanal", "Bioeconomia Regenerativa" e "Soberania Vegetal".
 
 ## 2. Rigor Científico e P&D
 
 ### 2.1 Integração de Micélios
-- <img src="assets/icons/human_13_black.svg" width="18px"> Deve ser descrita como: **P&D in situ para identificação de espécies amazônicas**. 
-- <img src="assets/icons/human_08_black.svg" width="18px"> O alinhamento com pesquisas internacionais (UBC-Canadá) serve de benchmark, mas a execução depende da biodiversidade local.
+- <img src="../../../../assets/icons/human_13_black.svg" width="18px"> Deve ser descrita como: **P&D in situ para identificação de espécies amazônicas**. 
+- <img src="../../../../assets/icons/human_08_black.svg" width="18px"> O alinhamento com pesquisas internacionais (UBC-Canadá) serve de benchmark, mas a execução depende da biodiversidade local.
 
 ### 2.2 Materiais
-- <img src="assets/icons/human_15_black.svg" width="18px"> **PU Vegetal de Mamona**: Identificar como biopolímero de baixa pegada de carbono.
-- <img src="assets/icons/human_09_black.svg" width="18px"> **Inox 316L**: Especificar como material nobre para durabilidade industrial em ambiente corrosivo (balsa).
+- <img src="../../../../assets/icons/human_15_black.svg" width="18px"> **PU Vegetal de Mamona**: Identificar como biopolímero de baixa pegada de carbono.
+- <img src="../../../../assets/icons/human_09_black.svg" width="18px"> **Inox 316L**: Especificar como material nobre para durabilidade industrial em ambiente corrosivo (balsa).
 
 ## 3. Padrão de Redação (IA-Free Advocacy)
 
@@ -70,4 +70,4 @@ date: '2026-03-24'
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

@@ -24,7 +24,7 @@ version: '5.1'
 
 <p align="right"><i>"Ciência é a investigação da verdade."<br>— Carlos Chagas</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: ENG_mini-reator-pirolenhoso.md
@@ -52,9 +52,9 @@ Different from the full cascade reactor, the Mini-Reactor operates in transition
 4.  **Residual Gas Combustion:** Non-condensed gases (syringol, guaiacol, and other combustible gases) are directed back to the base of the Rocket Stove, serving as thermal reinforcement ("clean burn").
 
 ## 3. Diferenciais em Relação ao Reator Industrial
-* <img src="assets/icons/human_18_black.svg" width="18px">   **Absence of Methanol Cascading:** <img src="assets/icons/human_18_black.svg" width="18px"> There is no complex cracking and synthesis system, reducing the need for certified pressure vessels and high-precision electronic sensors.
-* <img src="assets/icons/human_10_black.svg" width="18px">   **Manual Feeding:** <img src="assets/icons/human_10_black.svg" width="18px"> The pyrolysis temperature is controlled by adjusting the air intake and biomass volume in the Rocket Stove.
-* <img src="assets/icons/human_20_black.svg" width="18px">   **Local Maintainability:** <img src="assets/icons/human_20_black.svg" width="18px"> All connections are made via simple flanges or joints sealed with clay/ash, facilitating the cleaning of persistent tar.
+* <img src="../../../../../../assets/icons/human_18_black.svg" width="18px">   **Absence of Methanol Cascading:** <img src="../../../../../../assets/icons/human_18_black.svg" width="18px"> There is no complex cracking and synthesis system, reducing the need for certified pressure vessels and high-precision electronic sensors.
+* <img src="../../../../../../assets/icons/human_10_black.svg" width="18px">   **Manual Feeding:** <img src="../../../../../../assets/icons/human_10_black.svg" width="18px"> The pyrolysis temperature is controlled by adjusting the air intake and biomass volume in the Rocket Stove.
+* <img src="../../../../../../assets/icons/human_20_black.svg" width="18px">   **Local Maintainability:** <img src="../../../../../../assets/icons/human_20_black.svg" width="18px"> All connections are made via simple flanges or joints sealed with clay/ash, facilitating the cleaning of persistent tar.
 
 ## 4. Cenário Imagético
 A small set of vertical metal vessels (retorts) interconnected by copper or steel tubes dipping into cold water tanks. At the final outlet, an injector nozzle blows a bluish flame back into the stove, indicating the successful combustion of residual gases. At the foot of the system, polyethylene containers receive the dark, potent liquid (pyroligneous extract) that will be diluted to bathe the settlement's bamboo culms.
@@ -77,4 +77,4 @@ Takwara, F. R. (2026). *Conceituação Técnica: Mini-Reator de Captura de Pirol
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

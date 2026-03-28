@@ -13,7 +13,7 @@ date: '2026-03-24'
 
 <p align="right"><i>"A terra não é um negócio, a terra é a nossa mãe."<br>— Ailton Krenak</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: BUDGET_orcamento-30mi-qualificado.md
@@ -79,9 +79,9 @@ date: '2026-03-24'
 
 ## CONTRAPARTIDA E INDICADORES
 
-- <img src="assets/icons/human_02_black.svg" width="18px"> **Contrapartida Não Financeira:** <img src="assets/icons/human_02_black.svg" width="18px"> R$ 4.000.000
-- <img src="assets/icons/human_07_black.svg" width="18px"> **Valor Total do Projeto (com contrapartida):** <img src="assets/icons/human_07_black.svg" width="18px"> **R$ 34.000.000**
-- <img src="assets/icons/human_09_black.svg" width="18px"> **Solicitação ao BNDES/Fundo Amazônia:** <img src="assets/icons/human_09_black.svg" width="18px"> **R$ 30.000.000**
+- <img src="../../../../assets/icons/human_02_black.svg" width="18px"> **Contrapartida Não Financeira:** <img src="../../../../assets/icons/human_02_black.svg" width="18px"> R$ 4.000.000
+- <img src="../../../../assets/icons/human_07_black.svg" width="18px"> **Valor Total do Projeto (com contrapartida):** <img src="../../../../assets/icons/human_07_black.svg" width="18px"> **R$ 34.000.000**
+- <img src="../../../../assets/icons/human_09_black.svg" width="18px"> **Solicitação ao BNDES/Fundo Amazônia:** <img src="../../../../assets/icons/human_09_black.svg" width="18px"> **R$ 30.000.000**
 
 > [!NOTE]
 > **INDICADORES DE EFICIÊNCIA:**
@@ -96,4 +96,4 @@ date: '2026-03-24'
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

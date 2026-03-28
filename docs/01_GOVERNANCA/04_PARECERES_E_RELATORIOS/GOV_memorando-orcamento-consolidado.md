@@ -21,7 +21,7 @@ version: '2.2.2'
 
 <p align="right"><i>"Ensinar não é transferir conhecimento, mas criar as possibilidades para a sua própria produção ou a sua construção."<br>— Paulo Freire</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: GOV_memorando-orcamento-consolidado.md
@@ -38,13 +38,13 @@ Este memorando sintetiza o estado atual do orçamento consolidado do Projeto Mul
 
 ## 2. Síntese do orçamento consolidado (48 meses)
 
-- <img src="assets/icons/human_09_black.svg" width="18px"> **Valor global estimado:** <img src="assets/icons/human_09_black.svg" width="18px"> ~R$ 20 milhões em 48 meses.
-- <img src="assets/icons/human_11_black.svg" width="18px"> **CAPEX:** <img src="assets/icons/human_11_black.svg" width="18px"> ~R$ 5,27 milhões (biorrefinaria, reator NR-13, UBPs, domos, instalações).
-- <img src="assets/icons/human_04_black.svg" width="18px"> **OPEX:** <img src="assets/icons/human_04_black.svg" width="18px"> ~R$ 14,75 milhões (RH completo, logística, insumos, certificações).
-- <img src="assets/icons/human_19_black.svg" width="18px"> **Estrutura em tranches:**
-    - <img src="assets/icons/human_01_black.svg" width="18px"> Tranche 1: Núcleo de menor risco (biorrefinaria, UBPs). Inclui alocação de **R$ 1.022.500** <img src="assets/icons/human_01_black.svg" width="18px"> para Maquinário Industrial (reator NR-13 e câmaras cilíndricas duplas).
-    - <img src="assets/icons/human_03_black.svg" width="18px"> Tranche 2: Escalonamento (compósitos, domos-estufa).
-    - <img src="assets/icons/human_15_black.svg" width="18px"> Tranche 3: Consolidação e replicação regional.
+- <img src="../../../../assets/icons/human_09_black.svg" width="18px"> **Valor global estimado:** <img src="../../../../assets/icons/human_09_black.svg" width="18px"> ~R$ 20 milhões em 48 meses.
+- <img src="../../../../assets/icons/human_11_black.svg" width="18px"> **CAPEX:** <img src="../../../../assets/icons/human_11_black.svg" width="18px"> ~R$ 5,27 milhões (biorrefinaria, reator NR-13, UBPs, domos, instalações).
+- <img src="../../../../assets/icons/human_04_black.svg" width="18px"> **OPEX:** <img src="../../../../assets/icons/human_04_black.svg" width="18px"> ~R$ 14,75 milhões (RH completo, logística, insumos, certificações).
+- <img src="../../../../assets/icons/human_19_black.svg" width="18px"> **Estrutura em tranches:**
+    - <img src="../../../../assets/icons/human_01_black.svg" width="18px"> Tranche 1: Núcleo de menor risco (biorrefinaria, UBPs). Inclui alocação de **R$ 1.022.500** <img src="../../../../assets/icons/human_01_black.svg" width="18px"> para Maquinário Industrial (reator NR-13 e câmaras cilíndricas duplas).
+    - <img src="../../../../assets/icons/human_03_black.svg" width="18px"> Tranche 2: Escalonamento (compósitos, domos-estufa).
+    - <img src="../../../../assets/icons/human_15_black.svg" width="18px"> Tranche 3: Consolidação e replicação regional.
 
 ## 3. Pendências críticas a serem tratadas com a UnB
 
@@ -77,4 +77,4 @@ Elaboração de laudos de avaliação de ativos e minutas de cartas de compromis
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

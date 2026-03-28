@@ -12,7 +12,7 @@ author:
 
 <p align="right"><i>"O Brasil, última nação a abrogar a escravidão, tem um compromisso terrível com o seu povo."<br>— Darcy Ribeiro</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_WTF_RAW_CATALOGO2.md
@@ -38,9 +38,9 @@ TAKWARA, Fabio. Catálogo: acervo técnico e de advocacy da Tecnologia Takwara p
 Este documento é um catálogo que organiza o acervo técnico e de advocacy da Tecnologia Takwara, servindo como base de consulta para a Plataforma Amazônia Regenerativa. O acervo inclui documentos sobre tecnologia construtiva (materiais, bioarquitetura, bambu, pirólise, briquetes), manejo de biomassa (Guadua, espécies exóticas para bioenergia, fitorremediação) e ensaios técnicos. Todos os documentos originais são de autoria de Fabio Takwara.
 
 **Palavras-chave:**
-* <img src="assets/icons/human_19_black.svg" width="18px">   Biomassa
-* <img src="assets/icons/human_11_black.svg" width="18px">   Bioenergia
-* <img src="assets/icons/human_16_black.svg" width="18px">   Bambu
+* <img src="../../../../../../assets/icons/human_19_black.svg" width="18px">   Biomassa
+* <img src="../../../../../../assets/icons/human_11_black.svg" width="18px">   Bioenergia
+* <img src="../../../../../../assets/icons/human_16_black.svg" width="18px">   Bambu
 
 ### 3. EXTRAÇÃO DE DADOS (TABELA)
 
@@ -62,11 +62,11 @@ O fragmento de texto fornecido não contém coordenadas geográficas explícitas
 ### 4. Extrair Bibliografia citada no texto
 O texto fornecido é um catálogo e não cita outras obras em seu corpo principal. Ele referencia internamente seções de sua própria estrutura que contêm bibliografias e normas. As referências listadas *no próprio catálogo* (não citadas *pelo* catálogo no sentido tradicional de citação em texto científico) são:
 
-* <img src="assets/icons/human_02_black.svg" width="18px">   BIBLIOGRAFIA.md (menciona "Listagem completa de 81 documentos PDF catalogados")
-* <img src="assets/icons/human_14_black.svg" width="18px">   Normas.md (diretório geral de normativas)
-* <img src="assets/icons/human_01_black.svg" width="18px">   NBR 1628.md (Norma brasileira de estruturas de madeira/bambu adaptada)
-* <img src="assets/icons/human_04_black.svg" width="18px">   Norma Indiana.md (Referencial BIS para construção em bambu)
-* <img src="assets/icons/human_12_black.svg" width="18px">   EN Plus.md (Certificação de Pellets/Bioenergia)
+* <img src="../../../../../../assets/icons/human_02_black.svg" width="18px">   BIBLIOGRAFIA.md (menciona "Listagem completa de 81 documentos PDF catalogados")
+* <img src="../../../../../../assets/icons/human_14_black.svg" width="18px">   Normas.md (diretório geral de normativas)
+* <img src="../../../../../../assets/icons/human_01_black.svg" width="18px">   NBR 1628.md (Norma brasileira de estruturas de madeira/bambu adaptada)
+* <img src="../../../../../../assets/icons/human_04_black.svg" width="18px">   Norma Indiana.md (Referencial BIS para construção em bambu)
+* <img src="../../../../../../assets/icons/human_12_black.svg" width="18px">   EN Plus.md (Certificação de Pellets/Bioenergia)
 
 ---
 
@@ -77,4 +77,4 @@ O texto fornecido é um catálogo e não cita outras obras em seu corpo principa
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

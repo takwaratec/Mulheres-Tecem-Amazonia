@@ -22,7 +22,7 @@ keywords:
 
 <p align="right"><i>"Ciência é a investigação da verdade."<br>— Carlos Chagas</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: ENG-MEM-T05_PRENSA-CASSETES.md
@@ -54,14 +54,14 @@ Inspirada nos sistemas de briquetagem industrial, a prensa utiliza um atuador hi
 
 ### 2.2 Modularidade (Cassetes)
 Cada cassete é um conjunto autônomo de paredes e matrizes que se encaixam no chassi mestre via travas rápidas.
-- <img src="assets/icons/human_01_black.svg" width="18px"> **Folgas Micrométricas:** <img src="assets/icons/human_01_black.svg" width="18px"> Permite a saída controlada de ar comprimido e traços de resina excedente.
-- <img src="assets/icons/human_20_black.svg" width="18px"> **Opção Térmica:** <img src="assets/icons/human_20_black.svg" width="18px"> Admite a instalação de resistências elétricas para termoprensagem.
+- <img src="../../../../../../assets/icons/human_01_black.svg" width="18px"> **Folgas Micrométricas:** <img src="../../../../../../assets/icons/human_01_black.svg" width="18px"> Permite a saída controlada de ar comprimido e traços de resina excedente.
+- <img src="../../../../../../assets/icons/human_20_black.svg" width="18px"> **Opção Térmica:** <img src="../../../../../../assets/icons/human_20_black.svg" width="18px"> Admite a instalação de resistências elétricas para termoprensagem.
 
 ## 3. Bill of Materials (BoM)
-- <img src="assets/icons/human_14_black.svg" width="18px"> **Estrutura:** <img src="assets/icons/human_14_black.svg" width="18px"> Perfis em "H" de Aço ASTM A36.
-- <img src="assets/icons/human_07_black.svg" width="18px"> **Unidade Hidráulica:** <img src="assets/icons/human_07_black.svg" width="18px"> Motor monofásico 3 CV, 100 bar.
-- <img src="assets/icons/human_15_black.svg" width="18px"> **Cassetes:** <img src="assets/icons/human_15_black.svg" width="18px"> Aço ferramenta temperado ou Inox 304.
-- <img src="assets/icons/human_06_black.svg" width="18px"> **Vedações:** <img src="assets/icons/human_06_black.svg" width="18px"> Polímeros técnicos de alta compressão (Viton/Nitrílica).
+- <img src="../../../../../../assets/icons/human_14_black.svg" width="18px"> **Estrutura:** <img src="../../../../../../assets/icons/human_14_black.svg" width="18px"> Perfis em "H" de Aço ASTM A36.
+- <img src="../../../../../../assets/icons/human_07_black.svg" width="18px"> **Unidade Hidráulica:** <img src="../../../../../../assets/icons/human_07_black.svg" width="18px"> Motor monofásico 3 CV, 100 bar.
+- <img src="../../../../../../assets/icons/human_15_black.svg" width="18px"> **Cassetes:** <img src="../../../../../../assets/icons/human_15_black.svg" width="18px"> Aço ferramenta temperado ou Inox 304.
+- <img src="../../../../../../assets/icons/human_06_black.svg" width="18px"> **Vedações:** <img src="../../../../../../assets/icons/human_06_black.svg" width="18px"> Polímeros técnicos de alta compressão (Viton/Nitrílica).
 
 ## 4. Reivindicações
 1. **PRENSA DE CASSETES INTERCAMBIÁVEIS**, caracterizada por compreender um chassi de alta rigidez e um sistema de compressão por pistão axial, dotada de um receptáculo universal para **moldes modulares removíveis (cassetes)**.
@@ -81,4 +81,4 @@ Takwara, F. R. (2026). *Memorial Jurídico: Prensa de Cassetes Intercambiáveis 
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

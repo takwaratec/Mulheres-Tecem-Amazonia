@@ -12,7 +12,7 @@ author:
 
 <p align="right"><i>"O conhecimento é a nossa maior arma contra o atraso."<br>— Bertha Lutz</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_WTF_RAW_04-_JUL-18_Relatório_de_atividades.md
@@ -58,8 +58,8 @@ Espécies Invasoras
 | Localização 2                                              | Centro de Práticas Sustentáveis, Bairro Habitacional Jardins Mangueiral, DF | Coordenadas Geográficas: -15.864789, -47.805073 (aproximadas, Quadra 12 Bloco L) |
 
 ### 4. BIBLIOGRAFIA CITADA NO TEXTO
-* <img src="assets/icons/human_01_black.svg" width="18px">   FU, [Ano não especificado]. In: [Detalhes completos não disponíveis no texto].
-* <img src="assets/icons/human_15_black.svg" width="18px">   PIMENTEL, D. et al. **Economia, Agricultura, Ecossistema e Ambiente**. [Local: Editora], 2001. (Local e editora não especificados no texto).
+* <img src="../../../../../../assets/icons/human_01_black.svg" width="18px">   FU, [Ano não especificado]. In: [Detalhes completos não disponíveis no texto].
+* <img src="../../../../../../assets/icons/human_15_black.svg" width="18px">   PIMENTEL, D. et al. **Economia, Agricultura, Ecossistema e Ambiente**. [Local: Editora], 2001. (Local e editora não especificados no texto).
 
 ---
 
@@ -70,4 +70,4 @@ Espécies Invasoras
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

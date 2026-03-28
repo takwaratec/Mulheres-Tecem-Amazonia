@@ -36,7 +36,7 @@ version: '2.2.2'
 
 <p align="right"><i>"Não se morre enquanto houver quem nos lembre."<br>— Cora Coralina</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: ENG_memorial-tecnico-biorrefinaria_pt.md
@@ -48,7 +48,7 @@ version: '2.2.2'
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licença-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![<img src="assets/icons/human_01_red.svg" width="18px"><img src="assets/icons/human_01_red.svg" width="18px"> PT](https://img.shields.io/badge/<img src="assets/icons/human_01_red.svg" width="18px"><img src="assets/icons/human_01_red.svg" width="18px">-Português-green)](./ENG_memorial-tecnico-biorrefinaria_pt.md)
+[![<img src="../../../../../../assets/icons/human_01_red.svg" width="18px"><img src="../../../../../../assets/icons/human_01_red.svg" width="18px"> PT](https://img.shields.io/badge/<img src="../../../../../../assets/icons/human_01_red.svg" width="18px"><img src="../../../../../../assets/icons/human_01_red.svg" width="18px">-Português-green)](./ENG_memorial-tecnico-biorrefinaria_pt.md)
 ![Status](https://img.shields.io/badge/status-V2.2.2%20(Advocacy%205.1)-blue)
 ![Tipo](https://img.shields.io/badge/tipo-Boletim%20Técnico--Científico-teal)
 
@@ -90,11 +90,11 @@ A caldeira geradora de vapor para o tratamento hidrotérmico e químico do bambu
 
 **Arquitetura de Prototipagem Industrial (Rigor Técnico 2.0)**
 O sistema evoluiu para um modelo de processamento cilíndrico de alta precisão, otimizando a cubagem para o manejo de colmos inteiros:
-- <img src="assets/icons/human_07_black.svg" width="18px"> **Dimensionamento**: Câmaras cilíndricas de **6 metros de comprimento por 1 metro de diâmetro**, com volume útil de **4,7 m³** <img src="assets/icons/human_07_black.svg" width="18px"> por câmara.
-- <img src="assets/icons/human_17_black.svg" width="18px"> **Câmaras Duplas**:
-    - <img src="assets/icons/human_16_black.svg" width="18px"> **Câmara A (Tratamento)**: Revestida em aço inoxidável para resistência à corrosão por extrato pirolenhoso saturado.
-    - <img src="assets/icons/human_18_black.svg" width="18px"> **Câmara B (Secagem)**: Foco em isolamento térmico avançado (lã de rocha/fibra cerâmica) para secagem primária.
-- <img src="assets/icons/human_15_black.svg" width="18px"> **Método de Imersão**: Substituição da alta pressão por **imersão saturada de Extrato Pirolenhoso (EP)** <img src="assets/icons/human_15_black.svg" width="18px"> a pressão atmosférica, elevando a segurança operacional e reduzindo custos de CAPEX.
+- <img src="../../../../../../assets/icons/human_07_black.svg" width="18px"> **Dimensionamento**: Câmaras cilíndricas de **6 metros de comprimento por 1 metro de diâmetro**, com volume útil de **4,7 m³** <img src="../../../../../../assets/icons/human_07_black.svg" width="18px"> por câmara.
+- <img src="../../../../../../assets/icons/human_17_black.svg" width="18px"> **Câmaras Duplas**:
+    - <img src="../../../../../../assets/icons/human_16_black.svg" width="18px"> **Câmara A (Tratamento)**: Revestida em aço inoxidável para resistência à corrosão por extrato pirolenhoso saturado.
+    - <img src="../../../../../../assets/icons/human_18_black.svg" width="18px"> **Câmara B (Secagem)**: Foco em isolamento térmico avançado (lã de rocha/fibra cerâmica) para secagem primária.
+- <img src="../../../../../../assets/icons/human_15_black.svg" width="18px"> **Método de Imersão**: Substituição da alta pressão por **imersão saturada de Extrato Pirolenhoso (EP)** <img src="../../../../../../assets/icons/human_15_black.svg" width="18px"> a pressão atmosférica, elevando a segurança operacional e reduzindo custos de CAPEX.
 
 **ABNT NBR ISO 16852 (Corta-chamas)**
 Instalação obrigatória na linha de gases não condensáveis, com função de resfriar frentes de chama e mitigar o risco de *flashback* (retorno de chama) para o reator primário.
@@ -103,8 +103,8 @@ Instalação obrigatória na linha de gases não condensáveis, com função de 
 
 A sofisticação do projeto baseia-se na separação estrita entre dois universos de fluxo:
 
-- <img src="assets/icons/human_04_black.svg" width="18px"> **Universo sujo:** <img src="assets/icons/human_04_black.svg" width="18px"> gases e fumaça da pirólise (voláteis orgânicos, CO, H₂, metano)
-- <img src="assets/icons/human_19_black.svg" width="18px"> **Universo limpo:** <img src="assets/icons/human_19_black.svg" width="18px"> ar quente proveniente da jaqueta externa e do plenum
+- <img src="../../../../../../assets/icons/human_04_black.svg" width="18px"> **Universo sujo:** <img src="../../../../../../assets/icons/human_04_black.svg" width="18px"> gases e fumaça da pirólise (voláteis orgânicos, CO, H₂, metano)
+- <img src="../../../../../../assets/icons/human_19_black.svg" width="18px"> **Universo limpo:** <img src="../../../../../../assets/icons/human_19_black.svg" width="18px"> ar quente proveniente da jaqueta externa e do plenum
 
 O sistema emprega um queimador *Rocket Stove* isolado para consumir os gases residuais (CO, H₂, metano), gerando calor para a caldeira. A tiragem natural do tubo vertical (*riser*) cria pressão neutra (0 barg) na câmara de carbonização, eliminando a necessidade de exaustores mecânicos em contato com fumaça.
 
@@ -312,4 +312,4 @@ UFJF — Universidade Federal de Juiz de Fora. **MEC010: Transferência de Calor
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

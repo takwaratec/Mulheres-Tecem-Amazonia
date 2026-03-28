@@ -5,7 +5,7 @@
 
 <p align="right"><i>"A força do lugar é a força do mundo."<br>— Milton Santos</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Documento**: FICHA_WTF_RAW_2016_Roberto_Sette_tradz.md
@@ -27,8 +27,8 @@ REFERÊNCIA BIBLIOGRÁFICA (ABNT):
 SETTE JR, C. R.; FREITAS, P. C. e; FREITAS, V. P.; YAMAJI, F. M.; ALMEIDA, R. A. Produção e Caracterização de Pellets de Bambu. 2016. Sem periódico/local de publicação explícito no fragmento.
 
 ### 2. TRADUÇÃO E SÍNTESE TÉCNICA
-- <img src="assets/icons/human_02_black.svg" width="18px"> O resumo já se encontra em português, não sendo necessária tradução.
-- <img src="assets/icons/human_05_black.svg" width="18px"> PALAVRAS-CHAVE:
+- <img src="../../../../../../assets/icons/human_02_black.svg" width="18px"> O resumo já se encontra em português, não sendo necessária tradução.
+- <img src="../../../../../../assets/icons/human_05_black.svg" width="18px"> PALAVRAS-CHAVE:
     1.  Bioenergia
     2.  Densificação da biomassa
     3.  Potencial energético
@@ -60,7 +60,7 @@ SETTE JR, C. R.; FREITAS, P. C. e; FREITAS, V. P.; YAMAJI, F. M.; ALMEIDA, R. A.
 
 <p align="right"><i>"O Brasil é uma invenção de si mesmo."<br>— João Ubaldo Ribeiro</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_WTF_RAW_2016_Roberto_Sette_tradz.md
@@ -73,4 +73,4 @@ SETTE JR, C. R.; FREITAS, P. C. e; FREITAS, V. P.; YAMAJI, F. M.; ALMEIDA, R. A.
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

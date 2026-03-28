@@ -23,7 +23,7 @@ version: '5.1'
 
 <p align="right"><i>"A vida é curta, a arte é longa."<br>— Machado de Assis</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: ENG_memorial-patente-frangueira-industrial.md
@@ -58,15 +58,15 @@ O equipamento é estruturado em pórticos de aço ASTM A36. Cada eixo de rotaç�
 
 ### 2.2 Gestão de Cura e Fluxo
 O sistema é otimizado para o **"Gel-Time"** do biopolímero (aprox. 2 horas). Cada módulo de 12 varas é sincronizado com a taxa de saída da Unidade de Tratamento T02. Para o acabamento *High-End*, o layout inclui:
-- <img src="assets/icons/human_18_black.svg" width="18px"> **Espaçamento Anti-Sombra:** <img src="assets/icons/human_18_black.svg" width="18px"> Hastes de ponteira alongadas que minimizam o contato com o colmo, permitindo que a aspersão *Airless* <img src="assets/icons/human_18_black.svg" width="18px"> cubra 99% da superfície.
-- <img src="assets/icons/human_15_black.svg" width="18px"> **Parede de Absorção:** <img src="assets/icons/human_15_black.svg" width="18px"> Sistema de ventilação negativa para coleta de *overspray* <img src="assets/icons/human_15_black.svg" width="18px"> de resina.
-- <img src="assets/icons/human_05_black.svg" width="18px"> **Acionamento Manual:** <img src="assets/icons/human_05_black.svg" width="18px"> Terminal redundante para rotação manual em caso de falha de energia, vital para salvar o lote durante o estágio de endurecimento.
+- <img src="../../../../../../assets/icons/human_18_black.svg" width="18px"> **Espaçamento Anti-Sombra:** <img src="../../../../../../assets/icons/human_18_black.svg" width="18px"> Hastes de ponteira alongadas que minimizam o contato com o colmo, permitindo que a aspersão *Airless* <img src="../../../../../../assets/icons/human_18_black.svg" width="18px"> cubra 99% da superfície.
+- <img src="../../../../../../assets/icons/human_15_black.svg" width="18px"> **Parede de Absorção:** <img src="../../../../../../assets/icons/human_15_black.svg" width="18px"> Sistema de ventilação negativa para coleta de *overspray* <img src="../../../../../../assets/icons/human_15_black.svg" width="18px"> de resina.
+- <img src="../../../../../../assets/icons/human_05_black.svg" width="18px"> **Acionamento Manual:** <img src="../../../../../../assets/icons/human_05_black.svg" width="18px"> Terminal redundante para rotação manual em caso de falha de energia, vital para salvar o lote durante o estágio de endurecimento.
 
 ## 3. Bill of Materials (BoM) - Especialidades
-- <img src="assets/icons/human_16_black.svg" width="18px"> **Eixos e Rolamentos:** <img src="assets/icons/human_16_black.svg" width="18px"> Aço Inox AISI 304 ou Aço SCH 80.
-- <img src="assets/icons/human_19_black.svg" width="18px"> **Ponteiras:** <img src="assets/icons/human_19_black.svg" width="18px"> Elastômero de poliuretano de dureza calibrada (Shore A 60-80).
-- <img src="assets/icons/human_20_black.svg" width="18px"> **Motorização:** <img src="assets/icons/human_20_black.svg" width="18px"> Motor elétrico IP55 (Blindado) com inversor de frequência para controle de RPM.
-- <img src="assets/icons/human_07_black.svg" width="18px"> **Chasis:** <img src="assets/icons/human_07_black.svg" width="18px"> Perfis em "U" de aço ASTM A36 com pintura epóxi anti-corrosiva.
+- <img src="../../../../../../assets/icons/human_16_black.svg" width="18px"> **Eixos e Rolamentos:** <img src="../../../../../../assets/icons/human_16_black.svg" width="18px"> Aço Inox AISI 304 ou Aço SCH 80.
+- <img src="../../../../../../assets/icons/human_19_black.svg" width="18px"> **Ponteiras:** <img src="../../../../../../assets/icons/human_19_black.svg" width="18px"> Elastômero de poliuretano de dureza calibrada (Shore A 60-80).
+- <img src="../../../../../../assets/icons/human_20_black.svg" width="18px"> **Motorização:** <img src="../../../../../../assets/icons/human_20_black.svg" width="18px"> Motor elétrico IP55 (Blindado) com inversor de frequência para controle de RPM.
+- <img src="../../../../../../assets/icons/human_07_black.svg" width="18px"> **Chasis:** <img src="../../../../../../assets/icons/human_07_black.svg" width="18px"> Perfis em "U" de aço ASTM A36 com pintura epóxi anti-corrosiva.
 
 ## 4. Cenário Imagético e Prompts (IAs)
 > **Prompt (EN):** Technical 3D render of an "Industrial Bamboo Rotisserie". A heavy-duty steel rack holding 12 bamboo culms in parallel, rotating simultaneously. Driven by a powerful gear reducer and individual pulleys. Integrated forced air heating vents at the base. High-gloss green resin finish on the bamboo. Engineering blueprint aesthetic mixed with hyper-realistic 3D rendering. Ultra-sharp focus on the gear and chain assembly.
@@ -92,4 +92,4 @@ Takwara, F. R. (2026). *Memorial Jurídico: Resinador Rotativo Industrial "Frang
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

@@ -258,34 +258,3 @@
     display: block;
     margin-top: -2px;
 }
-
-/* --- Climate Clock Widget (NASA) --- */
-.mqtf-climate-clock-container {
-    padding: 0;
-    position: absolute;
-    right: 320px;     /* Alinhado sob o painel do GitHub em telas padrão */
-    top: 52px;        /* Exatamente encostado na faixa do header */
-    z-index: 1000;
-    opacity: 1.0;     /* Visibilidade total */
-    transition: all 0.3s ease;
-    transform: scale(0.95); /* Tamanho adequado à tarja solicitado */
-    transform-origin: top right;
-}
-
-.mqtf-climate-clock-container:hover {
-    opacity: 1;
-    transform: scale(0.72); /* Leve ênfase no hover */
-}
-
-.mqtf-climate-clock-container iframe {
-    background: transparent;
-    border-radius: 8px;
-    border: 1px solid rgba(255, 255, 255, 0.1);
-}
-
-/* Esconder o widget em telas muito pequenas */
-@media screen and (max-width: 76.25em) {
-    .mqtf-climate-clock-container {
-        display: none;
-    }
-}

@@ -14,7 +14,7 @@ date: '2026-03-24'
 
 <p align="right"><i>"A vida é curta, a arte é longa."<br>— Machado de Assis</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: ENG-MEM-011_BIO-ABRASIVOS-CASTANHA-ACRE.md
@@ -41,9 +41,9 @@ A utilização de Areia/Quartzo (Mohs 7) em processos de tombamento (Tumbling) e
 ## 3. Integração com o Tamboreador T08
 
 O **Tamboreador Artesanal (T08-A)** opera com carga mista:
-- <img src="assets/icons/human_18_black.svg" width="18px"> **60%** <img src="assets/icons/human_18_black.svg" width="18px"> Volume: Segmentos de bambu (até 1m).
-- <img src="assets/icons/human_04_black.svg" width="18px"> **30%** <img src="assets/icons/human_04_black.svg" width="18px"> Volume: Bio-mídia de Castanha.
-- <img src="assets/icons/human_10_black.svg" width="18px"> **10%** <img src="assets/icons/human_10_black.svg" width="18px"> Volume: Espaço vazio para turbulência e exaustão via ciclone.
+- <img src="../../../../../../assets/icons/human_18_black.svg" width="18px"> **60%** <img src="../../../../../../assets/icons/human_18_black.svg" width="18px"> Volume: Segmentos de bambu (até 1m).
+- <img src="../../../../../../assets/icons/human_04_black.svg" width="18px"> **30%** <img src="../../../../../../assets/icons/human_04_black.svg" width="18px"> Volume: Bio-mídia de Castanha.
+- <img src="../../../../../../assets/icons/human_10_black.svg" width="18px"> **10%** <img src="../../../../../../assets/icons/human_10_black.svg" width="18px"> Volume: Espaço vazio para turbulência e exaustão via ciclone.
 
 ## 4. Impacto na Cadeia Produtiva (Acre)
 
@@ -58,4 +58,4 @@ O redirecionamento das cascas de castanha das usinas de beneficiamento para o **
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

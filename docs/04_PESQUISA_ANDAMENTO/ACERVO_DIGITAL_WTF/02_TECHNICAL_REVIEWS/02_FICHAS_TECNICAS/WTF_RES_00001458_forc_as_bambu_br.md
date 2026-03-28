@@ -12,7 +12,7 @@ ano_publicacao: '2025'
 
 <p align="right"><i>"Não se morre enquanto houver quem nos lembre."<br>— Cora Coralina</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: WTF_RES_00001458_forc_as_bambu_br.md
@@ -20,12 +20,12 @@ ano_publicacao: '2025'
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
-- <img src="assets/icons/human_05_black.svg" width="18px"> **Responsável pela elaboração: Mauro de Oliveira Junior
+- <img src="../../../../../../assets/icons/human_05_black.svg" width="18px"> **Responsável pela elaboração: Mauro de Oliveira Junior
 
 ## 1. Governança Democrática
 
-- <img src="assets/icons/human_03_black.svg" width="18px"> Criação de uma estrutura organizacional com uma diretoria eleita.
-- <img src="assets/icons/human_14_black.svg" width="18px"> Processo de decisões coletivas, promovendo uma cultura de transparência e ética.
+- <img src="../../../../../../assets/icons/human_03_black.svg" width="18px"> Criação de uma estrutura organizacional com uma diretoria eleita.
+- <img src="../../../../../../assets/icons/human_14_black.svg" width="18px"> Processo de decisões coletivas, promovendo uma cultura de transparência e ética.
 
 
 1. A governança da Bambu BR é percebida como transparente e inclusiva?
@@ -41,4 +41,4 @@ ano_publicacao: '2025'
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

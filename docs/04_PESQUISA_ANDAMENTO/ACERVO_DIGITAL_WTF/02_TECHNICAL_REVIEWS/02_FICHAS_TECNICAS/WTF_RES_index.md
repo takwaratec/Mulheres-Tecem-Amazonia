@@ -15,4 +15,4 @@ ano_publicacao: '2025'
 
 
 ---
-<p align="center"><img src="assets/patterns/square_title_red.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/patterns/square_title_red.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

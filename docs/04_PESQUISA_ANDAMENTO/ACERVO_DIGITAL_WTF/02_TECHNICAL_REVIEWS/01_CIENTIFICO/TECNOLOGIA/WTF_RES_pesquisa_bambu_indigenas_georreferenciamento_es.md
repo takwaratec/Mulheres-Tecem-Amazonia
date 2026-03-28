@@ -12,7 +12,7 @@ ano_publicacao: '2025'
 
 <p align="right"><i>"Arte sem ética não é arte."<br>— Ariano Suassuna</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: WTF_RES_pesquisa_bambu_indigenas_georreferenciamento_es.md
@@ -20,7 +20,7 @@ ano_publicacao: '2025'
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
-- <img src="assets/icons/human_04_black.svg" width="18px"> |
+- <img src="../../../../../../../assets/icons/human_04_black.svg" width="18px"> |
 
 | Asociación del Movimiento de Agentes Agroforestales Indígenas de Acre | **AMAAIAC** | Formación y asistencia técnica agroforestal (CPI-ACRE, 2024) | Huni Kuĩ, Ashaninka, Madijá, etc. |
 | Comisión Pro-Indígena de Acre | **CPI-Acre** | Proyectos de sistemas agroforestales y etnomapeo (CARVALHO, 2007) | Pueblos de la Selva |
@@ -100,7 +100,7 @@ El estado de Acre se encuentra en una posición privilegiada para liderar la bio
 35. <a id="ref-carvalho-2007"></a> CARVALHO, Antônio Luis Andrade. **El geoprocesamiento en la gestión ambiental en tierras indígenas**. USP. 2007. [(Acceso al Documento)](https://www.teses.usp.br/teses/disponiveis/8/8135/tde-18062007-151236/publico/TESE_ANTONIO_LUIS_ANDRADE_CARVALHO.pdf)
 36. <a id="ref-cpi-gta"></a> CPI-ACRE. **Proyecto de Experiencias Indígenas de Gestión Territorial y Ambiental**. [(Acceso al Documento)](https://cpiacre.org.br/projeto-experiencias-indigenas-gta/)
 37. <a id="ref-ufac-cpi"></a> UFAC / CPI-ACRE. **Proyecto de Extensión UFAC y CPI-Acre**. [(Acceso al Documento)](https://cpiacre.org.br/projeto-de-extensao-ufac-cpiacre/)
-38. <a id="ref-dhda"></a> CLÍNICA DHDA. **Informe Perú-Brasil**. [(Acceso al Documento)](https://clinicadhda.org/assets/img/publis/INFORME%20PERU%20BRASIL.pdf)
+38. <a id="ref-dhda"></a> CLÍNICA DHDA. **Informe Perú-Brasil**. [(Acceso al Documento)](https://clinicadhda.org/../../../../../../../assets/img/publis/INFORME%20PERU%20BRASIL.pdf)
 39. <a id="ref-ufac-2024"></a> UFAC. **Informe de Gestión 2024**. [(Acceso al Documento)](https://www.ufac.br/site/ufac/proplan/relatorio-de-gestao/relatorio-de-gestao-2024.pdf)
 40. <a id="ref-funai-jurua"></a> FUNAI. **CR Juruá — Fundación Nacional de los Pueblos Indígenas**. [(Acceso al Documento)](https://www.gov.br/funai/pt-br/acesso-a-informacao/institucional/coordenacoes-regionais-funai/cr-jurua)
 41. <a id="ref-sema-20an-2025"></a> SEMA-AC. **Revista Conmemorativa 20 Años - Sistema Estatal de Áreas Naturales**. 2025. [(Acceso al Documento)](https://sema.ac.gov.br/wp-content/uploads/2025/08/Revista-Comemorativa-20-Anos-de-Criacao-do-Sistema-Estadual-de-Areas-Naturais-Protegidas-do-Acre.pdf)
@@ -130,4 +130,4 @@ El estado de Acre se encuentra en una posición privilegiada para liderar la bio
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

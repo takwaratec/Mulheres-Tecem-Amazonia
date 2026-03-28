@@ -13,7 +13,7 @@ date: '2026-03-26'
 
 <p align="right"><i>"A força do lugar é a força do mundo."<br>— Milton Santos</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: ENG-TR-011_TERMO-REFERENCIA.md
@@ -29,9 +29,9 @@ date: '2026-03-26'
 
 ## 1. ESCOPO DOS SERVIÇOS
 1.1. Elaboração de estudos preliminares, anteprojeto e projeto executivo completo (arquitetura, estrutura, instalações elétricas, hidrossanitárias e térmicas) para o Polo Integrado composto por:
-- <img src="assets/icons/human_12_black.svg" width="18px"> **3 Domos Geodésicos (D=18 m):** <img src="assets/icons/human_12_black.svg" width="18px"> Bambu (D1), Castanha (D2) e Açaí (D3).
-- <img src="assets/icons/human_15_black.svg" width="18px"> **1 Núcleo Térmico Central (NT):** <img src="assets/icons/human_15_black.svg" width="18px"> Pirólise T02, Queimador T03, Caldeira T04 e Interface T05.
-- <img src="assets/icons/human_02_black.svg" width="18px"> **Áreas de Apoio:** <img src="assets/icons/human_02_black.svg" width="18px"> Docas de carga/descarga, rampas, circulações e reservação de água.
+- <img src="../../../../../../assets/icons/human_12_black.svg" width="18px"> **3 Domos Geodésicos (D=18 m):** <img src="../../../../../../assets/icons/human_12_black.svg" width="18px"> Bambu (D1), Castanha (D2) e Açaí (D3).
+- <img src="../../../../../../assets/icons/human_15_black.svg" width="18px"> **1 Núcleo Térmico Central (NT):** <img src="../../../../../../assets/icons/human_15_black.svg" width="18px"> Pirólise T02, Queimador T03, Caldeira T04 e Interface T05.
+- <img src="../../../../../../assets/icons/human_02_black.svg" width="18px"> **Áreas de Apoio:** <img src="../../../../../../assets/icons/human_02_black.svg" width="18px"> Docas de carga/descarga, rampas, circulações e reservação de água.
 
 1.2. Os projetos deverão contemplar o detalhamento de materiais regenerativos: bambu amazônico, poliuretano vegetal (MAMONEX® e IMPERVEG®) e sistemas de conexão Takwara.[^1][^2][^3]
 
@@ -50,9 +50,9 @@ date: '2026-03-26'
 6. **Caderno de Encargos:** Especificações técnicas, BoM detalhando quantidades e Orçamento.
 
 ## 4. PRAZOS ESTIMADOS
-- <img src="assets/icons/human_03_black.svg" width="18px"> **Anteprojeto:** <img src="assets/icons/human_03_black.svg" width="18px"> 60 dias após ordem de serviço.
-- <img src="assets/icons/human_08_black.svg" width="18px"> **Projeto Executivo:** <img src="assets/icons/human_08_black.svg" width="18px"> 120 dias após aprovação do anteprojeto.
-- <img src="assets/icons/human_05_black.svg" width="18px"> **Apoio Técnico:** <img src="assets/icons/human_05_black.svg" width="18px"> Durante toda a fase de execução da obra (aproximadamente 4,5 meses).[^1]
+- <img src="../../../../../../assets/icons/human_03_black.svg" width="18px"> **Anteprojeto:** <img src="../../../../../../assets/icons/human_03_black.svg" width="18px"> 60 dias após ordem de serviço.
+- <img src="../../../../../../assets/icons/human_08_black.svg" width="18px"> **Projeto Executivo:** <img src="../../../../../../assets/icons/human_08_black.svg" width="18px"> 120 dias após aprovação do anteprojeto.
+- <img src="../../../../../../assets/icons/human_05_black.svg" width="18px"> **Apoio Técnico:** <img src="../../../../../../assets/icons/human_05_black.svg" width="18px"> Durante toda a fase de execução da obra (aproximadamente 4,5 meses).[^1]
 
 ---
 
@@ -63,4 +63,4 @@ date: '2026-03-26'
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

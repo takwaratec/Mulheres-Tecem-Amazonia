@@ -17,7 +17,7 @@ Neste guia é mostrado um procedimento para construir uma cúpula geodésica usa
 
 <p align="right"><i>"O conhecimento é a nossa maior arma contra o atraso."<br>— Bertha Lutz</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: WTF_RAW_2018-_Guia_prático_para_construção_de_geodésicas_de_bambu.md
@@ -34,10 +34,10 @@ Bambu/Construção_Geodésicas
 
 
 Para construir uma geodésica grande, será necessário:
-* <img src="assets/icons/human_01_black.svg" width="18px">   Material para amarração como tiras de borracha, arames ou cordas.
-* <img src="assets/icons/human_02_black.svg" width="18px">   Peças cortadas de colmos de bambu.
-    * <img src="assets/icons/human_19_black.svg" width="18px">   Quarenta peças com mesmo comprimento e diâmetro e espessura de paredes semelhantes.
-    * <img src="assets/icons/human_10_black.svg" width="18px">   Cinco peças com comprimento 50% maior que serão usadas para o fechamento da cúpula.
+* <img src="../../../../../../../assets/icons/human_01_black.svg" width="18px">   Material para amarração como tiras de borracha, arames ou cordas.
+* <img src="../../../../../../../assets/icons/human_02_black.svg" width="18px">   Peças cortadas de colmos de bambu.
+    * <img src="../../../../../../../assets/icons/human_19_black.svg" width="18px">   Quarenta peças com mesmo comprimento e diâmetro e espessura de paredes semelhantes.
+    * <img src="../../../../../../../assets/icons/human_10_black.svg" width="18px">   Cinco peças com comprimento 50% maior que serão usadas para o fechamento da cúpula.
 
 **IMAGEM:** Bola da Copa de 70 (icosaedro truncado) Geodésica Barra do Saí – Itapoá SC, 2018.
 
@@ -122,4 +122,4 @@ OSTAPIV, F.; SALAMON, C.; STAHLSCHNIDT, J.; BETT, C.F. Estudos iniciais para ens
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

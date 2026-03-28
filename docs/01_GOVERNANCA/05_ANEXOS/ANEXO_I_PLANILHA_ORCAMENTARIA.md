@@ -13,7 +13,7 @@ date: '2026-03-24'
 
 <p align="right"><i>"O povo é o único soberano."<br>— João Ubaldo Ribeiro</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: ANEXO_I_PLANILHA_ORCAMENTARIA.md
@@ -26,7 +26,7 @@ date: '2026-03-24'
 **Período:** 48 meses
 **Status:** Status Ready
 
-## <img src="assets/icons/human_01_red.svg" width="18px"> Resumo Financeiro Consolidado
+## <img src="../../../../assets/icons/human_01_red.svg" width="18px"> Resumo Financeiro Consolidado
 
 | Categoria | Valor Bruto Solicitado (R$) | Valor Líquido Aplicado (R$) | % da Verba Líquida |
 | :--- | :--- | :--- | :--- |
@@ -35,7 +35,7 @@ date: '2026-03-24'
 | **Contingência** | R$ 1.000.000 | **R$ 1.000.000** | 4,0% |
 | **TOTAL** | **R$ 30.000.000** | **R$ 25.000.000** | **100,0%** |
 
-## <img src="assets/icons/human_01_red.svg" width="18px">️ detalhamento CAPEX (Investimento em Ativos)
+## <img src="../../../../assets/icons/human_01_red.svg" width="18px">️ detalhamento CAPEX (Investimento em Ativos)
 
 | Rubrica | Descrição | Valor Líquido (R$) |
 | :--- | :--- | :--- |
@@ -44,7 +44,7 @@ date: '2026-03-24'
 | **1.3. Logística** | Veículos 4x4, Caminhão e Balsa Catamarã (T10) | R$ 1.400.000 |
 | **1.4. Infra MRV** | Estação SMGA e Saneamento Soberano (T12 BSM/BER) | R$ 800.000 |
 
-## <img src="assets/icons/human_01_red.svg" width="18px"> Detalhamento OPEX (Custeio e Formação)
+## <img src="../../../../assets/icons/human_01_red.svg" width="18px"> Detalhamento OPEX (Custeio e Formação)
 
 | Rubrica | Detalhamento | Valor Líquido (R$) |
 | :--- | :--- | :--- |
@@ -53,10 +53,10 @@ date: '2026-03-24'
 | **2.3. ATER/Design** | Extensão rural e design de produtos | R$ 1.000.000 |
 | **2.4. Operação** | Manutenção, energia e logística de insumos | R$ 600.000 |
 
-## <img src="assets/icons/human_01_red.svg" width="18px">️ Contrapartida (R$ 4.000.000)
-- <img src="assets/icons/human_18_black.svg" width="18px"> **Intelecto e Patente Social:** <img src="assets/icons/human_18_black.svg" width="18px"> Projetos T01-T12 de domínio público.
-- <img src="assets/icons/human_06_black.svg" width="18px"> **P&D Acumulado:** <img src="assets/icons/human_06_black.svg" width="18px"> Pesquisas prévias Consórcio UnB/UFRR/UFAC.
-- <img src="assets/icons/human_01_black.svg" width="18px"> **Infraestrutura:** <img src="assets/icons/human_01_black.svg" width="18px"> Uso de laboratórios universitários.
+## <img src="../../../../assets/icons/human_01_red.svg" width="18px">️ Contrapartida (R$ 4.000.000)
+- <img src="../../../../assets/icons/human_18_black.svg" width="18px"> **Intelecto e Patente Social:** <img src="../../../../assets/icons/human_18_black.svg" width="18px"> Projetos T01-T12 de domínio público.
+- <img src="../../../../assets/icons/human_06_black.svg" width="18px"> **P&D Acumulado:** <img src="../../../../assets/icons/human_06_black.svg" width="18px"> Pesquisas prévias Consórcio UnB/UFRR/UFAC.
+- <img src="../../../../assets/icons/human_01_black.svg" width="18px"> **Infraestrutura:** <img src="../../../../assets/icons/human_01_black.svg" width="18px"> Uso de laboratórios universitários.
 
 ---
 
@@ -67,4 +67,4 @@ date: '2026-03-24'
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

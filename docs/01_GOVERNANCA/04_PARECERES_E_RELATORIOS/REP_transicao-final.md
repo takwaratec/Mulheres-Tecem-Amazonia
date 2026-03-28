@@ -13,7 +13,7 @@ date: '2026-03-24'
 
 <p align="right"><i>"Não se faz ciência sem amor ao próximo."<br>— Oswaldo Cruz</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: REP_transicao-final.md
@@ -41,23 +41,23 @@ date: '2026-03-24'
 O projeto estruturante baseia-se em **3 Alavancas de R$ 10.000.000,00** cada:
 
 ### Eixo A: Hub Acre (Fábrica de Soberania)
-- <img src="assets/icons/human_08_black.svg" width="18px"> **Objetivo**: Instalar o parque de máquinas (T01-T07) em Rio Branco para fabricar os módulos de infraestrutura.
-- <img src="assets/icons/human_10_black.svg" width="18px"> **Estruturação**: Galpão de engenharia leve, unidades de briquetagem e pirólise média, oficina de prototipagem seriada.
+- <img src="../../../../assets/icons/human_08_black.svg" width="18px"> **Objetivo**: Instalar o parque de máquinas (T01-T07) em Rio Branco para fabricar os módulos de infraestrutura.
+- <img src="../../../../assets/icons/human_10_black.svg" width="18px"> **Estruturação**: Galpão de engenharia leve, unidades de briquetagem e pirólise média, oficina de prototipagem seriada.
 
 ### Eixo B: Núcleo Norte (Ativação Territorial)
-- <img src="assets/icons/human_14_black.svg" width="18px"> **Objetivo**: Entregar 20 "Kits de Bioeconomia" às cooperativas de mulheres (Castanha/Açaí).
-- <img src="assets/icons/human_20_black.svg" width="18px"> **Estruturação**: UBPs (Unidades de Beneficiamento Primário), capital de giro para SPEs comunitárias e formação técnica.
+- <img src="../../../../assets/icons/human_14_black.svg" width="18px"> **Objetivo**: Entregar 20 "Kits de Bioeconomia" às cooperativas de mulheres (Castanha/Açaí).
+- <img src="../../../../assets/icons/human_20_black.svg" width="18px"> **Estruturação**: UBPs (Unidades de Beneficiamento Primário), capital de giro para SPEs comunitárias e formação técnica.
 
 ### Eixo C: Consórcio Científico (Validação e Saneamento)
-- <img src="assets/icons/human_11_black.svg" width="18px"> **Objetivo**: Implantar os primeiros **20 módulos** <img src="assets/icons/human_11_black.svg" width="18px"> de Banheiros Secos (BSM) e monitoramento de saúde.
-- <img src="assets/icons/human_01_black.svg" width="18px"> **Estruturação**: Monitoramento epidemiológico, certificação de biochar e documentação audiovisual (Mídia).
+- <img src="../../../../assets/icons/human_11_black.svg" width="18px"> **Objetivo**: Implantar os primeiros **20 módulos** <img src="../../../../assets/icons/human_11_black.svg" width="18px"> de Banheiros Secos (BSM) e monitoramento de saúde.
+- <img src="../../../../assets/icons/human_01_black.svg" width="18px"> **Estruturação**: Monitoramento epidemiológico, certificação de biochar e documentação audiovisual (Mídia).
 
 ## 3. Redimensionamento e Foco Territorial
 
 Conforme a nova diretriz estratégica, a gestão foi redimensionada para abandonar o modelo industrial centralizado (T02) em favor da **Engenharia de Base e Bioconstrução**:
 
-- <img src="assets/icons/human_06_black.svg" width="18px"> **Integração Rio Branco**: O núcleo técnico assume a função de fornecedor de equipamentos e infraestrutura para a rede consorciada, garantindo a autonomia tecnológica do projeto.
-- <img src="assets/icons/human_18_black.svg" width="18px"> **Foco Territorial**: A gestão financeira prioriza a infraestrutura de apoio nos núcleos, garantindo que o recurso chegue diretamente às unidades produtivas.
+- <img src="../../../../assets/icons/human_06_black.svg" width="18px"> **Integração Rio Branco**: O núcleo técnico assume a função de fornecedor de equipamentos e infraestrutura para a rede consorciada, garantindo a autonomia tecnológica do projeto.
+- <img src="../../../../assets/icons/human_18_black.svg" width="18px"> **Foco Territorial**: A gestão financeira prioriza a infraestrutura de apoio nos núcleos, garantindo que o recurso chegue diretamente às unidades produtivas.
 
 ## 4. Plano de Implantação (Roteiro de Trabalho)
 
@@ -77,4 +77,4 @@ A refatoração de R$ 30M torna o projeto **imune a falhas centralizadas**. A fa
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

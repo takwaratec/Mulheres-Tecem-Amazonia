@@ -5,7 +5,7 @@
 
 <p align="right"><i>"O futuro pode ser ancestral."<br>— Ailton Krenak</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Documento**: FICHA_WTF_RAW_2017-_GEExPELLET-Dorival_Garcia.md
@@ -27,8 +27,8 @@ REFERÊNCIA BIBLIOGRÁFICA (ABNT):
 GARCIA, D. P.; CARASCHI, J. C.; VENTORIM, G. Emissões de gases do efeito estufa da queima de pellets de madeira. **FLORESTA**, Curitiba, PR, v. 47, n. 3, p. 297-306, jul./set. 2017.
 
 ### 2. TRADUÇÃO E SÍNTESE TÉCNICA
-- <img src="assets/icons/human_06_black.svg" width="18px"> O estudo avaliou as emissões de gases do efeito estufa (GEE) provenientes da queima de pellets de madeira e de outras biomassas florestais (casca de pinus, cavacos de pinus e serragem de eucalipto). A pesquisa comparou essas emissões com os limites estabelecidos pela Resolução nº 436 do CONAMA, no contexto dos acordos da Cúpula do Clima em Paris (COP21), que visam substituir combustíveis fósseis por fontes renováveis. Os resultados indicaram que os pellets de madeira apresentam baixas emissões de CO, NOx e SOx. Concluiu-se que a maioria das biomassas florestais estudadas atende aos limites de emissões gasosas da legislação vigente, com exceção da serragem de eucalipto e da casca de pinus.
-- <img src="assets/icons/human_11_black.svg" width="18px"> Palavras-chave: Biomassa florestal; Combustível sólido; Combustão.
+- <img src="../../../../../../assets/icons/human_06_black.svg" width="18px"> O estudo avaliou as emissões de gases do efeito estufa (GEE) provenientes da queima de pellets de madeira e de outras biomassas florestais (casca de pinus, cavacos de pinus e serragem de eucalipto). A pesquisa comparou essas emissões com os limites estabelecidos pela Resolução nº 436 do CONAMA, no contexto dos acordos da Cúpula do Clima em Paris (COP21), que visam substituir combustíveis fósseis por fontes renováveis. Os resultados indicaram que os pellets de madeira apresentam baixas emissões de CO, NOx e SOx. Concluiu-se que a maioria das biomassas florestais estudadas atende aos limites de emissões gasosas da legislação vigente, com exceção da serragem de eucalipto e da casca de pinus.
+- <img src="../../../../../../assets/icons/human_11_black.svg" width="18px"> Palavras-chave: Biomassa florestal; Combustível sólido; Combustão.
 
 ### 3. EXTRAÇÃO DE DADOS (TABELA)
 | Categoria | Dado |
@@ -56,16 +56,16 @@ GARCIA, D. P.; CARASCHI, J. C.; VENTORIM, G. Emissões de gases do efeito estufa
 | Previsão de Aquecimento Global (IPCC 2014, até 2100) | 3,7 °C a 4,8 °C |
 
 ### 4. Extrair Bibliografia citada no texto
-- <img src="assets/icons/human_04_black.svg" width="18px"> IPCC - <img src="assets/icons/human_04_black.svg" width="18px"> Intergovernmental Panel on Climate Change (2014): Não há referência bibliográfica completa fornecida no texto para esta citação.
-- <img src="assets/icons/human_08_black.svg" width="18px"> GARCIA-MARAVER et al., 2014: Não há referência bibliográfica completa fornecida no texto para esta citação.
-- <img src="assets/icons/human_17_black.svg" width="18px"> GARCIA et al., 2016a: Não há referência bibliográfica completa fornecida no texto para esta citação.
+- <img src="../../../../../../assets/icons/human_04_black.svg" width="18px"> IPCC - <img src="../../../../../../assets/icons/human_04_black.svg" width="18px"> Intergovernmental Panel on Climate Change (2014): Não há referência bibliográfica completa fornecida no texto para esta citação.
+- <img src="../../../../../../assets/icons/human_08_black.svg" width="18px"> GARCIA-MARAVER et al., 2014: Não há referência bibliográfica completa fornecida no texto para esta citação.
+- <img src="../../../../../../assets/icons/human_17_black.svg" width="18px"> GARCIA et al., 2016a: Não há referência bibliográfica completa fornecida no texto para esta citação.
 ---
 
 ![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 <p align="right"><i>"A crise da educação no Brasil não é uma crise; é um projeto."<br>— Darcy Ribeiro</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_WTF_RAW_2017-_GEExPELLET-Dorival_Garcia.md
@@ -78,4 +78,4 @@ GARCIA, D. P.; CARASCHI, J. C.; VENTORIM, G. Emissões de gases do efeito estufa
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

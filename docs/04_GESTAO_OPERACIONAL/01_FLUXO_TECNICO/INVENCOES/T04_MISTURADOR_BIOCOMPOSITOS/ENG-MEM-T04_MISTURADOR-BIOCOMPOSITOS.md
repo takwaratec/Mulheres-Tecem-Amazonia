@@ -22,7 +22,7 @@ keywords:
 
 <p align="right"><i>"A educação é o direito de todos e dever do Estado."<br>— Anísio Teixeira</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: ENG-MEM-T04_MISTURADOR-BIOCOMPOSITOS.md
@@ -59,10 +59,10 @@ Localizado em uma lança fixa interna, o bico aspersor de largo espectro opera s
 O ponto crítico utiliza uma caixa de gaxeta com anéis de fibra de PTFE (Teflon) grafitado, permitindo aperto manual externo para manter a hermeticidade contra resinas agressivas.
 
 ## 3. Bill of Materials (BoM)
-- <img src="assets/icons/human_18_black.svg" width="18px"> **Tambor:** <img src="assets/icons/human_18_black.svg" width="18px"> Chapa de Inox 304 (3mm).
-- <img src="assets/icons/human_03_black.svg" width="18px"> **Motorização:** <img src="assets/icons/human_03_black.svg" width="18px"> Motor monofásico de 1.5 CV a 3 CV com redutor.
-- <img src="assets/icons/human_08_black.svg" width="18px"> **Vedações:** <img src="assets/icons/human_08_black.svg" width="18px"> Gaxetas de PTFE grafitado (1/2").
-- <img src="assets/icons/human_01_black.svg" width="18px"> **Aspersão:** <img src="assets/icons/human_01_black.svg" width="18px"> Bico leque inox e mangueiras de poliuretano reforçadas.
+- <img src="../../../../../../assets/icons/human_18_black.svg" width="18px"> **Tambor:** <img src="../../../../../../assets/icons/human_18_black.svg" width="18px"> Chapa de Inox 304 (3mm).
+- <img src="../../../../../../assets/icons/human_03_black.svg" width="18px"> **Motorização:** <img src="../../../../../../assets/icons/human_03_black.svg" width="18px"> Motor monofásico de 1.5 CV a 3 CV com redutor.
+- <img src="../../../../../../assets/icons/human_08_black.svg" width="18px"> **Vedações:** <img src="../../../../../../assets/icons/human_08_black.svg" width="18px"> Gaxetas de PTFE grafitado (1/2").
+- <img src="../../../../../../assets/icons/human_01_black.svg" width="18px"> **Aspersão:** <img src="../../../../../../assets/icons/human_01_black.svg" width="18px"> Bico leque inox e mangueiras de poliuretano reforçadas.
 
 ## 4. Reivindicações
 1. **MISTURADOR DE BIOCOMPÓSITOS**, caracterizado por tambor rotativo com **terminal de gaxeta ajustável externa** no eixo motriz, blindando rolamentos e mancais.
@@ -82,4 +82,4 @@ Takwara, F. R. (2026). *Memorial Jurídico: Misturador de Biocompósitos "Betone
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

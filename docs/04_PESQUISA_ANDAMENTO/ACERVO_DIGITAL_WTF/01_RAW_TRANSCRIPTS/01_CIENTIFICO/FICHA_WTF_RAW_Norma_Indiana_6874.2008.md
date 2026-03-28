@@ -12,7 +12,7 @@ author:
 
 <p align="right"><i>"O conhecimento é a nossa maior arma contra o atraso."<br>— Bertha Lutz</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_WTF_RAW_Norma_Indiana_6874.2008.md
@@ -41,9 +41,9 @@ A composição do Comitê responsável pela formulação desta norma é dada no 
 Ao relatar os resultados de um teste ou análise feita de acordo com esta norma, se o valor final, observado ou calculado, for arredondado, isso deve ser feito de acordo com IS 2 : 1960 'Regras para arredondamento de valores numéricos (revisado)'.
 
 **Palavras-chave em português:**
-* <img src="assets/icons/human_20_black.svg" width="18px">   Bambu
-* <img src="assets/icons/human_16_black.svg" width="18px">   Testes de Propriedades
-* <img src="assets/icons/human_02_black.svg" width="18px">   Norma Técnica
+* <img src="../../../../../../assets/icons/human_20_black.svg" width="18px">   Bambu
+* <img src="../../../../../../assets/icons/human_16_black.svg" width="18px">   Testes de Propriedades
+* <img src="../../../../../../assets/icons/human_02_black.svg" width="18px">   Norma Técnica
 
 ### 3. EXTRAÇÃO DE DADOS (TABELA)
 
@@ -79,4 +79,4 @@ Ao relatar os resultados de um teste ou análise feita de acordo com esta norma,
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

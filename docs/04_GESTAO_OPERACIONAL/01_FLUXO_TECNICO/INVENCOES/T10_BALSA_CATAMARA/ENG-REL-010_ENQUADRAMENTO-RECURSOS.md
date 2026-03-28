@@ -15,7 +15,7 @@ date: '2026-03-19'
 
 <p align="right"><i>"Viver é muito perigoso."<br>— Guimarães Rosa</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: ENG-REL-010_ENQUADRAMENTO-RECURSOS.md
@@ -38,9 +38,9 @@ Este relatório identifica os documentos do Dossiê BNDES/Fundo Amazônia que ne
 
 ## 2. Impacto Financeiro (Estimado)
 
-- <img src="assets/icons/human_12_black.svg" width="18px"> **CAPEX Adicional (Investimento):** <img src="assets/icons/human_12_black.svg" width="18px"> R$ 149.510,00 por unidade.
-- <img src="assets/icons/human_19_black.svg" width="18px"> **Valuation de Contrapartida (1.4x):** <img src="assets/icons/human_19_black.svg" width="18px"> R$ 209.314,00 (Aporte tecnológico do Núcleo Institucional/UnB).
-- <img src="assets/icons/human_15_black.svg" width="18px"> **Eficiência Operacional:** <img src="assets/icons/human_15_black.svg" width="18px"> Redução estimada de 70% no OPEX de combustível comparado a balsas diesel tradicionais, viabilizando o processamento de açaí e leite em comunidades remotas.
+- <img src="../../../../../../assets/icons/human_12_black.svg" width="18px"> **CAPEX Adicional (Investimento):** <img src="../../../../../../assets/icons/human_12_black.svg" width="18px"> R$ 149.510,00 por unidade.
+- <img src="../../../../../../assets/icons/human_19_black.svg" width="18px"> **Valuation de Contrapartida (1.4x):** <img src="../../../../../../assets/icons/human_19_black.svg" width="18px"> R$ 209.314,00 (Aporte tecnológico do Núcleo Institucional/UnB).
+- <img src="../../../../../../assets/icons/human_15_black.svg" width="18px"> **Eficiência Operacional:** <img src="../../../../../../assets/icons/human_15_black.svg" width="18px"> Redução estimada de 70% no OPEX de combustível comparado a balsas diesel tradicionais, viabilizando o processamento de açaí e leite em comunidades remotas.
 
 ## 3. Justificativa de Enquadramento
 
@@ -55,4 +55,4 @@ A inclusão da T10 altera o paradigma de logística passiva para **Logística At
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

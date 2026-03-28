@@ -12,7 +12,7 @@ ano_publicacao: '2025'
 
 <p align="right"><i>"Nós somos a floresta que pensa."<br>— Davi Kopenawa</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: WTF_RES_Nova_agroindústria_atua_em_rios_da_Amazônia_e_leva_mais_renda_para_comerciantes_de_açaí_–_cadeias_de_valor_da_bioeconomia_amazônica.pdf.md
@@ -34,4 +34,4 @@ tags: [P&D, Açaí, Bioeconomia, Agroindústria Flutuante]
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

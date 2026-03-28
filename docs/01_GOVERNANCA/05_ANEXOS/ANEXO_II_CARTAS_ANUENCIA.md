@@ -13,7 +13,7 @@ date: '2026-03-26'
 
 <p align="right"><i>"O povo é o único soberano."<br>— João Ubaldo Ribeiro</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: ANEXO_II_CARTAS_ANUENCIA.md
@@ -25,7 +25,7 @@ date: '2026-03-26'
 
 **Finalidade:** Formalizar a concordância das Cooperativas e Associações de Mulheres com os termos do projeto e sua participação no consórcio.
 
-## <img src="assets/icons/human_01_red.svg" width="18px"> Template de Carta de Anuência
+## <img src="../../../../assets/icons/human_01_red.svg" width="18px"> Template de Carta de Anuência
 
 **À Coordenação Geral do Projeto "Mulheres Que Tecem a Floresta"**
 **Att: Prof. Dra. Tânia Cruz (Universidade de Brasília)**
@@ -55,4 +55,4 @@ __________________________________________
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

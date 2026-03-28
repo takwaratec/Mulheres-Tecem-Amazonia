@@ -21,7 +21,7 @@ version: '2.2.2'
 
 <p align="right"><i>"O que vale na vida não é o ponto de partida e sim a caminhada."<br>— Cora Coralina</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: GOV_memorando-orcamento-consolidado_en.md
@@ -38,13 +38,13 @@ This memorandum summarizes the current state of the consolidated budget for the 
 
 ## 2. Summary of Consolidated Budget (48 months)
 
-- <img src="assets/icons/human_12_black.svg" width="18px"> **Estimated global value:** <img src="assets/icons/human_12_black.svg" width="18px"> ~R$ 20 million over 48 months.
-- <img src="assets/icons/human_01_black.svg" width="18px"> **CAPEX:** <img src="assets/icons/human_01_black.svg" width="18px"> ~R$ 5.27 million (biorefinery, NR-13 reactor, UBPs, domes, facilities).
-- <img src="assets/icons/human_02_black.svg" width="18px"> **OPEX:** <img src="assets/icons/human_02_black.svg" width="18px"> ~R$ 14.75 million (full HR, logistics, inputs, certifications).
-- <img src="assets/icons/human_13_black.svg" width="18px"> **Tranche structure:**
-    - <img src="assets/icons/human_19_black.svg" width="18px"> Tranche 1: Lower risk core (biorefinery, UBPs). Includes an allocation of **R$ 1,022,500** <img src="assets/icons/human_19_black.svg" width="18px"> for Industrial Machinery (NR-13 reactor and dual cylindrical chambers).
-    - <img src="assets/icons/human_17_black.svg" width="18px"> Tranche 2: Scaling (composites, greenhouse domes).
-    - <img src="assets/icons/human_06_black.svg" width="18px"> Tranche 3: Consolidation and regional replication.
+- <img src="../../../../assets/icons/human_12_black.svg" width="18px"> **Estimated global value:** <img src="../../../../assets/icons/human_12_black.svg" width="18px"> ~R$ 20 million over 48 months.
+- <img src="../../../../assets/icons/human_01_black.svg" width="18px"> **CAPEX:** <img src="../../../../assets/icons/human_01_black.svg" width="18px"> ~R$ 5.27 million (biorefinery, NR-13 reactor, UBPs, domes, facilities).
+- <img src="../../../../assets/icons/human_02_black.svg" width="18px"> **OPEX:** <img src="../../../../assets/icons/human_02_black.svg" width="18px"> ~R$ 14.75 million (full HR, logistics, inputs, certifications).
+- <img src="../../../../assets/icons/human_13_black.svg" width="18px"> **Tranche structure:**
+    - <img src="../../../../assets/icons/human_19_black.svg" width="18px"> Tranche 1: Lower risk core (biorefinery, UBPs). Includes an allocation of **R$ 1,022,500** <img src="../../../../assets/icons/human_19_black.svg" width="18px"> for Industrial Machinery (NR-13 reactor and dual cylindrical chambers).
+    - <img src="../../../../assets/icons/human_17_black.svg" width="18px"> Tranche 2: Scaling (composites, greenhouse domes).
+    - <img src="../../../../assets/icons/human_06_black.svg" width="18px"> Tranche 3: Consolidation and regional replication.
 
 ## 3. Critical Pending Issues to be Addressed with UnB
 
@@ -77,4 +77,4 @@ Preparation of asset valuation reports and draft counterpart commitment letters.
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

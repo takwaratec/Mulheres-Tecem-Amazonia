@@ -13,7 +13,7 @@ date: '2026-03-24'
 
 <p align="right"><i>"O povo é o único soberano."<br>— João Ubaldo Ribeiro</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: REP_readequacao-estrategica.md
@@ -40,14 +40,14 @@ Este documento formaliza a estratégia de mitigação de riscos e otimização d
 Para mitigar os riscos acima, a Biorrefinaria 5.1 assume o papel de **Núcleo Central de Infraestrutura Soberana**:
 
 1.  **Centralização em Rio Branco (Hub de Produção)**:
-    * <img src="assets/icons/human_19_black.svg" width="18px">   *Ação*: Concentrar a produção de geodésicas (Domes) e unidades sanitárias em uma célula controlada em Rio Branco.
-    * <img src="assets/icons/human_05_black.svg" width="18px">   *Mitigação*: Neutraliza a dependência de fornecedores externos e garante o padrão técnico (PU Vegetal Carbono Zero).
+    * <img src="../../../../assets/icons/human_19_black.svg" width="18px">   *Ação*: Concentrar a produção de geodésicas (Domes) e unidades sanitárias em uma célula controlada em Rio Branco.
+    * <img src="../../../../assets/icons/human_05_black.svg" width="18px">   *Mitigação*: Neutraliza a dependência de fornecedores externos e garante o padrão técnico (PU Vegetal Carbono Zero).
 2.  **Tecnologia de Equipamentos Artesanais High-Tech**:
-    * <img src="assets/icons/human_02_black.svg" width="18px">   *Ação*: Substituir máquinas industriais importadas por reatores Rocket produzidos internamente.
-    * <img src="assets/icons/human_01_black.svg" width="18px">   *Mitigação*: Garante manutenção local e elimina custos de importação/assistência técnica inacessível.
+    * <img src="../../../../assets/icons/human_02_black.svg" width="18px">   *Ação*: Substituir máquinas industriais importadas por reatores Rocket produzidos internamente.
+    * <img src="../../../../assets/icons/human_01_black.svg" width="18px">   *Mitigação*: Garante manutenção local e elimina custos de importação/assistência técnica inacessível.
 3.  **Matriz Energética de Biomassa Residual**:
-    * <img src="assets/icons/human_09_black.svg" width="18px">   *Ação*: Utilizar resíduos das próprias cadeias (caroços de açaí, cascas de castanha, aparas de bambu) como combustível.
-    * <img src="assets/icons/human_20_black.svg" width="18px">   *Mitigação*: Estancamento imediato de custos operacionais (OPEX) com energia.
+    * <img src="../../../../assets/icons/human_09_black.svg" width="18px">   *Ação*: Utilizar resíduos das próprias cadeias (caroços de açaí, cascas de castanha, aparas de bambu) como combustível.
+    * <img src="../../../../assets/icons/human_20_black.svg" width="18px">   *Mitigação*: Estancamento imediato de custos operacionais (OPEX) com energia.
 
 ## 3. Readequação Orçamentária e Aplicação Consciente
 
@@ -62,9 +62,9 @@ O plano de aplicação consciente baseia-se na **internalização do lucro indir
 | **Saneamento e Água** | Mantido (Estratégico) | Considerado investimento imperativo para regeneração auditada. |
 
 ### Benefícios da Readequação:
-* <img src="assets/icons/human_10_black.svg" width="18px">   **Aumento da Capilaridade**: Com o mesmo valor de 3 obras convencionais, entregamos 10+ polos geodésicos integrados.
-* <img src="assets/icons/human_17_black.svg" width="18px">   **Soberania Técnica**: O projeto retém o conhecimento e as formas de produção de sua própria infraestrutura.
-* <img src="assets/icons/human_03_black.svg" width="18px">   **Mensurabilidade**: Impacto imediato em Carbono Zero e indicadores de saúde da comunidade.
+* <img src="../../../../assets/icons/human_10_black.svg" width="18px">   **Aumento da Capilaridade**: Com o mesmo valor de 3 obras convencionais, entregamos 10+ polos geodésicos integrados.
+* <img src="../../../../assets/icons/human_17_black.svg" width="18px">   **Soberania Técnica**: O projeto retém o conhecimento e as formas de produção de sua própria infraestrutura.
+* <img src="../../../../assets/icons/human_03_black.svg" width="18px">   **Mensurabilidade**: Impacto imediato em Carbono Zero e indicadores de saúde da comunidade.
 
 ## 4. Estratégia de Implementação (Faseamento)
 
@@ -96,4 +96,4 @@ Esta readequação não altera as metas do projeto, mas **garante sua execução
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

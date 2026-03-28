@@ -7,7 +7,7 @@
 
 <p align="right"><i>"A crise da educação no Brasil não é uma crise; é um projeto."<br>— Darcy Ribeiro</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: WTF_RAW_2020-_ESTUDO-DAS-PROPRIEDADES-MECÂNICAS-DO-BAMBU1.md
@@ -159,7 +159,7 @@ Com os resultados obtidos fica claro que o bambu pode ser usado como material co
 
 1.  TORRES CRUZ, L. A. **Modelo anisotropo de elementos finitos para el análisis mecánico del bambú y su verificación experimental**. 2005. 133 f. Trabalho de Conclusão de Curso (Graduação em Engenharia Civil e Geomática) – Escuela de Ingeniería Civil y Geomática, Universidad del Valle, Santiago de Cali, 2005.
 2.  INTERNATIONAL ORGANIZATION FOR STANDARDIZATION. **Determination of physical and mechanical properties of bamboo**: ISO N314. [S. l.]: ISO, 1999.
-    * <img src="assets/icons/human_14_black.svg" width="18px">   **Nota do Bibliotecário:** <img src="assets/icons/human_14_black.svg" width="18px"> A norma "ISO N314" citada no texto não corresponde a uma norma ISO padrão conhecida para propriedades mecânicas do bambu. A norma relevante para este fim é a série ISO 22157 (ex: ISO 22157-1:2004). O DOI para esta referência não pode ser sincronizado sem a identificação precisa da norma referida.
+    * <img src="../../../../../../../assets/icons/human_14_black.svg" width="18px">   **Nota do Bibliotecário:** <img src="../../../../../../../assets/icons/human_14_black.svg" width="18px"> A norma "ISO N314" citada no texto não corresponde a uma norma ISO padrão conhecida para propriedades mecânicas do bambu. A norma relevante para este fim é a série ISO 22157 (ex: ISO 22157-1:2004). O DOI para esta referência não pode ser sincronizado sem a identificação precisa da norma referida.
 
 #CATEGORIA: Bambu/Propriedades_Mecânicas
 ```
@@ -173,4 +173,4 @@ Com os resultados obtidos fica claro que o bambu pode ser usado como material co
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

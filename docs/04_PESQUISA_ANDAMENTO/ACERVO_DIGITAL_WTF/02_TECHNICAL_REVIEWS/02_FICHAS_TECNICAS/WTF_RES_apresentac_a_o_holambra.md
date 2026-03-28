@@ -12,7 +12,7 @@ ano_publicacao: '2025'
 
 <p align="right"><i>"A terra não é um negócio, a terra é a nossa mãe."<br>— Ailton Krenak</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: WTF_RES_apresentac_a_o_holambra.md
@@ -24,16 +24,16 @@ ano_publicacao: '2025'
 
 <!-- image -->
 
-<img src="assets/icons/human_01_red.svg" width="18px"> OBJETIVO: Usar o cabo da enxada como porta de entrada para demonstrar todo o potencial da Tecnologia Institucional
+<img src="../../../../../../assets/icons/human_01_red.svg" width="18px"> OBJETIVO: Usar o cabo da enxada como porta de entrada para demonstrar todo o potencial da Tecnologia Institucional
 
 
 <!-- image -->
 
 
-- <img src="assets/icons/human_18_black.svg" width="18px"> 3 cabos de enxada tradicionais (madeira)
-- <img src="assets/icons/human_08_black.svg" width="18px"> 3 cabos Institucional (bambu + PU Vegetal)
-- <img src="assets/icons/human_01_black.svg" width="18px"> Amostras de bambu em diferentes idades (jovem, maduro, velho)
-- <img src="assets/icons/human_09_black.svg" width="18px"> Componentes A e B do PU Vegetal para ...
+- <img src="../../../../../../assets/icons/human_18_black.svg" width="18px"> 3 cabos de enxada tradicionais (madeira)
+- <img src="../../../../../../assets/icons/human_08_black.svg" width="18px"> 3 cabos Institucional (bambu + PU Vegetal)
+- <img src="../../../../../../assets/icons/human_01_black.svg" width="18px"> Amostras de bambu em diferentes idades (jovem, maduro, velho)
+- <img src="../../../../../../assets/icons/human_09_black.svg" width="18px"> Componentes A e B do PU Vegetal para ...
 
 ---
 
@@ -44,4 +44,4 @@ ano_publicacao: '2025'
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

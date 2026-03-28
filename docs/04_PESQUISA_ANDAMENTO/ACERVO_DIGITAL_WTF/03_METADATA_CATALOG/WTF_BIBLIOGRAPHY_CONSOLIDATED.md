@@ -12,7 +12,7 @@
 
 <p align="right"><i>"Ciência é a investigação da verdade."<br>— Carlos Chagas</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: WTF_BIBLIOGRAPHY_CONSOLIDATED.md
@@ -20,77 +20,77 @@
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
-# <img src="assets/icons/human_01_red.svg" width="18px"> Consolidated Bibliography - Management Team (Project Mulheres que Tecem a Floresta)
+# <img src="../../../../../assets/icons/human_01_red.svg" width="18px"> Consolidated Bibliography - Management Team (Project Mulheres que Tecem a Floresta)
 
 This list aggregates the scientific production of the management team (Vanessa Fernandes, Geórgia Ferko, Sonia Marise) relevant to Project Mulheres que Tecem a Floresta (Women, Bioeconomy, Amazon).
 
 ## Vanessa Fernandes de Araújo Vargas
-- <img src="assets/icons/human_05_black.svg" width="18px"> **Title**: Plantas da Amazônia para Produção Cosmética: uma abordagem química (v. 1)
-  - <img src="assets/icons/human_10_black.svg" width="18px"> **Year**: 2005
-  - <img src="assets/icons/human_03_black.svg" width="18px"> **Authors**: Pastore Jr, F.; Araújo, V.F.
-  - <img src="assets/icons/human_09_black.svg" width="18px"> **Link/Download**: [Scribd (Reference)](https://www.scribd.com/document/382619216/2-2-Plantas-da-Amazonia-para-producao-cosmetica-pdf)
-- <img src="assets/icons/human_12_black.svg" width="18px"> **Title**: Plantas da Amazônia para Produção Cosmética (v. 2 - <img src="assets/icons/human_12_black.svg" width="18px"> 60 espécies)
-  - <img src="assets/icons/human_14_black.svg" width="18px"> **Year**: 2007
-  - <img src="assets/icons/human_04_black.svg" width="18px"> **Authors**: Araújo, V.F.; Petry, A.C.
-- <img src="assets/icons/human_16_black.svg" width="18px"> **Title**: Espécies Nativas da Flora Brasileira de Valor Econômico (Região Norte)
-  - <img src="assets/icons/human_06_black.svg" width="18px"> **Year**: 2008
-  - <img src="assets/icons/human_02_black.svg" width="18px"> **Authors**: Araújo, V.F. [et al.]
-  - <img src="assets/icons/human_20_black.svg" width="18px"> **Link/Download**: [Portal Amazônia](https://portalamazonia.com/wp-content/uploads/2022/07/Livro-Espcies-Nativas-da-Flora-Brasileira-de-Valor-Econmico-Atual-ou-Potencial-Plantas-para-o-Futuro-Regio-Norte.pdf)
-- <img src="assets/icons/human_11_black.svg" width="18px"> **Title**: Bambu no Brasil: potencial de uso e tecnologias de transformação
-  - <img src="assets/icons/human_08_black.svg" width="18px"> **Authors**: Pastore Jr, F.; Araújo, V.F.
-  - <img src="assets/icons/human_07_black.svg" width="18px"> **Status**: Identified in LATEQ/UnB archives.
+- <img src="../../../../../assets/icons/human_05_black.svg" width="18px"> **Title**: Plantas da Amazônia para Produção Cosmética: uma abordagem química (v. 1)
+  - <img src="../../../../../assets/icons/human_10_black.svg" width="18px"> **Year**: 2005
+  - <img src="../../../../../assets/icons/human_03_black.svg" width="18px"> **Authors**: Pastore Jr, F.; Araújo, V.F.
+  - <img src="../../../../../assets/icons/human_09_black.svg" width="18px"> **Link/Download**: [Scribd (Reference)](https://www.scribd.com/document/382619216/2-2-Plantas-da-Amazonia-para-producao-cosmetica-pdf)
+- <img src="../../../../../assets/icons/human_12_black.svg" width="18px"> **Title**: Plantas da Amazônia para Produção Cosmética (v. 2 - <img src="../../../../../assets/icons/human_12_black.svg" width="18px"> 60 espécies)
+  - <img src="../../../../../assets/icons/human_14_black.svg" width="18px"> **Year**: 2007
+  - <img src="../../../../../assets/icons/human_04_black.svg" width="18px"> **Authors**: Araújo, V.F.; Petry, A.C.
+- <img src="../../../../../assets/icons/human_16_black.svg" width="18px"> **Title**: Espécies Nativas da Flora Brasileira de Valor Econômico (Região Norte)
+  - <img src="../../../../../assets/icons/human_06_black.svg" width="18px"> **Year**: 2008
+  - <img src="../../../../../assets/icons/human_02_black.svg" width="18px"> **Authors**: Araújo, V.F. [et al.]
+  - <img src="../../../../../assets/icons/human_20_black.svg" width="18px"> **Link/Download**: [Portal Amazônia](https://portalamazonia.com/wp-content/uploads/2022/07/Livro-Espcies-Nativas-da-Flora-Brasileira-de-Valor-Econmico-Atual-ou-Potencial-Plantas-para-o-Futuro-Regio-Norte.pdf)
+- <img src="../../../../../assets/icons/human_11_black.svg" width="18px"> **Title**: Bambu no Brasil: potencial de uso e tecnologias de transformação
+  - <img src="../../../../../assets/icons/human_08_black.svg" width="18px"> **Authors**: Pastore Jr, F.; Araújo, V.F.
+  - <img src="../../../../../assets/icons/human_07_black.svg" width="18px"> **Status**: Identified in LATEQ/UnB archives.
 
 ## Geórgia Patrícia da Silva Ferko
-- <img src="assets/icons/human_13_black.svg" width="18px"> **Title**: Desafios e Oportunidades para Desenvolvimento Sustentável no Brasil com a Bioeconomia Digital
-  - <img src="assets/icons/human_15_black.svg" width="18px"> **Year**: 2025
-  - <img src="assets/icons/human_19_black.svg" width="18px"> **DOI**: [10.18227/2237-8057rarr.v17i1.8470](https://doi.org/10.18227/2237-8057rarr.v17i1.8470)
-  - <img src="assets/icons/human_01_black.svg" width="18px"> **Download**: [RARR (PDF)](https://revista.ufrr.br/adminrr/article/download/8470/4343/34745)
-- <img src="assets/icons/human_17_black.svg" width="18px"> **Title**: Cultura e espaço de cuidado às crianças indígenas: adaptação cultural hospitalar na perspectiva dos profissionais
-  - <img src="assets/icons/human_18_black.svg" width="18px"> **Year**: 2024
-  - <img src="assets/icons/human_05_black.svg" width="18px"> **Authors**: Muniz, A.S.S.S; Pellegrini, M.A.; Ferko, G.P.S.
-  - <img src="assets/icons/human_10_black.svg" width="18px"> **Download**: [Cuadernos de Educación y Desarrollo](https://ojs.cuadernoseducacion.com/index.php/ced/article/download/8181/5412)
-- <img src="assets/icons/human_03_black.svg" width="18px"> **Title**: Ser Mulher, Indígena e Líder: Empoderamento e Liderança Feminina numa Aldeia Amazônica
-  - <img src="assets/icons/human_09_black.svg" width="18px"> **Year**: 2023
-  - <img src="assets/icons/human_12_black.svg" width="18px"> **Link**: [SemeAd 26 (Abstract)](https://semead.com.br/26/wp-content/uploads/sites/17/2023/10/XXVI-SemeAd-Programacao-v1.0.pdf)
-- <img src="assets/icons/human_14_black.svg" width="18px"> **Title**: Sustainability and Technology: Proposals for 2050 Amazon
-  - <img src="assets/icons/human_04_black.svg" width="18px"> **Year**: 2023
-  - <img src="assets/icons/human_16_black.svg" width="18px"> **DOI**: 10.18222/rgsa.v17i1.3414
-- <img src="assets/icons/human_06_black.svg" width="18px"> **Title**: Turismo em terras indígenas: legislação e direitos humanos
-  - <img src="assets/icons/human_02_black.svg" width="18px"> **Year**: 2018
-  - <img src="assets/icons/human_20_black.svg" width="18px"> **Link**: [RITUR](https://www.seer.ufal.br/index.php/ritur/article/view/4531)
+- <img src="../../../../../assets/icons/human_13_black.svg" width="18px"> **Title**: Desafios e Oportunidades para Desenvolvimento Sustentável no Brasil com a Bioeconomia Digital
+  - <img src="../../../../../assets/icons/human_15_black.svg" width="18px"> **Year**: 2025
+  - <img src="../../../../../assets/icons/human_19_black.svg" width="18px"> **DOI**: [10.18227/2237-8057rarr.v17i1.8470](https://doi.org/10.18227/2237-8057rarr.v17i1.8470)
+  - <img src="../../../../../assets/icons/human_01_black.svg" width="18px"> **Download**: [RARR (PDF)](https://revista.ufrr.br/adminrr/article/download/8470/4343/34745)
+- <img src="../../../../../assets/icons/human_17_black.svg" width="18px"> **Title**: Cultura e espaço de cuidado às crianças indígenas: adaptação cultural hospitalar na perspectiva dos profissionais
+  - <img src="../../../../../assets/icons/human_18_black.svg" width="18px"> **Year**: 2024
+  - <img src="../../../../../assets/icons/human_05_black.svg" width="18px"> **Authors**: Muniz, A.S.S.S; Pellegrini, M.A.; Ferko, G.P.S.
+  - <img src="../../../../../assets/icons/human_10_black.svg" width="18px"> **Download**: [Cuadernos de Educación y Desarrollo](https://ojs.cuadernoseducacion.com/index.php/ced/article/download/8181/5412)
+- <img src="../../../../../assets/icons/human_03_black.svg" width="18px"> **Title**: Ser Mulher, Indígena e Líder: Empoderamento e Liderança Feminina numa Aldeia Amazônica
+  - <img src="../../../../../assets/icons/human_09_black.svg" width="18px"> **Year**: 2023
+  - <img src="../../../../../assets/icons/human_12_black.svg" width="18px"> **Link**: [SemeAd 26 (Abstract)](https://semead.com.br/26/wp-content/uploads/sites/17/2023/10/XXVI-SemeAd-Programacao-v1.0.pdf)
+- <img src="../../../../../assets/icons/human_14_black.svg" width="18px"> **Title**: Sustainability and Technology: Proposals for 2050 Amazon
+  - <img src="../../../../../assets/icons/human_04_black.svg" width="18px"> **Year**: 2023
+  - <img src="../../../../../assets/icons/human_16_black.svg" width="18px"> **DOI**: 10.18222/rgsa.v17i1.3414
+- <img src="../../../../../assets/icons/human_06_black.svg" width="18px"> **Title**: Turismo em terras indígenas: legislação e direitos humanos
+  - <img src="../../../../../assets/icons/human_02_black.svg" width="18px"> **Year**: 2018
+  - <img src="../../../../../assets/icons/human_20_black.svg" width="18px"> **Link**: [RITUR](https://www.seer.ufal.br/index.php/ritur/article/view/4531)
 
 ## Sonia Marise Salles Carvalho
-- <img src="assets/icons/human_11_black.svg" width="18px"> **Title**: Acordos de Compensação Tecnológica e Industrial no Exército Brasileiro
-  - <img src="assets/icons/human_08_black.svg" width="18px"> **Year**: 2025
-  - <img src="assets/icons/human_07_black.svg" width="18px"> **Link/Download**: [Revista de Geopolítica](https://revistageo.com.br/revista/article/download/895/655/2864)
-- <img src="assets/icons/human_13_black.svg" width="18px"> **Title**: Co-criação da ferramenta de modelo de negócio para Empreendimentos Econômicos Solidários: inovação na metodologia da Incubadora de Tecnologia Social da UnB
-  - <img src="assets/icons/human_15_black.svg" width="18px"> **Year**: 2021
-  - <img src="assets/icons/human_19_black.svg" width="18px"> **Authors**: Carvalho, S.M.S; Cruz, T.C.S.
-  - <img src="assets/icons/human_01_black.svg" width="18px"> **Download**: [UNB (PDF)](https://periodicos.unb.br/index.php/democracia_ciencia_tecnologia/article/download/38076/29676)
-- <img src="assets/icons/human_17_black.svg" width="18px"> **Title**: POLÍTICA NACIONAL DE TECNOLOGIA SOCIAL: REFLEXÕES A PARTIR DE UM GRUPO DE TRABALHO AMAZÔNICO
-  - <img src="assets/icons/human_18_black.svg" width="18px"> **Year**: 2020
-  - <img src="assets/icons/human_05_black.svg" width="18px"> **Authors**: Carvalho, S.M.S [et al.]
-  - <img src="assets/icons/human_10_black.svg" width="18px"> **Download**: [Terceira Margem Amazônia](https://www.revistaterceiramargem.com/index.php/terceiramargem/article/download/174/147)
-- <img src="assets/icons/human_03_black.svg" width="18px"> **Title**: General Law on Personal Data Protection and the Innovation Law
-  - <img src="assets/icons/human_09_black.svg" width="18px"> **Year**: 2023
-  - <img src="assets/icons/human_12_black.svg" width="18px"> **DOI**: [10.18624/e-tech.v18i1.1403](https://doi.org/10.18624/e-tech.v18i1.1403)
-- <img src="assets/icons/human_14_black.svg" width="18px"> **Title**: VABICT: Componente-chave para conectar Modelo de Negócio e Lei de Inovação
-  - <img src="assets/icons/human_04_black.svg" width="18px"> **Link/Download**: [Editora Omnis Scientia](https://editora.editoraomnisscientia.com.br/livroPDF/4-10598925457-09012025152008.pdf)
-- <img src="assets/icons/human_16_black.svg" width="18px"> **Title**: Bioeconomia Indígena Feminina: Vozes das Gerações
-  - <img src="assets/icons/human_06_black.svg" width="18px"> **Link/Download**: [Uma Concertação pela Amazônia](https://concertacaoamazonia.com.br/?jet_download=802e82db0026541eebcd7cba0ece5a932e251dbe)
-- <img src="assets/icons/human_02_black.svg" width="18px"> **Title**: Bioeconomia indígena: saberes ancestrais e tecnologias sociais
-  - <img src="assets/icons/human_20_black.svg" width="18px"> **Link/Download**: [ISA (Acervo)](https://acervo.socioambiental.org/acervo/documentos/bioeconomia-indigena-saberes-ancestrais-e-tecnologias-sociais)
+- <img src="../../../../../assets/icons/human_11_black.svg" width="18px"> **Title**: Acordos de Compensação Tecnológica e Industrial no Exército Brasileiro
+  - <img src="../../../../../assets/icons/human_08_black.svg" width="18px"> **Year**: 2025
+  - <img src="../../../../../assets/icons/human_07_black.svg" width="18px"> **Link/Download**: [Revista de Geopolítica](https://revistageo.com.br/revista/article/download/895/655/2864)
+- <img src="../../../../../assets/icons/human_13_black.svg" width="18px"> **Title**: Co-criação da ferramenta de modelo de negócio para Empreendimentos Econômicos Solidários: inovação na metodologia da Incubadora de Tecnologia Social da UnB
+  - <img src="../../../../../assets/icons/human_15_black.svg" width="18px"> **Year**: 2021
+  - <img src="../../../../../assets/icons/human_19_black.svg" width="18px"> **Authors**: Carvalho, S.M.S; Cruz, T.C.S.
+  - <img src="../../../../../assets/icons/human_01_black.svg" width="18px"> **Download**: [UNB (PDF)](https://periodicos.unb.br/index.php/democracia_ciencia_tecnologia/article/download/38076/29676)
+- <img src="../../../../../assets/icons/human_17_black.svg" width="18px"> **Title**: POLÍTICA NACIONAL DE TECNOLOGIA SOCIAL: REFLEXÕES A PARTIR DE UM GRUPO DE TRABALHO AMAZÔNICO
+  - <img src="../../../../../assets/icons/human_18_black.svg" width="18px"> **Year**: 2020
+  - <img src="../../../../../assets/icons/human_05_black.svg" width="18px"> **Authors**: Carvalho, S.M.S [et al.]
+  - <img src="../../../../../assets/icons/human_10_black.svg" width="18px"> **Download**: [Terceira Margem Amazônia](https://www.revistaterceiramargem.com/index.php/terceiramargem/article/download/174/147)
+- <img src="../../../../../assets/icons/human_03_black.svg" width="18px"> **Title**: General Law on Personal Data Protection and the Innovation Law
+  - <img src="../../../../../assets/icons/human_09_black.svg" width="18px"> **Year**: 2023
+  - <img src="../../../../../assets/icons/human_12_black.svg" width="18px"> **DOI**: [10.18624/e-tech.v18i1.1403](https://doi.org/10.18624/e-tech.v18i1.1403)
+- <img src="../../../../../assets/icons/human_14_black.svg" width="18px"> **Title**: VABICT: Componente-chave para conectar Modelo de Negócio e Lei de Inovação
+  - <img src="../../../../../assets/icons/human_04_black.svg" width="18px"> **Link/Download**: [Editora Omnis Scientia](https://editora.editoraomnisscientia.com.br/livroPDF/4-10598925457-09012025152008.pdf)
+- <img src="../../../../../assets/icons/human_16_black.svg" width="18px"> **Title**: Bioeconomia Indígena Feminina: Vozes das Gerações
+  - <img src="../../../../../assets/icons/human_06_black.svg" width="18px"> **Link/Download**: [Uma Concertação pela Amazônia](https://concertacaoamazonia.com.br/?jet_download=802e82db0026541eebcd7cba0ece5a932e251dbe)
+- <img src="../../../../../assets/icons/human_02_black.svg" width="18px"> **Title**: Bioeconomia indígena: saberes ancestrais e tecnologias sociais
+  - <img src="../../../../../assets/icons/human_20_black.svg" width="18px"> **Link/Download**: [ISA (Acervo)](https://acervo.socioambiental.org/acervo/documentos/bioeconomia-indigena-saberes-ancestrais-e-tecnologias-sociais)
 
 ## Tânia Cristina da Silva Cruz (Selected)
-- <img src="assets/icons/human_11_black.svg" width="18px"> **Title**: Quilombolas e Covid-19: desenvolvimento de tecnologias sociais para promoção de saúde no Médio Jequitinhonha
-  - <img src="assets/icons/human_08_black.svg" width="18px"> **Year**: 2023
-  - <img src="assets/icons/human_07_black.svg" width="18px"> **DOI**: 10.25245/rdspp.v9i2.811
-- <img src="assets/icons/human_13_black.svg" width="18px"> **Title**: Ressignificações do trabalho das mulheres para a agenda das políticas públicas
-  - <img src="assets/icons/human_15_black.svg" width="18px"> **Year**: 2008
-  - <img src="assets/icons/human_19_black.svg" width="18px"> **Authors**: Cruz, T.C.S; KüchemAnn, B.A.
-  - <img src="assets/icons/human_01_black.svg" width="18px"> **Download**: [UNB (PDF)](http://seer.bce.unb.br/index.php/SER_Social/article/download/1/27)
-- <img src="assets/icons/human_17_black.svg" width="18px"> **Title**: Reflexões sociojurídicas no resguardo das populações tradicionais
-  - <img src="assets/icons/human_18_black.svg" width="18px"> **DOI**: 10.25245/rdspp.v9i2.811
+- <img src="../../../../../assets/icons/human_11_black.svg" width="18px"> **Title**: Quilombolas e Covid-19: desenvolvimento de tecnologias sociais para promoção de saúde no Médio Jequitinhonha
+  - <img src="../../../../../assets/icons/human_08_black.svg" width="18px"> **Year**: 2023
+  - <img src="../../../../../assets/icons/human_07_black.svg" width="18px"> **DOI**: 10.25245/rdspp.v9i2.811
+- <img src="../../../../../assets/icons/human_13_black.svg" width="18px"> **Title**: Ressignificações do trabalho das mulheres para a agenda das políticas públicas
+  - <img src="../../../../../assets/icons/human_15_black.svg" width="18px"> **Year**: 2008
+  - <img src="../../../../../assets/icons/human_19_black.svg" width="18px"> **Authors**: Cruz, T.C.S; KüchemAnn, B.A.
+  - <img src="../../../../../assets/icons/human_01_black.svg" width="18px"> **Download**: [UNB (PDF)](http://seer.bce.unb.br/index.php/SER_Social/article/download/1/27)
+- <img src="../../../../../assets/icons/human_17_black.svg" width="18px"> **Title**: Reflexões sociojurídicas no resguardo das populações tradicionais
+  - <img src="../../../../../assets/icons/human_18_black.svg" width="18px"> **DOI**: 10.25245/rdspp.v9i2.811
 
 ---
 
@@ -101,4 +101,4 @@ This list aggregates the scientific production of the management team (Vanessa F
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

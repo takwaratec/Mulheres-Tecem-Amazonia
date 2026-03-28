@@ -23,7 +23,7 @@ version: '5.1'
 
 <p align="right"><i>"Não se morre enquanto houver quem nos lembre."<br>— Cora Coralina</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: ENG_concepcao-resinagem-airless.md
@@ -49,8 +49,8 @@ Inspirado no mecanismo de assadeiras de frango, este maquinário rotaciona as va
 2.  **Transmissão Sincronizada (Corrente):** Um sistema de **corrente única** (estilo motor de moto ou assadeira industrial) faz com que todos os eixos rotacionem simultaneamente a uma velocidade controlada por um único motor.
 3.  **Aplicação Airless:** Utilização de pistolas airless para atomização da resina UG132A em varas lixadas e secas (<12% umidade).
 4.  **Escalonamento por Lote:**
-    * <img src="assets/icons/human_19_black.svg" width="18px">   **Modelo de 3 Eixos:** <img src="assets/icons/human_19_black.svg" width="18px"> Para aplicação manual ou pequenos lotes.
-    * <img src="assets/icons/human_13_black.svg" width="18px">   **Modelo Multieixos:** <img src="assets/icons/human_13_black.svg" width="18px"> Para grandes lotes, aproveitando o volume total de PU misturado antes da polimerização.
+    * <img src="../../../../../../assets/icons/human_19_black.svg" width="18px">   **Modelo de 3 Eixos:** <img src="../../../../../../assets/icons/human_19_black.svg" width="18px"> Para aplicação manual ou pequenos lotes.
+    * <img src="../../../../../../assets/icons/human_13_black.svg" width="18px">   **Modelo Multieixos:** <img src="../../../../../../assets/icons/human_13_black.svg" width="18px"> Para grandes lotes, aproveitando o volume total de PU misturado antes da polimerização.
 
 ## 3. Cenário Imagético e Mapa Mental
 
@@ -75,4 +75,4 @@ Takwara, F. R. (2026). *Conceituação Técnica: Maquinário de Resinagem Airles
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

@@ -13,7 +13,7 @@ date: '2026-03-26'
 
 <p align="right"><i>"O espaço geográfico é o encontro de objetos e ações."<br>— Milton Santos</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_Genero_agroecologia_e_economia_solidaria_estudo_de.md
@@ -29,18 +29,18 @@ Como Pesquisador Sênior e Analista de Dados do Projeto WTF (Mulheres Que Tecem 
 
 ### 1. METADADOS E CABEÇALHO
 
-* <img src="assets/icons/human_02_black.svg" width="18px">   **projeto:** <img src="assets/icons/human_02_black.svg" width="18px"> Mulheres Que Tecem a Floresta
-* <img src="assets/icons/human_16_black.svg" width="18px">   **instituicao:** <img src="assets/icons/human_16_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
-* <img src="assets/icons/human_13_black.svg" width="18px">   **tipo:** <img src="assets/icons/human_13_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
-* <img src="assets/icons/human_12_black.svg" width="18px">   **referencia_interna:** <img src="assets/icons/human_12_black.svg" width="18px"> PES-TEC-4976-2026
-* <img src="assets/icons/human_14_black.svg" width="18px">   **status:** <img src="assets/icons/human_14_black.svg" width="18px"> Ready
+* <img src="../../../../../assets/icons/human_02_black.svg" width="18px">   **projeto:** <img src="../../../../../assets/icons/human_02_black.svg" width="18px"> Mulheres Que Tecem a Floresta
+* <img src="../../../../../assets/icons/human_16_black.svg" width="18px">   **instituicao:** <img src="../../../../../assets/icons/human_16_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
+* <img src="../../../../../assets/icons/human_13_black.svg" width="18px">   **tipo:** <img src="../../../../../assets/icons/human_13_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
+* <img src="../../../../../assets/icons/human_12_black.svg" width="18px">   **referencia_interna:** <img src="../../../../../assets/icons/human_12_black.svg" width="18px"> PES-TEC-4976-2026
+* <img src="../../../../../assets/icons/human_14_black.svg" width="18px">   **status:** <img src="../../../../../assets/icons/human_14_black.svg" width="18px"> Ready
 
 **REFERÊNCIA BIBLIOGRÁFICA (ABNT):**
 
 SILVA, Flávia Regina Fernandes. Gênero, agroecologia e economia solidária: estudo de caso do grupo de mulheres do Acampamento Recanto da Natureza em Laranjeiras do Sul – PR. **Desenvolvimento e Meio Ambiente**, Curitiba, v. 39, p. 115-132, dez. 2016. DOI: 10.5380/dma.v39i0.45697.
 
-* <img src="assets/icons/human_03_black.svg" width="18px">   **name:** <img src="assets/icons/human_03_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
-* <img src="assets/icons/human_10_black.svg" width="18px">   **date:** <img src="assets/icons/human_10_black.svg" width="18px"> '2026-03-24'
+* <img src="../../../../../assets/icons/human_03_black.svg" width="18px">   **name:** <img src="../../../../../assets/icons/human_03_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
+* <img src="../../../../../assets/icons/human_10_black.svg" width="18px">   **date:** <img src="../../../../../assets/icons/human_10_black.svg" width="18px"> '2026-03-24'
 
 ### 2. TRADUÇÃO E SÍNTESE TÉCNICA
 
@@ -66,4 +66,4 @@ A lógica produtivista e mercadológica dominante no processo de modernização 
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

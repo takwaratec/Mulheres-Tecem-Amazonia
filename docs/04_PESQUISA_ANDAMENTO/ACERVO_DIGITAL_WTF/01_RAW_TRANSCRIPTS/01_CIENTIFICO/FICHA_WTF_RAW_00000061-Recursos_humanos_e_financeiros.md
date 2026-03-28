@@ -12,7 +12,7 @@ author:
 
 <p align="right"><i>"Ciência é a investigação da verdade."<br>— Carlos Chagas</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_WTF_RAW_00000061-Recursos_humanos_e_financeiros.md
@@ -36,9 +36,9 @@ ACERVO DIGITAL MULHERES QUE TECEM A FLORESTA. Estrutura de custos, pessoal e nec
 O texto detalha a estrutura de custos, pessoal e necessidades financeiras para 4 anos de operação da Plataforma Amazônia Regenerativa. Ele abrange obras civis (incluindo biorefinaria de bambu e resíduos, fornos de pirólise, linha de briquetagem, domos geodésicos e pátios de compostagem), recursos humanos (coordenação, equipe técnica especializada em saneamento, engenharia mecânica, arquitetura em bambu, biopolímeros, bioeconomia e gênero/desenvolvimento comunitário, além de equipes operacionais), e a aquisição de máquinas, equipamentos e ferramentas. A plataforma visa o processamento de biomassa para produção de briquetes, biochar, extrato pirolenhoso e biocompósitos (painéis de bambu-PU vegetal).
 
 **Palavras-chave:**
-* <img src="assets/icons/human_08_black.svg" width="18px">   Biomassa
-* <img src="assets/icons/human_16_black.svg" width="18px">   Briquetagem
-* <img src="assets/icons/human_17_black.svg" width="18px">   Pirólise
+* <img src="../../../../../../assets/icons/human_08_black.svg" width="18px">   Biomassa
+* <img src="../../../../../../assets/icons/human_16_black.svg" width="18px">   Briquetagem
+* <img src="../../../../../../assets/icons/human_17_black.svg" width="18px">   Pirólise
 
 ### 3. EXTRAÇÃO DE DADOS (TABELA)
 
@@ -55,11 +55,11 @@ O texto detalha a estrutura de custos, pessoal e necessidades financeiras para 4
 
 ### 4. Extrair Bibliografia citada no texto
 
-* <img src="assets/icons/human_11_black.svg" width="18px">   BNDES (Banco Nacional de Desenvolvimento Econômico e Social)
-* <img src="assets/icons/human_13_black.svg" width="18px">   Fundo Amazônia
-* <img src="assets/icons/human_12_black.svg" width="18px">   ABNT NBR 16828 (Associação Brasileira de Normas Técnicas - <img src="assets/icons/human_12_black.svg" width="18px"> Norma para estruturas de bambu)
-* <img src="assets/icons/human_14_black.svg" width="18px">   Imperveg (Empresa/Parceria potencial para biopolímeros/PU vegetal)
-* <img src="assets/icons/human_07_black.svg" width="18px">   Campos, Jesiel (Referência para equipamentos customizados - <img src="assets/icons/human_07_black.svg" width="18px"> briquetadeiras, fornos, tamboreadores, aplicadores, etc.)
+* <img src="../../../../../../assets/icons/human_11_black.svg" width="18px">   BNDES (Banco Nacional de Desenvolvimento Econômico e Social)
+* <img src="../../../../../../assets/icons/human_13_black.svg" width="18px">   Fundo Amazônia
+* <img src="../../../../../../assets/icons/human_12_black.svg" width="18px">   ABNT NBR 16828 (Associação Brasileira de Normas Técnicas - <img src="../../../../../../assets/icons/human_12_black.svg" width="18px"> Norma para estruturas de bambu)
+* <img src="../../../../../../assets/icons/human_14_black.svg" width="18px">   Imperveg (Empresa/Parceria potencial para biopolímeros/PU vegetal)
+* <img src="../../../../../../assets/icons/human_07_black.svg" width="18px">   Campos, Jesiel (Referência para equipamentos customizados - <img src="../../../../../../assets/icons/human_07_black.svg" width="18px"> briquetadeiras, fornos, tamboreadores, aplicadores, etc.)
 
 ---
 
@@ -70,4 +70,4 @@ O texto detalha a estrutura de custos, pessoal e necessidades financeiras para 4
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

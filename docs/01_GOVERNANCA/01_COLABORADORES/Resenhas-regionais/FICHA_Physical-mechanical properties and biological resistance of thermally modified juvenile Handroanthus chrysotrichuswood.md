@@ -13,7 +13,7 @@ date: '2026-03-26'
 
 <p align="right"><i>"A vida é curta, a arte é longa."<br>— Machado de Assis</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_Physical-mechanical properties and biological resistance of thermally modified juvenile Handroanthus chrysotrichuswood.md
@@ -27,11 +27,11 @@ Como Pesquisador Sênior e Analista de Dados do Projeto WTF, apresento a Ficha C
 
 ### 1. METADADOS E CABEÇALHO
 
-* <img src="assets/icons/human_18_black.svg" width="18px">   **Projeto:** <img src="assets/icons/human_18_black.svg" width="18px"> Mulheres Que Tecem a Floresta
-* <img src="assets/icons/human_12_black.svg" width="18px">   **Instituição:** <img src="assets/icons/human_12_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
-* <img src="assets/icons/human_13_black.svg" width="18px">   **Tipo:** <img src="assets/icons/human_13_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
-* <img src="assets/icons/human_05_black.svg" width="18px">   **Referência Interna:** <img src="assets/icons/human_05_black.svg" width="18px"> PES-TEC-5022-2026
-* <img src="assets/icons/human_15_black.svg" width="18px">   **Status:** <img src="assets/icons/human_15_black.svg" width="18px"> Ready
+* <img src="../../../../../assets/icons/human_18_black.svg" width="18px">   **Projeto:** <img src="../../../../../assets/icons/human_18_black.svg" width="18px"> Mulheres Que Tecem a Floresta
+* <img src="../../../../../assets/icons/human_12_black.svg" width="18px">   **Instituição:** <img src="../../../../../assets/icons/human_12_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
+* <img src="../../../../../assets/icons/human_13_black.svg" width="18px">   **Tipo:** <img src="../../../../../assets/icons/human_13_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
+* <img src="../../../../../assets/icons/human_05_black.svg" width="18px">   **Referência Interna:** <img src="../../../../../assets/icons/human_05_black.svg" width="18px"> PES-TEC-5022-2026
+* <img src="../../../../../assets/icons/human_15_black.svg" width="18px">   **Status:** <img src="../../../../../assets/icons/human_15_black.svg" width="18px"> Ready
 
 **REFERÊNCIA BIBLIOGRÁFICA (ABNT):**
 CANDATEN, L.; DALLA COSTA, H. W.; TREVISAN, R.; ELOY, E.; KULCYNSKI, S. M. Propriedades físico-mecânicas e resistência biológica da madeira de *Handroanthus chrysotrichus* jovem termicamente modificada. *Revista Ciência Agrária*, v. 63, 2020.
@@ -63,4 +63,4 @@ A madeira, em seu estado natural, é vulnerável a organismos xilófagos, demand
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

@@ -13,7 +13,7 @@ date: '2026-03-26'
 
 <p align="right"><i>"A ciência não é apenas um corpo de conhecimento, é um modo de pensar."<br>— Marcelo Gleiser</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_saneamento_Amazonia.md
@@ -27,11 +27,11 @@ Compreendido. Atuarei como Pesquisador Sênior e Analista de Dados do Projeto WT
 
 ## 1. METADADOS E CABEÇALHO
 
-* <img src="assets/icons/human_06_black.svg" width="18px">   **Projeto:** <img src="assets/icons/human_06_black.svg" width="18px"> Mulheres Que Tecem a Floresta
-* <img src="assets/icons/human_10_black.svg" width="18px">   **Instituição:** <img src="assets/icons/human_10_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
-* <img src="assets/icons/human_13_black.svg" width="18px">   **Tipo:** <img src="assets/icons/human_13_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
-* <img src="assets/icons/human_12_black.svg" width="18px">   **Referência Interna:** <img src="assets/icons/human_12_black.svg" width="18px"> PES-TEC-4939-2026
-* <img src="assets/icons/human_20_black.svg" width="18px">   **Status:** <img src="assets/icons/human_20_black.svg" width="18px"> Ready
+* <img src="../../../../../assets/icons/human_06_black.svg" width="18px">   **Projeto:** <img src="../../../../../assets/icons/human_06_black.svg" width="18px"> Mulheres Que Tecem a Floresta
+* <img src="../../../../../assets/icons/human_10_black.svg" width="18px">   **Instituição:** <img src="../../../../../assets/icons/human_10_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
+* <img src="../../../../../assets/icons/human_13_black.svg" width="18px">   **Tipo:** <img src="../../../../../assets/icons/human_13_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
+* <img src="../../../../../assets/icons/human_12_black.svg" width="18px">   **Referência Interna:** <img src="../../../../../assets/icons/human_12_black.svg" width="18px"> PES-TEC-4939-2026
+* <img src="../../../../../assets/icons/human_20_black.svg" width="18px">   **Status:** <img src="../../../../../assets/icons/human_20_black.svg" width="18px"> Ready
 
 **REFERÊNCIA BIBLIOGRÁFICA (ABNT):**
 
@@ -45,9 +45,9 @@ As enteroparasitoses representam um grave problema de saúde pública em popula�
 
 **Palavras-chave (Português):**
 
-* <img src="assets/icons/human_08_black.svg" width="18px">   Parasitoses intestinais
-* <img src="assets/icons/human_03_black.svg" width="18px">   Prevalência
-* <img src="assets/icons/human_16_black.svg" width="18px">   Indígenas
+* <img src="../../../../../assets/icons/human_08_black.svg" width="18px">   Parasitoses intestinais
+* <img src="../../../../../assets/icons/human_03_black.svg" width="18px">   Prevalência
+* <img src="../../../../../assets/icons/human_16_black.svg" width="18px">   Indígenas
 
 ## 3. EXTRAÇÃO DE DADOS (TABELA)
 
@@ -90,10 +90,10 @@ O estudo menciona a "manutenção de práticas sanitárias tradicionais" como um
 
 A relação com saberes ancestrais deve ser de **diálogo e integração**, não de substituição. O Projeto WTF pode:
 
-* <img src="assets/icons/human_04_black.svg" width="18px">   **Identificar e Valorizar:** <img src="assets/icons/human_04_black.svg" width="18px"> Trabalhar com Tania, Sonia, Georgia e outras líderes para identificar quais práticas tradicionais de manejo da água, resíduos e higiene são eficazes e benéficas, e quais podem ser adaptadas ou complementadas com inovações. Por exemplo, o conhecimento sobre fontes de água ou uso de plantas pode ser valioso.
-* <img src="assets/icons/human_15_black.svg" width="18px">   **Cocriação de Soluções:** <img src="assets/icons/human_15_black.svg" width="18px"> Desenvolver soluções de saneamento e higiene que sejam culturalmente apropriadas e sustentáveis, em parceria com as comunidades. Isso significa ouvir as perspectivas e experiências das mulheres, incorporando seus conhecimentos sobre o ambiente e seus recursos.
-* <img src="assets/icons/human_02_black.svg" width="18px">   **Mediação do Conhecimento:** <img src="assets/icons/human_02_black.svg" width="18px"> Atuar como mediador, traduzindo o conhecimento científico sobre transmissão de doenças de forma compreensível e respeitosa, e vinculando-o aos saberes locais. Tania, Sonia e Georgia podem ser pontes cruciais para essa comunicação, ajudando a integrar novas práticas que melhorem a saúde sem descaracterizar a cultura.
-* <img src="assets/icons/human_01_black.svg" width="18px">   **Foco na Sustentabilidade Ambiental e Cultural:** <img src="assets/icons/human_01_black.svg" width="18px"> As soluções devem considerar o impacto ambiental e cultural, garantindo que as intervenções não criem novos problemas ou desvalorizem a identidade indígena. A "Floresta" do nome do projeto enfatiza a interconexão entre saúde humana e ambiente.
+* <img src="../../../../../assets/icons/human_04_black.svg" width="18px">   **Identificar e Valorizar:** <img src="../../../../../assets/icons/human_04_black.svg" width="18px"> Trabalhar com Tania, Sonia, Georgia e outras líderes para identificar quais práticas tradicionais de manejo da água, resíduos e higiene são eficazes e benéficas, e quais podem ser adaptadas ou complementadas com inovações. Por exemplo, o conhecimento sobre fontes de água ou uso de plantas pode ser valioso.
+* <img src="../../../../../assets/icons/human_15_black.svg" width="18px">   **Cocriação de Soluções:** <img src="../../../../../assets/icons/human_15_black.svg" width="18px"> Desenvolver soluções de saneamento e higiene que sejam culturalmente apropriadas e sustentáveis, em parceria com as comunidades. Isso significa ouvir as perspectivas e experiências das mulheres, incorporando seus conhecimentos sobre o ambiente e seus recursos.
+* <img src="../../../../../assets/icons/human_02_black.svg" width="18px">   **Mediação do Conhecimento:** <img src="../../../../../assets/icons/human_02_black.svg" width="18px"> Atuar como mediador, traduzindo o conhecimento científico sobre transmissão de doenças de forma compreensível e respeitosa, e vinculando-o aos saberes locais. Tania, Sonia e Georgia podem ser pontes cruciais para essa comunicação, ajudando a integrar novas práticas que melhorem a saúde sem descaracterizar a cultura.
+* <img src="../../../../../assets/icons/human_01_black.svg" width="18px">   **Foco na Sustentabilidade Ambiental e Cultural:** <img src="../../../../../assets/icons/human_01_black.svg" width="18px"> As soluções devem considerar o impacto ambiental e cultural, garantindo que as intervenções não criem novos problemas ou desvalorizem a identidade indígena. A "Floresta" do nome do projeto enfatiza a interconexão entre saúde humana e ambiente.
 
 Em suma, o estudo oferece uma base para entender os desafios de saúde, permitindo que o Projeto WTF, através da colaboração com detentoras de saberes ancestrais, desenvolva estratégias integradas que promovam a saúde, respeitem a cultura e fortaleçam a autonomia das mulheres na Amazônia Setentrional.
 
@@ -124,4 +124,4 @@ Em suma, o estudo oferece uma base para entender os desafios de saúde, permitin
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

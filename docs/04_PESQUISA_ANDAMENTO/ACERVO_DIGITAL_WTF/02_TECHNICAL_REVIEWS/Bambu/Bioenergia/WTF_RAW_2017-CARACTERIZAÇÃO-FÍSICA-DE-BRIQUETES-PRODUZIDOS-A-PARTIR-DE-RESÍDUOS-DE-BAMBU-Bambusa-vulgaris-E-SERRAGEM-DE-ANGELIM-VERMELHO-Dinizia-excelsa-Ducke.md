@@ -10,7 +10,7 @@ O arquivo apresenta um estudo científico detalhado sobre a caracterização fí
 
 <p align="right"><i>"Só se aprende o que se pratica."<br>— Anísio Teixeira</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: WTF_RAW_2017-CARACTERIZAÇÃO-FÍSICA-DE-BRIQUETES-PRODUZIDOS-A-PARTIR-DE-RESÍDUOS-DE-BAMBU-Bambusa-vulgaris-E-SERRAGEM-DE-ANGELIM-VERMELHO-Dinizia-excelsa-Ducke.md
@@ -37,4 +37,4 @@ Considerando o tema principal (bambu, resíduos, briquetagem, energia) e o conte
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

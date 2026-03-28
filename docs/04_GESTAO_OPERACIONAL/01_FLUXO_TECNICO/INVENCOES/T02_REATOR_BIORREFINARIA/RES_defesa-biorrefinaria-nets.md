@@ -10,7 +10,7 @@ licenca: CC BY-NC 4.0
 
 <p align="right"><i>"O real não está na saída nem na chegada: ele se dispõe para a gente é no meio da travessia."<br>— Guimarães Rosa</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: RES_defesa-biorrefinaria-nets.md
@@ -29,16 +29,16 @@ A Biorrefinaria Artesanal 5.1 posiciona-se como uma **Tecnologia de Emissão Neg
 Baseado na revisão técnica de avanços em produção de biochar (Energies 2025):
 
 ### 2.1 Eficiência e Poligeração
-- <img src="assets/icons/human_16_black.svg" width="18px"> **Otimização de Processo**: O controle dos parâmetros de design (conforme demonstrado em simulações CFD e automação NR-13) permite maximizar o **Carbono Fixo (FC)** <img src="assets/icons/human_16_black.svg" width="18px"> e reduzir **Matéria Volátil (VM)**, garantindo a estabilidade necessária para certificação de créditos de carbono (VM0044).
-- <img src="assets/icons/human_01_black.svg" width="18px"> **Substituição de Fósseis**: O biochar produzido possui Poder Calorífico Superior (HHV) de até 31.1 MJ/kg, comparável ao antracito, permitindo a substituição imediata de combustíveis fósseis em agroindústrias locais.
+- <img src="../../../../../../assets/icons/human_16_black.svg" width="18px"> **Otimização de Processo**: O controle dos parâmetros de design (conforme demonstrado em simulações CFD e automação NR-13) permite maximizar o **Carbono Fixo (FC)** <img src="../../../../../../assets/icons/human_16_black.svg" width="18px"> e reduzir **Matéria Volátil (VM)**, garantindo a estabilidade necessária para certificação de créditos de carbono (VM0044).
+- <img src="../../../../../../assets/icons/human_01_black.svg" width="18px"> **Substituição de Fósseis**: O biochar produzido possui Poder Calorífico Superior (HHV) de até 31.1 MJ/kg, comparável ao antracito, permitindo a substituição imediata de combustíveis fósseis em agroindústrias locais.
 
 ### 2.2 Descentralização e Logística
-- <img src="assets/icons/human_14_black.svg" width="18px"> **Eficiência de Escala Distribuída**: A natureza distribuída da biomassa amazônica torna as grandes plantas centralizadas economicamente inviáveis devido aos custos logísticos. A unidade de 0.5 ton/h da Institucional resolve este gargalo, processando o resíduo in-situ e gerando valor direto para a comunidade (economia circular).
-- <img src="assets/icons/human_04_black.svg" width="18px"> **Produção On-site**: Tecnologias como os Kilns de Chama (Flame-cap) e o reator de Poligeração da Institucional reduzem drasticamente as emissões tóxicas e de fumaça em comparação com as queimas tradicionais de campo.
+- <img src="../../../../../../assets/icons/human_14_black.svg" width="18px"> **Eficiência de Escala Distribuída**: A natureza distribuída da biomassa amazônica torna as grandes plantas centralizadas economicamente inviáveis devido aos custos logísticos. A unidade de 0.5 ton/h da Institucional resolve este gargalo, processando o resíduo in-situ e gerando valor direto para a comunidade (economia circular).
+- <img src="../../../../../../assets/icons/human_04_black.svg" width="18px"> **Produção On-site**: Tecnologias como os Kilns de Chama (Flame-cap) e o reator de Poligeração da Institucional reduzem drasticamente as emissões tóxicas e de fumaça em comparação com as queimas tradicionais de campo.
 
 ### 2.3 Benefícios Socioambientais Diretos
-- <img src="assets/icons/human_15_black.svg" width="18px"> **Segurança Hídrica e Fertilidade**: O tratamento de solos degradados com biochar aumenta a retenção de nutrientes e água, essencial para a resiliência climática de pequenos produtores.
-- <img src="assets/icons/human_20_black.svg" width="18px"> **Remediação Local**: O biochar ativado pode ser utilizado para filtrar efluentes de processos de biorrefino e mineração, reduzindo a carga de metais pesados no ecossistema local.
+- <img src="../../../../../../assets/icons/human_15_black.svg" width="18px"> **Segurança Hídrica e Fertilidade**: O tratamento de solos degradados com biochar aumenta a retenção de nutrientes e água, essencial para a resiliência climática de pequenos produtores.
+- <img src="../../../../../../assets/icons/human_20_black.svg" width="18px"> **Remediação Local**: O biochar ativado pode ser utilizado para filtrar efluentes de processos de biorrefino e mineração, reduzindo a carga de metais pesados no ecossistema local.
 
 ## 3. Diretrizes de Implementação Soberana (Protocolo 5.1)
 1. **Foco em Carbono Fixo**: Priorizar a pirólise lenta para maximizar a retenção de carbono.
@@ -60,4 +60,4 @@ MATARRU, Andre Amba; SHIN, Donghoon. Biochar Production Technology as a Negative
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

@@ -13,7 +13,7 @@ date: '2026-03-26'
 
 <p align="right"><i>"O conhecimento é a nossa maior arma contra o atraso."<br>— Bertha Lutz</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: 01_CADEIAS_VALOR.md
@@ -21,7 +21,7 @@ date: '2026-03-26'
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
-# <img src="assets/icons/human_01_red.svg" width="18px">️ Componente 1: Cadeias de Valor (Açaí e Castanha)
+# <img src="../../../assets/icons/human_01_red.svg" width="18px">️ Componente 1: Cadeias de Valor (Açaí e Castanha)
 **Responsável Técnica:** Profa. Dra. Sonia Marise  
 **Metodologia de Redação:** 4 Mãos (Coordenação Técnica Colegiada)
 
@@ -34,8 +34,8 @@ A transição do modelo de "venda de matéria-prima in natura" para a "oferta de
 ## 2. Especificações Técnicas e Diferenciais
 O componente opera através de agroindústrias compactas e modulares, projetadas para as condições da Amazônia Legal:
 
-- <img src="assets/icons/human_11_black.svg" width="18px"> **Mecanização Adaptada**: Utilização de linhas de beneficiamento validadas (como as referenciadas pela UNNI Máquinas), com foco em despolpadoras, classificadoras e sistemas de embalagem a vácuo que garantem a segurança alimentar e o acesso a mercados diferenciados.
-- <img src="assets/icons/human_19_black.svg" width="18px"> **Integração Termoenergética**: O processamento agroindustrial é alimentado pelo vapor e calor gerados pela biorrefinaria reaproveitando resíduos da própria produção (cascas e caroços), fechando o ciclo de economia circular.
+- <img src="../../../assets/icons/human_11_black.svg" width="18px"> **Mecanização Adaptada**: Utilização de linhas de beneficiamento validadas (como as referenciadas pela UNNI Máquinas), com foco em despolpadoras, classificadoras e sistemas de embalagem a vácuo que garantem a segurança alimentar e o acesso a mercados diferenciados.
+- <img src="../../../assets/icons/human_19_black.svg" width="18px"> **Integração Termoenergética**: O processamento agroindustrial é alimentado pelo vapor e calor gerados pela biorrefinaria reaproveitando resíduos da própria produção (cascas e caroços), fechando o ciclo de economia circular.
 
 ## 3. Impacto Social e Redes de Cooperação
 Sob a liderança da Profa. Sonia, o projeto atua na formação técnica de mulheres para a operação dessas agroindústrias. A capacitação em boas práticas de fabricação (BPF) e gestão cooperativa assegura que o protagonismo feminino se traduza em qualidade técnica e competitividade comercial, alinhando-se às metas de bioeconomia do BNDES.
@@ -49,4 +49,4 @@ Sob a liderança da Profa. Sonia, o projeto atua na formação técnica de mulhe
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

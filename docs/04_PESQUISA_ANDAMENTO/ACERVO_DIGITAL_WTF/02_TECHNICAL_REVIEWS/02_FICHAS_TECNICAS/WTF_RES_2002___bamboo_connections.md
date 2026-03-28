@@ -12,7 +12,7 @@ ano_publicacao: '2002'
 
 <p align="right"><i>"Só se aprende o que se pratica."<br>— Anísio Teixeira</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: WTF_RES_2002___bamboo_connections.md
@@ -25,7 +25,7 @@ ano_publicacao: '2002'
 
 Bamboo itself has a lot of advantages using it for building houses, bridges... . It is a cheap, fast growing material with excellent statistics according to the mechanical properties. The connections are the difficult structures in bamboo constructions. Here are a few reasons:
 
-- <img src="assets/icons/human_13_black.svg" width="18px"> ? Bamboo has got a round profile. Creating connections with round...
+- <img src="../../../../../../assets/icons/human_13_black.svg" width="18px"> ? Bamboo has got a round profile. Creating connections with round...
 
 ---
 
@@ -36,4 +36,4 @@ Bamboo itself has a lot of advantages using it for building houses, bridges... .
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

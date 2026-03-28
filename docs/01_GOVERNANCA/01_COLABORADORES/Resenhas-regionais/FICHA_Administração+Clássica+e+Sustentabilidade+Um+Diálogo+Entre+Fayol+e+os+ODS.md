@@ -13,7 +13,7 @@ date: '2026-03-26'
 
 <p align="right"><i>"O conhecimento é a nossa maior arma contra o atraso."<br>— Bertha Lutz</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_Administração+Clássica+e+Sustentabilidade+Um+Diálogo+Entre+Fayol+e+os+ODS.md
@@ -27,11 +27,11 @@ Como Pesquisador Sênior e Analista de Dados do Projeto WTF (Mulheres Que Tecem 
 
 ### 1. METADADOS E CABEÇALHO
 
-* <img src="assets/icons/human_08_black.svg" width="18px">   **Projeto:** <img src="assets/icons/human_08_black.svg" width="18px"> Mulheres Que Tecem a Floresta
-* <img src="assets/icons/human_09_black.svg" width="18px">   **Instituição:** <img src="assets/icons/human_09_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
-* <img src="assets/icons/human_13_black.svg" width="18px">   **Tipo:** <img src="assets/icons/human_13_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
-* <img src="assets/icons/human_03_black.svg" width="18px">   **Referência Interna:** <img src="assets/icons/human_03_black.svg" width="18px"> PES-TEC-5058-2026
-* <img src="assets/icons/human_02_black.svg" width="18px">   **Status:** <img src="assets/icons/human_02_black.svg" width="18px"> Ready
+* <img src="../../../../../assets/icons/human_08_black.svg" width="18px">   **Projeto:** <img src="../../../../../assets/icons/human_08_black.svg" width="18px"> Mulheres Que Tecem a Floresta
+* <img src="../../../../../assets/icons/human_09_black.svg" width="18px">   **Instituição:** <img src="../../../../../assets/icons/human_09_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
+* <img src="../../../../../assets/icons/human_13_black.svg" width="18px">   **Tipo:** <img src="../../../../../assets/icons/human_13_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
+* <img src="../../../../../assets/icons/human_03_black.svg" width="18px">   **Referência Interna:** <img src="../../../../../assets/icons/human_03_black.svg" width="18px"> PES-TEC-5058-2026
+* <img src="../../../../../assets/icons/human_02_black.svg" width="18px">   **Status:** <img src="../../../../../assets/icons/human_02_black.svg" width="18px"> Ready
 
 **REFERÊNCIA BIBLIOGRÁFICA (ABNT):**
 
@@ -61,4 +61,4 @@ O artigo tem como objetivo analisar de que forma as funções administrativas cl
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

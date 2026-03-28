@@ -13,7 +13,7 @@ date: '2026-03-26'
 
 <p align="right"><i>"Arte sem ética não é arte."<br>— Ariano Suassuna</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_Bioeconomia_Digital_Brasil_Ferko_2025.md
@@ -27,12 +27,12 @@ Como Pesquisador Sênior e Analista de Dados do Projeto WTF, apresento a seguir 
 
 ### 1. METADADOS E CABEÇALHO
 
-* <img src="assets/icons/human_11_black.svg" width="18px">   **Projeto:** <img src="assets/icons/human_11_black.svg" width="18px"> Mulheres Que Tecem a Floresta
-* <img src="assets/icons/human_08_black.svg" width="18px">   **Instituição:** <img src="assets/icons/human_08_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
-* <img src="assets/icons/human_13_black.svg" width="18px">   **Tipo:** <img src="assets/icons/human_13_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
-* <img src="assets/icons/human_01_black.svg" width="18px">   **Referência Interna:** <img src="assets/icons/human_01_black.svg" width="18px"> PES-TEC-4211-2026
-* <img src="assets/icons/human_16_black.svg" width="18px">   **Status:** <img src="assets/icons/human_16_black.svg" width="18px"> Ready
-* <img src="assets/icons/human_20_black.svg" width="18px">   **Data de Análise:** <img src="assets/icons/human_20_black.svg" width="18px"> 2026-03-24
+* <img src="../../../../../assets/icons/human_11_black.svg" width="18px">   **Projeto:** <img src="../../../../../assets/icons/human_11_black.svg" width="18px"> Mulheres Que Tecem a Floresta
+* <img src="../../../../../assets/icons/human_08_black.svg" width="18px">   **Instituição:** <img src="../../../../../assets/icons/human_08_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
+* <img src="../../../../../assets/icons/human_13_black.svg" width="18px">   **Tipo:** <img src="../../../../../assets/icons/human_13_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
+* <img src="../../../../../assets/icons/human_01_black.svg" width="18px">   **Referência Interna:** <img src="../../../../../assets/icons/human_01_black.svg" width="18px"> PES-TEC-4211-2026
+* <img src="../../../../../assets/icons/human_16_black.svg" width="18px">   **Status:** <img src="../../../../../assets/icons/human_16_black.svg" width="18px"> Ready
+* <img src="../../../../../assets/icons/human_20_black.svg" width="18px">   **Data de Análise:** <img src="../../../../../assets/icons/human_20_black.svg" width="18px"> 2026-03-24
 
 **REFERÊNCIA BIBLIOGRÁFICA (ABNT):**
 
@@ -64,4 +64,4 @@ MARASSATO, José Mário; ARANTES, Emerson Clayton; FERKO, Georgia Patrícia da S
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

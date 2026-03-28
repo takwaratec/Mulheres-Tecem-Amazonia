@@ -13,7 +13,7 @@ date: '2026-03-26'
 
 <p align="right"><i>"Ensinar não é transferir conhecimento, mas criar as possibilidades para a sua própria produção ou a sua construção."<br>— Paulo Freire</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_alan+georgia+terras+indigenas.md
@@ -27,11 +27,11 @@ Como Pesquisador Sênior e Analista de Dados do Projeto WTF (Mulheres Que Tecem 
 
 ### 1. METADADOS E CABEÇALHO
 
-* <img src="assets/icons/human_03_black.svg" width="18px">   **projeto**: Mulheres Que Tecem a Floresta
-* <img src="assets/icons/human_19_black.svg" width="18px">   **instituicao**: Consórcio UnB/UFRR/UFAC
-* <img src="assets/icons/human_08_black.svg" width="18px">   **tipo**: Pesquisa: Amazônia Setentrional (PES)
-* <img src="assets/icons/human_15_black.svg" width="18px">   **referencia**: PES-TEC-3899-2026
-* <img src="assets/icons/human_01_black.svg" width="18px">   **status**: Ready
+* <img src="../../../../../assets/icons/human_03_black.svg" width="18px">   **projeto**: Mulheres Que Tecem a Floresta
+* <img src="../../../../../assets/icons/human_19_black.svg" width="18px">   **instituicao**: Consórcio UnB/UFRR/UFAC
+* <img src="../../../../../assets/icons/human_08_black.svg" width="18px">   **tipo**: Pesquisa: Amazônia Setentrional (PES)
+* <img src="../../../../../assets/icons/human_15_black.svg" width="18px">   **referencia**: PES-TEC-3899-2026
+* <img src="../../../../../assets/icons/human_01_black.svg" width="18px">   **status**: Ready
 
 **REFERÊNCIA BIBLIOGRÁFICA (ABNT):**
 
@@ -63,4 +63,4 @@ O fenômeno do turismo tem crescido em várias partes do mundo, considerado refl
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

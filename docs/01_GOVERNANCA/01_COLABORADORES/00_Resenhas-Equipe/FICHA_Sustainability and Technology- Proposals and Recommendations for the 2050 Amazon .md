@@ -13,7 +13,7 @@ date: '2026-03-26'
 
 <p align="right"><i>"O espaço geográfico é o encontro de objetos e ações."<br>— Milton Santos</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_Sustainability and Technology- Proposals and Recommendations for the 2050 Amazon .md
@@ -27,12 +27,12 @@ Okay, como Pesquisador Sênior e Analista de Dados do Projeto WTF (Mulheres Que 
 
 ### 1. METADADOS E CABEÇALHO
 
-* <img src="assets/icons/human_06_black.svg" width="18px">   **Projeto:** <img src="assets/icons/human_06_black.svg" width="18px"> Mulheres Que Tecem a Floresta (WTF)
-* <img src="assets/icons/human_15_black.svg" width="18px">   **Instituição:** <img src="assets/icons/human_15_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
-* <img src="assets/icons/human_18_black.svg" width="18px">   **Tipo de Documento:** <img src="assets/icons/human_18_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
-* <img src="assets/icons/human_04_black.svg" width="18px">   **Referência Interna:** <img src="assets/icons/human_04_black.svg" width="18px"> PES-TEC-3814-2026
-* <img src="assets/icons/human_11_black.svg" width="18px">   **Status:** <img src="assets/icons/human_11_black.svg" width="18px"> Ready
-* <img src="assets/icons/human_05_black.svg" width="18px">   **Data da Análise:** <img src="assets/icons/human_05_black.svg" width="18px"> 24 de março de 2026 (assumindo a data de referência do projeto)
+* <img src="../../../../../assets/icons/human_06_black.svg" width="18px">   **Projeto:** <img src="../../../../../assets/icons/human_06_black.svg" width="18px"> Mulheres Que Tecem a Floresta (WTF)
+* <img src="../../../../../assets/icons/human_15_black.svg" width="18px">   **Instituição:** <img src="../../../../../assets/icons/human_15_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
+* <img src="../../../../../assets/icons/human_18_black.svg" width="18px">   **Tipo de Documento:** <img src="../../../../../assets/icons/human_18_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
+* <img src="../../../../../assets/icons/human_04_black.svg" width="18px">   **Referência Interna:** <img src="../../../../../assets/icons/human_04_black.svg" width="18px"> PES-TEC-3814-2026
+* <img src="../../../../../assets/icons/human_11_black.svg" width="18px">   **Status:** <img src="../../../../../assets/icons/human_11_black.svg" width="18px"> Ready
+* <img src="../../../../../assets/icons/human_05_black.svg" width="18px">   **Data da Análise:** <img src="../../../../../assets/icons/human_05_black.svg" width="18px"> 24 de março de 2026 (assumindo a data de referência do projeto)
 
 **REFERÊNCIA BIBLIOGRÁFICA (ABNT):**
 
@@ -69,4 +69,4 @@ Originalidade/valor: Expande o entendimento das ações sustentáveis e apresent
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

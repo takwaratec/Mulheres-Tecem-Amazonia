@@ -12,7 +12,7 @@ author:
 
 <p align="right"><i>"Não se morre enquanto houver quem nos lembre."<br>— Cora Coralina</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_WTF_RAW_10_-_Jan_-19_Relatório_de_atividades_LaPeCFaS.md
@@ -25,11 +25,11 @@ SIM
 ### FICHA CIENTÍFICA ESTRUTURADA
 
 ### 1. METADADOS E CABEÇALHO
-* <img src="assets/icons/human_03_black.svg" width="18px">   **projeto:** <img src="assets/icons/human_03_black.svg" width="18px"> Mulheres Que Tecem a Floresta
-* <img src="assets/icons/human_20_black.svg" width="18px">   **instituicao:** <img src="assets/icons/human_20_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
-* <img src="assets/icons/human_15_black.svg" width="18px">   **tipo:** <img src="assets/icons/human_15_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
-* <img src="assets/icons/human_10_black.svg" width="18px">   **referencia:** <img src="assets/icons/human_10_black.svg" width="18px"> PES-TEC-1885-2026
-* <img src="assets/icons/human_12_black.svg" width="18px">   **status:** <img src="assets/icons/human_12_black.svg" width="18px"> Ready
+* <img src="../../../../../../assets/icons/human_03_black.svg" width="18px">   **projeto:** <img src="../../../../../../assets/icons/human_03_black.svg" width="18px"> Mulheres Que Tecem a Floresta
+* <img src="../../../../../../assets/icons/human_20_black.svg" width="18px">   **instituicao:** <img src="../../../../../../assets/icons/human_20_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
+* <img src="../../../../../../assets/icons/human_15_black.svg" width="18px">   **tipo:** <img src="../../../../../../assets/icons/human_15_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
+* <img src="../../../../../../assets/icons/human_10_black.svg" width="18px">   **referencia:** <img src="../../../../../../assets/icons/human_10_black.svg" width="18px"> PES-TEC-1885-2026
+* <img src="../../../../../../assets/icons/human_12_black.svg" width="18px">   **status:** <img src="../../../../../../assets/icons/human_12_black.svg" width="18px"> Ready
 
 **REFERÊNCIA BIBLIOGRÁFICA (ABNT):**
 ACERVO DIGITAL MULHERES QUE TECEM A FLORESTA. *Experimentação em bioconstrução no Mutirão do Bem Viver: relatório de atividades de pesquisa externa*. Sobradinho, DF, 2025.
@@ -70,4 +70,4 @@ Não há referências bibliográficas citadas explicitamente no corpo do texto.
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

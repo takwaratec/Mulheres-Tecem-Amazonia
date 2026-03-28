@@ -13,7 +13,7 @@ date: '2026-03-24'
 
 <p align="right"><i>"Inventar é imaginar o que os outros não pensaram."<br>— Santos Dumont</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: REP_parametros-mercado-norte.md
@@ -46,9 +46,9 @@ Para o cálculo de **Contrapartida de PI** e **CAPEX de Projetos**, utilizaremos
 
 ## 3. Fatores Adicionais (Mark-up Logístico)
 
-* <img src="assets/icons/human_19_black.svg" width="18px">   **Fator Logístico (FL):** <img src="assets/icons/human_19_black.svg" width="18px"> +15% sobre o custo de insumos (reflete o frete Manaus-Rio Branco/Interior).
-* <img src="assets/icons/human_10_black.svg" width="18px">   **Margem de Contingência:** <img src="assets/icons/human_10_black.svg" width="18px"> 5% para variações de câmbio em componentes importados (ex: inversores).
-* <img src="assets/icons/human_17_black.svg" width="18px">   **Valuation de Soberania (VS):** <img src="assets/icons/human_17_black.svg" width="18px"> Multiplicador de **1.4x** <img src="assets/icons/human_17_black.svg" width="18px"> sobre o custo de fábrica. Este fator quantifica o ativo intangível (Invenção/Patente), cobrindo o risco de P&D e a ausência de royalties estrangeiros.
+* <img src="../../../../assets/icons/human_19_black.svg" width="18px">   **Fator Logístico (FL):** <img src="../../../../assets/icons/human_19_black.svg" width="18px"> +15% sobre o custo de insumos (reflete o frete Manaus-Rio Branco/Interior).
+* <img src="../../../../assets/icons/human_10_black.svg" width="18px">   **Margem de Contingência:** <img src="../../../../assets/icons/human_10_black.svg" width="18px"> 5% para variações de câmbio em componentes importados (ex: inversores).
+* <img src="../../../../assets/icons/human_17_black.svg" width="18px">   **Valuation de Soberania (VS):** <img src="../../../../assets/icons/human_17_black.svg" width="18px"> Multiplicador de **1.4x** <img src="../../../../assets/icons/human_17_black.svg" width="18px"> sobre o custo de fábrica. Este fator quantifica o ativo intangível (Invenção/Patente), cobrindo o risco de P&D e a ausência de royalties estrangeiros.
 
 ## Como Citar Este Trabalho
 
@@ -70,4 +70,4 @@ Para o cálculo de **Contrapartida de PI** e **CAPEX de Projetos**, utilizaremos
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

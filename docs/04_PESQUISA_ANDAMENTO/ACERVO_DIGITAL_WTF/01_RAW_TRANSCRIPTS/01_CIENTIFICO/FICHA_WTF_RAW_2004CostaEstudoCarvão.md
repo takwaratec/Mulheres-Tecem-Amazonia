@@ -5,7 +5,7 @@
 
 <p align="right"><i>"Viver é muito perigoso."<br>— Guimarães Rosa</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Documento**: FICHA_WTF_RAW_2004CostaEstudoCarvão.md
@@ -32,11 +32,11 @@ Periódico/Local: Dissertação (Mestrado em Ciências na Área de Tecnologia Nu
 COSTA, T. M. S. **Estudo da viabilidade técnica do emprego do bambu da espécie *Bambusa vulgaris* Schard. como carvão vegetal**. 2004. Dissertação (Mestrado em Ciências na Área de Tecnologia Nuclear-Materiais) – Instituto de Pesquisas Energéticas e Nucleares, Autarquia Associada à Universidade de São Paulo, São Paulo, 2004.
 
 ### 2. TRADUÇÃO E SÍNTESE TÉCNICA
-- <img src="assets/icons/human_04_black.svg" width="18px"> O resumo já está em português.
-- <img src="assets/icons/human_12_black.svg" width="18px"> Palavras-chave:
-    * <img src="assets/icons/human_14_black.svg" width="18px">   Bambu
-    * <img src="assets/icons/human_15_black.svg" width="18px">   Carvão Vegetal
-    * <img src="assets/icons/human_06_black.svg" width="18px">   Carbonização
+- <img src="../../../../../../assets/icons/human_04_black.svg" width="18px"> O resumo já está em português.
+- <img src="../../../../../../assets/icons/human_12_black.svg" width="18px"> Palavras-chave:
+    * <img src="../../../../../../assets/icons/human_14_black.svg" width="18px">   Bambu
+    * <img src="../../../../../../assets/icons/human_15_black.svg" width="18px">   Carvão Vegetal
+    * <img src="../../../../../../assets/icons/human_06_black.svg" width="18px">   Carbonização
 
 ### 3. EXTRAÇÃO DE DADOS (TABELA)
 
@@ -63,7 +63,7 @@ Não há referências bibliográficas citadas no corpo do texto fornecido (apena
 
 <p align="right"><i>"A vida é curta, a arte é longa."<br>— Machado de Assis</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_WTF_RAW_2004CostaEstudoCarvão.md
@@ -76,4 +76,4 @@ Não há referências bibliográficas citadas no corpo do texto fornecido (apena
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

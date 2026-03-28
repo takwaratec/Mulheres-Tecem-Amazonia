@@ -12,7 +12,7 @@ author:
 
 <p align="right"><i>"Ciência é a investigação da verdade."<br>— Carlos Chagas</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_WTF_RAW_2020_-_ANP_biolubrificantes.md
@@ -33,8 +33,8 @@ REFERÊNCIA BIBLIOGRÁFICA (ABNT):
 MATOS, Paulo Roberto Rodrigues de. Biolubrificantes. **Acervo Digital Mulheres que Tecem a Floresta**, [S. l.]: Consórcio UnB/UFAC/UFRR, 2020.
 
 ### 2. TRADUÇÃO E SÍNTESE TÉCNICA
-- <img src="assets/icons/human_12_black.svg" width="18px"> O texto está em português, portanto, não é necessária tradução do resumo.
-- <img src="assets/icons/human_05_black.svg" width="18px"> Palavras-chave: Biolubrificantes, Biodegradação, Biocombustíveis.
+- <img src="../../../../../../assets/icons/human_12_black.svg" width="18px"> O texto está em português, portanto, não é necessária tradução do resumo.
+- <img src="../../../../../../assets/icons/human_05_black.svg" width="18px"> Palavras-chave: Biolubrificantes, Biodegradação, Biocombustíveis.
 
 ### 3. EXTRAÇÃO DE DADOS (TABELA)
 | Dado Técnico/Numérico | Valor | Unidade/Critério | Ano de Referência |
@@ -61,4 +61,4 @@ As referências bibliográficas completas não estão disponíveis no fragmento 
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

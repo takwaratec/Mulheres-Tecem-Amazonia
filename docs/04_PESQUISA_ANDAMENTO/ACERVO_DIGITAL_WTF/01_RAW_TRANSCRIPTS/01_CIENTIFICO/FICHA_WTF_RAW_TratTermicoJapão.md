@@ -12,7 +12,7 @@ author:
 
 <p align="right"><i>"O real não está na saída nem na chegada: ele se dispõe para a gente é no meio da travessia."<br>— Guimarães Rosa</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_WTF_RAW_TratTermicoJapão.md
@@ -37,9 +37,9 @@ RAMFUL, R.; SUNTHAR, T. P. M.; ZHU, W.; PEZZOTTI, G. Investigating the Underlyin
 Este estudo investiga a causa raiz da rachadura em colmos de bambu termicamente modificados, pesquisando o efeito subjacente da contração térmica em relação à sua natureza ortotrópica por métodos experimentais e numéricos, enquanto monitora concomitantemente a variação química de sua estrutura por espectroscopia de infravermelho com transformada de Fourier (FTIR). Na primeira parte deste estudo, observou-se um aumento não linear nas mudanças dimensionais e de peso de pequenas amostras de bambu limpas com o aumento da temperatura. As mudanças dimensionais nas direções radial e tangencial excederam significativamente as na direção longitudinal. A partir dos resultados de FTIR, o efeito de retração entre 150 °C e 200 °C foi associado à perda de peso causada pela redução de água fracamente ligada e aumento da dessorção do teor de água, enquanto a alteração de suas propriedades mecânicas foi atribuída a mudanças na celulose, hemicelulose e lignina. A partir dos resultados do método de elementos finitos (FEM), a variação gradual no coeficiente de expansão térmica, que mostrou a formação de uma região estreita de concentração de deformação correspondente à propagação de rachaduras longitudinais, foi associada à indução de forças internas, ou seja, forças de tração e compressão, em regiões específicas ao longo do comprimento do colmo. Os resultados deste estudo podem ser úteis para alcançar durabilidade otimizada em bambu modificado para construção.
 
 **Palavras-chave:**
-* <img src="assets/icons/human_15_black.svg" width="18px">   Bambu
-* <img src="assets/icons/human_19_black.svg" width="18px">   Modificação térmica
-* <img src="assets/icons/human_11_black.svg" width="18px">   Retração
+* <img src="../../../../../../assets/icons/human_15_black.svg" width="18px">   Bambu
+* <img src="../../../../../../assets/icons/human_19_black.svg" width="18px">   Modificação térmica
+* <img src="../../../../../../assets/icons/human_11_black.svg" width="18px">   Retração
 
 ### 3. EXTRAÇÃO DE DADOS (TABELA)
 
@@ -65,4 +65,4 @@ As referências bibliográficas citadas no texto (ex: [1–3], [4–9], [10]) n�
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

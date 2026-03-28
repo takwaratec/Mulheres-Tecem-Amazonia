@@ -13,7 +13,7 @@ date: '2026-03-26'
 
 <p align="right"><i>"A crise da educação no Brasil não é uma crise; é um projeto."<br>— Darcy Ribeiro</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_BS47_Bioeconomia_FECHADO.md
@@ -25,11 +25,11 @@ date: '2026-03-26'
 
 ### 1. METADADOS E CABEÇALHO
 
-* <img src="assets/icons/human_04_black.svg" width="18px">   **projeto:** <img src="assets/icons/human_04_black.svg" width="18px"> Mulheres Que Tecem a Floresta
-* <img src="assets/icons/human_13_black.svg" width="18px">   **instituicao:** <img src="assets/icons/human_13_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
-* <img src="assets/icons/human_19_black.svg" width="18px">   **tipo:** <img src="assets/icons/human_19_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
-* <img src="assets/icons/human_03_black.svg" width="18px">   **referencia:** <img src="assets/icons/human_03_black.svg" width="18px"> PES-TEC-6401-2026
-* <img src="assets/icons/human_16_black.svg" width="18px">   **status:** <img src="assets/icons/human_16_black.svg" width="18px"> Ready
+* <img src="../../../../../assets/icons/human_04_black.svg" width="18px">   **projeto:** <img src="../../../../../assets/icons/human_04_black.svg" width="18px"> Mulheres Que Tecem a Floresta
+* <img src="../../../../../assets/icons/human_13_black.svg" width="18px">   **instituicao:** <img src="../../../../../assets/icons/human_13_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
+* <img src="../../../../../assets/icons/human_19_black.svg" width="18px">   **tipo:** <img src="../../../../../assets/icons/human_19_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
+* <img src="../../../../../assets/icons/human_03_black.svg" width="18px">   **referencia:** <img src="../../../../../assets/icons/human_03_black.svg" width="18px"> PES-TEC-6401-2026
+* <img src="../../../../../assets/icons/human_16_black.svg" width="18px">   **status:** <img src="../../../../../assets/icons/human_16_black.svg" width="18px"> Ready
 
 **REFERÊNCIA BIBLIOGRÁFICA (ABNT):**
 SILVA, M. F. de O. e; PEREIRA, F. dos S.; MARTINS, J. V. B. A bioeconomia brasileira em números. **BNDES Setorial**, Rio de Janeiro, n. 47, p. 277-332, mar. 2018.
@@ -66,7 +66,7 @@ Bioeconomia, Valor da bioeconomia, Economia sustentável.
 
 ### 4. RELAÇÃO COM O PROJETO (CONEXÃO WTF)
 
-* <img src="assets/icons/human_18_black.svg" width="18px">   **Como isso beneficia as mulheres extrativistas?**
+* <img src="../../../../../assets/icons/human_18_black.svg" width="18px">   **Como isso beneficia as mulheres extrativistas?**
     O estudo da bioeconomia brasileira, com foco na adição de valor a recursos biológicos renováveis e resíduos de processos extrativos, oferece benefícios diretos e indiretos para mulheres extrativistas, especialmente na Amazônia Setentrional:
     1.  **Valorização de Recursos Naturais:** Impulsiona a demanda por matérias-primas de origem biológica, como óleos vegetais, resinas, fibras e outros produtos da floresta, que são frequentemente coletados e processados pelas mulheres extrativistas.
     2.  **Geração de Renda e Desenvolvimento Local:** Aumenta o potencial de agregação de valor aos produtos da floresta, permitindo que as extrativistas, individualmente ou em cooperativas, desenvolvam produtos mais elaborados (cosméticos, fitoterápicos, alimentos funcionais, biocomponentes) e alcancem mercados de maior valor agregado, fortalecendo a economia local.
@@ -74,7 +74,7 @@ Bioeconomia, Valor da bioeconomia, Economia sustentável.
     4.  **Inovação e Empreendedorismo:** O conceito de biorrefinarias (ainda que em escala industrial) e a busca por novos bioprodutos (químicos, plásticos, alimentos) abrem caminho para pequenas e médias iniciativas de transformação local, incentivando o empreendedorismo feminino e a diversificação de produtos a partir de sua base extrativa.
     5.  **Políticas Públicas de Apoio:** A pesquisa destaca a Lei da Biodiversidade (Lei 13.123/2015) como um marco para reduzir incertezas e estimular investimentos no acesso ao patrimônio genético e conhecimento tradicional, favorecendo a repartição de benefícios e o desenvolvimento de cadeias produtivas que agregam valor social e econômico.
 
-* <img src="assets/icons/human_20_black.svg" width="18px">   **Quais as diretrizes para o projeto e a bioeconomia?**
+* <img src="../../../../../assets/icons/human_20_black.svg" width="18px">   **Quais as diretrizes para o projeto e a bioeconomia?**
     As diretrizes que emergem do estudo para o Projeto WTF e para o desenvolvimento da bioeconomia são:
     1.  **Foco em Recursos Biológicos Renováveis e Resíduos:** Priorizar o uso sustentável e inteligente dos recursos da Amazônia Setentrional, incluindo a valorização de resíduos de processos extrativos ou de transformação para novos produtos.
     2.  **Estratégias de Adição de Valor:** Promover a transformação das matérias-primas da floresta em produtos de maior valor agregado (alimentos, bioenergia, produtos químicos, farmacêuticos, cosméticos), buscando nichos de mercado que remunerem melhor a sustentabilidade e a inovação.
@@ -129,4 +129,4 @@ Bioeconomia, Valor da bioeconomia, Economia sustentável.
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

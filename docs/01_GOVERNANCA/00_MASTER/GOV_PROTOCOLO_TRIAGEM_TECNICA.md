@@ -15,7 +15,7 @@ date: '2026-03-24'
 
 <p align="right"><i>"Arte sem ética não é arte."<br>— Ariano Suassuna</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: GOV_PROTOCOLO_TRIAGEM_TECNICA.md
@@ -44,9 +44,9 @@ Todo documento promovido da Triagem Bruta deve seguir a taxonomia institucional:
 
 Para garantir a integridade do acervo, toda referência deve ser rastreável:
 
-- <img src="assets/icons/human_02_black.svg" width="18px"> **Links Absolutos**: Referências a arquivos locais devem usar o URI completo `file:///...`.
-- <img src="assets/icons/human_15_black.svg" width="18px"> **Ancoragem Bibliográfica**: Toda Nota Técnica deve citar explicitamente o Memorando Técnico de origem.
-- <img src="assets/icons/human_04_black.svg" width="18px"> **Catálogo de Ouro**: As referências externas (PDFs, Teses, Artigos) devem ser listadas com DOI ou link permanente na seção final de cada documento.
+- <img src="../../../../assets/icons/human_02_black.svg" width="18px"> **Links Absolutos**: Referências a arquivos locais devem usar o URI completo `file:///...`.
+- <img src="../../../../assets/icons/human_15_black.svg" width="18px"> **Ancoragem Bibliográfica**: Toda Nota Técnica deve citar explicitamente o Memorando Técnico de origem.
+- <img src="../../../../assets/icons/human_04_black.svg" width="18px"> **Catálogo de Ouro**: As referências externas (PDFs, Teses, Artigos) devem ser listadas com DOI ou link permanente na seção final de cada documento.
 
 ## 3. Critérios de Triagem "Cirúrgica"
 
@@ -63,7 +63,7 @@ tipo: Memorando Técnico
 referencia: ENG-MEM-XXX-2026
 status: CONSOLIDADO (SGMAS-Ready)
 author:
-- <img src="assets/icons/human_06_black.svg" width="18px"> affiliation: Universidade de Brasília / Núcleo Institucional
+- <img src="../../../../assets/icons/human_06_black.svg" width="18px"> affiliation: Universidade de Brasília / Núcleo Institucional
   name: Institucional, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-24'
@@ -83,4 +83,4 @@ date: '2026-03-24'
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

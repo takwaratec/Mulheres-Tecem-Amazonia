@@ -12,7 +12,7 @@ author:
 
 <p align="right"><i>"O Brasil, última nação a abrogar a escravidão, tem um compromisso terrível com o seu povo."<br>— Darcy Ribeiro</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_WTF_RAW_10-_ABR-19_Cartaz_oficina_IFB.md
@@ -57,11 +57,11 @@ Este documento apresenta um projeto de extensão focado na criação de uma unid
 
 **Coordenadas Geográficas:**
 
-* <img src="assets/icons/human_05_black.svg" width="18px">   **Localidade 1:** <img src="assets/icons/human_05_black.svg" width="18px"> Distrito Federal, Brasil
-    * <img src="assets/icons/human_02_black.svg" width="18px">   Coordenadas aproximadas (centro): -15.7942, -47.8822
-* <img src="assets/icons/human_19_black.svg" width="18px">   **Localidade 2:** <img src="assets/icons/human_19_black.svg" width="18px"> Reserva Ecológica de Águas Emendadas (ESECAE), Planaltina, Distrito Federal, Brasil
-    * <img src="assets/icons/human_09_black.svg" width="18px">   Coordenadas aproximadas: -15.5898, -47.5684
-    * <img src="assets/icons/human_11_black.svg" width="18px">   *Nota:* <img src="assets/icons/human_11_black.svg" width="18px"> Embora a pesquisa seja do "Projeto: Amazônia Setentrional", o Distrito Federal não se localiza no bioma Amazônia, mas sim no Cerrado. As coordenadas foram extraídas e identificadas, mas a área de abrangência do projeto principal difere da localização específica desta atividade.
+* <img src="../../../../../../assets/icons/human_05_black.svg" width="18px">   **Localidade 1:** <img src="../../../../../../assets/icons/human_05_black.svg" width="18px"> Distrito Federal, Brasil
+    * <img src="../../../../../../assets/icons/human_02_black.svg" width="18px">   Coordenadas aproximadas (centro): -15.7942, -47.8822
+* <img src="../../../../../../assets/icons/human_19_black.svg" width="18px">   **Localidade 2:** <img src="../../../../../../assets/icons/human_19_black.svg" width="18px"> Reserva Ecológica de Águas Emendadas (ESECAE), Planaltina, Distrito Federal, Brasil
+    * <img src="../../../../../../assets/icons/human_09_black.svg" width="18px">   Coordenadas aproximadas: -15.5898, -47.5684
+    * <img src="../../../../../../assets/icons/human_11_black.svg" width="18px">   *Nota:* <img src="../../../../../../assets/icons/human_11_black.svg" width="18px"> Embora a pesquisa seja do "Projeto: Amazônia Setentrional", o Distrito Federal não se localiza no bioma Amazônia, mas sim no Cerrado. As coordenadas foram extraídas e identificadas, mas a área de abrangência do projeto principal difere da localização específica desta atividade.
 
 ### 4. Extrair Bibliografia citada no texto
 Não há referências bibliográficas citadas no corpo do texto. O documento em questão é uma apresentação de projeto/extensão, não contendo citações a outras obras.
@@ -75,4 +75,4 @@ Não há referências bibliográficas citadas no corpo do texto. O documento em 
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

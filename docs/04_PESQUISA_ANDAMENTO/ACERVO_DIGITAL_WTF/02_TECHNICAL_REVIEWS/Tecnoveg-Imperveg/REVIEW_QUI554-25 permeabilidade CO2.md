@@ -15,7 +15,7 @@
 
 <p align="right"><i>"A terra não é um negócio, a terra é a nossa mãe."<br>— Ailton Krenak</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: REVIEW_QUI554-25 permeabilidade CO2.md
@@ -48,9 +48,9 @@ Embora a norma NP EN 1062-6:2006 estabeleça o procedimento para a determinaçã
 
 ## 3. Notas para Escrita Científica
 
-* <img src="assets/icons/human_01_black.svg" width="18px">   **Título sugerido para artigo:** <img src="assets/icons/human_01_black.svg" width="18px"> "Avaliação da Resistência à Difusão de Dióxido de Carbono do Revestimento IMPERVEGO RQI 132 para Proteção de Estruturas: Desempenho Conforme NP EN 1062-6"
+* <img src="../../../../../../assets/icons/human_01_black.svg" width="18px">   **Título sugerido para artigo:** <img src="../../../../../../assets/icons/human_01_black.svg" width="18px"> "Avaliação da Resistência à Difusão de Dióxido de Carbono do Revestimento IMPERVEGO RQI 132 para Proteção de Estruturas: Desempenho Conforme NP EN 1062-6"
 
-* <img src="assets/icons/human_18_black.svg" width="18px">   **3 Argumentos fortes baseados nos dados para a seção de Discussão:**
+* <img src="../../../../../../assets/icons/human_18_black.svg" width="18px">   **3 Argumentos fortes baseados nos dados para a seção de Discussão:**
     1.  O revestimento "IMPERVEGO RQI 132" demonstra uma excepcional resistência à difusão de CO2, evidenciada pelo seu fator de resistência à difusão (μ) de 5,46E+05. Este valor ultralato posiciona o material como uma barreira altamente eficaz contra a carbonatação, superando significativamente a resistência de uma camada de ar equivalente e conferindo proteção robusta a substratos vulneráveis.
     2.  A espessura da camada de ar com difusão equivalente (s_d) de 365 metros para uma película de apenas 0,678 mm de espessura fornece uma métrica quantitativa e didaticamente impactante da performance do "IMPERVEGO RQI 132". Esta alta equivalência reflete a extraordinária capacidade do material em retardar a penetração do dióxido de carbono, essencial para a longevidade e durabilidade de estruturas.
     3.  A confiabilidade dos resultados é reforçada pela adesão estrita às normas europeias (NP EN 1062-6:2006 Método A para permeabilidade, NP EN 1062-11:2006 para condicionamento e ISO 2808:2019 para medição de espessura). A metodologia controlada, incluindo o uso de três corpos de prova e o monitoramento rigoroso das condições do ensaio, valida a consistência e a robustez dos dados obtidos, conferindo alta credibilidade à avaliação do desempenho do produto.
@@ -64,4 +64,4 @@ Embora a norma NP EN 1062-6:2006 estabeleça o procedimento para a determinaçã
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

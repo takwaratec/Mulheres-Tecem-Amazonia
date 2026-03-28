@@ -13,7 +13,7 @@ date: '2026-03-26'
 
 <p align="right"><i>"Não se morre enquanto houver quem nos lembre."<br>— Cora Coralina</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: BUDGET_bom-modular.md
@@ -57,16 +57,16 @@ O polo central deixa de ser uma "Biorrefinaria" e passa a ser uma **Oficina de F
 ## 3. Gestão Sombra: Mentoria e Sucessão
 A Gestão Sombra foi redimensionada para focar em **suporte técnico-administrativo local**, abandonando os altos custos de CEOs/CFOs externos.
 
-- <img src="assets/icons/human_12_black.svg" width="18px"> **Mentoria Territorial**: 4 Coordenadores de Campo (Suporte em gestão sombra).
-- <img src="assets/icons/human_14_black.svg" width="18px"> **Capacitação Sucessiva**: Treinamento direto de lideranças de cooperativas em gestão de SPEs.
-- <img src="assets/icons/human_10_black.svg" width="18px"> **Redução de Custo**: Foco em bolsas de extensão e consultoria técnica pontual do consórcio.
+- <img src="../../../../assets/icons/human_12_black.svg" width="18px"> **Mentoria Territorial**: 4 Coordenadores de Campo (Suporte em gestão sombra).
+- <img src="../../../../assets/icons/human_14_black.svg" width="18px"> **Capacitação Sucessiva**: Treinamento direto de lideranças de cooperativas em gestão de SPEs.
+- <img src="../../../../assets/icons/human_10_black.svg" width="18px"> **Redução de Custo**: Foco em bolsas de extensão e consultoria técnica pontual do consórcio.
 
 ---
 
 ## 4. Institucional no Consórcio
 A Institucional não é mais uma fornecedora externa, mas **parte integrante do projeto**:
-- <img src="assets/icons/human_04_black.svg" width="18px"> **Aporte Tecnológico**: Patentes e desenhos técnicos do Sistema Institucional (T01-T07) são aportados como contrapartida técnica ao consórcio.
-- <img src="assets/icons/human_02_black.svg" width="18px"> **Engenharia de Campo**: Atuação direta na montagem e manutenção dos hubs de engenharia e kits territoriais.
+- <img src="../../../../assets/icons/human_04_black.svg" width="18px"> **Aporte Tecnológico**: Patentes e desenhos técnicos do Sistema Institucional (T01-T07) são aportados como contrapartida técnica ao consórcio.
+- <img src="../../../../assets/icons/human_02_black.svg" width="18px"> **Engenharia de Campo**: Atuação direta na montagem e manutenção dos hubs de engenharia e kits territoriais.
 
 ---
 
@@ -81,4 +81,4 @@ A Institucional não é mais uma fornecedora externa, mas **parte integrante do 
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

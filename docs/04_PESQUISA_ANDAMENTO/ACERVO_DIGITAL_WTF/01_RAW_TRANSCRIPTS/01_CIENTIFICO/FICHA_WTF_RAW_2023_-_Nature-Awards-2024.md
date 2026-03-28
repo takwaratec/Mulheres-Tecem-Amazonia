@@ -5,7 +5,7 @@
 
 <p align="right"><i>"As invenções são o resultado de um trabalho teimoso."<br>— Santos Dumont</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Documento**: FICHA_WTF_RAW_2023_-_Nature-Awards-2024.md
@@ -29,9 +29,9 @@ REFERÊNCIA BIBLIOGRÁFICA (ABNT):
 ACERVO DIGITAL MULHERES QUE TECEM A FLORESTA. **Institucional Tech: Tecnologia de Construção Sustentável com Bambu**. 2023. Consórcio UnB/UFAC/UFRR.
 
 ### 2. TRADUÇÃO E SÍNTESE TÉCNICA
-- <img src="assets/icons/human_16_black.svg" width="18px"> O texto fornecido está predominantemente em português, não havendo resumo (Abstract) em inglês para tradução.
+- <img src="../../../../../../assets/icons/human_16_black.svg" width="18px"> O texto fornecido está predominantemente em português, não havendo resumo (Abstract) em inglês para tradução.
 
-- <img src="assets/icons/human_15_black.svg" width="18px"> **Palavras-chave:**
+- <img src="../../../../../../assets/icons/human_15_black.svg" width="18px"> **Palavras-chave:**
     1. Bambu
     2. Construção Sustentável
     3. Poliuretano Vegetal
@@ -77,7 +77,7 @@ COORDENAÇÃO TÉCNICA. **Conexões revolucionárias com PU Vegetal Expansivo**.
 
 <p align="right"><i>"Arte sem ética não é arte."<br>— Ariano Suassuna</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_WTF_RAW_2023_-_Nature-Awards-2024.md
@@ -90,4 +90,4 @@ COORDENAÇÃO TÉCNICA. **Conexões revolucionárias com PU Vegetal Expansivo**.
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

@@ -13,7 +13,7 @@ date: '2026-03-24'
 
 <p align="right"><i>"A crise da educação no Brasil não é uma crise; é um projeto."<br>— Darcy Ribeiro</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: GOV01_RES_EXECUTIVO_WTF.md
@@ -67,10 +67,10 @@ A Triagem Geoestratégica de Março/2026 ampliou o diagnóstico socioterritorial
 
 ### 2.3. Pontos de Desamparo Crítico
 
-- <img src="assets/icons/human_14_black.svg" width="18px"> **Canutama (AM):** <img src="assets/icons/human_14_black.svg" width="18px"> Sem acesso rodoviário. 80% gap sanitário. Subsistência.
-- <img src="assets/icons/human_08_black.svg" width="18px"> **Tapauá (AM):** <img src="assets/icons/human_08_black.svg" width="18px"> Povos em isolamento voluntário. Parque Nacional Mapinguari ameaçado.
-- <img src="assets/icons/human_03_black.svg" width="18px"> **Lábrea (AM):** <img src="assets/icons/human_03_black.svg" width="18px"> Contaminação por mercúrio. Múltiplas TIs Apurinã sob pressão.
-- <img src="assets/icons/human_05_black.svg" width="18px"> **Boca do Acre (AM):** <img src="assets/icons/human_05_black.svg" width="18px"> Junção dos rios Purus e Acre — nó logístico natural. Escassez hídrica declarada.
+- <img src="../../../assets/icons/human_14_black.svg" width="18px"> **Canutama (AM):** <img src="../../../assets/icons/human_14_black.svg" width="18px"> Sem acesso rodoviário. 80% gap sanitário. Subsistência.
+- <img src="../../../assets/icons/human_08_black.svg" width="18px"> **Tapauá (AM):** <img src="../../../assets/icons/human_08_black.svg" width="18px"> Povos em isolamento voluntário. Parque Nacional Mapinguari ameaçado.
+- <img src="../../../assets/icons/human_03_black.svg" width="18px"> **Lábrea (AM):** <img src="../../../assets/icons/human_03_black.svg" width="18px"> Contaminação por mercúrio. Múltiplas TIs Apurinã sob pressão.
+- <img src="../../../assets/icons/human_05_black.svg" width="18px"> **Boca do Acre (AM):** <img src="../../../assets/icons/human_05_black.svg" width="18px"> Junção dos rios Purus e Acre — nó logístico natural. Escassez hídrica declarada.
 
 ## 3. Coração Tecnológico: Da Biorrefinaria à Navegação Soberana
 
@@ -78,10 +78,10 @@ O diferencial do projeto reside na integração de **10 invenções de patente s
 
 ### 3.1. Canteiro-Escola Hub Rio Branco
 
-- <img src="assets/icons/human_07_black.svg" width="18px"> Centro permanente de formação e fabricação tecnológica.
-- <img src="assets/icons/human_13_black.svg" width="18px"> Turmas de 15–20 mulheres em imersão de 8–12 semanas (bolsas R$ 1.000–1.400/mês).
-- <img src="assets/icons/human_20_black.svg" width="18px"> Após formação, as turmas retornam com os equipamentos fabricados no núcleo.
-- <img src="assets/icons/human_04_black.svg" width="18px"> Replicabilidade ilimitada: o mesmo núcleo produz módulos para todos os polos.
+- <img src="../../../assets/icons/human_07_black.svg" width="18px"> Centro permanente de formação e fabricação tecnológica.
+- <img src="../../../assets/icons/human_13_black.svg" width="18px"> Turmas de 15–20 mulheres em imersão de 8–12 semanas (bolsas R$ 1.000–1.400/mês).
+- <img src="../../../assets/icons/human_20_black.svg" width="18px"> Após formação, as turmas retornam com os equipamentos fabricados no núcleo.
+- <img src="../../../assets/icons/human_04_black.svg" width="18px"> Replicabilidade ilimitada: o mesmo núcleo produz módulos para todos os polos.
 
 ### 3.2. Ecossistema de Invenções T01–T10
 
@@ -102,9 +102,9 @@ O diferencial do projeto reside na integração de **10 invenções de patente s
 
 A pirólise lenta (300–600°C) converte bambu e resíduos em três coprodutos:
 
-- <img src="assets/icons/human_09_black.svg" width="18px"> **Biochar** <img src="assets/icons/human_09_black.svg" width="18px"> (28–32%): carbono estável, certificável VERRA VM0044. Também usado em filtros de purificação de água, banheiros ecológicos secos e regeneração de solos degradados.
-- <img src="assets/icons/human_18_black.svg" width="18px"> **Carvão ativado** <img src="assets/icons/human_18_black.svg" width="18px"> (500–1.200 m²/g): filtros para água potável, remoção de metais pesados.
-- <img src="assets/icons/human_17_black.svg" width="18px"> **Extrato pirolenhoso** <img src="assets/icons/human_17_black.svg" width="18px"> (40–45%): defensivo natural, preservativo antifúngico, vapor bactericida para tratamento de bambu estrutural.
+- <img src="../../../assets/icons/human_09_black.svg" width="18px"> **Biochar** <img src="../../../assets/icons/human_09_black.svg" width="18px"> (28–32%): carbono estável, certificável VERRA VM0044. Também usado em filtros de purificação de água, banheiros ecológicos secos e regeneração de solos degradados.
+- <img src="../../../assets/icons/human_18_black.svg" width="18px"> **Carvão ativado** <img src="../../../assets/icons/human_18_black.svg" width="18px"> (500–1.200 m²/g): filtros para água potável, remoção de metais pesados.
+- <img src="../../../assets/icons/human_17_black.svg" width="18px"> **Extrato pirolenhoso** <img src="../../../assets/icons/human_17_black.svg" width="18px"> (40–45%): defensivo natural, preservativo antifúngico, vapor bactericida para tratamento de bambu estrutural.
 
 O calor residual alimenta secagem de alimentos (60–80°C), pasteurização de polpas e briquetagem (4.500–6.200 kcal/kg).
 
@@ -122,9 +122,9 @@ O PU de mamona (*Ricinus communis*) é um **produto industrial de base nacional*
 
 ### 3.5. Propulsão Naval Modular
 
-- <img src="assets/icons/human_02_black.svg" width="18px"> **Motores a vapor Uniflow** <img src="assets/icons/human_02_black.svg" width="18px"> (US9657568B2): alimentados por briquetes, vapor "limpo" (*culinary grade*).
-- <img src="assets/icons/human_16_black.svg" width="18px"> **Propulsão elétrica solar**: painéis fotovoltaicos + baterias de ciclo profundo.
-- <img src="assets/icons/human_01_black.svg" width="18px"> **Sistemas híbridos**: vapor + solar + eólico, adaptáveis ao perfil do rio.
+- <img src="../../../assets/icons/human_02_black.svg" width="18px"> **Motores a vapor Uniflow** <img src="../../../assets/icons/human_02_black.svg" width="18px"> (US9657568B2): alimentados por briquetes, vapor "limpo" (*culinary grade*).
+- <img src="../../../assets/icons/human_16_black.svg" width="18px"> **Propulsão elétrica solar**: painéis fotovoltaicos + baterias de ciclo profundo.
+- <img src="../../../assets/icons/human_01_black.svg" width="18px"> **Sistemas híbridos**: vapor + solar + eólico, adaptáveis ao perfil do rio.
 
 ## 4. Eixos de Atuação e Liderança
 
@@ -192,26 +192,26 @@ O projeto opera em plena conformidade com:
 
 ### Sistema SMGA + SGMAS Plotter v1.0
 
-- <img src="assets/icons/human_06_black.svg" width="18px"> **20 pontos georreferenciados** <img src="assets/icons/human_06_black.svg" width="18px"> monitorados em tempo real (7 Hubs operacionais + 7 diagnósticos sociais + 6 estações itinerantes/balsas).
-- <img src="assets/icons/human_10_black.svg" width="18px"> **3 corredores de rota** <img src="assets/icons/human_10_black.svg" width="18px"> mapeados: Juruá (azul), Purus (roxo), BR-319 (laranja).
-- <img src="assets/icons/human_11_black.svg" width="18px"> **Sensoriamento remoto**: Sentinel-2 (10 m), Landsat (30 m), GEDI.
-- <img src="assets/icons/human_12_black.svg" width="18px"> **Dashboard público**: dados acessíveis para transparência BNDES.
-- <img src="assets/icons/human_19_black.svg" width="18px"> **Auditorias**: financeiras anuais, prestação de contas trimestral, relatórios semestrais.
+- <img src="../../../assets/icons/human_06_black.svg" width="18px"> **20 pontos georreferenciados** <img src="../../../assets/icons/human_06_black.svg" width="18px"> monitorados em tempo real (7 Hubs operacionais + 7 diagnósticos sociais + 6 estações itinerantes/balsas).
+- <img src="../../../assets/icons/human_10_black.svg" width="18px"> **3 corredores de rota** <img src="../../../assets/icons/human_10_black.svg" width="18px"> mapeados: Juruá (azul), Purus (roxo), BR-319 (laranja).
+- <img src="../../../assets/icons/human_11_black.svg" width="18px"> **Sensoriamento remoto**: Sentinel-2 (10 m), Landsat (30 m), GEDI.
+- <img src="../../../assets/icons/human_12_black.svg" width="18px"> **Dashboard público**: dados acessíveis para transparência BNDES.
+- <img src="../../../assets/icons/human_19_black.svg" width="18px"> **Auditorias**: financeiras anuais, prestação de contas trimestral, relatórios semestrais.
 
 ## 8. Sustentabilidade e Escalabilidade Pós-48 Meses
 
 ### Receitas Operacionais
 
-- <img src="assets/icons/human_15_black.svg" width="18px"> Venda de castanha, açaí, artesanato, briquetes, biochar.
-- <img src="assets/icons/human_14_black.svg" width="18px"> Cursos pagos no canteiro-escola (empresas, universidades, cooperativas).
-- <img src="assets/icons/human_08_black.svg" width="18px"> Créditos de carbono certificados VERRA VM0044.
-- <img src="assets/icons/human_03_black.svg" width="18px"> Consultoria técnica em bioconstrução e pirólise.
+- <img src="../../../assets/icons/human_15_black.svg" width="18px"> Venda de castanha, açaí, artesanato, briquetes, biochar.
+- <img src="../../../assets/icons/human_14_black.svg" width="18px"> Cursos pagos no canteiro-escola (empresas, universidades, cooperativas).
+- <img src="../../../assets/icons/human_08_black.svg" width="18px"> Créditos de carbono certificados VERRA VM0044.
+- <img src="../../../assets/icons/human_03_black.svg" width="18px"> Consultoria técnica em bioconstrução e pirólise.
 
 ### Projeção
 
-- <img src="assets/icons/human_05_black.svg" width="18px"> **Break-even operacional**: 36–42 meses.
-- <img src="assets/icons/human_07_black.svg" width="18px"> **Replicabilidade**: novos polos sem repetir CAPEX fabril.
-- <img src="assets/icons/human_13_black.svg" width="18px"> **Exportação tecnológica**: bambu usinado, casas pré-moldadas, embarcações — mercado interno + parceiros africanos e do Sudeste Asiático.
+- <img src="../../../assets/icons/human_05_black.svg" width="18px"> **Break-even operacional**: 36–42 meses.
+- <img src="../../../assets/icons/human_07_black.svg" width="18px"> **Replicabilidade**: novos polos sem repetir CAPEX fabril.
+- <img src="../../../assets/icons/human_13_black.svg" width="18px"> **Exportação tecnológica**: bambu usinado, casas pré-moldadas, embarcações — mercado interno + parceiros africanos e do Sudeste Asiático.
 
 ## 9. A Janela de Oportunidade
 
@@ -235,73 +235,71 @@ As 51 Terras Indígenas (Apurinã, Mura, Kulina, Kanamari, Katukina) são as pri
 
 **Com R$ 30 milhões em 48 meses, o projeto entrega:**
 
-- <img src="assets/icons/human_20_black.svg" width="18px">  5 polos comunitários operacionais
-- <img src="assets/icons/human_04_black.svg" width="18px">  100 mulheres formadas e certificadas
-- <img src="assets/icons/human_09_black.svg" width="18px">  300–400 famílias com +R$ 12.000/ano
-- <img src="assets/icons/human_18_black.svg" width="18px">  2.500 t CO₂e evitadas/ano
-- <img src="assets/icons/human_17_black.svg" width="18px">  2 embarcações de bio-compósito em operação
-- <img src="assets/icons/human_02_black.svg" width="18px">  20 pontos georreferenciados no SGMAS v1.0
-- <img src="assets/icons/human_16_black.svg" width="18px">  Um canteiro-escola permanente de inovação em bioeconomia na Amazônia Legal
+- <img src="../../../assets/icons/human_20_black.svg" width="18px">  5 polos comunitários operacionais
+- <img src="../../../assets/icons/human_04_black.svg" width="18px">  100 mulheres formadas e certificadas
+- <img src="../../../assets/icons/human_09_black.svg" width="18px">  300–400 famílias com +R$ 12.000/ano
+- <img src="../../../assets/icons/human_18_black.svg" width="18px">  2.500 t CO₂e evitadas/ano
+- <img src="../../../assets/icons/human_17_black.svg" width="18px">  2 embarcações de bio-compósito em operação
+- <img src="../../../assets/icons/human_02_black.svg" width="18px">  20 pontos georreferenciados no SGMAS v1.0
+- <img src="../../../assets/icons/human_16_black.svg" width="18px">  Um canteiro-escola permanente de inovação em bioeconomia na Amazônia Legal
 
 ## Referências
 
-- <img src="assets/icons/human_01_black.svg" width="18px"> ABNT. **NBR 16828-1:2020** <img src="assets/icons/human_01_black.svg" width="18px"> — Estruturas de bambu: Projeto. Rio de Janeiro, 2020. [Acesso via ABNT Catálogo](https://www.abntcatalogo.com.br/)
+- <img src="../../../assets/icons/human_01_black.svg" width="18px"> ABNT. **NBR 16828-1:2020** <img src="../../../assets/icons/human_01_black.svg" width="18px"> — Estruturas de bambu: Projeto. Rio de Janeiro, 2020. [Acesso via ABNT Catálogo](https://www.abntcatalogo.com.br/)
 
-- <img src="assets/icons/human_06_black.svg" width="18px"> ANA. **Resolução nº 264/2025**: Escassez Quantitativa nos Rios Juruá, Purus, Acre e Iaco. Brasília, 2025. [Acesso via Diário Oficial](https://www.in.gov.br/)
+- <img src="../../../assets/icons/human_06_black.svg" width="18px"> ANA. **Resolução nº 264/2025**: Escassez Quantitativa nos Rios Juruá, Purus, Acre e Iaco. Brasília, 2025. [Acesso via Diário Oficial](https://www.in.gov.br/)
 
-- <img src="assets/icons/human_10_black.svg" width="18px"> ALMEIDA, A. E. F. S.; FERREIRA, O. P. Poliuretana de óleos vegetais em intemperismo artificial. *Polímeros*, v. 16, n. 3, 2006. [doi:10.1590/S0104-14282006000300011](https://doi.org/10.1590/S0104-14282006000300011)
+- <img src="../../../assets/icons/human_10_black.svg" width="18px"> ALMEIDA, A. E. F. S.; FERREIRA, O. P. Poliuretana de óleos vegetais em intemperismo artificial. *Polímeros*, v. 16, n. 3, 2006. [doi:10.1590/S0104-14282006000300011](https://doi.org/10.1590/S0104-14282006000300011)
 
-- <img src="assets/icons/human_11_black.svg" width="18px"> BAYMA, M. M. A. Estimativa do volume e potencial econômico de bambu *Guadua* <img src="assets/icons/human_11_black.svg" width="18px"> spp. no Acre. Tese — UEA, 2023. [Acesso via BDTD](https://bdtd.ibict.br/)
+- <img src="../../../assets/icons/human_11_black.svg" width="18px"> BAYMA, M. M. A. Estimativa do volume e potencial econômico de bambu *Guadua* <img src="../../../assets/icons/human_11_black.svg" width="18px"> spp. no Acre. Tese — UEA, 2023. [Acesso via BDTD](https://bdtd.ibict.br/)
 
-- <img src="assets/icons/human_12_black.svg" width="18px"> BAYMA, M. M. A. et al. Uso sustentável do bambu nativo do Acre. *Aracê*, v. 7, n. 4, 2025.
+- <img src="../../../assets/icons/human_12_black.svg" width="18px"> BAYMA, M. M. A. et al. Uso sustentável do bambu nativo do Acre. *Aracê*, v. 7, n. 4, 2025.
 
-- <img src="assets/icons/human_19_black.svg" width="18px"> BRAND, M. A. et al. Avaliação de quatro espécies de bambu para produção de carvão vegetal. *Ciência Florestal*, v. 30, n. 1, 2020. [doi:10.5902/1980509831576](https://doi.org/10.5902/1980509831576)
+- <img src="../../../assets/icons/human_19_black.svg" width="18px"> BRAND, M. A. et al. Avaliação de quatro espécies de bambu para produção de carvão vegetal. *Ciência Florestal*, v. 30, n. 1, 2020. [doi:10.5902/1980509831576](https://doi.org/10.5902/1980509831576)
 
-- <img src="assets/icons/human_15_black.svg" width="18px"> BRASIL/DNIT. **RIMA**: Pavimentação BR-319/AM (Trecho do Meio). Brasília, 2021. [Acesso via DNIT](https://www.gov.br/dnit/)
+- <img src="../../../assets/icons/human_15_black.svg" width="18px"> BRASIL/DNIT. **RIMA**: Pavimentação BR-319/AM (Trecho do Meio). Brasília, 2021. [Acesso via DNIT](https://www.gov.br/dnit/)
 
-- <img src="assets/icons/human_14_black.svg" width="18px"> BRASIL/MTE. **NR-13**: Caldeiras, Vasos de Pressão e Tubulações. Brasília, 2022. [Acesso via GOV.BR](https://www.gov.br/trabalho-e-emprego/)
+- <img src="../../../assets/icons/human_14_black.svg" width="18px"> BRASIL/MTE. **NR-13**: Caldeiras, Vasos de Pressão e Tubulações. Brasília, 2022. [Acesso via GOV.BR](https://www.gov.br/trabalho-e-emprego/)
 
-- <img src="assets/icons/human_08_black.svg" width="18px"> BRITO, F. M. S. Efeito da termorretificação nas propriedades do bambu. Dissertação — UFES, 2013. [Acesso via BDTD](https://bdtd.ibict.br/)
+- <img src="../../../assets/icons/human_08_black.svg" width="18px"> BRITO, F. M. S. Efeito da termorretificação nas propriedades do bambu. Dissertação — UFES, 2013. [Acesso via BDTD](https://bdtd.ibict.br/)
 
-- <img src="assets/icons/human_03_black.svg" width="18px"> CANGEMI, J. M. Biodegradação de PU derivado de óleo de mamona. Tese — IQSC/USP, 2006. [doi:10.11606/T.75.2006.tde-09042007-090743](https://doi.org/10.11606/T.75.2006.tde-09042007-090743)
+- <img src="../../../assets/icons/human_03_black.svg" width="18px"> CANGEMI, J. M. Biodegradação de PU derivado de óleo de mamona. Tese — IQSC/USP, 2006. [doi:10.11606/T.75.2006.tde-09042007-090743](https://doi.org/10.11606/T.75.2006.tde-09042007-090743)
 
-- <img src="assets/icons/human_05_black.svg" width="18px"> CARVALHO, R. L. et al. Pegada de carbono na construção de embarcações marítimas. 2019. [Acesso via ResearchGate](https://www.researchgate.net/)
+- <img src="../../../assets/icons/human_05_black.svg" width="18px"> CARVALHO, R. L. et al. Pegada de carbono na construção de embarcações marítimas. 2019. [Acesso via ResearchGate](https://www.researchgate.net/)
 
-- <img src="assets/icons/human_07_black.svg" width="18px"> CONAMA. **Resolução nº 382/2006**: Limites de emissão para fontes fixas. Brasília, 2006. [Acesso via MMA](https://www.gov.br/mma/)
+- <img src="../../../assets/icons/human_07_black.svg" width="18px"> CONAMA. **Resolução nº 382/2006**: Limites de emissão para fontes fixas. Brasília, 2006. [Acesso via MMA](https://www.gov.br/mma/)
 
-- <img src="assets/icons/human_13_black.svg" width="18px"> EMBRAPA Acre. **Plano Estadual de Desenvolvimento do Bambu**. Rio Branco, 2016. [Acesso via Embrapa](https://www.embrapa.br/busca-de-publicacoes/-/publicacao/1154259)
+- <img src="../../../assets/icons/human_13_black.svg" width="18px"> EMBRAPA Acre. **Plano Estadual de Desenvolvimento do Bambu**. Rio Branco, 2016. [Acesso via Embrapa](https://www.embrapa.br/busca-de-publicacoes/-/publicacao/1154259)
 
-- <img src="assets/icons/human_20_black.svg" width="18px"> EMBRAPA Clima Temperado. **Caracterização e uso do extrato pirolenhoso**. Pelotas, 2015. [Acesso via Embrapa](https://www.embrapa.br/busca-de-publicacoes/)
+- <img src="../../../assets/icons/human_20_black.svg" width="18px"> EMBRAPA Clima Temperado. **Caracterização e uso do extrato pirolenhoso**. Pelotas, 2015. [Acesso via Embrapa](https://www.embrapa.br/busca-de-publicacoes/)
 
-- <img src="assets/icons/human_04_black.svg" width="18px"> FGVces. **Agenda de Desenvolvimento Territorial para a região da BR-319**. São Paulo, 2021. [Acesso via FGV](https://eaesp.fgv.br/centros/centro-estudos-sustentabilidade)
+- <img src="../../../assets/icons/human_04_black.svg" width="18px"> FGVces. **Agenda de Desenvolvimento Territorial para a região da BR-319**. São Paulo, 2021. [Acesso via FGV](https://eaesp.fgv.br/centros/centro-estudos-sustentabilidade)
 
-- <img src="assets/icons/human_09_black.svg" width="18px"> IABr — Instituto Aço Brasil. **Relatório de Sustentabilidade 2022**: 1,7 t CO₂/t aço. Rio de Janeiro, 2023. [Acesso via IABr](https://acobrasil.org.br/)
+- <img src="../../../assets/icons/human_09_black.svg" width="18px"> IABr — Instituto Aço Brasil. **Relatório de Sustentabilidade 2022**: 1,7 t CO₂/t aço. Rio de Janeiro, 2023. [Acesso via IABr](https://acobrasil.org.br/)
 
-- <img src="assets/icons/human_18_black.svg" width="18px"> IBGE. **Cidades e Estados**: Ipixuna (AM), Humaitá (AM), Canutama (AM), Tapauá (AM), Lábrea (AM). 2022–2023. [Acesso via IBGE](https://cidades.ibge.gov.br/)
+- <img src="../../../assets/icons/human_18_black.svg" width="18px"> IBGE. **Cidades e Estados**: Ipixuna (AM), Humaitá (AM), Canutama (AM), Tapauá (AM), Lábrea (AM). 2022–2023. [Acesso via IBGE](https://cidades.ibge.gov.br/)
 
-- <img src="assets/icons/human_17_black.svg" width="18px"> ISO. **ISO 22157:2019** <img src="assets/icons/human_17_black.svg" width="18px"> — Bamboo: physical and mechanical properties. Genebra, 2019. [Acesso via ISO](https://www.iso.org/standard/65950.html)
+- <img src="../../../assets/icons/human_17_black.svg" width="18px"> ISO. **ISO 22157:2019** <img src="../../../assets/icons/human_17_black.svg" width="18px"> — Bamboo: physical and mechanical properties. Genebra, 2019. [Acesso via ISO](https://www.iso.org/standard/65950.html)
 
-- <img src="assets/icons/human_02_black.svg" width="18px"> LOPES, R. S. *Defensas náuticas de poliuretano vegetal*. Atena Editora, 2019. [Acesso via Atena](https://www.atenaeditora.com.br/)
+- <img src="../../../assets/icons/human_02_black.svg" width="18px"> LOPES, R. S. *Defensas náuticas de poliuretano vegetal*. Atena Editora, 2019. [Acesso via Atena](https://www.atenaeditora.com.br/)
 
-- <img src="assets/icons/human_16_black.svg" width="18px"> MONTRUCCHIO, M. A. et al. Carpintaria Naval Artesanal Bragantina. *Amazônica*, v. 17, n. 1, 2025. [Acesso via UFPA](https://periodicos.ufpa.br/index.php/amazonica)
+- <img src="../../../assets/icons/human_16_black.svg" width="18px"> MONTRUCCHIO, M. A. et al. Carpintaria Naval Artesanal Bragantina. *Amazônica*, v. 17, n. 1, 2025. [Acesso via UFPA](https://periodicos.ufpa.br/index.php/amazonica)
 
-- <img src="assets/icons/human_01_black.svg" width="18px"> NELSON, P. M. et al. Compósito de PU de mamona e partículas de bambu. *Polímeros*, v. 23, n. 2, 2013. [doi:10.4322/polimeros.2013.007](https://doi.org/10.4322/polimeros.2013.007)
+- <img src="../../../assets/icons/human_01_black.svg" width="18px"> NELSON, P. M. et al. Compósito de PU de mamona e partículas de bambu. *Polímeros*, v. 23, n. 2, 2013. [doi:10.4322/polimeros.2013.007](https://doi.org/10.4322/polimeros.2013.007)
 
-- <img src="assets/icons/human_06_black.svg" width="18px"> Observatório BR-319. **Nota Técnica nº 05**. Manaus, 2023. [Acesso via OBR-319](https://observatoriobr319.org.br/)
+- <img src="../../../assets/icons/human_06_black.svg" width="18px"> Observatório BR-319. **Nota Técnica nº 05**. Manaus, 2023. [Acesso via OBR-319](https://observatoriobr319.org.br/)
 
-- <img src="assets/icons/human_10_black.svg" width="18px"> SANTOS, J. V. G. et al. Biocompósitos de bambu e resina de mamona. *Blucher Design Proceedings*, v. 4, n. 3, 2018. [doi:10.5151/sigradi2018-1397](https://doi.org/10.5151/sigradi2018-1397)
+- <img src="../../../assets/icons/human_10_black.svg" width="18px"> SANTOS, J. V. G. et al. Biocompósitos de bambu e resina de mamona. *Blucher Design Proceedings*, v. 4, n. 3, 2018. [doi:10.5151/sigradi2018-1397](https://doi.org/10.5151/sigradi2018-1397)
 
-- <img src="assets/icons/human_11_black.svg" width="18px"> SILVA, J. Saberes e Práticas Tradicionais em Estaleiros de Manaus. Tese — UFAM, 2018. [Acesso via BDTD](https://bdtd.ibict.br/)
+- <img src="../../../assets/icons/human_11_black.svg" width="18px"> SILVA, J. Saberes e Práticas Tradicionais em Estaleiros de Manaus. Tese — UFAM, 2018. [Acesso via BDTD](https://bdtd.ibict.br/)
 
-- <img src="assets/icons/human_12_black.svg" width="18px"> SILVA, R. V. Compósito de resina PU de mamona e fibras vegetais. Tese — USP, 2003. [doi:10.11606/T.88.2003.tde-28092015-163939](https://doi.org/10.11606/T.88.2003.tde-28092015-163939)
+- <img src="../../../assets/icons/human_12_black.svg" width="18px"> SILVA, R. V. Compósito de resina PU de mamona e fibras vegetais. Tese — USP, 2003. [doi:10.11606/T.88.2003.tde-28092015-163939](https://doi.org/10.11606/T.88.2003.tde-28092015-163939)
 
-- <img src="assets/icons/human_19_black.svg" width="18px"> US Patent 9657568B2 — Motor a vapor Uniflow. [Acesso via Google Patents](https://patents.google.com/patent/US9657568B2)
+- <img src="../../../assets/icons/human_19_black.svg" width="18px"> US Patent 9657568B2 — Motor a vapor Uniflow. [Acesso via Google Patents](https://patents.google.com/patent/US9657568B2)
 
-- <img src="assets/icons/human_15_black.svg" width="18px"> VERRA. **VM0044**: Methodology for Biochar Utilization. v. 1.2, 2025. [Acesso via Verra](https://verra.org/methodologies/vm0044)
+- <img src="../../../assets/icons/human_15_black.svg" width="18px"> VERRA. **VM0044**: Methodology for Biochar Utilization. v. 1.2, 2025. [Acesso via Verra](https://verra.org/methodologies/vm0044)
 
-- <img src="assets/icons/human_14_black.svg" width="18px"> ZANUNCIO, A. J. V. et al. Colorimetria aplicada à ciência da madeira. *Floresta e Ambiente*, v. 21, n. 1, 2014. [doi:10.4322/floram.2014.010](https://doi.org/10.4322/floram.2014.010)
-
----
+- <img src="../../../assets/icons/human_14_black.svg" width="18px"> ZANUNCIO, A. J. V. et al. Colorimetria aplicada à ciência da madeira. *Floresta e Ambiente*, v. 21, n. 1, 2014. [doi:10.4322/floram.2014.010](https://doi.org/10.4322/floram.2014.010)
 
 ---
 
@@ -310,4 +308,6 @@ As 51 Terras Indígenas (Apurinã, Mura, Kulina, Kanamari, Katukina) são as pri
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+
+---
+<p align="center"><img src="../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

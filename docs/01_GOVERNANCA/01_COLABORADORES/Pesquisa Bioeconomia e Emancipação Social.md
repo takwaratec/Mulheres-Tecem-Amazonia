@@ -13,7 +13,7 @@ date: '2026-03-24'
 
 <p align="right"><i>"O povo é o único soberano."<br>— João Ubaldo Ribeiro</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: Pesquisa Bioeconomia e Emancipação Social.md
@@ -134,19 +134,19 @@ Abaixo, detalha-se o acervo consolidado de publicações e registros acadêmicos
 
 A produção de Tânia Cruz está dispersa em repositórios institucionais da UnB e em bases de dados científicas globais, refletindo sua atuação no PROFNIT e em programas de gestão ambiental.
 
-* <img src="assets/icons/human_12_black.svg" width="18px"> **ORCID ID:** <img src="assets/icons/human_12_black.svg" width="18px"> 0000-0002-5673-6784 7  
-* <img src="assets/icons/human_02_black.svg" width="18px"> **SIGAA UnB:** <img src="assets/icons/human_02_black.svg" width="18px"> Portal do Docente \- <img src="assets/icons/human_02_black.svg" width="18px"> SIAPE 1719880 3  
-* <img src="assets/icons/human_06_black.svg" width="18px"> **PROFNIT UnB:** <img src="assets/icons/human_06_black.svg" width="18px"> Corpo Docente \- <img src="assets/icons/human_06_black.svg" width="18px"> Perfil Tânia Cristina Cruz 2  
-* <img src="assets/icons/human_15_black.svg" width="18px"> **ResearchGate:** <img src="assets/icons/human_15_black.svg" width="18px"> Tânia Cristina da Silva Cruz (Contributor ID: 2292901097 e 2196455411\) 17
+* <img src="../../../../assets/icons/human_12_black.svg" width="18px"> **ORCID ID:** <img src="../../../../assets/icons/human_12_black.svg" width="18px"> 0000-0002-5673-6784 7  
+* <img src="../../../../assets/icons/human_02_black.svg" width="18px"> **SIGAA UnB:** <img src="../../../../assets/icons/human_02_black.svg" width="18px"> Portal do Docente \- <img src="../../../../assets/icons/human_02_black.svg" width="18px"> SIAPE 1719880 3  
+* <img src="../../../../assets/icons/human_06_black.svg" width="18px"> **PROFNIT UnB:** <img src="../../../../assets/icons/human_06_black.svg" width="18px"> Corpo Docente \- <img src="../../../../assets/icons/human_06_black.svg" width="18px"> Perfil Tânia Cristina Cruz 2  
+* <img src="../../../../assets/icons/human_15_black.svg" width="18px"> **ResearchGate:** <img src="../../../../assets/icons/human_15_black.svg" width="18px"> Tânia Cristina da Silva Cruz (Contributor ID: 2292901097 e 2196455411\) 17
 
 ### **Endpoints de Geórgia Patrícia da Silva Ferko (UFRR)**
 
 A pesquisadora mantém uma presença ativa em plataformas de rede científica, onde compartilha resultados de suas pesquisas sobre a Amazônia.
 
-* <img src="assets/icons/human_13_black.svg" width="18px"> **ORCID ID:** <img src="assets/icons/human_13_black.svg" width="18px"> 0000-0002-0020-6557 12 e 0009-0000-5455-1623 21  
-* <img src="assets/icons/human_16_black.svg" width="18px"> **ResearchGate:** <img src="assets/icons/human_16_black.svg" width="18px"> Georgia Ferko (Perfil com 37 publicações) 1  
-* <img src="assets/icons/human_07_black.svg" width="18px"> **SIGAA UFRR:** <img src="assets/icons/human_07_black.svg" width="18px"> Portal do Docente \- <img src="assets/icons/human_07_black.svg" width="18px"> SIAPE 1633807 10  
-* <img src="assets/icons/human_10_black.svg" width="18px"> **Lattes:** <img src="assets/icons/human_10_black.svg" width="18px"> Plataforma Lattes CNPq (Mencionado como atualizado para o EGEPE) 22
+* <img src="../../../../assets/icons/human_13_black.svg" width="18px"> **ORCID ID:** <img src="../../../../assets/icons/human_13_black.svg" width="18px"> 0000-0002-0020-6557 12 e 0009-0000-5455-1623 21  
+* <img src="../../../../assets/icons/human_16_black.svg" width="18px"> **ResearchGate:** <img src="../../../../assets/icons/human_16_black.svg" width="18px"> Georgia Ferko (Perfil com 37 publicações) 1  
+* <img src="../../../../assets/icons/human_07_black.svg" width="18px"> **SIGAA UFRR:** <img src="../../../../assets/icons/human_07_black.svg" width="18px"> Portal do Docente \- <img src="../../../../assets/icons/human_07_black.svg" width="18px"> SIAPE 1633807 10  
+* <img src="../../../../assets/icons/human_10_black.svg" width="18px"> **Lattes:** <img src="../../../../assets/icons/human_10_black.svg" width="18px"> Plataforma Lattes CNPq (Mencionado como atualizado para o EGEPE) 22
 
 ## **Tecnologias Sociais e Gestão de Riscos em Desastres**
 
@@ -200,4 +200,4 @@ Ambas as trajetórias confirmam que a verdadeira inovação ocorre na convergên
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

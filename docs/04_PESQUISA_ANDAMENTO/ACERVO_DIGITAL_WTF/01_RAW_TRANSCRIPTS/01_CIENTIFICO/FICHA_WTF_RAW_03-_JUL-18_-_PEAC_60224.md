@@ -12,7 +12,7 @@ author:
 
 <p align="right"><i>"Ensinar não é transferir conhecimento, mas criar as possibilidades para a sua própria produção ou a sua construção."<br>— Paulo Freire</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_WTF_RAW_03-_JUL-18_-_PEAC_60224.md
@@ -33,8 +33,8 @@ REFERÊNCIA BIBLIOGRÁFICA (ABNT):
 UNIVERSIDADE DE BRASÍLIA. Decanato de Extensão. *Proposta de Ação de Extensão: Laboratório de pesquisa em construções e fazeres sustentáveis*. Brasília, DF, 2018. 14 p.
 
 ### 2. TRADUÇÃO E SÍNTESE TÉCNICA
-* <img src="assets/icons/human_01_black.svg" width="18px">   **Tradução do Resumo:** <img src="assets/icons/human_01_black.svg" width="18px"> O texto não contém um resumo (abstract) em inglês. O "Resumo da proposta" presente está em português.
-* <img src="assets/icons/human_14_black.svg" width="18px">   **Palavras-chave:**
+* <img src="../../../../../../assets/icons/human_01_black.svg" width="18px">   **Tradução do Resumo:** <img src="../../../../../../assets/icons/human_01_black.svg" width="18px"> O texto não contém um resumo (abstract) em inglês. O "Resumo da proposta" presente está em português.
+* <img src="../../../../../../assets/icons/human_14_black.svg" width="18px">   **Palavras-chave:**
     1.  Construção sustentável
     2.  Bambu
     3.  Resina de mamona
@@ -58,10 +58,10 @@ UNIVERSIDADE DE BRASÍLIA. Decanato de Extensão. *Proposta de Ação de Extens�
 | Abrangência                       | Estadual                      | -       |
 | Público de Interesse              | Professores, alunos e sociedade civil; acampados e assentados do entorno de Planaltina | -       |
 
-* <img src="assets/icons/human_20_black.svg" width="18px">   **Coordenadas Geográficas:** <img src="assets/icons/human_20_black.svg" width="18px"> Não foram encontradas coordenadas geográficas específicas no texto.
+* <img src="../../../../../../assets/icons/human_20_black.svg" width="18px">   **Coordenadas Geográficas:** <img src="../../../../../../assets/icons/human_20_black.svg" width="18px"> Não foram encontradas coordenadas geográficas específicas no texto.
 
 ### 4. Extrair Bibliografia citada no texto
-* <img src="assets/icons/human_08_black.svg" width="18px">   CAEIRO (2010). Não há detalhes bibliográficos completos no texto para formatação ABNT.
+* <img src="../../../../../../assets/icons/human_08_black.svg" width="18px">   CAEIRO (2010). Não há detalhes bibliográficos completos no texto para formatação ABNT.
 
 ---
 
@@ -72,4 +72,4 @@ UNIVERSIDADE DE BRASÍLIA. Decanato de Extensão. *Proposta de Ação de Extens�
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

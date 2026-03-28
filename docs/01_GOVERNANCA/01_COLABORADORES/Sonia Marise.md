@@ -13,7 +13,7 @@ date: '2026-03-24'
 
 <p align="right"><i>"A crise da educação no Brasil não é uma crise; é um projeto."<br>— Darcy Ribeiro</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: Sonia Marise.md
@@ -112,10 +112,10 @@ Uma contribuição técnica significativa de Sonia Marise Salles Carvalho é o d
 
 No campo da gestão estratégica, Carvalho utiliza a ferramenta "FIVE-V" para o reposicionamento de modelos de negócio em diversas instituições. Exemplos de aplicação incluem:
 
-* <img src="assets/icons/human_14_black.svg" width="18px"> **SENAI-DF:** <img src="assets/icons/human_14_black.svg" width="18px"> Reposicionamento estratégico do modelo de negócio.6  
-* <img src="assets/icons/human_16_black.svg" width="18px"> **SEBRAE Nacional:** <img src="assets/icons/human_16_black.svg" width="18px"> Inovação na distribuição de processos de contratação na assessoria jurídica.6  
-* <img src="assets/icons/human_12_black.svg" width="18px"> **Cooperativas de Catadores:** <img src="assets/icons/human_12_black.svg" width="18px"> Conexões entre a ferramenta FIVE-V e a teoria da hierarquia das necessidades para melhorar a gestão e a dignidade do trabalho.6  
-* <img src="assets/icons/human_18_black.svg" width="18px"> **Startups:** <img src="assets/icons/human_18_black.svg" width="18px"> Desenvolvimento de competências empreendedoras e inovação de modelos de negócio, como no caso da Brasil Startups.6
+* <img src="../../../../assets/icons/human_14_black.svg" width="18px"> **SENAI-DF:** <img src="../../../../assets/icons/human_14_black.svg" width="18px"> Reposicionamento estratégico do modelo de negócio.6  
+* <img src="../../../../assets/icons/human_16_black.svg" width="18px"> **SEBRAE Nacional:** <img src="../../../../assets/icons/human_16_black.svg" width="18px"> Inovação na distribuição de processos de contratação na assessoria jurídica.6  
+* <img src="../../../../assets/icons/human_12_black.svg" width="18px"> **Cooperativas de Catadores:** <img src="../../../../assets/icons/human_12_black.svg" width="18px"> Conexões entre a ferramenta FIVE-V e a teoria da hierarquia das necessidades para melhorar a gestão e a dignidade do trabalho.6  
+* <img src="../../../../assets/icons/human_18_black.svg" width="18px"> **Startups:** <img src="../../../../assets/icons/human_18_black.svg" width="18px"> Desenvolvimento de competências empreendedoras e inovação de modelos de negócio, como no caso da Brasil Startups.6
 
 Essa versatilidade metodológica permite que a pesquisadora transite entre a alta tecnologia da defesa nacional e a tecnologia social das cooperativas de base, sempre focando na eficiência e no impacto real das soluções propostas.
 
@@ -193,4 +193,4 @@ As evidências coletadas demonstram que o alinhamento entre a UnB, o PROFNIT e a
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

@@ -13,7 +13,7 @@ date: '2026-03-26'
 
 <p align="right"><i>"O Brasil, última nação a abrogar a escravidão, tem um compromisso terrível com o seu povo."<br>— Darcy Ribeiro</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_bioeconomia+Revista_Terceira_Margem_Amazonia.md
@@ -27,18 +27,18 @@ Excelente! Como Pesquisador Sênior e Analista de Dados do Projeto WTF, vou conv
 
 ### 1. METADADOS E CABEÇALHO
 
-* <img src="assets/icons/human_08_black.svg" width="18px">   **projeto:** <img src="assets/icons/human_08_black.svg" width="18px"> Mulheres Que Tecem a Floresta
-* <img src="assets/icons/human_18_black.svg" width="18px">   **instituicao:** <img src="assets/icons/human_18_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
-* <img src="assets/icons/human_16_black.svg" width="18px">   **tipo:** <img src="assets/icons/human_16_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
-* <img src="assets/icons/human_20_black.svg" width="18px">   **referencia interna:** <img src="assets/icons/human_20_black.svg" width="18px"> PES-TEC-5504-2026
-* <img src="assets/icons/human_07_black.svg" width="18px">   **status:** <img src="assets/icons/human_07_black.svg" width="18px"> Ready
+* <img src="../../../../../assets/icons/human_08_black.svg" width="18px">   **projeto:** <img src="../../../../../assets/icons/human_08_black.svg" width="18px"> Mulheres Que Tecem a Floresta
+* <img src="../../../../../assets/icons/human_18_black.svg" width="18px">   **instituicao:** <img src="../../../../../assets/icons/human_18_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
+* <img src="../../../../../assets/icons/human_16_black.svg" width="18px">   **tipo:** <img src="../../../../../assets/icons/human_16_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
+* <img src="../../../../../assets/icons/human_20_black.svg" width="18px">   **referencia interna:** <img src="../../../../../assets/icons/human_20_black.svg" width="18px"> PES-TEC-5504-2026
+* <img src="../../../../../assets/icons/human_07_black.svg" width="18px">   **status:** <img src="../../../../../assets/icons/human_07_black.svg" width="18px"> Ready
 
 **REFERÊNCIA BIBLIOGRÁFICA (ABNT) - Artigo Principal:**
 SILVA, O. M. A. Bioeconomia, desafios de produzir, preservar e desenvolver (falácia da ZFM como fator de preservação florestal). *Revista Terceira Margem Amazônia*, v. 8, n. 19, p. 271-291, 2022.
 
 **Dados de Publicação Internos:**
-* <img src="assets/icons/human_04_black.svg" width="18px">   **name:** <img src="assets/icons/human_04_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
-* <img src="assets/icons/human_12_black.svg" width="18px">   **date:** <img src="assets/icons/human_12_black.svg" width="18px"> '2026-03-24'
+* <img src="../../../../../assets/icons/human_04_black.svg" width="18px">   **name:** <img src="../../../../../assets/icons/human_04_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
+* <img src="../../../../../assets/icons/human_12_black.svg" width="18px">   **date:** <img src="../../../../../assets/icons/human_12_black.svg" width="18px"> '2026-03-24'
 
 ### 2. TRADUÇÃO E SÍNTESE TÉCNICA
 
@@ -75,14 +75,14 @@ Este artigo analisa as possibilidades e desafios da bioeconomia sob uma perspect
 
 ### 4. RELAÇÃO COM O PROJETO (CONEXÃO WTF)
 
-* <img src="assets/icons/human_09_black.svg" width="18px">   **Como isso beneficia as mulheres extrativistas?**
+* <img src="../../../../../assets/icons/human_09_black.svg" width="18px">   **Como isso beneficia as mulheres extrativistas?**
     O artigo ressalta que o desenvolvimento econômico da Amazônia deve vir da bioeconomia e da exploração sustentável dos recursos da biodiversidade, e não da destruição florestal. Para as mulheres extrativistas do Projeto WTF, isso significa:
     1.  **Valorização dos Produtos Não Madeireiros:** O texto aponta a necessidade de dotar a floresta de valor econômico, mencionando "produtos florestais não madeireiros", "essências vegetais", "biofármacos", "biocosméticos". Essas são áreas onde as mulheres extrativistas têm conhecimento e atuam, podendo beneficiar-se diretamente da industrialização e comercialização desses produtos, aumentando sua renda e a visibilidade de seu trabalho.
     2.  **Apoio a Práticas Sustentáveis:** A defesa do "manejo florestal sustentável" como alternativa à destruição, e a superação da "falsa dicotomia entre desenvolvimentismo e ambientalismo", validam e fortalecem as práticas já adotadas pelas extrativistas, que buscam produzir em harmonia com a floresta.
     3.  **Regularização Fundiária e Políticas Públicas:** O artigo critica a ausência de "políticas públicas eficazes destinadas à prevenção e combate aos ilícitos" e menciona a importância da "regularização fundiária". A implementação dessas políticas é crucial para garantir a segurança da posse da terra e o direito de uso dos recursos para as comunidades tradicionais, protegendo as mulheres extrativistas contra invasões e desmatamento ilegal e assegurando seus meios de subsistência.
     4.  **Geração de Emprego e Renda Local:** Ao promover a "interiorização da política de incentivos fiscais" e a complementação do Polo Industrial de Manaus (PIM) à bioeconomia, o artigo sugere um modelo que pode levar ao desenvolvimento de cadeias produtivas mais próximas das comunidades, gerando emprego e renda para as mulheres e suas famílias.
 
-* <img src="assets/icons/human_19_black.svg" width="18px">   **Relação com saberes ancestrais (Tania, Sonia, Georgia):**
+* <img src="../../../../../assets/icons/human_19_black.svg" width="18px">   **Relação com saberes ancestrais (Tania, Sonia, Georgia):**
     A pesquisa, ao destacar a necessidade de "soluções autóctones, a partir da valorização das assimetrias socioculturais e econômicas da região", valida a importância dos saberes ancestrais. Mulheres como Tania, Sonia e Georgia, do Projeto WTF, são guardiãs de um vasto conhecimento sobre a floresta, seus recursos e as melhores práticas de extração e manejo sustentável, transmitidos por gerações. Esse conhecimento é insubstituível para o sucesso da bioeconomia regional, pois:
     1.  **Identificação e Manejo de Recursos:** Os saberes ancestrais permitem a identificação precisa de espécies de valor, seus ciclos de vida, e as técnicas mais adequadas para coleta sem esgotar o recurso, fundamentais para a produção de insumos para biofármacos, biocosméticos e alimentos.
     2.  **Inovação e P&D Local:** A experiência prática e o conhecimento tradicional dessas mulheres podem ser a base para o desenvolvimento de P,D&I (Pesquisa, Desenvolvimento e Inovação) adaptados à realidade amazônica, conectando a ciência formal (universidades e centros de pesquisa) com a inteligência socioambiental local.
@@ -126,4 +126,4 @@ Este artigo analisa as possibilidades e desafios da bioeconomia sob uma perspect
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

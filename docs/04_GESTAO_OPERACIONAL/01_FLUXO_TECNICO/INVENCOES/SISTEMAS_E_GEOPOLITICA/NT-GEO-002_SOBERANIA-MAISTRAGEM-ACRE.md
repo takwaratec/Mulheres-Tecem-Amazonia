@@ -10,7 +10,7 @@ status: CONSOLIDADO (-Ready)
 
 <p align="right"><i>"Não se faz ciência sem amor ao próximo."<br>— Oswaldo Cruz</i></p>
 
-### <img src="assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: NT-GEO-002_SOBERANIA-MAISTRAGEM-ACRE.md
@@ -55,8 +55,8 @@ O monitoramento em tempo real dos nós territoriais é realizado via ** Plotter*
 *Acesso à ferramenta: [ Plotter (v1.0)](#) [LEGACY REFERENCE: fddb210d-bd9b-4610-bc88-bfbe2d7a1f6c/sgmas_plotter.html]*
 
 ### 2.1. Territórios Prioritários
-- <img src="assets/icons/human_18_black.svg" width="18px"> **TI Nukini**: 32.581,94 ha (SIRGAS 2000) | Pop: ~900 | Foco: Bioeconomia de Manejo Fino.
-- <img src="assets/icons/human_02_black.svg" width="18px"> **TI Nawa**: Delimitação Aprovada (2026) | Pop: > 300 | Foco: Proteção Territorial e Autonomia.
+- <img src="../../../../../../assets/icons/human_18_black.svg" width="18px"> **TI Nukini**: 32.581,94 ha (SIRGAS 2000) | Pop: ~900 | Foco: Bioeconomia de Manejo Fino.
+- <img src="../../../../../../assets/icons/human_02_black.svg" width="18px"> **TI Nawa**: Delimitação Aprovada (2026) | Pop: > 300 | Foco: Proteção Territorial e Autonomia.
 
 ## 3. Dinâmica de Mastragem (Floração Síncrona)
 
@@ -69,8 +69,8 @@ O fenômeno da **Mastragem** (floração e morte em massa do bambu em ciclos de 
 ## 4. Governança e Validação Campo (AAFIs)
 
 A soberania digital do Projeto Mulheres que Tecem a Floresta é assegurada pelo **Protocolo de Validação Etnomapeamento**:
-- <img src="assets/icons/human_05_black.svg" width="18px"> Os dados orbitais processados pela UFAC são validados *in loco* <img src="assets/icons/human_05_black.svg" width="18px"> pelos **Agentes Agroflorestais Indígenas (AAFIs)** <img src="assets/icons/human_05_black.svg" width="18px"> da AMAAIAC.
-- <img src="assets/icons/human_01_black.svg" width="18px"> O Consentimento Prévio (CPLI) é registrado no  junto às coordenadas de coleta, garantindo conformidade com a IN 10/2015 do IMAC.
+- <img src="../../../../../../assets/icons/human_05_black.svg" width="18px"> Os dados orbitais processados pela UFAC são validados *in loco* <img src="../../../../../../assets/icons/human_05_black.svg" width="18px"> pelos **Agentes Agroflorestais Indígenas (AAFIs)** <img src="../../../../../../assets/icons/human_05_black.svg" width="18px"> da AMAAIAC.
+- <img src="../../../../../../assets/icons/human_01_black.svg" width="18px"> O Consentimento Prévio (CPLI) é registrado no  junto às coordenadas de coleta, garantindo conformidade com a IN 10/2015 do IMAC.
 
 ## 5. Bibliografia e Sync-Link
 
@@ -88,4 +88,4 @@ A soberania digital do Projeto Mulheres que Tecem a Floresta é assegurada pelo 
 ---
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
