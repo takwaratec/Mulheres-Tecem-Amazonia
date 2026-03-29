@@ -24,7 +24,7 @@ def executar_revisao():
         rascunho = f.read()
 
     # Coleta de subsídios reduzida
-    autos = ler_pasta("docs/01_GOVERNANCA") + ler_pasta("docs/03_DOSSIE_BNDES")
+    autos = ler_pasta("docs/01_GOVERNANCA/WTF_PROJETO_INTEGRADO.md") + ler_pasta("docs/03_DOSSIE_BNDES")
 
     # Dividir o rascunho em partes menores (ex: por títulos de seção ##)
     partes = rascunho.split("\n## ")
@@ -33,17 +33,22 @@ def executar_revisao():
     for i, parte in enumerate(partes):
         print(f"🧠 Analisando bloco {i+1} de {len(partes)}...")
         
-        prompt = f"Analise este trecho de rascunho frente aos autos do projeto. " \
-                 f"Mantenha o texto original e as cores, mas adicione notas técnicas do BNDES ao fim. " \
-                 f"\n\nAUTOS: {autos[:5000]}\n\nTRECHO: {parte}"
+        prompt = f"""
+        Aja como um Redator Sênior de Projetos para o BNDES/Fundo Amazônia.
+        Sua tarefa é expandir o rascunho fornecido, utilizando os dados dos AUTOS para preencher as seções.
 
-        try:
-            response = client.models.generate_content(model=MODEL_ID, contents=prompt)
-            revisado_total += response.text + "\n\n"
-            time.sleep(10) # Pausa de 10 segundos entre envios para não estourar a cota
-        except Exception as e:
-            print(f"⚠️ Erro no bloco {i+1}: {e}")
-            revisado_total += parte + "\n\n(ERRO NA REVISÃO DESTA SEÇÃO)\n\n"
+        ### REGRAS DE OURO:
+        1. **Respeite os Limites:** Identifique no texto em vermelho o limite de caracteres (ex: "Máx 2000"). Escreva um texto denso e profissional que chegue o mais próximo possível desse limite, sem ultrapassá-lo.
+        2. **Manutenção de Estilo:** Mantenha o texto e cores originais, mas substitua os marcadores de posição (ex: "Sônia escrever aqui...") por texto técnico real extraído dos autos.
+        3. **Densidade Técnica:** Use os termos dos autos: "Bioeconomia Circular", "Tecnologia Social Livre", "NBR 16828-1", "PU Vegetal de Mamona".
+        4. **Fluxo:** Avance com a narrativa de forma que ela seja contínua e persuasiva para um avaliador bancário.
+
+        ### AUTOS DO PROJETO (Subsídios):
+        {contexto_reduzido}
+
+        ### SEÇÃO DO RASCUNHO PARA EXPANDIR:
+        {secao}
+        """
 
     with open("03_CONSOLIDADO_BNDES_REVISADO_V2.md", "w", encoding="utf-8") as f:
         f.write(revisado_total)
