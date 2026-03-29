@@ -51,9 +51,6 @@ Fortalecer o protagonismo das mulheres e a sustentabilidade das cadeias produtiv
 6. Propor um modelo de **governança participativa** e de acesso a mercado que valorize o produto da sociobiodiversidade e garanta a justa remuneração às produtoras.
 
 
-
-
-
 GEORGIA (CADEIA DO ARTESANATO)
 
 **Componente 1:**_Redigir uma frase que descreva o componente.  (vide exemplos na figura da página 10, até 500 caracteres, incluindo espaços)._
@@ -119,7 +116,7 @@ Monitoramento de Impacto Socioeconômico: Coleta de dados contínua sobre o incr
 
 
 
-**Metas relacionadas a este componente:**_Quantifique as entregas relacionadas ao componente. Por exemplo: área de floresta diretamente manejada (hectares), faturamento anual com atividade econômica de uso sustentável - produtos beneficiados e serviços (R$), novos produtos ou tecnologias desenvolvidos (nº de produtos) etc – ver indicadores de eficácia e de efetividade utilizados pelo Fundo Amazônia na tabela “Modelo de quadro de resultados dos projetos apoiados” disponibilizada no website do Fundo Amazônia na seção “Monitoramento e Avaliação” – “Modelos e guias”._
+**Metas relacionadas a este componente:**
 
 <span style="color:green">
 
@@ -139,7 +136,7 @@ Tecnologia: 03 marcas coletivas territoriais estabelecidas e registradas como In
 
 SÔNIA (CADEIA DO ARTESANATO)
 
-**Componente 1:**_Redigir uma frase que descreva o componente.  (vide exemplos na figura da página 10, até 500 caracteres, incluindo espaços)._
+**Componente 2:**_Redigir uma frase que descreva o componente.  (vide exemplos na figura da página 10, até 500 caracteres, incluindo espaços)._
 
 <span style="color:green">
 Implementação de núcleos de design sistêmico e fortalecimento da infraestrutura produtiva do artesanato de base florestal, integrando iconografia tradicional, rastreabilidade via plataforma EcoSol e acesso a mercados de alto valor agregado para grupos de mulheres artesãs em AM, AC e RO.
@@ -151,7 +148,7 @@ Implementação de núcleos de design sistêmico e fortalecimento da infraestrut
 
 
 
-**Justificativa 1:**_Explicar como este componente contribuirá para a solução da situação problema descrita no item 2.5 (até 1000 caracteres, incluindo espaços)._
+**Justificativa 2:**_Explicar como este componente contribuirá para a solução da situação problema descrita no item 2.5 (até 1000 caracteres, incluindo espaços)._
 
 <span style="color:green">
 Este componente ataca diretamente a invisibilidade produtiva e a dependência de atravessadores, que capturam a maior parte do valor do artesanato amazônico. Ao introduzir o design sistêmico e a certificação de origem, transformamos o artesanato utilitário em coleções de alto valor cultural e comercial. A integração com a plataforma digital EcoSol resolve o gargalo histórico da comercialização direta, garantindo que o rendimento chegue integralmente às mãos das mulheres. Além disso, o componente promove a economia circular ao utilizar resíduos das cadeias de açaí e castanha (fibras e sementes) como insumos, reduzindo o desperdício ambiental e criando alternativas de renda na entressafra. A infraestrutura física (Domos-Fábrica) provida pelo Componente 3 assegura ambientes de trabalho ergonômicos e seguros, fundamentais para a sucessão geracional e a resiliência econômica das famílias extrativistas frente às pressões do mercado convencional.
@@ -204,9 +201,7 @@ Monitoramento de Impacto: Coleta de dados trimestrais sobre renda, horas trabalh
 |  |
 | --- |
 
-
-
-**Metas relacionadas a este componente:**_Quantifique as entregas relacionadas ao componente. Por exemplo: área de floresta diretamente manejada (hectares), faturamento anual com atividade econômica de uso sustentável - produtos beneficiados e serviços (R$), novos produtos ou tecnologias desenvolvidos (nº de produtos) etc – ver indicadores de eficácia e de efetividade utilizados pelo Fundo Amazônia na tabela “Modelo de quadro de resultados dos projetos apoiados” disponibilizada no website do Fundo Amazônia na seção “Monitoramento e Avaliação” – “Modelos e guias”._
+**Metas relacionadas a este componente:**
 
 <span style="color:green">
 
@@ -225,7 +220,8 @@ Governança: 03 Marcas Coletivas registradas e operando como Indicações Geogr�
 
 REGINA /TANIA (CADEIA DAS CASTANHAS)
 
-**Componente 1:**_Redigir uma frase que descreva o componente.  (vide exemplos na figura da página 10, até 500 caracteres, incluindo espaços)._
+**Componente 3:**_Redigir uma frase que descreva o componente.  (vide exemplos na figura da página 10, até 500 caracteres, incluindo espaços)._
+
 <span style="color:green">
 Estruturação e modernização da cadeia produtiva da castanha-do-brasil, com foco na autonomia feminina, implementação de unidades de beneficiamento primário com baixo impacto ambiental e acesso direto a mercados institucionais e de exportação em AM, AC e RO.
 </span>
@@ -284,7 +280,7 @@ Gestão de Resíduos e Subprodutos: Coleta e processamento das cascas de castanh
 | --- |
 
 
-**Metas relacionadas a este componente:**_Quantifique as entregas relacionadas ao componente. Por exemplo: área de floresta diretamente manejada (hectares), faturamento anual com atividade econômica de uso sustentável - produtos beneficiados e serviços (R$), novos produtos ou tecnologias desenvolvidos (nº de produtos) etc – ver indicadores de eficácia e de efetividade utilizados pelo Fundo Amazônia na tabela “Modelo de quadro de resultados dos projetos apoiados” disponibilizada no website do Fundo Amazônia na seção “Monitoramento e Avaliação” – “Modelos e guias”._
+**Metas relacionadas a este componente:**
 
 <span style="color:green">
 
@@ -303,7 +299,7 @@ Energia: Substituição de 100% do uso de lenha ou fósseis por calor residual d
 
 TAKWARA/FILEMON/JESIEL (BIOARQUITETURA DO ADOBE E DO BAMBU)
 
-**Componente 3:**_Redigir uma frase que descreva o componente. (vide exemplos na figura da página 10, até 500 caracteres, incluindo espaços)._
+**Componente 4:**_Redigir uma frase que descreva o componente. (vide exemplos na figura da página 10, até 500 caracteres, incluindo espaços)._
 
 <span style="color:green">
 Implantação de Polos Comunitários de Bioeconomia baseados em bioarquitetura de baixo carbono (bambu e polímeros vegetais) e micro-biorrefinarias modulares para autonomia energética, saneamento ecológico e dreno de carbono na Amazônia Legal.
@@ -327,17 +323,17 @@ Este componente rompe a dependência de insumos exógenos (diesel e cimento) que
 
 <span style="color:green">
 
-05 Polos Comunitários MQTF: Unidades produtivas geodésicas (Domo T11) construídas em bambu e PU vegetal conforme NBR 16828-1.
+    05 Polos Comunitários MQTF: Unidades produtivas geodésicas (Domo T11) construídas em bambu e PU vegetal conforme NBR 16828-1.
 
-Micro-Biorrefinarias Modulares: 05 reatores de pirólise lenta para geração de bioenergia, biochar e extrato pirolenhoso.
+    Micro-Biorrefinarias Modulares: 05 reatores de pirólise lenta para geração de bioenergia, biochar e extrato pirolenhoso.
 
-Balsa-Catamarã de Bambu (T10): Embarcação bio-compósita para logística circular e escoamento da produção em áreas isoladas.
+    Balsa-Catamarã de Bambu (T10): Embarcação bio-compósita para logística circular e escoamento da produção em áreas isoladas.
 
-Sistemas de Saneamento Ecológico: Instalação de Banheiros Secos Modulares (T12-BSM) para soberania sanitária nos polos.
+    Sistemas de Saneamento Ecológico: Instalação de Banheiros Secos Modulares (T12-BSM) para soberania sanitária nos polos.
 
-Canteiro-Escola Hub (Rio Branco): Centro de excelência para fabricação de equipamentos TRL 7-8 e formação técnica continuada.
+    Canteiro-Escola Hub (Rio Branco): Centro de excelência para fabricação de equipamentos TRL 7-8 e formação técnica continuada.
 
-Créditos de Carbono Certificados: Relatórios de remoção de CO2e via produção de biochar e uso de materiais renováveis.
+    Créditos de Carbono Certificados: Relatórios de remoção de CO2e via produção de biochar e uso de materiais renováveis.
 </span>
 > 📏 Contagem: 982 caracteres (com espaços)
 
@@ -346,17 +342,17 @@ Créditos de Carbono Certificados: Relatórios de remoção de CO2e via produç�
 
 <span style="color:green">
 
-Manejo e Tratamento de Bambuzais: Execução de planos de manejo sustentável e imunização de colmos via vapor pirolenhoso.
+    Manejo e Tratamento de Bambuzais: Execução de planos de manejo sustentável e imunização de colmos via vapor pirolenhoso.
 
-Fabricação de Reatores e Domos: Produção das peças estruturais e componentes das biorrefinarias no Canteiro-Escola Hub.
+    Fabricação de Reatores e Domos: Produção das peças estruturais e componentes das biorrefinarias no Canteiro-Escola Hub.
 
-Formação de Lideranças Técnicas: Capacitação de 100 mulheres na montagem de estruturas geodésicas e operação de sistemas térmicos.
+    Formação de Lideranças Técnicas: Capacitação de 100 mulheres na montagem de estruturas geodésicas e operação de sistemas térmicos.
 
-Montagem Itinerante dos Polos: Realização de mutirões de bio-construção nos territórios, integrando saber tradicional e engenharia.
+    Montagem Itinerante dos Polos: Realização de mutirões de bio-construção nos territórios, integrando saber tradicional e engenharia.
 
-Acoplamento Térmico Agroindustrial: Integração do calor residual da pirólise aos secadores de castanha e pasteurizadores de açaí.
+    Acoplamento Térmico Agroindustrial: Integração do calor residual da pirólise aos secadores de castanha e pasteurizadores de açaí.
 
-Implementação do MRV Geoespacial: Monitoramento via plataforma SMGA dos indicadores de dreno de carbono e impacto territorial.
+    Implementação do MRV Geoespacial: Monitoramento via plataforma SMGA dos indicadores de dreno de carbono e impacto territorial.
 
 Gestão de Manutenção Preventiva: Criação de protocolos comunitários para conservação das embarcações e infraestruturas de bambu.
 </span>
@@ -369,11 +365,7 @@ Gestão de Manutenção Preventiva: Criação de protocolos comunitários para c
 
 
 
-
-
-
-
-**Metas relacionadas a este componente:**_Quantifique as entregas relacionadas ao componente. Por exemplo: área de floresta diretamente manejada (hectares), faturamento anual com atividade econômica de uso sustentável - produtos beneficiados e serviços (R$), novos produtos ou tecnologias desenvolvidos (nº de produtos) etc – ver indicadores de eficácia e de efetividade utilizados pelo Fundo Amazônia na tabela “Modelo de quadro de resultados dos projetos apoiados” disponibilizada no website do Fundo Amazônia na seção “Monitoramento e Avaliação” – “Modelos e guias”._
+**Metas relacionadas a este componente:**
 
 <span style="color:green">
 
@@ -394,36 +386,78 @@ Logística: 02 Balsas Ecológicas (T10) operacionais para suporte às cadeias pr
 
 
 
-**5\. Metodologia**
+**5. METODOLOGIA E PROCEDIMENTOS
+<span style="color:red">5.1. Etapas e Procedimentos (Máx 4000 caracteres)</span>
 
-A pesquisa adotará a metodologia da **Pesquisa-Ação Participativa (PAP)**, que valoriza a participação ativa das comunidades em todas as etapas do projeto.
+<span style="color:green">
+A estratégia metodológica baseia-se na Pesquisa-Ação Participativa (PAP), integrando o saber tradicional feminino à engenharia regenerativa. O processo será dividido em quatro eixos operacionais:
 
-**5.1. Etapas e Procedimentos**
+Diagnóstico e Mapeamento de Saberes (M01-M06): Realização de inventários iconográficos e fluxogramas de processos para identificar gargalos de beneficiamento. Utilização de metodologias etnográficas para validar o papel da mulher nas cadeias de castanha, açaí e artesanato.
 
-<table cellspacing="0" cellpadding="0" class="t1" style="border-collapse: collapse; letter-spacing: normal; orphans: 2; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody><tr><td valign="middle" class="td3" style="width: 98px; height: 30px; border-style: solid; border-width: 1px; border-color: rgb(0, 0, 0); padding: 4px;">Etapa</td><td valign="middle" class="td4" style="width: 92px; height: 30px; border-style: solid; border-width: 1px; border-color: rgb(0, 0, 0); padding: 4px;">Objetivo</td><td valign="middle" class="td5" style="width: 102px; height: 30px; border-style: solid; border-width: 1px; border-color: rgb(0, 0, 0); padding: 4px;">Metodologia Aplicada</td><td valign="top" class="td6" style="width: 97px; height: 31px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent rgb(0, 0, 0); padding: 4px;"></td></tr><tr><td valign="middle" class="td7" style="width: 98px; height: 176px; border-style: solid; border-width: 1px; border-color: rgb(0, 0, 0); padding: 4px;">Diagnóstico e Mapeamento de Saberes</td><td valign="middle" class="td8" style="width: 92px; height: 176px; border-style: solid; border-width: 1px; border-color: rgb(0, 0, 0); padding: 4px;">Identificar as práticas, o papel da mulher, e os gargalos de beneficiamento e gestão.</td><td valign="middle" class="td9" style="width: 102px; height: 176px; border-style: solid; border-width: 1px; border-color: rgb(0, 0, 0); padding: 4px;">Pesquisa Etnográfica:&nbsp;Entrevistas semiestruturadas com as mulheres (utilizando termo de autorização); Grupos Focais; Mapeamento da Cadeia de Valor e Fluxograma de Processos.</td><td valign="top" class="td10" style="width: 97px; height: 176px; border-style: solid; border-width: 0px 0px 1px 1px; border-color: transparent transparent rgb(0, 0, 0) rgb(0, 0, 0); padding: 4px;"></td></tr><tr><td valign="middle" class="td7" style="width: 98px; height: 176px; border-style: solid; border-width: 1px; border-color: rgb(0, 0, 0); padding: 4px;">Co-Criação de Soluções e Tecnologia Social</td><td valign="middle" class="td8" style="width: 92px; height: 176px; border-style: solid; border-width: 1px; border-color: rgb(0, 0, 0); padding: 4px;">Desenvolver soluções tecnológicas (máquinas, processos,&nbsp;design) que maximizem o aproveitamento dos frutos e reduzam o tempo/esforço do trabalho feminino.</td><td valign="middle" class="td9" style="width: 102px; height: 176px; border-style: solid; border-width: 1px; border-color: rgb(0, 0, 0); padding: 4px;"></td><td valign="middle" class="td11" style="width: 96px; height: 176px; border-style: solid; border-width: 1px; border-color: rgb(0, 0, 0); padding: 4px;">Workshops de Co-Criação e&nbsp;Design Thinking:&nbsp;Reuniões com as mulheres para prototipagem de soluções de baixo custo e alta replicabilidade (Tecnologia Social).</td></tr><tr><td valign="middle" class="td12" style="width: 98px; height: 192px; border-style: solid; border-width: 1px; border-color: rgb(0, 0, 0); padding: 4px;">Capacitação e Fortalecimento Institucional</td><td valign="middle" class="td13" style="width: 92px; height: 192px; border-style: solid; border-width: 1px; border-color: rgb(0, 0, 0); padding: 4px;">Transferir conhecimentos em gestão e economia, e fortalecer as organizações femininas.</td><td valign="middle" class="td14" style="width: 102px; height: 192px; border-style: solid; border-width: 1px; border-color: rgb(0, 0, 0); padding: 4px;"></td><td valign="middle" class="td15" style="width: 96px; height: 192px; border-style: solid; border-width: 1px; border-color: rgb(0, 0, 0); padding: 4px;">Oficinas de Economia Solidária e Gestão:&nbsp;Módulos de educação financeira, cálculo de custos,&nbsp;marketing&nbsp;de produtos da floresta e práticas de comercialização justa.</td></tr><tr><td valign="middle" class="td16" style="width: 98px; height: 208px; border-style: solid; border-width: 1px; border-color: rgb(0, 0, 0); padding: 4px;">Monitoramento, Avaliação e Difusão</td><td valign="middle" class="td17" style="width: 92px; height: 208px; border-style: solid; border-width: 1px; border-color: rgb(0, 0, 0); padding: 4px;">Aferir o impacto das soluções implementadas e socializar os resultados.</td><td valign="middle" class="td18" style="width: 102px; height: 208px; border-style: solid; border-width: 1px; border-color: rgb(0, 0, 0); padding: 4px;">Análise de Indicadores:&nbsp;Monitoramento de indicadores de renda, tempo de trabalho (redução da jornada feminina) e percentual de aproveitamento dos frutos (ex-ante&nbsp;e&nbsp;ex-post). Produção de vídeos e guias para replicabilidade.</td><td valign="middle" class="td19" style="width: 97px; height: 208px; border-style: solid; border-width: 1px 0px 0px 1px; border-color: rgb(0, 0, 0) transparent transparent rgb(0, 0, 0); padding: 4px;"></td></tr></tbody></table>
+Co-Criação e Implementação de Tecnologia Social (M06-M30): Desenvolvimento e montagem dos Domos-Fábrica (T11) e das Micro-Biorrefinarias (T01-T09). Aplicação de Design Thinking para adaptar as máquinas e processos à ergonomia e jornada de trabalho feminina, garantindo que a tecnologia reduza o esforço físico e maximize o aproveitamento dos frutos.
 
-**5.2. Público-Alvo e Unidades de Análise**
+Capacitação e Fortalecimento Institucional (M12-M42): Ciclos de formação no Canteiro-Escola Hub, focados em autogestão financeira, operação agroindustrial e uso da Plataforma EcoSol. O foco é a transferência de tecnologia para que as mulheres dominem o ciclo completo, da extração à comercialização direta.
+
+Monitoramento, Avaliação e Difusão (M01-M48): Implementação do sistema de MRV Geoespacial (SMGA) para aferir indicadores de renda, redução de jornada e dreno de carbono. Produção de dossiês técnicos e vídeos para replicabilidade da Tecnologia Social Takwara em outros territórios da Amazônia Legal.
+
+</span>
+> 📏 Contagem: 1.842 caracteres (com espaços)
+
+**5.1. Público-Alvo e Unidades de Análise**
 
 O projeto será realizado junto a associações, cooperativas e grupos produtivos formados majoritariamente por mulheres, localizados em municípios da Amazônia Legal que possuam alta relevância nas cadeias de castanha, açaí e artesanato.
 
 
 
-**6\. Resultados e Produtos Esperados**
+**6\. RESULTADOS E PRODUTOS ESPERADOS
+<span style="color:red">(Máx 2000 caracteres)</span>**
 
 O projeto prevê a geração de resultados tangíveis e intangíveis, com foco no desenvolvimento da bioeconomia de base comunitária:
 
-<table cellspacing="0" cellpadding="0" class="t1" style="border-collapse: collapse; letter-spacing: normal; orphans: 2; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody><tr><td valign="middle" class="td20" style="width: 89px; height: 30px; border-style: solid; border-width: 1px; border-color: rgb(0, 0, 0); padding: 4px;">Indicador de Resultado</td><td valign="middle" class="td21" style="width: 317px; height: 30px; border-style: solid; border-width: 1px; border-color: rgb(0, 0, 0); padding: 4px;">Descrição/Produto</td></tr><tr><td valign="middle" class="td22" style="width: 89px; height: 47px; border-style: solid; border-width: 1px; border-color: rgb(0, 0, 0); padding: 4px;">Econômico (Tangível)</td><td valign="middle" class="td23" style="width: 317px; height: 47px; border-style: solid; border-width: 1px; border-color: rgb(0, 0, 0); padding: 4px;">Aumento da renda média das famílias e melhoria da eficiência no beneficiamento (aumento do percentual de aproveitamento do fruto).</td></tr><tr><td valign="middle" class="td24" style="width: 89px; height: 63px; border-style: solid; border-width: 1px; border-color: rgb(0, 0, 0); padding: 4px;">Tecnológico (Tangível)</td><td valign="middle" class="td25" style="width: 317px; height: 63px; border-style: solid; border-width: 1px; border-color: rgb(0, 0, 0); padding: 4px;">Desenvolvimento e implementação de, no mínimo, 3 (três) soluções de Tecnologia Social (máquina de beneficiamento,&nbsp;design&nbsp;de produto, ou sistema de gestão) adaptadas à realidade local.</td></tr><tr><td valign="middle" class="td26" style="width: 89px; height: 46px; border-style: solid; border-width: 1px; border-color: rgb(0, 0, 0); padding: 4px;">Social (Intangível)</td><td valign="middle" class="td27" style="width: 317px; height: 46px; border-style: solid; border-width: 1px; border-color: rgb(0, 0, 0); padding: 4px;">Redução da jornada de trabalho feminina, aumento do capital social e fortalecimento da autonomia e liderança das mulheres nas organizações.</td></tr><tr><td valign="middle" class="td22" style="width: 89px; height: 47px; border-style: solid; border-width: 1px; border-color: rgb(0, 0, 0); padding: 4px;">Acadêmico (Difusão)</td><td valign="middle" class="td23" style="width: 317px; height: 47px; border-style: solid; border-width: 1px; border-color: rgb(0, 0, 0); padding: 4px;">Produção de artigos científicos, guias metodológicos para a replicabilidade das Tecnologias Sociais e um&nbsp;Dossiê de Saberes e Bioeconomia.</td></tr></tbody></table>
+<span style="color:green">
 
+Impacto Econômico: Incremento real de 40% a 50% na renda média das 1.050 famílias beneficiárias, através da eliminação de atravessadores e verticalização da produção (extração de óleos, polpas e design assinado).
 
+Inovação Tecnológica: Entrega de 05 Polos Comunitários equipados, 02 Balsas-Catamarã (T10) operacionais e 12 soluções de Tecnologia Social (T01 a T12) validadas em ambiente real (TRL 8).
 
-**7\. Duração e Cronograma (Sugestão - 36 meses)**
+Impacto Social e de Gênero: Redução comprovada da jornada de trabalho feminina em 30% através da mecanização apropriada; formação de 100 "Mestras da Terra" em bioarquitetura e gestão técnica.
 
-O projeto terá duração de 36 (trinta e seis) meses, dividido em fases de Diagnóstico e Mapeamento (6 meses), Co-Criação e Implementação de TS (18 meses), Capacitação e Fortalecimento (9 meses), e Monitoramento e Difusão (3 meses, concomitante às etapas anteriores).
+Ativos Ambientais: Remoção certificada de 2.500 t CO2e/ano e manejo sustentável de 15.000 hectares de floresta nativa sob governança feminina.
 
-**8\. Sustentabilidade e Parcerias**
+Difusão Acadêmica: Publicação de 01 Dossiê de Saberes e Bioeconomia, guias metodológicos de Tecnologia Social Livre e 03 artigos científicos em periódicos de alto impacto.
+</span>
+> 📏 Contagem: 1.085 caracteres (com espaços)
 
-O projeto assegura a sustentabilidade por meio da **capacitação em autogestão e finanças** dos grupos, garantindo que as soluções implementadas sejam economicamente viáveis e geridas pelas próprias mulheres. A sustentabilidade ambiental está intrinsecamente ligada à valorização da floresta em pé.
+**. DURAÇÃO E CRONOGRAMA (48 MESES)
+<span style="color:red">(Nota: Ajustado conforme o Memorando Técnico para 4 ANOS)</span>
 
+<span style="color:green">
+O projeto terá duração total de 48 meses, estruturado para garantir a maturação das tecnologias e a consolidação da autogestão comunitária:
+
+Fase 1 (M01-M06): Diagnóstico territorial, georreferenciamento e pactuação com cooperativas.
+
+Fase 2 (M06-M30): Construção dos Polos, fabricação dos reatores de pirólise e implementação da Bioarquitetura (Fase de maior aporte CAPEX).
+
+Fase 3 (M12-M42): Capacitação continuada, ativação da Plataforma EcoSol e rodadas de negócios.
+
+Fase 4 (M36-M48): Monitoramento final de impacto, certificação de dreno de carbono e difusão dos resultados (Encerramento e Transferência de Custódia).
+</span>
+> 📏 Contagem: 758 caracteres (com espaços)
+
+**8. SUSTENTABILIDADE E PARCERIAS
+<span style="color:red">(Máx 1500 caracteres)</span>
+
+<span style="color:green">
+A sustentabilidade do projeto MQTF está alicerçada na Tríplice Hélice Regenerativa:
+
+Financeira: A geração de receitas próprias via comercialização direta na Plataforma EcoSol e a venda de serviços e subprodutos (Biochar e Extrato Pirolenhoso) garante o custeio operacional pós-BNDES.
+
+Técnica: O Canteiro-Escola Hub em Rio Branco permanece como núcleo de assistência técnica e manutenção para as cooperativas do consórcio UnB/UFAC/UFRR.
+
+Ambiental: A valorização econômica da floresta em pé e o uso de materiais de pegada negativa (Bambu/PU) tornam o modelo resiliente às mudanças climáticas.
+As parcerias institucionais garantem a chancela acadêmica e a continuidade das pesquisas em bioeconomia, enquanto o protagonismo feminino assegura a sucessão geracional e a manutenção da soberania territorial no longo prazo.
+</span>
+> 📏 Contagem: 942 caracteres (com espaços)
 
 
 **REFERÊNCIAS**
