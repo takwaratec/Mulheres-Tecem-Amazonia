@@ -16,7 +16,7 @@ date: '2026-03-29'
 <p align="right"><i>"Feliz aquele que transfere o que sabe e aprende o que ensina."<br>— Cora Coralina</i></p>
 
 
-### <img src="../../../../../../docs/assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 **Instituição**: Consórcio UnB / UFRR / UFAC
 **Referência**: MASTER_ARTIGO_bioeconomia_master.md
@@ -27,11 +27,11 @@ date: '2026-03-29'
 ---
 
 
-# <img src="../../../../../../docs/assets/patterns/square_title_red.svg" width="30px"> A ENGENHARIA DA PRECARIEDADE E O COLAPSO SISTÊMICO
+# <img src="../../../../../assets/patterns/square_title_red.svg" width="30px"> A ENGENHARIA DA PRECARIEDADE E O COLAPSO SISTÊMICO
 
 A Amazônia Legal brasileira, com seus mais de 28 milhões de habitantes, constitui o epicentro de uma disputa narrativa e econômica global, buscando conciliar a preservação do maior bioma tropical com o desenvolvimento humano premente. Contudo, sob o léxico da "bioeconomia", emerge um sistema assimétrico que perpetua a exploração de corpos-territórios, onde a violência contra a natureza e a violência contra mulheres e crianças são faces de uma mesma moeda extrativista [1, 2, 6, 11]. Este documento técnico-geopolítico investiga as contradições intrínsecas ao ciclo econômico regional, as falhas sistêmicas no planejamento tecnológico e a vulnerabilidade social extrema que caracterizam as calhas dos rios Juruá, Purus e Madeira.
 
-## <img src="../../../../../../docs/assets/patterns/square_15_red.svg" width="22px"> I. O Abismo de Jordão: Epícentro da Miséria Estrutural
+## <img src="../../../../../assets/patterns/square_15_red.svg" width="22px"> I. O Abismo de Jordão: Epícentro da Miséria Estrutural
 
 O município de Jordão, no Acre, representa a síntese da dicotomia entre a vasta biodiversidade amazônica e a indigência social estrutural. Classificado com um Índice de Desenvolvimento Humano Municipal (IDHM) "muito baixo", Jordão é um dos pontos mais remotos do território nacional, acessível majoritariamente por via fluvial em uma jornada de até cinco dias a partir de Tarauacá [1, 2]. Este isolamento geográfico determina uma economia de subsistência precária e custos de vida inflacionados para bens essenciais, como gás e combustível, desproporcionais à renda local [1]. A dependência de programas de transferência de renda é sistêmica, com mais de 80% da população inscrita no Cadastro Único, refletindo a ausência de um mercado de trabalho formal e a fragilidade das cadeias produtivas [2].
 
@@ -46,7 +46,7 @@ A infraestrutura básica em Jordão é crítica: apenas 34,94% da população po
 | Acesso a Água Potável | 34,94% da população                       | Déficit grave de saneamento básico, impactando saúde pública e qualidade de vida [2]        |
 | Risco de Inundação    | 68,7% dos domicílios em áreas vulneráveis | Vulnerabilidade climática e habitacional crítica, com perdas recorrentes de patrimônio [2]  |
 
-## <img src="../../../../../../docs/assets/patterns/square_09_red.svg" width="22px"> II. Corpos-Território sob Pressão: As Rotas da Vulnerabilidade
+## <img src="../../../../../assets/patterns/square_09_red.svg" width="22px"> II. Corpos-Território sob Pressão: As Rotas da Vulnerabilidade
 
 As calhas dos rios Juruá, Purus e Madeira configuram-se não apenas como eixos logísticos, mas como corredores de vulnerabilidade humana e degradação ambiental. O trajeto de Cruzeiro do Sul a Manaus, passando por Porto Velho, escancara o paradoxo entre o escoamento de *commodities* e a ausência de direitos fundamentais [1]. A Amazônia registra um aumento de 4,3% na violência sexual contra meninas e mulheres no último ano, superando a média nacional em 36,8% [1]. Nas rotas fluviais da tríplice fronteira, 80% das mulheres vítimas de tráfico humano são submetidas à exploração sexual [1]. Crianças indígenas são as mais afetadas por desnutrição e ausência de saneamento, exibindo altura média inferior aos padrões da OMS [1]. A emergência humanitária Yanomami, com 570 mortes infantis atribuídas ao garimpo, é a manifestação mais brutal dessa precariedade [1].
 
@@ -57,7 +57,7 @@ As calhas dos rios Juruá, Purus e Madeira configuram-se não apenas como eixos 
 | Rondônia (Madeira)            | 12,2 por 1.000 NV           | Histórico de silenciamento e invisibilidade das "heroínas" pioneiras [1]        | Malária e doenças venéreas [1]             |
 | Roraima (Referência Yanomami) | 23,9 por 1.000 NV           | Emergência humanitária, 570 mortes infantis relacionadas ao garimpo ilegal [1] | Contaminação por mercúrio e fome crônica [1] |
 
-## <img src="../../../../../../docs/assets/patterns/square_21_green.svg" width="22px"> III. A Fábrica Flutuante: Ruína Tecnológica e Cegueira Climática
+## <img src="../../../../../assets/patterns/square_21_green.svg" width="22px"> III. A Fábrica Flutuante: Ruína Tecnológica e Cegueira Climática
 
 O projeto da "fábrica flutuante" de processamento de polpa de frutas, financiado pelo Ministério da Agricultura e Pecuária (MAPA) com R$ 25 milhões, é um símbolo da desconexão entre o planejamento centralizado e a realidade hidrológica amazônica [1, 4]. A embarcação de 50 metros, dotada de painéis solares e concebida para operar em áreas remotas, foi imobilizada no Porto de Manaus em setembro de 2024 devido ao seu calado excessivo, incompatível com os baixos níveis dos rios durante a severa estiagem [1, 4].
 
@@ -70,7 +70,7 @@ Este investimento, equivalente a décadas de financiamento para saneamento bási
 | Logística Fluvial     | Unidade móvel para comunidades ribeirinhas [4]   | Dependência de níveis mínimos de água em rios cada vez mais secos [4]   | Isolamento das comunidades que o projeto visava atender, aumentando a desigualdade de acesso [4]               |
 | Comparação Social     | Custo da embarcação vs. Necessidades básicas [3] | Equivale a décadas de orçamento para saneamento em Jordão e congêneres [3] | Percepção de "elefante branco" tecnológico em contraste com a pobreza extrema e falta de infraestrutura [3] |
 
-## <img src="../../../../../../docs/assets/patterns/square_22_black.svg" width="22px"> IV. "Ouro Roxo" e Ouro Negro: A Uberização do Extrativismo e o Saque Madeireiro
+## <img src="../../../../../assets/patterns/square_22_black.svg" width="22px"> IV. "Ouro Roxo" e Ouro Negro: A Uberização do Extrativismo e o Saque Madeireiro
 
 As cadeias de valor do açaí e da castanha-do-pará ilustram a disparidade global da bioeconomia. O açaí, rotulado como "superfood" internacionalmente, registrou um crescimento de 15.000% nas exportações em dez anos [1, 8]. Contudo, no mercado internacional (EUA/Europa), o quilo de açaí desidratado pode atingir US$ 60, enquanto o produtor local recebe entre R$ 90 e R$ 150 por uma lata de 14kg do fruto fresco [1, 9]. Apenas uma fração mínima (2,5% a 4,5%) da produção total é exportada, indicando que a maior parte do valor gerado não é capturada pelas comunidades na base da cadeia [9]. Na castanha-do-pará, apesar da alta nos preços FOB de exportação em 2025 (8,6% acima da média dos últimos cinco anos), o extrativista permanece vulnerável às flutuações de mercado e à ausência de infraestrutura local de beneficiamento [10].
 
@@ -78,7 +78,7 @@ A "uberização" do extrativismo na Amazônia manifesta-se na transferência tot
 
 Paralelamente, a economia real da Amazônia Legal é tracionada pela exploração madeireira, predominantemente ilegal e predatória. A extração de madeira nativa é a terceira maior atividade econômica da região [5], mas no Amazonas, 62% dessa exploração ocorre sem autorização ambiental, totalizando 42 mil hectares de retirada ilegal em um ano [6]. Municípios como Boca do Acre e Lábrea, na região da Amacro, concentram 75% dessa atividade ilícita, servindo como ponta de lança para desmatamento total e conversão de terras para pastagens via queimadas criminosas [6]. Florestas intensamente exploradas e queimadas podem sofrer redução de até 49% na biomassa viva, 69% na cobertura do dossel e um aumento na densidade de cipós, comprometendo a capacidade de regeneração e a função climática do bioma [7]. A transição para uma bioeconomia real exige a substituição desse extrativismo por modelos sustentáveis e o investimento em ciência e tecnologia para uso eficiente da madeira [5].
 
-## <img src="../../../../../../docs/assets/patterns/square_16_green.svg" width="22px"> V. A Geopolítica da Hidrologia: Entraves Logísticos e o Ponto de Não-Retorno
+## <img src="../../../../../assets/patterns/square_16_green.svg" width="22px"> V. A Geopolítica da Hidrologia: Entraves Logísticos e o Ponto de Não-Retorno
 
 A competitividade dos produtos da bioeconomia amazônica é intrinsecamente dependente de uma logística eficiente. Embora novas rotas marítimas diretas para a China, partindo do Porto de Santana (Amapá), tenham reduzido o tempo de transporte de 180 para 35 dias para açaí, castanha e minérios [8, 14], essa eficiência externa é ameaçada pela fragilidade das hidrovias internas.
 
@@ -88,23 +88,23 @@ A COP30 em Belém (2025), com o lançamento do Fundo Florestas Tropicais para Se
 
 Cientistas do INPA e de outros institutos de pesquisa alertam para o iminente "ponto de não-retorno" (tipping point) da Amazônia [18, 19]. A continuidade do desmatamento e do aquecimento global pode levar a floresta a um colapso autoalimentado, transformando-a de sumidouro em fonte emissora de gases de efeito estufa, resultando em uma catástrofe para a agricultura e o equilíbrio climático global [18]. A "Síndrome de Kessler" ambiental, metáfora para uma sucessão de danos ecológicos em cascata (seca, incêndios, mortalidade em massa), aponta para um cenário onde a reversão do quadro se torna impossível, mesmo com o fim das emissões humanas [18, 20].
 
-## <img src="../../../../../../docs/assets/patterns/square_06_black.svg" width="22px"> VI. Imperativos de Reengenharia Geopolítica
+## <img src="../../../../../assets/patterns/square_06_black.svg" width="22px"> VI. Imperativos de Reengenharia Geopolítica
 
 A crise identitária da bioeconomia amazônica exige uma reorientação estratégica, focando na resiliência climática e no desenvolvimento humano.
 
-<img src="../../../../../../docs/assets/icons/human_13_green.svg" width="18px">   **Priorizar o Fundo Amazônia:*Alocar recursos para saneamento básico, saúde materno-infantil e educação nos municípios com "muito baixo IDH", como Jordão, combatendo a miséria estrutural.
+<img src="../../../../../assets/icons/human_13_green.svg" width="18px">   **Priorizar o Fundo Amazônia:*Alocar recursos para saneamento básico, saúde materno-infantil e educação nos municípios com "muito baixo IDH", como Jordão, combatendo a miséria estrutural.
 
-<img src="../../../../../../docs/assets/icons/human_07_red.svg" width="18px">   **Reestruturar a Logística Fluvial:*Substituir megaprojetos de alto calado por unidades de processamento terrestres descentralizadas e modais de transporte adaptados à nova realidade hidrológica de rios com níveis cada vez mais baixos.
+<img src="../../../../../assets/icons/human_07_red.svg" width="18px">   **Reestruturar a Logística Fluvial:*Substituir megaprojetos de alto calado por unidades de processamento terrestres descentralizadas e modais de transporte adaptados à nova realidade hidrológica de rios com níveis cada vez mais baixos.
 
-<img src="../../../../../../docs/assets/icons/human_04_black.svg" width="18px">   **Formalizar e Proteger o Extrativismo:*Implementar políticas de formalização e segurança social para os trabalhadores, eliminando a "uberização" do trabalho e garantindo a retenção de valor nas comunidades locais, através do fortalecimento de cooperativas lideradas por mulheres.
+<img src="../../../../../assets/icons/human_04_black.svg" width="18px">   **Formalizar e Proteger o Extrativismo:*Implementar políticas de formalização e segurança social para os trabalhadores, eliminando a "uberização" do trabalho e garantindo a retenção de valor nas comunidades locais, através do fortalecimento de cooperativas lideradas por mulheres.
 
-<img src="../../../../../../docs/assets/icons/human_18_red.svg" width="18px">   **Combater o Saque Madeireiro:*Intensificar a fiscalização e o combate rigoroso à exploração madeireira ilegal, que persiste como motor de degradação ambiental e pobreza no bioma, promovendo modelos de manejo florestal sustentável e silvicultura.
+<img src="../../../../../assets/icons/human_18_red.svg" width="18px">   **Combater o Saque Madeireiro:*Intensificar a fiscalização e o combate rigoroso à exploração madeireira ilegal, que persiste como motor de degradação ambiental e pobreza no bioma, promovendo modelos de manejo florestal sustentável e silvicultura.
 
-<img src="../../../../../../docs/assets/icons/human_18_black.svg" width="18px">   **Alinhar o Financiamento Climático:*Garantir que fundos como o TFFF e o Fundo Amazônia alcancem diretamente as populações da floresta, promovendo a bioeconomia regenerativa a partir da base social e da dignidade humana.
+<img src="../../../../../assets/icons/human_18_black.svg" width="18px">   **Alinhar o Financiamento Climático:*Garantir que fundos como o TFFF e o Fundo Amazônia alcancem diretamente as populações da floresta, promovendo a bioeconomia regenerativa a partir da base social e da dignidade humana.
 
 A Amazônia pós-COP30 está em uma encruzilhada histórica. A manutenção do *status quo* logístico e laboral conduzirá ao ponto de não-retorno, convertendo a riqueza biológica em uma "ruína tecnológica". A bioeconomia regenerativa deve, portanto, emergir da regeneração da dignidade daqueles que protegem a floresta, assegurando que o valor gerado pelos seus produtos se reverta em infraestrutura, saúde e segurança para seus habitantes.
 
-## <img src="../../../../../../docs/assets/patterns/square_07_black.svg" width="22px"> Referências Bibliográficas
+## <img src="../../../../../assets/patterns/square_07_black.svg" width="22px"> Referências Bibliográficas
 
 [1] Paradigmas da Bioeconomia Amazônica: Entre a Riqueza Biológica, a Precarização Laboral e o Colapso do Planejamento Tecnológico ante a Crise Climática. *paradgma1.md*.
 [2] PANORAMA GERAL - ACRE - Fronteiras - IBAM, acessado em março 25, 2026, https://www.fronteirasamazonia.ibam.org.br/wp-content/uploads/2025/05/p1_sintese_acre.pdf
@@ -128,4 +128,4 @@ A Amazônia pós-COP30 está em uma encruzilhada histórica. A manutenção do *
 [20] (PDF) Protegendo a Amazônia pela Bioeconomia In Anais do VIII Congresso Internacional de Direito Ambiental Internacional UNISANTOS, Outubro de 2025 - ResearchGate, acessado em março 25, 2026, https://www.researchgate.net/publication/398815397_Protegendo_a_Amazonia_pela_Bioeconomia_In_Anais_do_VIII_Congresso_Internacional_de_Direito_Ambiental_Internacional_UNISANTOS_Outubro_de_2025
 [21] Isolado, Jordão lidera ranking dos municípios mais pobres do País ..., acessado em março 25, 2026, https://acervo.socioambiental.org/acervo/noticias/isolado-jordao-lidera-ranking-dos-municipios-mais-pobres-do-pais
 
-<p align="center"><img src="../../../../../../docs/assets/logo_BQTF/logo_mqtf_soberana.svg" width="45px"><br><b>Mulheres Que Tecem a Floresta - MQTF -</b><br>Consórcio Científico UnB/UFRR/UFAC<br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="45px"><br><b>Mulheres Que Tecem a Floresta - MQTF -</b><br>Consórcio Científico UnB/UFRR/UFAC<br><i>"Soberania não se pede, se exerce."</i></p>
