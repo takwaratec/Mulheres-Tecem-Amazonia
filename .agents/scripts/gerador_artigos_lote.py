@@ -6,7 +6,10 @@ import google.generativeai as genai
 
 # --- CONFIGURAÇÃO DE CHAVE ---
 def obter_chave():
+    # 1. Tenta carregar do ambiente (VS Code Secret ou Export)
     chave = os.environ.get("GOOGLE_API_KEY")
+    
+    # 2. Tenta carregar do arquivo .env se não estiver no ambiente
     if not chave or chave.strip() == "":
         if os.path.exists(".env"):
             with open(".env", "r") as f:
@@ -14,9 +17,11 @@ def obter_chave():
                     if line.startswith("GOOGLE_API_KEY="):
                         chave = line.split("=", 1)[1].strip().strip("'").strip('"')
                         break
+    
     if not chave:
-        print("⚠️ Alerta: GOOGLE_API_KEY não encontrada. Usando backup legado.")
-        chave = "AIzaSyBWbudKYLB-lM0kYoqNZfU0j8ix20UzDqQ" # Chave zDqQ (Ativa no painel)
+        print("❌ ERRO CRÍTICO: GOOGLE_API_KEY não configurada.")
+        print("💡 Ação Necessária: Crie um arquivo .env com GOOGLE_API_KEY=sua_chave ou exporte a variável no terminal.")
+        return None
     return chave
 
 GEMINI_KEY = obter_chave()

@@ -37,7 +37,7 @@ Este índice é o **Mapa de Calor** e a fonte de verdade para todos os agentes d
 | **T06** | Gabaritos de Solda | [ENG-MEM-T06](../T06_GABARITOS_SOLDA/ENG-MEM-T06_GABARITOS-SOLDA.md) | [ENG-NT-T06-01](../T06_GABARITOS_SOLDA/ENG-NT-T06-01_VARIANTE-MADEIRA.md) | Trilho-orientador |
 | **T07** | Prensa Sanduíche | [ENG-MEM-T07](../T07_PRENSA_SANDUICHE/ENG-MEM-T07_PRENSA-SANDUICHE.md) | - | OSB / Airless Expansivo |
 | **T08** | Tamboreador | [ENG-MEM-T08](../T08_TAMBOREADOR/ENG-MEM-T08_TAMBOREADOR.md) | [ENG-NT-T08-01](../T08_TAMBOREADOR/ENG-NT-T08-01_VARIANTE-IFB.md) | Bio-abrasivos (MEM-011) |
-| **T10** | Kits Airless | - | [ENG-MEM-010](../T10_BALSA_CATAMARA/ENG-MEM-010_INVENTARIO-MECANICO-BNDES.md) | Logística Volante |
+| **T10** | Kits Airless | - | [ENG-MEM-010](../ENG-MEM-010_INVENTARIO-MECANICO-BNDES.md) | Logística Volante |
 
 ## 2. Matriz Estratégica e Territorial (NT-Series)
 

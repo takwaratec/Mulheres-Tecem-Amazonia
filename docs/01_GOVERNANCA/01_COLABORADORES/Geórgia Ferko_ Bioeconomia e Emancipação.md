@@ -126,7 +126,7 @@ O dossiê de Geórgia Patrícia da Silva Ferko revela uma trajetória intelectua
 
 As implicações de sua pesquisa são vastas: elas oferecem caminhos para a modernização administrativa via inovação tecnológica, subsídios para a proteção de direitos de populações vulneráveis e estratégias para a consolidação de uma bioeconomia que seja, de fato, emancipatória. Como docente e gestora na UFRR, Ferko consolida-se como um elo vital entre a produção de conhecimento científico de classe mundial e a aplicação prática desse saber para o "bem viver" das populações amazônicas. A continuidade de seu trabalho no PROFNIT e no PROCISA promete novos avanços na compreensão de como a propriedade intelectual e a inovação social podem servir como motores de uma soberania regional sustentável e inclusiva.
 
-#### **Referências citadas**
+#### **Bibliografia**
 
 1. georgia patricia da silva ferko \- SIGAA \- Sistema Integrado de Gestão de Atividades Acadêmicas \- UFRR, acessado em março 17, 2026, [https://sigaa.ufrr.br/sigaa/public/docente/portal.jsf?siape=1633807](https://sigaa.ufrr.br/sigaa/public/docente/portal.jsf?siape=1633807)  
 2. Georgia FERKO | Chefe de Departamento | Federal University of ..., acessado em março 17, 2026, [https://www.researchgate.net/profile/Georgia-Ferko-2](https://www.researchgate.net/profile/Georgia-Ferko-2)  

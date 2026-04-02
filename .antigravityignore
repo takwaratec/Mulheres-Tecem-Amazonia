@@ -1,0 +1,7 @@
+.env
+*.env
+_RESEARCH_RAW/
+99_RESTRITO/
+venv/
+.venv/
+node_modules/

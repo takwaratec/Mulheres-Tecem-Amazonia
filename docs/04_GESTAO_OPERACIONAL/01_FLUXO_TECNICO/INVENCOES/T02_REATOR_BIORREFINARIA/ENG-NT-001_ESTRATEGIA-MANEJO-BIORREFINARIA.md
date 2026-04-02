@@ -1,6 +1,6 @@
 ---
 projeto: Mulheres Que Tecem a Floresta 
-instituicao: Consórcio Consórcio UnB/UFRR/UFAC
+instituicao: Consórcio UnB/UFRR/UFAC
 tipo: Nota Técnica (NT-001)
 referencia: ENG-NT-001-2026
 status: CONSOLIDADO (v1.0 Mulheres que Tecem a Floresta)

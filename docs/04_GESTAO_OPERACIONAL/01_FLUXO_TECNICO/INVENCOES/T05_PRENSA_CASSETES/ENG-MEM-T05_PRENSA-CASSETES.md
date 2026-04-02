@@ -1,6 +1,6 @@
 ---
 projeto: Mulheres Que Tecem a Floresta 
-instituicao: Consórcio Consórcio UnB/UFRR/UFAC
+instituicao: Consórcio UnB/UFRR/UFAC
 tipo: Memorial de Patente Social (T05)
 referencia: ENG-MEM-T05-2026
 status: CONSOLIDADO (v1.0 Mulheres que Tecem a Floresta)
@@ -70,7 +70,7 @@ Cada cassete é um conjunto autônomo de paredes e matrizes que se encaixam no c
 
 ## Como Citar
 **APA:**
-Takwara, F. R. (2026). *Memorial Jurídico: Prensa de Cassetes Intercambiáveis T05* (Versão 1.0 Mulheres que Tecem a Floresta). Projeto Mulheres Que Tecem a Floresta / Consórcio Consórcio UnB/UFRR/UFAC. https://doi.org/10.5281/zenodo.18827106
+Takwara, F. R. (2026). *Memorial Jurídico: Prensa de Cassetes Intercambiáveis T05* (Versão 1.0 Mulheres que Tecem a Floresta). Projeto Mulheres Que Tecem a Floresta / Consórcio UnB/UFRR/UFAC. https://doi.org/10.5281/zenodo.18827106
 
 ---
 

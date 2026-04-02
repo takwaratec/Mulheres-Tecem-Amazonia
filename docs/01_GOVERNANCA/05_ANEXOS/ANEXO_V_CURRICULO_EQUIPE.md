@@ -9,7 +9,7 @@ author:
 date: '2026-03-24'
 ---
 
-![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 <p align="right"><i>"Viver é muito perigoso."<br>— Guimarães Rosa</i></p>
 
@@ -17,7 +17,7 @@ date: '2026-03-24'
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: ANEXO_V_CURRICULO_EQUIPE.md
-*   **Status**: Status Consoliado
+*   **Status**: Status Consolidado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 

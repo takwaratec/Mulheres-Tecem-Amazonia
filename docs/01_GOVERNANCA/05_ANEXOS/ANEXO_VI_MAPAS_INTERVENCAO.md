@@ -28,6 +28,16 @@ date: '2026-03-26'
 
 ---
 
+## <img src="../../assets/patterns/square_06_red.svg" width="22px"> Resumo de Entregas e Impacto Direto (1.150 Famílias)
+
+A malha descrita neste anexo não apenas circunscreve a geografia, mas desdobra as metas vitais do projeto sobre a população da floresta, estimando mitigações reais e diretas de vulnerabilidade para **1.150 famílias (aprox. 5.750 pessoas)** nas calhas fluviais do Juruá, Purus e interflúvios:
+
+- <img src="../../assets/icons/human_18_black.svg" width="18px"> **Dignidade e Saneamento Ecológico**: Instalação sistemática das cabines **BSM (Banheiros Secos Modulares T12)** nas zonas ribeirinhas isoladas. A meta é erradicar a defecação a céu aberto, frear surtos de contaminação parasitária hídrica e entregar dignidade menstrual e ginecológica exclusiva às mulheres da floresta.
+- <img src="../../assets/icons/human_09_black.svg" width="18px"> **Emancipação por Renda Fixa (Economia Real)**: Remuneração institucionalizada baseada no Beneficiamento e Manufatura nas *Biorrefinarias T01*, anulando sumariamente a exploração exercida por atravessadores em castanhais e açaizais. Quebramos o ciclo secular de "escravidão por dívida" herdado dos antigos barracões seringalistas.
+- <img src="../../assets/icons/human_02_black.svg" width="18px"> **Soberania Humana e Fim da Violência Sistêmica**: A bio-arquitetura e os reatores não elevam apenas ativos florestais, mas o *Status* social. Posicionar as Associações de Mulheres como fiadoras técnicas do maquinário de Alta Engenhara (NR-13 / Patentes) desestrutura a espinha dorsal do machismo agroextrativista, convertendo nossa máquina térmica no principal motor político antifeminicídio e antimorticídio ribeirinho.
+
+---
+
 ## <img src="../../assets/patterns/square_01_red.svg" width="22px"> 1. REDE DE INTERVENÇÃO (EIXO AC/RO/RR/AM)
 
 O projeto atua em uma rede descentralizada composta por **5 polos hierarquizados**, conectados por calhas fluviais e rodoviárias, com distribuição de unidades **Domo + T01 + BSM** proporcional ao CAPEX disponível.
@@ -102,8 +112,8 @@ Polo Naval + Resinagem Airless + Série T. Implantação condicionada a visitaç
 | T11 | Domo Geodésico 15m (Polo Naval) ⁵ | Estrutura geodésica de grande porte — oficina naval para embarcações de até 12m de convés. Diâmetro mínimo 15m, sujeito a avaliação de área disponível ou contrapartida institucional | 85.000,00 |
 | T12 | BSM (Banheiro Seco Modular) ² | Saneamento ecológico autônomo — fabricação em série | 18.000,00 |
 | — | 2× Conjunto Airless Tornado Heaven ³ | Bomba Heaven + Bicomponente Mecânico Relação Fixa | 28.000,00 |
-| — | Insumos de partida (resinas, EPIs, ferramental) | Estoque operacional inicial para 3 meses | 4.145,00 |
-| | **Subtotal Central 1** | | **201.145,00** |
+| — | Insumos de partida (resinas, solventes, EPIs, misturadores) | Estoque operacional inicial para 3 meses e kit limpeza PU | 12.145,00 |
+| | **Subtotal Central 1** | | **209.145,00** |
 
 #### Central Regional 2 — Mâncio Lima / Rodrigues Alves (Acre)
 Unidade de beneficiamento comunitário com foco em tratamento de bambu e saneamento. Sem aparato de resinagem airless.
@@ -156,9 +166,9 @@ Hub expositivo — sem operação industrial. Domo de 10m como vitrine permanent
 
 | Item | Descrição | CAPEX Est. (R$) |
 | :--- | :--- | ---: |
-| 2× Conjunto Airless Tornado Heaven (Reserva Móvel) ³ | Equipamentos portáteis para instalação de bioestruturas em áreas remotas — mobilizados via T10 | 28.000,00 |
-| Contingência para reposição e novos editais | Peças, insumos de reposição, margem para adesão de novos parceiros | 44.110,00 |
-| **Subtotal Reserva** | | **72.110,00** |
+| 2× Conjunto Airless Tornado Heaven (Reserva Móvel) ³ | Equipamentos portáteis para instalação em áreas remotas | 28.000,00 |
+| Contingência para reposição e novos editais | Peças, insumos de limpeza PU (solventes), margem para adesão | 36.110,00 |
+| **Subtotal Reserva** | | **64.110,00** |
 
 | **SUBTOTAL ESCALA N2** | **5 Centrais Regionais + Reserva Técnica** | **625.000,00** |
 | :--- | :--- | ---: |
@@ -176,6 +186,7 @@ Hub expositivo — sem operação industrial. Domo de 10m como vitrine permanent
 > - **Bomba Airless Tornado Heaven** (serviço pesado, 100% sólidos, revestimentos navais) — modelos de referência: Heaven 75:275 ou 100:210, compatíveis com PU bicomponente de alta viscosidade.
 > - **Sistema Bicomponente Mecânico Heaven Relação Fixa** — não requer eletricidade (pneumático), ideal para canteiros remotos na Amazônia.
 > - **Pistola Airless** — modelo a definir conforme bico e padrão de atomização indicados pelo fabricante.
+> - **Kits de Limpeza e Manutenção Periódica:** Provisão mandatória de solvente seguro para purga/desobstrução do PU Vegetal (**Álcool de Cereais 96%**), misturadores de haste inoxidável permanentes (não descartáveis), gaxetas de viton e chicotes/mangueiras de reposição. Garantia ecológica e eficaz contra calcificação na tubulação.
 >
 > **Insumos a aplicar**:
 > - **Mamonex® RD70** — Espuma expansiva rígida de PU vegetal (Dens. 70 kg/m³) para preenchimento estrutural, isolamento e selagem de cascos navais.

@@ -175,7 +175,7 @@ Para especificações técnicas detalhadas, Bill of Materials (BoM), parâmetros
 - <img src="../../../../../../assets/icons/human_20_black.svg" width="18px"> JANSEN, J.; KIELA, A. Mechanical properties and structural behavior of bamboo culms. *Construction and Building Materials*, v. 192, p. 431–444, 2018.  
 - <img src="../../../../../../assets/icons/human_10_black.svg" width="18px"> LUGO, A. E.; ARCE, M.; GONZÁLEZ, G. Bamboo: ecology, silviculture and economic uses. *Forest Ecology and Management*, v. 315, p. 1–7, 2014.  
 - <img src="../../../../../../assets/icons/human_07_black.svg" width="18px"> LOUREIRO, C. F. B. Educação ambiental e movimentos sociais na construção da cidadania ecológica. São Paulo: Cortez, 2004.  
-- <img src="../../../../../../assets/icons/human_01_black.svg" width="18px"> TAKWARA, F. R. Memorial Técnico: Escariador Interno de Nós de Bambu T09. Consórcio Consórcio UnB/UFRR/UFAC, 2026.
+- <img src="../../../../../../assets/icons/human_01_black.svg" width="18px"> TAKWARA, F. R. Memorial Técnico: Escariador Interno de Nós de Bambu T09. Consórcio UnB/UFRR/UFAC, 2026.
 
 ---
 

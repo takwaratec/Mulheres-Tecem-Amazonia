@@ -164,7 +164,7 @@ O dossiê de Tânia Cristina da Silva Cruz e Geórgia Patrícia da Silva Ferko r
 
 Ambas as trajetórias confirmam que a verdadeira inovação ocorre na convergência entre o conhecimento científico e as realidades locais. A produção de endpoints precisos e o acervo de publicações detalhado neste documento não são apenas registros acadêmicos; são roteiros para uma transição ecológica e socialmente justa. Através de seus trabalhos, a universidade pública brasileira reafirma seu papel como motor de emancipação, transformando sementes tradicionais e grafismos ancestrais em ativos de uma economia que valoriza a diversidade como sua maior riqueza.8
 
-#### **Referências citadas**
+#### **Bibliografia**
 
 1. Georgia FERKO | Head of Department | Federal University of ..., acessado em março 17, 2026, [https://www.researchgate.net/profile/Georgia-Ferko](https://www.researchgate.net/profile/Georgia-Ferko)  
 2. PROFNIT \- Tânia Cristina da Silva Cruz \- UnB, acessado em março 17, 2026, [https://www.profnit.unb.br/index.php?option=com\_content\&view=article\&id=166:tania-cristina-da-silva-cruz\&catid=175\&Itemid=101](https://www.profnit.unb.br/index.php?option=com_content&view=article&id=166:tania-cristina-da-silva-cruz&catid=175&Itemid=101)  

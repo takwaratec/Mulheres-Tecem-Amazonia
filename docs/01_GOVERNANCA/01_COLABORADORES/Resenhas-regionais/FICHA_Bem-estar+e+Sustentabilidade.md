@@ -117,7 +117,7 @@ A seguir, a lista de todas as referências citadas no texto, formatadas segundo 
 30. UOL. Ribeirinhas da ilha do Combú criam pequenos negócios de olho no turismo. [S. l.: s. n.], 2024. Disponível em: https://economia.uol.com.br/empreendedorismo/noticias/redacao/2024/08/17/empreendedorismo-ilha-combu-pa.htm. Acesso em: 26 fev. 2025.
 31. VON ENDE, M. et al. Índices de sustentabilidade de projetos da economia solidária: o caso Esperança/Coopesperança. *Revista de Gestão Social e Ambiental*, [S. l.], v. 6, n. 3, p. 45-60, 2012. DOI: 10.5773/rgsa.v6i3.445.
 
-**Referências citadas no texto, mas não encontradas na bibliografia do documento original (ou incompletas):**
+**Bibliografia no texto, mas não encontradas na bibliografia do documento original (ou incompletas):**
 
 * <img src="../../../../../assets/icons/human_20_black.svg" width="18px">   A Ilha do Combú, 2025 (citado no texto, mas sem entrada na bibliografia).
 * <img src="../../../../../assets/icons/human_06_black.svg" width="18px">   ICMBio (2025) (citado na Tabela 1, mas sem entrada na bibliografia).

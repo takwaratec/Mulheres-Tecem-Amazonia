@@ -9,7 +9,7 @@ author:
 date: '2026-03-24'
 ---
 
-![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 <p align="right"><i>"A força do lugar é a força do mundo."<br>— Milton Santos</i></p>
 
@@ -17,7 +17,7 @@ date: '2026-03-24'
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: ANEXO_VII_REFERENCIAS_BIBLIOGRAFICAS.md
-*   **Status**: Status Consoliado
+*   **Status**: Status Consolidado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -36,6 +36,7 @@ date: '2026-03-24'
 - <img src="../../../../assets/icons/human_14_black.svg" width="18px"> **LOPES, M. D. M. [Part. Takwara]** <img src="../../../../assets/icons/human_14_black.svg" width="18px"> Uso de resíduos de biomassa amazônica como reforço em compósitos OSB via PU Vegetal. UENF/UFMG, 2020.
 - <img src="../../../../assets/icons/human_13_black.svg" width="18px"> **RESINA VEGETAL.** <img src="../../../../assets/icons/human_13_black.svg" width="18px"> Ensaios de polimerização a frio para estruturas de baixo custo na Amazônia Sul-Ocidental. Laboratório de Engenharia UnB, 2025.
 - <img src="../../../../assets/icons/human_04_black.svg" width="18px"> **SILVA, R. A.** <img src="../../../../assets/icons/human_04_black.svg" width="18px"> Bio-compósitos de fibras naturais e resinas sustentáveis: O futuro da bioconstrução modular. UFAC, 2024.
+- <img src="../../../../assets/icons/human_18_black.svg" width="18px"> **IMPERVEG®.** <img src="../../../../assets/icons/human_18_black.svg" width="18px"> Relatório de Ensaio: Impermeabilização e Proteção de Cascos em Bioestruturas de Bambu via PU Vegetal (UG 132 Multiuso). Estudo de Caso Naval. 2025.
 
 ## 3. P&D: SISTEMAS A VAPOR E TERMORRETIFICAÇÃO (NAVAL/INDUSTRIAL)
 - <img src="../../../../assets/icons/human_08_black.svg" width="18px"> **MOTORES A VAPOR.** <img src="../../../../assets/icons/human_08_black.svg" width="18px"> Notas Técnicas sobre Propulsão de Baixa Pressão (0-Bar) para Embarcações Fluviais (T10). Núcleo Institucional, 2026.

@@ -13,7 +13,7 @@ date: '2026-03-26'
 
 <p align="right"><i>"A educação é o direito de todos e dever do Estado."<br>— Anísio Teixeira</i></p>
 
-### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_NEA-Nova-Economia-Amazonia-Relatorio-Completo-portugues.md
@@ -74,11 +74,11 @@ O Projeto WTF (Mulheres Que Tecem a Floresta) beneficia as mulheres extrativista
 
 **Benefícios para as mulheres extrativistas:**
 
-* <img src="../../../../../assets/icons/human_17_black.svg" width="18px">   **Geração de Emprego e Renda Inclusiva**: A expansão da bioeconomia no cenário NEA prevê 365 mil empregos adicionais, com um aumento de 345 mil postos de trabalho para negros e indígenas (que atualmente representam 80% das ocupações na AML, e 91% no extrativismo não exaustivo). As iniciativas familiares, frequentemente lideradas por mulheres, são um pilar da economia indígena e extrativista, garantindo que o crescimento beneficie diretamente essas populações.
-* <img src="../../../../../assets/icons/human_13_black.svg" width="18px">   **Fortalecimento de Arranjos Produtivos Locais**: O relatório destaca que os processos produtivos da economia indígena, muitas vezes liderados por mulheres, estruturam-se em iniciativas familiares, associações e cooperativas. A estratégia da NEA é multiplicar esses arranjos inclusivos, baseados em habilidades e inteligências locais, valorizando o conhecimento tradicional, incluindo o artesanato, onde a participação de mulheres é significativa.
-* <img src="../../../../../assets/icons/human_06_black.svg" width="18px">   **Valorização da Sociobiodiversidade e Conhecimento Tradicional**: A bioeconomia proposta pela NEA, pautada na floresta em pé e rios fluindo, reconhece o papel fundamental dos povos indígenas e comunidades tradicionais, que historicamente manejam a natureza. A promoção da distribuição justa dos benefícios e o apoio técnico-financeiro às iniciativas dessas comunidades valorizam os saberes ancestrais, muitas vezes transmitidos e aplicados pelas mulheres.
-* <img src="../../../../../assets/icons/human_15_black.svg" width="18px">   **Melhoria das Condições de Vida e Acesso a Serviços**: A transição para a NEA, com investimentos em infraestrutura e descarbonização, visa melhorar o acesso a eletricidade, saneamento e conectividade em comunidades remotas. Isso impacta diretamente a qualidade de vida, saúde e bem-estar das mulheres e suas famílias, além de facilitar a produção e comercialização de seus produtos.
-* <img src="../../../../../assets/icons/human_03_black.svg" width="18px">   **Engajamento e Protagonismo**: O relatório enfatiza a necessidade de "nada sobre nossos produtos sem nós" e que profissionais indígenas devem protagonizar o planejamento e a operacionalização das cadeias produtivas. Isso garante que as vozes e necessidades das mulheres extrativistas sejam consideradas na formulação das políticas e projetos.
+* <img src="../../../assets/icons/human_17_black.svg" width="18px">   **Geração de Emprego e Renda Inclusiva**: A expansão da bioeconomia no cenário NEA prevê 365 mil empregos adicionais, com um aumento de 345 mil postos de trabalho para negros e indígenas (que atualmente representam 80% das ocupações na AML, e 91% no extrativismo não exaustivo). As iniciativas familiares, frequentemente lideradas por mulheres, são um pilar da economia indígena e extrativista, garantindo que o crescimento beneficie diretamente essas populações.
+* <img src="../../../assets/icons/human_13_black.svg" width="18px">   **Fortalecimento de Arranjos Produtivos Locais**: O relatório destaca que os processos produtivos da economia indígena, muitas vezes liderados por mulheres, estruturam-se em iniciativas familiares, associações e cooperativas. A estratégia da NEA é multiplicar esses arranjos inclusivos, baseados em habilidades e inteligências locais, valorizando o conhecimento tradicional, incluindo o artesanato, onde a participação de mulheres é significativa.
+* <img src="../../../assets/icons/human_06_black.svg" width="18px">   **Valorização da Sociobiodiversidade e Conhecimento Tradicional**: A bioeconomia proposta pela NEA, pautada na floresta em pé e rios fluindo, reconhece o papel fundamental dos povos indígenas e comunidades tradicionais, que historicamente manejam a natureza. A promoção da distribuição justa dos benefícios e o apoio técnico-financeiro às iniciativas dessas comunidades valorizam os saberes ancestrais, muitas vezes transmitidos e aplicados pelas mulheres.
+* <img src="../../../assets/icons/human_15_black.svg" width="18px">   **Melhoria das Condições de Vida e Acesso a Serviços**: A transição para a NEA, com investimentos em infraestrutura e descarbonização, visa melhorar o acesso a eletricidade, saneamento e conectividade em comunidades remotas. Isso impacta diretamente a qualidade de vida, saúde e bem-estar das mulheres e suas famílias, além de facilitar a produção e comercialização de seus produtos.
+* <img src="../../../assets/icons/human_03_black.svg" width="18px">   **Engajamento e Protagonismo**: O relatório enfatiza a necessidade de "nada sobre nossos produtos sem nós" e que profissionais indígenas devem protagonizar o planejamento e a operacionalização das cadeias produtivas. Isso garante que as vozes e necessidades das mulheres extrativistas sejam consideradas na formulação das políticas e projetos.
 
 **Diretrizes para o projeto e a bioeconomia:**
 
@@ -167,7 +167,7 @@ ANTAQ AGÊNCIA NACIONAL DE TRANSPORTES AQUAVIÁRIOS. **Anuário ANTAQ**. 2021. D
 
 ANTF ASSOCIAÇÃO NACIONAL DOS TRANSPORTADORES FERROVIÁRIOS. **Mapa ferroviário**. Brasília: ANTF, 2023. Disponível em: <https://www.antf.org.br/mapa-ferroviario/>. Acesso em: 24 mar. 2026.
 
-APIB ARTICULAÇÃO DOS POVOS INDÍGENAS DO BRASIL. **Cumplicidade na destruição: como mineradoras e investidores internacionais contribuem para a violação dos direitos indígenas e ameaçam o futuro da Amazônia**. Brasília: APIB/Amazon Watch, 2022. Disponível em: <https://cumplicidadedestruicao.org/../../../../../assets/files/2022-Cumplicidade-na-destruicao-IV.pdf>. Acesso em: 24 mar. 2026.
+APIB ARTICULAÇÃO DOS POVOS INDÍGENAS DO BRASIL. **Cumplicidade na destruição: como mineradoras e investidores internacionais contribuem para a violação dos direitos indígenas e ameaçam o futuro da Amazônia**. Brasília: APIB/Amazon Watch, 2022. Disponível em: <https://cumplicidadedestruicao.org/../../../assets/files/2022-Cumplicidade-na-destruicao-IV.pdf>. Acesso em: 24 mar. 2026.
 
 ARRUDA, E. F. **Modelo de otimização para avaliação de veículos leves como alternativa em frotas de compartilhamento**. 2018. Dissertação (Mestrado em Engenharia de Produção) – COPPE, Universidade Federal do Rio de Janeiro, Rio de Janeiro, 2018.
 
@@ -876,4 +876,4 @@ ZHANG, R.; FUJIMORI, S. The role of transport electrification in global climate 
 ---
 
 ---
-<p align="center"><img src="../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

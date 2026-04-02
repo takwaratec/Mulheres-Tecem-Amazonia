@@ -14,12 +14,13 @@ Sempre que o Agente for acionado para criar, revisar ou documentar na Plataforma
 **Quando usar:** Quando operar nas pastas `05_ADVOCACY_COP30`, `07_BLOG_MEDIUM`, ou acionar os comandos `/triage`, `/publicar_advocacy`.
 **Ação do Agente:** 
 - Carregar a **Advocacy Skill** (para o tom combativo e denúncia do lobby).
-- Carregar a **Research Skill** e **Technology Skill** (para embasar a denúncia com a ciência de materiais do PU/Bambu, evitando discurso vazio).
+- Carregar a **Research Skill** e **Security Skill** (para embasar a denúncia e garantir que dados sensíveis não sejam expostos no material de divulgação).
 
 ### 2. Cruzamento: Engenharia + Governança (Memoriais Técnicos)
 **Quando usar:** Quando operar nas pastas `01_TECNOLOGIA_TAKWARA`, `02_PESQUISA_DESENVOLVIMENTO` ou acionar `/doi-sync`.
 **Ação do Agente:** 
-- Carregar a **Technology Skill** e **Management Skill** (para descritivos estruturais, como Biorrefinaria ou Geodésicas).
+- Carregar a **Security Skill** (para garantir que chaves e dados de API de terceiros estejam isolados da documentação pública).
+- Carregar a **Management Skill** (para descritivos estruturais e fluxos técnicos).
 - Carregar a **Governance Skill** (para padronização, autoria, financiabilidade e licenças).
 - *A Advocacy Skill é silenciada aqui*, mantendo a Persona do Autor como estritamente institucional/científica.
 
@@ -37,8 +38,8 @@ Sempre que o Agente for acionado para criar, revisar ou documentar na Plataforma
 ### 5. Cruzamento: Bioeconomia Feminina e Consórcio (WTF)
 **Quando usar:** Quando o contexto envolver o projeto "Mulheres Que Tecem a Floresta", o Consórcio UnB/UFAC/UFRR, ou os territórios AC, RR e AM.
 **Ação do Agente:**
+- Carregar a **Security Skill** (para proteção de chaves de API e segredos do projeto).
 - Carregar a **WTF Skill** (para persona de Design Social e Governança Cooperativa).
-- Carregar a **Technology Skill** (para garantir que a tecnologia Bambu/Mamona AR 5.1 seja a base técnica).
 - Ativar prefixos de arquivo `WTF_`.
 
 

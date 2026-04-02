@@ -1,6 +1,6 @@
 ---
 projeto: Mulheres Que Tecem a Floresta 
-instituicao: Consórcio Consórcio UnB/UFRR/UFAC
+instituicao: Consórcio UnB/UFRR/UFAC
 tipo: Nota Técnica de Sensoriamento (Anexo Projeto)
 referencia: NT-GEO-002-2026
 status: CONSOLIDADO (-Ready)
@@ -34,12 +34,26 @@ Esta Nota Técnica fundamenta o uso de **Sensoriamento Remoto (SR)** como ferram
 
 ## <img src="../../../../assets/patterns/square_03_black.svg" width="22px"> 2. Rede de Integração Nacional (Comp 1 & 3)
 
-| Município Sede | Estado | Vínculo | Função |
-| :--- | :---: | :--- | :--- |
-| **Boa Vista** | RR | UFRR (Georgia Ferko) | Hub N2: Bioeconomia Digital |
-| **Natal** | RN | UFRN (Sonia Marise) | Hub N2: P&D Biocompósitos |
-| **Manaus** | AM | PNTS / UEA | Hub N2: Tecnologias Sociais |
-| **C. do Sul** | AC | UFAC / Juruá | Hub N2: Manejo de Fronteira |
+| Prioridade | Município Sede | Estado | Vínculo | Função |
+| :---: | :--- | :---: | :--- | :--- |
+| **1** | **Rio Branco** | AC | UFAC / IFAC / Embrapa AC | Hub N1: Canteiro-Escola + Biorrefinaria (Sede Industrial) |
+| **2** | **Cruzeiro do Sul / Juruá** | AC | Polo Naval CZS / Bajoleiros / UFAC ¹ | Hub N2: Polo Naval + Resinagem Airless + Série T |
+| **3** | **Porto Velho** | RO | IFRO / UNIR / Embrapa RO ² | Hub N2: Apoio Técnico e Artesanal — T01 Biorrefinaria |
+| **4** | **Boa Vista** | RR | UFRR / IFRR / CIR ² | Hub N2: Bioeconomia Digital e Artesanato Indígena |
+| **5** | **Manaus** | AM | Musa / INPA / UEA / Porto Novo ² | Hub N2: Exposição Permanente — Produtos, Painéis Fotográficos, Vídeo-Instalação |
+
+> [!WARNING]
+> ¹ **Polo Cruzeiro do Sul / Juruá**: Implantação condicionada a visitação técnica, CPLI e mapeamento de parceiros navais compatíveis com aparato industrial de resinagem airless e série T.
+
+> [!IMPORTANT]
+> A administração consciente do **CAPEX** determinará quantas unidades **Domo + T01 + BSM** serão distribuídas pelas calhas de rio que conectam os núcleos-base. Prioridade de investimento segue a hierarquia acima.
+
+> [!NOTE]
+> ² Parceiros institucionais a serem definidos via Chamada de Intenções (Anexo III, Cláusulas 4–5):
+> - RO — Coordenação: Profa. Dra. Sonia Marise Salles Carvalho.
+> - RR — Coordenação: Profa. Dra. Georgia Ferko (UFRR).
+> - AM — Coordenação: Profa. Dra. Sonia Marise Salles Carvalho.
+> - AC — Coordenação: Profa. Dra. Tânia Cristina Cruz (UnB/UFAC).
 
 ---
 

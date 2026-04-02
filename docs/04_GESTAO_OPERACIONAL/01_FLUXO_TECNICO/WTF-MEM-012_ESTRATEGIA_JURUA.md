@@ -48,6 +48,12 @@ O Rio Juruá apresenta desafios únicos de navegabilidade que demandam uma frota
 - <img src="../../../../assets/icons/human_12_black.svg" width="18px"> UTILIZAR a rede fluvial para o escoamento planejado de **biomassa de bambu** <img src="../../../../assets/icons/human_12_black.svg" width="18px"> (*Guadua spp.*).
 - <img src="../../../../assets/icons/human_19_black.svg" width="18px"> IMPLEMENTAR unidades de briquetagem na origem (Acre) para viabilizar o frete fluvial até centros consumidores/processadores.
 
+### 3.4. Hierarquia Técnica e Governança Naval
+A gestão da construção para a **Patente Social T10 (Balsa Catamarã)** deve respeitar a estrutura de comando dos estaleiros artesanais:
+- **Mestre Naval**: Coordenação do projeto e geometria do casco.
+- **Carpinteiro de Forro e Calafate**: Execução técnica e estanqueidade (foco em PU Vegetal).
+- **Aprendiz**: Continuidade dos saberes ancestrais e renovação do acervo documental.
+
 ## 4. Georreferenciamento de Operação
 As seguintes coordenadas devem ser integradas ao  Plotter para monitoramento em tempo real:
 - <img src="../../../../assets/icons/human_20_black.svg" width="18px"> **Hub CZS:** <img src="../../../../assets/icons/human_20_black.svg" width="18px"> `7° 37′ 52″ S, 72° 40′ 10″ O`
@@ -55,8 +61,8 @@ As seguintes coordenadas devem ser integradas ao  Plotter para monitoramento em 
 - <img src="../../../../assets/icons/human_01_black.svg" width="18px"> **Eixo Purus (Vizinhança):** <img src="../../../../assets/icons/human_01_black.svg" width="18px"> `3° 40′ 55″ S, 61° 28′ 31″ O` (Monitoramento de vulnerabilidades)
 
 ## 5. Próximos Passos
-1. Inclusão do Relatório Técnico [RES_analise-geoestrategica-jurua.md](../../02_DIAGNOSTICO DE AREA/02_ESTUDOS_E_PESQUISAS/RES_analise-geoestrategica-jurua.md) no acervo oficial.
-2. Atualização das métricas de vulnerabilidade no  Plotter com base nos índices identificados (66,6% pobreza no Purus).
+1. Homologação do **[Construção Naval Artesanal e Biocompósitos](../../02_DIAGNOSTICO DE AREA/WTF-DIAG-007_Construção Naval e Biocompósitos.md)** no acervo oficial.
+2. Atualização das métricas de vulnerabilidade no Plotter com base nos índices identificados (66,6% pobreza no Purus).
 3. Integração dos valores de frete logístico identificados (R$ 610,00/trecho).
 
 ---

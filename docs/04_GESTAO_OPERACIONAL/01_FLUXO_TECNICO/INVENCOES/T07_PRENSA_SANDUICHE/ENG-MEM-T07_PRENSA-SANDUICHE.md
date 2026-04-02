@@ -1,6 +1,6 @@
 ---
 projeto: Mulheres Que Tecem a Floresta 
-instituicao: Consórcio Consórcio UnB/UFRR/UFAC
+instituicao: Consórcio UnB/UFRR/UFAC
 tipo: Memorial de Patente Social (T07)
 referencia: ENG-MEM-T07-2026
 status: CONSOLIDADO (v1.0 Mulheres que Tecem a Floresta)

@@ -13,7 +13,7 @@ date: '2026-03-26'
 
 <p align="right"><i>"Ensinar não é transferir conhecimento, mas criar as possibilidades para a sua própria produção ou a sua construção."<br>— Paulo Freire</i></p>
 
-### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_Bioeconomia uma agenda para o Brasil.md
@@ -24,12 +24,12 @@ date: '2026-03-26'
 ### FICHA CIENTÍFICA ESTRUTURADA
 
 ### 1. METADADOS E CABEÇALHO
-* <img src="../../../../../assets/icons/human_16_black.svg" width="18px">   **Projeto:** <img src="../../../../../assets/icons/human_16_black.svg" width="18px"> Mulheres Que Tecem a Floresta
-* <img src="../../../../../assets/icons/human_19_black.svg" width="18px">   **Instituição:** <img src="../../../../../assets/icons/human_19_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
-* <img src="../../../../../assets/icons/human_12_black.svg" width="18px">   **Tipo:** <img src="../../../../../assets/icons/human_12_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
-* <img src="../../../../../assets/icons/human_14_black.svg" width="18px">   **Referência:** <img src="../../../../../assets/icons/human_14_black.svg" width="18px"> PES-TEC-6353-2026
-* <img src="../../../../../assets/icons/human_15_black.svg" width="18px">   **Status:** <img src="../../../../../assets/icons/human_15_black.svg" width="18px"> Ready
-* <img src="../../../../../assets/icons/human_18_black.svg" width="18px">   **Data de Processamento:** <img src="../../../../../assets/icons/human_18_black.svg" width="18px"> 2026-03-24
+* <img src="../../../assets/icons/human_16_black.svg" width="18px">   **Projeto:** <img src="../../../assets/icons/human_16_black.svg" width="18px"> Mulheres Que Tecem a Floresta
+* <img src="../../../assets/icons/human_19_black.svg" width="18px">   **Instituição:** <img src="../../../assets/icons/human_19_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
+* <img src="../../../assets/icons/human_12_black.svg" width="18px">   **Tipo:** <img src="../../../assets/icons/human_12_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
+* <img src="../../../assets/icons/human_14_black.svg" width="18px">   **Referência:** <img src="../../../assets/icons/human_14_black.svg" width="18px"> PES-TEC-6353-2026
+* <img src="../../../assets/icons/human_15_black.svg" width="18px">   **Status:** <img src="../../../assets/icons/human_15_black.svg" width="18px"> Ready
+* <img src="../../../assets/icons/human_18_black.svg" width="18px">   **Data de Processamento:** <img src="../../../assets/icons/human_18_black.svg" width="18px"> 2026-03-24
 
 **REFERÊNCIA BIBLIOGRÁFICA (ABNT):**
 CONFEDERAÇÃO NACIONAL DA INDÚSTRIA (CNI). **Bioeconomia**: uma agenda para o Brasil. Brasília, DF: CNI, 2013. 40 p.
@@ -66,10 +66,10 @@ Bioeconomia, Biotecnologia, Sustentabilidade.
 
 **Como isso beneficia as mulheres extrativistas?**
 A agenda da bioeconomia, conforme delineada, oferece múltiplos benefícios potenciais para as mulheres extrativistas, especialmente na Amazônia Setentrional:
-* <img src="../../../../../assets/icons/human_05_black.svg" width="18px">   **Valorização do Conhecimento Tradicional:** <img src="../../../../../assets/icons/human_05_black.svg" width="18px"> A ênfase na proteção e repartição de benefícios associados ao patrimônio genético e conhecimentos tradicionais pode assegurar que as comunidades extrativistas, onde as mulheres são frequentemente guardiãs de saberes, recebam uma compensação justa pela utilização de seus recursos e práticas.
-* <img src="../../../../../assets/icons/human_17_black.svg" width="18px">   **Geração de Renda e Valor Agregado:** <img src="../../../../../assets/icons/human_17_black.svg" width="18px"> A proposta de desenvolver produtos e processos biológicos (biomedicamentos, cosméticos, alimentos funcionais, bioprodutos) a partir da biodiversidade pode transformar a cadeia de valor extrativista. Mulheres extrativistas, ao invés de vender matéria-prima bruta, poderiam participar de cadeias produtivas que agregam alto valor, seja através de cooperativas, pequenas empresas ou fornecendo insumos diferenciados.
-* <img src="../../../../../assets/icons/human_20_black.svg" width="18px">   **Desenvolvimento Sustentável:** <img src="../../../../../assets/icons/human_20_black.svg" width="18px"> O foco em práticas de uso sustentável da biodiversidade e na bioeconomia florestal alinha-se diretamente com o modo de vida extrativista, incentivando a conservação da floresta em pé e a otimização dos recursos naturais de forma responsável.
-* <img src="../../../../../assets/icons/human_11_black.svg" width="18px">   **Capacitação e Empreendedorismo:** <img src="../../../../../assets/icons/human_11_black.svg" width="18px"> O estímulo ao empreendedorismo e à inovação, com a formação de pesquisadores-empreendedores, pode abrir portas para que as mulheres extrativistas e suas comunidades desenvolvam seus próprios negócios de base biotecnológica, com acesso a apoio técnico, financeiro e regulatório.
+* <img src="../../../assets/icons/human_05_black.svg" width="18px">   **Valorização do Conhecimento Tradicional:** <img src="../../../assets/icons/human_05_black.svg" width="18px"> A ênfase na proteção e repartição de benefícios associados ao patrimônio genético e conhecimentos tradicionais pode assegurar que as comunidades extrativistas, onde as mulheres são frequentemente guardiãs de saberes, recebam uma compensação justa pela utilização de seus recursos e práticas.
+* <img src="../../../assets/icons/human_17_black.svg" width="18px">   **Geração de Renda e Valor Agregado:** <img src="../../../assets/icons/human_17_black.svg" width="18px"> A proposta de desenvolver produtos e processos biológicos (biomedicamentos, cosméticos, alimentos funcionais, bioprodutos) a partir da biodiversidade pode transformar a cadeia de valor extrativista. Mulheres extrativistas, ao invés de vender matéria-prima bruta, poderiam participar de cadeias produtivas que agregam alto valor, seja através de cooperativas, pequenas empresas ou fornecendo insumos diferenciados.
+* <img src="../../../assets/icons/human_20_black.svg" width="18px">   **Desenvolvimento Sustentável:** <img src="../../../assets/icons/human_20_black.svg" width="18px"> O foco em práticas de uso sustentável da biodiversidade e na bioeconomia florestal alinha-se diretamente com o modo de vida extrativista, incentivando a conservação da floresta em pé e a otimização dos recursos naturais de forma responsável.
+* <img src="../../../assets/icons/human_11_black.svg" width="18px">   **Capacitação e Empreendedorismo:** <img src="../../../assets/icons/human_11_black.svg" width="18px"> O estímulo ao empreendedorismo e à inovação, com a formação de pesquisadores-empreendedores, pode abrir portas para que as mulheres extrativistas e suas comunidades desenvolvam seus próprios negócios de base biotecnológica, com acesso a apoio técnico, financeiro e regulatório.
 
 **Quais as diretrizes para o projeto e a bioeconomia?**
 As diretrizes extraídas do relatório para o Projeto WTF e a bioeconomia amazônica são:
@@ -125,4 +125,4 @@ As diretrizes extraídas do relatório para o Projeto WTF e a bioeconomia amazô
 ---
 
 ---
-<p align="center"><img src="../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

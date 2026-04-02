@@ -52,7 +52,7 @@ Não há coordenadas geográficas explícitas no texto.
 ### 4. Extrair Bibliografia citada no texto
 As referências bibliográficas são citadas numericamente no texto ([1], [2], [3], [4]), mas não são detalhadas no fragmento fornecido.
 
-Referências citadas mas não detalhadas no texto:
+Bibliografia mas não detalhadas no texto:
 [1]
 [2]
 [3]

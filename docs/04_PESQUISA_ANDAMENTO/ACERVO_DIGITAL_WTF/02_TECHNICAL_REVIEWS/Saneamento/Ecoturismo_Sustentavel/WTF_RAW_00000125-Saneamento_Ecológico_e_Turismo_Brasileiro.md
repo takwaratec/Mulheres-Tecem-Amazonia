@@ -166,7 +166,7 @@ Somente destinos que tratarem seu esgoto com seriedade técnica e inovação des
 
 ## Referências
 
-**Nota:** O documento original apresenta diversas citações no texto (indicadas por números), mas a seção "Referências citadas" está incompleta, listando apenas as duas primeiras referências e com a segunda de forma truncada. As referências são formatadas abaixo conforme o padrão ABNT para documentos eletrônicos.
+**Nota:** O documento original apresenta diversas citações no texto (indicadas por números), mas a seção "Bibliografia" está incompleta, listando apenas as duas primeiras referências e com a segunda de forma truncada. As referências são formatadas abaixo conforme o padrão ABNT para documentos eletrônicos.
 
 1.  BRASIL. Governo Federal. Ministério das Cidades. **Coleta de Dados SINISA 2024**. [S. l.]: GOV. Acesso em: 14 fev. 2026. Disponível em: https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/saneamento/snis/area-do-prestador-e-municipios
 2.  BRASIL. Governo Federal. Ministério das Cidades. **SINISA**. [S. l.]: GOV. Acesso em: 14 fev. 2026. Disponível em: https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/san [**Nota:** URL incompleta no documento original.]

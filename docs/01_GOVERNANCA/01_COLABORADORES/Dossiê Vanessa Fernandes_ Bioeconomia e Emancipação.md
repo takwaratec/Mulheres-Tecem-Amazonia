@@ -146,7 +146,7 @@ O Dossiê Vanessa Fernandes na UnB Planaltina revela um acervo de publicações 
 
 A produção científica e a atuação institucional documentadas neste dossiê confirmam que a Universidade de Brasília, através de seus pesquisadores em Planaltina, cumpre seu papel social de gerar conhecimento que protege o meio ambiente enquanto promove a emancipação de seus povos. O alinhamento entre a bioeconomia e os movimentos de mulheres e indígenas não é fortuito, mas o resultado de uma visão estratégica que coloca a vida e a dignidade no centro da atividade científica.3
 
-#### **Referências citadas**
+#### **Bibliografia**
 
 1. Juliana MARQUES | Student | University of Brasília, Brasília | UnB | Faculty UnB Planaltina | Research profile \- ResearchGate, acessado em março 17, 2026, [https://www.researchgate.net/profile/Juliana-Marques-8](https://www.researchgate.net/profile/Juliana-Marques-8)  
 2. Biblioteca Digital da Produção Intelectual Discente: Pesquisar, acessado em março 17, 2026, [https://bdm.unb.br/handle/10483/1/simple-search?query=\&sort\_by=dc.date.issued\_dt\&order=asc\&rpp=10\&etal=0\&start=23370](https://bdm.unb.br/handle/10483/1/simple-search?query&sort_by=dc.date.issued_dt&order=asc&rpp=10&etal=0&start=23370)  

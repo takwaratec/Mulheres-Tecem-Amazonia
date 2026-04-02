@@ -3,7 +3,7 @@ projeto: Mulheres Que Tecem a Floresta
 instituicao: Consórcio UnB/UFRR/UFAC
 tipo: Relatório de Alocação e Tranches
 referencia: BUDGET-ALOCACAO-001-2026
-status: CONSOLIDADO (SGMAS-Ready)
+status: CONSOLIDADO (Ready)
 author:
 - affiliation: Universidade de Brasília / Núcleo Institucional
   name: Institucional, Fabio Resck
@@ -18,7 +18,7 @@ date: '2026-03-24'
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
-*   **Referência**: BUDGET_alocacao-tranches.md
+*   **Referência**: Relatório de Alocação e Tranches — Mulheres Que Tecem a Floresta
 *   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
@@ -27,7 +27,7 @@ date: '2026-03-24'
 
 > **Assunto:** Análise de Consistência Financeira e Cronograma de Desembolso  
 > **Valor Total:** R$ 30.000.000,00  
-> **Status:** CONSOLIDADO (SGMAS-Ready)
+> **Status:** CONSOLIDADO (Ready)
 
 ## 1. Análise de Consistência (Escopo vs. Recurso)
 

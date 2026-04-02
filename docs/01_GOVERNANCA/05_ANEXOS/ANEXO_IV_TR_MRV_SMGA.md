@@ -9,7 +9,7 @@ author:
 date: '2026-03-24'
 ---
 
-![Status: Consiliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
+![Status: Consiliado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 <p align="right"><i>"A vida é curta, a arte é longa."<br>— Machado de Assis</i></p>
 
@@ -17,7 +17,7 @@ date: '2026-03-24'
 **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 **Instituição**: Consórcio UnB / UFRR / UFAC
 **Referência**: ANEXO_IV_TR_MRV_SMGA.md
-**Status**: Status Consoliado
+**Status**: Status Consolidado
 **Autor**: Consórcio UnB / UFRR / UFAC
 **Data**: 27 de Março de 2026
 

@@ -3,7 +3,7 @@ projeto: Mulheres Que Tecem a Floresta
 instituicao: Consórcio UnB/UFRR/UFAC
 tipo: Relatório de Custos e Logística
 referencia: BUDGET-BOM-MODULAR-2026
-status: CONSOLIDADO (SGMAS-Ready)
+status: CONSOLIDADO (Ready)
 author:
 - affiliation: Universidade de Brasília / Núcleo Institucional
   name: Institucional, Fabio Resck
@@ -18,14 +18,14 @@ date: '2026-03-24'
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
-*   **Referência**: BUDGET_bom-modular.md
+*   **Referência**: BoM Modular — Mulheres Que Tecem a Floresta
 *   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
 # BoM Modular — Mulheres Que Tecem a Floresta
 
-> **Série:** Engenharia e Custos | **Status:** CONSOLIDADO (SGMAS-Ready)  
+> **Série:** Engenharia e Custos | **Status:** CONSOLIDADO (Ready)  
 > **Conceito:** "Menos é Mais" - Foco em Kits de Bioeconomia e Infraestrutura Leve.
 > **Participação:** Núcleo Institucional como integrante formal do consórcio UnB/UFRR/UFAC.
 

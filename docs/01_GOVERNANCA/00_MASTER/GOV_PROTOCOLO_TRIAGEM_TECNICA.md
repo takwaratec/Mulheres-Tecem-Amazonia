@@ -3,7 +3,7 @@ projeto: Mulheres Que Tecem a Floresta
 instituicao: Consórcio UnB/UFRR/UFAC
 tipo: Documento de Governança
 referencia: GOV-DIR-001-2026
-status: CONSOLIDADO (SGMAS-Ready)
+status: CONSOLIDADO (Ready)
 author:
 - affiliation: Universidade de Brasília / Núcleo Institucional
   name: Institucional, Fabio Resck
@@ -18,7 +18,7 @@ date: '2026-03-24'
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
-*   **Referência**: GOV_PROTOCOLO_TRIAGEM_TECNICA.md
+*   **Referência**: Protocolo de Triagem Técnica e Sincronização de Ativos (v1.0)
 *   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
@@ -61,7 +61,7 @@ projeto: Mulheres Que Tecem a Floresta
 instituicao: Consórcio UnB/UFRR/UFAC
 tipo: Memorando Técnico
 referencia: ENG-MEM-XXX-2026
-status: CONSOLIDADO (SGMAS-Ready)
+status: CONSOLIDADO (Ready)
 author:
 - <img src="../../../../assets/icons/human_06_black.svg" width="18px"> affiliation: Universidade de Brasília / Núcleo Institucional
   name: Institucional, Fabio Resck

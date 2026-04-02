@@ -17,7 +17,7 @@ type: Governança
 version: '2.2.2'
 ---
 
-![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 <p align="right"><i>"A educação não transforma o mundo. Educação muda as pessoas. Pessoas mudam o mundo."<br>— Paulo Freire</i></p>
 
@@ -25,7 +25,7 @@ version: '2.2.2'
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: GOV_memorando-orcamento-consolidado.md
-*   **Status**: Status Consoliado
+*   **Status**: Status Consolidado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -36,15 +36,18 @@ version: '2.2.2'
 
 Este memorando sintetiza o estado atual do orçamento consolidado do Projeto Mulheres Que Tecem a Floresta e explicita as principais pendências...
 
-## 2. Síntese do orçamento consolidado (48 meses)
+## 2. Síntese do orçamento consolidado DRE BNDES (48 meses)
 
-- <img src="../../../../assets/icons/human_09_black.svg" width="18px"> **Valor global estimado:** <img src="../../../../assets/icons/human_09_black.svg" width="18px"> ~R$ 20 milhões em 48 meses.
-- <img src="../../../../assets/icons/human_11_black.svg" width="18px"> **CAPEX:** <img src="../../../../assets/icons/human_11_black.svg" width="18px"> ~R$ 5,27 milhões (biorrefinaria, reator NR-13, UBPs, domos, instalações).
-- <img src="../../../../assets/icons/human_04_black.svg" width="18px"> **OPEX:** <img src="../../../../assets/icons/human_04_black.svg" width="18px"> ~R$ 14,75 milhões (RH completo, logística, insumos, certificações).
+- <img src="../../../../assets/icons/human_09_black.svg" width="18px"> **Valor global estimado:** <img src="../../../../assets/icons/human_09_black.svg" width="18px"> **R$ 30 milhões** em 48 meses.
+- <img src="../../../../assets/icons/human_11_black.svg" width="18px"> **CAPEX (Investimento Direto):** <img src="../../../../assets/icons/human_11_black.svg" width="18px"> **R$ 16,0 milhões** (Obras N1/N2, Maquinários Industriais NR-13, 3 Balsas, Caminhão 8m, Ônibus 4x4, Pick-ups e Saneamento).
+- <img src="../../../../assets/icons/human_04_black.svg" width="18px"> **OPEX (Custeio e Formação):** <img src="../../../../assets/icons/human_04_black.svg" width="18px"> **R$ 9,0 milhões** (Bolsas ALICoop, RH Técnico, Insumos e Logística Viva Demarcada).
+- <img src="../../../../assets/icons/human_06_black.svg" width="18px"> **Gestão, Impostos e Conformidade:** <img src="../../../../assets/icons/human_06_black.svg" width="18px"> **R$ 4,0 milhões** (Taxa de Fundação, Impostos Legais e Auditoria de Carbono MRV).
+- **Contingência (Reserva Técnica)**: **R$ 1,0 milhão** retida para oscilação do custo amazônico.
+
 - <img src="../../../../assets/icons/human_19_black.svg" width="18px"> **Estrutura em tranches:**
-    - <img src="../../../../assets/icons/human_01_black.svg" width="18px"> Tranche 1: Núcleo de menor risco (biorrefinaria, UBPs). Inclui alocação de **R$ 1.022.500** <img src="../../../../assets/icons/human_01_black.svg" width="18px"> para Maquinário Industrial (reator NR-13 e câmaras cilíndricas duplas).
-    - <img src="../../../../assets/icons/human_03_black.svg" width="18px"> Tranche 2: Escalonamento (compósitos, domos-estufa).
-    - <img src="../../../../assets/icons/human_15_black.svg" width="18px"> Tranche 3: Consolidação e replicação regional.
+    - <img src="../../../../assets/icons/human_01_black.svg" width="18px"> Tranche 1: Núcleo de menor risco (adequação Hub N1 Rio Branco e plantas NR-13 de lastro).
+    - <img src="../../../../assets/icons/human_03_black.svg" width="18px"> Tranche 2: Escalonamento logístico (Balsas T10, calhas dos rios Juruá e Purus).
+    - <img src="../../../../assets/icons/human_15_black.svg" width="18px"> Tranche 3: Consolidação sanitária e expansão autônoma dos Núcleos Ribereirinhos (N0).
 
 ## 3. Pendências críticas a serem tratadas com a UnB
 

@@ -2,8 +2,8 @@
 projeto: Mulheres Que Tecem a Floresta
 instituicao: Consórcio UnB/UFRR/UFAC
 tipo: Documento Técnico
-referencia: RES_analise-geoestrategica-jurua
-status: Status Ready
+referencia: Análise Geoestratégica Juruá
+status: Ready
 author:
 - name: Consórcio UnB/UFRR/UFAC
 date: '2026-03-26'
@@ -16,8 +16,8 @@ date: '2026-03-26'
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
-*   **Referência**: RES_analise-geoestrategica-jurua.md
-*   **Status**: Status Em Revisão
+*   **Referência**: [Construção Naval Artesanal e Biocompósitos](../WTF-DIAG-007_Construção Naval e Biocompósitos.md)
+*   **Status**: Ready
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -115,7 +115,17 @@ A modernização para frotas elétricas e o fortalecimento do Polo Naval de Cruz
 
 ---
 
-## 9. Referências Bibliográficas
+## 9. Navegabilidade e Calados de Soberania (Integração Técnica)
+
+A eficácia do corredor Juruá depende da adaptação técnica das embarcações aos períodos de baixa vazante (maio a outubro). 
+
+- **Calado Mínimo de Referência**: 1,1 m (Juruá). Projetos excedendo este limite ficam restritos a janelas de inundação sazonal.
+- **Biocompósitos navais**: O uso de cascos em **Bambu + PU Vegetal** (conforme detalhado no dossiê de **[Construção Naval Artesanal e Biocompósitos](../WTF-DIAG-007_Construção Naval e Biocompósitos.md)**) permite uma redução de peso de até 40% em relação ao alumínio convencional, otimizando o calado para a "vazante extrema".
+- **Propulsão a Vapor Uniflow**: Sistema de cogeração (calor + vapor) alimentado por briquetes de bambu (6.200 kcal/kg), garantindo autonomia energética sem dependência de derivados de petróleo em comunidades isoladas.
+
+---
+
+## 10. Referências Bibliográficas
 - <img src="../../../../assets/icons/human_16_black.svg" width="18px"> AGÊNCIA NACIONAL DE ÁGUAS E SANEAMENTO BÁSICO (ANA). **Resolução nº 264/2025**: Declaração de Situação Crítica de Escassez Quantitativa dos Recursos Hídricos nos Rios Juruá, Purus, Acre e Iaco. Brasília: ANA, 2025.
 - <img src="../../../../assets/icons/human_13_black.svg" width="18px"> BAYMA, M. M. A. et al. Uso sustentável do bambu nativo do Acre, Amazônia, Brasil: potencial para a produção de bioplásticos, biochar e carvão vegetal. **Aracê**, v. 7, n. 4, p. 20281-20296, 2025.
 - <img src="../../../../assets/icons/human_08_black.svg" width="18px"> BRASIL. Departamento Nacional de Infraestrutura de Transportes (DNIT). **Relatório de Impacto Ambiental (RIMA)**: Pavimentação da Rodovia BR-319/AM (Trecho do Meio). Brasília: DNIT, 2021.

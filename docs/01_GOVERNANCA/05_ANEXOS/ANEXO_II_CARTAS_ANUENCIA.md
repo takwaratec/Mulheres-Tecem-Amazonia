@@ -9,7 +9,7 @@ author:
 date: '2026-03-26'
 ---
 
-![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 <p align="right"><i>"Viver é muito perigoso."<br>— Guimarães Rosa</i></p>
 
@@ -17,7 +17,7 @@ date: '2026-03-26'
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: ANEXO_II_CARTAS_ANUENCIA.md
-*   **Status**: Status Consoliado
+*   **Status**: Status Consolidado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026
 
@@ -32,6 +32,7 @@ date: '2026-03-26'
 
 **À Coordenação Geral do Projeto "Mulheres Que Tecem a Floresta"**
 **Att: Profa. Dra. Tânia Cruz (Universidade de Brasília)**
+**Cc: [Coordenadora do Eixo Territorial conforme Anexo III, §5.1]**
 
 A **[NOME DA COOPERATIVA/ASSOCIAÇÃO]**, inscrita no CNPJ sob o nº **[00.000.000/0000-00]**, com sede em **[CIDADE/ESTADO]**, por intermédio de sua representante legal, vem por meio desta declarar sua **ANUÊNCIA E INTERESSE** em participar como parceira beneficiária do projeto **"Mulheres Que Tecem a Floresta — Consórcio para Bioeconomia Feminina na Amazônia Legal"**, a ser submetido ao BNDES (Fundo Amazônia) e demais fontes de financiamento que venham a ser integradas ao Protocolo de Intenções.
 
@@ -57,7 +58,7 @@ __________________________________________
 
 **À Coordenação Geral do Projeto "Mulheres Que Tecem a Floresta"**
 **Att: Profa. Dra. Tânia Cruz (Universidade de Brasília)**
-**Cc: [Coordenadora do Eixo Territorial responsável conforme Anexo III, §5.1]**
+**Cc: Profa. Dra. [Sonia Marise / Georgia Ferko] - Coordenação de Eixo Territorial (Anexo III, §5.1)**
 
 A **[NOME DA INSTITUIÇÃO]**, com sede em **[CIDADE/ESTADO]**, por intermédio de seu representante legal, vem por meio desta declarar seu **ACEITE E COMPROMISSO DE CONTRAPARTIDA** para sediar um **Hub de Inovação e Bioeconomia (N2)** do projeto MQTF, nos termos do Protocolo de Intenções (Anexo III).
 

@@ -1,13 +1,12 @@
 ---
-projeto: Mulheres Que Tecem a Floresta 
+projeto: Mulheres Que Tecem a Floresta
 instituicao: Consórcio UnB/UFRR/UFAC
 tipo: Memorial de Patente (T10)
-referencia: ENG-MEM-T10-2026
-status: Status Ready
+referencia: ENG-MEM-T10-2026 (Fase 2)
+status: Roadmap / Expansão
 author:
-- name: Institucional, Fabio Resck
-  orcid: 0000-0001-8815-3885
-date: '2026-03-24'
+- name: Consórcio UnB/UFRR/UFAC
+date: '2026-04-01'
 keywords:
 - balsa
 - catamarã
@@ -18,19 +17,25 @@ keywords:
 - pasteurização
 ---
 
-![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+![Status: Roadmap](https://img.shields.io/badge/Status-Roadmap%20Fase%202-blue)
 
 <p align="right"><i>"Eu sou a favor do Brasil real."<br>— Ariano Suassuna</i></p>
 
 ### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
-*   **Referência**: ENG-MEM-T10_BALSA-CATAMARA-VAPOR.md
-*   **Status**: Status Em Revisão
+*   **Referência**: Memorial de Patente — Propulsão a Vapor e Cogeração T10 (Fase 2)
+*   **Status**: Roadmap / Expansão
 *   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 27 de Março de 2026
+*   **Data**: 01 de Abril de 2026
 
-# Memorial Técnico: Balsa Catamarã de Bio-Compósitos e Propulsão a Vapor T10
+# Memorial Técnico: Balsa Catamarã de Bio-Compósitos e Propulsão a Vapor T10 (Fase 2)
+
+> [!IMPORTANT]
+> **ESTRATÉGIA DE IMPLEMENTAÇÃO E PIVOTAGEM**:
+> Este memorial detalha o sistema de propulsão a vapor de alta complexidade (TRL 5), selecionado como a tecnologia de **Fase 2 (Expansão)** para o projeto MQTF. 
+> 
+> A **Fase 1 (Operacional)** utilizará **Propulsão Solar Fotovoltaica** e propulsão elétrica, conforme detalhado no [Memorial Descritivo Utilitário Solar](ENG-MD-010_MEMORIAL-DESCRITIVO-BALSA.md). A transição para o vapor aqui descrito ocorrerá após a validação dos cascos em biocompósito e a consolidação das Unidades de Terra.
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -52,7 +57,7 @@ Na prática, embarcações regionais de casco em aço ou madeira, com calados t�
 
 ### 1.3 Solução Proposta
 
-A invenção propõe uma **Balsa Catamarã de Cascos Encapsulados**, utilizando núcleos de PEAD/PU com pele estrutural em Bambu *Guadua*, resultando em redução de peso da ordem de 40% em relação a cascos equivalentes em aço e garantindo navegabilidade com calado típico de 0,9 m em rios como o Branco (até 1,1 m em rios como o Juruá).
+A invenção propõe uma **Balsa Catamarã de Cascos Encapsulados**, utilizando núcleos de PEAD/PU com pele estrutural em Bambu *Guadua*, resultando em redução de peso da ordem de 40% em relação a cascos equivalentes em aço. A **Fase 1 (Solar)** validou o calado operacional de **0,5 m** para vazante extrema. Na Fase 2, o calado poderá variar entre 0,5 m e 0,9 m conforme a carga de equipamentos térmicos embarcados.
 
 A propulsão é fornecida por um **Expansor a Vapor tipo Uniflow**, de alta eficiência, acoplado a um gerador elétrico e a uma planta térmica de cogeração que recupera a energia térmica residual para a **Pasteurização Itinerante** de alimentos e para a alimentação de uma **cadeia de frio embarcada**, criando uma economia circular baseada na queima de briquetes de biomassa local.
 
@@ -66,13 +71,13 @@ O sistema T10 foi concebido para:
 
 ### 2.1 Estrutura e Casco (Bio-Arquitetura)
 
-- <img src="../../../../../../assets/icons/human_05_black.svg" width="18px"> **Matriz polimérica**: Polímero vegetal (sistema Imperveg AGT 1315 / UG 132) reforçado com Bambu *Guadua weberbaueri*, formando laminados estruturais de alto desempenho específico.
+- <img src="../../../../../../assets/icons/human_05_black.svg" width="18px"> **Matriz polimérica**: Poliuretano vegetal **Mamonex RD70** (Dens. 70 kg/m³) reforçado com Bambu *Guadua weberbaueri*, formando laminados estruturais de alto desempenho específico (densidade de compósito: 350 kg/m³).
 - <img src="../../../../../../assets/icons/human_15_black.svg" width="18px"> **Construção do casco**: Núcleos de flutuação em bombonas de PEAD de 200 L, encapsuladas em PU expansivo de células fechadas, recobertas por laminado de bambu/PU vegetal, configurando um **casco tipo sandwich** <img src="../../../../../../assets/icons/human_15_black.svg" width="18px"> com núcleo leve e pele resistente a impactos.
 - <img src="../../../../../../assets/icons/human_03_black.svg" width="18px"> **Calado operacional**: 
   - <img src="../../../../../../assets/icons/human_13_black.svg" width="18px"> 0,9 m em condição de carga típica para o eixo Rio Branco (vazante);
   - <img src="../../../../../../assets/icons/human_20_black.svg" width="18px"> até 1,1 m para operações em rios como o Juruá, considerando maior variação de calado.
 - <img src="../../../../../../assets/icons/human_02_black.svg" width="18px"> **Configuração estrutural**:
-  - <img src="../../../../../../assets/icons/human_01_black.svg" width="18px"> Dois cascos paralelos (catamarã) interligados por travessas em biocompósito e/ou aço leve;
+  - <img src="../../../../../../assets/icons/human_01_black.svg" width="18px"> Dois cascos paralelos (catamarã) interligados por travessas de colmos inteiros de bambu *Guadua*, com amarrações em cabo flexível, formando um convés monolítico após fusão com PU vegetal;
   - <img src="../../../../../../assets/icons/human_08_black.svg" width="18px"> compartimentação interna das bombonas para garantir **flutuabilidade redundante** <img src="../../../../../../assets/icons/human_08_black.svg" width="18px"> em caso de dano localizado;
   - <img src="../../../../../../assets/icons/human_07_black.svg" width="18px"> reforços localizados para suportar esforços de acoplamento do módulo térmico e do módulo de beneficiamento.
 
@@ -134,8 +139,8 @@ O módulo de processo é concebido como uma **mini-planta de laticínios e polpa
 
 - <img src="../../../../../../assets/icons/human_08_black.svg" width="18px"> **Flutuação e casco**:
   - <img src="../../../../../../assets/icons/human_07_black.svg" width="18px"> Bombonas PEAD 200 L de reuso, testadas para estanqueidade;
-  - <img src="../../../../../../assets/icons/human_04_black.svg" width="18px"> Resina Imperveg (PU vegetal) para encapsulamento;
-  - <img src="../../../../../../assets/icons/human_14_black.svg" width="18px"> Laminados estruturais em bambu *Guadua* <img src="../../../../../../assets/icons/human_14_black.svg" width="18px"> com matriz Imperveg AGT 1315 / UG 132.
+  - <img src="../../../../../../assets/icons/human_04_black.svg" width="18px"> Resina **Mamonex RD70** (PU vegetal) para encapsulamento;
+  - <img src="../../../../../../assets/icons/human_14_black.svg" width="18px"> Laminados estruturais em bambu *Guadua* <img src="../../../../../../assets/icons/human_14_black.svg" width="18px"> com matriz **Mamonex RD70** (PU vegetal de mamona).
 - <img src="../../../../../../assets/icons/human_06_black.svg" width="18px"> **Reator de combustão**:
   - <img src="../../../../../../assets/icons/human_18_black.svg" width="18px"> Câmara em aço carbono com revestimento refratário resistente a altas temperaturas;
   - <img src="../../../../../../assets/icons/human_19_black.svg" width="18px"> serpentina em aço inoxidável 316 nas zonas de troca térmica direta.
@@ -221,19 +226,7 @@ WORTICE. Turbinas a vapor: informações sobre a empresa fabricante. São Paulo,
 ## Como Citar
 
 **APA:**  
-Takwara, F. R. (2026). *Memorial Técnico: Balsa Catamarã de Bio-Compósitos e Propulsão a Vapor T10*. Projeto Mulheres Que Tecem a Floresta / Consórcio Consórcio UnB/UFRR/UFAC. Acervo Digital Mulheres que Tecem a Floresta.
+Takwara, F. R. (2026). *Memorial Técnico: Balsa Catamarã de Bio-Compósitos e Propulsão a Vapor T10*. Projeto Mulheres Que Tecem a Floresta / Consórcio UnB/UFRR/UFAC. Acervo Digital Mulheres que Tecem a Floresta.
 
 ---
-
----
-
----
-
----
-
----
-
----
-
----
-<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br>Consórcio Científico UnB / UFRR / UFAC<br><i>"Soberania não se pede, se exerce."</i></p>

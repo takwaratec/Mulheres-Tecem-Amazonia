@@ -16,7 +16,7 @@ date: '2026-03-24'
 ### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
-*   **Referência**: BUDGET_orcamento-maquinario.md
+*   **Referência**: Bill of Materials (BoM) e Precificação de Contrapartida
 *   **Status**: Status Consoliado
 *   **Autor**: Consórcio UnB / UFRR / UFAC
 *   **Data**: 27 de Março de 2026

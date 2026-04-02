@@ -1,6 +1,6 @@
 ---
 projeto: Mulheres Que Tecem a Floresta 
-instituicao: Consórcio Consórcio UnB/UFRR/UFAC
+instituicao: Consórcio UnB/UFRR/UFAC
 tipo: Memorial de Patente Social (T04)
 referencia: ENG-MEM-T04-2026
 status: CONSOLIDADO (v1.0 Mulheres que Tecem a Floresta)
@@ -71,7 +71,7 @@ O ponto crítico utiliza uma caixa de gaxeta com anéis de fibra de PTFE (Teflon
 
 ## Como Citar
 **APA:**
-Takwara, F. R. (2026). *Memorial Jurídico: Misturador de Biocompósitos "Betoneira Impermeável" T04* (Versão 1.0 Mulheres que Tecem a Floresta). Projeto Mulheres Que Tecem a Floresta / Consórcio Consórcio UnB/UFRR/UFAC. https://doi.org/10.5281/zenodo.18827106
+Takwara, F. R. (2026). *Memorial Jurídico: Misturador de Biocompósitos "Betoneira Impermeável" T04* (Versão 1.0 Mulheres que Tecem a Floresta). Projeto Mulheres Que Tecem a Floresta / Consórcio UnB/UFRR/UFAC. https://doi.org/10.5281/zenodo.18827106
 
 ---
 

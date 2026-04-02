@@ -1,6 +1,8 @@
 # === MQTF REGRAS DE GOVERNANÇA GIT ===
 
 # 1. Pesquisa e Material Bruto (NÃO SOBE PARA O GIT)
+.env
+*.env
 _RESEARCH_RAW/
 99_RESTRITO/
 COLECAO_ZENODO_WTF_2026/

@@ -24,7 +24,7 @@ date: '2026-03-24'
 # MEMORANDO TÉCNICO E DE GOVERNANÇA
 ## PROJETO MULHERES QUE TECEM A FLORESTA
 
-**Consórcio Consórcio UnB/UFRR/UFAC para Bioeconomia Feminina na Amazônia Legal**
+**Consórcio UnB/UFRR/UFAC para Bioeconomia Feminina na Amazônia Legal**
 
 **Duração:** 48 meses
 **Orçamento Total:** R\$ 30.000.000

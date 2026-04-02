@@ -1,6 +1,6 @@
 ---
 author:
-- affiliation: Consórcio Consórcio UnB/UFRR/UFAC
+- affiliation: Consórcio UnB/UFRR/UFAC
   name: Coordenação Técnica — Núcleo Institucional
 date: '2026-03-21'
 doi: 10.5281/zenodo.18827106

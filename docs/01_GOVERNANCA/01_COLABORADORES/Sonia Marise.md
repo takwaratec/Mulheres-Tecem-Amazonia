@@ -156,7 +156,7 @@ A conexão com a defesa nacional e os acordos de offset sugere, ainda, que essa 
 
 As evidências coletadas demonstram que o alinhamento entre a UnB, o PROFNIT e as realidades territoriais (seja no Cerrado ou na Amazônia) é o caminho para uma ciência que honra suas origens e projeta um futuro sustentável para as próximas gerações de mulheres e povos originários.13
 
-#### **Referências citadas**
+#### **Bibliografia**
 
 1. PROFNIT \- Sônia Marise Salles Carvalho \- UnB, acessado em março 17, 2026, [http://www.profnit.unb.br/index.php?option=com\_content\&view=article\&id=167:sonia-marise-salles-carvalho\&catid=175\&Itemid=101](http://www.profnit.unb.br/index.php?option=com_content&view=article&id=167:sonia-marise-salles-carvalho&catid=175&Itemid=101)  
 2. (PDF) Book RPE51 v3 final com capa \- ResearchGate, acessado em março 17, 2026, [https://www.researchgate.net/publication/355163910\_Book\_RPE51\_v3\_final\_com\_capa](https://www.researchgate.net/publication/355163910_Book_RPE51_v3_final_com_capa)  

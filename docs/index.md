@@ -1,70 +1,60 @@
 ---
 projeto: Mulheres Que Tecem a Floresta
 instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Hub de Gestão e Dashboard de Bio-Soberania
+tipo: Landing Page Oficial MQTF
 referencia: index.md
-status: Status Em Revisão
+status: Status Consolidado BNDES
 author:
 - name: Consórcio UnB/UFRR/UFAC
-date: '2026-03-28'
+date: '2026-04-02'
 ---
 
-![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+<p align="center">
+  <img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="120px">
+</p>
 
-<p align="right"><i>"A Amazônia não é apenas o pulmão do mundo, é o coração tecnológico de uma nova civilização regenerativa."<br>— Provérbio da Floresta (v2026)</i></p>
+<br>
+<h1 align="center">Mulheres Que Tecem a Floresta (MQTF)</h1>
+<p align="center"><i>"A Amazônia não é apenas o pulmão do mundo, é o coração tecnológico de uma nova civilização regenerativa."</i></p>
 
-### <img src="assets/patterns/square_05_black.svg" width="22px"> Ficha Técnica e Metadados
-**Projeto**: Mulheres Que Tecem a Floresta (MQTF)
-**Plataforma**: GitHub Integration & Carbon Management
-**Status**: Status Em Revisão (Apresentação GT Gestor)
-**Coordenação**: Profa. Dra. Tânia Cruz (UnB)
-**Data**: 28 de Março de 2026
+Bem-vindo(a) ao **Hub Institucional e Técnico Operacional** do projeto Mulheres Que Tecem a Floresta (MQTF). Esta plataforma organiza e unifica toda a arquitetura científica, inventiva e orçamentária do projeto (R$ 30 Milhões) montada para o **BNDES / Fundo Amazônia**.
 
-# <img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="45px"> Hub de Gestão: Mulheres Que Tecem a Floresta
-
-Bem-vindo à plataforma de integração e acompanhamento do projeto **MQTF**. Este repositório inaugura um novo paradigma na gestão de projetos de bioeconomia e carbono, utilizando o GitHub como pilar de transparência, versionamento técnico e prestação de contas em tempo real.
+Aqui, o Consórcio das Universidades dita um novo paradigma para a bioeconomia: **soberania tecnológica real** com biofábricas instaladas direto na origem e o resgate da integridade territorial através da força e autonomia do trabalho feminino e tradicional.
 
 ---
 
-## <img src="assets/patterns/square_title.svg" width="22px"> Bio-Soberania e Gestão de Carbono
-O projeto **MQTF** posiciona a Amazônia Sul-Ocidental como um marco na gestão de ativos regenerativos. Através da tecnologia social (Bambu/Mamona), transformamos passivos ambientais em ativos de alto valor agregado, garantindo a soberania tecnológica das comunidades produtoras.
+## Guias de Navegação Estratégica (Hub de Documentos)
 
-### <img src="assets/patterns/square_09_red.svg" width="22px"> Painel de Prestação de Contas (Simulação GT Gestor)
-| Estágio de Entrega | Tranche de Investimento | Status de Carbono (tCO2e) | Prazo |
-| :--- | :--- | :--- | :--- |
-| **Fase 1: Mobilização** | R$ 1.2M (Liberado) | 450 tCO2e (Estimado) | Abr/2026 |
-| **Fase 2: Biorrefinaria** | R$ 2.5M (Aprovação) | 1.200 tCO2e (Meta) | Ago/2026 |
-| **Fase 3: Escalonamento** | R$ 4.0M (Planejado) | 3.500 tCO2e (Projeção) | Dez/2026 |
+Abaixo, encontram-se os pilares fundamentais do nosso dossiê. Links diretos e atualizados em tempo real para os membros do **GT Gestor do BNDES**, Investidores Parceiros e Equipe de Engenharia.
 
----
+### <img src="assets/patterns/square_01_red.svg" width="22px"> 1. Modelagem Financeira e DRE Linear
+Composição contábil meticulosamente calculada (CAPEX vs OPEX) visando máxima escalabilidade mecânica e garantias legais contra oscilações de custos na implantação profunda.
+*   **[DRE e Resumo Financeiro](03_ORCAMENTO_E_LOGISTICA/RESUMO_FINANCEIRO_CONSOLIDADO.md):** Aparelhamento logístico linear discriminando o Investimento (CAPEX R$ 16M),  Logística e Manutenção Viva (OPEX R$ 9M) e Reservas e Seguros.
+*   **[Planilha Analítica de Escopo BNDES (Anexo I)](01_GOVERNANCA/05_ANEXOS/ANEXO_I_PLANILHA_ORCAMENTARIA.md):** A planilha mestre com destrinchamento detalhado de todos os aportes estruturais, bolsa e as taxas obrigatórias (Certificação MRV, Fundação e Impostos).
+*   **[Memorando Orçamentário Interino](01_GOVERNANCA/04_PARECERES_E_RELATORIOS/GOV_memorando-orcamento-consolidado.md):** Parecer oficial do Consórcio blindando o modelo R$ 30M das oscilações inflacionárias na malha fluvial e rodoviária.
 
-## <img src="assets/patterns/square_02_black.svg" width="22px"> Inventário Conciso de Ativos e Documentos
-Acesso rápido aos pilares de execução e propriedade intelectual do projeto:
+### <img src="assets/patterns/square_03_black.svg" width="22px"> 2. Tática Territorial e Dossiê Master (O Projeto)
+O substrato acadêmico unânime validando os gargalos sociais e o planejamento territorial em toda a extensão do Juruá e eixo viário BR-319/Purus.
+*   **[Formulário BNDES Consolidado (Guia Estrutural)](03_DOSSIE_BNDES/MODELO_01_BNDES_FORMULARIO.md):** O corpo central do projeto MQTF — Justificativa, Metas (Açaí, Castanha, Bioconstrução) e Lógica de Matriz.
+*   **[Inteligência Geoestratégica](02_DIAGNOSTICO%20DE%20AREA/02_ESTUDOS_E_PESQUISAS/RES_analise-geoestrategica-jurua.md):** Um dossiê irrefutável sobre estresse demográfico, déficit de saneamento e precariedade do trabalho que nossa Usina (Hub) mitigará em zonas profundas.
+*   **[Operação Sistêmica (Doutrina do Projeto)](01_GOVERNANCA/WTF_PROJETO_INTEGRADO.md):** O pacto institucional regido pelo princípio elementar "Somar e Não Subtrair".
+*   **[Abrangência Geográfica e Impacto (Mapas da Rota)](01_GOVERNANCA/05_ANEXOS/ANEXO_VI_MAPAS_INTERVENCAO.md):** Convite expresso para navegar pelo alcance logístico do MQTF. Onde a geografia da Amazônia Ocidental se encontra com nossa mitigação climática e humana para **1.150 famílias impactadas**.
 
-### <img src="assets/patterns/square_12_black.svg" width="22px"> Documentação Institucional (BNDES)
-
-<img src="assets/icons/human_01_black.svg" width="18px"> **[Modelo 1 (Draft Tania)](00_MODELO 1 - BNDES/03_CONSOLIDADO_TANIA_DRAFT.md)**: Formulário padrão BNDES (Original).
-
-<img src="assets/icons/human_02_black.svg" width="18px"> **[Dossiê BNDES (Modelo 01)](03_DOSSIE_BNDES/MODELO_01_BNDES_FORMULARIO.md)**: Formulário técnico estruturado.
-
-<img src="assets/icons/human_03_red.svg" width="18px"> **[Projeto Integrado](01_GOVERNANCA/WTF_PROJETO_INTEGRADO.md)**: Cronograma e Metodologia Modular.
-
-<img src="assets/icons/human_05_red.svg" width="18px"> **[Resumo Financeiro](03_ORCAMENTO_E_LOGISTICA/RESUMO_FINANCEIRO_CONSOLIDADO.md)**: Consolidado CAPEX/OPEX.
-
-### <img src="assets/patterns/square_16_black.svg" width="22px"> Invenções e Patentes (PVIT)
-
-<img src="assets/icons/human_14_black.svg" width="18px"> **[T01: Coração Térmico](04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/ENG-MEM-MASTER_CORACAO-TERMICO.md)**: Memorial de Soberania Energética.
-
-<img src="assets/icons/human_16_black.svg" width="18px"> **[T10: Balsa Biofábrica](04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/T10_BALSA_CATAMARA/ENG-REL-T10-01_ESTUDO-TECNICO-VAPOR.md)**: Estudo técnico de vapor.
-
-<img src="assets/icons/human_03_red.svg" width="18px"> **[SGMAS](01_GOVERNANCA/05_ANEXOS/ANEXO_IV_TR_MRV_SMGA.md)**: Protocolo de Monitoramento Geoespacial.
+### <img src="assets/patterns/square_04_black.svg" width="22px"> 3. Engenharia de Base e Propriedade Industrial (Inventário)
+O MQTF detém a vanguarda industrial desenvolvendo seus **Bens Próprios de Capital (Invenções Nacionais T01 a T12)**, assegurando uma indústria "Sem Atravessadores", forjada no aço ao redor dos insumos amazônicos.
+*   **[Inventário Mecânico do MQTF (ENG-MEM-010)](04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/ENG-MEM-010_INVENTARIO-MECANICO-BNDES.md):** A Frota Suprema (Tratores 4x4, Caminhões e Balsas), integrados com a super central termodinâmica base dos Polos Urbanos (Reatores NR-13 de Alta Pressão e Prensas de Taboca).
+*   **[A Estação Sanitarista T12 (BSMs)](04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/T12_BSM/ENG-MD-012_MEMORIAL-DESCRITIVO-BSM.md):** Banheiros Bioclimáticos de alta escala produzidos pelo MQTF para despoluir as nascentes e devolver dignidade menstrual/sanitária aos indígenas isolados.
+*   **[O Dossiê Matriz "Coração Térmico"](04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/ENG-MEM-MASTER_CORACAO-TERMICO.md):** Fluxograma matriz das 12 Invenções acopladas processando Guadua nativa num ciclo livre de resíduos nocivos.
 
 ---
 
-## <img src="assets/patterns/square_01_red.svg" width="22px"> Consórcio Interinstitucional
-Liderado pela **Universidade de Brasília (UnB)** em parceria com **UFAC** e **UFRR**, o consórcio une excelência científica e impacto territorial.
+## <img src="assets/patterns/square_02_red.svg" width="22px"> Um Convite à Colaboração e Ação Imediata
 
-<img src="assets/icons/human_10_red.svg" width="18px"> **[Página da Equipe e Lideranças](01_GOVERNANCA/01_COLABORADORES/00_EQUIPE_CONSORCIO.md)**
+A base de Biorrefinaria do MQTF (Polos e Canteiro) não atua apenas como sede do consórcio, mas como **Epicentro da Ação Direta** na Amazônia Ocidental do Século XXI. Aqui as mulheres ditam o ritmo da nova matriz carbono-zero através do arranjo mecânico. Investidores privados (Sustentabilidade/ESG) têm a pista livre e logística (nossas caminhonetes leiteiras e Balsas) estruturadas para o MRV rastreadamente visível.
+
+Queremos parceiros para a tecnologia, expansão comercial corporativa ou para fomento internacional. Descolonizar passivos ambientais requer máquinas reais e pesquisadoras destemidas junto à força telúrica do Acre e do Amazonas.
+
+**<img src="assets/icons/human_10_red.svg" width="18px"> [Saiba quem lidera: Visite as Lideranças e a Equipe do Consórcio da Universidade de Brasília](01_GOVERNANCA/01_COLABORADORES/00_EQUIPE_CONSORCIO.md)**
 
 ---
-<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align="center"><img src="assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Consórcio Universitário Integrado (UnB / UFRR / UFAC)</b><br><i>"Fazer pontes não é apagar abismos. Fazer a ponte real é tecer um sistema sobre ele."</i></p>

@@ -24,7 +24,7 @@ date: '2026-03-24'
 # Nota Técnica NT-ENG-001: Engenharia Fluvial Itinerante e Gestão de Resíduos
 ## 1. Justificativa e Escopo Logístico
 
-A presente Nota Técnica fundamenta a transição do modelo de "Biorrefinarias Estáticas" para o sistema de **Infraestrutura Fluvial Itinerante (Barco/Beneficiadora)**. O objetivo é superar o isolamento geográfico no Vale do Juruá, integrando o processamento sanitário de polpas (Açaí/Castanha) com a logística reversa de polímeros urbanos, atendendo ao protocolo **Status Ready**.
+A presente Nota Técnica fundamenta a transição do modelo de "Bioindústrias Centralizadas" para o sistema de **Sinfonia Fluvial MQTF**. O objetivo é superar o isolamento geográfico no Vale do Juruá, utilizando o Catamarã Solar como um **veículo utilitário de apoio social** e elo logístico para o transporte de **Unidades BSM (Módulos de Serviço Básico)** e kits de construção, enquanto o processamento de ativos (açaí/resíduos) ocorre em pontos estratégicos em terra.
 
 *Referência Primária: [ENG-MEM-006](ENG-MEM-006_BIOINDUSTRIA-FLUVIAL-ESTUDO-VIABILIDADE.md)*
 
@@ -39,26 +39,27 @@ O monitoramento geoespacial das embarcações integra os seguintes nós logísti
 | **Porto Walter** | 11.275 | 8° 16' 08" S, 72° 44' 38" O | Estação Remota de Coleta |
 | **M. Thaumaturgo** | 17.951 | 8° 56' 27" S, 72° 47' 31" O | Posto de Fronteira e TIs |
 
-## 3. Especificações da Unidade Móvel "3-em-1"
+## 3. Especificações do Utilitário Solar MQTF
 
-A embarcação atua como uma **indústria volante** equipada com o módulo integrado de bioenergia:
+Diferente do modelo de "indústria volante", a embarcação atua como o **transporte utilitário** e ponto de apoio itinerante:
 
-- <img src="../../../../../../assets/icons/human_03_black.svg" width="18px"> **Pasteurização HTST**: Capacidade de **100 Litros/Hora** <img src="../../../../../../assets/icons/human_03_black.svg" width="18px"> a 85°C utilizando calor residual do reator pirolítico. Garante a estabilidade enzimática da polpa de açaí *in situ*.
-- <img src="../../../../../../assets/icons/human_09_black.svg" width="18px"> **Moagem de Polímeros**: Moinho de facas (20-40 kg/h) para densificação de passivos PET/PEAD coletados. Mitigação local do derrame de **182.000 t/ano** <img src="../../../../../../assets/icons/human_09_black.svg" width="18px"> de plásticos no sistema fluvial [1].
-- <img src="../../../../../../assets/icons/human_01_black.svg" width="18px"> **Saneamento (STAC)**: Filtração de água via biochar ativado, garantindo água potável para o processamento e para a tripulação (Mitigação do Custo Social de Saúde de R$ 174M/ano [7]).
+- <img src="../../../../../../assets/icons/human_03_black.svg" width="18px"> **Cadeia de Frio**: Estação de refrigeração solar para conservação de perecíveis processados nas Unidades de Terra.
+- <img src="../../../../../../assets/icons/human_11_black.svg" width="18px"> **Logística BSM/Kits**: Capacidade de transporte de **4,4 Toneladas** de convés, equivalente a 4 módulos BSM e 2 kits de habitação modular por viagem.
+- <img src="../../../../../../assets/icons/human_14_black.svg" width="18px"> **Ponto de Apoio Social**: Infraestrutura configurada com redários e saneamento básico para atendimento às populações vulneráveis em áreas de vazante extrema (Calado: 0,5m).
 
-## 4. Viabilidade Financeira (Orçamento Consolidado)
+## 4. Viabilidade Financeira (CAPEX/OPEX Fase 1)
 
-- <img src="../../../../../../assets/icons/human_17_black.svg" width="18px"> **CAPEX Módulo Base**: **R$ 28.500,00** <img src="../../../../../../assets/icons/human_17_black.svg" width="18px"> (Inclui reator, prensa de 20t e filtros).
-- <img src="../../../../../../assets/icons/human_02_black.svg" width="18px"> **CAPEX Embarcação**: **R$ 18.500,00** <img src="../../../../../../assets/icons/human_02_black.svg" width="18px"> (Estrutura bambu termorretificado + PU Mamona).
-- <img src="../../../../../../assets/icons/human_14_black.svg" width="18px"> **Payback Social**: Estimado em 18 meses via substituição de GLP/Diesel e certificação de origem para açaí premium.
+- <img src="../../../../../../assets/icons/human_17_black.svg" width="18px"> **CAPEX Unidade de Terra (N1/N2)**: **R$ 125.000,00** (Inclui reator, prensa e pasteurizadora descentralizada).
+- <img src="../../../../../../assets/icons/human_02_black.svg" width="18px"> **CAPEX Catamarã Utilitário**: **R$ 18.500,00** (Estrutura bambu termorretificado + PU Mamonex RD70).
+- <img src="../../../../../../assets/icons/human_14_black.svg" width="18px"> **Impacto Social**: Redução drástica da figura do atravessador e suporte direto ao **Canteiro Escola** regional.
 
 ## 5. Bibliografia e Sync-Link
 
-1. **[ENG-MEM-005](ENG-MEM-005_3IN1-BIOENERGY-COMMUNITY-SYSTEM.md)**: *Bioenergia Comunitária e Unidades Móveis*.
+1. **Estudo de Carpintaria Naval no Acre**: Diagnóstico de materiais e biocompósitos (Ciclo 2026).
 2. **[The Ocean Cleanup (2021)](https://theoceancleanup.com/rivers/amazon/)**: *Amazon Plastic Emissions*.
 3. **Melo, S. S. (2012)**: *Biorrefinaria e Pasteurização*.
 4. **[Trata Brasil (2025)](https://tratabrasil.org.br/)**: *Impacto DRSAI no Acre*.
+5. **Duffy London (2024)**: *Hari Pontoon Solar Bamboo Taxi*.
 
 ---
 
