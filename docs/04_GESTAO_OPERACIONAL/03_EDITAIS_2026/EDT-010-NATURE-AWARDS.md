@@ -24,7 +24,7 @@ date: '2026-04-02'
 
 **Categoria Sugerida: Science Outreach Award / Scientific Achievement**
 
-[🔗 Acessar Site Oficial](https://www.nature.com/nature/awards/women-in-science)
+[🔗 Acessar Site Oficial](https://www.nature.com/immersive/inspiringwomeninscience/index.html)
 
 ---
 
