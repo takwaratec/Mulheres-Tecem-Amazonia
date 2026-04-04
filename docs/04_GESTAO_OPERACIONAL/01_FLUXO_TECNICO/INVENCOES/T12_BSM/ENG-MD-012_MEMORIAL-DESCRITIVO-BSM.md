@@ -1,26 +1,20 @@
 ---
-projeto: Mulheres Que Tecem a Floresta 
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Memorial Descritivo (T12)
-referencia: ENG-MD-T12-2026
-status: Status Ready
-author:
-- name: Institucional, Fabio Resck
-  orcid: 0000-0001-8815-3885
-date: '2026-03-24'
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: ENG-MD-012_MEMORIAL-DESCRITIVO-BSM.md
+status: Consolidado
 ---
-
-![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 <p align="right"><i>"O Brasil precisa de ciência para ser soberano."<br>— Ennio Candotti</i></p>
 
-### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../assets/patterns/square_05_red.svg" width="22px">&nbsp; Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: ENG-MD-012_MEMORIAL-DESCRITIVO-BSM.md
-*   **Status**: Status Em Revisão
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 27 de Março de 2026
+*   **Status**: Consolidado
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 # Memorial Descritivo T12: Banheiro Seco Modular (BSM)
 ## 1. Visão Geral e Propósito
@@ -33,14 +27,14 @@ Devido à urgência climática e sanitária, o T12 foi projetado para **fabrica�
 
 ## 2. Experiência de Uso e Design
 O design do T12 prioriza a dignidade, o conforto térmico e a simplicidade operacional:
-- <img src="../../../../../assets/icons/human_01_black.svg" width="18px"> **Interface Intuitiva**: Separação na fonte (urina/sólidos), eliminando o odor antes mesmo dele ser gerado.
-- <img src="../../../../../assets/icons/human_20_black.svg" width="18px"> **Conforto Ambiental**: A cabine, construída com painéis biocompósitos e estrutura de bambu Guadua, garante isolamento térmico e ventilação cruzada superior ao plástico ou alvenaria convencional.
-- <img src="../../../../../assets/icons/human_15_black.svg" width="18px"> **Estética da Bioarquitetura**: A geometria inspirada no **Domo Voador** <img src="../../../../../assets/icons/human_15_black.svg" width="18px"> e o acabamento em solda vegetal conferem ao artefato uma identidade visual integrada à floresta, fugindo do estigma de "solução precária".
+- <img src="../../../../assets/icons/human_01_black.svg" width="18px"> **Interface Intuitiva**: Separação na fonte (urina/sólidos), eliminando o odor antes mesmo dele ser gerado.
+- <img src="../../../../assets/icons/human_20_black.svg" width="18px"> **Conforto Ambiental**: A cabine, construída com painéis biocompósitos e estrutura de bambu Guadua, garante isolamento térmico e ventilação cruzada superior ao plástico ou alvenaria convencional.
+- <img src="../../../../assets/icons/human_15_black.svg" width="18px"> **Estética da Bioarquitetura**: A geometria inspirada no **Domo Voador** <img src="../../../../assets/icons/human_15_black.svg" width="18px"> e o acabamento em solda vegetal conferem ao artefato uma identidade visual integrada à floresta, fugindo do estigma de "solução precária".
 
 ## 3. Dinâmica de Cobertura e Ciclagem
 A operação diária baseia-se na aplicação de **serragem residual** (proveniente do manejo de bambu e madeira local) e **Biochar** (processado nas biorrefinarias T02). 
-- <img src="../../../../../assets/icons/human_16_black.svg" width="18px"> **O Biochar como Sentinela**: A porosidade do biochar atua na adsorção imediata de gases, enquanto sua estrutura protege a microbiota que iniciará a decomposição.
-- <img src="../../../../../assets/icons/human_03_black.svg" width="18px"> **Logística das Bombonas**: O uso de **bombonas de 200L de reaproveitamento** <img src="../../../../../assets/icons/human_03_black.svg" width="18px"> permite um rodízio logístico eficiente. Quando uma unidade atinge seu volume útil, é selada e movida para a área de maturação, sendo substituída por uma unidade limpa em segundos.
+- <img src="../../../../assets/icons/human_16_black.svg" width="18px"> **O Biochar como Sentinela**: A porosidade do biochar atua na adsorção imediata de gases, enquanto sua estrutura protege a microbiota que iniciará a decomposição.
+- <img src="../../../../assets/icons/human_03_black.svg" width="18px"> **Logística das Bombonas**: O uso de **bombonas de 200L de reaproveitamento** <img src="../../../../assets/icons/human_03_black.svg" width="18px"> permite um rodízio logístico eficiente. Quando uma unidade atinge seu volume útil, é selada e movida para a área de maturação, sendo substituída por uma unidade limpa em segundos.
 
 ## 4. Territórios de Aplicação
 O T12 é otimizado para três cenários críticos:
@@ -70,6 +64,4 @@ O custeio das unidades T12 é estruturado em um modelo híbrido:
 ---
 
 ---
-
----
-<p align="center"><img src="../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

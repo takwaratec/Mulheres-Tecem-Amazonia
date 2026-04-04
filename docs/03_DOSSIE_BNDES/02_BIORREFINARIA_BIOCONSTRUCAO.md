@@ -1,25 +1,20 @@
 ---
 projeto: Mulheres Que Tecem a Floresta
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Documento Técnico
-referencia: 02_BIORREFINARIA_BIOCONSTRUCAO
-status: Status Em Revisão
-author:
-- name: Consórcio UnB/UFRR/UFAC
-date: '2026-03-28'
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: 02_BIORREFINARIA_BIOCONSTRUCAO.md
+status: Em Revisão
 ---
-
-![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 <p align="right"><i>"O real não está na saída nem na chegada: ele se dispõe para a gente é no meio da travessia."<br>— Guimarães Rosa</i></p>
 
-### <img src="../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
-**Projeto**: Mulheres Que Tecem a Floresta (MQTF)
-**Instituição**: Consórcio UnB / UFRR / UFAC
-**Referência**: 02_BIORREFINARIA_BIOCONSTRUCAO.md
-**Status**: Status Em Revisão
-**Autor**: Consórcio UnB / UFRR / UFAC
-**Data**: 28 de Março de 2026
+### <img src="../assets/patterns/square_05_red.svg" width="22px">&nbsp; Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: 02_BIORREFINARIA_BIOCONSTRUCAO.md
+*   **Status**: Em Revisão
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 # <img src="../assets/patterns/square_title_red.svg" width="30px"> Componente 2: Biorrefinaria e Bioconstrução
 
@@ -70,4 +65,4 @@ O projeto endereça a crise de saneamento na Amazônia Sul-Ocidental através da
 A sinergia entre o bambu, a pirólise e o saneamento representa o estado da arte na bioeconomia circular amazônica. O projeto não apenas constrói com a floresta, mas utiliza sua biomassa de forma eficiente, gerando biochar para regeneração de solos e consolidando um modelo de infraestrutura que é, simultaneamente, um dreno de carbono, uma barreira sanitária e um propulsor de renda.
 
 ---
-<p align="center"><img src="../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

@@ -1,25 +1,30 @@
 ---
 projeto: Mulheres Que Tecem a Floresta
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Documento Técnico
-referencia: FICHA_NEA-Nova-Economia-Amazonia-Relatorio-Completo-portugues
-status: Status Ready
-author:
-- name: Consórcio UnB/UFRR/UFAC
-date: '2026-03-26'
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: FICHA_NEA-Nova-Economia-Amazonia-Relatorio-Completo-portugues.md
+status: Consolidado
 ---
+
+<p align="right"><i>"A educação é o direito de todos e dever do Estado."<br>— Anísio Teixeira</i></p>
+
+### <img src="../../../assets/patterns/square_05_cyan.svg" width="22px">&nbsp; Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: FICHA_NEA-Nova-Economia-Amazonia-Relatorio-Completo-portugues.md
+*   **Status**: Consolidado
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+
+<p align="right"><i>"A educação é o direito de todos e dever do Estado."<br>— Anísio Teixeira</i></p>
+
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 ![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
 <p align="right"><i>"A educação é o direito de todos e dever do Estado."<br>— Anísio Teixeira</i></p>
 
-### <img src="../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
-*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
-*   **Instituição**: Consórcio UnB / UFRR / UFAC
-*   **Referência**: FICHA_NEA-Nova-Economia-Amazonia-Relatorio-Completo-portugues.md
-*   **Status**: Status Consoliado
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 27 de Março de 2026
 
 ### 1. METADADOS E CABEÇALHO
 projeto: Mulheres Que Tecem a Floresta
@@ -874,6 +879,4 @@ ZHANG, R.; FUJIMORI, S. The role of transport electrification in global climate 
 ---
 
 ---
-
----
-<p align="center"><img src="../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

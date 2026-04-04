@@ -1,0 +1,41 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFAC/UFRR
+equipe: Gestão e Parceria Regional
+tipo: Acervo de Pesquisa (Resenha Técnica)
+autor_original: Not Identified
+equipe_tecnica: UnB/UFAC/UFRR
+ano_publicacao: '2025'
+---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"O conhecimento é a nossa maior arma contra o atraso."<br>— Bertha Lutz</i></p>
+
+### <img src="../../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: WTF_RES_guia_pratico_10_erros_para_nao_cometer_na_hora_de_construir_e_operar_o_seu_biodigestor_2pdf.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
+title: "Resumo Estratégico e Comparativo P&D - Biodigestor"
+status: "Ativo"
+tags: [P&D, Bioinsumos, Saneamento Rural, Bioenergia]
+*Anexos e Documentos Originais (*.pdf) encontram-se dispostos na pasta `02_PESQUISA_DESENVOLVIMENTO` para consulta da coordenação técnica do componente R&D.*
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="../../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

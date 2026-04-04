@@ -1,25 +1,20 @@
 ---
 projeto: Mulheres Que Tecem a Floresta
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Resumo Financeiro e Logística (GOV)
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
 referencia: RESUMO_FINANCEIRO_CONSOLIDADO.md
-status: Status Em Revisão
-author:
-- name: Consórcio UnB / UFRR / UFAC
-date: '2026-03-28'
+status: Em Revisão
 ---
-
-![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 <p align="right"><i>"Economia real é a tecedura da vida no território."<br>— Memorial MQTF</i></p>
 
-### <img src="../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
-**Projeto**: Mulheres Que Tecem a Floresta (MQTF)
-**Instituição**: Consórcio UnB / UFRR / UFAC
-**Referência**: RESUMO_FINANCEIRO_CONSOLIDADO.md
-**Status**: Status Em Revisão
-**Responsável**: Coordenação Técnica Colegiada
-**Data**: 28 de Março de 2026
+### <img src="../assets/patterns/square_05_red.svg" width="22px">&nbsp; Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: RESUMO_FINANCEIRO_CONSOLIDADO.md
+*   **Status**: Em Revisão
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 # <img src="../assets/patterns/square_title_red.svg" width="30px"> RESUMO FINANCEIRO CONSOLIDADO: MQTF
 
@@ -27,7 +22,7 @@ Este documento apresenta a síntese orçamentária do projeto **Mulheres Que Tec
 
 ---
 
-## <img src="../assets/patterns/square_01_red.svg" width="22px"> 💰 Investimento Total Solicitado e DRE BNDES
+## <img src="../assets/patterns/square_01_red.svg" width="22px">  Investimento Total Solicitado e DRE BNDES
 <img src="../assets/icons/human_09_black.svg" width="18px"> **BNDES (Fundo Amazônia/Clima)**: R$ 30.000.000 (Duração: 48 meses)
 
 O projeto destina **R$ 25 milhões de execução territorial direta**, resguardando a higidez contábil via Fundo e Custos de Transação:
@@ -38,7 +33,7 @@ O projeto destina **R$ 25 milhões de execução territorial direta**, resguarda
 
 ---
 
-## <img src="../assets/patterns/square_03_black.svg" width="22px"> 📦 Alocação de CAPEX (Investimento em Ativos: R$ 16 Milhões)
+## <img src="../assets/patterns/square_03_black.svg" width="22px">  Alocação de CAPEX (Investimento em Ativos: R$ 16 Milhões)
 Os recursos de capital focam na infraestrutura fabril centralizada como lastro e na forte autonomia logística descentralizada:
 
 <img src="../assets/icons/human_12_black.svg" width="18px"> **Hub Canteiro-Escola e Polos N2**: Adequação da matriz Rio Branco (R$ 5.200.000).
@@ -47,7 +42,7 @@ Os recursos de capital focam na infraestrutura fabril centralizada como lastro e
 
 ---
 
-## <img src="../assets/patterns/square_04_black.svg" width="22px"> 📈 Alocação de OPEX (Operação e Formação: R$ 9 Milhões)
+## <img src="../assets/patterns/square_04_black.svg" width="22px">  Alocação de OPEX (Operação e Formação: R$ 9 Milhões)
 Garante a manutenção dos polos e o complexo ir e vir do projeto territorial ao longo de 4 anos:
 
 <img src="../assets/icons/human_18_black.svg" width="18px"> **Bolsas e Formação Técnica**: Remuneração contínua das mulheres tecedoras (R$ 5.000.000).
@@ -61,4 +56,4 @@ Garante a manutenção dos polos e o complexo ir e vir do projeto territorial ao
 *   *Segurança Laboral e EPIs*: Atualização perene de materiais de primeiros socorros táticos e Equipamentos de Proteção Individual para os canteiros fabris e expedições.
 
 ---
-<p align="center"><img src="../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

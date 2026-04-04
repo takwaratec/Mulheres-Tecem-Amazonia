@@ -1,35 +1,20 @@
 ---
-author:
-- affiliation: Universidade de Brasília / Núcleo Institucional / IFB
-  name: Institucional, Fabio Resck
-  orcid: 0000-0001-8815-3885
-date: '2026-03-06'
-doi: 10.5281/zenodo.18827106
-keywords:
-- patente
-- modelo de utilidade
-- tamboreador artesanal
-- areia quente
-- tecnologia social
-language: pt
-license: CC BY 4.0
-series: Série Projetos de Engenharia — Maquinário Proprietário
-title: 'Memorial Jurídico: Tamboreador Comunitário IFB/UnB (Mídia Granular Aquecida)'
-type: Memorial de Patente
-version: '5.1'
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: ENG_memorial-patente-tamboreador-IFB.md
+status: Em Revisão
 ---
-
-![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 <p align="right"><i>"A ciência é um patrimônio universal."<br>— Oswaldo Cruz</i></p>
 
-### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../assets/patterns/square_05_red.svg" width="22px">&nbsp; Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: ENG_memorial-patente-tamboreador-IFB.md
-*   **Status**: Status Em Revisão
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 27 de Março de 2026
+*   **Status**: Em Revisão
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 # Memorial Jurídico: Tamboreador Comunitário IFB/UnB (Mídia Granular Aquecida)
 
@@ -80,6 +65,4 @@ Institucional, F. R. (2026). *Memorial Jurídico: Tamboreador Comunitário IFB/U
 ---
 
 ---
-
----
-<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

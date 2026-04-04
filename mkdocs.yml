@@ -19,11 +19,11 @@ theme:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: black
-      accent: red
+      accent: black
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: black
-      accent: red
+      accent: black
   features:
     - navigation.tabs
     - navigation.sections
@@ -33,7 +33,7 @@ theme:
     - search.highlight
     - content.code.copy
 
-copyright: "Mulheres Que Tecem a Floresta - MQTF | Consórcio Científico - UnB/UFFR/UFAC"
+copyright: "Mulheres Que Tecem a Floresta - MQTF | Consórcio Científico UnB/UFFR/UFAC | Licença: CC BY 4.0 (Difusão) & Sigilo Institutional (Soberania de Dados)"
 
 extra_css:
   - stylesheets/extra.css
@@ -50,63 +50,31 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 nav:
-  - Home: index.md
-  - BNDES:
-      - Modelo 1 (Draft BNDES): 00_MODELO 1 - BNDES/03_CONSOLIDADO_TANIA_DRAFT.md
-      - Resumo Executivo: 03_DOSSIE_BNDES/00_RESUMO_EXECUTIVO.md
-      - Modelo 01 (Estruturado): 03_DOSSIE_BNDES/MODELO_01_BNDES_FORMULARIO.md
-      - Governança & Protocolos:
-          - Plano de Carbono: 04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/SISTEMAS_E_GEOPOLITICA/ENG-MEM-003_BIOMASS-GEO-ACRE.md
-          - SGMAS (Trilles MRV): 01_GOVERNANCA/05_ANEXOS/ANEXO_IV_TR_MRV_SMGA.md
-          - Protocolos Cancún: 01_GOVERNANCA/GOV_PROTOCOLO_SEGURANCA_CANCUN.md
-          - Soberania Digital: 04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/SISTEMAS_E_GEOPOLITICA/NT-GEO-002_SOBERANIA-MAISTRAGEM-ACRE.md
-  - BNDES 2:
-      - FORM 1 Consolidado (V2): 00_MODELO 1 - BNDES/03_CONSOLIDADO_BNDES_REVISADO_V2.md
-  - Projeto:
-      - Projeto Integrado: 01_GOVERNANCA/WTF_PROJETO_INTEGRADO.md
-      - Alinhamento Estratégico: 01_GOVERNANCA/WTF-ALINHAMENTO_ESTRATEGICO.md
-      - Governança & Protocolos:
-          - Plano de Carbono: 04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/SISTEMAS_E_GEOPOLITICA/ENG-MEM-003_BIOMASS-GEO-ACRE.md
-          - SGMAS (Trilles MRV): 01_GOVERNANCA/05_ANEXOS/ANEXO_IV_TR_MRV_SMGA.md
-          - Protocolos Cancún: 01_GOVERNANCA/GOV_PROTOCOLO_SEGURANCA_CANCUN.md
-          - Soberania Digital: 04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/SISTEMAS_E_GEOPOLITICA/NT-GEO-002_SOBERANIA-MAISTRAGEM-ACRE.md
-  - Recursos:
-      - Resumo Financeiro: 03_ORCAMENTO_E_LOGISTICA/RESUMO_FINANCEIRO_CONSOLIDADO.md
-      - Planilha Orçamentária: 01_GOVERNANCA/05_ANEXOS/ANEXO_I_PLANILHA_ORCAMENTARIA.md
-  - Editais 2026:
-      - Instrução de Admissibilidade: 04_GESTAO_OPERACIONAL/03_EDITAIS_2026/EDT-000-INSTRUCAO-2025.md
-      - FAPEAM (LIDERA-AM): 04_GESTAO_OPERACIONAL/03_EDITAIS_2026/EDT-001-FAPEAM-LIDERA.md
-      - FAPEAM (PROFIX-AM): 04_GESTAO_OPERACIONAL/03_EDITAIS_2026/EDT-002-FAPEAM-PROFIX.md
-      - CONAB (Amazônia Viva): 04_GESTAO_OPERACIONAL/03_EDITAIS_2026/EDT-003-CONAB-AMAZONIAVIVA.md
-      - Nature Awards 2026: 04_GESTAO_OPERACIONAL/03_EDITAIS_2026/EDT-010-NATURE-AWARDS.md
-      - Zayed Sustainability Prize: 04_GESTAO_OPERACIONAL/03_EDITAIS_2026/EDT-011-ZAYED-PRIZE.md
-      - Parecer Estratégico 2026: 04_GESTAO_OPERACIONAL/03_EDITAIS_2026/PARECER_ACAO_EDITAIS_2026.md
-  - Diagnóstico:
-      - Patrimônio Imaterial: 02_DIAGNOSTICO DE AREA/WTF-DIAG-001_Patrimonio_Imaterial_Grafismo.md
+  - Portal Institucional: index.md
+  - Dossiê de Soberania (BNDES):
+      - Resumo Executivo (v3.0): 01_GOVERNANCA/GOV01_RES_EXECUTIVO_WTF.md
+      - Orçamento Consolidado (R$ 30M): 01_GOVERNANCA/05_ANEXOS/ANEXO_I_PLANILHA_ORCAMENTARIA.md
+      - Pacto de Intenções (Base Jurídica): 01_GOVERNANCA/05_ANEXOS/ANEXO_III_PROTOCOLO_INTENCOES.md
+      - Sigilo e Confidencialidade: 01_GOVERNANCA/04_PARECERES_E_RELATORIOS/NT-GOV-001_SIGILO-E-CONFIDENCIALIDADE.md
+  - Engenharia Soberana (T01-T12):
+      - Inventário Mecânico BNDES: 04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/ENG-MEM-010_INVENTARIO-MECANICO-BNDES.md
+      - Inventário Único de Patentes: 04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/ENG_memorial-unico-patentes.md
+      - Balsa-Catamarã Naval T10: 04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/T10_BALSA_CATAMARA/ENG-MEM-T10_BALSA-CATAMARA-VAPOR.md
+      - Monitoramento SMGA: 01_GOVERNANCA/05_ANEXOS/ANEXO_IV_TR_MRV_SMGA.md
+  - Camada Científica & Estudos:
+      - Síntese do Ecossistema: 02_DIAGNOSTICO DE AREA/02_ESTUDOS_E_PESQUISAS/RES_sintese-cientifica-ecossistema-WTF.md
+      - Luminância Científica MQTF: 02_DIAGNOSTICO DE AREA/02_ESTUDOS_E_PESQUISAS/01_RESENHAS_CIENTIFICAS_FEMININAS/LUMINANCIA_CIENTIFICA_MQTF.md
       - Paradigmas Bioeconomia: 02_DIAGNOSTICO DE AREA/WTF-DIAG-002_PARADIGMAS_BIOECONOMIA_AMAZONICA.md
-      - Agenda Bioeconomia (CNI): 02_DIAGNOSTICO DE AREA/WTF-DIAG-003_Rel_CNI_AGENDA_BIOECONOMIA.md
-      - Bioeconomia em Números: 02_DIAGNOSTICO DE AREA/WTF-DIAG-004_BNDES_SET_47_BIOECONOMIA_NUMEROS.md
-      - Nova Economia da Amazônia: 02_DIAGNOSTICO DE AREA/WTF-DIAG-005_NEA_WRI_NOVA_ECONOMIA_AMAZONIA.md
-      - Dossiê ONGs FDD: 02_DIAGNOSTICO DE AREA/WTF-DIAG-006_DOSSIE_ONGS_FDD_AMAZONIA.md
-  - Artigos:
-      - Sônia (Sonaira): 04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/02_FICHAS_TECNICAS/WTF_RES_profa_sonaira_souza_silva.md
-      - Geórgia: 04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/02_TECHNICAL_REVIEWS/01_CIENTIFICO/BIOECONOMIA/WTF_RES_alan+georgia+terras+indigenas.pdf.md
-  - SGMAS:
-      - Glossário SGMAS: 01_GOVERNANCA/sgmas_plotter.html
-      - Área de Abrangência: 01_GOVERNANCA/MOD_SGMAS_Acre.jpg
-  - Acervo:
-      - Bibliografia: bibliografia.md
-      - Índice do Acervo: 04_PESQUISA_ANDAMENTO/ACERVO_DIGITAL_WTF/03_METADATA_CATALOG/WTF_INDEX_ACERVO.md
-  - Equipe:
-      - Consórcio UnB/UFRR/UFAC: 01_GOVERNANCA/01_COLABORADORES/00_EQUIPE_CONSORCIO.md
-  - Anexos:
-      - I - Planilha Orçamentária: 01_GOVERNANCA/05_ANEXOS/ANEXO_I_PLANILHA_ORCAMENTARIA.md
-      - II - Cartas de Anuência: 01_GOVERNANCA/05_ANEXOS/ANEXO_II_CARTAS_ANUENCIA.md
-      - III - Protocolo de Intenções: 01_GOVERNANCA/05_ANEXOS/ANEXO_III_PROTOCOLO_INTENCOES.md
-      - IV - Sistema SMGA: 01_GOVERNANCA/05_ANEXOS/ANEXO_IV_TR_MRV_SMGA.md
-      - V - Currículo Equipe: 01_GOVERNANCA/05_ANEXOS/ANEXO_V_CURRICULO_EQUIPE.md
-      - VI - Mapas de Intervenção: 01_GOVERNANCA/05_ANEXOS/ANEXO_VI_MAPAS_INTERVENCAO.md
-      - VII - Referências Bibliográficas: 01_GOVERNANCA/05_ANEXOS/ANEXO_VII_REFERENCIAS_BIBLIOGRAFICAS.md
-      - Guia Registro SAM.gov (UnB): 01_GOVERNANCA/GUIA_REGISTRO_SAM_GOV_UNB.md
+  - Prospecções & Editais 2026:
+      - Parecer Estratégico 2026: 04_GESTAO_OPERACIONAL/03_EDITAIS_2026/PARECER_ACAO_EDITAIS_2026.md
+      - Zayed Sustain. Prize: 04_GESTAO_OPERACIONAL/03_EDITAIS_2026/EDT-011-ZAYED-PRIZE.md
+      - Nature Awards in Sci: 04_GESTAO_OPERACIONAL/03_EDITAIS_2026/EDT-010-NATURE-AWARDS.md
+      - CONAB Amazônia Viva: 04_GESTAO_OPERACIONAL/03_EDITAIS_2026/EDT-003-CONAB-AMAZONIAVIVA.md
+  - Governança & Equipe:
+      - Projeto Integrado: 01_GOVERNANCA/WTF_PROJETO_INTEGRADO.md
+      - Equipe Consórcio: 01_GOVERNANCA/01_COLABORADORES/00_EQUIPE_CONSORCIO.md
+      - Resumo Financeiro Consolidado: 03_ORCAMENTO_E_LOGISTICA/RESUMO_FINANCEIRO_CONSOLIDADO.md
+      - Hub de Inventário: 01_GOVERNANCA/00_repository_governance_inventory.md
+
 
 

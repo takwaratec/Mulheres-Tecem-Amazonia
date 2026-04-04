@@ -1,25 +1,20 @@
 ---
 projeto: Mulheres Que Tecem a Floresta
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Documento Técnico
-referencia: ANEXO_VI_MAPAS_INTERVENCAO
-status: Status Ready
-author:
-- name: Consórcio UnB/UFRR/UFAC
-date: '2026-03-26'
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: ANEXO_VI_MAPAS_INTERVENCAO.md
+status: Consolidado
 ---
-
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 <p align="right"><i>"O espaço geográfico é o encontro de objetos e ações."<br>— Milton Santos</i></p>
 
-### <img src="../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../assets/patterns/square_05_cyan.svg" width="22px">&nbsp; Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: ANEXO_VI_MAPAS_INTERVENCAO.md
-*   **Status**: Status Consolidado
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 27 de Março de 2026
+*   **Status**: Consolidado
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 # ANEXO VI: Mapas das Áreas de Intervenção
 
@@ -106,7 +101,7 @@ Polo Naval + Resinagem Airless + Série T. Implantação condicionada a visitaç
 | T01-B | Reator Térmico + Câmaras PEAD ⁷ | Rocket Stove + TEG + Arduino + 4× câmaras PEAD 200L (bambu) | 15.000,00 |
 | T03 | Resinador Rotativo ("Frangueira") | Resinagem automatizada airless em colmos de 6m | 12.000,00 |
 | T04 | Misturador de Biocompósitos | Betoneira c/ jato PU vedada — dosagem de Mamonex RD70 | 10.000,00 |
-| T06 | Gabaritos de Solda | Trilho-orientador para precisão de corte e união | 8.000,00 |
+| T06 | Solda Vegetal | Trilho-orientador para precisão de corte e união | 8.000,00 |
 | T08 | Tamboreador | Abrasão térmica em colmos — acabamento de superfície | 15.000,00 |
 | T09 | Câmaras de Vapor (N1) | Tanques para imunização hidrotérmica de colmos | 6.000,00 |
 | T11 | Domo Geodésico 15m (Polo Naval) ⁵ | Estrutura geodésica de grande porte — oficina naval para embarcações de até 12m de convés. Diâmetro mínimo 15m, sujeito a avaliação de área disponível ou contrapartida institucional | 85.000,00 |
@@ -257,4 +252,4 @@ Toda a área de manejo de bambu, os polos construídos e as rotas logísticas s�
 - <img src="../../assets/icons/human_14_black.svg" width="18px"> Registro de **vulnerabilidades territoriais** (feminicídio, morticídio, violência sistêmica) conforme protocolo de denúncia do dossiê MQTF.
 
 ---
-<p align="center"><img src="../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br>Consórcio Científico UnB / UFRR / UFAC<br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

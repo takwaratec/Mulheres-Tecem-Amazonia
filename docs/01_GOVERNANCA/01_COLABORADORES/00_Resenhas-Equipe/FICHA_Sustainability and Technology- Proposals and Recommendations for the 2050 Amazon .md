@@ -1,25 +1,30 @@
 ---
 projeto: Mulheres Que Tecem a Floresta
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Documento Técnico
-referencia: FICHA_Sustainability and Technology- Proposals and Recommendations for the 2050 Amazon 
-status: Status Ready
-author:
-- name: Consórcio UnB/UFRR/UFAC
-date: '2026-03-26'
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: FICHA_Sustainability and Technology- Proposals and Recommendations for the 2050 Amazon .md
+status: Consolidado
 ---
+
+<p align="right"><i>"Não se morre enquanto houver quem nos lembre."<br>— Cora Coralina</i></p>
+
+### <img src="../../../assets/patterns/square_05_cyan.svg" width="22px">&nbsp; Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: FICHA_Sustainability and Technology- Proposals and Recommendations for the 2050 Amazon .md
+*   **Status**: Consolidado
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+
+<p align="right"><i>"Não se morre enquanto houver quem nos lembre."<br>— Cora Coralina</i></p>
+
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 ![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
 <p align="right"><i>"Não se morre enquanto houver quem nos lembre."<br>— Cora Coralina</i></p>
 
-### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
-*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
-*   **Instituição**: Consórcio UnB / UFRR / UFAC
-*   **Referência**: FICHA_Sustainability and Technology- Proposals and Recommendations for the 2050 Amazon .md
-*   **Status**: Status Consoliado
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 27 de Março de 2026
 
 Okay, como Pesquisador Sênior e Analista de Dados do Projeto WTF (Mulheres Que Tecem a Floresta), proceedi com a análise do texto bruto fornecido para estruturar a ficha científica.
 
@@ -27,12 +32,12 @@ Okay, como Pesquisador Sênior e Analista de Dados do Projeto WTF (Mulheres Que 
 
 ### 1. METADADOS E CABEÇALHO
 
-* <img src="../../../../../assets/icons/human_06_black.svg" width="18px">   **Projeto:** <img src="../../../../../assets/icons/human_06_black.svg" width="18px"> Mulheres Que Tecem a Floresta (WTF)
-* <img src="../../../../../assets/icons/human_15_black.svg" width="18px">   **Instituição:** <img src="../../../../../assets/icons/human_15_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
-* <img src="../../../../../assets/icons/human_18_black.svg" width="18px">   **Tipo de Documento:** <img src="../../../../../assets/icons/human_18_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
-* <img src="../../../../../assets/icons/human_04_black.svg" width="18px">   **Referência Interna:** <img src="../../../../../assets/icons/human_04_black.svg" width="18px"> PES-TEC-3814-2026
-* <img src="../../../../../assets/icons/human_11_black.svg" width="18px">   **Status:** <img src="../../../../../assets/icons/human_11_black.svg" width="18px"> Ready
-* <img src="../../../../../assets/icons/human_05_black.svg" width="18px">   **Data da Análise:** <img src="../../../../../assets/icons/human_05_black.svg" width="18px"> 24 de março de 2026 (assumindo a data de referência do projeto)
+* <img src="../../../assets/icons/human_06_black.svg" width="18px">   **Projeto:** <img src="../../../assets/icons/human_06_black.svg" width="18px"> Mulheres Que Tecem a Floresta (WTF)
+* <img src="../../../assets/icons/human_15_black.svg" width="18px">   **Instituição:** <img src="../../../assets/icons/human_15_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
+* <img src="../../../assets/icons/human_18_black.svg" width="18px">   **Tipo de Documento:** <img src="../../../assets/icons/human_18_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
+* <img src="../../../assets/icons/human_04_black.svg" width="18px">   **Referência Interna:** <img src="../../../assets/icons/human_04_black.svg" width="18px"> PES-TEC-3814-2026
+* <img src="../../../assets/icons/human_11_black.svg" width="18px">   **Status:** <img src="../../../assets/icons/human_11_black.svg" width="18px"> Ready
+* <img src="../../../assets/icons/human_05_black.svg" width="18px">   **Data da Análise:** <img src="../../../assets/icons/human_05_black.svg" width="18px"> 24 de março de 2026 (assumindo a data de referência do projeto)
 
 **REFERÊNCIA BIBLIOGRÁFICA (ABNT):**
 
@@ -71,6 +76,4 @@ Originalidade/valor: Expande o entendimento das ações sustentáveis e apresent
 ---
 
 ---
-
----
-<p align="center"><img src="../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

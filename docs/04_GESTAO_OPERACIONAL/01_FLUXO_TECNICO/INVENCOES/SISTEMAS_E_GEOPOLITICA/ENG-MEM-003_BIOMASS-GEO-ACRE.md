@@ -1,26 +1,20 @@
 ---
-projeto: Mulheres Que Tecem a Floresta 
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Pesquisa: Geoprocessamento (PES)
-referencia: PES-GEO-003-2026
-status: Status Ready
-author:
-- name: Institucional, Fabio Resck
-  orcid: 0000-0001-8815-3885
-date: '2026-03-24'
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: ENG-MEM-003_BIOMASS-GEO-ACRE.md
+status: Consolidado
 ---
-
-![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 <p align="right"><i>"Viver é muito perigoso."<br>— Guimarães Rosa</i></p>
 
-### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
-**Projeto**: Mulheres Que Tecem a Floresta (MQTF)
-**Instituição**: Consórcio UnB / UFRR / UFAC
-**Referência**: ENG-MEM-003_BIOMASS-GEO-ACRE.md
-**Status**: Status Em Revisão
-**Autor**: Consórcio UnB / UFRR / UFAC
-**Data**: 27 de Março de 2026
+### <img src="../../../../assets/patterns/square_05_red.svg" width="22px">&nbsp; Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: ENG-MEM-003_BIOMASS-GEO-ACRE.md
+*   **Status**: Consolidado
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 # <img src="../../../../assets/patterns/square_title_red.svg" width="30px"> Memorando Técnico: Biomassa, Georreferenciamento e Governança (Acre)
 
@@ -85,4 +79,4 @@ O mapeamento exaustivo no Acre utiliza uma combinação de sensores e algoritmos
 <img src="../../../../assets/icons/human_12_black.svg" width="18px"> **TI Nawa**: Delimitação aprovada (2026) | População: > 300.
 
 ---
-<p align="center"><img src="../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

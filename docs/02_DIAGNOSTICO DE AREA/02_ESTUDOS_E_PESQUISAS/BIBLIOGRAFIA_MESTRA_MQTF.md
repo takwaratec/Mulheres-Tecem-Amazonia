@@ -1,29 +1,20 @@
 ---
 projeto: Mulheres Que Tecem a Floresta
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Referencial Bibliográfico (Mestre)
-referencia: WTF-REF-001-2026
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: BIBLIOGRAFIA_MESTRA_MQTF.md
 status: Consolidado
-author:
-- affiliation: Universidade de Brasília / Núcleo Takwara
-  name: Institucional, Fabio Resck
-  orcid: 0000-0001-8815-3885
-date: '2026-03-30'
 ---
-
-![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 <p align="right"><i>"Soberania não se pede, se exerce."<br>— MQTF</i></p>
 
-### <img src="../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
-**Projeto**: Mulheres Que Tecem a Floresta (MQTF)
-**Instituição**: Consórcio UnB / UFRR / UFAC
-**Referência**: BIBLIOGRAFIA_MESTRA_MQTF.md
-**Status**: Status Em Revisão
-**Autor**: Consórcio UnB / UFRR / UFAC
-**Data**: 30 de Março de 2026
+### <img src="../../assets/patterns/square_05_green.svg" width="22px">&nbsp; Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: BIBLIOGRAFIA_MESTRA_MQTF.md
+*   **Status**: Consolidado
 
----
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 # <img src="../../assets/patterns/square_title_red.svg" width="30px"> BIBLIOGRAFIA MESTRA MQTF (DOY-SYNC)
 
@@ -84,5 +75,4 @@ Mapeamento de referências e endpoints precisos para consulta externa e amparo t
 - <img src="../../assets/icons/human_07_green.svg" width="18px"> **WRI BRASIL**. *Nova Economia da Amazônia: Transição para a Base Florestal*. Brasília: WRI, 2023. Disponível em: [https://www.wribrasil.org.br/nova-economia-da-amazonia](https://www.wribrasil.org.br/nova-economia-da-amazonia).
 
 ---
-
-<p align="center"><img src="../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="45px"><br><b>Mulheres Que Tecem a Floresta - MQTF -</b><br>Consórcio Científico UnB/UFRR/UFAC<br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

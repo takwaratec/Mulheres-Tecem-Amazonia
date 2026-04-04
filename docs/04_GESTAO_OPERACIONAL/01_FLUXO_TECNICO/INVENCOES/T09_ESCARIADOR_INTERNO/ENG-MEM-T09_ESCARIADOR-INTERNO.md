@@ -1,27 +1,20 @@
 ---
-projeto: Mulheres Que Tecem a Floresta 
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Memorial de Patente Social (T09)
-referencia: ENG-MEM-T09-2026
-status: Status Ready
-author:
-- affiliation: Universidade de Brasília / Núcleo Institucional
-  name: Institucional, Fabio Resck
-  orcid: 0000-0001-8815-3885
-date: '2026-03-24'
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: ENG-MEM-T09_ESCARIADOR-INTERNO.md
+status: Consolidado
 ---
-
-![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 <p align="right"><i>"O real não está na saída nem na chegada: ele se dispõe para a gente é no meio da travessia."<br>— Guimarães Rosa</i></p>
 
-### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../assets/patterns/square_05_red.svg" width="22px">&nbsp; Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: ENG-MEM-T09_ESCARIADOR-INTERNO.md
-*   **Status**: Status Em Revisão
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 27 de Março de 2026
+*   **Status**: Consolidado
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 # Memorial Técnico: Escariador Interno de Nós de Bambu T09
 
@@ -39,20 +32,20 @@ A invenção consiste em um **Eixo Longilíneo Telescópico** dotado de uma **Ca
 ## 2. Descrição Detalhada e Especificações
 
 ### 2.1 Mecanismo de Escariação
-- <img src="../../../../../../assets/icons/human_04_black.svg" width="18px"> **Cabeça de Impacto**: Conjunto de lâminas radiais (seta de nós) com ângulo de ataque específico para romper o diafragma silicoso sem ferir a parede interna.
-- <img src="../../../../../../assets/icons/human_20_black.svg" width="18px"> **Haste de Prolongamento**: Sistema modular que permite a limpeza de colmos de 3m a 6m de comprimento através de acoplamentos rápidos.
-- <img src="../../../../../../assets/icons/human_05_black.svg" width="18px"> **Acionamento**: Sistema de polias e correias com proteção (NR-12) e embreagem mecânica de segurança.
+- <img src="../../../../assets/icons/human_04_black.svg" width="18px"> **Cabeça de Impacto**: Conjunto de lâminas radiais (seta de nós) com ângulo de ataque específico para romper o diafragma silicoso sem ferir a parede interna.
+- <img src="../../../../assets/icons/human_20_black.svg" width="18px"> **Haste de Prolongamento**: Sistema modular que permite a limpeza de colmos de 3m a 6m de comprimento através de acoplamentos rápidos.
+- <img src="../../../../assets/icons/human_05_black.svg" width="18px"> **Acionamento**: Sistema de polias e correias com proteção (NR-12) e embreagem mecânica de segurança.
 
 ### 2.2 Requisitos Operacionais
-- <img src="../../../../../../assets/icons/human_19_black.svg" width="18px"> **Motorização**: 1.5 CV a 2.0 CV (Monofásico).
-- <img src="../../../../../../assets/icons/human_14_black.svg" width="18px"> **Rotação**: Baixa velocidade/Alto torque (para evitar superaquecimento e quebras de fibras).
-- <img src="../../../../../../assets/icons/human_13_black.svg" width="18px"> **Estrutura**: Chassis em perfis de aço laminado com pintura protetiva.
+- <img src="../../../../assets/icons/human_19_black.svg" width="18px"> **Motorização**: 1.5 CV a 2.0 CV (Monofásico).
+- <img src="../../../../assets/icons/human_14_black.svg" width="18px"> **Rotação**: Baixa velocidade/Alto torque (para evitar superaquecimento e quebras de fibras).
+- <img src="../../../../assets/icons/human_13_black.svg" width="18px"> **Estrutura**: Chassis em perfis de aço laminado com pintura protetiva.
 
 ## 3. Bill of Materials (BoM) - Componentes Críticos
-- <img src="../../../../../../assets/icons/human_07_black.svg" width="18px"> **Cabeça Estrela**: Aço Ferramenta (VND ou similar) com têmpera por indução.
-- <img src="../../../../../../assets/icons/human_12_black.svg" width="18px"> **Eixo Transmissor**: Tubo mecânico em aço trefilado sem costura.
-- <img src="../../../../../../assets/icons/human_11_black.svg" width="18px"> **Mancais**: Rolamentos blindados de autocompensação.
-- <img src="../../../../../../assets/icons/human_06_black.svg" width="18px"> **Chassis**: Perfis "U" e "L" em aço ASTM A36.
+- <img src="../../../../assets/icons/human_07_black.svg" width="18px"> **Cabeça Estrela**: Aço Ferramenta (VND ou similar) com têmpera por indução.
+- <img src="../../../../assets/icons/human_12_black.svg" width="18px"> **Eixo Transmissor**: Tubo mecânico em aço trefilado sem costura.
+- <img src="../../../../assets/icons/human_11_black.svg" width="18px"> **Mancais**: Rolamentos blindados de autocompensação.
+- <img src="../../../../assets/icons/human_06_black.svg" width="18px"> **Chassis**: Perfis "U" e "L" em aço ASTM A36.
 
 ## 4. Reivindicações
 1. **ESCARIADOR INTERNO DE NÓS DE BAMBU**, caracterizado por possuir um **eixo modular telescópico** e uma **cabeça de corte estrela** auto-centrante.
@@ -74,6 +67,4 @@ Takwara, F. R. (2026). *Memorial Técnico: Escariador Interno de Nós de Bambu T
 ---
 
 ---
-
----
-<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

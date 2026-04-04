@@ -1,0 +1,715 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFAC/UFRR
+equipe: Gestão e Parceria Regional
+tipo: Acervo de Consulta RAW (Transcrição)
+autor: Acervo Digital Mulheres que Tecem a Floresta
+data: '2025'
+---
+Universidade de São Paulo
+Escola Superior de Agricultura “Luiz de Queiroz”
+Painéis particulados fabricados com casca de mamona e poliuretano à base de óleo de mamona
+Eduardo Junio Menezes Carvalho
+Dissertação apresentada para obtenção do título de Mestre em Ciências, Programa: Recursos Florestais. Opção em: Tecnologia de Produtos Florestais
+Piracicaba 2023
+
+Eduardo Junio Menezes Carvalho Engenheiro Físico
+Painéis particulados fabricados com casca de mamona e poliuretano à base de óleo de mamona
+versão revisada de acordo com a Resolução CoPGr 6018 de 2011
+Orientador:
+Prof. Dr. JOSÉ NIVALDO GARCIA
+Dissertação apresentada para obtenção do título de Mestre em Ciências, Programa: Recursos Florestais. Opção em: Tecnologia de Produtos Florestais
+Piracicaba 2023
+Dados Internacionais de Catalogação na Publicação DIVISÃO DE BIBLIOTECA – DIBD/ESALQ/USP
+Carvalho, Eduardo Junio Menezes
+Painéis particulados fabricados com casca de mamona e poliuretano à base de óleo de mamona / Eduardo Junio Menezes Carvalho. - - versão revisada de acordo com a Resolução CoPGr 6018 de 2011. - - Piracicaba, 2023.
+73 p.
+Dissertação (Mestrado) - - USP / Escola Superior de Agricultura “Luiz de Queiroz”.
+1. Resíduos agroindustriais 2. Bioadesivos 3. Recursos alternativos 4. Painéis sustentáveis I. Título
+
+Àqueles que sempre se sacrificam por mim. Aos meus pais, Manoel e Angelina,
+DEDICO
+4
+AGRADECIMENTOS
+Gostaria de agradecer primeiramente a mim, por continuar lutando dia após dia.
+Aos meus pais, por continuarem me aturando todos esses anos.
+Ao meu amigo e orientador professor Garcia, pelos ensinamentos, paciência e confiança.
+Ao Balboni, pela parceria insana nos laboratórios, cálculos, games e churras.
+Ao GG, desde muito tempo enriquecendo minha jornada pessoal e acadêmica.
+À Alê, pela ótima companhia e apoio.
+Ao técnico Facco, por toda a ajuda fornecida.
+Aos colegas de república, que suportaram minha bagunça.
+À CAPES, pela bolsa de mestrado que permitiu o desenvolvimento deste projeto.
+À ESALQ, pela estrutura e recursos oferecidos.
+E a todos aqueles que eu possa ter esquecido, não pela importância, mas pelo meu jeito de viver.
+Gratidão!
+
+BIOGRAFIA
+Ele não sabe de onde vem, mas sonha onde quer chegar.
+6
+“The lips of wisdom are closed, except to the ears of understanding”.
+The Kybalion
+
+SUMÁRIO
+RESUMO....................................................................................................................................9 ABSTRACT..............................................................................................................................10
+1. INTRODUÇÃO....................................................................................................................11
+1.1. Justificativa....................................................................................................................11
+2. OBJETIVOS.........................................................................................................................13 2.1. Objetivo principal..........................................................................................................13 2.2. Objetivos específicos.....................................................................................................13
+3. REVISÃO BIBLIOGRÁFICA.............................................................................................15 3.1. Mamona (Ricinus communis L.)...................................................................................15 3.1.1. Produção mundial...................................................................................................15 3.1.2. Resíduos da indústria..............................................................................................16 3.2. Painéis particulados........................................................................................................19 3.2.1. Classificação dos painéis........................................................................................19 3.2.2. Histórico de produção.............................................................................................20 3.2.3. Painéis à base de resíduos.......................................................................................21 3.3. Adesivos.........................................................................................................................22 3.3.1. Resinas tradicionais.................................................................................................23 3.3.2. Resina poliuretana de mamona...............................................................................23 3.4. Fatores relevantes à manufatura de painéis....................................................................25 3.4.1. Fatores inerentes à matéria-prima...........................................................................25 3.4.2. Fatores inerentes ao processo..................................................................................27 3.5. Propriedades químicas...................................................................................................29 3.6. Propriedades físicas........................................................................................................30 3.7. Propriedades mecânicas.................................................................................................31
+4. MATERIAIS.........................................................................................................................33 4.1. Casca de mamona...........................................................................................................33 4.2. Poliuretano à base de óleo de mamona..........................................................................33
+5. METODOLOGIAS...............................................................................................................35 5.1. Método aplicado às partículas........................................................................................35 5.1.1. Coleta e preparo......................................................................................................35 5.1.2. Caracterização.........................................................................................................36
+8
+5.1.3. Ensaio químico........................................................................................................38 5.2. Método aplicado aos painéis..........................................................................................38 5.2.1. Estudo experimental................................................................................................38 5.2.2. Parâmetros de processo...........................................................................................40 5.2.3. Manufatura e avaliação dos painéis........................................................................40 5.2.4. Ensaio de densidade................................................................................................42 5.2.5. Ensaio de inchamento em espessura e absorção de água........................................42 5.2.6. Ensaio de tração perpendicular...............................................................................43 5.2.7. Ensaio de flexão estática.........................................................................................44 5.2.8. Ensaio de arrancamento de parafuso.......................................................................45 5.2.9. Análise de dados.....................................................................................................46
+6. RESULTADOS E DISCUSSÃO..........................................................................................47 6.1. Análise das cascas de mamona......................................................................................47 6.2. Análise dos painéis particulados....................................................................................51 6.2.1. Teor de resina..........................................................................................................51 6.2.2. Pressão de prensagem.............................................................................................54 6.2.3. Tipo de partícula.....................................................................................................58 6.2.4. Finalidade................................................................................................................61
+7. CONCLUSÃO......................................................................................................................63 REFERÊNCIAS....................................................................................................................65
+
+RESUMO
+Painéis particulados fabricados com casca de mamona e poliuretano à base de óleo de mamona
+A mamona (Ricinus communis) é uma planta mundialmente conhecida devido à qualidade e caraterísticas únicas apresentadas em seu óleo. Todavia, a agroindústria, de forma geral, tem produzido uma imensa quantidade de resíduos, e para dar finalidade nobre a essas matérias-primas, o desenvolvimento de painéis à base de resíduos agroindustriais tem sido intensivamente examinado. A casca de mamona, por exemplo, é composta principalmente por celulose e lignina, e é altamente produzida no Brasil, tornando-se um recurso alternativo em potencial para ser aplicado em painéis particulados. Associado ao fato de existir uma tendência global em direção aos produtos biodegradáveis, o uso de poliuretano à base de óleo de mamona vem se mostrando uma ótima opção para a colagem de painéis devido à alta compatibilidade com fibras lignocelulósicas e à redução do grau de toxicidade, além da diminuição do consumo de produtos derivados do petróleo. Diante desta oportunidade, tem-se por objetivo avaliar painéis particulados manufaturados com casca de mamona e poliuretano à base de óleo de mamona. A otimização dos parâmetros de processo correlacionada às propriedades alcançadas possibilita o desenvolvimento de uma metodologia eficiente de produção de painéis sustentáveis, promovendo a valorização de resíduos agroindustriais de grande potencial tecnológico. Desta forma, serão analisadas as influências do teor de resina, da pressão de prensagem e espécies de mamona sobre as propriedades físicas e mecânicas de painéis particulados.
+Palavras-chave: Resíduos agroindustriais, Bioadesivos, Recursos alternativos, Painéis sustentáveis
+10
+ABSTRACT
+Particleboards manufactured with castor husk and castor oil-based polyurethane
+Castor bean (Ricinus communis) is a plant known worldwide due to the quality and unique characteristics presented in its oil. However, the agroindustry, in general, has produced an immense amount of residues, and to give a noble purpose to these raw materials, the development of composites based on agroindustrial residues has been intensively examined. Castor bean husk, for example, is mainly composed of cellulose and lignin, and is highly produced in Brazil, making it a potential alternative resource to be applied in particleboards. Associated with the fact that there is a global trend towards biodegradable products, the use of castor oil-based polyurethane has been proving to be a great option for bonding panels due to its high compatibility with lignocellulosic fibers and the reduction of toxicity degree, in addition to the decrease in the consumption of petroleum products. Given this opportunity, the aim is to evaluate particleboards manufactured with castor bean husk and castor oil-based polyurethane. The optimization of process parameters correlated to the properties achieved makes it possible to develop an efficient sustainable panel production methodology and promotes the valorization of agroindustrial residues with great technological potential. Thus, the influences of resin content, pressing pressure and castor species on the physical and mechanical properties of particleboards will be analyzed.
+Keywords: Agroindustrial wastes, Bioadhesives, Alternative resources, Sustainable panels
+
+1. INTRODUÇÃO
+A mamona (Ricinus communis) é uma planta mundialmente conhecida e extensamente explorada devido à qualidade e caraterísticas únicas apresentadas em seu óleo (SARDARI, 2019; TROVATI et al., 2019). Todavia, como todo processo de extração de óleo, existirá a produção de resíduos. Estima-se que são produzidas 741 × 103 toneladas de casca e 642 × 103 toneladas de torta de mamona por ano no mundo (LIMA et al., 2011). O alto teor de carbono e a solubilidade de nitrogênio presentes na torta de mamona a tornam um ótimo fertilizante, sendo comerciada principalmente na forma orgânica (SEVERINO, 2005). Já a casca de mamona ainda é um resíduo sem finalidade nobre.
+A agroindústria, de forma geral, tem produzido uma imensa quantidade de resíduos, e para trazer aplicações a essas matérias-primas, o desenvolvimento de compósitos à base de resíduos agroindustriais tem sido intensivamente examinado (MENDES et al., 2010; BASKARAN et al., 2019). A casca de mamona, por exemplo, é um recurso alternativo em potencial para ser aplicado em painéis particulados, pois é composta principalmente por celulose e lignina, além da grande produção brasileira (SILVA et al., 2016).
+Associado ao fato de existir uma tendência global em direção aos produtos que respeitam o meio ambiente, o uso de poliuretano à base de óleo de mamona vem se mostrando uma ótima opção para a colagem de painéis devido à alta compatibilidade com fibras lignocelulósicas e à redução do grau de toxicidade, além da diminuição do consumo de produtos derivados do petróleo (VIDIL et al., 2016; RICHTER, 2018; ZHANG et al., 2018).
+Diante desta oportunidade, tem-se por objetivo avaliar painéis particulados manufaturados com casca de mamona e poliuretano à base de óleo de mamona. A otimização dos parâmetros de processo correlacionada às propriedades alcançadas possibilita o desenvolvimento de uma metodologia eficiente de produção de painéis sustentáveis, promovendo a valorização de resíduos agroindustriais de grande potencial tecnológico. Desta forma, serão analisadas as influências dos fatores granulometria das partículas, proporção de cascas, teor de resina, e razão de compactação sobre as propriedades físicas, mecânicas e térmicas dos painéis particulados.
+1.1. Justificativa
+A necessidade de desenvolvimento e aplicação de materiais novos e biorrenováveis como meio de redução da exploração predatória dos recursos naturais justifica claramente a presente pesquisa, pois apresenta relevâncias ambientais, econômicas, energéticas, científicas, tecnológicas e sociais que beneficiam a qualidade de vida da sociedade e a conservação da natureza.
+O óleo de mamona é um produto extensamente difundido no mercado mundial devido às suas características peculiares. Consequentemente, uma imensa quantidade de resíduos é gerada no processo de sua extração. No entanto, poucos estudos verificaram as propriedades e os potenciais de aplicação dessas matérias- primas.
+Sendo assim, tem-se por justificativa principal dar destino nobre aos materiais remanescentes da grande indústria do óleo de rícino. Além disso, pretende-se substituir ou reduzir a utilização de resinas não12
+degradáveis e não-sustentáveis, desenvolver produtos de baixo custo e impacto ambiental, e promover a valorização de recursos alternativos de grande potencial tecnológico.
+Quanto ao ponto de vista ambiental, justifica-se pelo aproveitamento de resíduos e a utilização de adesivos à base de óleo vegetal para reduzir o consumo de produtos derivados do petróleo.
+Tratando-se do potencial científico e tecnológico, justifica-se pelo estudo e desenvolvimento de painéis particulados à base de resíduo e resina vegetal, pela caracterização física, química e mecânica de seus componentes e o tipo de interação entre os mesmos.
+Com relação ao aspecto econômico e energético, a manufatura de painéis particulados empregando resíduos agroindustriais e adesivos à base de óleo vegetal agregam valor às matérias-primas, reduzem o consumo de energia, diminuem o desgaste de ferramentas e promovem a valorização de recursos alternativos. Além disso, o processo de confecção dos compósitos é, em sua essência, acessível e inteligível, idealizando um produto final com custo reduzido e de grande capacidade competitiva.
+Referente ao impacto social, a simplicidade no processo produtivo permite o fácil aprendizado das técnicas produtivas, garantindo a absorção do produto pelos setores de produção e consumo. Consequentemente, grandes indústrias terão interesse em processos científicos como esse, atraindo a implantação de indústrias locais que visarão suprir os mercados de grandes centros.
+Sendo assim, pretende-se desenvolver um painel particulado de baixo custo e propriedades adequadas às normas técnicas para competir em igualdade com outros produtos convencionais, sobretudo aqueles à base de matérias-primas não renováveis, de alto custo, com escassez eminente e de grande impacto à saúde e ao meio ambiente.
+
+2. OBJETIVOS
+2.1. Objetivo principal
+Avaliar painéis particulados produzidos com casca e resina poliuretana de mamona.
+2.2. Objetivos específicos
+a) Caracterizar cascas de mamona selvagem e melhorada geneticamente;
+b) Analisar a influência do teor de resina poliuretana de mamona sobre as propriedades físicas e mecânicas
+de painéis fabricados com casca de mamona melhorada geneticamente;
+c) Analisar o efeito da pressão de prensagem sobre as propriedades físicas e mecânicas de painéis
+fabricados com casca de mamona melhorada geneticamente;
+d) Avaliar a influência das cascas de mamona selvagem e melhorada geneticamente sobre as propriedades
+físicas e mecânicas de painéis particulados.
+14
+
+3. REVISÃO BIBLIOGRÁFICA
+3.1. Mamona (Ricinus communis L.)
+A mamona (Ricinus communis L.), também conhecida como rícino, carrapateira, “castor bean” e “castor seed”, é uma planta originária da Ásia meridional, da família das Euphorbiaceae, com características arbustivas e diferentes colorações de caule, folhas e cachos, frutos espinhosos e sementes de diversos tamanhos, formatos e cores. Ela ainda é considerada a planta mais venenosa do planeta, devido à presença da proteína ricina, que mesmo em pequenas doses pode ser mortal (AGEITEC, 2005).
+Figura 1. Frutos de mamona (MILANI & NOBREGA, 2013).
+O óleo extraído da semente é considerado o principal produto resultante do cultivo de mamona. Sua coloração varia de incolor a amarelo dourado, é espesso, oleoso, inodoro, insolúvel em água, porém solúvel em solventes orgânicos (OGUNNIYI, 2006). Devido à presença de ácido ricinoleico, o óleo de mamona possui propriedades químicas singulares em comparação com a maioria dos óleos vegetais, ocupando posição de destaque no mercado global (JIAN, 2000; SILVA et al., 2006; TROVATI et al., 2019). Sua estrutura única permite alta aplicabilidade em segmentos variados, como na produção de fármacos, cosméticos, polímeros, biocombustíveis, óleos lubrificantes de baixa temperatura e até mesmo de chocolates (VALENTE et al., 2011; FADHIL. 2015).
+3.1.1. Produção mundial
+A alta demanda do setor produtivo, expansão e transformação tecnológica para a produção de biocombustíveis ascendeu a agricultura de mamona, e o aperfeiçoamento da ricinoquímica permitiu ampliar a gama de produtos industriais obtidos a partir do seu óleo, elevando o interesse dos produtores e exportadores, gerando mobilidade aos segmentos industriais e mais rentabilidade no comércio da mamona (AGEITEC, 2005).
+16
+No Brasil, o Nordeste é a principal região produtora, destacando-se a Bahia, com cerca de 50,1 mil hectares a serem cultivados, o que corresponde a uma produção de 34,2 mil toneladas, ou seja, um rendimento médio de 683 kg/ha. O cultivo da mamona irrigada tem demonstrado crescimento na região Centro Norte do estado, mais precisamente na microrregião de Irecê. Em Mato Grosso, cuja área se manteve em 2,1 mil hectares, houve um aumento de 0,7% na produtividade, alcançando uma média de 918 kg/ha (CONAB, 2020).
+No mundo, a Índia lidera a produção de óleo de mamona (mais de 80% da produção mundial), seguida por Moçambique, China, Brasil, Myanmar, Etiópia, Paraguai e Vietnã. Dados divulgados pela Food and Agriculture Organization (FAO) mostram uma produção mundial de aproximadamente 1,4 milhão de toneladas de sementes de mamona no ano de 2018 (FAO, 2020), equivalente a 1180 milhões de dólares, e embora a safra tenha flutuado substancialmente nos últimos anos, a tendência tem sido de aumento (Figura 2). Até o ano de 2025, estima-se que esse valor chegue a 1470 milhões de dólares, com uma taxa de crescimento anual composta (CAGR) de 2,8% (GHOSAL, S. 2019).
+ Figura 2. Área de investimento e produção de sementes de mamona no mundo (FAQ, 2020).
+3.1.2. Resíduos da indústria
+Como todo processo de extração de óleo, existirá a produção de resíduos, que neste caso são a casca, a torta e o farelo (ANDRADE, 2011). Desta forma, encontrar uma finalidade nobre para essas matérias-primas é urgente (SILVA et al., 2016), pois políticas favoráveis ao meio ambiente são uma tendência mundial e a gestão de resíduos é uma ação preventiva em foco (AZAMBUJA et al., 2018).
+A torta residual da extração do óleo de mamona (Figura 3) é considerada um excelente fertilizante devido ao seu teor de carbono e solubilidade intermediária de nitrogênio, sendo comercializada preferencialmente em forma de fertilizante orgânico, além do potencial de produção de filmes biodegradáveis a partir da extração da sua proteína (SEVERINO, 2005).
+ Figura 3. Torta de mamona.
+Godoy et al. (2009) propôs a fermentação em estado sólido dos resíduos de mamona para atingir a desintoxicação da ricina, reduzir o potencial alergênico e estimular a produção de lipase. De acordo com os resultados, a atividade máxima da lipase foi três vezes maior em comparação à atividade antes da otimização do processo. Além disso, a fermentação foi capaz de eliminar a ricina e reduzir o potencial alergênico do resíduo, mostrando a eficácia do método.
+Pesquisadores relataram a possibilidade de substituição tanto da torta quanto do farelo de soja por produtos similares à base de mamona na dieta de ruminantes sem comprometer o consumo e digestibilidade de nutrientes, desde que destoxicados e suplementados com óxido de cálcio (OLIVEIRA et al., 2006; BARROS et al., 2011; DINIZ et al., 2011). De acordo com Cândido et al. (2008), o valor nutritivo de ambos podem ser aumentados a partir do tratamento com Ca(OH2).
+É notável que a utilização dos subprodutos da mamona diminui os custos com a dieta animal, uma vez que substitui com eficiência produtos à base de soja, e proporciona destinação adequada aos resíduos. Contudo, a aplicação deste novo alimento na dieta animal torna-se restrita devido à ausência de tecnologia em nível industrial para o processo de destoxicação (RIBEIRO; ÁVILA, 2006).
+Em geral, a torta ou farelo gerado na extração do óleo não passa por processo de agregação de valor porque são desconhecidas as suas potencialidades nutricionais e econômicas, com algumas exceções como soja, algodão e girassol. Associado a esse fato, são desconhecidas também as possibilidades de obtenção de receitas advindas do mercado de crédito de carbono, relacionadas à redução da emissão de gás metano, passíveis de ocorrer quando se utilizam rações contendo essas oleaginosas (ABDALLA et al., 2008).
+Além da torta, outro coproduto da indústria do óleo de mamona é a casca (Figura 4), gerada quando as sementes são separadas dos frutos. Assumindo que o peso da semente corresponde a 62% do peso do fruto, e a eficiência da extração do óleo é de 47%, a produção de 1 tonelada de óleo de mamona resulta em 1,31 toneladas de casca e 1,13 toneladas de torta. Assim, a produção anual aproximada de sementes de mamona no mundo é de 1,2 × 103 toneladas; portanto, 741 × 103 toneladas de casca e 642 × 103 toneladas de torta de mamona são produzidas a cada ano (LIMA et al., 2011).
+ Figura 4. Casca de mamona.
+Alguns estudos foram realizados com o intuito incluir a casca de mamona na dieta de ovinos. Santos et al. (2011), avaliando o efeito da inclusão de casca de mamona em substituição ao feno de capim tifton sobre a produção e composição de leite de cabras, observaram decréscimo na produção e redução no teor de gordura do leite. Beserra (2010) avaliou a inclusão de casca de mamona em substituição ao feno de tifton na dieta de ovinos e observou redução no ganho de peso. Bomfim et al., (2006), ao avaliarem a inclusão do resíduo do descascador de mamona em substituição ao milho, na dieta de fêmeas ovinas, observaram redução linear no consumo de matéria seca com o aumento de casca de mamona na dieta.
+A casca de mamona é considerada um alimento volumoso, apresentando 72% de fibra em detergente neutro, mas sua composição é bastante variada, principalmente em função da participação de fragmentos de sementes, que pode chegar a 13%, mudando completamente a composição, não apenas do ponto de vista nutricional, porque passa a ser classificado como concentrado energético, mas também do risco de intoxicação pela presença da ricina nos fragmentos de amêndoa (BOMFIM et al., 2006).
+Durante a análise da composição da casca de mamona, Bomfim et al. (2009) encontraram: 93,32% de matéria seca, 78,91% de matéria orgânica, 9,20% de proteína bruta, 19,89% de extrato etéreo, 42,45% de fibra em detergente neutro, 29,30% de fibra em detergente ácido, 6,60% de lignina e 21,50% de celulose. Já Santos (2008) encontrou: 90,8% de matéria seca, 5,20% de proteína bruta, 2,50 % de extrato etéreo, 77,1% de fibra em detergente neutro, 57,80% de fibra em detergente ácido, 9,30% de lignina e 48,30% de celulose.
+Pelo fato de ser composta principalmente por celulose e lignina, apresentar baixo valor nutricional, e ser altamente produzida no Brasil, a casca de mamona é um recurso alternativo em potencial para o desenvolvimento de painéis particulados. Além disso, a sua estrutura (Figura 5) é outro fator a ser considerado. O epicarpo é composto por múltiplas camadas de fibras justapostas com morfologia variável; o endocarpo apresenta múltiplas camadas de células justapostas, planas e lignificadas; e o mesocarpo possui células colunares dispostas perpendicularmente às células do endocarpo. Este arranjo estrutural promove menor absorção de água, no entanto, pode dificultar a penetração de adesivo durante a manufatura de painéis (SILVA et al., 2016).
+
+Figura 5. Estrutura da casca de mamona (SILVA et al., 2016).
+3.2. Painéis particulados
+Painéis particulados são materiais compósitos formados a partir da união de dois ou mais materiais de naturezas diferentes, dando origem a um produto de propriedades superiores em comparação aos seus componentes trabalhados de forma separada. Os recursos mais utilizados na fabricação de painéis diversos são materiais lignocelulósicos (Figura 6a), geralmente madeira sólida, processados em pequenas partículas, tiras, ripas e/ou fibras, unidos por um agente aglutinante (SILVA, 2012; POLETO, 2014). Além disso, existem também os painéis fabricados a partir de polímeros sintéticos (Figura 6b), como polipropileno, poliestireno e polietileno (CALEGARI et al., 2004).
+Figura 6. Painéis à base de materiais a) lignocelulósicos (TIMBER INDUSTRY NEWS, 2019) e b) sintéticos (STEWART, 2010).
+3.2.1. Classificação dos painéis
+A classificação dos painéis de madeira é feita principalmente com base na transformação da matéria- prima, tipo de processo e densidade final do produto (ELEOTÉRIO, 2000). Os painéis OSB (Oriented Strand Board), por exemplo, são compostos por múltiplas camadas de partículas orientadas. As camadas externas são
+20
+alinhadas e dispostas no sentido paralelo ao comprimento ou à largura do painel, enquanto as partículas internas podem ser aleatórias ou perpendiculares à camada externa. A geometria, orientação e formação em camadas são os diferenciais deste tipo de painel (FERRO, 2013).
+Outro exemplo de painéis à base de madeira são os clássicos painéis compensados, formados por lâminas de madeira justapostas em camadas ímpares, coladas entre si de maneira que a direção da grã de camadas adjacentes forme um ângulo de 90°. Além dos laminados, existem também os sarrafeados, compostos por miolos de sarrafos de madeira, colados lado a lado, e multissarrafeados, onde o miolo compõe-se de lâminas prensadas e coladas na vertical, formando uma estrutura sanduíche (KAZMIERCZAK, 2012). A figura 7 faz uma síntese da classificação dos painéis à base de madeira.
+Figura 7. Classificação dos painéis à base de madeira, segundo o grau de transformação da matéria-prima, processo e densidade (ELEOTÉRIO, 2000).
+De acordo com a norma técnica ABNT NBR 14810-1:2006 – Chapa de madeira aglomerada ou chapa de partículas de madeira é um produto em forma de painel, que pode variar em espessura de 3 mm a 50 mm, constituído por partículas de madeira aglomeradas com resinas naturais ou sintéticas, termofixas, sob a ação de pressão e calor. Características como geometria e homogeneidade das partículas, tipos de adesivos, densidade e processo de fabricação, e outros aditivos, podem ser modificados e incorporados para produzir peças adequadas ao uso final específico (ABNT, 2006).
+3.2.2. Histórico de produção
+O conceito de painéis particulados teve sua origem na Alemanha, no início da década de 40, como forma de viabilizar a utilização de subprodutos da madeira. Após a Segunda Guerra Mundial, a escassez de matéria-prima de qualidade, causado pelo isolamento comercial, e a necessidade de redução de desperdícios, causados tanto pela indústria madeireira como pela exploração florestal, impulsionaram a tecnologia de fabricação desses produtos (IWAKIRI, 2005; CARASCHI et al., 2009).
+ 
+O Brasil começou a fabricar painéis aglomerados em 1966 na cidade de Curitiba-PR (IWAKIRI, 2005), e atualmente ocupa a sexta posição no ranking mundial de maiores produtores de painéis (FAO, 2019). A vantagem e ampla utilização dos painéis deve-se à possibilidade de reaproveitamento de recursos menos nobres e à transformação de pequenos fragmentos de madeira e/ou outros materiais fibrosos em grandes peças úteis (AZIZI, 2011), trazendo para si a capacidade de substituir produtos já estabelecidos no mercado (ACDA,2013).
+Outro grande benefício que os produtos à base de madeira proporcionam é evidenciado na quantidade de energia gasta no momento da extração, produção e transporte de cada material. A utilização de uma tonelada de painel MDF no fechamento de paredes, por exemplo, resulta numa necessidade líquida de energia de 8,49 milhões de BTU (9 × 109 J), enquanto para materiais convencionais como alumínio e alvenaria se utilizam 34,08 milhões de BTU (36 × 109 J) e 183,28 milhões de BTU (190 × 109 J), respectivamente (KOCH, 1992).
+Em 2019, a Food and Agriculture Organization (FAO) registrou o nível mais alto de produção e comércio globais dos principais produtos de madeira, a citar madeira redonda, madeira serrada e painéis à base de madeira, desde o início dos registros de estatísticas florestais gerados pela organização, em 1947. Entre as categorias de produtos de madeira, os painéis particulados e OSB (Oriented Strand Board), comumente utilizados na construção e fabricação de móveis, foram os que apresentaram crescimento mais rápido, equivalente a 25% e 13%, respectivamente, de 2014 a 2018 (FAO, 2019). A figura 8 apresenta o histórico de produção mundial de painéis particulados das últimas décadas.
+Figura 8. Produção mundial de painéis particulados (FAO, 2019).
+3.2.3. Painéis à base de resíduos
+As madeiras mais exploradas para a produção de painéis particulados são as de gênero Pinus e Eucalyptus (MENDES et al., 2012). No entanto, pesquisadores sugerem que resíduos agroindustriais são um recurso alternativo em potencial para atender a crescente demanda da indústria de painéis, contribuindo para a diminuição da pressão sobre as florestas, redução do custo de produção, agregação de valor à matéria-prima e, consequentemente, geração de um mercado mais competitivo (MENDES et al., 2010; BASKARAN et al., 2019).
+Nadhari et al. (2019) encontraram potencial em painéis particulados fabricados a partir de resíduos de tronco de bananeira, alcançando propriedades físicas e mecânicas suficientes aos padrões emitidos pela norma Japanese Industrial Standards (JIS) A 5908:2003. Outro estudo a ser mencionado é o de Fiorelli (2019), que
+22
+desenvolveu painéis multicamadas à base de fibras de coco verde e bagaço de cana-de-açúcar e obteve resultados satisfatórios para a norma ANSI A208.1-199.
+Além desses recursos, diversas alternativas estão sendo avaliadas, como casca de macadâmia (WECHSLER et al., 2013), resíduo de bambu (VALARELLI et al., 2014), casca de amendoim (GATANI et al., 2014), talo de tabaco (ACDA, 2013), palha de trigo (AZIZI, 2011), espiga de milho (FAUSTINO et al., 2012), resíduo de soja (MARTINS et al., 2018), endocarpo de pêssego (SAHIN et al., 2017), entre outros. A tabela 1 mostra alguns resultados obtidos em estudos sobre as propriedades de painéis à base de resíduos agroindustriais.
+Tabela 1. Propriedades físico-mecânicas de painéis à base de resíduos (Adaptado de BARRERO, 2015).
+ Espessura Material usado (mm)/No de
+camadas Bagaço 12-20/-
+Densidade (g/cm3)
+0.52-0.63 0.7 0.65 0.68 0.72-0.76 0.7 0.4-0.7 0.73-0.75 0.7 0.45-0.69 0.69-1.04 0.6-0.7
+Tipo de resina (%) MOE (MPa)
+UF(8) 1400-2000
+MOR (MPa) AI (MPa) IE – 24 h (%)
+16.7-25.5 - -
+ Kenaf / madeira
+Ramos de palma
+Poda de árvores
+Chips de coco
+Palha de trigo
+Cotton talos
+Bambu / madeira
+Talos de girassol
+Carpelo de algodão
+Farinha de cascas de amendoim
+Casca de avelã
+16/3 20/3 16/3 17.5/1 6.5/1 20/3 17.5/1 20/3 20/3
+- 20/3
+UF (8-12) UF (7-11) UF (8-12) EMDI (2-8) SF (15)
+UF (6-12) UF (10 -14) UF (9-11) UF, MUF (9-11) PF
+UF, MUF, PF (8-10)
+-
+- 1518-2798 - 1518
+-
+- 1800-2963 - 425-2600 -
+17.1-29.58 14.16-18.94 10.9-18.9 10.58-20.9 5.08 3.31-17.95 13.85-18.98 15.65-25.3 9.4-13.1 1.7-14.06 7.7-12
+0.67-1.03 0.35-0.83 0.7-0.84 0.38-1.21 0.10 0.11-0.59 0.62-0.95 0.46-0.69 -
+- 0.33-0.5
+16-26 7-18 12-16 7.1-36.8 160.6 18-35 6.8-23.1 17-25 16-37 2.7-5.27 16-29
+ MOE: Módulo de Elasticidade; MOR: Módulo de Ruptura; AI: Adesão Interna; IE: Inchamento
+Emulsão em água Di-isocianato de difenilmetano; SF: Farinha de Soja; MUF: Melamina Ureia Formaldeído.
+3.3. Adesivos
+Basicamente, adesivos são substâncias com a capacidade de realizar a união entre materiais a partir de forças atrativas intermoleculares de curta distância (KATSUKAKE, 2009). A utilização destes tipos de produtos pode ser observada desde o Egito antigo, nas lâminas de madeira para mobiliários e em sarcófagos fabricados com resina à base de albumina (IWAKIRI, 2005). A classificação pode ser realizada considerando a composição química, temperatura de cura, origem das matérias-primas entre outras. Olmos (1992) separa os adesivos utilizados na manufatura de painéis particulados em naturais, como amido, caseína e albumina, e em sintéticos, como ureia, resorcinol e fenol formaldeído.
+em Espessura; UF: Ureia Formaldeído; EMDI:
+ 
+3.3.1. Resinas tradicionais
+O primeiro adesivo sintético desenvolvido para madeira, chamado de fenol formaldeído, começou a ser produzido por volta de 1930, e desde então outros tipos de produtos, como ureia e resorcina formaldeído, foram surgindo no mercado (TSOUMIS, 1991; FOREST PRODUCTS LABORATORY, 2010).
+A reação entre os compostos químicos dióxido de carbono e amônia, numa faixa de temperatura entre 135°C a 200°C e pressão de 70 a 130 atm é o processo utilizado na produção comercial de ureia. Já o formaldeído é obtido pela oxidação do metanol, preparado a partir do monóxido de carbono e hidrogênio ou de petróleo (BRITO, 2018).
+Vantagens como baixo custo, facilidade de manuseio e cura rápida colocam os produtos à base de formaldeído como primeira opção para a manufatura de painéis particulados, podendo ser aplicado também em madeira sólida e laminados (BUYUKSARI et al., 2010; ABDULKAREEM, 2017; VALARELLI et al., 2014).
+Devido aos impactos causados por este produto, a União Europeia o classificou, em junho de 2014, como agente cancerígeno categoria 1B e mutagênico 2 (SALTHAMMER, 2015). A emissão oriunda da produção e do uso das resinas ureia e fenol formaldeído representa um sério risco à saúde, mesmo em baixos níveis de concentração (AUNG et al., 2014; ZHANG et al., 2018; AKINYEMI, 2019). Associado ao fato de existir uma tendência global em direção aos produtos biodegradáveis, não poluentes e renováveis, a avaliação de novos adesivos tem sido o objetivo de investigações (RICHTER, 2018; ZHANG et al., 2018).
+3.3.2. Resina poliuretana de mamona
+A primeira resina poliuretana, resultante da reação de um isocianato com um poliol, foi desenvolvida em 1937 pelo químico industrial alemão Otto Bayer, e na mesma década sua comercialização foi iniciada com os produtos espumas rígidas, adesivos e tintas. Com o avanço da tecnologia, novos produtos foram surgindo, como os elastômeros de poliuretano e as espumas flexíveis, além da técnica de moldagem por injeção e reação (RIM – Reaction Injection Moulding), que impulsionou os estudos relacionando estrutura molecular e propriedades dos poliuretanos (VILAR, 2000).
+Poliuretanos são polímeros que compreendem uma cadeia de unidades orgânicas unidas por ligações uretânicas (VILAR, 2000), e as resinas fabricadas com esse material podem ser derivadas tanto de recursos não renováveis, a citar o petróleo, como de recursos renováveis, por exemplo os óleos vegetais, e neste segundo caso tem-se os chamados “biomonômeros”. Estes óleos podem ser extraídos de diversos vegetais, tais como soja, milho, açafroa, girassol, canola, amendoim, oliva etc (PETROVIC, 1999). O poliuretano à base de óleo de mamona, por exemplo, é uma excelente alternativa aos adesivos derivados de petróleo devido à alta compatibilidade com fibras lignocelulósicas: grupos de isocianato do poliuretano podem reagir com grupos de hidroxila das fibras (VIDIL et al., 2016).
+Os primeiros estudos utilizando óleo de mamona como base para o desenvolvimento de resinas poliuretanas surgiram por volta de 1940, com o intuito de produzir tintas e vernizes (VILAR, 2000). O óleo é aplicado na síntese de polióis e prepolímeros, que devem ser misturados a frio para causar a reação e formação do poliuretano, e a partir da concentração de cada componente é possível gerar características diferentes, como
+24
+maior ou menor dureza, bem como a adição de um catalisador para acelerar a reação (JOSÉ e BERALDO, 2006).
+Atualmente, as resinas poliuretanas à base de óleo de mamona podem ser encontradas na forma monocomponente ou bicomponente, sendo que as monocomponentes caracterizam-se por curarem quando entram em contato com o meio ambiente, por evaporação do solvente, enquanto que as bicomponentes curam pela ação de um catalisador (COUTINHO e DELPECH, 1999).
+Além da sua alta versatilidade, os adesivos à base de poliuretano manifestam propriedades físicas e mecânicas superiores em painéis particulados quando comparados aos produtos fabricados com ureia formaldeído (WOODS, 1990; Dias, 2005; SANTOS et al., 2008). Wang & Su (2002) explicam que o desempenho dos painéis particulados está relacionado principalmente às propriedades dos adesivos e sua compatibilidade com partículas ou fibras.
+O óleo de mamona é particularmente interessante porque possui muitas reações químicas resultantes da presença do grupo carboxila no carbono 1, uma ligação dupla no carbono 9 e pela adição de uma hidroxila (OH) no carbono 12, devido à presença de ácido ricinoleico (R – (CH2)7 CH = CH – CH2 – CHOH – (CH2)5 – CH3), que representa mais de 90% dos ácidos graxos presentes em sua estrutura, tornando-o uma espécie de poliol poliéster trifuncional natural, com enorme potencial para ser usado diretamente como matéria-prima alternativa (FARIA et al., 2020).
+Outro fator relevante a ser destacado é a formação da sua cadeia aromática, que confere a este poliol excelente resistência química e maior rigidez em comparação com a cadeia alifática. A compatibilidade química entre a matriz poliuretana e os materiais lignocelulósicos é decorrente da forte interação entre os grupos OH e NCO livres presentes nestes materiais, o que promove a adesão química entre a matriz e a fase dispersa (FARIA et al., 2020).
+Para a avaliação da eficiência dos adesivos Cascophen e o poliuretano à base de óleo de mamona, Jesus (2000) realizou ensaios de cisalhamento na lâmina de cola empregando espécies de madeira de diferentes densidades. Os resultados da resistência ao cisalhamento com o adesivo de mamona apresentaram valores e comportamento superiores aos ensaios com o Cascophen, além da vantagem da possibilidade de processamento em temperatura ambiente e a boa resistência ao intemperismo.
+No estudo de Gatani et al. (2014), os painéis fabricados com poliuretano de mamona apresentaram propriedades superiores de inchamento em espessura em comparação aos painéis com ureia formaldeído. Além disso, em painéis produzidos com a mesma densidade, o uso da resina de mamona proporcionou melhorias no desempenho mecânico em comparação à ureia formaldeído, e o uso de aditivos não promoveu aumento nas propriedades mecânicas dos painéis de casca de amendoim.
+Fiorelli et al. (2012) avaliaram o potencial de uso de fibras de coco na manufatura de painéis particulados, de diferentes densidades, utilizando adesivo poliuretano à base de óleo de mamona e ureia formaldeído, e concluíram que ocorre uma diminuição no inchamento em espessura e aumento no módulo de resistência para os painéis fabricados com o poliuretano de mamona. As imagens obtidas por microscopia eletrônica de varredura (Figura 9) indicam que o poliuretano à base de óleo de mamona ocupa as lacunas entre as partículas, um fator que contribui para o melhor desempenho das propriedades físicas e mecânicas dos painéis.
+ Figura 9. Microscopia eletrônica de varredura do painel de fibra de coco com a) poliuretano de mamona e b) ureia formaldeído (FIORELLI et al., 2012).
+Em contrapartida, Valarelli et al. (2014) afirma que o poliuretano à base de óleo de mamona não atendeu às expectativas de ser mais eficiente do que a tradicional ureia formaldeído para os painéis particulados manufaturados com resíduos de bambu. A avaliação física mostrou que o adesivo tradicional teve melhor desempenho em todas as propriedades, principalmente em relação ao inchamento em espessura e à absorção de água. Nos ensaios mecânicos a ureia formaldeído também obteve melhores resultados, tanto para o módulo de resistência como para o módulo de elasticidade.
+3.4. Fatores relevantes à manufatura de painéis
+Diversos fatores, inerentes à matéria-prima e ao processo de fabricação, devem ser analisados no momento da manufatura dos painéis, pois cada variação proporcionará diferentes características, e estas devem ser manipuladas em acordo com a finalidade do produto.
+3.4.1. Fatores inerentes à matéria-prima
+Os fatores inerentes à matéria-prima, como variabilidade da estrutura anatômica, propriedades físicas e químicas de uma determinada espécie de madeira podem influenciar de forma positiva ou negativa na confecção de produtos colados (POZZER, 2019).
+As várias espécies de madeira podem resultar em matérias-primas distintas em relação à densidade, umidade, acidez e extrativos, além de interagir com as variáveis do processo, refletindo nas características finais das chapas. A grande variabilidade da estrutura interna implica na organização dos tecidos, proporção de ocorrência dos elementos anatômicos, tamanho dos elementos celulares e localização dos componentes no sentido longitudinal do fuste (TSOUMIS, 1991; HILLIG, 2000; IWAKIRI, 2005).
+Silva et al. (2016) estudou a adição de diferentes proporções de casca de mamona e madeira de pinus na manufatura de painéis particulados e observou que o aumento do teor de casca de mamona proporcionou melhorias nas propriedades físicas (Figura 10), devido ao teor de extrativos, à morfologia e à disposição dos elementos anatômicos da casca de mamona. Além disso, a diferença de densidade entre os componentes permitiu
+um aumento na razão de compactação dos painéis com maior teor de casca de mamona, resultando em menor porosidade.
+ Figura 10. a) inchamento em espessura e b) absorção de água de painéis particulados à base de casca de mamona e madeira de pinus (adaptado de SILVA et al., 2016).
+É unanimemente aceito que a densidade afeta a maioria das propriedades físicas e mecânicas dos painéis compósitos de madeira (MALONEY, 1993; SUCHSLAND & WOODSON, 1986; KELLY, 1977). Wang et al. (2000) mostrou que a densidade básica da madeira afeta a relação entre a pressão de prensagem e a resistência do colchão de partículas durante a prensagem a quente, provocando mudanças na distribuição da densidade vertical e, consequentemente, impactando no processo de manufatura do painel e nas suas propriedades físico-mecânicas.
+Shi et al. (2005) estudaram as propriedades de resistência e estabilidade dimensional de painéis de fibra de média densidade (MDF). Os resultados (Figura 11) indicam que a densidade do painel afeta o módulo de ruptura e o módulo de elasticidade, afirmação também sustentada pela pesquisa de Cai et al. (2006). De acordo com Kelly (1977), essas propriedades podem também ser afetadas por outras variáveis de processo, como teor de resina, taxa de compressão, tamanho das partículas e composição dos painéis.
+ Figura 11. Relação entre densidade e as propriedades MOR (esquerda) e MOE (direita) para painéis fabricados com madeira de diferentes idades (adaptado de SHI et al., 2005).
+
+Além de afetar as propriedades físicas e mecânicas, a densidade também afeta as propriedades higroscópicas e acústicas, a condutividade térmica e a permeabilidade devido ao número e tamanho de vazios (KOLLMANN & CÔTÉ, 1968; STRITESKY & TIMUSK, 2005).
+A respeito da propriedade resistência ao arrancamento, Sackey et al. (2005) e Semple et al. (2005) afirmam que tanto a resistência das faces quanto das bordas são fortemente correlacionadas à adesão interna. A superfície normalmente tende a apresentar valores superiores de resistência em relação ao topo devido ao fato do parafuso fixado no topo localizar-se exclusivamente na camada central do painel, onde geralmente ocorre a menor densificação (VALLE, 2018).
+Wang & Knudson (2002) avaliaram a capacidade de retenção de pregos, parafusos e grampos em painéis OSB de várias fábricas e afirmam que boa parte da variação entre estes ocorre principalmente devido à densidade. Wang et al. (2007) também sustentam esta afirmação, pois os resultados encontrados em sua pesquisa (Figura 12) mostram influência significativa da densidade sobre a capacidade de retenção da maioria dos fixadores para OSB e particulados.
+Figura 12. Resistência ao arrancamento de parafuso de painéis OSB em relação à densidade média (adaptado de WANG et al., 2007).
+3.4.2. Fatores inerentes ao processo
+Com relação aos fatores inerentes ao processo, são citados: geometria das partículas, razão de compactação, teor e tipo de resina, aditivos, distribuição de umidade, tempo, temperatura e pressão de prensagem (KELLY, 1977; CALEGARI et al., 2005; MENDES et al., 2006; SILVA et al., 2006).
+A geometria da partícula é definida como a forma e o tamanho das matérias-primas (MOSLEMI, 1974; FRYBORT et al., 2008), e a sua variação pode afetar propriedades como adesão interna e resistência de painéis particulados. Além disso, considera-se que a geometria da partícula exerce maior influência sobre as propriedades do produto final do que as próprias propriedades mecânicas das fibras constituintes (SUCHSLAND & WOODSON, 1990).
+28
+Índice de esbeltez, razão de planicidade e área superficial específica são características importantes das partículas e estão diretamente relacionadas com a geometria. Suas dimensões são determinadas com base no comprimento, largura e espessura das partículas (IWAKIRI, 1989). A relação entre o comprimento e a espessura das partículas, chamada de índice de esbeltez, exerce influência sobre a área de contato entre as partículas, as propriedades mecânicas e o consumo de resina. Já a razão de planicidade está ligada ao volume relativo de ar do colchão, e a área superficial específica se relaciona com o consumo de resina (ALBERTO, 1992; NISHIMURA et al., 2004).
+As partículas também podem ser definidas pela relação entre o lado mais longo e o lado mais curto, ou o comprimento e a largura da fibra/partícula, denominada de razão de aspecto (NISHIMURA et al., 2004). Contudo, a medição de comprimento e largura das fibras e partículas é mais confiável e fácil de ser realizada em comparação à medição de espessura (WANG & SU, 2002). Dessa forma, tanto a razão de aspecto como o índice de esbeltez são frequentemente utilizados em conjunto para descrever a flexibilidade de uma partícula (JULIANA et al., 2012).
+Segundo Moslemi (1974), partículas longas e finas produzem chapas com maior resistência à flexão estática e estabilidade dimensional, enquanto que as mais curtas e espessas produzem chapas com maior ligação interna e menos estabilidade. Maloney (1993) completa o raciocínio, afirmando que partículas com dimensões menores requerem maior consumo relativo de resina devido a maior área superficial. No estudo de Farrokhpayam (2016), os produtos manufaturados com partículas de tamanho médio e pequeno manifestaram o valor máximo e mínimo de MOE e MOR, respectivamente. Ainda, o inchamento em espessura diminuiu em acordo com a redução do tamanho das partículas, ao contrário da absorção de água, que aumentou (Figura 13).
+Figura 13. Influência da geometria das partículas sobre as propriedades a) MOE e MOR, b) adesão interna, c) inchamento em espessura e d) absorção de água (adaptado de FARROKHPAYAM, 2016).
+ 
+Segundo Gatani (2014), partículas finas favorecem a distribuição da resina, proporcionando aos produtos melhorias nas propriedades absorção de água, inchamento em espessura, módulo de resistência e módulo de elasticidade. Já as partículas maiores causam o efeito reverso, diminuindo o desempenho das propriedades mecânicas dos compostos.
+A respeito da razão de compactação, esta é definida pela relação entre a massa específica do painel e da matéria-prima (IWAKIRI, 2005). As espécies de até 0,55 g/cm3 são as mais adequadas à produção de painéis de partículas por atingirem uma razão de compactação entre 1,3 e 1,6, considerada a faixa ideal para o processo de densificação e consolidação do painel até a espessura final (MALONEY, 1993).
+A utilização de espécies de baixa massa específica na manufatura de painéis particulados promovem o aumento na maioria das propriedades mecânicas, e uma pequena influência é observada nos valores de resistência ao arrancamento de parafuso, absorção de água e inchamento em espessura (MOSLEMI, 1974). Já os painéis manufaturados com partículas mais densas resultam em maior resistência mecânica, porém com estabilidade dimensional reduzida e baixa razão de compactação. Nessa ocasião, os efeitos indesejáveis podem ser amenizados a partir de alterações em outras variáveis de processo, como o aumento do teor de resina (MENDES, 2001).
+O adesivo é o componente de maior custo de produção, portanto a quantidade a ser aplicada deve ser otimizada em função das propriedades requeridas para a finalidade de uso a que se destina o painel. Alguns produtos são utilizados associados à resina para confecção dos painéis com o intuito de promover melhorias nas suas propriedades, a exemplo citam-se parafina, catalisadores, retardantes, preservantes entre outros (IWAKIRI, 2005). Dependendo da característica dos adesivos, a classificação pode ser realizada considerando a origem das matérias-primas, temperatura de cura, resistência à umidade, composição química entre outras (HELLMEISTER, 2017).
+A prensagem é uma etapa essencial na confecção de chapas de madeira, uma vez que determina diversas características finais do produto. A principal função da pressão é a densificação e consolidação do colchão, através de um maior contato entre as partículas até a espessura final das chapas (KELLY, 1977). O tempo dessa etapa é contabilizado a partir do momento em que os pratos tocam a superfície do colchão de partículas. A temperatura tem a função de processar a polimerização, cura da resina e plasticização da madeira, facilitando a consolidação do colchão (IWAKIRI, 2005).
+3.5. Propriedades químicas
+Os componentes químicos da madeira podem ser compreendidos em dois grandes grupos: alta massa molecular, como celulose, hemicelulose e lignina, e baixa massa molecular, que são os extrativos e as cinzas (BALLONI, 2009). Estes constituintes estão presentes na madeira nas seguintes proporções: celulose – 40 a 45%; hemicelulose – 15 a 35% em folhosas e 20 a 30% em coníferas; lignina – 18 a 25% em folhosas e 25 a 35% em coníferas; extrativos – 3 a 8%; e cinzas – 0,4% (BIANCHE, 2009).
+Os extrativos são constituídos de materiais orgânicos, tais como óleos, gorduras, taninos, carboidratos, ácidos, gomas, graxas e resinas (CRUZ et al., 2006). Os principais efeitos causados por estes elementos se referem ao aumento da durabilidade, coloração e também ao processo de colagem da madeira (LIMA, 2007). Como a maioria dos adesivos utiliza água como carregador, pode ser que estes não tenham boa molhabilidade e
+30
+não penetrem devidamente na superfície devido à hidrofobicidade dos exsudados resinosos e oleosos presentes na madeira (FOREST PRODUCTS LABORATORY – FPL, 2010).
+Se o teor de extrativos totais nos materiais lignocelulósicos forem elevados, há uma grande probabilidade de redução da qualidade das chapas, devido aos problemas de aumento no consumo de adesivos, redução das propriedades de resistência mecânica e da absorção de água. Além disso, os extrativos podem ser volatilizados na prensagem a quente, em função da alta pressão, calor e umidade e podem provocar “bolhas”, diminuindo a adesão interna (BRITO, 2018).
+O teor de cinzas do material não afeta diretamente o desempenho da adesão interna, no entanto, materiais como a sílica podem causar desgaste excessivo da serra durante a obtenção das amostras. Outra questão importante é a quantidade de lignina. Ela é responsável por fornecer resistência mecânica e biológica, e possui propriedades hidrofóbicas necessárias para o funcionamento da célula condutora de água (SILVA et al., 2016).
+O teor de extrativos de materiais lignocelulósicos pode ser calculado segundo à metodologia descrita pela norma NBR 14853 (ABNT, 2010). A determinação da quantidade de material não volátil solúvel em solvente pode ser efetuada a partir de três solventes diferentes: mistura de etanol tolueno, diclorometano e acetona. O conteúdo de material solúvel em diclorometano é uma medida de substâncias como ceras, elementos graxos, resinas, esteróis e hidrocarbonetos não voláteis; e o etanol tolueno é aplicado para extrair outros componentes insolúveis em diclorometano, tais como carboidratos de baixa massa molecular, sais, polifenóis e outras substâncias solúveis em água. Nenhum solvente, isoladamente, é capaz de remover todas estas substâncias, e diferentes solventes removem diferentes combinações dos componentes.
+A quantidade de cinzas presente em um determinado material lignocelulósico pode ser avaliada a partir do método proposto pela NBR 13999 (ABNT, 2017). Este propõe a utilização de um cadinho resistente ao calor, onde será despejado o material em análise, e incinerado em uma mufla a (525 ± 25) C°. A partir de uma segunda porção do mesmo material em estudo, o teor de umidade também será averiguado. Assim, a porcentagem de cinza será determinada, com base na massa livre de umidade, pela relação entre a massa do resíduo após incineração e o teor de umidade da amostra.
+A Norma NBR 7989 (ABNT, 2010) especifica um método para a determinação do teor de lignina insolúvel em ácido que pode ser aplicada a madeira e outros materiais lignocelulósicos e a todos os tipos de pastas celulósicas não branqueadas. A metodologia não se aplica à pasta celulósica branqueada com baixo teor de lignina. Para pasta semibranqueada, o teor de lignina não deve ser inferior a 1%, de modo a se obter uma quantidade suficiente de lignina (cerca de 20 mg), garantindo pesagens exatas. Parte da lignina pode não ser insolúvel em ácido e, portanto, não será incluída no resultado do ensaio. Para madeira de folhosa, outros materiais lignocelulósicos e processo sulfito, o teor de lignina solúvel é cerca de 3 a 5%. Para pasta semibranqueada, o teor de lignina pode chegar à metade ou mais do teor de lignina total.
+3.6. Propriedades físicas
+As principais propriedades físicas avaliadas em painéis à base de madeira são: densidade, inchamento em espessura e absorção de água.
+
+A densidade é a característica representada pelo quociente da relação entre a massa e o volume de um corpo, a determinado teor de umidade. É uma propriedade utilizada em análises de rotina em laboratórios e indústrias por afetar outras propriedades físicas e mecânicas, além de estar relacionada com alguns parâmetros de processo, como pressão, temperatura e tempo de prensagem, tipo de adesivo, e a geometria das partículas de madeira (KELLY, 1977; MALONEY, 1993; NEMLI & DEMIREL, 2007).
+O inchamento em espessura é a variação percentual de aumento em espessura que um corpo de prova de um painel apresenta após ficar imerso pelo tempo de 2 h ± 3 min e/ou 24 h ± 3 min em água à temperatura de 20 ± 3 °C. Já a absorção de água é considerada o aumento da massa em água que um corpo de prova de uma chapa de madeira apresenta, após ser imerso em água a 20 ± 3°C pelo tempo de 2 h ± 3 min e/ou 24 h ± 3 min (ABNT, 2013).
+3.7. Propriedades mecânicas
+A avaliação da agregação interna das partículas e da eficiência de colagem ocorre por meio do ensaio de adesão interna (MATOS, 1988). Neste ensaio, uma amostra é testada em tração perpendicular, e a ruptura normalmente ocorre na porção média da sua espessura, que corresponde a região de menor densidade e ligação entre partículas (IWAKIRI, 1989). De acordo com a norma NBR 14810 (2013), a resistência à tração perpendicular é a resistência que um corpo de prova de um painel oferece quando este é submetido a uma força aplicada perpendicularmente em seu centro (na superfície) até a ruptura.
+A medida da resistência oferecida pela madeira aos esforços de flexão é a definição da propriedade módulo de ruptura (MOR), e os valores obtidos são utilizados para obtenção de tensões admissíveis para diversas formas de utilização da madeira, inclusive a aplicabilidade das chapas de partículas para uso estrutural (IWAKIRI, 1989; MATOS, 1997).
+A constante elástica que expressa a rigidez do painel quando submetido à aplicação de força durante o regime elástico, não havendo alteração das suas características originais, é chamada de módulo de elasticidade (MOE) (ABNT, 2013). A elasticidade implica que as deformações produzidas abaixo do limite proporcional são completamente recuperáveis após a remoção de carga e quando esse limite é ultrapassado ocorre a deformação plástica. Normalmente, a curva tensão-deformação para os compósitos à base de madeira é linear abaixo do limite proporcional (CAI e ROSS, 2010).
+Por fim, tem-se a resistência ao arrancamento de parafuso, definida por Cai & Ross (2010) como a resistência máxima que uma amostra de painel de madeira oferece ao se retirar um parafuso, colocado na superfície ou topo, quando submetido a uma força de tração.
+32
+
+4. MATERIAIS
+4.1. Casca de mamona
+A casca de mamona é um resíduo produzido em grande quantidade pela indústria do óleo de rícino, e o fato de ainda não haver um destino apropriado foi determinante para a escolha deste recurso como objeto de estudo da atual pesquisa. Outra questão a ser citada é a celulose e a lignina presente como principais componentes químicos, o que indica potencial de aplicação na manufatura de painéis particulados. Os racemos de mamona foram obtidos a partir de plantas melhoradas geneticamente (Figura 14a), localizadas na UNESP de Botucatu, e plantas selvagens (Figura 14b) localizadas na Escola Superior de Agricultura “Luiz de Queiroz”.
+Figura 14. Plantas de mamona a) melhorada geneticamente e b) selvagem.
+As mamonas modificadas são utilizadas na indústria por conta do rendimento de óleo superior, facilidade de colheita, entre outros. Desta forma, os resíduos disponíveis em maior quantidade são referentes à mamona modificada. Sendo assim, os resíduos da mamona modificada foram atribuídos como matéria-prima principal do estudo. E para efeito de comparação, foi também utilizada a mamona sem modificações, comumente encontrada em algumas regiões de nossas cidades, denominada no estudo de “mamona selvagem”.
+4.2. Poliuretano à base de óleo de mamona
+Associado ao fato de existir uma tendência global em direção aos produtos que respeitam o meio ambiente, o uso de poliuretano à base de óleo de mamona vem se mostrando uma ótima opção para a colagem de painéis devido à alta compatibilidade com fibras lignocelulósicas e à redução do grau de toxicidade, além da diminuição do consumo de resinas derivadas de petróleo. Desta forma, será utilizada a resina poliuretana de mamona IMPERVEG AGT 1315 (Figura 15), cedida pela empresa Imperveg®, localizada em Aguaí/SP, Brasil.
+34
+ Figura 15. Resina poliuretana à base de óleo de mamona IMPERVEG AGT 1315.
+A IMPERVEG AGT 1315 é uma resina à base de poliuretano vegetal (originado do óleo de mamona), bicomponente, 100% sólido (isento de solventes) não liberando vapores tóxicos, formulado pela mistura a frio de um prepolímero (componente A) e um poliol (componente B) que devem ser misturados na proporção de 1:1,5 (uma parte do componente A + uma parte e meia do componente B, em volume respectivamente), de acordo com as recomendações do fabricante. Após a mistura, o tempo de trabalho (pot life) gira em torno de 15 minutos, 6 horas para desmoldagem e cura completa após 24 horas.
+
+5. METODOLOGIAS
+5.1. Método aplicado às partículas 5.1.1. Coleta e preparo
+As plantas de mamona melhorada geneticamente possuem altura reduzida, racemos de maior comprimento, e os frutos, ao atingirem a maturidade, não estouram normalmente como nas plantas selvagens. Assim, os racemos de mamona melhorada geneticamente já maduros foram coletados manualmente e processados em um descascador (Figura 16) para a abertura dos frutos, e a separação das cascas e sementes. Após o processo, as cascas foram reservadas à temperatura de 20°C e 65% de umidade relativa do ar.
+Figura 16. Descascador de mamona.
+Já os racemos de mamona selvagem (Figura 17a) foram coletados próximos à maturidade e inseridos em uma estufa com renovação e circulação de ar modelo MA 037 (Figura 17b) na temperatura de 40 °C, conforme Cerchiari (2013). Após a secagem dos racemos, o que dura em torno de 2 a 3 dias, dependendo do estado dos frutos, impurezas como talos, folhas, frutos não abertos, sementes, insetos foram retiradas etc. Por fim, as cascas foram acondicionadas à temperatura de 20°C e 65% de umidade relativa do ar.
+36
+ Figura 17. a) Racemos de mamona selvagem e b) estufa com renovação de ar MA037.
+5.1.2. Caracterização
+Inicialmente, as cascas de mamona passaram pela peneira granulométrica (Figura 18) para a separação de partículas menores. Para a análise das partículas e produção dos painéis neste trabalho é interessante que as cascas estejam inteiras, na sua forma integral.
+Figura 18. Peneira granulométrica.
+O experimento 1, composto por 12 grupos (I1, I2, I3, ..., I12), teve como objetivo aferir os valores de volume, massa e dimensões das cascas de mamona melhorada geneticamente (I1, I2, I3, ..., I6) e selvagem (I7, I8, I9, ..., I12) utilizando as ferramentas proveta, balança analítica e paquímetro digital, respectivamente, repetindo-se dez vezes o procedimento para a obtenção do valor médio. Cada grupo tinha 180 gramas de cascas de mamona, e a aquisição das dimensões foi feita em 10 unidades de cascas por grupo. Para obtenção do volume foi utilizado 30 gramas de cascas de mamona como base.
+ 
+Figura 19. Proveta e balança analítica.
+O experimento 2, composto por 12 grupos (P1, P2, P3, ..., P12), foi avaliado da mesma forma descrita acima, porém com a adição de uma etapa na prensa hidráulica (Figura 20), variando a carga de 0,5 até 3,0 MPa, possibilitando, assim, uma previsão do comportamento das partículas em função da pressão de prensagem. Nesta etapa de caracterização foi utilizado um molde com dimensões reduzidas (200 × 100 × 100 mm) para otimizar o uso de matéria-prima.
+Figura 20. Prensa hidráulica e anel dinamômetro.
+O fluxograma da metodologia aplicada no preparo e caracterização das partículas é apresentado na
+figura 21.
+38
+ Figura 21. Fluxograma da metodologia aplicada às cascas de mamona.
+5.1.3. Ensaio químico
+As propriedades químicas da casca de mamona foram determinadas a partir do teor de extrativos totais, em acordo com a norma TAPPI T 204 cm-97 (TAPPI, 1999), lignina insolúvel, seguindo a TAPPI T 222 (TAPPI, 2011), e lignina solúvel, pelo método descrito por Goldschmidt (1971). Já a holocelulose é determinada por diferença dos outros constituintes, conforme a equação 1.
+holocelulose = 100%−(teor de extrativos + teores de lignina solúvel e insolúvel) (1) 5.2. Método aplicado aos painéis
+5.2.1. Estudo experimental
+Um estudo experimental, denominado experimento 3, foi realizado para determinar um valor aproximado do ideal de resina poliuretana de mamona para a manufatura de painéis de casca de mamona, apenas com as selvagens. Os parâmetros empregados foram: quantidade de cascas (350, 450 e 550 g) e teor de resina (10, 20 e 30% da massa de partículas), totalizando 09 painéis. A produção foi efetuada em um molde (300 × 300) com limitador de espessura (15 mm) envolvidos com fita antiaderente. A prensagem teve duração de 24 horas, à temperatura ambiente.
+
+As inspeções visuais e táteis detectaram, para os painéis de 10%, partículas desprendidas e sem resina na superfície, resultando em uma peça com alta sensibilidade ao toque, baixa rigidez e resistência. A figura 22 mostra os defeitos gerados na desmoldagem e corte dos painéis.
+Figura 22. Defeitos dos corpos de prova de painéis fabricados com 10% de resina.
+Os painéis com 20% de adesivo apresentaram maior quantidade de partículas preenchidas com resina e grande redução dos efeitos de desprendimento, resultando em painéis menos sensíveis, mais resistentes e rígidos. A figura 23 apresenta alguns defeitos encontrados nos corpos de prova.
+Figura 23. Defeitos dos corpos de prova de painéis fabricados com 20% de resina.
+Já os painéis de 30% mostraram alta robustez, em comparação aos demais, preenchimento completo de resina nas partículas e ausência de desprendimento. A figura 24 mostra os defeitos presentes nos corpos de prova retirados dos painéis fabricados com 30% de resina.
+Figura 24. Defeitos dos corpos de prova de painéis fabricados com 30% de resina.
+Os painéis fabricados com 30% de resina de mamona apresentaram nitidamente melhores resultados visuais e táteis, seguido dos painéis de 20%, e por último os de 10%. Contudo, notou-se uma grande quantidade
+40
+de resina acumulada na superfície inferior das peças manufaturadas com 30%, indicando um desequilíbrio entre a proporção de casca de mamona selvagem e resina aplicada no painel.
+Após a determinação da quantidade de resina para as cascas selvagens, foi realizado o procedimento para alcançar valores ideias de pressão de prensagem para as mamonas modificadas, denominado experimento 4. Os parâmetros empregados foram: quantidade de cascas (220 e 440 g) e pressão de prensagem (0,1, 0,2, 0,5 e 0,8 MPa), totalizando 08 painéis, sendo o teor de resina fixo em 15% de massa de cascas. A produção foi efetuada em um molde (300 × 300) envolvido com fita antiaderente. A prensagem teve duração de 24 horas, à temperatura ambiente.
+As inspeções visuais e táteis detectaram, para os painéis fabricados com 0,1 e 0,2 MPa, alta porosidade, partículas desprendidas e baixa superfície de contato, resultando em uma peça com sensibilidade ao manuseio, e baixa rigidez e resistência, independente da quantidade de cascas. Os painéis fabricados com 0,5 e 0,8 MPa de pressão apresentaram características satisfatórias para o prosseguimento da pesquisa, contudo, a quantidade de 220 g de cascas não proveu a espessura necessária para futuros testes mecânicos, como o ensaio de arrancamento de parafuso.
+5.2.2. Parâmetros de processo
+As características finais entregues pelas peças fabricadas no experimento 4 foram consideradas suficientes para determinar a quantidade de cascas e pressão de prensagem para o experimento 5, que por sua vez, teve como objetivo analisar a influência do teor de resina (10, 15 e 20% da massa de partículas) sobre as propriedades de painéis fabricados com casca de mamona melhorada geneticamente. A quantidade de cascas e pressão de prensagem foram fixados em 440 g e 0,5 MPa, respectivamente, em acordo com o experimento anterior. No total foram produzidas 09 painéis para esta fase. O tratamento com o melhor desempenho foi direcionado para o experimento 6.
+O experimento 6 foi realizado com o objetivo de avaliar os efeitos da pressão de prensagem (1,0 e 1,5 MPa aproximadamente) sobre as propriedades de painéis fabricados com casca de mamona melhorada geneticamente. A escolha desses valores se deve à baixa densidade da casca de mamona (247 kg.m-3), como foi apontado pelo estudo de Silva et al. (2016). Partículas de baixa massa específica possuem maior capacidade para densificação, proporcionando, assim, painéis com melhores propriedades mecânicas (MOSLEMI, 1974). No total foram produzidos 06 painéis para esta etapa.
+Após avaliação do parâmetro pressão de prensagem, o experimento 7, responsável pela análise da influência da espécie de mamona sobre as propriedades dos painéis, foi executado. Nesta etapa foram fabricados 06 painéis à base de casca de mamona selvagem utilizando os parâmetros dos experimentos anteriores com melhor desempenho.
+5.2.3. Manufatura e avaliação dos painéis
+Após o preparo, classificação e aclimatação das partículas, estas foram transferidas para um recipiente e misturadas manualmente com a resina poliuretana à base de óleo de mamona, confeccionada em acordo com as
+
+recomendações do fabricante, para homogeneização do compósito. Em seguida, a mistura foi transferida para um molde (Figura 25) medindo (330 x 330 x 100) mm, determinado especificamente para a posterior aquisição de corpos de prova seguindo as normas técnicas utilizadas no estudo. Para facilitar a desmoldagem da peça após cura completa, o molde foi envolvido com fita antiaderente.
+ Figura 25. Desenho e dimensões do molde.
+O conjunto foi submetido a uma pressão em prensa hidráulica, por 24 h à temperatura ambiente, para manter o formato, pressão, compactação e cura desejados. Durante a manufatura de painéis é comum que haja a formação de defeitos nas extremidades das peças, portanto estas são descartadas. Após um desbaste de aproximadamente 3 cm em cada lado, os painéis foram acondicionados em ambiente controlado com temperatura de 20°C e umidade relativa de 65%. A Figura 26 apresenta o fluxograma da metodologia aplicada.
+Figura 26. Fluxograma da metodologia aplicada aos painéis.
+A figura 27 mostra os painéis particulados fabricados com casca de mamona e poliuretano à base de óleo de mamona, e algumas variações.
+ Figura 27. Painéis fabricados com casca de mamona e poliuretano à base de óleo de mamona, e variações.
+5.2.4. Ensaio de densidade
+A densidade, definida pela relação entre massa e volume, foi avaliada a partir de 03 corpos de prova (50 × 50 mm) extraídos de cada painel. A espessura foi aferida no ponto de intersecção das diagonais fazendo uso de um micrômetro e as demais medidas feitas com o auxílio de um paquímetro. Já a massa dos corpos de prova foi avaliada em uma balança analítica com resolução de 0,01 g. A equação 2 foi utilizada para determinar os valores de densidade. O procedimento seguiu as instruções da norma NBR 14810 (ABNT, 2018).
+D= MV ×1 000 000 (2)
+Onde:
+D = densidade do corpo de prova (kg.m-3); M = massa do corpo de prova (g);
+V = volume do corpo de prova (mm3).
+5.2.5. Ensaio de inchamento em espessura e absorção de água
+Para a avaliação das propriedades inchamento em espessura (TS) e absorção de água (WA) 03 corpos de prova, medindo (50 × 50) mm, foram extraídos de cada painel. A espessura foi medida no ponto de interseção das diagonais de cada corpo de prova, e a massa aferida com o auxílio de uma balança analítica. Um recipiente deve ser preenchido com água deionizada à temperatura de 20 °C, e os corpos de prova submergidos por 24 h ± 36 min, de modo que o nível da água esteja cerca de 25 mm acima da superfície.
+Após o término do ensaio, os corpos de prova foram retirados do recipiente, o excesso de água removido com papel absorvente, e a aferição das medidas de espessura e massa realizadas imediatamente. O procedimento seguiu as instruções da norma NBR 14810 (ABNT, 2018). A equação 3, utilizada para o cálculo do
+
+inchamento em espessura, pode ser aplicada para a aquisição da absorção de água a partir da substituição da espessura inicial e final pelos valores de massa dos corpos de prova.
+TS= E1−E0 ×100 (3) E0
+Onde:
+TS = inchamento em espessura do corpo de prova (%); E1 = espessura final do corpo de prova (mm);
+E2 = espessura inicial do corpo de prova (mm).
+5.2.6. Ensaio de tração perpendicular
+O ensaio de tração perpendicular, utilizado para determinar a propriedade adesão interna (IB), foi realizado com o intuito de avaliar a eficiência do adesivo na coesão entre as partículas, seguindo a NBR 14810 (ABNT, 2018). 03 corpos de prova, medindo (50 × 50) mm, foram extraídos de cada painel e colados em peças de madeira sólida, conforme a figura 28, para fixação na máquina universal. A adesão interna pode ser calculada seguindo a equação 4.
+IB= PS (4)
+Onde:
+IB = adesão interna (MPa);
+P = carga de ruptura (N);
+S = área da superfície do corpo de prova (mm2).
+Figura 28. Corpo de prova entre as peças de madeira sólida (ABNT, 2018).
+A figura 29 mostra o corpo de prova após o rompimento no ensaio de adesão interna.
+44
+ Figura 29. Corpo de prova após rompimento no ensaio de adesão interna.
+5.2.7. Ensaio de flexão estática
+O módulo de ruptura (MOR) e o módulo de elasticidade (MOE) foram determinados em acordo com a metodologia descrita pela norma NBR 14810 (ABNT, 2018). 03 corpos de prova retangulares, medindo aproximadamente 270 × 50 mm foram extraídos de cada painel manufaturado. A espessura dos corpos de prova foi aferida na intersecção das diagonais com o auxílio de um paquímetro. Os extremos do corpo de prova foram colocados sobre os dois apoios da máquina universal de ensaios (Figura 30), com um comprimento de vão fixado em 240 mm, de modo que o dispositivo para aplicar a carga coincida com o centro do corpo de prova. As propriedades MOR e MOE foram calculadas utilizando as equações 5 e 6, respectivamente.
+MOR=1,5×(P×D) B×(E)2
+Onde:
+MOR = módulo de resistência à flexão estática (MPa);
+P = carga de ruptura (N);
+D = distância entre os apoios dos aparelhos (mm);
+B = largura do corpo de prova (mm);
+E = espessura média tomada em três pontos dos corpos de prova (mm).
+(5)
+ P1×D3
+MOE= d × 4 × B × E3 (6)
+Onde:
+MOE = módulo de elasticidade na flexão estática (MPa); P1 = carga máxima no limite proporcional (N);
+D = distância entre os apoios do aparelho (mm);
+ 
+d = deflexão correspondente à carga P1 (mm); B = largura do corpo de prova (mm);
+E = espessura do corpo de prova (mm).
+Figura 30. Esquema do ensaio de flexão estática em 3 pontos (ABNT, 2018).
+A figura 31 mostra o corpo de prova do ensaio de flexão estática acoplado na máquina de ensaios
+mecânicos.
+Para o ensaio de arrancamento de parafuso (AP) serão utilizados 06 corpos de prova, medindo (50 × 50) mm, sendo 03 corpos de prova, por tratamento, para o ensaio de arranque na superfície (Figura 32a) e 03 para o ensaio de arranque no topo (Figura 32b). As análises seguiram a norma NBR 14810 (ABNT, 2018) em razão à similaridade do produto manufaturado.
+  Figura 31. Ensaio de flexão estática.
+5.2.8. Ensaio de arrancamento de parafuso
+         Figura 32. Esquema do ensaio para arranque de a) superfície e de b) topo (ABNT, 2018).
+A figura 33 mostra o corpo de prova de arrancamento de parafuso acoplado na máquina de ensaios
+mecânicos.
+A estatística descritiva será utilizada para expor detalhes de cada parâmetro avaliado em ambos os experimentos. Além disso, as hipóteses de distribuição normal e de homocedasticidade dos dados serão verificados a partir dos testes Shapiro-Wilk e Bartlett, respectivamente. Se estas forem atendidas, a análise de variância (ANOVA) será aplicada nos resultados dos tratamentos, e na presença de diferenças estatísticas, o teste Tukey deve ser conduzido. Todos os testes propostos serão efetuados à nível de significância de 0,05. O software live R será empregado.
+ 5.2.9. Análise de dados
+Figura 33. Ensaio de arrancamento de parafuso.
+
+6. RESULTADOS E DISCUSSÃO
+6.1. Análise das cascas de mamona
+Nesta etapa as cascas de mamona foram analisadas em acordo com as grandezas como massa, volume e densidade, e dimensões como comprimento, largura e espessura, além do seu comportamento em função da pressão de prensagem. A figura 34 mostra a influência da pressão de prensagem sobre a altura do colchão de cascas de mamona melhorada geneticamente.
+Figura 34 Altura do colchão de cascas com barras de erro padrão.
+Nos momentos iniciais do processo de prensagem, a pressão afeta rapidamente a altura do colchão de cascas. O intervalo de 0,0 até 0,5 MPa é onde acontece a maior mudança na altura do colchão, decaindo de 1,65 (posição zero) para 0,54 cm, aproximadamente 1/3 do valor inicial. Após alcançar 1,0 MPa, a eficiência de compactação é prejudicada pelo aumento de densidade do colchão, e a sua altura nesta posição é de 0,30 cm, aproximadamente 1/2 do valor anterior.
+Os próximos pontos de pressão seguem um padrão de eficiência de compactação, e permanecem agindo na redução da altura do colchão na proporção de 1,5 a 2,0x a cada 0,5 MPa aplicados. A única diferença apresentada foi no ponto de zero pressão até o primeiro valor, onde a proporção de compactação foi de 3,0x. E assim, acredita-se que progressivamente o efeito da pressão sobre a altura se tornará menor devido à densidade alcançada pelo colchão.
+A partir da figura 35 é possível observar o gráfico que relaciona a pressão de prensagem e o volume das cascas de mamona melhorada geneticamente e a selvagem.
+48
+ Figura 35. Volume de cascas com barras de erro padrão.
+Pelos pontos iniciais no eixo Y (0,0 MPa) do gráfico apresentado na figura 34 percebe-se a diferença de volume inicial entre as cascas melhorada (300,5 cm3) e selvagem (196,0 cm3). No entanto, a reação dos materiais é semelhante diante da pressão aplicada, desde o ponto 0,0 até 3,0 MPa. Ainda assim, as cascas apresentam diferenças geométricas perceptíveis, como pode ser observado na figura 36.
+Figura 36. Dimensão das cascas integrais com barras de erro padrão.
+Tanto o comprimento quanto a largura das cascas melhoradas geneticamente possuem valores superiores aos apresentados pela selvagem. No entanto, a maior diferença está na espessura, onde a selvagem chega a aproximadamente 1 cm, enquanto a melhorada permanece em 0,3 cm. Já a altura das cascas não apresentou diferenças significativas.
+O melhoramento genético realizado na mamona tem como objetivo o aumento no rendimento de óleo, e um dos efeitos colaterais é o aumento das dimensões de suas sementes. Consequentemente, como mostrado na figura 35, o comprimento, largura e espessura de suas cascas também são afetados.
+ 
+Os resultados do efeito da pressão de prensagem sobre as dimensões das cascas são apresentados na figura 37.
+Figura 37. Efeito da pressão de prensagem sobre o a) comprimento, b) largura, c) espessura e d) altura das cascas de mamona com barras de erro padrão.
+A mamona melhorada apresenta uma tendência de subida em seu comprimento até a pressão de 1.5 MPa, chegando a aumentar até 2 mm. Após esse momento, uma queda acontece e o material tende a repetir a mesma subida e descida ocorrida no nível de pressão anterior. Pode-se dizer que o material não resista certo nível de pressão e venha a se romper, criando um padrão como o apresentado na figura 36a.
+A casca selvagem apresenta tendência de subida em seu comprimento nos momentos iniciais até 0,5 MPa, no entanto esta não resiste e logo perde o desempenho, caindo para os 14 mm. O aumento de pressão causou a repetição do comportamento de subida e descida no gráfico 36a, igualmente ao caso passado, indicando rompimento das partículas. Por ser mais espessa, aproximadamente 3x à melhorada geneticamente, a casca selvagem torna-se bastante rígida e quebradiça, cedendo aos esforços aplicados nos ensaios mecânicos.
+O efeito da pressão de prensagem sobre a largura das cascas de mamona é apresentado na figura 36b. A casca melhorada tem a sua largura reduzida, possivelmente pela compressão de suas bordas, até o ponto 0,5 MPa. Como o seu formato se assemelha a uma concha ou uma canoa, a borda da casca pode movimentar-se para dentro da concavidade de acordo com o seu posicionamento no colchão de partículas após a aplicação de pressão. Em seguida, a tendência é de subida, até o ponto 1,5 MPa, com uma pequena queda em 2,0, finalizando seu comportamento com largura máxima no ponto 3,0 MPa. Entende-se que exista uma zona de estabilização da casca até o ponto 2,0. Após essa etapa, a tendência do material é de expandir sua largura em acordo com a pressão aplicada, devido à flexibilidade do material.
+50
+Com relação ao comportamento da largura da casca selvagem, seu primeiro contato com a pressão eleva suas dimensões até o ponto 0,5 MPa, porém no restante do processo sua tendência é de queda, provavelmente devido à sua natureza mais densa e quebradiça.
+Já a espessura das cascas mantiveram-se praticamente inalteradas durante todo o processo, como mostra a figura 36c. Tudo indica que o intervalo de pressão de prensagem utilizado no estudo não foi suficiente para alterar esta característica em específico do material.
+A dimensão altura sofreu bastante alteração, pois a direção da pressão aplicada age diretamente nesta grandeza. Primeiramente, a casca selvagem, por ser mais rígida, demonstra um comportamento discreto, decrescendo gradativamente, e nos pontos de maior pressão, 2,5 e 3,0 MPa é onde percebe-se a maior mudança na sua estrutura. Em contraste, a casca melhorada, pela maior flexibilidade, mostra uma grande queda na altura a partir do primeiro contato com a pressão, do ponto 0,0 até 0,5 MPa.
+Apesar das diferenças geométricas entre os materiais estudados, o aprimoramento genético aplicado na planta não causou mudanças nos componentes químicos da casca, como mostra a tabela 2.
+Tabela 2. Componentes químicos das cascas de mamona, outras madeiras e resíduos agroindustriais.
+ Material usado Casca modificada
+Casca selvagem Pinus Eucalipto Sabugo de milho
+Fibra de bambu Casca de arroz
+Extrativos (%)
+4,87 5,40 4,03 6,67 4,84
+13,05 4,32
+Lignina (%)
+24,21 22,91 26,08 27,19 21,87
+17,31 25,71
+Holocelulose (%)
+70,93 71,69 69,63 65,10 69,49
+67,58 56,06
+Fonte
+Este estudo
+Este estudo Oliveira et al. (2021) Oliveira et al. (2021) Oliveira et al. (2021)
+Guimarães Jr. (2011) César et al. (2017)
+  Silva et al. (2016) analisou, os componentes químicos da casca de mamona e encontrou 30,1% de extrativos, 7,88% de lignina e 8,22% de cinzas. Gomes et al. (2009) também estudou a composição química da mamona e chegou a 20,3% de hemicelulose e 7,7% de lignina. Por fim, Beserra (2010) fez a análise da casca de mamona, e percebeu os seguintes valores: celulose 28,09%, lignina 2,88% e hemicelulose 14,11%. Observa-se que os trabalhos envolvendo a casca de mamona apresentam valores para alguns componentes bem diferentes entre si, o que pode ser explicado pela pureza do material e tipo de análise executada.
+As madeiras mais exploradas para a produção de painéis particulados são as de gênero Pinus e Eucalyptus (MENDES et al., 2012). Pela tabela 2 é possível observar os componentes químicos desses materiais e também de resíduos com potencial de aplicação em painéis. As cascas de mamona analisadas no atual estudo apresentam níveis de lignina, holocelulose e extrativos próximos aos materiais tradicionais, elevando o seu potencial como material alternativo para a fabricação de particulados.
+
+6.2. Análise dos painéis particulados
+Nesta etapa os painéis particulados fabricados a partir de cascas e resina de mamona foram analisados em acordo com os parâmetros: teor de resina, pressão de prensagem e tipo de partícula.
+6.2.1. Teor de resina
+A influência do teor de resina sobre a densidade dos painéis foi verificada (Figura 38).
+Figura 38. Influência do teor de resina sobre a densidade dos painéis. Barras apontam o erro padrão. Valores de diferentes letras apresentam diferenças estatísticas.
+A adição de resina nos painéis não trouxe diferença significativa para a densidade. A cada nível de resina adicionada, a densidade dos painéis aumentou cerca de 0,01 g/cm3. Nesta etapa, todos os painéis permaneceram na categoria baixa densidade, como esperado.
+Com relação às propriedades físicas de absorção de água e inchamento dos painéis de mamona, a figura 39 apresenta os resultados sobre a influência do teor de resina e sua relação com as propriedades.
+52
+ Figura 39. Influência do teor de resina sobre as propriedades físicas de a) absorção de água e b) inchamento. Barras apontam o erro padrão. Valores de diferentes letras apresentam diferenças estatísticas.
+Os painéis fabricados com a maior proporção de resina em massa apresentam menor absorção de água e inchamento. Isto se deve tanto à capacidade da resina de preencher os poros localizados entre as partículas dos painéis, como à de afastar a umidade e seus efeitos devido sua característica hidrofóbica.
+Para cada nível de resina, a absorção de água é modificada em aproximadamente 10% de massa do painel, trazendo resultados distintos. A respeito do inchamento, os níveis 10 e 15% não mostraram diferenças significativas, porém os painéis fabricados com 20% de resina permitiram uma redução aproximada de 2/3 do volume em comparação aos demais níveis, alcançando o requisito exigido pela norma NBR 14810, que determina o valor máximo de 22% de inchamento durante 24 horas de exposição. Barbirato (2020) analisou o inchamento em espessura de painéis à base de resíduo de madeira balsa em acordo com a adição de resina e também alcançou resultados semelhantes, painéis com maior teor de resina permaneceram com o menor inchamento em espessura.
+WA apresenta um comportamento equilibrado, proporcional ao incremento de resina, diferente do inchamento, onde os resultados podem ser iguais e/ou divergentes em um pequeno intervalo de variáveis. Dessa forma, entende-se que a propriedade WA possua maior sensibilidade à influência da resina em comparação ao TS.
+As propriedades mecânicas módulo de elasticidade (MOE), módulo de resistência (MOR) e adesão interna (IB) dos painéis particulados também foram avaliadas. A figura 40 mostra a influência da resina sobre estas propriedades.
+ Figura 40. Influência do teor de resina sobre as propriedades a) MOE, b) MOR e c) IB. Barras apontam o erro padrão. Valores de diferentes letras apresentam diferenças estatísticas.
+MOE e MOR apresentam comportamento semelhante em relação às influências que sofrem da porcentagem de resina em massa, e apesar de não haver diferença significativa entre os painéis 10 e 15%, apenas a adesão interna (IB) segue o padrão de aumento de resistência em acordo com acréscimo de resina, como é relatado por Souza et al. (2018), em seu estudo com resíduos de madeira e resina à base de epóxi, assim como Arabi et al. (2011), ao explorar a relação entre tamanho de partículas de madeira e teor de resina ureia formaldeído em painéis particulados, e também por Barbirato (2020), em sua pesquisa sobre painéis fabricados com resíduo de madeira balsa e poliuretano à base de óleo de mamona.
+Enquanto a adição de resina resulta em valores proporcionais para a adesão interna, as propriedades MOE e MOR perdem desempenho no segundo nível de resina aplicado, 15%. Ainda, após elevar para o terceiro nível de resina, 20%, o aumento dos valores chega nas propriedades chega a ser de 100 a 140%. Dessa forma, entende-se que a propriedades IB é mais sensível às alterações do parâmetro de processo avaliado.
+O resultado dos ensaios de arrancamento de parafuso face e topo e as suas relações com o teor de resina dos painéis particulados é apresentado na figura 41.
+ Figura 41. Influência do teor de resina sobre os esforços de arrancamento de parafuso a) face e b) topo. Barras apontam o erro padrão. Valores de diferentes letras apresentam diferenças estatísticas.
+Inicialmente percebe-se um comportamento semelhante entre ambos os gráficos parafuso face e topo, apesar do gráfico face (figura 41a) apresentar maior sensibilidade às alterações. Os intervalos 10 e 15% não foram distantes o suficiente para provocar resultados com diferenças significativas. Entende-se que as proporções entre massa de partículas e massa de resina utilizados estão no mesmo grupo, e dessa forma as propriedades alcançadas estão no mesmo nível.
+Em contrapartida, os painéis fabricados com 20% de resina apresentam valores aproximadamente 60% superiores aos demais. Independente da diferença estatística, nota-se uma tendência de aumento da carga máxima em acordo com o incremento de resina.
+6.2.2. Pressão de prensagem
+Além da resina, outro fator importante na manufatura de painéis particulados é a pressão de prensagem. A influência da pressão de prensagem sobre a densidade dos painéis também foi verificada, como mostra a figura 42.
+
+Figura 42. Influência da pressão de prensagem sobre a densidade dos painéis. Barras apontam o erro padrão. Valores de diferentes letras apresentam diferenças estatísticas.
+A adição de pressão de prensagem nos painéis trouxe diferença significativa para a densidade, no entanto todos permaneceram na categoria painel de baixa densidade. A cada 0,45 MPa de pressão adicionada na manufatura dos painéis, a densidade aumentou cerca de 0,10 g/cm3, 10x mais que a influência da resina sobre a densidade.
+Já as propriedades físicas de absorção de água e inchamento e a influência da pressão de prensagem são apresentadas na figura 43.
+Figura 43. Influência da pressão de prensagem sobre as propriedades físicas de a) absorção de água e b) inchamento dos painéis. Barras apontam o erro padrão. Valores de diferentes letras apresentam diferenças estatísticas.
+56
+A absorção de água dos painéis diminui com o aumento de pressão de prensagem, pois quanto mais próximas estão as partículas uma das outras, mais difícil será a entrada de água no painel, maior será a área de contato entre as partículas e, consequentemente, a colagem será mais eficiente. A cada adição de 0,459 MPa de pressão na fabricação dos painéis, houve uma redução de 12 a 15% de absorção de água.
+O ensaio de inchamento também seguiu o comportamento esperado. Barbirato (2020) fabricou painéis com diferentes pressões de prensagem, e os produtos mais densos foram os que mais expandiram durantes a análise. Menezzi (2004) explica que o inchamento total da peça está relacionado à natureza higroscópica do material e à liberação de tensões de compressão. De acordo com os dados, quanto maior for a pressão de prensagem, maior será o inchamento da peça após contato com a água. E esse fenômeno tem como consequência um produto com resistência prejudicada, pois seu volume expande e sua massa permanece igual após secagem, ou seja, a densidade é consideravelmente reduzida (LEE; WU, 2002).
+A cada adição de 0,45 MPa de pressão na fabricação dos painéis, houve um aumento de 25 a 44% de volume das peças. Nesta etapa, todos os níveis aplicados foram suficientes para superar os requisitos estabelecidos pela NBR 14810 com relação à propriedade inchamento.
+Com relação às propriedades mecânicas módulo de elasticidade (MOE), módulo de resistência (MOR) e adesão interna (IB) dos painéis particulados, a figura 44 mostra as influências sofridas pela pressão de prensagem.
+Figura 44. Influência da pressão de prensagem sobre as propriedades a) MOE, b) MOR e c) IB dos painéis. Barras apontam o erro padrão. Valores de diferentes letras apresentam diferenças estatísticas.
+MOE e MOR apresentaram comportamento semelhante em relação às influências que sofrem da pressão de prensagem, e esse aumento proporcional à aplicação de pressão é esperado e confirmado pela literatura, como Mahieu et al. (2029) em seu estudo com talos de linho e cascas de girassol, assim como Fiorelli et al. (2019), na sua pesquisa de painéis à base de coco verde e fibra de cana-de-açúcar, e também por Shi et al. (2005), em seu estudo de painéis MDF de Álamo.
+ 
+Já a adesão interna (IB) fugiu do comportamento e teve queda no segundo nível de pressão aplicado, apesar de não mostrar diferença significante entre os painéis fabricados com 0,459 e 0,918 MPa, esperava-se um aumento significativo ao uso do segundo nível de carga. Entende-se que exista um valor mínimo de pressão para causar mudanças significativas nesta propriedade, e este intervalo em específico não foi o suficiente. A aplicação de 1,377 MPa nos painéis trouxe resultados significativos para a adesão interna, permitindo-a ultrapassar o requisito estabelecido pela NBR 14810 de 0,4 MPa.
+Para todas as propriedades mecânicas apresentadas na figura 44 a adição proporcional de pressão de prensagem gerou resultados desproporcionais. Enquanto os níveis de pressão 1 e 2 mantém uma disputa equilibrada pelo segundo lugar, o nível de pressão 3, equivalente a 1,377 MPa, segue com os resultados mais altos, equivalente a aproximadamente 2x ou mais os níveis anteriores.
+Os resultados dos ensaios de arrancamento de parafuso na face e no topo são apresentados na figura
+45.
+Figura 45. Influência da pressão de prensagem sobre os esforços de arrancamento de parafuso a) face e b) topo. Barras apontam o erro padrão. Valores de diferentes letras apresentam diferenças estatísticas.
+Inicialmente percebe-se um comportamento semelhante entre ambos os gráficos. A tendência de subida, presente nas duas propriedades, comporta-se de forma esperada, ou seja, as propriedades mecânicas de painéis particulados são aprimoradas conforme o aumento da pressão de prensagem ou da densidade final da peça.
+Os níveis de pressão 0,459 e 0,918 MPa agem de forma diferente em cada propriedade avaliada. Entende-se que esses intervalos aplicados não foram distantes o suficiente para trazer valores significativos no parafuso face. Em compensação, a pressão de 1,377 MPa causou um acréscimo de mais de 20% na carga máxima suportada. Já o parafuso topo cresce de forma equivalente à pressão de prensagem, mostrando maior sensibilidade ao parâmetro. Após aplicação do segundo nível de pressão, a carga máxima suportada é praticamente dobrada, e por fim o terceiro nível tem sua eficiência reduzida em 40%.
+58
+É importante ressaltar que a carga máxima suportada no ensaio de arrancamento de parafuso topo sofre maior influência da pressão de prensagem que ao parâmetro taxa de resina, como pode ser avaliado nos gráficos 41b e 45b. Os valores distintos apresentados significam maior sensibilidade ao parâmetro estudado.
+6.2.3. Tipo de partícula
+Como último caso temos o estudo comparativo entre os tipos de partículas, a casca de mamona melhorada geneticamente e a casca de mamona selvagem. A figura 46 apresenta a influência do tipo de partícula sobre a densidade final dos painéis.
+Figura 46. Influência da espécie de mamona sobre a densidade dos painéis. Barras apontam o erro padrão.
+O uso de cascas de diferentes variações de mamona trouxe diferença significativa para a densidade (p- value = 0,0017). Todos os painéis fabricados permaneceram na categoria baixa densidade.
+Já a figura 47 mostra a relação entre os tipos de partículas e as propriedades físicas de inchamento e absorção de água dos painéis particulados.
+ 
+Figura 47. Influência da partícula sobre a a) absorção de água e o b) inchamento dos painéis. Barras apontam o erro padrão.
+Apesar das diferenças existentes entre as cascas avaliadas nesta pesquisa, as propriedades de absorção de água e inchamento não são uma delas (p-value = 0,09 e 0,45 respectivamente). A casca melhorada absorveu aproximadamente 70% de sua massa em água e teve um aumento de volume de 21%. Já a selvagem absorveu 74,4% de sua massa em água e um volume de 23,7%. Ou seja, os parâmetros utilizados não foram suficientes para causar diferenças significativas. No entanto, a norma NBR 14810 tem como requisito 22% máximo de inchamento. Dessa forma, a casca melhorada é a única a alcançar a meta.
+Com relação ao módulo de elasticidade (MOE), módulo de resistência (MOR) e adesão interna (IB), a figura 48 mostra a influência que estas sofrem a partir da manipulação do tipo de partícula aplicado nos painéis.
+Figura 48. Influência do tipo de partícula sobre as propriedades a) MOE, b) MOR e c) IB dos painéis. Barras apontam o erro padrão. Valores de diferentes letras apresentam diferenças estatísticas.
+60
+Os painéis fabricados com a mamona melhorada apresentaram altos valores de MOE e MOR em comparação à selvagem. O módulo de elasticidade (MOE) para a casca melhorada chegou a aproximadamente 3x o valor da selvagem, e o módulo de resistência (MOR) igual ao dobro do resultado. Assim, é possível dizer que o tipo de partícula, assim como a variação da mamona utilizada na fabricação dos painéis, possui grande influência sobre as propriedades mecânicas, como mostra o contraste na figura 48.
+Uma possível explicação para este fato está na geometria das cascas, onde a melhorada apresenta maior comprimento e largura, proporcionando maior área de contato entre as partículas e consequentemente uma colagem mais eficiente, proporcionando resistência ao produto. Além disso, a espessura 3x menor que a selvagem permite uma casca de baixa densidade e alto poder de compactação, trazendo novamente propriedades mecânicas aprimoradas.
+Em contrapartida, a casca selvagem mostrou melhores resultados para o ensaio de tração perpendicular, chegando a aproximadamente o dobro da adesão interna (IB) da casca melhorada. Alguns estudos mostram que esta propriedade é prejudicada em acordo com o aumento do tamanho de partícula (MALONEY, 1977; MIYAMOTO et al., 2002; ARABI et al., 2011). Lin et al. (2004) relata em sua pesquisa que o uso de partículas maiores na fabricação de painéis gera níveis mais altos de porosidade, reduzindo assim sua resistência.
+Como hipótese, pode-se dizer que as cascas selvagens são mais resistentes ao esforço de tração perpendicular, devido a sua forma compacta, espessura e densidade superiores à casca melhorada geneticamente. Nesta fase, ambas as variedades de cascas alcançaram os requisitos exigidos pela norma NBR 14810.
+Por fim, temos a análise da influência do tipo de partícula sobre as propriedades arrancamento de parafuso face e topo, apresentados na figura 49.
+Figura 49. Influência do tipo de partícula sobre os esforços arrancamento de parafuso a) face e b) topo. Barras apontam o erro padrão.
+O ensaio de arrancamento de parafuso na face não apresentou diferença significativa entre os valores obtidos das mamonas (p-value = 0,11), indicando uma baixa influência ao tipo de partícula usado nos painéis. Em contrapartida, o parafuso topo mostrou-se mais sensível aos parâmetros, pois a mamona melhorada geneticamente alcançou valores muito acima da selvagem, cerca de 60%.
+ 
+Assim como a pressão de prensagem tem bastante influência sobre o ensaio de parafuso topo (figura 36), o tipo de partícula utilizada também trouxe resultados bem distintos (figura 40). Uma possível explicação para este fato está na densidade final da peça, já que ambos pressão de prensagem e mamona melhorada geneticamente tem a capacidade para alterar em grande proporção esse fator.
+6.2.4. Finalidade
+Os produtos fabricados neste estudo foram analisados em acordo com a norma NBR 14810, painéis de partículas de média densidade, categoria P2 – painéis não estruturais para uso interno em condições secas. No entanto, as partículas estudadas foram classificadas como baixa densidade, assim como os painéis manufaturados. Ainda assim, alguns requisitos da norma utilizada foram alcançados, ou seja, os painéis à base de mamona apresentaram propriedades superiores aos da sua categoria específica.
+A absorção de água e o inchamento dos painéis foram considerados razoáveis, pois os parâmetros de processo utilizados foram capazes de suprir os requisitos da norma em mais de 50% desses ensaios. No entanto, a resistência dos produtos não foi analisada após exposição à umidade. Assim, o estudo atual indica o uso de painéis de mamona apenas para ambientes internos em condições secas. Para outras condições de uso, se faz necessário a condução de testes adicionais.
+Já os valores mínimos para as propriedades mecânicas (MOE e MOR) não foram atingidos e não chegaram próximas aos valores dos produtos à base de madeira, enquadrando-os na categoria não estrutural. Contudo, esses produtos detêm capacidade mecânica para serem manuseados e instalados em ambientes internos. Dessa forma, entende-se que os painéis de mamona podem ser destinados à construção de móveis não estruturais, ornamentos, quadros, preenchimentos de divisórias e de forros, entre outros.
+A casca de mamona pode ainda ser explorada na fabricação de peças para tratamento térmico e acústico. Quando em estado integral, a casca apresenta um tipo de estrutura que permite a criação de vazios no interior do painel, favorecendo a acústica. E caso o controle de porosidade seja rigoroso, criando vazios internos isolados entre si, os painéis podem apresentar boas características térmicas. Além disso, a casca de mamona também apresenta baixa densidade, permitindo a fabricação de peças com grandes seções, e composição química semelhante à madeira, favorecendo ainda mais o seu uso para esses fins.
+Ainda assim, é possível elaborar parâmetros que podem elevar as propriedades físicas e mecânicas dos painéis de mamona, trabalhando no tamanho da partícula, aumentando a pressão de prensagem, tratamentos para melhorar adesão entre partículas e resina, e fibras de reforço ou placas de madeira (Figura 50), entre outros.
+62
+ Figura 50. Variações de painéis à base de casca e poliuretano de mamona
+
+7. CONCLUSÃO
+De acordo com os resultados, foi possível avaliar a viabilidade dos painéis particulados fabricados com casca de mamona e poliuretano à base de óleo de mamona.
+Os fatores teor de resina, pressão de prensagem e tipo de partícula se mostraram de grande relevância para o processo de fabricação dos painéis particulados. A manipulação dos valores de cada fator pôde gerar produtos em estado precário, como nas fases iniciais dos experimentos, onde partículas descolavam e a resistência era bem baixa, e pôde gerar também produtos de boa qualidade, com capacidade de aplicação em pequenos móveis, decorações, quadros etc. Contudo, as técnicas utilizadas neste trabalho são de características inclusivas, ou seja, de fácil concepção e baixo custo. Assim, existe a possibilidade de refiná-la para a obtenção de um produto mais avançado no aspecto científico e tecnológico, e logicamente de custo mais elevado.
+As cascas de mamona selvagem e melhorada geneticamente apresentaram diferenças geométricas significativas. O melhoramento genético teve como uma de suas consequências o aumento do tamanho da semente, o que também alterou a espessura da casca que a envolve. Assim, a casca melhorada geneticamente se mostra com maior poder de compactação, pois é um material pouco espesso e de baixa densidade.
+Com relação à mamona selvagem, sua semente é naturalmente menor, e, portanto, não compete por muito espaço com a casca, que por sua vez desenvolve estrutura robusta, espessa e de alta dureza. Apesar das diferenças, as cascas são semelhantes na quantidade dos componentes químicos.
+Na fabricação dos painéis, o teor de resina afetou principalmente a resistência, a absorção de umidade e o inchamento em espessura. Já a pressão de prensagem pode ser manipulada para produzir painéis robustos, de alta densidade e resistência. No entanto, deve ser utilizada com precaução, pois pode prejudicar outras propriedades, como o inchamento em espessura.
+Foi notória a superioridade dos painéis fabricados com 20% de resina e 1,377 MPa de pressão. As propriedades estudadas apresentaram melhor desempenho após a aplicação desses parâmetros, com exceção do inchamento em espessura, que foi prejudicado após o aumento de pressão. Para a análise do tipo de partícula, a casca da mamona melhorada obteve melhor resultado físico e mecânico, e a selvagem ficou em destaque apenas no ensaio de adesão interna. Com relação a norma técnica NBR 14810 de chapas de madeira aglomerada, apenas as propriedades adesão interna e inchamento em espessura foram satisfeitas.
+Esta pesquisa abordou a metodologia de fabricação de painéis de casca de mamona e poliuretano à base de óleo de mamona e a influência de seus parâmetros. Contudo, é possível avaliar mais características do produto para que possa ser refinado e introduzido no mercado. Portanto, recomenda-se avaliar a durabilidade (envelhecimento natural e acelerado), propriedades de tratamento térmico e acústico, e aprofundar-se na manipulação de parâmetros que possam reduzir o consumo de resina, como pressão de prensagem, tamanho da partícula e tratamentos superficiais da partícula, até mesmo como a utilização de outros tipos de resinas de baixo impacto ambiental.
+64
+
+REFERÊNCIAS
+ABDALLA, A. L. et al. Utilização de subprodutos da indústria de biodiesel na alimentação de ruminantes. Revista Brasileira de Zootecnia, Viçosa, MG, v.37, p.260-268, 2008.
+ABNT: Associação brasileira de normas técnicas. NBR 11941: Madeira – determinação da densidade básica. Rio de Janeiro (2003).
+ABNT: Associação brasileira de normas técnicas. NBR 14810 – Chapas de madeira aglomerada (2006).
+ABNT: Associação brasileira de normas técnicas. NBR 14810: Chapas de madeira aglomerada. Rio de Janeiro:
+ABNT, 2013.
+ABNT: Associação brasileira de normas técnicas. NBR 14810: Chapas de madeira aglomerada. Rio de Janeiro:
+ABNT, 2018.
+ABDULKAREEM, S. A.; RAJI, S. A.; ADENIYI, A. G. Development of particleboard from waste styrofoam
+and sawdust. Nigerian Journal of Technological Development, [s. l.], v. 14, n. 1, p. 18, 2017.
+ACDA, M. N.; CABANGON, R. J. Termite resistance and physico-mechanical properties of particleboard using waste tobacco stalk and wood particles. International Biodeterioration and Biodegradation, [s. l.], v. 85, p.
+354–358, 2013. Disponível em: <http://dx.doi.org/10.1016/j.ibiod.2013.08.019>
+AGEITEC. Agência Embrapa de Informação e Tecnologia. 2005. Disponível em:
+<http://www.agencia.cnptia.embrapa.br/gestor/agroenergia/arvore/CONT000fbl23vmz02wx5eo0sawqe3kht
+4d7j.html>. Acesso em: 22 jan. 2021.
+AKINYEMI, B. A.; OLAMIDE, O.; OLUWASOGO, D. Formaldehyde free particleboards from wood chip
+wastes using glutaraldehyde modified cassava starch as binder. Case Studies in Construction Materials, [s.
+l.], v. 11, p. e00236, 2019. Disponível em: <https://doi.org/10.1016/j.cscm.2019.e00236>
+ALBERTO, M. M. M. Efeito da geometria das partículas e da densidade sobre as propriedades de painéis estruturais “waferboards”. 122 f. Dissertação (Mestrado em Ciências Florestais) – Universidade Federal do
+Paraná, Curitiba, 1992.
+ANDRADE, R. P. X. Casca de mamona em substituição ao feno de capim tifton: consumo, digestibilidade e
+desempenho de ovinos. 2011. 43f. Dissertação (mestrado em zootecnia)/ universidade Federal Rural de
+Pernambuco, Recife.
+ARABI, M. et al. Interaction Analysis between slenderness ration and resin content on mechanical properties of
+particleboard. 2011. Journal of Forestry Research 22(3): 461-464.
+AUNG et al. Synthesis and characterization of Jatropha (Jatropha curcas L.) oil-based polyurethane wood
+adhesive. 2014. Industrial Crops and Products 60: 177-185.
+ÁVILA FILHO, S. et al. Métodos para determinação de toxinas presentes na torta de mamona. In:
+CONGRESSO DA REDE BRASILEIRA DE TECNOLOGIA DE BIODIESEL, 1., 2006, Brasília. Anais ...
+Brasília, 2006, v.1, p.24-27.
+AZAMBUJA, R. da R. et al. Utilization of construction and demolition waste for particleboard production.
+Journal of Building Engineering, [s. l.], v. 20, n. April, p. 488–492, 2018. Disponível em: <https://doi.org/10.1016/j.jobe.2018.07.019>
+66
+AZIZI, K.; TABARSA, T.; ASHORI, A. Performance characterizations of particleboards made with wheat straw and waste veneer splinters. Composites Part B: Engineering, [s. l.], v. 42, n. 7, p. 2085–2089, 2011. Disponível em: <http://dx.doi.org/10.1016/j.compositesb.2011.04.002>
+BALLONI, C. J. V. Caracterização Física e Quimica da Madeira de Pinus Elliotti. Trabalho de Graduação apresentado no Campus Experimental de Itapeva - Universidade Estadual Paulista “Júlio de Mesquita Filho”, como requisito para a conclusão do curso de Engenharia Industrial Madeireira., [s. l.], p. 42, 2009.
+BARBIRATO, G. H. A. et al. OSB panels with balsa wood waste and castor oil polyurethane resin. 2020. Waste and Biomassa Valorization 11, 743-751. Disponível em https://doi.org/10.1007/s12649-018-0474-8.
+BARRERO, N. M. G. Estudo da durabilidade de painéis de partículas de bagaço de cana de açúcar e resina poliuretana a base de óleo de mamona para aplicação na construção civil. [s. l.], p. 230, 2015.
+BARROS, L. V. et al. Replacement of soybean meal by treated castor meal in supplements for grazing heifer during the dry-rainy season period. Revista Brasileira de Zootecnia, Viçosa, MG, v.40, n.4, p.843-851, 2011. BASKARAN, M. et al. Properties of Particleboard Manufactured from Oil Palm Trunk Waste Using Polylactic
+Acid as a Natural Binder. Waste and Biomass Valorization, [s. l.], v. 10, n. 1, p. 179–186, 2019.
+BESERRA, L. T. Casca de mamona em dietas para ovinos de corte. 2010. 83f. Dissertação (mestrado em
+zootecnia)/ Universidade Federal do Ceará, Fortaleza.
+BIANCHE, J. J. Propriedades de aglomerado fabricado com partículas de eucalipto (Eucalyptus urophylla),
+paricá (Schizolobium amazonicum) e vassoura (Sida spp.) Dissertação apresentada à Universidade Federal de Viçosa, como parte das exigências do Programa de Pós-Graduação em Ciência Florestal, para obtenção do título de Magister Scientiae., [s. l.], p. 81, 2009.
+BOMFIM, M. A. D., SEVERINO, L. S., CAVALCANTE, A. C. R. et al. Avaliação da casca de mamona na alimentação de ovinos. In: IV Congresso Nordestino de Produção Animal. Anais ... Petrolina: Simpósio Nordestino de Produção Animal, 2006. p. 936-939.
+BOMFIM, M. A. D.; SILVA, M. M. C.; SANTOS, S. F. Potencialidades da utilização de subprodutos da indústria de biodiesel na alimentação de caprinos e ovinos. Tecnologia & Ciênia. Agropecuária, v.3, n.4, p. 15-26, 2009.
+BRITO, F. M. S. Produção e avaliação da qualidade de painéis aglomerados constituídos por partículas de bagaço de cana-de-açúcar e bambu. [s. l.], p. 215, 2018.
+BUYUKSARI, U. et al. Evaluation of the physical, mechanical properties and formaldehyde emission of particleboard manufactured from waste stone pine (Pinus pinea L.) cones. Bioresource Technology, [s. l.], v. 101, n. 1, p. 255–259, 2010. Disponível em: <http://dx.doi.org/10.1016/j.biortech.2009.08.038>
+CAI, Z.; MUEHL, J.H.; WINANDY, J. Effects of panel density and mat moisture content on processing medium density fiberboard. Forest Prod. J. 56:20-25. 2006.
+CAI, Z.; ROSS, R.J. Mechanical properties of wood-based composite materials. In: ROSS, R.J. (Ed.). Wood handbook: wood as an engineering material. Wisconsin: USDA, Forest Service, Forest Products Laboratory, 2010. chap. 12, p. 1-12.
+CALEGARI, L.; PEDRAZZI, C.; HILLIG, E. Adição de aparas de papel reciclável na fabricação de chapas de madeira aglomerada. Ciência Florestal, Santa Maria, V. 14, n. 1, p. 193-204, 2004.
+CALEGARI, L. et al. Monitoramento da temperatura no interior de chapas aglomeradas durante o processo de prensagem. Ciência Florestal, Santa Maria, v. 15, n. 2, p. 157-166, 2005.
+   
+CÃNDIDO, M. J. D.; BOMFIM, M. A. D.; SEVERINO, L. S. et al. Utilização de coprodutos da mamona na alimentação animal. In: Congresso brasileiro de mamona, 3, Salvador. Anais ... salvador: III Congresso brasileiro de mamona, 2008. p. 21.
+CARASCHI, J. C.; LEÃO, A. L.; COIADO CHAMMA, P. V. Avaliação de painéis produzidos a partir de resíduos sólidos para aplicação na arquitetura. Polímeros: Ciência e Tecnologia, v. 19, n. 1, p. 47-53, 2009.
+CERCHIARI, A. M. F. Aprimoramento do poliuretano a base de óleo de mamona na manufatura de madeira laminada colada (MLC) de Cupressus lusitanica, Corymbia maculata e Hevea brasiliensis. 2013. 105f. Dissertação (Mestrado) – Escola Superior de Agricultura “Luiz de Queiroz”, Piracicaba, 2013.
+CÉSAR, A. A. DA S. et al. Transforming rice husk into a high-added value product: potential for particleboard production. Ciência Florestal, v. 27, n. Ciênc. Florest., 2017 27(1), p. 303–313, jan. 2017.
+CONAB. Companhia Nacional de Abastecimento. Disponível em: <https://www.conab.gov.br/info-agro/safras/graos/boletim-da-safra-de-graos/item/download/ 34192_aca767f0946c9ba86c03ce181a3aa08c>. Acesso em: 21 jan. 2021.
+COUTINHO, F. M. B e DELPECH, M. C. Poliuretanos como materiais de revestimento de superfície. Polímeros: Ciência e Tecnologia, São Carlos, São Paulo, v. 9, n.1, p. 41-48, 1999.
+CRAVO, J. C. M. et al. Effect of density and resin on the mechanical, physical and thermal performance of particleboards based on cement packaging. Construction and Building Materials, [s. l.], v. 151, p. 414–421, 2017. Disponível em: <http://dx.doi.org/10.1016/j.conbuildmat.2017.06.084>
+CRUZ, M. P. et al. Caracterização química do “pitch” em indústria de celulose e papel de Eucalyptus. Química Nova, São Paulo, v. 29, n. 3, p. 459-466, 2006.
+DEL MENEZZI, C. H. S. Estabilização dimensional por meio do tratamento térmico e seus efeitos sobre as propriedades de painéis de partículas orientadas (OSB). Tese (Doutorado em Engenharia Florestal), UFPR, Curitiba-PR, 2004, 226p.
+DIAS, F. M. Aplicação de resina poliuretana à base de mamona na fabricação de painéis de madeira compensada e aglomerada. 2005. 151f. Tese (Doutorado) – Curso de Física e Química, Departamento de Engenharia de São Carlos, Universidade de São Paulo, São Carlos, 2005.
+DINIZ, L. L. et al. Castor bean meal for cattle finishing:1-Nutritional parameters. Livestock Science, Amsterdan, N1, v. 135, p. 153-167, 2011.
+DRUMMOND, A. R. F. et al. Metanol e etanol como solvente na extração de óleo de mamona. In: Congresso da Rede Brasileira de Tecnologia do Biodiesel, 1., 2006, Brasília. Brasília, 2006.
+ELEOTÉRIO, J. R.; TOMAZELLO FILHO, M.; BORTOLETTO JÚNIOR, G. Propriedades físicas e mecânicas de painéis MDF de diferentes massas específicas e teores de resina. Ciência Florestal, [s. l.], v. 10, n. 2, p. 75, 2000.
+FADHILL, A. B.; AL-TIKRITY E. T.; ALBADREE M. A. Transesterification of a novel feedstock, Cyprinuscarpio fish oil: influence of co-solvent and characterization of biodiesel. Fuel 2015; 162:215-23. FADHIL, A. B.; AL-TIKRITY, E. T. B.; ALBADREE, M. A. Biodiesel production from mixed non-edible oils,
+castor seed oil and waste fish oil. Fuel, [s. l.], v. 210, n. June, p. 721–728, 2017. Disponível em:
+<http://dx.doi.org/10.1016/j.fuel.2017.09.009>
+FAO. Food and Agriculture Organization of the United Nations. 2019. Disponível em:
+    <http://www.fao.org/news/story/en/item/1256261/icode/>. Acesso em: 27 jan. 2021.
+FAO. Food and Agriculture Organization of the United Nations. 2020. Disponível em: <http://www.fao.org/faostat/en/#data/QC>. Acesso em: 22 jan. 2021.
+FARIA, D. L. et al. Production of castor oil-based polyurethane resin composites reinforced with coconut husk fibres. Journal of Polymer Research, [s. l.], v. 27, n. 9, 2020.
+FARROKHPAYAM, S. R.; VALADBEYGI, T.; SANEI, E. Thin particleboard quality: effect of particle size on the properties of the panel. Journal of the Indian Academy of Wood Science, [s. l.], v. 13, n. 1, p. 38–43, 2016.
+FAUSTINO, J. et al. Impact sound insulation technique using corn cob particleboard. Construction and Building Materials, [s. l.], v. 37, p. 153–159, 2012. Disponível em: <http://dx.doi.org/10.1016/j.conbuildmat.2012.07.064>
+FERRO, F. S. Painéis OSB com madeira Schizolobium amazonicum e resina poliuretana à base de óleo de mamona: viabilidade técnica de produção. [s. l.], p. 101, 2013.
+FIORELLI, J. et al. Particulate composite based on coconut fibre and castor oil polyurethane adhesive: an eco- efficient product. Ind. Crops Prod. 40, 69-75 (2012).
+FIORELLI, J.; BUENO, S. B.; CABRAL, M. R. Assessment of multilayer particleboards produced with green coconut and sugarcane bagasse fibers. Construction and Building Materials, [s. l.], v. 205, p. 1–9, 2019. Disponível em: <https://doi.org/10.1016/j.conbuildmat.2019.02.024>
+FOREST PRODUCTS LABORATORY – FPL. Wood handbook: wood as an engineering material. General Technical Report FPL-GTR-190. WI: Madison, United States Department of Agriculture, Forest Service, Forest Products Laboratory. 508 p. 2010.
+GATANI, M. et al. New process for peanut husks panels: Incorporation of castor oil polyurethane adhesive and different particle sizes. Key Engineering Materials, [s. l.], v. 600, p. 452–459, 2014.
+GHOSAL, S. Castor Oil Prices Spike 23% in Global Market. Disponível em: <https://economictimes.indiatimes.com/markets/commodities/news/castor-oil-prices-spike-23-in-global- market/articleshow/69089709.cms?from=mdr>. Acesso em 26 mar. 2021.
+GODOY, M. G. et al. Use of a low-cost methodology for biodetoxification of castor bean waste and lipase production. Enzyme and Microbial Technology, [s. l.], v. 44, n. 5, p. 317–322, 2009.
+GOMES, F. et al. Composição Bromatológica e Degradação In Situ de Subprodutos da Cadeia do Biodiesel. Revista Científica Produção Animal, v.11, n.2, p.144-156, 2009.
+GUIMARÃES JR, M. Caracterização de fibras e polpas de Bambusa vulgaris Schrad refinadas e sem refino com modificação química visando sua utilização como agente de reforço em matrizes poliméricas. Dissertação de Mestrado – Universidade Federal de Ouro Preto. Rede Temática em Engenharia de Materiais. Ouro Preto, 2011.
+HELLMEISTER, V. Painel OSB de resíduo de madeira Balsa (Ochroma Pyramidale). Tese (Doutorado em Engenharia e Ciência de Materiais) – Faculdade de Zootecnia e Engenharia de Alimentos, Universidade de São Paulo, Pirassununga, 2017.
+HILLIG, E. Qualidade de chapas aglomeradas estruturais, fabricadas com madeira de pinus, eucalipto, acácia- negra, puras ou misturadas coladas com tanino-formaldeído. 2000. 112p. Dissertação (Mestrado em Engenharia Florestal) – Universidade Federal de Santa Maria, Santa Maria, 2000.
+     
+IWAKIRI, S. A influência de variáveis de processamento sobre propriedades de chapas de partículas de diferentes espécies de Pinus. 1989. 129 p. Tese (Doutorado em Ciências Florestais) – Universidade Federal do Paraná, Curitiba, 1989.
+IWAKIRI, S. Painéis de madeira reconstituída. FUPEF. Paraná – Curitiba, 2005, 247 p.
+JESUS, J. M. H. De. Estudo do Adesivo Poliuretano à base de Mamona em Madeira Laminada Colada. Tese
+USP Materiais, [s. l.], p. 109, 2010.
+JIAN, G. Castor oil-based polyurethane sealants, China Plast. (2000) 25-32.
+JOSÉ, F. J.; BERALDO, A. L. Chapas prensadas de partículas de bambu e adesivo poliuretana à base de óleo de
+mamona. In: 10 EBRAMEM – Encontro Brasileiro em Madeiras e em Estruturas de Madeira, 2006, São
+Pedro – SP. Anais... Botucatu: EBRAMEM, 2006. v. 1. p. 1-11.
+JULIANA, A. H. et al. Properties of particleboard made from kenaf (Hibiscus cannabinus L.) as function of
+particle geometry. Mater Des. 34:406-411. 2012.
+KATSUKAKE, A. Uma revisão SOBRE resina Uréia-Formaldeído (R-UF) empregada na produção de Painéis
+de Madeira Reconstituída. 2009. 61f. Monografia de Conclusão de Curso – UNESP – FC, Bauru. KAZMIERCZAK, S. Qualidade de painéis de madeira compensada fabricados com lâminas de madeira de
+Eucalyptus saligna, Eucalyptus dunnii e Eucalyptus urograndis. [s. l.], 2012.
+KELLY, W. W. Critical literature review of relationships between processing parameters and physical properties
+of particleboard. USDA Forest Service – Forest Products Laboratory GENERAL Technical Report FPL-10,
+1977.
+KOCH, P. Wood versus nonwood materials in U.S. residential construction: some energy-related global
+implications. Forest Products Journal, v.42, n.5, p.31-42, May 1992.
+KOLLMANN, F.P.; CÔTÉ, W.A. Principle of wood science and technology. Part I: Solid Wood. Springer,
+Berlin. 1968.
+LEE, J. N.; WU, Q. In-Plane dimensional stability of three-layer oriented strandboard. Wood and Fiber Science,
+Madison, v. 34, n. 1, 77-95, 2002.
+LIMA, R. L. S. et al. Blends of castor meal and castor husks for optimized use as organic fertilizer. Industrial
+Crops and Products, [s. l.], v. 33, n. 2, p. 364–368, 2011.
+LIN, H. C.; HUANG, J. C. Using single image multi-processing analysis techniques to estimate the internal bond
+strength of particleboard. Taiwan J for Sci, 19 (2): 109-117.
+MAHIEU, A.; ALIX, S.; LEBLANC, N. Properties of particleboards made of agricultural by-products with a
+classical binder or self-bound. Industrial Crops and Products, v. 130, p. 371-379, 2019.
+MALONEY, T. M. Modern particleboard and dry-process fiberboard manufacturing. 2ed. São Francisco: M.
+Freeman, 1993, 689p.
+MARTINS, E. H. et al. Soybean waste in particleboard production. Ciencia e Agrotecnologia, [s. l.], v. 42, n. 2,
+p. 186–194, 2018.
+MATOS, J.L.M. Ciclo de prensa em chapas de partículas estruturais “Waferboards”. 1988. 163p. Dissertação
+(Mestrado em Ciências Florestais) – Universidade Federal do Paraná, Curitiba, 1988.
+MATOS, J.L.M. Estudos sobre a produção de painéis estruturais de lâminas paralelas de Pinus taeda L. 1997.
+117 p. Tese (Doutorado em Ciências Florestais) – Universidade Federal do Paraná – Curitiba, 1997.
+70
+MENDES, L. M. Pinus spp. na produção de painéis de partículas orientadas (OSB). 156. Tese (Doutorado em Ciências Florestais) – Universidade Federal do Paraná, Curitiba, 2001.
+MENDES, L.M. et al. Influência do teor de resina, temperatura e tempo de prensagem na umidade de equilíbrio de painéis de partículas de madeira. Cerne, Lavras, v. 12, n. 4, p. 329-335, 2006.
+MENDES, R. F. et al. Painéis aglomerados produzidos com bagaço de cana em associação com madeira eucalipto. Scientia Forestalis, Piracicaba, p.285-295, 2010.
+MENDES, L. M. et al. Lignocellulosic composites made from agricultural and forestry wastes in Brazil. Key Engineering Materials, [s. l.], v. 517, p. 556–563, 2012.
+MILANI, M.; NOBREGA, M. B. M. Castor Breeding. In: Plant Breeding from Laboratories to Fields. [s.l.] : InTech, 2013.
+MIYAMOTO K.; SUZUKI S.; NAKAHARA S. 2002. Effect on particle shape on linear expansion of particleboard. Journal of Wood Science, 48(3): 185-190.
+MOSLEMI, A. A. Particleboard. Carbondale and Edwardsville. Southern Illinois University Press, 1974. NADHARI, W. N. A. W. et al. Mechanical properties and dimensional stability of particleboard fabricated from steam pre-treated banana trunk waste particles. Journal of Building Engineering, [s. l.], v. 26, n. February, p.
+22–25, 2019.
+NEMLI, G.; DEMIREL, S. Relationship between the density profile and the technological properties of the
+particleboard composite. Journal of Composite Materials, Lancaster, v. 41, n. 15, p. 1793-1802, aug. 2007. NISHIMURA, T.; AMIN, J.; ANSELL, M. P. Image Analysis and bending properties of model OSB panels as a
+function of strand distribution, shape and size. Wood Sci Technol. 38:297-309. 2004.
+OGUNNIYI, D. S. Castor oil: a vital industrial raw material, Bioresour. Technol. 97 (2006) 1086-1091. OLIVEIRA, M. R. R. de; BRITO, F. M. S.; VILLELA, L. S.; MENDES, L. M.; GUIMARÃES JUNIOR, J. B.
+Physical-mechanical properties of panels produced with corn cob particles and different types and contents of adhesives. Research, Society and Development, [S. l.], v. 10, n. 11, p. e541101119828, 2021. DOI: 10.33448/rsd-v10i11.19828. Disponível em: https://rsdjournal.org/index.php/rsd/article/view/19828. Acesso em: 22 mar. 2023.
+OLIVEIRA, A. S. et al. uso alternativo dos coprodutos da mamona. In: CONGRESSO DA REDE BRASILEIRA DE TECNOLOGIA DO BIODIESEL. 1., 2006, Brasília. Anais ... Brasília, 2006. v.2, p.8-13.
+OLMOS, M. A. C. Equipamento e processo de fabricação de chapas de madeira aglomeradas a partir de resíduos de madeira. 1992. 110f. Dissertação (Mestrado) – Escola de Engenharia de São Carlos, Universidade de São Paulo, São Carlos, 1992.
+PETROVIC, Z. S. et al. Thermosetting resins from vegetable oils. In: ANNUAL TECHNICAL CONFERENCE, 57., 1999, New York. Proceedings... New York, 1999. 1 CD-ROM.
+POLETO, S. F. S. Protótipo Arquitetônico utilizando Painéis com Inovação Tecnológica fabricados com Partículas Homogêneas de Resíduos de Madeira. Dissertação (mestrado em Ciências e Engenharia de Materiais) Escola de Engenharia de São Carlos da Universidade de São Paulo, 2014.
+POZZER, T. Painel sanduíche com núcleo corrugado de partículas de bagaço de cana-de-açúcar e resina PU- mamona. Dissertação (Mestrado em Engenharia e Ciência de Materiais) Faculdade de Zootecnia e Engenharia de Alimentos, Universidade de São Paulo, Pirassununga, 2019.
+
+RIBEIRO, N. M. et al. Métodos para desintoxicação de tortas de oleaginosas. In: CONGRESSO DA REDE BRASILEIRA DE TECNOLOGIA DE BIODIESEL, 2007, Brasília. Anais ... Brasília, 2006. v.1, p.34-37.
+RICHTER, K.; GRUNWALD, I.; VON BYERN, J. Bioadhesives BT - Handbook of Adhesion Technology. In: Handbook of Adhesion Technology. Cham: Springer International Publishing, 2018. p. 1–45.
+SACKEY, E.; SEMPLE, K.; PARK, H.; SMITH, G. Properties of survey of furniture grade particleboard. Part 1 – Variation within M2 grade and a reassessment of the relationships between density, bond strength, and screw withdrawal resistance. In: Forest Products Soc. 59th international convention, June 19-22, 2005. Quebec City, Quebec, Canada.
+SAHIN, A. et al. Mechanical and Thermal Properties of Particleboard Manufactured from Waste Peachnut Shell with Glass Powder. Arabian Journal for Science and Engineering, [s. l.], v. 42, n. 4, p. 1559–1568, 2017. SALTHAMMER, T. The formaldehyde dilemma. International Journal of Hygiene and Environmental Health,
+Muenchen, v. 2018, n. 4, p. 433-436. 2015.
+SANTOS, R. C. et al. Chapas de partículas aglomeradas produzidas a partir de resíduos gerados após a extração
+do óleo da madeira de candeia (Eremanthus erythropappus). Scientia Forestalis, Piracicaba, v. 37, n. 84, p.
+437-446, dez. 2008.
+SANTOS, S. F., Desempenho produtivo e qualidade do leite de cabras leiteiras alimentadas com dietas contendo
+quatro níveis de casca de mamona. 2008. 67f. Dissertação (Mestrado em Zootecnia) / Universidade Federal
+do Ceará, Fortaleza.
+SANTOS, S. F.; BOMFIM, M. A. D. CÂNDIDO, M. J. D. Efeito da casca de mamona sobre a produção,
+composição e ácidos graxos do leite de cabra. Archivos de Zootecnia, vol. 60, n. 229, p. 114, 2011. SARDARI, A.; SABBAGH ALVANI, A. A.; GHAFFARIAN, S. R. Castor oil-derived water-based polyurethane coatings: Structure manipulation for property enhancement. Progress in Organic Coatings, [s.
+l.], v. 133, n. January, p. 198–205, 2019.
+SEMPLE, K.; SACKEY, E.; PARK, H.; SMITH, G. Properties survey of furniture grade particleboard. Part 2 –
+MS and M2 grade comparison and a practical in-situ test for internal bond strength. In: Forest Products Soc.
+59th international convention, June 19-22, 2005. Quebec City, Quebec, Canada.
+SEVERINO, L. S. O que sabemos sobre a torta de mamona. Campina Grande: Embrapa Algodão, (Documentos,
+134), p. 31, 2005.
+SEVERINO, L. S.; MILANI, M.; BELTRÃO, N. E. M. mamona: O produtor pergunta, a Embrapa responde.
+Campina Grande: Embrapa Algodão, 2006. p. 153-169.
+SHI, J.L.; ZHANG, S.Y.; RIEDL, B. Effect of juvenile wood on strength properties and dimensional stability of
+black spruce medium density fiberboard panels. Holzforschung 59(1):1-9. 2005.
+SILVA, G.A; MENDES, L.M.; TRUGILHO, P.F.; MORI, F.A.; SANTOS, I.F.; PÁDUA, F.A. Efeitos de
+algumas variáveis de processamento nas propriedades físicas de painéis de madeira de partículas alongadas.
+Ciência Florestal, Santa Maria, v.16, n.1, p.51-60, 2006.
+SILVA, N.; MACIEL, M.; BATISTELLA, C.; FILHO, R. Optimization of biodiesel production from castor oil,
+Appl. Biochem. Biotechnol. 129-132 (2006) 405-414.
+SILVA, D. A. L. Avaliação do ciclo de vida da produção de painel de madeira MDP no Brasil. 2012. 207 f.
+Dissertação (Mestrado em Engenharia e Ciência de Materiais) – Universidade de São Paulo, São Carlos, 2012.
+72
+SILVA, D. W. et al. Addition of Different Proportions of Castor Husk and Pine Wood in Particleboards. Waste and Biomass Valorization, [s. l.], v. 9, n. 1, p. 139–145, 2016.
+SOMANI, K. P. et al. Castor oil based polyurethane adhesives for wood-to-wood bonding. International Journal of Adhesion and Adhesives, [s. l.], v. 23, n. 4, p. 269–275, 2003. Disponível em: <https://linkinghub.elsevier.com/retrieve/pii/S0143749603000447>
+SOUZA, A. M. et al.Wood-based composite made of wood waste and epoxy based ink-waste as adhesive: A cleaner production alternative. Journal of Cleaner Production, v. n. 193, p. 549-562, 2018.
+STEWART, R. Sandwich structures deliver core benefits. 2010. Disponível em <https://www.materialstoday.com/composite-applications/features/sandwich-structures-deliver-core- benefits/>. Acesso em: 22 jun. 2021.
+STRITESKY, V.F.; TIMUSK, P.C. Moisture related properties of Oriented Strand Board (OSB). In: 10DBMC international conference on durability of building materials and components. LYON, France, 17-20. April, 2005.
+SU, Q. et al. Designing a castor oil-based polyurethane as bioadhesive. Colloids and Surfaces B: Biointerfaces, [s. l.], v. 181, n. June, p. 740–748, 2019.
+SUCHSLAND, O. WOODSON, G. E. Fiberboard manufacturing practices in the United States, pp. 112-158 Madison: USDA Forest Service. 1986.
+SUCHSLAND, O.; WOODSON, G. E. Fiberboard manufacturing practices in the United States. USDA, Forest Serv., Washington Agr. Handbook no. 40. p. 263. 1990.
+TECHNICAL ASSOCIATION OF THE PULP AND PAPER INDUSTRY – TAPPI. T 204 cm-97: Solvent extractives of wood and pulp. Atlanta: TAPPI Standard Method; 1998/1999.
+TECHNICAL ASSOCIATION OF THE PULP AND PAPER INDUSTRY – TAPPI. T 222 om-11: Acid- insoluble lignin in wood and pulp. Atlanta: TAPPI Standard Method; 2011.
+TIMBER INDUSTRY NEWS. List of largest wood-based panel producers in China. 2019. Disponível em <https://www.timberindustrynews.com/list-of-largest-wood-based-panel-producers-in-china/>. Acesso em: 22 Jun. 2021.
+TROVATI, G. et al. Production and characterization of polyurethane castor oil (Ricinus communis) foam for nautical fender. Polymer Testing, [s. l.], v. 73, n. July 2018, p. 87–93, 2019. Disponível em: <https://doi.org/ 10.1016/j.polymertesting.2018.11.010>
+TSOUMIS, G. Science and technology of wood: structure, properties, utilization. New York: Chapman & Hall, 1991.
+VALARELLI, I. D. D. et al. Physical and mechanical properties of particleboard bamboo waste bonded with urea formaldehyde and castor oil based adhesive. Revista Materia, [s. l.], v. 19, n. 1, p. 1–6, 2014.
+VALENTE, O. S.; PASA V. M. D.; BELCHIOR C. R. P.; SODRE J. R. Physical-chemical properties of waste cooking oil biodiesel and castor oil biodiesel blends. Fuel 2011; 90:1700-2.
+VALLE, A.C.M. Influência da adição de nanopartículas de dióxido de titânio (TiO2) nas propriedades fisico- mecânicas de painéis MDP. Dissertação (Mestrado em Ciências Florestais) – Universidade de São Paulo, Piracicaba, 2018.
+VIDIL, L. et al. Thermal insulating particle boards reinforced with coconut leaf sheaths. Green Materials, [s. l.], v. 4, n. 1, p. 31–40, 2016.
+      
+VILAR, W. D. Química e tecnologia dos poliuretanos. 2. ed. Rio de Janeiro: Vilar Consultoria Técnica, 2000. WANG, S.; WINISTORFER, P.M.; MOSCHLER, W.; HELTON, C. Hot-pressing of oriented strand board by
+step-closure. Forest Products Journal, Madison, v. 50, n. 3, p. 28-34, 2000.
+WANG, D.; SUN, X. S. Low density particleboard from wheat straw and corn pith. Ind. Crops Prod. 15:43-50.
+2002.
+WANG, S.; KNUDSON, R.M. Suitability of oriented strand board for upholstered furniture technical analysis.
+Forintek report No. 3251. Ste-Foy, Québec Canada. 64 pp. 2002.
+WANG, X.; SALENIKOVICH, A.; MOHAMMAD, M. Localized density effects on fastener holding capacites
+in woodbased panels. Forest Prod. J. 57(1/2):103-109. 2007.
+WECHSLER, A. et al. Macadamia (Macadamia integrifolia) shell and castor (Ricinus communis) oil based
+sustainable particleboard: A comparison of its properties with conventional wood based particleboard. Materials and Design, [s. l.], v. 50, p. 117–123, 2013. Disponível em: <http://dx.doi.org/10.1016/j.matdes.2013.03.008>
+WOODS, G. The ICI polyurethanes book. New York: John Willey, 1990.
+ZHANG, M. et al. Manufacture and properties of high-performance oriented strand board composite using thin
+strand. Japan Wood Science, Japan, n. 44, p.191-197, 1998.
+ZHANG, H. et al. Impact modelling and a posteriori non-destructive evaluation of homogeneous particleboards
+of sugarcane bagasse. Journal of Nondestructive Evaluation, [s. l.], v. 37, n. 1, p. 1–30, 2018. Disponível em: <https://doi.org/10.1007/s10921-018-0461-9>

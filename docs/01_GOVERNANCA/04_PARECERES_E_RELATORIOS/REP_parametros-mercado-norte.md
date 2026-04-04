@@ -1,25 +1,20 @@
 ---
-projeto: Mulheres Que Tecem a Floresta 
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Relatório de Custos (GOV)
-referencia: REP-PAR-001-2026
-status: Status Ready
-author:
-- name: Consórcio UnB/UFRR/UFAC
-date: '2026-03-24'
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: REP_parametros-mercado-norte.md
+status: Consolidado
 ---
-
-![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
 <p align="right"><i>"Ciência é a investigação da verdade."<br>— Carlos Chagas</i></p>
 
-### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../assets/patterns/square_05_cyan.svg" width="22px">&nbsp; Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: REP_parametros-mercado-norte.md
-*   **Status**: Status Consoliado
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 27 de Março de 2026
+*   **Status**: Consolidado
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 # Parâmetros de Referência: Precificação Industrial Norte
 **Série:** Governança e Estratégia | **Versão:** 1.0 | **Data:** 2026-03-24 | **Autor:** Coordenação Técnica | **Status:** Status Ready
@@ -46,9 +41,9 @@ Para o cálculo de **Contrapartida de PI** e **CAPEX de Projetos**, utilizaremos
 
 ## 3. Fatores Adicionais (Mark-up Logístico)
 
-* <img src="../../../../assets/icons/human_19_black.svg" width="18px">   **Fator Logístico (FL):** <img src="../../../../assets/icons/human_19_black.svg" width="18px"> +15% sobre o custo de insumos (reflete o frete Manaus-Rio Branco/Interior).
-* <img src="../../../../assets/icons/human_10_black.svg" width="18px">   **Margem de Contingência:** <img src="../../../../assets/icons/human_10_black.svg" width="18px"> 5% para variações de câmbio em componentes importados (ex: inversores).
-* <img src="../../../../assets/icons/human_17_black.svg" width="18px">   **Valuation de Soberania (VS):** <img src="../../../../assets/icons/human_17_black.svg" width="18px"> Multiplicador de **1.4x** <img src="../../../../assets/icons/human_17_black.svg" width="18px"> sobre o custo de fábrica. Este fator quantifica o ativo intangível (Invenção/Patente), cobrindo o risco de P&D e a ausência de royalties estrangeiros.
+* <img src="../../assets/icons/human_19_black.svg" width="18px">   **Fator Logístico (FL):** <img src="../../assets/icons/human_19_black.svg" width="18px"> +15% sobre o custo de insumos (reflete o frete Manaus-Rio Branco/Interior).
+* <img src="../../assets/icons/human_10_black.svg" width="18px">   **Margem de Contingência:** <img src="../../assets/icons/human_10_black.svg" width="18px"> 5% para variações de câmbio em componentes importados (ex: inversores).
+* <img src="../../assets/icons/human_17_black.svg" width="18px">   **Valuation de Soberania (VS):** <img src="../../assets/icons/human_17_black.svg" width="18px"> Multiplicador de **1.4x** <img src="../../assets/icons/human_17_black.svg" width="18px"> sobre o custo de fábrica. Este fator quantifica o ativo intangível (Invenção/Patente), cobrindo o risco de P&D e a ausência de royalties estrangeiros.
 
 ## Como Citar Este Trabalho
 
@@ -72,6 +67,4 @@ Para o cálculo de **Contrapartida de PI** e **CAPEX de Projetos**, utilizaremos
 ---
 
 ---
-
----
-<p align="center"><img src="../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

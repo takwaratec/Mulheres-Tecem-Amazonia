@@ -1,22 +1,20 @@
 ---
 projeto: Mulheres Que Tecem a Floresta
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Relatório de Edital — Curadoria Soberana
-referencia: EDT-003
-fonte: CONAB / BNDES — Fundo Amazônia
-status: Ready — PREVIEW
-prazo_submissao: "A confirmar — Chamada Pública em elaboração (2026)"
-link_oficial: "conab.gov.br/agricultura-familiar/amazonia-viva"
-autor:
-- name: Curadoria Soberana MQTF
-date: '2026-03-31'
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: EDT-003-CONAB-AMAZONIAVIVA.md
+status: Em Revisão
 ---
-
-![Status: Ready](https://img.shields.io/badge/Status-Ready-brightgreen) ![Recurso: R$80M](https://img.shields.io/badge/Investimento-R%24%2080%20milh%C3%B5es-green) ![Aderência: 92/100](https://img.shields.io/badge/Ader%C3%AAncia-92%2F100-blue)
 
 <p align="right"><i>"A floresta alimenta quem sabe ouvi-la."<br>— Curadoria Soberana MQTF</i></p>
 
----
+### <img src="../../assets/patterns/square_05_red.svg" width="22px">&nbsp; Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: EDT-003-CONAB-AMAZONIAVIVA.md
+*   **Status**: Em Revisão
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 # <img src="../../assets/patterns/square_title_red.svg" width="30px"> EDT-003 — CONAB/BNDES: Florestas e Comunidades — Amazônia Viva (2026)
 
@@ -79,4 +77,4 @@ O **Amazônia Viva** (agora **EDT-003**) é o edital de **maior alinhamento estr
 - BRASIL. **Lei nº 11.326/2006** — Política Nacional da Agricultura Familiar.
 
 ---
-<p align="center"><img src="../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="45px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br>Consórcio Científico UnB / UFRR / UFAC<br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

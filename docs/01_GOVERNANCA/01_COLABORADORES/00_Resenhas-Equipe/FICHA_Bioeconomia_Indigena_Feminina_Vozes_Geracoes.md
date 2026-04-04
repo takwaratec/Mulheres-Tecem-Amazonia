@@ -1,25 +1,30 @@
 ---
 projeto: Mulheres Que Tecem a Floresta
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Documento Técnico
-referencia: FICHA_Bioeconomia_Indigena_Feminina_Vozes_Geracoes
-status: Status Ready
-author:
-- name: Consórcio UnB/UFRR/UFAC
-date: '2026-03-26'
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: FICHA_Bioeconomia_Indigena_Feminina_Vozes_Geracoes.md
+status: Consolidado
 ---
+
+<p align="right"><i>"O céu está caindo porque os brancos não param de comer a terra."<br>— Davi Kopenawa</i></p>
+
+### <img src="../../../assets/patterns/square_05_cyan.svg" width="22px">&nbsp; Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: FICHA_Bioeconomia_Indigena_Feminina_Vozes_Geracoes.md
+*   **Status**: Consolidado
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+
+<p align="right"><i>"O céu está caindo porque os brancos não param de comer a terra."<br>— Davi Kopenawa</i></p>
+
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 ![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
 <p align="right"><i>"O céu está caindo porque os brancos não param de comer a terra."<br>— Davi Kopenawa</i></p>
 
-### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
-*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
-*   **Instituição**: Consórcio UnB / UFRR / UFAC
-*   **Referência**: FICHA_Bioeconomia_Indigena_Feminina_Vozes_Geracoes.md
-*   **Status**: Status Consoliado
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 27 de Março de 2026
 
 Como Pesquisador Sênior e Analista de Dados do Projeto WTF (Mulheres Que Tecem a Floresta), apresento a FICHA CIENTÍFICA ESTRUTURADA deste importante material:
 
@@ -27,11 +32,11 @@ Como Pesquisador Sênior e Analista de Dados do Projeto WTF (Mulheres Que Tecem 
 
 **1. METADADOS E CABEÇALHO**
 
-* <img src="../../../../../assets/icons/human_07_black.svg" width="18px">   **projeto:** <img src="../../../../../assets/icons/human_07_black.svg" width="18px"> Mulheres Que Tecem a Floresta
-* <img src="../../../../../assets/icons/human_12_black.svg" width="18px">   **instituicao:** <img src="../../../../../assets/icons/human_12_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
-* <img src="../../../../../assets/icons/human_02_black.svg" width="18px">   **tipo:** <img src="../../../../../assets/icons/human_02_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
-* <img src="../../../../../assets/icons/human_16_black.svg" width="18px">   **referencia:** <img src="../../../../../assets/icons/human_16_black.svg" width="18px"> PES-TEC-3745-2026
-* <img src="../../../../../assets/icons/human_04_black.svg" width="18px">   **status:** <img src="../../../../../assets/icons/human_04_black.svg" width="18px"> Ready
+* <img src="../../../assets/icons/human_07_black.svg" width="18px">   **projeto:** <img src="../../../assets/icons/human_07_black.svg" width="18px"> Mulheres Que Tecem a Floresta
+* <img src="../../../assets/icons/human_12_black.svg" width="18px">   **instituicao:** <img src="../../../assets/icons/human_12_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
+* <img src="../../../assets/icons/human_02_black.svg" width="18px">   **tipo:** <img src="../../../assets/icons/human_02_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
+* <img src="../../../assets/icons/human_16_black.svg" width="18px">   **referencia:** <img src="../../../assets/icons/human_16_black.svg" width="18px"> PES-TEC-3745-2026
+* <img src="../../../assets/icons/human_04_black.svg" width="18px">   **status:** <img src="../../../assets/icons/human_04_black.svg" width="18px"> Ready
 
 **REFERÊNCIA BIBLIOGRÁFICA (ABNT):**
 UMA CONCERTAÇÃO PELA AMAZÔNIA (Org.). **Bioeconomia indígena feminina da Amazônia**: vozes das gerações. São Paulo: Uma Concertação pela Amazônia, 2025. (Cadernos da Concertação, 11).
@@ -42,9 +47,9 @@ UMA CONCERTAÇÃO PELA AMAZÔNIA (Org.). **Bioeconomia indígena feminina da 
 Este material, intitulado "Bioeconomia Indígena Feminina da Amazônia: Vozes das Gerações", é um esforço coletivo e colaborativo que visa visibilizar e legitimar as ciências, tecnologias sociais e práticas sustentáveis de mulheres indígenas da Amazônia em relação à bioeconomia. A obra enfatiza que a bioeconomia, sob a perspectiva indígena, transcende o aspecto financeiro, incorporando cultura, saberes ancestrais e a relação intrínseca com o "corpo-território". O documento destaca a demarcação territorial como a primeira política da bioeconomia, essencial para a manutenção da floresta em pé e para a sobrevivência dos povos indígenas. Ele aborda os desafios da invisibilização histórica, da imposição de conceitos externos, dos impactos de atividades predatórias (como o garimpo) e das mudanças climáticas sobre suas produções tradicionais. Por meio de relatos de mulheres de diversos povos (Baniwa, Munduruku, Tupari, Sateré-Mawé, Tapajó, Guajajara, Yawanawá), o caderno promove a autonomia, a valorização cultural, o acesso a mercados justos e a gestão indígena de recursos, reiterando a necessidade de que as mulheres indígenas estejam no centro das discussões sobre o futuro da Amazônia.
 
 **3 palavras-chave em português:**
-* <img src="../../../../../assets/icons/human_15_black.svg" width="18px">   Bioeconomia Indígena
-* <img src="../../../../../assets/icons/human_03_black.svg" width="18px">   Mulheres Amazônicas
-* <img src="../../../../../assets/icons/human_11_black.svg" width="18px">   Saberes Ancestrais
+* <img src="../../../assets/icons/human_15_black.svg" width="18px">   Bioeconomia Indígena
+* <img src="../../../assets/icons/human_03_black.svg" width="18px">   Mulheres Amazônicas
+* <img src="../../../assets/icons/human_11_black.svg" width="18px">   Saberes Ancestrais
 
 **3. EXTRAÇÃO DE DADOS (TABELA)**
 
@@ -92,9 +97,9 @@ Este documento é de imenso benefício para as mulheres extrativistas, pois:
 
 **Relação com saberes ancestrais (Tania, Sonia, Georgia):**
 O caderno é uma profunda imersão nos saberes ancestrais das mulheres indígenas, demonstrando como eles são a espinha dorsal de suas economias e resistência.
-* <img src="../../../../../assets/icons/human_10_black.svg" width="18px">   **Generalista (Tania):** <img src="../../../../../assets/icons/human_10_black.svg" width="18px"> Embora a "Tania" não seja explicitamente mencionada no texto, a riqueza dos depoimentos sobre a transmissão intergeracional de conhecimentos, a valorização das "ciências milenares" e a resiliência cultural das mulheres indígenas ressoa com a importância de figuras como Tania no Projeto WTF, que poderiam atuar como facilitadoras, articuladoras ou mentoras na preservação e aplicação desses saberes. O texto reforça que o valor do "fazer no tempo" e a qualidade singular dos produtos são ensinamentos passados de mães para filhas, um legado ancestral que molda a própria identidade.
-* <img src="../../../../../assets/icons/human_01_black.svg" width="18px">   **Sonia Guajajara:** <img src="../../../../../assets/icons/human_01_black.svg" width="18px"> A ministra Sonia Guajajara é mencionada no encerramento como um símbolo da luta por espaço para os povos e mulheres indígenas. O relatório fornece a base empírica e narrativa para suas pautas políticas, evidenciando que a demarcação de terras e o reconhecimento das "muitas economias" indígenas (pautadas em cuidado, reciprocidade e sustentabilidade) são pilares fundamentais para um Brasil sem invisibilização. A frase "nunca mais um Brasil sem os povos indígenas e sem as mulheres indígenas nos espaços de discussão" sintetiza a conexão direta entre os saberes ancestrais documentados e a ação política que Sonia representa.
-* <img src="../../../../../assets/icons/human_05_black.svg" width="18px">   **Georgia Jordão:** <img src="../../../../../assets/icons/human_05_black.svg" width="18px"> Sua participação como coordenadora de conteúdo e revisora crítica do texto demonstra a ponte entre os saberes ancestrais e o campo acadêmico/institucional. Para Georgia, que é responsável pela frente de Conhecimento, este caderno é um recurso valioso que legitima as "ciências da floresta" como conhecimento legítimo, desafiando a visão unilateral de "inovação". Ele oferece um arcabouço sólido para integrar as perspectivas indígenas na gestão da sustentabilidade, mostrando que as soluções para os desafios contemporâneos (incluindo as mudanças climáticas) residem nas práticas milenares e na visão holística que as mulheres indígenas possuem sobre o corpo-território.
+* <img src="../../../assets/icons/human_10_black.svg" width="18px">   **Generalista (Tania):** <img src="../../../assets/icons/human_10_black.svg" width="18px"> Embora a "Tania" não seja explicitamente mencionada no texto, a riqueza dos depoimentos sobre a transmissão intergeracional de conhecimentos, a valorização das "ciências milenares" e a resiliência cultural das mulheres indígenas ressoa com a importância de figuras como Tania no Projeto WTF, que poderiam atuar como facilitadoras, articuladoras ou mentoras na preservação e aplicação desses saberes. O texto reforça que o valor do "fazer no tempo" e a qualidade singular dos produtos são ensinamentos passados de mães para filhas, um legado ancestral que molda a própria identidade.
+* <img src="../../../assets/icons/human_01_black.svg" width="18px">   **Sonia Guajajara:** <img src="../../../assets/icons/human_01_black.svg" width="18px"> A ministra Sonia Guajajara é mencionada no encerramento como um símbolo da luta por espaço para os povos e mulheres indígenas. O relatório fornece a base empírica e narrativa para suas pautas políticas, evidenciando que a demarcação de terras e o reconhecimento das "muitas economias" indígenas (pautadas em cuidado, reciprocidade e sustentabilidade) são pilares fundamentais para um Brasil sem invisibilização. A frase "nunca mais um Brasil sem os povos indígenas e sem as mulheres indígenas nos espaços de discussão" sintetiza a conexão direta entre os saberes ancestrais documentados e a ação política que Sonia representa.
+* <img src="../../../assets/icons/human_05_black.svg" width="18px">   **Georgia Jordão:** <img src="../../../assets/icons/human_05_black.svg" width="18px"> Sua participação como coordenadora de conteúdo e revisora crítica do texto demonstra a ponte entre os saberes ancestrais e o campo acadêmico/institucional. Para Georgia, que é responsável pela frente de Conhecimento, este caderno é um recurso valioso que legitima as "ciências da floresta" como conhecimento legítimo, desafiando a visão unilateral de "inovação". Ele oferece um arcabouço sólido para integrar as perspectivas indígenas na gestão da sustentabilidade, mostrando que as soluções para os desafios contemporâneos (incluindo as mudanças climáticas) residem nas práticas milenares e na visão holística que as mulheres indígenas possuem sobre o corpo-território.
 
 Em síntese, o documento é um tesouro de informações que valida a centralidade das mulheres indígenas e seus saberes ancestrais para a construção de um futuro sustentável para a Amazônia, alinhando-se perfeitamente aos objetivos do Projeto WTF.
 
@@ -109,6 +114,4 @@ Em síntese, o documento é um tesouro de informações que valida a centralidad
 ---
 
 ---
-
----
-<p align="center"><img src="../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

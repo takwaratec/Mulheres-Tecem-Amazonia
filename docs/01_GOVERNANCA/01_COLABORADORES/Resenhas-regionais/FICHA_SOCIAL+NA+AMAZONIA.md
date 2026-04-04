@@ -1,25 +1,30 @@
 ---
 projeto: Mulheres Que Tecem a Floresta
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Documento Técnico
-referencia: FICHA_SOCIAL+NA+AMAZONIA
-status: Status Ready
-author:
-- name: Consórcio UnB/UFRR/UFAC
-date: '2026-03-26'
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: FICHA_SOCIAL+NA+AMAZONIA.md
+status: Consolidado
 ---
+
+<p align="right"><i>"A terra não é um negócio, a terra é a nossa mãe."<br>— Ailton Krenak</i></p>
+
+### <img src="../../../assets/patterns/square_05_cyan.svg" width="22px">&nbsp; Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: FICHA_SOCIAL+NA+AMAZONIA.md
+*   **Status**: Consolidado
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+
+<p align="right"><i>"A terra não é um negócio, a terra é a nossa mãe."<br>— Ailton Krenak</i></p>
+
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 ![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
 <p align="right"><i>"A terra não é um negócio, a terra é a nossa mãe."<br>— Ailton Krenak</i></p>
 
-### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
-*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
-*   **Instituição**: Consórcio UnB / UFRR / UFAC
-*   **Referência**: FICHA_SOCIAL+NA+AMAZONIA.md
-*   **Status**: Status Consoliado
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 27 de Março de 2026
 
 Com a presente Ficha Científica Estruturada, o Projeto "Mulheres Que Tecem a Floresta" (WTF) passa a dispor de uma análise aprofundada sobre a formação histórico-social do município de Irituia, PA, e sua conexão com as práticas extrativistas e saberes ancestrais da Amazônia Paraense.
 
@@ -30,11 +35,11 @@ Com a presente Ficha Científica Estruturada, o Projeto "Mulheres Que Tecem a Fl
 
 ### 1. METADADOS E CABEÇALHO
 
-* <img src="../../../../../assets/icons/human_16_black.svg" width="18px">   **Projeto:** <img src="../../../../../assets/icons/human_16_black.svg" width="18px"> Mulheres Que Tecem a Floresta
-* <img src="../../../../../assets/icons/human_02_black.svg" width="18px">   **Instituição:** <img src="../../../../../assets/icons/human_02_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
-* <img src="../../../../../assets/icons/human_20_black.svg" width="18px">   **Tipo:** <img src="../../../../../assets/icons/human_20_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
-* <img src="../../../../../assets/icons/human_11_black.svg" width="18px">   **Referência Interna:** <img src="../../../../../assets/icons/human_11_black.svg" width="18px"> PES-TEC-5414-2026
-* <img src="../../../../../assets/icons/human_07_black.svg" width="18px">   **Status:** <img src="../../../../../assets/icons/human_07_black.svg" width="18px"> Ready
+* <img src="../../../assets/icons/human_16_black.svg" width="18px">   **Projeto:** <img src="../../../assets/icons/human_16_black.svg" width="18px"> Mulheres Que Tecem a Floresta
+* <img src="../../../assets/icons/human_02_black.svg" width="18px">   **Instituição:** <img src="../../../assets/icons/human_02_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
+* <img src="../../../assets/icons/human_20_black.svg" width="18px">   **Tipo:** <img src="../../../assets/icons/human_20_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
+* <img src="../../../assets/icons/human_11_black.svg" width="18px">   **Referência Interna:** <img src="../../../assets/icons/human_11_black.svg" width="18px"> PES-TEC-5414-2026
+* <img src="../../../assets/icons/human_07_black.svg" width="18px">   **Status:** <img src="../../../assets/icons/human_07_black.svg" width="18px"> Ready
 
 **REFERÊNCIA BIBLIOGRÁFICA (ABNT):**
 
@@ -69,14 +74,14 @@ O objetivo deste artigo é analisar a formação histórico-social na Amazônia 
 
 ### 4. RELAÇÃO COM O PROJETO (CONEXÃO WTF)
 
-* <img src="../../../../../assets/icons/human_10_black.svg" width="18px">   **Como isso beneficia as mulheres extrativistas?**
+* <img src="../../../assets/icons/human_10_black.svg" width="18px">   **Como isso beneficia as mulheres extrativistas?**
     Este artigo oferece um valioso panorama histórico que ressoa diretamente com as realidades e desafios enfrentados pelas mulheres extrativistas no presente. Ao detalhar a formação socioeconômica de Irituia-PA, o estudo evidencia:
     1.  **Validação de Práticas Tradicionais:** A pesquisa destaca a forte agricultura diversificada e a utilização de rios para transporte e comércio desde o período colonial. Para as mulheres extrativistas, isso valida a importância histórica e a resiliência de seus sistemas produtivos e o uso sustentável dos recursos naturais (terras e rios), que são pilares de sua subsistência e cultura.
     2.  **Contexto para Lutas por Território:** A menção às sesmarias, conflitos com colonizadores e a resistência indígena fornece um contexto histórico crucial para as atuais lutas por demarcação de terras, direitos territoriais e reconhecimento de comunidades tradicionais. Compreender a gênese dessas disputas pode fortalecer as estratégias de advocacy e defesa de direitos das mulheres extrativistas.
     3.  **Economia da Floresta:** A diversidade de produtos agrícolas e extrativistas historicamente importantes (tabaco, borracha, madeira, farinha, cacau) mostra o potencial e a relevância de uma economia baseada na floresta, indo além de monoculturas. Isso pode inspirar e fortalecer projetos de cadeias de valor sustentáveis para as mulheres extrativistas, diversificando suas fontes de renda e promovendo o uso multifuncional da floresta.
     4.  **Papel da Mulher (Implícito):** Embora o artigo não foque nas mulheres, a descrição das "práticas agrícolas" e "relações socioeconômicas" implica o trabalho feminino no campo e nas comunidades, que historicamente foi (e continua sendo) fundamental para a produção e reprodução social na Amazônia.
 
-* <img src="../../../../../assets/icons/human_09_black.svg" width="18px">   **Relação com saberes ancestrais (Tania, Sonia, Georgia).**
+* <img src="../../../assets/icons/human_09_black.svg" width="18px">   **Relação com saberes ancestrais (Tania, Sonia, Georgia).**
     O estudo estabelece uma conexão profunda com os saberes ancestrais, personificados em figuras como Tania, Sonia e Georgia, ao evidenciar:
     1.  **Resiliência Indígena e Adaptação:** O artigo destaca a presença contínua e a resistência dos povos indígenas Tembé na região, sua capacidade de "rearticulação das práticas tradicionais" e a "construção da autonomia por meio do trabalho da terra" mesmo sob pressão colonial. Isso ressalta a importância dos conhecimentos tradicionais para a sobrevivência e adaptação às mudanças, um legado que as guardiãs dos saberes ancestrais preservam.
     2.  **Conhecimento do Território:** A menção ao conhecimento indígena crucial para a navegação dos rios ("imensa maioria das terras exploradas está às margens dos rios ou é atravessada por curso d’água") sublinha a íntima relação dos povos originários com o ambiente. Tania, Sonia e Georgia representam essa sabedoria milenar sobre a floresta, os rios, os ciclos da natureza e as melhores práticas de manejo.
@@ -139,6 +144,4 @@ O objetivo deste artigo é analisar a formação histórico-social na Amazônia 
 ---
 
 ---
-
----
-<p align="center"><img src="../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

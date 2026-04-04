@@ -1,35 +1,20 @@
 ---
-author:
-- affiliation: Universidade de Brasília / Núcleo Institucional
-  name: Institucional, Fabio Resck
-  orcid: 0000-0001-8815-3885
-date: '2026-03-06'
-H.5281/zenodo.18827106
-keywords:
-- patente
-- modelo de utilidade
-- resinador artesanal
-- bambu 3m
-- tecnologia social
-language: pt
-license: CC BY 4.0
-series: Série Projetos de Engenharia — Maquinário Proprietário
-title: 'Memorial Jurídico: Resinador Rotativo Artesanal 3m "Frangueira"'
-type: Memorial de Patente
-version: '5.1'
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: ENG_memorial-patente-frangueira-artesanal.md
+status: Em Revisão
 ---
-
-![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 <p align="right"><i>"A crise da educação no Brasil não é uma crise; é um projeto."<br>— Darcy Ribeiro</i></p>
 
-### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../assets/patterns/square_05_red.svg" width="22px">&nbsp; Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: ENG_memorial-patente-frangueira-artesanal.md
-*   **Status**: Status Em Revisão
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 27 de Março de 2026
+*   **Status**: Em Revisão
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 # Memorial Jurídico: Resinador Rotativo Artesanal 3m "Frangueira"
 
@@ -73,6 +58,4 @@ Takwara, F. R. (2026). *Memorial Jurídico: Resinador Rotativo Artesanal 3m "Fra
 ---
 
 ---
-
----
-<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

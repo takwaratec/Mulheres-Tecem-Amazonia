@@ -1,25 +1,20 @@
 ---
 projeto: Mulheres Que Tecem a Floresta
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Formulário Institucional (BNDES Modelo 01)
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
 referencia: MODELO_01_BNDES_FORMULARIO.md
-status: Status Em Revisão
-author:
-- name: Consórcio UnB/UFRR/UFAC
-date: '2026-03-28'
+status: Em Revisão
 ---
-
-![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 <p align="right"><i>"A transparência é o alicerce da soberania tecnológica."<br>— Memorial MQTF</i></p>
 
-### <img src="../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
-**Projeto**: Mulheres Que Tecem a Floresta (MQTF)
-**Instituição**: Consórcio UnB / UFRR / UFAC
-**Referência**: MODELO_01_BNDES_FORMULARIO.md
-**Status**: Status Em Revisão
-**Autor**: Consórcio UnB / UFRR / UFAC
-**Data**: 28 de Março de 2026
+### <img src="../assets/patterns/square_05_red.svg" width="22px">&nbsp; Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: MODELO_01_BNDES_FORMULARIO.md
+*   **Status**: Em Revisão
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 # <img src="../assets/patterns/square_title_red.svg" width="30px"> MODELO 01: Formulário de Apresentação de Projeto (BNDES)
 
@@ -44,4 +39,4 @@ A Amazônia Sul-Ocidental enfrenta desafios críticos de logística, saneamento 
 <img src="../assets/icons/human_14_black.svg" width="18px"> **Meta 2**: Instalação do Canteiro-Escola Hub em Rio Branco...
 
 ---
-<p align="center"><img src="../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

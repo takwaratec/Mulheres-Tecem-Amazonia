@@ -1,27 +1,20 @@
 ---
 projeto: Mulheres Que Tecem a Floresta
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Diagnóstico de Área (Bioeconomia)
-referencia: WTF-DIAG-002
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: WTF-DIAG-002_PARADIGMAS_BIOECONOMIA_AMAZONICA.md
 status: Em Revisão
-author:
-- name: Consórcio UnB / UFRR / UFAC
-date: '2026-03-30'
 ---
-
-![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 <p align="right"><i>"Feliz aquele que transfere o que sabe e aprende o que ensina."<br>— Cora Coralina</i></p>
 
-### <img src="../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
-**Projeto**: Mulheres Que Tecem a Floresta (MQTF)
-**Instituição**: Consórcio UnB / UFRR / UFAC
-**Referência**: WTF-DIAG-002 (Série Diagnósticos de Área)
-**Status**: Em Revisão
-**Curadoria**: Consórcio Científico MQTF
-**Data**: 30 de Março de 2026
+### <img src="../assets/patterns/square_05_green.svg" width="22px">&nbsp; Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: WTF-DIAG-002_PARADIGMAS_BIOECONOMIA_AMAZONICA.md
+*   **Status**: Em Revisão
 
----
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 # <img src="../assets/patterns/square_title_red.svg" width="30px"> A ENGENHARIA DA PRECARIEDADE E O COLAPSO SISTÊMICO
 
@@ -145,4 +138,4 @@ A Amazônia pós-COP30 está em uma encruzilhada histórica. A manutenção do *
 - <img src="../assets/icons/human_20_black.svg" width="18px"> **UFRN / REPOSITÓRIO**. *Discursos no Trabalho Análogo à Escravidão: um estudo de caso de trabalhadores resgatados na cadeia produtiva da carnaúba/RN*. 2025. Disponível em: [https://repositorio.ufrn.br/bitstreams/e9d3625f-dd62-4fd9-98c3-41ea01dafa07/download](https://repositorio.ufrn.br/bitstreams/e9d3625f-dd62-4fd9-98c3-41ea01dafa07/download). Acesso em: 25 mar. 2026.
 
 ---
-<p align="center"><img src="../assets/logo_BQTF/logo_mqtf_soberana.svg" width="45px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br>Consórcio Científico UnB / UFRR / UFAC<br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

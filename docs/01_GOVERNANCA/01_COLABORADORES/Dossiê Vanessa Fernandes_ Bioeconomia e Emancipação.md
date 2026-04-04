@@ -1,25 +1,20 @@
 ---
-projeto: Mulheres Que Tecem a Floresta 
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Pesquisa: Bioeconomia Social (PES)
-referencia: PES-SOCIO-005-2026
-status: Status Ready
-author:
-- name: Consórcio UnB/UFRR/UFAC
-date: '2026-03-24'
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: Dossiê Vanessa Fernandes_ Bioeconomia e Emancipação.md
+status: Consolidado
 ---
-
-![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
 <p align="right"><i>"A vida é curta, a arte é longa."<br>— Machado de Assis</i></p>
 
-### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../assets/patterns/square_05_cyan.svg" width="22px">&nbsp; Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: Dossiê Vanessa Fernandes_ Bioeconomia e Emancipação.md
-*   **Status**: Status Consoliado
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 27 de Março de 2026
+*   **Status**: Consolidado
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 # **Vanessa Fernandes: Interfaces entre Bioeconomia, Direitos Territoriais e a Emancipação de Mulheres e Indígenas na Universidade de Brasília**
 A trajetória intelectual e institucional vinculada ao nome Vanessa Fernandes no ecossistema da Universidade de Brasília (UnB), particularmente no campus da Faculdade de Planaltina (FUP), configura-se como um ponto de convergência entre a ciência química aplicada, a gestão de políticas de fomento à pesquisa e o fortalecimento de movimentos sociais de base identitária. Este dossiê organiza e analisa de forma exaustiva o acervo de publicações, as redes de colaboração e as implicações sociopolíticas da atuação dessa figura — e de perfis homônimos que se cruzam na produção científica da instituição — com foco na bioeconomia sustentável, na emancipação feminina e no protagonismo das populações indígenas.
@@ -190,6 +185,4 @@ A produção científica e a atuação institucional documentadas neste dossiê 
 ---
 
 ---
-
----
-<p align="center"><img src="../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

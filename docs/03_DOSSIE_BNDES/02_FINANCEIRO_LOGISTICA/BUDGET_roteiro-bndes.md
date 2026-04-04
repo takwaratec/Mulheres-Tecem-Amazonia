@@ -1,25 +1,20 @@
 ---
 projeto: Mulheres Que Tecem a Floresta
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Documento Técnico
-referencia: BUDGET_roteiro-bndes
-status: Status Ready
-author:
-- name: Consórcio UnB/UFRR/UFAC
-date: '2026-03-26'
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: BUDGET_roteiro-bndes.md
+status: Consolidado
 ---
-
-![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 <p align="right"><i>"Não se morre enquanto houver quem nos lembre."<br>— Cora Coralina</i></p>
 
-### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../assets/patterns/square_05_red.svg" width="22px">&nbsp; Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: BUDGET_roteiro-bndes.md
-*   **Status**: Status Em Revisão
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 27 de Março de 2026
+*   **Status**: Consolidado
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 # Roteiro de Aplicação: Rubricas BNDES e Execução por Núcleo
 
@@ -43,22 +38,22 @@ Este documento detalha as rubricas permitidas para o projeto **Mulheres Que Tece
 ### Eixo A: Núcleo de Engenharia e Bioconstrução (Rio Branco)
 *Fornecedor de equipamentos e infraestrutura para a rede.*
 
-- <img src="../../../../assets/icons/human_20_black.svg" width="18px"> **Mês 1-6**: Aquisição do **Caminhão** <img src="../../../../assets/icons/human_20_black.svg" width="18px"> e **Micro-ônibus** <img src="../../../../assets/icons/human_20_black.svg" width="18px"> para transporte de equipe, aprendizes e logística de acoplagem. Montagem urgente do **Domo Voador** <img src="../../../../assets/icons/human_20_black.svg" width="18px"> para mobilização regional.
-- <img src="../../../../assets/icons/human_07_black.svg" width="18px"> **Mês 3-9**: Adequação da planta de processamento de bambu e PU Vegetal. Compra de máquinas de prateleira (serras, furadeiras).
-- <img src="../../../../assets/icons/human_06_black.svg" width="18px"> **Mês 6-12**: Produção e testes dos primeiros BSMs. Conclusão da Geodésica e **início das caravanas**.
-- <img src="../../../../assets/icons/human_19_black.svg" width="18px"> **Valor Alocado**: R$ 10.000.000,00
+- <img src="../../assets/icons/human_20_black.svg" width="18px"> **Mês 1-6**: Aquisição do **Caminhão** <img src="../../assets/icons/human_20_black.svg" width="18px"> e **Micro-ônibus** <img src="../../assets/icons/human_20_black.svg" width="18px"> para transporte de equipe, aprendizes e logística de acoplagem. Montagem urgente do **Domo Voador** <img src="../../assets/icons/human_20_black.svg" width="18px"> para mobilização regional.
+- <img src="../../assets/icons/human_07_black.svg" width="18px"> **Mês 3-9**: Adequação da planta de processamento de bambu e PU Vegetal. Compra de máquinas de prateleira (serras, furadeiras).
+- <img src="../../assets/icons/human_06_black.svg" width="18px"> **Mês 6-12**: Produção e testes dos primeiros BSMs. Conclusão da Geodésica e **início das caravanas**.
+- <img src="../../assets/icons/human_19_black.svg" width="18px"> **Valor Alocado**: R$ 10.000.000,00
 
 ### Eixo B: Núcleo Bioeconomia (Roraima/Norte)
-- <img src="../../../../assets/icons/human_04_black.svg" width="18px"> **Ano 1**: Entrega dos primeiros Kits de Bioeconomia e **2 unidades de testes de desempenho** <img src="../../../../assets/icons/human_04_black.svg" width="18px"> (Reatores adaptados).
-- <img src="../../../../assets/icons/human_02_black.svg" width="18px"> **A partir de 6 meses**: Distribuição dos kits após consolidação de acordos e mobilização territorial.
-- <img src="../../../../assets/icons/human_15_black.svg" width="18px"> **Ano 1-2**: Distribuição de equipamentos básicos de informática para apoio à produção e comunicação local.
-- <img src="../../../../assets/icons/human_12_black.svg" width="18px"> **Valor Alocado**: R$ 10.000.000,00
+- <img src="../../assets/icons/human_04_black.svg" width="18px"> **Ano 1**: Entrega dos primeiros Kits de Bioeconomia e **2 unidades de testes de desempenho** <img src="../../assets/icons/human_04_black.svg" width="18px"> (Reatores adaptados).
+- <img src="../../assets/icons/human_02_black.svg" width="18px"> **A partir de 6 meses**: Distribuição dos kits após consolidação de acordos e mobilização territorial.
+- <img src="../../assets/icons/human_15_black.svg" width="18px"> **Ano 1-2**: Distribuição de equipamentos básicos de informática para apoio à produção e comunicação local.
+- <img src="../../assets/icons/human_12_black.svg" width="18px"> **Valor Alocado**: R$ 10.000.000,00
 
 ### Eixo C: Núcleo Ciência e Saneamento
-- <img src="../../../../assets/icons/human_11_black.svg" width="18px"> **Ano 1**: Entrega e instalação dos primeiros **20 módulos BSM** <img src="../../../../assets/icons/human_11_black.svg" width="18px"> (Banheiros Secos).
-- <img src="../../../../assets/icons/human_18_black.svg" width="18px"> **Acompanhamento**: Monitoramento de impacto social, aceitação e adaptabilidade técnica nas localidades contempladas.
-- <img src="../../../../assets/icons/human_10_black.svg" width="18px"> **Produção**: Documentação da série "Mulheres Que Tecem a Floresta" e publicações de base.
-- <img src="../../../../assets/icons/human_14_black.svg" width="18px"> **Valor Alocado**: R$ 10.000.000,00
+- <img src="../../assets/icons/human_11_black.svg" width="18px"> **Ano 1**: Entrega e instalação dos primeiros **20 módulos BSM** <img src="../../assets/icons/human_11_black.svg" width="18px"> (Banheiros Secos).
+- <img src="../../assets/icons/human_18_black.svg" width="18px"> **Acompanhamento**: Monitoramento de impacto social, aceitação e adaptabilidade técnica nas localidades contempladas.
+- <img src="../../assets/icons/human_10_black.svg" width="18px"> **Produção**: Documentação da série "Mulheres Que Tecem a Floresta" e publicações de base.
+- <img src="../../assets/icons/human_14_black.svg" width="18px"> **Valor Alocado**: R$ 10.000.000,00
 
 ---
 
@@ -87,6 +82,4 @@ Os ajustes de intercâmbio territorial (como mobiliário entregue pela biorrefin
 ---
 
 ---
-
----
-<p align="center"><img src="../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

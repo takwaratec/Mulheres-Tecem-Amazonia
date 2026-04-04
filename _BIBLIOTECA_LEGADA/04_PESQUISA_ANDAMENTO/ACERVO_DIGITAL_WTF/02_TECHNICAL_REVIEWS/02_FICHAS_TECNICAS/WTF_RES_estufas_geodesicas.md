@@ -1,0 +1,40 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFAC/UFRR
+equipe: Gestão e Parceria Regional
+tipo: Acervo de Consulta (Ficha Técnica)
+autor_original: Not Identified
+equipe_tecnica: UnB/UFAC/UFRR
+ano_publicacao: '2025'
+---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"O que vale na vida não é o ponto de partida e sim a caminhada."<br>— Cora Coralina</i></p>
+
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: WTF_RES_estufas_geodesicas.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
+## Projeto Centro de Excelência em Tecnologias Geodésicas para Holambra-SP: Inovação Sustentável no Maior Pólo Florístico da América Latina
+
+O presente projeto propõe a implementação de um Centro de Excelência em Tecnologias Geodésicas na cidade de Holambra-SP, integrando as inovações da Tecnologia Institucional para conexões geodésicas com o maior pólo agroindustrial de flores do planeta. Esta iniciativa visa revolucionar o modelo produtivo tradicional baseado em estufas horizo...
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

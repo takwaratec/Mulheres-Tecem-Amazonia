@@ -1,29 +1,20 @@
 ---
 projeto: Mulheres Que Tecem a Floresta
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Dossiê de Diagnóstico Técnico
-referencia: WTF-DIAG-007
-status: Ready
-author:
-- name: Consórcio UnB/UFRR/UFAC
-date: '2026-04-01'
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: WTF-DIAG-007_Construção Naval e Biocompósitos.md
+status: Consolidado
 ---
-
-![Status: Ready](https://img.shields.io/badge/Status-Ready-brightgreen)
 
 <p align="right"><i>"A floresta vive. Ela só pode morrer se os brancos insistirem em destruí-la.<br>Se ela morrer, o céu cairá sobre todos nós."<br>— Davi Kopenawa</i></p>
 
----
-
-### <img src="../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../assets/patterns/square_05_green.svg" width="22px">&nbsp; Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
-*   **Referência**: Diagnóstico de Construção Naval Artesanal e Biocompósitos (Ciclo 2026)
-*   **Status**: Ready (Consolidado)
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 01 de Abril de 2026
+*   **Referência**: WTF-DIAG-007_Construção Naval e Biocompósitos.md
+*   **Status**: Consolidado
 
----
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 # <img src="../assets/patterns/square_title_red.svg" width="30px"> Construção Naval Artesanal e Biocompósitos
 
@@ -95,8 +86,8 @@ A aplicação de calor controlado a **160°C** altera as propriedades do bambu e
 
 O tratamento de interface do bambu para uso naval segue um protocolo de neutralização de pH e proteção biológica em dois estágios:
 
-1. **Primeiro banho — Diquada de cinzas** (2h a 3h): A imersão em vapor saturado com cinzas vegetais alcaliniza a superfície do colmo, neutralizando a acidez natural da seiva e criando condições para a adesão mecânica à matriz polimérica. A diquada é obtida pela dissolução de cinzas de madeiras taninosas (angico, barbatimão, aroeira) em água aquecida.
-2. **Segundo banho — Ácido pirolenhoso** (30 min): O extrato pirolenhoso, subproduto da carbonização controlada da biomassa, atua como agente antifúngico e bactericida de amplo espectro. A exposição curta é suficiente para impregnar as camadas superficiais do colmo, conferindo proteção duradoura sem toxicidade residual.
+1. **Primeiro banho — Diquada de cinzas** (2h a 3h): A imersão em vapor saturado com cinzas vegetais genéricas (oriundas da queima de biomassa na **T01/T02**) alcaliniza a superfície do colmo, neutralizando a acidez natural da seiva e criando condições para a adesão mecânica à matriz polimérica. Ver detalhes no protocolo [NT-005](../04_GESTAO_OPERACIONAL/01_FLUXO_TECNICO/INVENCOES/SISTEMAS_E_GEOPOLITICA/ENG-NT-005_PROTOCOLO-DIQUADA-PIROLENHOSO.md).
+2. **Segundo banho — Ácido pirolenhoso** (30 min): O extrato pirolenhoso, subproduto da carbonização controlada também gerado pelo Reator T01, atua como agente biopesticida e conservante vegetal.
 
 Este protocolo é radical em sua simplicidade: utiliza exclusivamente insumos disponíveis no território, elimina a dependência de reagentes industriais (como NaOH ou compostos de boro importados), e pode ser executado em fornos ecológicos de campo com custo de implantação inferior a R$ 5.000,00.
 
@@ -196,4 +187,4 @@ O contrário — impor tecnologia sem escuta — já foi tentado. Os custos est�
 - SILVA, J. G. R. **Saberes e práticas tradicionais nos estaleiros navais à beira-rio de Manaus**. Tese (Doutorado) — UFAM, 2016.
 
 ---
-<p align="center"><img src="../assets/logo_BQTF/logo_mqtf_soberana.svg" width="45px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br>Consórcio Científico UnB / UFRR / UFAC<br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

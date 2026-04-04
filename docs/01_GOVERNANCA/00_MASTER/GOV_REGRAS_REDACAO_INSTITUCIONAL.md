@@ -1,31 +1,20 @@
 ---
-projeto: Mulheres Que Tecem a Floresta 
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Documento de Governança
-referencia: GOV-DIR-002-2026
-status: CONSOLIDADO (Ready)
-author:
-- affiliation: Universidade de Brasília / Núcleo Institucional
-  name: Institucional, Fabio Resck
-  orcid: 0000-0001-8815-3885
-date: '2026-03-31'
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: GOV_REGRAS_REDACAO_INSTITUCIONAL.md
+status: Em Revisão
 ---
-
-![Status: Ready](https://img.shields.io/badge/Status-Ready-brightgreen)
 
 <p align="right"><i>"A Terra não é um objeto de posse, ela é a nossa mãe.<br>E a gente não tece a vida sozinhos, a gente a tece com a floresta."<br>— Ailton Krenak</i></p>
 
----
-
-### <img src="../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../assets/patterns/square_05_cyan.svg" width="22px">&nbsp; Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
-*   **Referência**: Guia de Redação Institucional e Soberania Técnica (V2.0)
-*   **Status**: CONSOLIDADO (Ready)
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 31 de Março de 2026
+*   **Referência**: GOV_REGRAS_REDACAO_INSTITUCIONAL.md
+*   **Status**: Em Revisão
 
----
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 # <img src="../../assets/patterns/square_title_red.svg" width="30px"> Guia de Redação Institucional e Soberania Técnica
 
@@ -81,4 +70,4 @@ Citações devem seguir o rigor bibliográfico da Mestra MQTF:
 - KRENAK, A. **Ideias para adiar o fim do mundo**. São Paulo: Companhia das Letras, 2019.
 
 ---
-<p align="center"><img src="../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="45px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br>Consórcio Científico UnB / UFRR / UFAC<br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

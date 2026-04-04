@@ -1,25 +1,20 @@
 ---
 projeto: Mulheres Que Tecem a Floresta
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Documento Técnico
-referencia: 01_CADEIAS_VALOR
-status: Status Em Revisão
-author:
-- name: Consórcio UnB/UFRR/UFAC
-date: '2026-03-28'
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: 01_CADEIAS_VALOR.md
+status: Em Revisão
 ---
-
-![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 <p align="right"><i>"O Brasil precisa de ciência para ser soberano."<br>— Ennio Candotti</i></p>
 
-### <img src="../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
-**Projeto**: Mulheres Que Tecem a Floresta (MQTF)
-**Instituição**: Consórcio UnB / UFRR / UFAC
-**Referência**: 01_CADEIAS_VALOR.md
-**Status**: Status Em Revisão
-**Autor**: Consórcio UnB / UFRR / UFAC
-**Data**: 28 de Março de 2026
+### <img src="../assets/patterns/square_05_red.svg" width="22px">&nbsp; Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: 01_CADEIAS_VALOR.md
+*   **Status**: Em Revisão
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 # <img src="../assets/patterns/square_title_red.svg" width="30px"> Componente 1: Cadeias de Valor (Açaí e Castanha)
 
@@ -44,4 +39,4 @@ O componente opera através de agroindústrias compactas e modulares, projetadas
 Sob a liderança da Profa. Sonia, o projeto atua na formação técnica de mulheres para a operação dessas agroindústrias. A capacitação em boas práticas de fabricação (BPF) e gestão cooperativa assegura que o protagonismo feminino se traduza em qualidade técnica e competitividade comercial, alinhando-se às metas de bioeconomia do BNDES.
 
 ---
-<p align="center"><img src="../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

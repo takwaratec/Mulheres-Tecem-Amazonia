@@ -1,25 +1,20 @@
 ---
-projeto: Mulheres Que Tecem a Floresta 
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Orçamento Detalhado (BUDGET)
-referencia: BUDGET-QUAL-030M-2026
-status: Status Ready
-author:
-- name: Consórcio UnB/UFRR/UFAC
-date: '2026-03-24'
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: BUDGET_orcamento-30mi-qualificado.md
+status: Consolidado
 ---
-
-![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
 <p align="right"><i>"Não se faz ciência sem amor ao próximo."<br>— Oswaldo Cruz</i></p>
 
-### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../assets/patterns/square_05_cyan.svg" width="22px">&nbsp; Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: BUDGET_orcamento-30mi-qualificado.md
-*   **Status**: Status Consoliado
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 27 de Março de 2026
+*   **Status**: Consolidado
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 # Planilha Orçamentária Detalhada – 48 meses / R$ 30.000.000
 > [!IMPORTANT]
@@ -79,9 +74,9 @@ date: '2026-03-24'
 
 ## CONTRAPARTIDA E INDICADORES
 
-- <img src="../../../../assets/icons/human_02_black.svg" width="18px"> **Contrapartida Não Financeira:** <img src="../../../../assets/icons/human_02_black.svg" width="18px"> R$ 4.000.000
-- <img src="../../../../assets/icons/human_07_black.svg" width="18px"> **Valor Total do Projeto (com contrapartida):** <img src="../../../../assets/icons/human_07_black.svg" width="18px"> **R$ 34.000.000**
-- <img src="../../../../assets/icons/human_09_black.svg" width="18px"> **Solicitação ao BNDES/Fundo Amazônia:** <img src="../../../../assets/icons/human_09_black.svg" width="18px"> **R$ 30.000.000**
+- <img src="../../assets/icons/human_02_black.svg" width="18px"> **Contrapartida Não Financeira:** <img src="../../assets/icons/human_02_black.svg" width="18px"> R$ 4.000.000
+- <img src="../../assets/icons/human_07_black.svg" width="18px"> **Valor Total do Projeto (com contrapartida):** <img src="../../assets/icons/human_07_black.svg" width="18px"> **R$ 34.000.000**
+- <img src="../../assets/icons/human_09_black.svg" width="18px"> **Solicitação ao BNDES/Fundo Amazônia:** <img src="../../assets/icons/human_09_black.svg" width="18px"> **R$ 30.000.000**
 
 > [!NOTE]
 > **INDICADORES DE EFICIÊNCIA:**
@@ -98,6 +93,4 @@ date: '2026-03-24'
 ---
 
 ---
-
----
-<p align="center"><img src="../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

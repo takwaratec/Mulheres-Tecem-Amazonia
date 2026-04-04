@@ -1,0 +1,149 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFAC/UFRR
+equipe: Gestão e Parceria Regional
+tipo: Acervo de Consulta RAW (Transcrição)
+autor: Acervo Digital Mulheres que Tecem a Floresta
+data: '2025'
+---
+Análise Estratégica da Imperveg Polímeros Vegetais: Performance, Aceitação e Entraves Estruturais no Eixo Brasil-União Europeia
+A indústria química global atravessa uma transformação sem precedentes, impulsionada pela necessidade urgente de descarbonização e pela transição para modelos de economia circular. Nesse cenário, a Imperveg Polímeros Vegetais, empresa brasileira fundada em 2008, destaca-se como uma vanguarda tecnológica no desenvolvimento de poliuretano vegetal derivado do óleo de rícino (Ricinus Communis), popularmente conhecido como mamona.1 A trajetória da organização, no entanto, revela um contraste acentuado entre a excelência técnica de sua "inovação brasileira" e as condições sistêmicas de seus dois principais mercados: o Brasil, sua base de origem, e Portugal, onde atua por meio da Tecnoveg.2
+Este relatório analisa a performance e a aceitação de mercado da Imperveg, detalhando como a falta de incentivos governamentais, a escassez de políticas públicas integradas, a baixa consciência ambiental prática da população brasileira e a conduta de agentes públicos no Brasil atuam como limitadores do crescimento doméstico, em oposição ao ecossistema proativo encontrado no cenário internacional, especialmente via Tecnoveg em Portugal.4
+A Gênese Tecnológica e o Diferencial Competitivo da
+Imperveg
+A fundação da Imperveg em 2008 marcou a introdução de uma tecnologia que buscava resolver uma das maiores contradições da indústria de construção e saneamento: a dependência de resinas de base fóssil que, embora eficazes, possuem alto impacto ambiental e riscos à saúde ocupacional.2 O poliuretano vegetal desenvolvido pela empresa é o resultado de uma química verde que transforma um recurso natural renovável — a mamona — em polímeros de alta performance com propriedades de impermeabilização, resistência química e proteção contra abrasão.1
+Propriedades Químicas e Vantagens Técnicas das Resinas Vegetais
+Ao contrário das resinas tradicionais de poliuretano (PUR), que frequentemente dependem de solventes voláteis e isocianatos derivados de petróleo, a solução da Imperveg é 100% sólida e livre de solventes.3 Esta característica técnica traduz-se em uma aplicação segura, especialmente em ambientes confinados ou em contato direto com alimentos e água potável,
+
+ cumprindo normas rigorosas de potabilidade como a NBR 12170 e a MS 888.7 Abaixo, detalham-se os diferenciais técnicos das principais linhas de produtos em
+comparação com as tecnologias convencionais de mercado:
+     Característica Técnica
+Poliuretano Vegetal (Imperveg/Tecnoveg)
+Resinas Epóxi/PUR Fósseis Convencionais
+Origem da Matriz
+Óleo de Mamona (Fonte Renovável)
+Petróleo (Fonte Não Renovável)
+Conteúdo de Sólidos
+100% (Isento de Solventes)
+Frequentemente < 70% (Contém Solventes)
+Toxicidade
+Atóxica, atende normas de potabilidade
+Pode liberar VOCs e metais pesados
+Resistência Química
+Superior para Ácidos, Álcalis e Sais
+Moderada a Alta, dependendo da cura
+Processamento
+Mistura a frio, sem necessidade de calor
+Muitas vezes requer aquecimento ou catalisadores voláteis
+Sustentabilidade
+Biodegradável e de baixa pegada de carbono
+Persistente no ambiente e alta pegada fóssil
+              O produto Imperveg RQI 132 MR, por exemplo, cria uma membrana monolítica de alta aderência e elasticidade, ideal para reservatórios de água em concreto armado ou fibra de vidro.7 Já a resina AGT 1315 atua como uma matriz aglomerante para compósitos sustentáveis, permitindo a utilização de fibras vegetais, pó de madeira e resíduos agroindustriais (como palha de arroz e bagaço de cana) em novas aplicações industriais, fechando o ciclo da economia circular.9
+Aplicações Setoriais e Versatilidade Operacional
+A versatilidade do poliuretano vegetal permite que a Imperveg atue em setores críticos da infraestrutura nacional e internacional. Na construção civil, as resinas são aplicadas em revestimentos, impermeabilizações de lajes, telhados e pavimentos.6 No setor de saneamento, a Imperveg protege estruturas de concreto em estações de tratamento de esgoto (ETE) contra a corrosão severa causada por gases e substâncias químicas agressivas, como
+
+ demonstrado na impermeabilização do decantador da ETE Pitico - DAAE em Sorocaba.2 Na indústria pesada, o material é utilizado para proteger superfícies metálicas e de madeira contra intempéries, pragas e corrosão química.1
+O Cenário Brasileiro: Inércia Institucional e Barreiras à
+Inovação
+No Brasil, a Imperveg enfrenta um ecossistema de negócios paradoxal. Apesar de o país ser um dos maiores produtores de mamona do mundo e de possuir uma das matrizes elétricas mais limpas do globo, a transição para uma "química verde" industrial é lenta e obstruída por fatores que vão além da economia direta.12
+O Hiato entre a Consciência Ambiental Teórica e a Prática
+Um dos maiores desafios para a aceitação de biopolímeros no Brasil é o comportamento do consumidor e da indústria. O estudo "ESG Trends 2025" revela uma desconexão profunda: embora 90% dos brasileiros afirmem que a reciclagem e a preservação ambiental são atitudes cruciais, apenas 64% colocam esse discurso em prática no cotidiano.5 Esse hiato de 26 pontos percentuais coloca o Brasil na penúltima colocação em um ranking de 13 nações quanto à execução prática de ações sustentáveis.5
+Essa "consciência passiva" reflete-se na baixa demanda por produtos sustentáveis de valor agregado no mercado doméstico. O setor industrial brasileiro, muitas vezes operando com margens estreitas, tende a priorizar o menor custo imediato em detrimento do custo do ciclo de vida ou do impacto ambiental. Além disso, a fragilidade estratégica de utilizar bioplásticos em produtos de baixo valor final (commodities) dificulta a absorção dos custos de pesquisa e desenvolvimento intrínsecos a inovações disruptivas.16
+A Deficiência na Avaliação de Políticas Públicas e Incentivos
+O Brasil investe bilhões em políticas públicas, mas falha sistematicamente em institucionalizar o aprendizado e a avaliação de resultados.4 O Diagnóstico dos Sistemas de Avaliação de Políticas Públicas, realizado pelo FGV Clear, destaca que a maioria dos entes federativos no Brasil possui uma cultura de avaliação incipiente.4 Para empresas como a Imperveg, isso significa que não há mecanismos governamentais eficazes para reconhecer e incentivar o uso de materiais que reduzem drasticamente os custos de manutenção a longo prazo e o impacto ambiental.
+Diferente de setores como o de energia renovável, que contam com políticas de isenção fiscal mais consolidadas, a indústria de química verde e biopolímeros carece de uma legislação federal unificada.17 A ausência de uma classificação clara para bioplásticos e de incentivos fiscais escalonados para produtos biodegradáveis ou de fonte renovável deixa empresas de inovação nacional em desvantagem competitiva frente aos polímeros de base fóssil, cujas
+
+ infraestruturas de produção já estão totalmente amortizadas e cujos impactos ambientais negativos (externalidades) não são precificados.16
+A Conduta de Agentes Públicos e a Rigidez das Licitações
+A barreira mais crítica ao crescimento da Imperveg no Brasil reside na esfera das compras públicas e na conduta dos agentes responsáveis pelas licitações. No setor de saneamento, por exemplo, o Novo Marco Legal (Lei no 14.026/2020) busca a universalização dos serviços, mas a regulação e o financiamento ainda enfrentam grandes incertezas.19
+Nas licitações para obras de infraestrutura, os editais frequentemente são elaborados com base em especificações técnicas obsoletas, desenhadas para materiais tradicionais. Agentes públicos, temendo sanções de órgãos de controle ou por falta de capacitação técnica, tendem a evitar a especificação de materiais inovadores como o poliuretano vegetal.19 A cultura do "menor preço" em licitações públicas ignora a durabilidade superior e a toxicidade nula da solução da Imperveg, favorecendo revestimentos à base de petróleo que, embora mais baratos na aquisição, exigem manutenções frequentes e geram riscos ambientais durante a aplicação.19
+Além disso, a conduta de supervisão em obras rodoviárias e de saneamento muitas vezes foca apenas na conformidade documental, sem um olhar estratégico para a redução da pegada de carbono ou para a inovação tecnológica.21 Essa resistência institucional impede que tecnologias nacionais de ponta, como a da Imperveg, alcancem a escala necessária para competir globalmente a partir de sua base doméstica.
+Performance Internacional: O Modelo Tecnoveg e o
+Cenário Europeu
+Em contrapartida ao cenário brasileiro, a atuação da Imperveg no mercado internacional, operando sob a marca Tecnoveg em Portugal, revela como um ambiente institucional estruturado pode catalisar o sucesso de tecnologias verdes.3 A Tecnoveg, sediada na Zona Industrial de Belmonte, não é apenas uma distribuidora, mas um centro de excelência em "química verde" para o mercado europeu.22
+Portugal 2030: Um Ecossistema de Financiamento e Descarbonização
+O desempenho da Tecnoveg está inserido no framework do "Portugal 2030", um programa de investimentos que canaliza mais de 24 mil milhões de euros de fundos europeus para metas de sustentabilidade, descarbonização e eficiência energética.23 Diferente da fragmentação vista no Brasil, o programa Portugal 2030 estabelece metas claras de economia circular e mobilidade sustentável, criando uma demanda governamental e industrial direta por soluções como as da Tecnoveg.25
+
+ Abaixo, apresenta-se uma comparação da execução de fundos destinados à transição verde em Portugal:
+     Programa/Indicador
+Investimento e Foco Estratégico
+Execução/Meta
+Portugal + Verde
+Foco em descarbonização, eficiência energética e economia circular.
+Core da estratégia 2021-2027.
+Compete 2030
+Apoio à inovação empresarial em novas energias e sustentabilidade.
+Alinhado com metas da UE.
+Pessoas 2030
+Cofinanciamento de "Competências Verdes" para trabalhadores.
+Transição justa e inclusiva.
+Execução Geral
+Cerca de 10% da dotação já aprovada para metas de resiliência hídrica e habitação.
+> 11,4 mil M€ de fundo aprovado.
+          A Tecnoveg aproveita-se desse cenário participando ativamente de fóruns como o evento "Descarbonização Empresarial" em Famalicão, onde apresentou suas soluções para o Presidente da Câmara Municipal e estabeleceu-se como fornecedora da ACIF para futuras licitações de obras públicas municipais.3 Essa integração entre empresa, consultores e poder público local é o reflexo de uma política de coesão que não apenas injeta capital, mas constrói parcerias estratégicas para a transição ecológica.3
+A Aceitação da "Química Verde" e o Networking Europeu
+No cenário internacional, a "inovação brasileira" da Imperveg é recebida como um ativo de alto valor. A Tecnoveg foca em metas de ESG para ajudar empresas europeias a obterem certificações como a LEED.3 O mercado europeu de bioplásticos é projetado para crescer a uma taxa anual composta (TCAC) de 17,96% até 2030, impulsionado por gigantes como BASF e TotalEnergies, o que cria um ecossistema de alta competitividade e rápida adoção tecnológica.27
+A aceitação da Tecnoveg em setores específicos, como o de revestimentos para a indústria e
+
+ saneamento em Portugal, deve-se à conformidade de seus produtos com as rígidas normas da União Europeia. A resina AGT 1315, por exemplo, é ideal para o mercado português de compósitos vegetais (setor de cortiça, madeiras e aglomerados), onde a ausência de vapores tóxicos e a capacidade de cura a frio são diferenciais decisivos para a conformidade ambiental e saúde dos trabalhadores.10
+Análise Comparativa: Brasil vs. Internacional
+(Portugal)
+A divergência entre os resultados da Imperveg no Brasil e na Europa via Tecnoveg pode ser sintetizada em quatro pilares fundamentais: regulação, incentivos, conduta pública e consciência social.
+Contraste Regulatório e de Incentivos
+Enquanto Portugal opera com o Programa de Recuperação e Resiliência e o Portugal 2030, que oferecem suporte financeiro direto para a substituição de infraestruturas cinzentas por tecnologias verdes, o Brasil ainda discute a implementação básica de isenções fiscais para produtos renováveis.17 Em Portugal, a descarbonização não é apenas uma escolha ética, mas uma diretriz econômica com financiamento não associado a custos em diversas tipologias apoiadas pelo FEDER (Fundo Europeu de Desenvolvimento Regional).24
+A Barreira da Conduta Pública e Capacitação
+A conduta dos agentes públicos brasileiros é marcada por uma aversão ao risco gerada por sistemas de controle rígidos e falta de atualização técnica.4 Em contraste, em Portugal, a Tecnoveg atua em colaboração direta com Câmaras Municipais e associações industriais, demonstrando uma proatividade governamental para integrar novas tecnologias em licitações que já preveem critérios de sustentabilidade como obrigatórios.3 Além disso, programas europeus financiam a reconversão de trabalhadores para "competências verdes", garantindo que haja mão de obra qualificada para aplicar as novas tecnologias — uma lacuna que ainda limita o saneamento sustentável no Brasil.19
+O Dilema do Desperdício de Potencial Brasileiro
+A pesquisa publicada na Nature Communications indica que o Brasil poderia liderar a produção global de bioplásticos utilizando apenas terras degradadas, o que capturaria cerca de 52 milhões de toneladas de CO2 por ano.13 Entretanto, sem políticas de "pull" (puxada) de mercado — como as compras públicas sustentáveis e a regulação de bioplásticos — o país continua exportando sua tecnologia (via internacionalização da Imperveg) para florescer em mercados externos, enquanto a infraestrutura doméstica permanece dependente de soluções fósseis ineficientes a longo prazo.13
+
+ Implicações Estratégicas e Recomendações
+A análise da Imperveg demonstra que a tecnologia brasileira de poliuretano vegetal é de classe mundial, mas seu crescimento doméstico é sabotado por um sistema institucional que ainda não aprendeu a valorizar a inovação sustentável.2 O sucesso da Tecnoveg em Portugal prova que existe um caminho sólido para a empresa quando as políticas públicas e o financiamento estão alinhados aos objetivos ambientais.
+Desafios para a Próxima Década no Brasil
+Para que a Imperveg alcance no Brasil o mesmo nível de inserção estratégica que a Tecnoveg possui em Portugal, é necessário superar o hiato entre o discurso e a ação. O país precisa de:
+1. Reforma na Cultura de Avaliação: Institucionalizar o uso de evidências e os custos do ciclo de vida em decisões de compra pública, permitindo que a durabilidade e a atoxicidade da Imperveg sejam contabilizadas como economia para o erário.4
+2. Legislação Específica para Biopolímeros: Criar um arcabouço federal que diferencie bioplásticos de fonte renovável dos plásticos oxo-biodegradáveis ou convencionais, com incentivos fiscais diretos para a "química verde".18
+3. Capacitação de Agentes Públicos: Programas de treinamento técnico para gestores e engenheiros públicos sobre novas tecnologias de saneamento e infraestrutura, reduzindo a resistência institucional à especificação de materiais inovadores em licitações.19
+A Tecnoveg como Modelo de Inserção Internacional
+A estratégia da Tecnoveg em Portugal — baseada em networking estratégico (Famalicão), alinhamento com fundos da UE (Portugal 2030) e foco em soluções de descarbonização para a indústria — deve servir de baliza para futuras expansões internacionais da Imperveg em outros mercados europeus e americanos.3 O aproveitamento do mercado de bioplásticos na Europa, com sua taxa de crescimento superior a 17%, oferece uma oportunidade única para que a tecnologia brasileira de poliuretano vegetal se estabeleça como um padrão global de sustentabilidade.27
+Conclusões Narrativas sobre o Futuro da Química
+Verde
+A Imperveg Polímeros Vegetais personifica o potencial da bioeconomia brasileira, mas sua história é também um alerta sobre os custos da inércia governamental. Enquanto o mercado brasileiro permanece preso a modelos de licitação de menor preço e falta de infraestrutura de reciclagem, a tecnologia da Imperveg encontra em Portugal um campo fértil, irrigado por políticas públicas coerentes e uma visão de longo prazo para a descarbonização.3
+
+ A transição da consciência ambiental teórica para a prática operacional no Brasil não é apenas um desafio de marketing, mas um imperativo estrutural. A expansão da Imperveg via Tecnoveg não deve ser vista apenas como um sucesso comercial, mas como uma lição de que, sem políticas públicas integradas e uma conduta proativa dos agentes estatais, a inovação brasileira continuará a encontrar seu melhor desempenho longe de suas próprias fronteiras. O futuro verde está ao alcance do Brasil, mas requer a coragem de abandonar a rigidez institucional em favor de soluções que, como o óleo de mamona transformado em polímero, combinam a força da natureza com a precisão da engenharia moderna.2
+Referências citadas
+1. Imperveg - Poliuretano Vegetal de alta Performance, acessado em janeiro 31, 2026, http://imperveg.com/
+2. Imperveg Polímeros (@impervegpolimeros) • Instagram photos and ..., acessado em janeiro 31, 2026, https://www.instagram.com/impervegpolimeros/
+3. Tecnoveg no Evento “Descarbonização Empresarial” em Famalicão, acessado em janeiro 31, 2026, http://tecnoveg.com/blog/descarbonizacao-famalicao-2025
+4. Políticas públicas no Brasil enfrentam série de obstáculos | EESP, acessado em janeiro 31, 2026, https://eesp.fgv.br/noticia/politicas-publicas-no-brasil-enfrentam-serie-de-obsta culos
+5. Brasil lidera em consciência sobre reciclagem, mas fica entre os ..., acessado em janeiro 31, 2026, https://engarrafadormoderno.com.br/sustentabilidade/brasil-lidera-em-conscien cia-sobre-reciclagem-mas-fica-entre-os-ultimos-na-pratica
+6. Por que Imperveg, acessado em janeiro 31, 2026, http://imperveg.com/porque-imperveg
+7. Produto RQI 132 MR - Imperveg, acessado em janeiro 31, 2026, http://imperveg.com/produto-imperveg-rqi-132-mr
+8. Produto RQI 132 M - Imperveg, acessado em janeiro 31, 2026, http://imperveg.com/produto-imperveg-rqi-132-m
+9. Aspectos e impactos ambientais.pdf - EduCAPES, acessado em janeiro 31, 2026, https://educapes.capes.gov.br/bitstream/capes/601083/1/Aspectos%20e%20imp actos%20ambientais.pdf
+10. Produto AGT 1315 - Tecnoveg, acessado em janeiro 31, 2026, http://tecnoveg.com/produto-tecnoveg-agt-1315
+11. Aplicação dos nossos produtos - Imperveg, acessado em janeiro 31, 2026, http://imperveg.com/aplicacao
+12. Conheça as ações do Governo Federal de incentivo, inovação e ..., acessado em janeiro 31, 2026, https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2022/06/conheca-as-a coes-do-governo-federal-de-incentivo-inovacao-e-fortalecimento-da-verdadei ra-economia-verde-no-brasil
+13. Pesquisa mostra que Brasil pode liderar produção de bioplásticos ..., acessado em janeiro 31, 2026,
+                 
+ https://www.confea.org.br/pesquisa-mostra-que-brasil-pode-liderar-producao-d
+e-bioplasticos-de-cana
+14. Brasil lidera em consciência ambiental, mas recicla pouco na ..., acessado em janeiro 31, 2026, https://ancora1.com/noticias/brasil-lidera-em-conscincia-ambiental-mas-recicla- pouco-na-prtica-aponta-estudo-global
+15. Brasil lidera consciência global de reciclagem, mas ocupa lanterna ..., acessado em janeiro 31, 2026, https://coletivo.tech/reciclagem-estudo-esg-trends-2025/
+16. OS DESAFIOS PARA A DIFUSÃO DOS BIOPLÁSTICOS NO BRASIL ..., acessado em janeiro 31, 2026, https://portaldeperiodicos.animaeducacao.com.br/index.php/gestao_ambiental/ar ticle/view/10794
+17. políticas públicas brasileiras de isenções fiscais para, acessado em janeiro 31, 2026,
+https://online.unisc.br/acadnet/anais/index.php/sidspp/article/download/18750/119
+18. 1327 – BIOPLÁSTICO NO BRASIL, TIPOS, CARACTERISTICAS E ..., acessado em janeiro 31, 2026, https://abes-dn.org.br/anaiseletronicos/33cbesa/1327_tema_iii.pdf
+19. SANEAMENTO BÁSICO E TECNOLOGIAS ECOLÓGICAS NO ..., acessado em janeiro 31, 2026, https://revistas.ung.br/index.php/geociencias/article/view/5333
+20. Prefeitura de Ferraz de Vasconcelos, acessado em janeiro 31, 2026, https://ferrazdevasconcelos.sp.gov.br/web/wp-content/uploads/2023/11/Edital-TP -22-2023-CONSTRUCAO-QUADRA-HALIM-ABISSAMRA.pdf
+21. RP13820v10P1270C0disclosed..., acessado em janeiro 31, 2026, https://documents1.worldbank.org/curated/en/527271468214490831/txt/RP13820v 10P1270C0disclosed010230130.txt
+22. Sobre a Tecnoveg, acessado em janeiro 31, 2026, http://tecnoveg.com/sobre-tecnoveg
+23. Resultados - Portugal 2030, acessado em janeiro 31, 2026, https://portugal2030.pt/resultados-pt2030/
+24. Reprogramação do Portugal 2030 permite ao país não perder um ..., acessado em janeiro 31, 2026, https://www.adcoesao.pt/reprogramacao-do-portugal-2030-permite-ao-pais-na o-perder-um-euro-de-fundos-europeus/
+25. O que é o Portugal 2030, acessado em janeiro 31, 2026, https://portugal2030.pt/o-portugal-2030/o-que-e-o-portugal-2030/
+26. Compete 2030: Página Inicial, acessado em janeiro 31, 2026, https://compete2030.gov.pt/
+27. Análise do Tamanho e Participação do Mercado de Bioplásticos da ..., acessado em janeiro 31, 2026, https://www.mordorintelligence.com/pt/industry-reports/european-bioplastics-m arket-industry
+28. Incentivos para a eficiência energética e descarbonização das ..., acessado em janeiro 31, 2026,
+                       
+ https://portugal2030.pt/2026/01/27/incentivos-para-a-eficiencia-energetica-e-de
+scarbonizacao-das-empresas-portuguesas/
+29. Competências verdes estão a transformar o mercado de trabalho na ..., acessado em janeiro 31, 2026, https://pessoas2030.gov.pt/2025/08/21/competencias-verdes/

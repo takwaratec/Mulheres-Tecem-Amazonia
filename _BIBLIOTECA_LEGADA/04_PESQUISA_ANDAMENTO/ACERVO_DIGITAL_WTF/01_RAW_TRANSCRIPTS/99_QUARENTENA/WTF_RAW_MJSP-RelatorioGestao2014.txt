@@ -1,0 +1,2003 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFAC/UFRR
+equipe: Gestão e Parceria Regional
+tipo: Acervo de Consulta RAW (Transcrição)
+autor: Acervo Digital Mulheres que Tecem a Floresta
+data: '2014'
+---
+MINISTÉRIO DA JUSTIÇA
+SECRETARIA NACIONAL DO CONSUMIDOR FUNDO DE DEFESA DE DIREITOS DIFUSOS
+RELATÓRIO DE GESTÃO DO EXERCÍCIO DE 2014
+Unidade Jurisdicionada: FUNDO DE DEFESA DE DIREITOS DIFUSOS
+Brasília/DF Abril/2015
+
+ MINISTÉRIO DA JUSTIÇA
+SECRETARIA NACIONAL DO CONSUMIDOR FUNDO DE DEFESA DE DIREITOS DIFUSOS
+RELATÓRIO DE GESTÃO DO EXERCÍCIO DE 2014
+Relatório de Gestão do exercício de 2014, apresentado aos órgãos de controle interno e externo e à sociedade como prestação de contas anual, a que esta Unidade Jurisdicionada está obrigada nos termos do parágrafo único do art. 70 da Constituição Federal, elaborado de acordo com as disposições da IN TCU no 63/2010, da DN TCU no 134/2013, alterada pela DN TCU no 139/2014 e da Portaria TCU no 90/2014, bem como das orientações do órgão de controle interno contidas na Portaria CGU no 522/2015, que aprova a NE no 1/2015.
+Unidade Jurisdicionada: FUNDO DE DEFESA DE DIREITOS DIFUSOS
+Brasília/DF Abril/2015
+
+SUMÁRIO
+1 INTRODUÇÃO................................................................................................................................ 8
+2 IDENTIFICAÇÃO E ATRIBUTOS DA UNIDADE.................................................................... 10
+2.1 Identificação da unidade jurisdicionada...................................................................................... 10
+2.2 Finalidade e competências institucionais da unidade.................................................................. 11
+2.3 Macroprocessos finalísticos......................................................................................................... 11
+3 INFORMAÇÕES SOBRE A GOVERNANÇA............................................................................. 13
+3.1 Estrutura de governança.............................................................................................................. 13
+3.2 Atuação da unidade de auditoria interna..................................................................................... 13
+3.3 Sistema de correição.................................................................................................................... 13
+3.4 Avaliação do funcionamento dos controles internos................................................................... 13
+4 PLANEJAMENTO DA UNIDADE E RESULTADOS ALCANÇADOS.................................... 16
+4.1 Planejamento da unidade............................................................................................................. 16
+4.2 Programação orçamentária e financeira e resultados alcançados................................................ 16
+4.2.1 Programa temático.................................................................................................................... 16
+4.2.1.1 Análise situacional................................................................................................................. 17
+4.2.2 Objetivo.................................................................................................................................... 17
+4.2.2.1 Análise situacional................................................................................................................. 17
+4.2.3 Ações........................................................................................................................................ 18
+4.2.3.1 Ações – OFSS........................................................................................................................ 18
+4.2.3.2 Ações/subtítulos – OFSS....................................................................................................... 19
+4.2.3.3 Ações não previstas na LOA 2014 – restos a pagar não processados – OFSS..................... 19
+4.2.3.4 Análise situacional................................................................................................................. 20
+4.3 Informações sobre outros resultados da gestão........................................................................... 20
+5 TÓPICOS ESPECIAIS DA EXECUÇÃO ORÇAMENTÁRIA E FINANCEIRA....................... 21
+5.1 Programação e execução das despesas........................................................................................ 21
+5.1.1 Programação das despesas........................................................................................................ 21
+5.1.1.1 Análise crítica........................................................................................................................ 22
+5.1.2 Movimentação de créditos interna e externa............................................................................ 22
+5.1.2.1 Movimentação orçamentária interna por grupo de despesa.................................................. 22
+5.1.2.2 Movimentação orçamentária externa por grupo de despesa.................................................. 23
+5.1.3 Realização da despesa.............................................................................................................. 23
+5.1.3.1 Despesas totais por modalidade de contratação – créditos originários – total...................... 23
+5.1.3.2 Despesas totais por modalidade de contratação – créditos originários – executados diretamente pela UJ........................................................................................................................... 24
+5.1.3.3 Despesas por grupo e elemento de despesa – créditos originários – total............................. 25
+5.1.3.4 Despesas por grupo e elemento de despesa – créditos originários – valores executados diretamente pela UJ........................................................................................................................... 25
+5.1.3.5 Análise crítica da realização da despesa................................................................................ 26
+5.2 Movimentação e os saldos de restos a pagar de exercícios anteriores........................................ 27
+5.2.1 Análise crítica........................................................................................................................... 27
+5.3 Transferência de recursos............................................................................................................ 28
+5.3.1 Relação dos instrumentos de transferências vigentes no exercício.......................................... 28
+5.3.2 Quantidade de instrumentos de transferências celebrados e valores repassados nos três últimos exercícios........................................................................................................................................... 35
+5.3.3 Informações sobre prestação de contas relativas a convênios e contratos de repasse.............. 35
+5.3.4 Informações sobre a análise das prestações de contas de convênios e contratos de repasse.... 36
+5.3.5 Análise crítica........................................................................................................................... 37
+6 ATENDIMENTO DE DEMANDAS DE ÓRGÃO DE CONTROLE........................................... 38
+6.1 Tratamento de recomendações do Órgão de Controle Interno (OCI)......................................... 38
+6.1.1 Recomendações do OCI pendentes de atendimento ao final do exercício............................... 38
+6.2 Medidas adotadas em caso de dano ao erário.............................................................................. 42
+6.3 Alimentação Siasg e Siconv........................................................................................................ 42
+7 INFORMAÇÕES CONTÁBEIS.................................................................................................... 43
+7.1 Conformidade contábil................................................................................................................ 43
+7.2 Declaração do Contador atestando a conformidade das demonstrações contábeis..................... 43
+8 OUTRAS INFORMAÇÕES SOBRE A GESTÃO.........................................................................44
+8.1 Outras informações consideradas relevantes pela UJ.................................................................. 44
+9 UNIDADES QUE TENHAM FIRMADO TERMO DE PARCERIA NOS TERMOS DA LEI 9.790/99............................................................................................................................................. 21
+9.1 Avaliação do termo de parceria celebrado pela unidade jurisdicionada..................................... 22
+9.2 Dados agregados dos termos de parceira de exercícios antecedentes ao de referência............... 22
+9.3 Estrutura de acompanhamento dos resultados dos termos de parceria firmados........................ 22
+9.3.1 Demonstrativo das prestações de contas apresentadas no exercício........................................ 22
+10 RESULTADOS E CONCLUSÕES............................................................................................. 45
+10.1 Atuação frente aos objetivos estratégicos traçados para o exercício de 2014........................... 45
+10.2 Principais medidas que deverão ser adotadas nos exercícios seguintes para mitigar os desvios dos objetivos traçados para o exercício de 2014............................................................................... 45
+11 ANEXOS...................................................................................................................................... 46 11.1 Quadro 12.5 – Declaração de inserção e atualização de dados no Siasg e Siconv.................... 47 11.2 Quadro 13.4 – Declaração do contador atestando as demonstrações contábeis........................ 48
+LISTA DE ABREVIAÇÕES E SIGLAS
+AECI – Assessoria Especial de Controle Interno
+art. – artigo
+CFDD – Conselho Federal Gestor do Fundo de Defesa de Direitos Difusos
+CGRH – Coordernação Geral de Recursos Humanos
+CGU – Controladoria-Geral da União
+CNAE – Cadastro Nacional de Atividade Econômica
+CNPJ – Cadastro Nacional de Pessoa Jurídica
+CPF – Cadastro de Pessoa Física
+CPGF – Cartão de Pagamento do Governo Federal
+CRC – Conselho Regional de Contabilidade
+D.O.U – Diário Oficial da União
+DBR – Declaração de Bens e Rendas
+Dec. – Decreto
+DN – Decisão Normativa
+FDD – Fundo de Defesa de Direitos Difusos
+IN – Instrução Normativa
+LOA – Lei Orçamentária Anual
+LOA – Lei Orçamentária Anual
+MPOG – Ministério do Planejamento, Orçamento e Gestão
+NE – Norma de Execução
+no - número
+OCI – Órgão de Controle Interno
+OD – Ordenador de Despesa
+OFSS – Orçamento Fiscal e da Seguridade Social
+PAC – Programa de Aceleração do Crescimento
+PC – Prestação de Contas
+Port. – Portaria
+PPA – Plano Plurianual
+PPA – Plano Plurianual
+RFB – Receita Federal do Brasil
+RG – Relatório de Gestão
+RP – Restos a Pagar
+SDE – Secretaria de Direito Econômico
+SECFDD – Secretaria Executiva do Conselho Federal Gestor do Fundo de Defesa de Direitos
+Difusos
+Senacon – Secretaria Nacional do Consumidor
+Siafi – Sistema Integrado de Administração Financeira do Governo Federal Siasg – Sistema Integrado de Administração de Serviços Gerais
+SIC – Serviço de Informação ao Consumidor
+Siconv – Sistema de Convênios do Governo Federal
+Siorg – Sistema de Informações Organizacionais do Governo Federal
+Sisac – Sistema de Apreciação e Registro dos Atos de Admissão e Concessões STN – Secretaria do Tesouro Nacional
+TCE – Tomada de Contas Especial
+TCU – Tribunal de Contas da União
+TI – Tecnologia da Informação
+UG – Unidade Gestora
+UJ – Unidade Jurisdicionada
+UO – Unidade Orçamentária
+LISTA DE QUADROS, TABELAS, RELAÇÕES, GRÁFICOS, DECLARAÇÕES
+Quadro 2.1 Identificação da UJ – Relatório de gestão...................................................................... 10
+Quadro 2.3 Macroprocessos finalístico............................................................................................. 12
+Quadro 3.4 Avaliação do sistema de controles internos da UJ......................................................... 13
+Quadro 4.2.1 Programa temático....................................................................................................... 16
+Quadro 4.2.2 Objetivo fixado pelo PPA............................................................................................ 17
+Quadro 4.2.3.1 Ações de responsabilidade da UJ – OFSS................................................................ 18
+Quadro 4.2.3.2 Ação/subtítulos – OFSS........................................................................................... 19
+Quadro 4.2.3.3 Ações não previstas LOA 2014 – Restos a pagar – OFSS....................................... 19
+Quadro 5.1.1 Programação de despesas............................................................................................ 21
+Quadro 5.1.2.1 Movimentação orçamentária interna por grupo de despesa..................................... 22
+Quadro 5.1.2.2 Movimentação orçamentária externa por grupo de despesa..................................... 23
+Quadro 5.1.3.1 Despesas por modalidade de contratação – créditos originários – total................... 23
+Quadro 5.1.3.2 Despesas executadas diretamente pela UJ, por modalidade de contratação – créditos originários.......................................................................................................................................... 24
+Quadro 5.1.3.3 Despesas por grupo e elemento de despesa – créditos originários – total................ 25
+Quadro 5.1.3.4 Despesas executadas diretamente pela UJ – créditos originários............................. 25
+Quadro 5.2 Restos a pagar inscritos em exercícios anteriores.......................................................... 27
+Quadro 5.3.1 Caracterização dos instrumentos de transferências vigentes no exercício.................. 28
+Quadro 5.3.2 Resumo dos instrumentos celebrados pela UJ nos três últimos exercícios................. 35
+Quadro 5.3.3 Resumo da prestação de contas sobre transferências concedidas pela UJ na modalidade de convênio, termo de cooperação e de contratos de repasse........................................ 35
+Quadro 5.3.4 Visão geral da análise de prestações de contas de convênios e contratos de repasse.. 36
+Quadro 6.1.1 Situação das recomendações do OCI que permanecem pendentes de atendimento no exercício............................................................................................................................................ 38
+Quadro 6.2 Medidas adotadas em caso de dano ao erário em 2014.................................................. 42 Quadro 9.1 Identificação dos termos de parceria vigentes no exercício........................................... 21 Quadro 9.2 Dados agregados dos termos de parceria de exercícios antecedentes ao exercício........ 22 Quadro 19.3.1 Demonstrativo das prestações de contas apresentadas no exercício......................... 22 Quadro 11.1 Declaração de inserção e atualização de dados no Siasg e Siconv............................... 47 Quadro 11.2 Declaração do contador atestando a conformidade das demonstrações contábeis....... 48
+INTRODUÇÃO
+O Relatório de Gestão está estruturado conforme disposições da Instrução Normativa TCU no 63/2010, da Decisão Normativa TCU no 134/2013, alterada pela Decisão Normativa TCU no 139/2014 e da Portaria TCU no 90/2014, bem como das orientações do órgão de controle interno contidas na Portaria CGU no 650/2014, que aprova a Norma de Execução no 1/2014.
+Os itens 8 - Gestão do Patrimônio Mobiliário e Imobiliário, 9 - Gestão da Tecnologia da Informação e 10 - Gestão do Uso dos Recursos Renováveis e Sustentabilidade Ambiental da parte A do Anexo II da DN TCU n° 134/2013 não se aplicam à natureza jurídica da UJ. As informações referentes aos respectivos itens serão fornecidas pela Secretaria Executiva do Ministério da Justiça.
+O item 3 - Relacionamento com a Sociedade da parte A do Anexo II da DN TCU n° 134/2013 foi excluído, pois o CFDD/FDD não possui canal direto de relacionamento com a sociedade. As informações do SIC são controladas pela SENACON.
+Os itens 4 - Ambiente de Atuação, 58 - Órgãos e Entidades que Executam Acordos e Cooperação Internacional, com a Contratação de Consultores na Modalidade “Produto”, 59 - Unidades Jurisdicionadas que Gerenciem Projetos e Programas Financiados com Recursos Externos e 64 - Entidades Federais de Fiscalização e de Regulação que Tenham Competência para a Aplicação de Multas Administrativas e os subitens 6.7 - Renúncias sob a gestão da UJ e 6.8 - Gestão de precatórios da parte A do Anexo II da DN TCU n° 134/2013 não se aplicam à natureza jurídica da UJ.
+Os dados do item 7 - Gestão de Pessoas, Terceirização de Mão de Obra e Custos Relacionados e os subitens 11.3 - Declaração de bens e rendas estabelecida na Lei n° 8.730/93, 11.3.1 - Situação do cumprimento das obrigações impostas pela Lei 8.730/93, o Quadro A.11.3.1 - Demonstrativo do cumprimento, por autoridades e servidores da UJ, da obrigação de entregar a DBR e o subitem 11.3.2 - Situação do cumprimento das obrigações da parte A do Anexo II da DN TCU n° 134/2013, foram excluídos, pois essas informações serão prestadas no Relatório de Gestão da Senacon, cujo os dados foram fornecidos pela CGRH, pois o CFDD é vinculado a esta Secretaria, como também o Organograma Funcional.
+Os subitens 6.6 - Informações sobre suprimento de fundos, contas bancárias tipo B e cartões de pagamento do Governo Federal da parte A do Anexo II da DN TCU n° 134/2013, apesar de se aplicaram à natureza jurídica da UJ, não ocorreram no período, tendo em vista que o FDD não vislumbrou necessidade de utilização dessa modalidade.
+Em que pese a ausência do item “Unidades que tenham firmado Termo de Parceria nos termos da Lei 9.790/99” da parte B do anexo II da DN TCU No 134/2013, no E-contas, esse item foi incluído na aba de Planejamento e Resultados Alcançados.
+Esse Relatório de Gestão tem por objetivo apresentar as principais ações desenvolvidas pelo Conselho Federal Gestor do Fundo de Defesa de Direitos Difusos, criado pela Lei no 7.347, de 24 de julho de 1985, tendo por finalidade gerir o Fundo de Defesa de Direitos Difusos – FDD, previsto na Lei no 9.008, de 21 de março de 1995, o qual visa à reparação dos danos causados ao meio ambiente, ao consumidor, a bens e direitos de valor artístico, estético, turístico, paisagístico, por infração à ordem econômica e a outros interesses difusos e coletivos.
+O Fundo de Defesa de Direito Difusos tem por objetivo apoiar projetos voltados para diferentes áreas de atuação, as quais podemos destacar:
+1) Implantação ou preservação de parques ambientais;
+2) Recuperação e preservação de nascentes de córregos, rios ou bacias hidrográficas;
+3) Recuperação, preservação e manejo de áreas naturais degradadas ou alteradas e de Áreas de Preservação Permanente e a construção de obras de infra-estrutura de apoio em Unidades de Conservação;
+4) Preservação, manejo e monitoramento de espécies da biodiversidade, em especial, aquelas em risco de extinção;
+5) Preservação, recuperação e monitoramento de recursos hídricos;
+6) Promoção do consumo sustentável e da educação ambiental voltada para a sustentabilidade;
+7) Ações de manejo e gestão de resíduos sólidos urbanos;
+8) Preservação, através da restauração, conservação ou manutenção de bens arquitetônicos (igrejas, casarões e outros), arqueológicos, móveis e integrados e da salvaguarda dos bens culturais de natureza material;
+9) Projetos educativos, os quais envolvam atividades de cunho informativo e educativo, por meio da elaboração de materiais informativos (cartilhas, folders e outros) e/ou a realização de eventos que versem sobre as temáticas de direitos do consumidor, meio ambiente, patrimônio histórico-cultural ou outros direitos difusos e coletivos, com vistas a conscientizar a população como um todo ou alguns públicos específicos (como o infanto-juvenil, por exemplo) sobre seus direitos e deveres.
+10) Modernização administrativa - é permitida, ainda, a utilização de recursos do FDD para a modernização administrativa de órgãos governamentais ligados à defesa do meio ambiente, consumidor e de outros direitos difusos e coletivos.
+As principais realizações da gestão no exercício foram 22 pojetoss celebrados com órgãos federais, estados, municípios e entidades civis sem fins lucrativos, nas áreas de recuperação ambiental, preservação do patrimônio histórico e cultural e, consumidor. O montante de recursos empenhados foi R$ 6.321.472.
+As principais dificuldades para realização dos objetivos da UJ melhoria da estrutura da Secretaria Executiva do Conselho, de novos técnicos com perfil e capacitados para elaboração de termos de convênios e prestação de contas, falta espaço para novos técnicos, baixa remuneração frente a uma carga de trabalho grande e de elevada responsabilidade, sem plano de carreira e sem direito de ter a gratificação.
+O Fundo de Defesa de Direitos Difusos – FDD que consta na LOA, ou seja, é a Unidade Gestão. Todos os recolhimentos de condenações judiciais e as multas administrativas serão dirigidos para conta única da Secretaria do Tesouro Nacional, com o código de referência identificando que os recursos recolhidos pertencentes ao FDD, enquanto que o Conselho Federal Gestor do Fundo de Defesa de Direitos Difusos – CFDD é o responsável por administrar a aplicação dos recursos financeiros arrecadados das condenações judiciais e multas administrativas, dentre outras.
+2 IDENTIFICAÇÃO E ATRIBUTOS DA UNIDADE
+O subitem 1.3 - Organograma funcional e o QuadroA.1.3 - Informações sobre áreas ou subunidades estratégicas da Portaria TCU no 90/2014 foram excluídos, pois, tanto do Fundo quanto do Conselho as legislações de criação não tratam de organograma ou estrutura funcional, portanto, não é aplicável.
+2.1 Identificação da unidade jurisdicionada
+Quadro 2.1 Identificação da UJ – Relatório de gestão
+Órgão de Vinculação: Ministério da Justiça
+Identificação da Unidade Jurisdicionada
+Código SIORG: 000316
+  Poder e Órgão de Vinculação
+  Poder: Executivo
+      Número de Ordem: 1
+Denominação Completa: Conselho Federal Gestor do Fundo de Defesa de Direitos Difusos Denominação Abreviada: CFDD
+E-mail: senacon.cfdd@mj.gov.br
+Página na Internet: http://www.mj.gov.br/cfdd
+Endereço Postal: Esplanada dos Ministérios, Bloco T, Ed. Sede, 5o Andar, Sala 503/505, CEP: 70064-900, Brasília/DF
+    Código SIORG: 90863
+   Código na LOA: 30905
+    Código SIAFI: 200401
+  Natureza Jurídica: Órgão Público
+  CNPJ: 00.394.494/0100-18
+  Principal Atividade: Justiça
+  Código CNAE: 8423-0/00
+  Telefones/Fax de Contato:
+   (61)2025-3488
+    (61)2025-9133
+   (61)2025-3005
+       Normas Relacionadas à Unidade Jurisdicionada
+  Normas de criação e alteração da Unidade Jurisdicionada
+   Lei no 7.347, de 24 de julho de 1985, publicada no D.O.U. de 25.7.1985, que disciplina a Ação Civil Pública e cria o Fundo de Defesa de Direitos Difusos;
+Lei no 9.008, de 21 de março de 1995, publicada no D.O.U. de 22.3.1995, que cria o Conselho Federal Gestor do Fundo de Defesa de Direitos Difusos – CFDD.
+  Outras normas infralegais relacionadas à gestão e estrutura da Unidade Jurisdicionada
+   Decreto no 1.306, de 9 de novembro de 1994, publicado do D.O.U. de 10.11.1994, que regulamenta o Fundo de Defesa de Direitos Difusos;
+Portaria no 1.488, de 15 de agosto de 2008, publicada no D.O.U. de 18.08.2008, que aprova o Regimento Interno do Conse- lho Federal Gestor do Fundo de Defesa de Direitos Difusos – CFDD.
+  Manuais e publicações relacionadas às atividades da Unidade Jurisdicionada
+ Balanço Social FDD – Fundo de Defesa de Direitos Difusos 2007/2008 – apresenta os projetos financiados com os recursos do CFDD, bem como demonstra a efetiva participação da sociedade na defesa de seus direitos violados.
+  Unidades Gestoras e Gestões Relacionadas à Unidade Jurisdicionada
+  Unidades Gestoras Relacionadas à Unidade Jurisdicionada
+  Código SIAFI
+   Nome
+200401
+Secretaria Nacional do Consumidor - SENACON
+Tesouro Nacional
+200401 00001
+Fundo de Defesa dos Direitos Difusos
+   Gestões relacionadas à Unidade Jurisdicionada
+  Código SIAFI
+   Nome
+    Relacionamento entre Unidades Gestoras e Gestões
+  Código SIAFI da Unidade Gestora
+   Código SIAFI da Gestão
+    Unidades Orçamentárias Relacionadas à Unidade Jurisdicionada
+  Código SIAFI
+   Nome
+   2.2 Finalidade e competências institucionais da unidade
+Compete ao Conselho Federal do Fundo de Defesa de Direitos Difusos:
+• zelar pela aplicação dos recursos;
+• aprovar e firmar convênios e contratos objetivando atender ao disposto acima;
+• examinar e aprovar projetos de reconstituição de bens lesados, inclusive os de caráter científico e de pesquisa;
+• promover, por meio de órgãos da administração pública e de entidades civis interessadas, eventos educativos ou científicos;
+• fazer editar, inclusive em colaboração com órgãos oficiais, materiais informativos sobre os projetos de reparação dos danos causados ao meio ambiente, ao consumidor, a bens e direitos de valor artístico, estético, histórico, turístico, paisagístico, por infração à ordem econômica e a outros interesses difusos e coletivos;
+• promover atividades e eventos que contribuam para a difusão da cultura, da proteção ao meio ambiente, do consumidor, da livre concorrência, do patrimônio histórico, artístico, estético, turístico, paisagístico e de outros interesses difusos e coletivos; e
+• examinar e aprovar os projetos de modernização administrativa a que se refere aos recursos arrecadados pelo FDD, bem como na modernização administrativa dos órgãos públicos responsáveis pela execução das políticas.
+2.3 Macroprocessos finalísticos
+O Conselho Federal Gestor do Fundo de Defesa de Direitos Difusos – CFDD, no exercício de 2014 financiou 22 (vinte e dois) projetos dentre eles votados ao enfoque do Meio Ambiente, Proteção e Defesa do Consumidor e da Concorrência, Patrimônio Cultural Brasileiro e Outros Direitos Difusos e Coletivos Tutelados dos Requisitos, tem por fulcro modernizar a gestão da Secretaria-Executiva, por meio de treinamentos e capacitações voltados para o ramo das transferências voluntárias, mais preciso sobre a ótica de convênios e outros instrumentos congêneres.
+Os principais parceiros do Fundo de Defesa de Direitos Difusos são Estados, Municípios, Entidades Privadas Sem Fins Lucrativos e Órgãos Federais. Em 2014 foram celebrados, convênios e termos de cooperação com os seguintes parceiros: Fundação Neotrópica do Brasil/MS, Município de Juara/MT, Fórum Nacional das Entidades Civis de Defesa do Consumidor/SP, Movimento das Donas de Casa e Consumidores do Estado de Goiás/GO, Fundação Gilberto Freyre/PE, Sindicato dos Trabalhadores Rurais de Ceres/GO, Fundação de Arte de Ouro Preto/MG, Instituto Núbia Santana/DF, Fundação Casa Paulo Dias Adorno/BA, Município de Guarapuava/PR, Associação Terra Indígena Xingu/MT, Arquivo Histórico do Exército (AHEx)/Departamento de Educação e Cultura do Exército (DECEx)/RJ, Universidade de Brasília/Faculdade de Ciência da Informação/DF.
+Quadro 2.3 Macroprocessos finalístico
+  Macroprocessos
+   Descrição
+   Produtos e Serviços
+   Principais Clientes
+   Subunidades Responsáveis
+   Processos
+ Projeto Apoiado
+   Convênios e Termo de Descentralização Direta
+ Estados, Municípios, Órgãos Federais e Entidades Privadas Sem Fins Lucrativos.
+   Divisão de Monitoramento de Projetos de Direitos Difusos e Divisão de Seleção de Projetos de Direito Difusos
+3 INFORMAÇÕES SOBRE GOVERNANÇA
+3.1 Estrutura de governança
+De acordo com o art. 11 da Portaria MJ no 1.840, de 24 de agosto de 2012, da estrutura organizacional da SENACON, a Coordenação de Direitos Difusos compete:
+I - exercer as funções de Secretaria-Executiva do Conselho Federal Gestor do Fundo de Direitos Difusos - CFDD, em conformidade ao disposto na Lei no 9.008, de 21 de março de 1995;
+II - chefiar as divisões de monitoramento e de seleção de projetos de Direitos Difusos do CFDD; III - acompanhar e gerir os valores recolhidos ao Fundo de Direitos Difusos - FDD;
+IV - elaborar e acompanhar a execução orçamentária anual do FDD;
+V - elaborar os editais de chamamento de projetos, atas, pautas e demais documentos públicos necessários à gestão do CFDD, fazendo-os publicar quando necessário; e
+VI - zelar pela atualização das informações do sítio eletrônico do CFDD.
+3.2 Atuação da unidade de Auditoria Interna
+O Ministério da Justiça possui Auditoria Interna, por meio da Assessoria Especial de Controle Interno vinculada ao Gabinete do Ministro. Portanto, não é aplicável.
+3.3 Sistema de Correição
+Não aplicável a UJ isoladamente. O CFDD/FDD submete as determinações da Senacon.
+3.4 Avaliação do funcionamento dos controles internos Quadro 3.4 Avaliação do sistema de controles internos da UJ
+1. A alta administração percebe os controles internos como essenciais à consecução dos objetivos da unidade e dão suporte adequado ao seu funcionamento.
+2. Os mecanismos gerais de controle instituídos pela UJ são percebidos por todos os servidores e funcionários nos diversos níveis da estrutura da unidade.
+3. A comunicação dentro da UJ é adequada e eficiente. 4. Existe código formalizado de ética ou de conduta.
+5. Os procedimentos e as instruções operacionais são padronizados e estão postos em documentos formais.
+6. Há mecanismos que garantem ou incentivam a participação dos funcionários e servidores dos diversos níveis da estrutura da UJ na elaboração dos procedimentos, das instruções operacionais ou código de ética ou conduta.
+7. As delegações de autoridade e competência são acompanhadas de definições claras das responsabilidades.
+12345 X
+    ELEMENTOS DO SISTEMA DE CONTROLES INTERNOS A SEREM AVALIADOS
+V ALORES
+  Ambiente de Controle
+    X
+X
+X
+X
+X
+X
+ 
+ 8. Existe adequada segregação de funções nos processos e atividades da competência da UJ.
+9. Os controles internos adotados contribuem para a consecução dos resultados planejados pela UJ.
+Avaliação de Risco
+10. Os objetivos e metas da unidade jurisdicionada estão formalizados.
+11. Há clara identificação dos processos críticos para a consecução dos objetivos e metas da unidade.
+12. É prática da unidade o diagnóstico dos riscos (de origem interna ou externa) envolvidos nos seus processos estratégicos, bem como a identificação da probabilidade de ocorrência desses riscos e a consequente adoção de medidas para mitigá-los.
+13. É prática da unidade a definição de níveisde riscos operacionais, de informações e de conformidade que podem ser assumidos pelos diversos níveis da gestão.
+14. A avaliação de riscos é feita de forma contínua, de modo a identificar mudanças no perfil de risco da UJ ocasionadas por transformaçõesnos ambientes interno e externo.
+15. Os riscos identificados são mensurados e classificados de modo a serem tratados em uma escala de prioridades e a gerar informações úteis à tomada de decisão.
+16. Não há ocorrência de fraudes e perdas que sejam decorrentes de fragilidades nos processos internos da unidade.
+17. Na ocorrência de fraudes e desvios, é prática da unidade instaurar sindicância para apurar responsabilidades e exigir eventuais ressarcimentos.
+18. Há norma ou regulamento para as atividades de guarda, estoque e inventário de bens e valores de responsabilidade da unidade.
+Procedimentos de Controle
+19. Existem políticas e ações, de natureza preventiva ou de detecção, para diminuir os riscos e alcançar os objetivos da UJ, claramente estabelecidas.
+20. As atividades de controle adotadas pela UJ são apropriadas e funcionam consistentemente de acordo com um plano de longo prazo.
+21. As atividades de controle adotadas pela UJ possuem custo apropriado ao nívelde benefícios que possam derivar de sua aplicação.
+22. As atividades de controle adotadas pela UJ são abrangentes e razoáveis e estão diretamente relacionadas com os objetivos de controle.
+Informação e Comunicação
+23. A informação relevante para UJ é devidamente identificada, documentada, armazenada e comunicada tempestivamente às pessoas adequadas.
+24. As informações consideradas relevantes pela UJ são dotadas de qualidade suficiente para permitirao gestor tomar as decisões apropriadas.
+25. A informação disponível para as unidades internas e pessoas da UJ é apropriada, tempestiva, atual, precisa e acessível.
+26. A Informação divulgada internamente atende às expectativas dos diversos grupos e indivíduos da UJ, contribuindo para a execução das responsabilidades de forma eficaz.
+27. A comunicação das informaçõesperpassa todos os níveis hierárquicos da UJ, em todas as direções, por todos os seus componentes e por toda a sua estrutura.
+Monitoramento
+28. O sistema de controle interno da UJ é constantemente monitorado para avaliar sua validade e qualidade ao longo do tempo.
+29. O sistema de controle interno da UJ tem sido considerado adequado e efetivo pelas avaliações sofridas.
+30. O sistema de controle interno da UJ tem contribuído para a melhoria de seu desempenho.
+1 2
+X
+X 4 5
+    X X
+X
+X
+X
+X
+      X
+X
+X
+    123 4
+5 X
+X
+X
+X
+5 X
+X
+X
+X
+X
+5 X
+X
+X
+      123 4
+       1 2 3 4
+    Análise crítica e comentários relevantes:
+    Escala de valores da Avaliação:
+(1) Totalmente inválida: Significa que o conteúdo da afirmativa é integralmente não observado no contexto da UJ.
+(2) Parcialmente inválida: Significa que o conteúdo da afirmativa é parcialmente observado no contexto da UJ, porém, em sua minoria.
+(3) Neutra: Significa que não há como avaliar se o conteúdo da afirmativa é ou não observado no contexto da UJ. (4) Parcialmente válida: Significa que o conteúdo da afirmativa é parcialmente observado no contexto da UJ,
+porém, em sua maioria.
+(5) Totalmente válido. Significa que o conteúdo da afirmativa é integralmente observado no contexto da UJ.
+RELACIONAMENTO COM A SOCIEDADE
+Esse Item foi excluído, pois o CFDD/FDD não possui canal direto de relacionamento com a sociedade e as informações do Serviço de Informação ao Consumidor são controladas pela SENACON.
+4 PLANEJAMENTO DA UNIDADE E RESULTADOS ALCANÇADOS
+Os subitens da Portaria TCU no 90/2014, 5.2.3.4 - Ações – Orçamento de Investimento – OI e o Quadro A.5.2.3.4 - Ações do orçamento de investimento foram excluídos, pois o FDD não possui orçamento investimento.
+Os subitens da Portaria TCU no 90/2014 5.4 - Informações sobre indicadores de desempenho operacional, e o Quadro Indicadores de desempenho A.5.4- Informações sobre custos de produtos e serviços e o Quadro A.5.5 Variações de custos foram excluídos não se aplicam ao CFDD/FDD.
+4.1 Planejamento da unidade
+O planejamento do CFDD/FDD é como relação orçamentária, recolhimentos de recursos, instruções de projetos, entre outros.
+4.2 Programação orçamentária e financeira e resultados alcançados 4.2.1 Programa temático
+Quadro 4.2.1 Programa temático
+Cidadania e Justiça
+  Identificação do Programa de Governo
+   Código Programa
+  Título
+   Esfera de Recursos - PPA e LOA (em R$ 1,00)
+                Esfera
+a) Global PPA 2012-2015
+b) Acumulado Dotações/Posições
+2012 e 2013
+c) Dotação/ Posição - 2014
+d) Remanescente (a-b-c)
+          Orçamentos Fiscal e da Seguridade Social – OFSS
+25.306.040
+13.768.680
+5.768.680
+5.768.680
+          Orçamento de Investimentos – OI
+          Outras Fontes
+          T otal
+25.306.040
+13.768.680
+5.768.680
+5.768.680
+       Execução Orçamentária e/ou Financeira do Programa - OFSS e OI em 2014
+(em R$ 1,00)
+   Lei Orçamentária 2014
+    Orçamento Fiscal e da Seguridade Social
+Orçamento de Investimento
+          e) Despesa Empenhada
+f) Despesa Liquidada
+    g) Despesa Paga
+h) Restos a Pagar (inscrição 2014)
+h.1) Processados
+h.2) Não Processados
+i) Despesa Realizada
+       6.321.472 5.390.228 5.390.228 599.325
+       Restos a Pagar - OFSS - Exercícios Anteriores
+  Tipo
+   j) Posição em 1/01/2014
+   k) Valor Liquidado
+   l) Valor Pago
+   m) Valor Cancelado
+   n) Valor a Pagar
+  Não processados
+  Processados
+           794.732 794.732 794.732
+4.2.1.1 Análise situacional
+Os recursos previstos na Lei no 12.952/2014, no montante de R$ 5.768,680 (cinco milhões setecentos e sessenta e oito mil seiscentos e oitenta reais) foi igual ao ano anterior, apesar da arrecadação própria do FDD ter sido em torno de 192 milhões. A reserva de contingência ficou em mais de 102 milhões, na ação 6067 – Defesa dos Direitos Difusos, a qual está inserida no Programa 2020 – Cidadania e Justiça. Este alto montante contingenciado e não liberado pelo MPOG reflete no número de projetos apoiados pelo CFDD, que vem diminuindo ano após ano.
+4.2.2 Objetivo
+Quadro 4.2.2 Objetivo fixado pelo PPA
+       Valores do programa alocados ao órgão representado pela UJ em 2014
+         Dotação OFSS
+5.768.680
+Dotação OI
+Outras Fontes
+        IDENTIFICAÇÃO DO OBJETIVO
+     Descrição
+ Aperfeiçoar e fortalecer as ações de defesa do consumidor por meio da ampliação da participação social, do aprofundamento das iniciativas de formação e capacitação, do incremento na integração e sistematização de informações estratégicas, da maior atuação em fóruns e organismos nacionais e internacionais e da priorização da atuação na dimensão da saúde e da segurança do consumidor e em setores específicos, como saúde, transporte, saneamento, telefonia, energia elétrica e outros mercados regulados.
+  Código
+   Órgão
+   Ministério da Justiça
+  Programa
+   Cidadania e Justiça
+   Código
+  METAS QUANTITATIVAS NÃO REGIONALIZADAS
+  Sequencial
+   Descrição da Meta
+   Unidade medida
+   a) Prevista 2015
+   b) Realizada em 2014
+    c) Realizada até 2014
+    d) % Realização (c/a)
+ 1 Projeto Aprovado Unidade 18 22 41 2,28
+        METAS QUANTITATIVAS REGIONALIZADAS
+  Sequencial
+   Descrição da Meta
+   Unidade medida
+   a) Prevista 2015
+   b) Realizada em 2014
+   c) Realizada até 2014
+   d)% Realização (c/a)
+   Sequencial
+   Regionalização da Meta
+   Unidade medida
+   a) Prevista 2015
+   b)Realizada em 2014
+   c)Realizada até 2014
+   d)% Realização (c/a)
+         METAS QUALITATIVAS
+  Sequencial
+   Descrição da Meta
+             4.2.2.1 Análise situacional
+Com relação as metas quantitativas não regionalizadas vem sendo com resulaados alcançados, entretanto, com pouca alteração de um ano para o outro, devido que a dotação
+orçamentária permaneça a mesma nos últimos anos, inclusive para o ano de 2015, conseqüentemente as metas almejadas continuam as mesmas.
+O CFDD Não possui metas quantitativas regionalizadas e metas qualitativas.
+4.2.3 Ações
+4.2.3.1 Ações – OFSS
+Quadro 4.2.3.1 Ações de responsabilidade da UJ – OFSS
+Defesa dos Direitos Difusos
+Tipo: Atividade
+     Código
+   Título
+   03KF - Fortalecimento do Conselho Federal Gestor do Fundo de Defesa dos Interesses Difusos e de sua atividade de análise e acompanhamento de projetos, garantindo a boa aplicação e efetividade dos recursos que transfere.
+  Aperfeiçoar e fortalecer as ações de defesa do consumidor por meio da ampliação da participação social, do aprofundamento das iniciativas de formação e capacitação, do incremento na integração e sistematização de informações estratégicas, da maior atuação em fóruns e organismos nacionais e internacionais e da priorização da atuação na dimensão da saúde e da segurança do consumidor e em setores específicos, como saúde, transporte, saneamento, telefonia, energia elétrica e outros mercados regulados. Código: 0868
+    Iniciativa
+    Objetivo
+  Programa
+  Unidade Orçamentária
+  Ação Prioritária
+   794.732
+Projeto Apoiado
+Unidade 2
+Cidadania e Justiça 30905
+Código: 2020
+Caso positivo: ( ) PAC (
+Tipo: Temático
+) Brasil sem Miséria ( ) Outras
+Identificação da Ação
+  5.768.680
+( ) Sim
+6.432.035
+Projeto Apoiado
+794.732
+(X)Não
+6.321.472
+5.390.228 4.790.903
+Unidade
+599.325
+Lei Orçamentária 2014
+  Execução Orçamentária e Financeira
+      Dotação
+Despesa
+Restos a Pagar inscritos 2014
+              Inicial
+Final
+Empenhada
+Liquidada
+Paga
+Processados
+Não Processados
+               Execução Física
+  Descrição da meta
+   Unidade de medida
+   Montante
+  Previsto
+   Reprogramado
+   Realizado
+18 22
+      Restos a Pagar Não processados - Exercícios Anteriores
+  Execução Orçamentária e Financeira
+  Execução Física - Metas
+  Valor em 1/1/2014
+   Valor Liquidado
+   Valor Cancelado
+   Descrição da Meta
+   Unidade de medida
+   Realizada
+       4.2.3.2 Ações/subtítulos – OFSS
+Quadro 4.2.3.2 Ação/subtítulos – OFSS
+  Objetivo
+Defesa dos Direitos Difusos
+Tipo: Atividade
+Identificação da Ação
+   Código
+   Descrição
+   03KF - Fortalecimento do Conselho Federal Gestor do Fundo de Defesa dos Interesses Difusos e de sua atividade de análise e acompanhamento de projetos, garantindo a boa aplicação e efetividade dos recursos que transfere.
+  Aperfeiçoar e fortalecer as ações de defesa do consumidor por meio da ampliação da participação social, do aprofundamento das iniciativas de formação e capacitação, do incremento na integração e sistematização de informações estratégicas, da maior atuação em fóruns e organismos nacionais e internacionais e da priorização da atuação na dimensão da saúde e da segurança do consumidor e em setores específicos, como saúde, transporte, saneamento, telefonia, energia elétrica e outros mercados regulados. Código: 0868
+    Iniciativa
+      Programa
+Cidadania e Justiça
+( ) Sim (X) Não Caso positivo: (
+Código: 2020 Tipo: Temático
+   Unidade Orçamentária
+   Ação Prioritária
+) PAC ( ) Brasil sem Miséria
+( ) Outras
+   Lei Orçamentária Anual – 2014
+  Execução Orçamentária e Financeira
+         No do subtítulo/ Localizador
+00001
+5.768.680 6.432.035
+Projeto apoiado
+794.732 794.732
+6.321.472
+5.390.228
+Unidade
+5.390.228
+Projeto apoiado
+599.325
+Unidade
+Dotação
+Despesa
+Restos a Pagar inscritos 2014
+              Inicial
+Final
+Empenhada
+Liquidada
+Paga
+Processados
+Não
+Processados
+                 Execução Física da Ação - Metas
+  No do subtítulo/ Localizador
+   Descrição da meta
+   Unidade de medida
+   Montante
+  Previst o
+   Reprogramado (*)
+   Realizado
+2
+         Restos a Pagar Não processados - Exercícios Anteriores
+ No do subtítulo/ Localizador
+   Execução Orçamentária e Financeira
+  Execução Física - Metas
+  Valor em 01/01/2014
+   V alor Liquidado
+   Valor Cancelado
+   Descrição da Meta
+   Unidade de medida
+   Realizada
+        4.2.3.3 Ações não previstas na LOA 2014 – Restos a pagar não processados – OFSS Quadro 4.2.3.3 Ações não previstas na LOA 2014 – Restos a pagar - OFSS
+  Identificação da Ação
+   Código
+6067 Tipo: Atividade
+Defesa dos Direitos Difusos
+03KF - Fortalecimento do Conselho Federal Gestor do Fundo de Defesa dos Interesses
+   Título
+   Iniciativa
+         Objetivo
+Cidadania e Justiça 30905
+( ) Sim (X)Não
+794.732 794.732
+4.2.3.4 Análise situacional
+Código: 2020
+Caso positivo: ( )PAC (
+Projeto apoiado
+Tipo: Temático
+) Brasil sem Miséria ( )Outras
+Difusos e de sua atividade de análise e acompanhamento de projetos, garantindo a boa aplicação e efetividade dos recursos que transfere.
+Aperfeiçoar e fortalecer as ações de defesa do consumidor por meio da ampliação da participação social, do aprofundamento das iniciativas de formação e capacitação, do incremento na integração e sistematização de informações estratégicas, da maior atuação em fóruns e organismos nacionais e internacionais e da priorização da atuação na dimensão da saúde e da segurança do consumidor e em setores específicos, como saúde, transporte, saneamento, telefonia, energia elétrica e outros mercados regulados. Código: 0868
+   Programa
+   Unidade Orçamentária
+   Ação Prioritária
+   Restos a Pagar Não processados - Exercícios Anteriores
+    Execução Orçamentária e Financeira
+Execução Física - Meta
+            Valor em 01/01/2014
+Valor Liquidado
+Valor Cancelado
+Descrição da Meta
+Unidade de medida
+Unidade
+Realizado
+            O CFDD obteve um crédito extraordinário com relação ao orçamento previsto na LOA, proporcionando um aumento de apoio a projetos do que estava previsto, sendo que os recursos financeiros foram praticamente empenhados na sua totalidade. Em 2014, ficou em resto a pagar apenas dois projetos de municípios que estavam inadimplentes.
+4.3 Informações sobre outros resultados da gestão
+Não há outros resultados da gestão a serem abordados.
+9 UNIDADES QUE TENHAM FIRMADO TERMO DE PARCERIA NOS TERMOS DA LEI 9.790/99
+Os subitens 61.2 - Valores repassados em razão de termos de parceria firmados, 61.2.1 - Demonstração dos valores mensais repassados no exercício em razão de termo de parceria, Quadro B.61.2.1 - Demonstração dos valores mensais repassados no exercício em razão de termo de parceria foram excluídos, pois o CFDD/FDD não celebrou no ano de 2014, Termo de Parceria com OSCIPS.
+Os subitens 61.4 - Avaliação dos resultados obtidos com a parceria, Quadro B.61.4 - Demonstrativo dos indicadores pactuados com a entidade parceira, 61.3 - Estrutura de acompanhamento dos resultados dos termos de parceria firmados, 61.3.1 - Composição da comissão de avaliação do resultado da parceria (art. 11, § 1o da Lei no 9.790/99), Quadro B.61.3.1 - Composição da comissão de avaliação do resultado da parceria (Art. 11, § 1o da Lei no 9.790/99) foram excluídos em virtude de não ter sido celebrado nenhum termo de parceria no exercício.
+9.1 Avaliação do termo de parceria celebrado pela unidade jurisdicionada
+Quadro 9.1 Identificação dos termos de parceria vigentes no exercício
+36.441.236/0001-00
+Sociedade de Amigos do Museu Imperial – RJ
+Promoção da cultura, defesa e conservação do patrimônio histórico e artístico
+014/2012
+11/12/2012 770905/2012 Chamamento Público
+30905 200401 11/12/2012 11/01/2014 442.845,01 0,00
+08.259.925/0001-63
+Instituto de Combate a Fraude e Defesa da Concorrência - RS Promoção da ética, da paz, da cidadania, dos direitos humanos, da democracia e de outros valores universais.
+139/2012
+28/12/2012 775542/2012 Chamamento Público
+     Informações da Entidade Parceira
+CNPJ
+   Nome
+   Âmbito de Atuação (art. 3o da Lei no 9.790/99)
+   Regulamento da Contratação de Obras e Serviços (art. 14 da Lei no 9.790/99)
+        Número
+   Informações do Termo de Parceria
+Data Celebração
+   Registrado no SICONV?
+   Forma de Escolha da Entidade Parceira
+       Objeto
+Organizar, catalogar, digitalizar e disponibilizar as imagens e os dados, por meio de um banco de dados online, de duas coleções do Museu Imperial: Coleção Museu Histórico de Petrópolis e Coleção José Kopke Fróes.
+     UJ Parceira
+Nome
+   UG SIAFI
+     Período Vigência
+Início
+   Fim
+     Valor Global (em R$ 1,00)
+Da UJ
+   Da Entidade
+      Informações da Entidade Parceira
+CNPJ
+    Âmbito de Atuação (art. 3o da Lei no 9.790/99)
+Nome
+     Regulamento da Contratação de Obras e Serviços (art. 14 da Lei no 9.790/99)
+          Informações do Termo de Parceria
+Número
+   Data Celebração
+   Registrado no SICONV?
+   Forma de Escolha da Entidade Parceira
+         Objeto
+Capacitação dos conceitos defendidos pelo ICDE, como a pirataria, contrabando e corrupção por meio da continuidade do programa ESCOLEGAL e ciclo de debates entre magistrados e profissionais relacionados ao direito.
+     UJ Parceira
+Nome
+  UG SIAFI
+    Período Vigência
+Início
+  Fim
+    Valor Global (em R$ 1,00)
+Da UJ
+  Da Entidade
+   30905 200401 28/12/2012 06/12/2014 429.276,00 0,00
+9.2 Dados agregados dos termos de parceria de exercícios antecedentes ao de referência
+Quadro 9.2 Dados agregados dos termos de parceria de exercícios antecedentes ao de referência
+            Exercícios
+Quantidade de Termos
+Vigentes
+0 0,00
+2 1.245.292
+Montante Repassado no Exercício
+(em R$ 1,00)
+    2012
+   Fonte: SICONV
+9.3 Estrutura de acompanhamento dos resultados dos termos de parceria firmados 9.3.1 Demonstrativo das prestações de contas apresentadas no exercício
+Quadro 9.3.1 Demonstrativo das prestações de contas apresentadas no exercício
+37.993.037/0001-78 09.01.14 11.12.12 11.12.13 Concluída 36.441.236/0001-00 04.02.14 11.12.12 11.01.14 Concluída
+Fonte: SICONV
+Aprovada Aprovada
+  CNPJ da Entidade Parceira
+   Data da Apresentação das Contas
+   Período de Referência
+  Situação da Análise*
+   Decisão**
+   Data Início
+   Data Fim
+           *Situação da Análise:
+▪ Concluída
+▪ Em andamento ▪ Não iniciada
+          **Decisão:
+▪ Aprovada
+▪ Reprovada
+▪ Em exigência
+5 TÓPICOS ESPECIAIS DA EXECUÇÃO ORÇAMENTÁRIA E FINANCEIRA
+Os subitens da Portaria TCU no 90/2014, 6.2 - Despesas com ações de publicidade e propaganda, 6.3 - Reconhecimento de passivos por insuficiência de créditos ou recursos, 6.6 - Suprimento de fundos e 6.7 - Renúncias sob a gestão da UJ foram excluídos porque não ocorreram no período.
+Os subitens da Portaria TCU no 90/2014, 6.1.3.5 - Despesas totais por modalidade de contratação – créditos de movimentação e o Quadro A.6.1.3.5 - Despesas por modalidade de contratação – créditos de movimentação, 6.1.3.6 - Despesas totais por grupo e elemento de despesa – créditos de movimentação e o Quadro A.6.1.3.6 - Despesas por grupo e elemento de despesa – créditos de movimentação, foram excluídos porque o CFDD/FDD não realizou créditos de movimentação.
+5.1 Programação e execução das despesas 5.1.1 Programação das despesas
+Quadro 5.1.1 Programação de Despesas
+      Unidade Orçamentária: FDDD
+Código UO: 30905
+UGO: 200401
+     Grupos de Despesa Correntes
+      Origem dos Créditos Orçamentários
+1 – Pessoal e Encargos Sociais
+2 – Juros e Encargos da Dívida
+3 – Outras Despesas Correntes
+     DOTAÇÃO INICIAL
+4.343.806 415.834
+4.759.640 5.220.098 -8,82
+       Suplementares
+       CRÉDITOS
+   Especiais
+Abertos
+  Reabertos
+       Abertos
+     Extraordinários
+Reabertos
+      Créditos Cancelados
+      Outras Operações
+     Dotação final 2014 (A)
+     Dotação final 2013(B)
+     Variação (A/B-1)*100
+    Grupos de Despesa Capital
+  9 - Reserva de Contingência
+   4 – Investimentos
+   5 – Inversões Financeiras
+   6 - Amortização da Dívida
+  Origem dos Créditos Orçamentários
+  DOTAÇÃO INICIAL
+1.1424.874 247.521
+        CRÉDITOS
+Suplementares
+              Especiais
+        Extraordinários
+                   Outras Operações
+Créditos Cancelados
+         Dotação final 2014 (A)
+1.672.395 102.211.399 548.582 66.150.605 204,86 54,51
+      Dotação final 2013(B)
+      Variação (A/B-1)*100
+     5.1.1.1 Análise crítica
+O orçamento disponível equivale a 3% do que foi arrecadado pelo CFDD no exercício de 2014, ressaltando que a Reserva de Contingência, apesar de ser solicitada pequena parcela estabelecido na LOA, o MPGO indefere o pedido todos os anos. Em 2014, tivemos um crédito suplementar remanejado de outro órgão do MJ no valor de R$ 415.834.00. Ou seja, deixamos de apoiar financeiramente vários projetos importantes devido a insuficiência de recursos disponíveis, considerando que a arrecadação é própria, vinda de condenações judiciais com base na Lei da Ação Civil Pública e de multas administrativas.
+5.1.2 Movimentação de créditos interna e externa
+5.1.2.1 – Movimentação orçamentária interna por grupo de despesa
+Quadro 5.1.2.1 Movimentação orçamentária interna por grupo de despesa
+Movimentação dentro de mesma unidade orçamentária entre unidades jurisdicionadas distintas
+         UG
+Despesas Correntes
+            Origem da Movimentação
+Concedente
+Recebedora
+Classificação da ação
+1 – Pessoal e Encargos Sociais
+2 – Juros e
+Encargos da Dívida
+3 – Outras
+Despesas Correntes
+        Concedidos
+        Recebidos
+    UG
+  Classificação da ação
+     Despesas de Capital
+  Concedente
+   Recebedora
+   4 – Investimentos
+   5 – Inversões Financeiras
+   6 – Amortização da Dívida
+  Origem da Movimentação
+  Concedidos
+        Recebidos
+       Movimentação entre Unidades Orçamentárias do mesmo Órgão
+        UG
+          Origem da Movimentação
+Concedente
+Recebedora
+Classificação da ação
+1 – Pessoal e Encargos Sociais
+Despesas Correntes
+2 – Juros e Encargos da Dívida
+3 – Outras Despesas Correntes
+                Concedidos
+200005
+30905.14.422 .2020.6067
+45.966
+        Recebidos
+        Origem da Movimentação
+UG
+Classificação da ação
+Despesas de Capital
+          Concedente
+Recebedora
+5 – Inversões Financeiras
+6 – Amortização da Dívida
+           Recebidos
+4 – Investimentos
+   Concedidos
+         5.1.2.2 – Movimentação orçamentária externa por grupo de despesa Quadro 5.1.2.2 Movimentação orçamentária externa por grupo de despesa
+        UG
+Despesas Correntes
+          Origem da Movimentação
+Concedente
+Recebedora
+Classificação da ação
+1 – Pessoal e Encargos Sociais
+2 – Juros e Encargos da Dívida
+3 – Outras Despesas Correntes
+154040
+30905.14.422 .2020.6067
+31.258
+              Concedidos
+154419
+30905.14.422 .2020.6067
+105.880
+        Recebidos
+    UG
+  Classificação da ação
+     Despesas de Capital
+  Concedente
+   Recebedora
+   4 – Investimentos
+   5 – Inversões Financeiras
+   6 – Amortização da Dívida
+ 154040
+ 30905.14.422 .2020.6067
+108.237
+   154419
+   30905.14.422 .2020.6067.
+  167.122
+         Origem da Movimentação
+    Concedidos
+  Recebidos
+       5.1.3 Realização da despesa
+5.1.3.1 Despesas totais por modalidade de contratação – créditos originários – total Quadro 5.1.3.1 Despesas por modalidade de contratação – créditos originários – Total
+      Unidade Orçamentária: FDDD
+Código UO: 30905
+UGO: 20401
+        Modalidade de Contratação
+Despesa Liquidada
+Despesa paga
+                1. Modalidade de Licitação (a+b+c+d+e+f+g)
+2013
+2013
+         a) Convite
+       b) Tomada de Preços
+       c) Concorrência
+    d) Pregão
+    e) Concurso
+    f) Consulta
+    g) Regime Diferenciado de Contratações Públicas
+          2. Contratações Diretas (h+i)
+      h) Dispensa
+  i) Inexigibilidade
+          3. Regime de Execução Especial
+       j) Suprimento de Fundos
+          4. Pagamento de Pessoal (k+l)
+       k) Pagamento em Folha
+    l) Diárias
+15.066
+    m) Passagens
+30.000
+          5. Outros
+          6. Total (1+2+3+4+5)
+45.066
+49.368
+45.066
+49.368
+                        24.368 15.066 24.368 25.000 30.000 25.000
+5.1.3.2 Despesas totais por modalidade de contratação – créditos originários – executados diretamente pela UJ
+Quadro 5.1.3.2 Despesas executadas diretamente pela UJ, por modalidade de contratação – créditos originários
+         Unidade Orçamentária: FDDD
+Código UO: 30905
+UGO: 200401
+        Despesa Liquidada
+        Modalidade de Contratação
+2013
+Despesa paga
+          1. Modalidade de Licitação (a+b+c+d+e+f+g)
+       a) Convite
+    b) Tomada de Preços
+    c) Concorrência
+    d) Pregão
+    e) Concurso
+    f) Consulta
+    g) Regime Diferenciado de Contratações Públicas
+          2. Contratações Diretas (h+i)
+      h) Dispensa
+  i) Inexigibilidade
+          3. Regime de Execução Especial
+       j) Suprimento de Fundos
+          4. Pagamento de Pessoal (k+l)
+       k) Pagamento em Folha
+    l) Diárias
+15.066
+          5. Outros
+          6. Total (1+2+3+4+5)
+                              24.368 15.066 24.368
+5.1.3.3 Despesas por grupo e elemento de despesa – créditos originários – total
+Quadro 5.1.3.3 Despesas por grupo e elemento de despesa – créditos originários – total
+       Unidade Orçamentária: FDDD
+Grupos de Despesa
+1. Despesas de Pessoal
+Nome 1o elemento de despesa 2o elemento de despesa
+3o elemento de despesa Demais elementos do grupo
+2. Juros e Encargos da Dívida
+1o elemento de despesa 2o elemento de despesa 3o elemento de despesa
+Demais elementos do grupo
+3. Outras Despesas Correntes
+334041
+Demais elementos do grupo
+Grupos de Despesa 4. Investimentos
+444041
+Demais elementos do grupo 5. Inversões Financeiras 1o elemento de despesa
+2o elemento de despesa
+3o elemento de despesa Demais elementos do grupo 6. Amortização da Dívida 1o elemento de despesa
+2o elemento de despesa
+3o elemento de despesa Demais elementos do grupo
+DESPESAS CORRENTES
+Código UO: 30905
+UGO: 200401
+              RP não processados
+ Empenhada
+Liquidada
+Valores Pagos
+2013
+2013
+2013
+2013
+                                                                                                                                      236.445
+306.798
+236.445
+306.798
+236.445
+306.798
+                  1.408.632
+61.776
+1.408.632
+61.776
+1.408.632
+61.776
+                  2.832.236
+3.352.375
+2.232.911
+2.557.643
+-
+794.732
+2.232.911
+2.557.643
+                  129.609
+246.454
+129.609
+246.454
+129.609
+24.369
+          DESPESAS DE CAPITAL
+          Empenhada
+Liquidada
+RP não Processados
+Valores Pagos
+2013
+2013
+2014
+         941.427 86.400 941.427 86.400 941.427 86.400
+           455.608 332.309 455.608 332.309 455.608 332.309
+                                                                                                                                       5.1.3.4 Despesas por grupo e elemento de despesa – créditos originários – valores executados diretamente pela UJ
+Quadro 5.1.3.4 Despesas executadas diretamente pela UJ – créditos originários
+      Unidade Orçamentária: FDDD
+Código UO: 30905
+UGO: 200401
+    DESPESAS CORRENTES
+          RP não processados
+    Grupos de Despesa
+Empenhada
+Liquidada
+Valores Pagos
+                  1. Despesas de Pessoal
+2013
+2013
+2013
+2013
+          Nome 1o elemento de despesa
+          2o elemento de despesa
+          3o elemento de despesa
+          Demais elementos do grupo
+                  2. Juros e Encargos da Dívida
+          1o elemento de despesa
+          2o elemento de despesa
+          3o elemento de despesa
+          Demais elementos do grupo
+                  3. Outras Despesas Correntes
+236.445 1.408.632
+2.832.236 129.609
+941.427 455.608
+306.798 61.776 3.352.37
+236.445 1.408.632
+306.798 61.776 2.557.64
+236.445 1.408.632
+2.232.911 129.609
+941.427 455.608
+306.798 61.776
+2.557.643 24.369
+          335041
+2.232.911 53
+-
+794.732
+          Demais elementos do grupo
+246.454
+86.400 332.309
+129.609
+941.427 455.608
+246.454
+86.400 332.309
+          DESPESAS DE CAPITAL
+          Grupos de Despesa
+Empenhada
+Liquidada
+RP não Processados
+Valores Pagos
+                  4. Investimentos
+2013
+2013
+2013
+2013
+          444041
+          Demais elementos do grupo
+                  5. Inversões Financeiras
+          1o elemento de despesa
+          2o elemento de despesa
+          3o elemento de despesa
+          Demais elementos do grupo
+                  6. Amortização da Dívida
+          1o elemento de despesa
+          2o elemento de despesa
+          3o elemento de despesa
+          Demais elementos do grupo
+         5.1.3.5 Análise crítica da realização da despesa
+A movimentação orçamentária interna por grupo de despesa, como de pagamento de pessoal, todo trâmite de contratação de serviço é atribuição da Secretaria Executiva do MJ. Com relação as
+passagens áreas ou terrestres, os recursos são tranferidos também para a Secretaria Executiva do MJ, enquanto que as diárias são pagas diretamento pela UJ.
+5.2 Movimentação e os saldos de restos a pagar de exercícios anteriores Quadro 5.2 Restos a pagar inscritos em exercícios anteriores
+Valores em R$ 1,00
+   Restos a Pagar não Processados
+          Ano de Inscrição
+Montante 01/01/2014
+Pagamento
+Cancelamento
+Saldo a pagar 31/12/2014
+  2012
+  ...
+      Restos a Pagar Processados
+          Ano de Inscrição
+Montante 01/01/2014
+Pagamento
+Cancelamento
+Saldo a pagar 31/12/2014
+  2012
+  ...
+                     5.2.1 Análise crítica
+Não existem restos a pagar de exercícios anteriores.
+                                          Nome: Fundo de Defesa de Direitos Difusos
+Informações sobre as Transferências
+Sit.
+Vigência
+No Exercício
+Fim
+29.10.15
+29.10.14
+30.07.15
+30.07.14
+01.07.15
+01.07.14
+29.10.15
+29.10.14
+        02.07.15
+02.07.14
+02.07.16
+                                   Unidade Concedente ou Contratante
+Valores Repassados
+Acumulado até o Exercício
+Início
+443.470,00
+402.495,00
+180.932,50
+400.516,16
+422.813,11
+04.07.14
+383.400,00
+                  443.470,00
+402.495,00
+180.932,50
+400.516,16
+422.813,11
+383.400,00
+                      Valores Pactuados
+Contrapartida
+0,00
+0,00
+3.692,50
+49.301,04
+22.253,33
+42.600,00
+                    Global
+443.470,00
+402.495,00
+184.625,00
+449.817,20
+445.066,44
+426.000,00
+                       CNPJ: 00.394.494/0100-18
+Beneficiário
+Associação de Defesa da Cidadania e do
+Consumidor
+03.296.698/0001-22
+Instituto SócioAmbiental Vida Verde 05.644.948/0001-01
+Município de
+Ferreiros/PE
+11.361.870/0001-02
+Município de
+Anápolis/GO
+01.067.479/0001-46
+Secretaria de Segurança
+Pública e Justiça/GO
+01.409.606/0001-48
+Fundo Estadual de
+                    No do instrumento
+791570/2013
+791693/2013
+793926/2013
+801483/2014
+801484/2014
+801653/2014
+                    Modalidade
+1
+1
+1
+     5.3.1 Relação dos instrumentos de transferências vigentes no exercício
+5.3 Transferências de recursos
+UG/GESTÃO: 200401/00001
+Posição em 31.12.2014
+Quadro 5.3.1 Caracterização dos instrumentos de transferências vigentes no exercício de referência
+1
+2
+1
+1
+1
+                              01.07.15
+08.12.16
+01.07.16
+03.07.15
+12.12.15
+17.07.16
+17.12.17
+02.12.15
+17.12.16
+                              01.07.14
+08.12.14
+02.07.14
+03.07.14
+12.12.14
+17.12.14
+17.12.14
+02.12.14
+17.12.14
+                              260.178,44
+R.P .
+189.755,49
+233.532,80
+291.981,50
+440.400,00
+371.658,59
+285.503,75
+443.750,00
+                              260.178,44
+156.780,00
+189.755,49
+233.532,80
+291.981,50
+440.400,00
+371.658,59
+285.503,75
+443.750,00
+                              28.800,00
+17.420,00
+16.797,00
+20.307,20
+0,00
+0,00
+23.145,80
+0,00
+0,00
+                              288.978,44
+174.200,00
+206.552,49
+253.840,00
+291.981,50
+440.400,00
+394.804,39
+285.503,75
+443.750,00
+                              Defesa do Consumidor
+do Estado de Mato
+Grosso
+05.916.661/0001-85
+Fundação Municipal de Cultura Timon/MA
+00.850.077/0001-50
+Município de Gouveia/MG 17.754.144/0001-36
+Município de Tubarão/SC 82.928.656/0001-33
+Município de Sabará/MG 18.715.441.0001-35
+Instituto Socioambiental 00.081.906/0001-88
+Sergipe Parque
+Ecológico
+06.938.508/0001-11
+Instituto Estadual de
+Florestas do Amapá
+08.790.642/0001-43
+Fundação de Proteção ao
+Meio Ambiente e
+Ecoturismo do Estado
+do Piauí
+05.201.972/0001-68
+Instituto de Pesquisa
+Ecológicas
+                              801970/2014
+802468/2014
+804514/2014
+804516/2014
+811244/2014
+811246/2014
+811253/2014
+811254/2014
+811492/2014
+1
+1
+1
+1
+         1
+30
+2
+1
+1
+1
+                              29.06.16
+18.12.16
+29.12.15
+30.12.16
+29.12.16
+31.12.15
+17.05.15
+20.09.15
+14.10.15
+                              29.12.14
+18.12.14
+29.12.14
+30.12.14
+29.12.14
+27.03.14
+17.05.13
+20.09.13
+14.10.13
+                              146.100,00
+R.P .
+100.000,00
+233.756,11
+82.699,28
+273.002,00
+272.340,00
+227.567,90
+443.378,75
+                              146.100,00
+442.545,39
+100.000,00
+233.756,11
+82.699,28
+0,00
+0,00
+0,00
+0,00
+                              0,00
+41.610,60
+0,00
+0,00
+0,00
+0,00
+0,00
+7.000,00
+0,00
+                              146.100,00
+484.155,99
+100.000,00
+373.819,28
+402.290,40
+273.002,00
+272.340,00
+234.567,90
+443.378,75
+                              66.831.223/0001-09
+Instituto Alto-Montana da Serra Fina 12.856.843/0001-73
+Município de Hortolândia/SP 67.995.027/0001-32
+Associação dos Proprietários, Artistas e
+Escolas de Circo do
+Ceará
+08.586.839/0001-65
+Instituto de Gestão de Políticas Sociais 07.571.815/0001-70
+Instituto Itapoty:
+Desenvolvimento
+Humano e Conservação Ambiental
+06.153.074/0001-44
+Universidade Federal do
+T ocantins
+05.149.726/0001-04
+Fundação Neotrópica do
+Brasil
+73.684.789/0001-10
+Município de Juara/MT
+15.072.663/0001-99
+Fórum Nacional das
+Entidades Civis de
+Defesa do Consumidor
+                              811494/2014
+811693/2014
+812266/2014
+812267/2014
+812969/2014
+782329/2013
+782485/2013
+782548/2013
+1
+1
+3
+1
+31
+1
+1
+1
+1
+                              20.10.14
+28.11.15
+28.11.14
+26.12.15
+31.03.15
+14.05.16
+23.01.16
+28.01.16
+15.07.15
+                              20.12.13
+28.11.13
+28.11.13
+26.11.13
+31.12.13
+31.12.13
+23.12.13
+31.12.13
+19.04.13
+                              226.922,00
+410.950,40
+369.320,00
+393.198,00
+442.400,00
+200.000,00
+166.517,77
+152.331,98
+158.940,00
+                              0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+                              0,00
+0,00
+0,00
+47.763,55
+0,00
+0,00
+14.976,90
+0,00
+0,00
+                              226.922,00
+410.950,40
+369.320,00
+440.961,55
+442.400,00
+200.000,00
+181.494,67
+152.331,98
+158.940,00
+                              03.919.519/0001-66
+Movimento das Donas
+de Casa e Consumidores
+do Estado de Goiás 06.125.649/0001-15
+Fundação Gilberto Freyre 11.869.674/0001-43
+Sindicato dos Trabalhadores Rurais de
+Ceres
+02.382.851/0001-71
+Fundação de Arte de
+Ouro Preto 23.070.071/0001-66
+Instituto Cultural e
+Social Lumiar 11.881.500/0001-04
+Fundação Casa Paulo
+Dias Adorno
+14.523.062/0001-92
+Município de
+Guarapuava/PR
+76.178.037/0001-76
+Associação Terra
+Indígena Xingu
+01.191.693/0001-00
+Arquivo Histórico do
+Exército/Departamento
+de Educação e Cultura
+do Exército
+                              782763/2013
+782764/2013
+782766/2013
+786099/2013
+791534/2013
+791535/2013
+791536/2013
+791806/2013
+                              1
+1
+1
+1
+3
+32
+1
+1
+4
+1
+                             30.12.14
+16.11.14
+31.12.14
+13.12.14
+13.06.15
+15.10.14
+27.09.14
+03.05.15
+20.03.14
+                             05.07.13
+16.08.12
+13.12.12
+13.12.12
+13.12.12
+13.12.12
+27.12.12
+28.12.12
+28.12.11
+                             228.889,00
+408.600,00
+110.275,00
+254.350,00
+500.00,00
+398.150,00
+229.113,50
+384.423,14
+588.091,49
+                             0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+                             0,00
+45.400,00
+0,00
+0,00
+59.950,50
+0,00
+0,00
+0,00
+0,00
+                             228.889,00
+454.000,00
+110.275,00
+254.350,00
+599.505,00
+398.150,00
+229.113,50
+384.423,14
+588.091,49
+                             00.394.452/0270-52
+Universidade de
+Brasília/Faculdade de
+Ciência da Informação
+154040/15257
+Conselho de Políticas e
+Gestão do Meio
+Ambiente
+08.696.074/0001-16
+Casa dos Açores da Ilha de Santa Catarina 04.099.898/0001-58
+Rede de
+Desenvolvimento Humano 39.064.233/0001-93
+Secretaria de Governo
+do Mato Grosso do Sul
+03.216.036/0001-03
+Instituto O Direito Por
+Um Planeta Verde
+01.269.167/0001-15
+Associação dos
+Produtores Culturais de
+Mato Grosso
+04.793.249/0001-52
+Centro da Terra - Grupo
+Espeleológico de
+Sergipe
+08.047.837/0001-06
+Ecoa - Ecologia & Ação
+769345/2012
+773988/2012
+774077/2012
+774264/2012
+774453/2012
+775499/2012
+775518/2012
+763161/2011
+1
+1
+1
+1
+33
+1
+4
+1
+1
+                              14.06.14
+31.05.14
+20.06.14
+31.07.14
+21.06.15
+20.12.14
+15.04.15
+30.09.14
+21.07.14
+                              14.05.12
+19.06.08
+21/12/09
+10.06.10
+21.06.10
+14.12.10
+29.12.10
+29.12.10
+21.03.11
+                              341.350,00
+135.921,51
+210.169,00
+132.000,00
+219.560,76
+167.535,00
+141.300,00
+146.100,00
+80.370,00
+                              0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+                              0,00
+13.593,00
+43.972,74
+33.000,00
+19.092,24
+18.615,00
+29.710,00
+16.400,00
+0,00
+                              341.350,00
+149.514,51
+254.141,74
+165.000,00
+238.653,00
+186.150,00
+171.010,00
+162.500,00
+80.370,00
+                              33.120.577/0001-96
+Museu Paraense Emílio Goeldi 04.108.782/0001-38
+Universidade do Estado
+da Bahia - Departamento de Tecnologia e Ciências Sociais
+14.485.841/0001-40
+Secretaria Estadual dos Povos Indígenas 11.126.029/0001-30
+Município de Santo
+Antônio da Patrulha/RS
+88.814.199/0001-32
+Prefeitura Municipal de
+Barra Mansa/RJ
+28.695.658/0001-84
+Fundo Estadual de
+Defesa do
+Consumidor/MT
+05.916.661/0001-85
+Fundação Cultural de
+Joinville/SC
+83.796.227/0001-12
+Ministério Público do
+Acre
+04.034.450/0001-56
+Fundação Regional
+Integrada
+96.216.841/0002-90
+                              TC 002/2012 UG 240125
+Conv. 009/2008
+724426/2009
+732917/2010
+733199/2010
+748815/2010
+752712/2010
+752737/2010
+755375/2011
+1
+1
+1
+1
+  1
+   4
+   4
+   17.12.14
+    29.09.14
+  25.06.14
+    29.06.15
+   16.03.14
+   25.04.15
+   23.05.11
+    29.12.11
+  29.06.11
+    29.06.11
+   16.12.11
+   27.12.11
+   135.000,00
+   430.837,00
+ 425.000,00
+   216.693,12
+  101.567,68
+  220.300,00
+   0,00
+     0,00
+   0,00
+     0,00
+    0,00
+    0,00
+   15.000,00
+   0,00
+ 15.000,00
+   18.812,88
+  11.285,30
+  22.946,25
+   150.000,00
+     430.837,00
+   440.000,00
+     235.506,00
+    112.852,98
+    243.246,25
+   Fundação do Patrimônio Histórico e Artístico de Pernambuco 08.032.567/0001-51
+   Sinagoga Comunidade
+Israelita
+63.018.972/0001-23
+ Município de Picada Café/RS 92.871.466/0001-80
+   Município de Barra Mansa/ RJ 28.695.658/0001-84
+  Universidade Estadual
+da Paraíba
+01.278.312/0001-24
+  Secretaria de Estado
+para os Povos Indígenas
+11.126.029/0001-30
+   755391/2011
+     755801/2011
+   755434/2011
+     755435/2011
+    755904/2011
+    762187/2011
+    1
+    1
+   1
+    Situação da Transferência:
+   1 - Adimplente
+  2 - Inadimplente
+  3 - Inadimplência Suspensa
+  4 - Concluído
+  5 - Excluído
+  6 - Rescindido
+  7 - Arquivado
+  Modalidade:
+    1 - Convênio
+  2 - Contrato de Repasse
+  3 - Termo de Cooperação
+  4 - Termo de Compromisso
+      LEGENDA
+Fonte: SICONV, SIAFI e Controle Interno de Execução do CFDD
+5.3.2 Quantidade de instrumentos de transferências celebrados e valores repassados nos três últimos exercícios
+Quadro 5.3.2 Resumo dos instrumentos celebrados pela UJ nos três últimos exercícios
+  Unidade Concedente ou Contratante
+    Nome:
+Fundo de Defesa de Direitos Difusos
+    CNPJ:
+00.394.494/0100-18
+    UG/GESTÃO:
+200401/00001
+      Modalidade
+Quantidade de Instrumentos Celebrados em Cada Exercício
+Montantes Repassados em Cada Exercício, Independentemente do ano de Celebração do Instrumento (em R$ 1,00)
+2013
+2014
+     Convênio
+     Contrato de Repasse
+  Termo de Cooperação
+  Termo de Compromisso
+  Totais
+ 20 11 9
+2 2 4
+22, 13 13
+Fonte: SIAFI, SICONV e Controle Interno de Execução do CFDD
+5.912.268
+412.497
+2.710.195
+387.829
+3.098.024
+2.238.801
+1.122.610
+3.361.411
+                        6.324.765
+      5.3.3 Informações sobre a prestação de contas relativas aos convênios e contratos de repasse
+Quadro 5.3.3 Resumo da prestação de contas sobre transferências concedidas pela UJ na modalidade de convênio, termo de cooperação e de contratos de repasse.
+Valores em R$ 1,00
+    Nome: Fundo de Defesa de Direitos Difusos CNPJ: 00.394.494/0100-18
+Unidade Concedente
+UG/GESTÃO: 200401/00001
+         Exercício da Prestação das Contas
+Quantitativos e Montante Repassados
+Instrumentos
+(Quantidade e Montante Repassado)
+    Convênios
+Contratos de Repasse
+                 Contas Prestadas
+Quantidade
+Montante Repassado
+   Quantidade
+  Contas NÃO Prestadas
+Montante Repassado
+            Quantidade
+Contas Prestadas
+Montante Repassado
+  Quantidade
+  Contas NÃO Prestadas
+Montante Repassado
+Quantidade
+ Contas Prestadas
+ Montante Repassado
+             18 5.213.002 1 270.000 20 3.941.538
+    Contas NÃO Prestadas
+  Quantidade
+  Montante Repassado
+  Anteriores a 2012
+   Contas NÃO Prestadas
+   Quantidade
+  Montante Repassado
+       Fonte: SIAFI, SICONV e Controle Interno de Execução do CFDD
+5.3.4 Informações sobre a análise das prestações de contas de convênios e de contratos de repasse
+Quadro 5.3.4 Visão Geral da análise das prestações de contas de convênios e contratos de repasse.
+1 254.682
+        Unidade Concedente ou Contratante
+ Nome: Fundo de Defesa de Direitos Difusos
+CNPJ: 00.394.494/0100-18 UG/GESTÃO: 200401/00001
+Posição 31/12/14 em R$ 1,00
+    Exercício da Prestação das Contas
+      Instrumentos
+    Quantitativos e Montantes Repassados
+Contratos de Repasse
+Convênios
+      Quantidade de Contas Prestadas
+  Com Prazo de Análise ainda não Vencido
+  Contas Analisadas
+      Quantidade Aprovada
+      Quantidade Reprovada
+      Quantidade de TCE
+      Montante Repassado (R$)
+  Contas NÃO Analisadas
+       Quantidade
+      Montante Repassado (R$)
+  Com Prazo de Análise Vencido
+ Contas Analisadas
+      Quantidade Aprovada 46
+      Quantidade Reprovada
+      Quantidade de TCE 2
+      Montante Repassado (R$)
+  Contas NÃO Analisadas
+       Quantidade
+      Montante Repassado (R$)
+    Quantidade de contas prestadas
+  Contas Analisadas
+      Quantidade Aprovada 18
+      Quantidade Reprovada
+      Quantidade de TCE 2
+      Montante repassado
+  Contas NÃO Analisadas
+       Quantidade
+      Montante repassado (R$)
+   Quantidade de Contas Prestadas
+   Contas analisadas
+       Quantidade Aprovada 9
+      Quantidade Reprovada
+      Quantidade de TCE
+      Montante Repassado
+         Contas NÃO Analisadas
+Quantidade
+      Montante Repassado
+          Exercício Anterior a 2012
+Contas NÃO Analisadas
+Quantidade
+    Montante Repassado
+     Fonte: SIAFI, SICONV e Controle Interno de Execução do CFDD
+5.3.5 Análise crítica
+A Secretaria Executiva do Conselho Federal Gestor do Fundo de Defesa de Direitos Difusos – SECFDD comunica aos proponentes o término da vigência e o prazo para prestação de contas. O Convenente que não apresentar a prestação de contas dentro do prazo estipulado, recebe uma correspondência da SECFDD que estabelece o prazo máximo de 30 (trinta) dias para sua apresentação ou recolhimento dos recursos atualizados monetariamente, na forma da lei. Caso não seja cumprida as diligências, será aberta Tomada de Contas Especial – TCE.
+O FDD não realiza transferência na situação de inadimplência.
+A execução orçamentária e financeira no ano de 2014 foi efetuada de acordo com os referidos normativos.
+Apesar do empenho dos servidores, torna-se materialmente impossível à análise de todas as prestações de contas, tendo em vista a demanda e o reduzido número de pessoal, o que dificulta o cumprimento dos prazos regulamentares.
+A estrutura que o Conselho Federal Gestor do FDD tem é pequena para a realizar tanto o gerenciamento das transferências quanto para fazer a fiscalização “in loco” dos projetos, tendo em vista que a Lei que criou o CFDD deixou de constar a estrutura da Secretaria Executiva do Conselho, pelo menos é o argumento que o Ministério do Planejamento alega para não aprovar uma estrutura, ou seja, a secretaria executiva do CFDD fica na dependência da Secretaria Nacional do Consumidor.
+Gestão de Pessoas, Terceirização de Mão de Obra e Custos Relacionados
+Esse item foi excluído, pois essas informações serão prestadas no Relatório de Gestão da Senacon, cujo dados foram fornecidos pela CGRH, pois o CFDD é vinculado a esta Secretaria.
+
+Gestão da Tecnologia da Informação Não se aplicam à natureza jurídica da UJ.
+
+6 ATENDIMENTO DE DEMANDAS DE ÓRGÃOS DE CONTROLE
+Os subitens da Portaria TCU no 90/2014 11.1 - Tratamento de deliberações exaradas em acórdão do TCU e 11.1.1 - Deliberações do TCU atendidas no exercício e o Quadro A.11.1.1 - Cumprimento das deliberações do TCU atendidas no exercício, 11.2.2 - Deliberações do TCU pendentes de atendimento ao final do exercício e o Quadro A.11.2.2 - Situação das deliberações do TCU que permanecem pendentes de atendimento no exercício, 11.2 - Tratamento de recomendações do OCI, 11.2.1 - Recomendações do órgão de controle interno atendidas no exercício e o Quadro A.11.2.1 - Relatório de cumprimento das recomendações do órgão de controle interno, foram excluídos, pois não ocorreram no período.
+Os subitens 11.3 - Declaração de bens e rendas estabelecida na Lei n° 8.730/93, 11.3.1 - Situação do cumprimento das obrigações impostas pela Lei 8.730/93, Quadro A.11.3.1 - Demonstrativo do cumprimento, por autoridades e servidores da UJ, da obrigação de entregar a DBR e 11.3.2 - Situação do cumprimento das obrigações foram excluídos, pois essas informações serão prestadas no Relatório da Senacon.
+Os atendimentos do subitem 6.1 deste RG já foram sucessivamnete respondidos pelo FDD, pendentes somente de análise do TCU.
+6.1 Tratamento de recomendações do OCI
+6.1.1 Recomendações do OCI pendentes de atendimento ao final do exercício
+Quadro 6.1.1 Situação das recomendações do OCI que permanecem pendentes de atendimento no exercício
+  Recomendações Expedidas pelo OCI
+  Ordem
+   Identificação do Relatório de Auditoria
+   Item do RA
+   Comunicação Expedida
+ 1 227714 002
+Processo 08012.000510/2014-63
+    Órgão/Entidade Objeto da Recomendação
+   Código SIORG
+  Conselho Federal Gestor do Fundo de Defesa de Direitos Difusos
+   Descrição da Recomendação
+   Alertar ao convenente que constitui motivo para rescisão do convênio o inadimplemento de qualquer das cláusulas pactuadas (Incisos I e II do art. 36 da IN STN no 01/97 e Inciso I do art. 62 da Portaria Interministerial MP/MF/MCT no 127/08), haja vista a falta de aplicação em caderneta de poupança dos recursos transferidos por meio de convênios quando a previsão de seu uso for igual ou superior a um mês.
+  Providências Adotadas
+  Setor Responsável pela Implementação
+   Código SIORG
+ Conselho Federal Gestor do Fundo de Defesa de Direitos Difusos 8156
+Justificativa para o seu não Cumprimento
+    Todas as solicitações foram atendidas.
+  Análise Crítica dos Fatores Positivos/Negativos que Facilitaram/Prejudicaram a Adoção de Providências pelo Gestor
+  -
+   Recomendações Expedidas pelo OCI
+  Ordem
+   Identificação do Relatório de Auditoria
+   Item do RA
+   Comunicação Expedida
+ 2 227714 004
+Processo 08012.000510/2014-63
+    Órgão/Entidade Objeto da Recomendação
+   Código SIORG
+  Conselho Federal Gestor do Fundo de Defesa de Direitos Difusos
+   Descrição da Recomendação
+   Aprimorar os mecanismos de controles internos de convênios, sobretudo na fase de avaliação das propostas, anteriormente à celebração dos termos, atentando para o que segue: a) Orientar os proponentes no sentido de que apresentem as pesquisas de mercado realizadas para elaboração dos orçamentos constantes das propostas, conforme orienta o Manual de Convênios do Tribunal de Contas da União. b) Solicitar que os proponentes procedam a um melhor detalhamento dos orçamentos no que se refere aos serviços a serem contratados, discriminando as atividades a serem realizadas, confrontando-as com a necessidade real do projeto, de forma a possibilitar análise mais precisa da adequação das quantidades contratadas por parte do CFDD/SDE.
+  Providências Adotadas
+  Setor Responsável pela Implementação
+   Código SIORG
+ Conselho Federal Gestor do Fundo de Defesa de Direitos Difusos 8156
+   Justificativa para o seu não Cumprimento
+Todas as solicitações foram atendidas.
+   Análise Crítica dos Fatores Positivos/Negativos que Facilitaram/Prejudicaram a Adoção de Providências pelo Gestor
+  -
+   Recomendações Expedidas pelo OCI
+  Ordem
+   Identificação do Relatório de Auditoria
+   Item do RA
+   Comunicação Expedida
+ 3 227714 006
+Processo 08012.000510/2014-63
+    Órgão/Entidade Objeto da Recomendação
+   Código SIORG
+  Conselho Federal Gestor do Fundo de Defesa de Direitos Difusos
+   Descrição da Recomendação
+   1) Solicitar a recomposição do quadro funcional da SDE às autoridades do Ministério da Justiça, demonstrando os impactos negativos na operacionalização das atividades técnico-administrativa em razão da carência de servidores.
+2) Atentar para os prazos estabelecidos na legislação de convênios, sobretudo quanto aos prazos para apresentação e análise das prestações de contas, mantendo arquivo de controle atualizado, de modo a estabelecer uma priorização de análise.
+  Providências Adotadas
+  Setor Responsável pela Implementação
+   Código SIORG
+ Conselho Federal Gestor do Fundo de Defesa de Direitos Difusos 8156
+   Justificativa para o seu não Cumprimento
+Todas as solicitações foram atendidas.
+   Análise Crítica dos Fatores Positivos/Negativos que Facilitaram/Prejudicaram a Adoção de Providências pelo Gestor
+  -
+   Recomendações Expedidas pelo OCI
+  Ordem
+   Identificação do Relatório de Auditoria
+   Item do RA
+   Comunicação Expedida
+ 4 227714 009
+Processo 08012.000510/2014-63
+    Órgão/Entidade Objeto da Recomendação
+   Código SIORG
+  Conselho Federal Gestor do Fundo de Defesa de Direitos Difusos
+   Descrição da Recomendação
+ Explicitar, nos processos, os motivos da ocorrência de grandes diferenças entre os dados constantes da carta-consulta inicial em comparação com o projeto aprovado, de modo que a escolha do convenente ocorra de forma transparente.
+Conselho Federal Gestor do Fundo de Defesa de Direitos Difusos 8156
+  Providências Adotadas
+  Setor Responsável pela Implementação
+   Código SIORG
+    Justificativa para o seu não Cumprimento
+Todas as solicitações foram atendidas.
+   Análise Crítica dos Fatores Positivos/Negativos que Facilitaram/Prejudicaram a Adoção de Providências pelo Gestor
+  -
+   Recomendações Expedidas pelo OCI
+  Ordem
+   Identificação do Relatório de Auditoria
+   Item do RA
+   Comunicação Expedida
+ 5 254406 004
+Processo 08012.000510/2014-63
+    Órgão/Entidade Objeto da Recomendação
+   Código SIORG
+  Conselho Federal Gestor do Fundo de Defesa de Direitos Difusos
+   Descrição da Recomendação
+   1) Atentar para os prazos estabelecidos na legislação de convênios, sobretudo quanto aos prazos para apresentação e análise das prestações de contas, mantendo arquivo de controle atualizado, de modo a estabelecer uma priorização de análise.
+ 2 )Cientificar a Secretaria-Executiva/MJ sobre as dificuldades para cumprimento de suas atividades, causadas pela insuficiência da força de trabalho existente na SDE, solicitando a recomposição de seu quadro funcional.
+Conselho Federal Gestor do Fundo de Defesa de Direitos Difusos 8156
+  Providências Adotadas
+  Setor Responsável pela Implementação
+   Código SIORG
+    Justificativa para o seu não Cumprimento
+Todas as solicitações foram atendidas.
+   Análise Crítica dos Fatores Positivos/Negativos que Facilitaram/Prejudicaram a Adoção de Providências pelo Gestor
+  -
+   Recomendações Expedidas pelo OCI
+  Ordem
+   Identificação do Relatório de Auditoria
+   Item do RA
+   Comunicação Expedida
+ 6 254406 007
+Processo 08012.000510/2014-63
+    Órgão/Entidade Objeto da Recomendação
+   Código SIORG
+  Conselho Federal Gestor do Fundo de Defesa de Direitos Difusos
+   Descrição da Recomendação
+   1) Firmar convênio somente quando comprovada a existência do interesse convergente entre os entes concedentes e convenentes, em atendimento ao disposto no inciso IV, § 1o, art. 1o da Portaria Interministerial no 127/2008 e Acórdão nos. 2.066/2006 e 641/2007-TCU - Plenário. Recomenda-se, ainda, quando firmar convênios com os recursos do FDD, comprovar o atendimento ao disposto no § 3o, art. 1o da Lei no 9008/1995, o qual determina que "Os recursos arrecadados pelo FDD serão aplicados na recuperação de bens, na promoção de eventos educativos, científicos e na edição de material informativo especificamente relacionados com a natureza da infração ou do dano causado".
+2) Incluir nos termos de convênio cláusula informando o cronograma de desembolso conforme o Plano de Trabalho, em atendimento ao previsto no inciso IX do art. 30 da Portaria interministerial no 127/2008, independentemente da quantidade de parcelas de liberação de recursos.
+3) Atentar para que os documentos ou certidões incluídos no processo, ante o uso da faculdade prevista na Portaria Interministerial no 127/2008, atendam às formalidades e requisitos intrínsecos previstos em lei.
+4) Adotar providências no sentido de que os relatórios de execução trimestrais sejam incluídos no SICONV, em atenção aos termos do § 3o art. 53 da Portaria Interministerial no 127/2010. Recomenda-se, ainda, que a Unidade informe em processo, as providências adotadas e os motivos impeditivos da falta de atualização dos dados do Convênio no referido Sistema.
+  Providências Adotadas
+  Setor Responsável pela Implementação
+   Código SIORG
+ Conselho Federal Gestor do Fundo de Defesa de Direitos Difusos 8156
+Justificativa para o seu não Cumprimento
+Todas as solicitações foram atendidas.
+      Análise Crítica dos Fatores Positivos/Negativos que Facilitaram/Prejudicaram a Adoção de Providências pelo Gestor
+  -
+6.2 Medidas adotadas em caso de dano ao erário
+Quadro 6.2 Medidas adotadas em caso de dano ao erário em 2014
+     Casos de dano objeto de medidas administrativas internas
+Tomadas de Contas Especiais
+    Não instauradas
+Instauradas
+      Dispensadas
+Não remetidas ao TCU
+            Débito < R$ 75.000
+Prazo > 10 anos
+      Outros Casos*
+Recebimento Débito
+Arquivamento
+Não Comprovação
+Débito < R$ 75.000
+Não enviadas > 180 dias do exercício instauração*
+Remetidas ao TCU *
+         * Processo: 08012.007686/2010-12 - Convênio MJ/SDE/FDD no 001/2017, firmado Associação Fórum das Organizações do Povo Paiter Suruí – RO, entregue no TCU por meio do Ofício 009/2014 – AECI/MJ de 16 de janeiro 2014.
+6.3 Alimentação Siasg e Siconv
+A Declaração de inserção e atualização de dados no Siasg e Siconv, nos termos do subitem 11.5 da Portaria TCU no 90/2014 encontra-se no subitem 20.2 do Anexo deste Relatório (Quadro 11.1).
+7 INFORMAÇÕES CONTÁBEIS
+Os subitens da Portaria TCU no 90/2014, 12.1 - Medidas adotadas para adoção de critérios e procedimentos estabelecidos pelas normas brasileiras de contabilidade aplicadas ao setor público, 12.2 - Apuração dos custos dos programas e das unidades administrativas e 12.8 - Relatório de auditoria independente foram excluídos, pois as informações serão prestadas pela Secretária Executiva do Ministério da Justiça no seu respectivo Relatório de Gestão.
+7.1 Conformidade contábil
+Para essa funcionalidade temos dois servidores designados por Portaria, que verificam diariamente os atos e fatos da Gestão Orçamentária e Financeira, referente às Unidades Gestoras 200400 e 200401, são responsáveis por essa operação os servidores:
+a) RONAN PINTO DE ARAÚJO, designado como titular pela Portaria no 19 de 16 de maio de 2013.
+b) PEDRO DE SOUZA FREITAS, designado como substituo pela Portaria no 48 de 04 de julho de 2014.
+7.2 Declaração do contador atestando a conformidade das demonstrações contábeis
+A Declaração do contador atestando a conformidade das demonstrações contábeis, nos termos do subitem 12.4 da Portaria TCU no 90/2014 encontra-se no subitem 11.2 do Anexo deste Relatório (Quadro 12.4).
+8 OUTRAS INFORMAÇÕES SOBRE A GESTÃO
+8.1 Outras informações consideradas relevantes pela UJ
+Todas as informações foram contempladas nos itens e subitens anteriores.
+10 RESULTADOS E CONCLUSÕES
+10.1 Atuação frente aos objetivos estratégicos traçados para o exercício de 2014
+Os efeitos positivos sobre os objetivos da UJ foram os recursos do FDD que apoiaram todos os projetos selecionados dos municípios, estados e União por intemédio do Chamamento Público do FDD
+Os efeitos negativos dos objetivos da UJ foram os recursos financeiros previsto na Reserva de Contingência na LOA, referente ao FDD, que não ficaram disponíveis sua utilização.
+As principais dificuldades encontradas para a realização dos objetivos foram: 1. imprevisibildade na liberações das parcelas do orçamento; 2. falta de capacitação dos responsáveis pelo acompanhamento e execução por parte dos convenentes, em relação operacionalização do Portal de Convênios do Governo Federal – SICONV.
+As principais medidas tomadas para mitigar as dificuldades encontradas foram: 1. antecipar a análise dos projetos a fim de deixa-los aptos para celebar termo de convênio, a medida que o orçamentário e financeiro forem disponibilizados; 2. visitas “in loco” para orientar e concretizar o uso do sistema eletrônico, a fim de que todas as informações sobre convênio sejam efetivamente registradas no Siconv.
+10.2 Principais medidas que deverão ser adotadas nos exercícios seguintes para mitigar os desvios dos objetivos traçados para o exercício de 2014.
+Dar continuidade às medidas tomadas em 2014, procurando outras formas de orientação aos proponentes, como também lançar o Manual de Elaboração de Projetos que serão apoidos por meio de termos de convênios.

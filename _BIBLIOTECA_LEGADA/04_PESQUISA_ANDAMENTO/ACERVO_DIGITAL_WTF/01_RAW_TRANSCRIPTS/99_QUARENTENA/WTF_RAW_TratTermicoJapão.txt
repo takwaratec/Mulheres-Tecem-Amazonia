@@ -1,0 +1,589 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFAC/UFRR
+equipe: Gestão e Parceria Regional
+tipo: Acervo de Consulta RAW (Transcrição)
+autor: Acervo Digital Mulheres que Tecem a Floresta
+data: '2025'
+---
+􏰂􏰃􏰄􏰂􏰅 􏰇􏰈􏰉
+􏰊􏰋􏰌􏰍􏰎􏰄􏰏
+Abstract: This study probes into the root cause of split in thermally modified bamboo culm by investigating the underlying effect of thermal contraction with respect to its orthotropic nature by experimental and numerical methods while concurrently monitoring the chemical variation of its structure by Fourier transformed infrared spectroscopy (FTIR). In first part of this study, a non-linear increase in dimensional and weight changes of small clear bamboo specimens were observed with increasing temperature. The dimensional changes in the radial and tangential directions significantly exceeded that in the longitudinal direction. From FTIR results, shrinkage effect between 150 ◦C to 200 ◦C was associated with weight loss engendered by reduction in weakly bound water and increase in desorption of water content while alteration of its mechanical properties was attributed to changes in cellulose, hemicellulose, and lignin. From results of finite element method (FEM), the graded variation in thermal expansion coefficient, which showed the formation of a narrowed region of strain concentration corresponding to longitudinal crack propagation, was associated with the inducement of internal forces, namely tensile and compressive forces, at specific regions along the culm length. The results of this study can be useful to achieve optimized durability in modified bamboo for construction.
+Keywords: bamboo; thermal modification; thermal gradient; thermal contraction; shrinkage; longitudinal split; FEM (finite element method)
+1. Introduction
+The use of bamboo as a construction material in buildings dates back to thousands of years. It has a formidable strength to weight ratio with respect to wooden elements. Being a sustainable material, it has attracted much interest in modern eco-friendly design in recent years and has the advantage of reducing the dependency on conventional timber products. Additionally, the harvest cycle of mature bamboo is half than that of the fastest growing softwood at around 4 to 5 years. These important characteristics repositioned bamboo as an alternative consideration to conventional construction materials such as steel and concrete as it is considered to be a viable structural material such as trusses in construction given its low cost and energy saving benefits [1–3]. However, being a kind of high anisotropic biomaterial, bamboo displays a complex fracture behavior in
+materials
+  Article
+Investigating the Underlying Effect of Thermal Modification on Shrinkage Behavior of Bamboo Culm by Experimental and Numerical Methods
+Raviduth Ramful 1,2,*, Thefye P. M. Sunthar 3,4, Wenliang Zhu 3 and Giuseppe Pezzotti 3,4,5,6
+Citation: Ramful,R.;Sunthar,T.P.M.; Zhu, W.; Pezzotti, G. Investigating the Underlying Effect of Thermal Modification on Shrinkage Behavior of Bamboo Culm by Experimental and Numerical Methods. Materials 2021, 14, 974. https://doi.org/ 10.3390/ma14040974
+Received: 15 December 2020 Accepted: 12 January 2021 Published: 19 February 2021
+Publisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affil- iations.
+Copyright: © 2021 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/).
+2
+4
+Graduate School of Science and Technology, Kyoto Institute of Technology (KIT), Matsugasaki, Sakyo-ku, Kyoto 606-8585, Japan
+Mechanical and Production Engineering Department, Faculty of Engineering, University of Mauritius, Reduit 80837, Mauritius
+Ceramic Physics Laboratory, Kyoto Institute of Technology, Matsugasaki, Sakyo-ku, Kyoto 606-8585, Japan; d0871502@edu.kit.ac.jp (T.P.M.S.); wlzhu@kit.ac.jp (W.Z.); pezzotti@kit.ac.jp (G.P.)
+Department of Immunology, Graduate School of Medical Science, Kyoto Prefectural University of Medicine, Kamigyo-ku, 465 Kajii-cho, Kawaramachi Dori, Kyoto 602-0841, Japan
+The Center for Advanced Medical Engineering and Informatics, Osaka University, Yamadaoka, Suita, Osaka 565-0871, Japan
+Department of Orthopedic Surgery, Tokyo Medical University, Tokyo 105-8461, Japan
+* Correspondence: r.ramful@uom.ac.mu
+   Materials 2021, 14, 974. https://doi.org/10.3390/ma14040974 https://www.mdpi.com/journal/materials
+
+Materials 2021, 14, 974
+2 of 16
+ various modes of loading [4–9]. Besides, changes in physical characteristics, such as in its moisture content often results in fracture along culm length in terms of longitudinal split. Rapid changes in relative humidity in the atmosphere and uneven drying during thermal modification are main causes of split in bamboo culm [10].
+Pronounced cracking engendered by inhomogeneous shrinkage and swelling pro- cesses was the predominant damage mechanisms observed in large-timber structures in various climatic conditions [11]. Bamboo has high hygroscopicity due to the presence of polar hydroxyl groups in its cellulose fibers [12]. It will absorb or desorb moisture to attain equilibrium moisture content (EMC) equivalent to the ambient humidity and temperature [13]. In hygroexpansion-related investigation, the swelling and shrinkage of bamboo was found to be related to an increase and decrease in relative humidity (RH), respectively [14]. The hygroscopicity of bamboo is susceptible to change when exposed to heat. An increase in temperature and time exposure was found to affect the hygro- scopic property of bamboo [15]. Natural shrinkage occurs as from room temperature, at 30 ◦C whereby bamboo loses free water deposited in its cell cavities [10]. During heat treatment, further shrinkage occurs as bamboo loses all free water up to 130 ◦C and ab- sorbed water in cell walls between 180 ◦C and 220 ◦C [10]. In previous studies, the ductile characteristics of bamboo were reported to increase with increasing moisture content (MC) below the fiber saturation point (FSP) [16–18]. Furthermore, the mechanical properties of lignin-hemicellulose matrix were found to be more sensitive to changes in MC than cellulose [17]. However, the temperature in heat treatment exceeding 200 ◦C demonstrated causing a decrease in modulus of elasticity [10,19,20]. Harvested bamboo needs to be dried to reduce the moisture content to prevent degradation by insects and fungi. The drying of bamboo requires specific conditions of temperature and duration in order to prevent cracking [21]. To reduce the swelling and shrinkage in bamboo, several studies have considered heat treatment modification to improve its dimensional stability [19,20,22]. As treatment temperature increased, this led to a decrease in free hydroxyl groups in bamboo thereby reducing its hygroscopicity. This resulted in an improved anti-shrinking efficiency of heat-treated bamboo [20]. Furthermore, bamboo heat-treated in oil displayed improved hydrophobic characteristics and better dimensional stability as compared to simply heat-treated ones [20].
+The splitting of bamboo varies among species as it depends on morphological features such as node interspacing, culm diameter and wall thickness. The structural role of the node in the culm affects the splitting in bamboo due to change in orientation of fibers in the vicinity of the nodes [23]. Given its unique morphology, bamboo has developed into a functionally graded material (FGM) structure transversely with smaller and denser vascular bundles in its outer-wall section and larger but fewer ones in its inner-wall section [24]. The transport of waterborne nutrients mainly takes place via its longitudinal system of metaxylem vessels running through the culm, which are connected to surrounding varying volume fraction of parenchyma and fibers [25,26]. Besides, the absorption of water radially is considerably restricted by the presence of high silica content in the outer layer, and absence of ray cells [27,28]. Inhomogeneous shrinkage was found to arise from uneven moisture distribution and orthotropic properties of wood which gave rise to moisture- induced stresses in the material [13]. In an investigation concerning the effect of heat on shrinkage of bamboo, the longitudinal shrinkage was found to be negligible as compared to radial and tangential shrinkage [15]. One of the previous studies showed that the hygroexpansion of bamboo in the longitudinal direction was smaller as compared to radial and tangential direction [14]. Tangentially, the outermost layers of dense fibers displayed greater shrinkage in comparison to innermost layer as a result of the inherent FGM structure which prevails transversely [20]. In the radial direction, non-uniform swelling was found to occur as outermost layers consisting of higher volume fraction of fibers tend to absorb more water than the innermost layers [15].
+The investigation about shrinkage of bamboo is not well documented in the literature. Even though finite element method (FEM) has been widely applied in the investigation
+
+Materials 2021, 14, 974
+3 of 16
+ of macro-structural behavior of bamboo culms [29–35], its use to analyze crack growth emanating from climatic variations in such material remains unavailable to this date. Few studies have used the heat transfer analysis in FEM to analyze the effect of change in MC given the similarity which prevails between heat transfer and moisture transfer [13]. This study is focused on the investigation of shrinkage resulting from thermal effect on the fracture mechanisms of bamboo culm. In first part of this study, the shrinkage with respect to bamboo orthotropic nature was determined via experimental investigation of small clear specimens. The shrinkage by thermal contraction was conducted by heating inside oven and the weight loss and dimensional changes were recorded. The heating range was determined from the thermal gravimetric analysis (TGA) curve. Changes to its cellular structure due to thermal contraction are given by FTIR analysis. In second part of this study, the fracture mechanisms in full-culm bamboo structure due to shrinkage was modelled by FEM by considering variation in gradient of thermal expansion coefficient across its wall thickness.
+2. Materials and Methods
+2.1. Specimen Preparation and Pre-Treatment
+Bamboo specimens were prepared from untreated Moso bamboo (Phyllostachys edulis) obtained from Kyoto, Japan with maturity of 2 years. All specimens were cut from same in- ternodal section as illustrated in Figure 1 to minimize microstructural variation at different length scales. The section of Moso bamboo used in this study had an approximate culm diameter of 15 cm and a wall thickness of 1.5 cm.
+ Figure 1. Schematic illustration of specimen sizing: (a) with epidermis and (b) with planed epidermis.
+In the first batch, cubed specimens, with their outer epidermis removed, had average dimensions of 15 mm (longitudinal) × 14 mm (tangential) × 14 mm (radial). A second batch of bamboo specimens similar to the cubed dimensions was considered in the investigation by taking into account their outermost epidermis layer. This batch of cubed specimens was sized based on full wall thickness and had average dimensions of 15 mm (longitudinal) × 14 mm (tangential) × 15 mm (radial). A total of 10 specimens were investigated in each batch A and batch B.
+The prepared specimens were pre-treated and conditioned prior to data measurement in shrinkage test. All specimens were dried at ambient temperature and humidity of 25 ◦C and 60 % inside laboratory environment for 1 week followed by oven dry for 72 h at 60 ◦C. The dried specimens were stored in a desiccator with humidity absorber for 1 week to absorb remaining residual moisture content. Hours before the shrinkage test, the middle section of bamboo specimen in each batch were measured with a digital Vernier caliper with an accuracy of ±0.02 mm.
+2.2. Determination of Heating Range
+The heating range and temperature intervals were determined by conducting Thermal Gravimetric Analysis (TGA). The TGA curves and the first derivative of the TGA curve, the differential thermo-gravimetric (DTG) curve, were obtained by a TGA machine (Dis- covery TGA, TA Instruments, New Castle, DE, USA) with a heating rate of 10 C/min in air
+
+Materials 2021, 14, 974
+4 of 16
+ atmosphere. The change in mass was measured by the Tru-Mass balance, a sensitive and accurate thermobalance inside the TGA equipment, which has an auto-ranging capability to deliver accurate real-time weight data. The solid curve represents the TGA results of Moso bamboo and its corresponding weight loss percentage with temperature while the dotted curve shows the corresponding weight loss with time (derivative).
+Modification and changes in the composition of the main components such as cellulose, hemicelluloses and lignin have been reported in heat-treated wood [36,37]. The chemical constituents of bamboo which is similar to wood [38] undergoes major changes in terms of decomposition at elevated temperature above 200 ◦C [15]. Even so, the decomposition of cellulose in comparison to the other components has been reported to be lower due to its crystalline structure [39]. From the TGA results of Figure 2, the degradation of bamboo in terms of weight change is observed to start at about 150 ◦C. As this study investigates the thermal effect on shrinkage of bamboo, the temperature range within the TG plateau prior to degradation was considered. Hence, in addition to ambient temperature of 25 ◦C, the other set of temperature values investigated based on the TG plateau was 100 ◦C, 150 ◦C and 200 ◦C.
+ Figure 2. TGA test results of Moso bamboo to determine heating range. 2.3. Experimental Procedure for Shrinkage Test
+As per the test outline in Figure 3, the specimens were grouped in sets of 3 and were subjected to three different temperatures, namely 100 ◦C, 150 ◦C, and 200 ◦C for a 24- and 48-h duration. The changes in weight and dimensions of the heat-treated specimens were subsequently recorded.
+ Figure 3. Test outline showing batch grouping of specimen: (a) with epidermis and (b) with planed epidermis.
+
+Materials 2020, 13, x FOR PEER REVIEW 5 of 16 (a) (b)
+Materials 2021, 14, 974
+Figure 3. Test outline showing batch grouping of specimen: (a) with epidermis and (b) with 5 of 16 planed epidermis.
+2.4. FTIR Analysis
+TheefffeccttooffththeremrmalamlmodoidfiicfaictiaotnioonnotnhethcellcuellalruclaornsctoitnusetnittuseonftbsaomfboaomwbaosoawssaessaesdsfreosmsedFTfIrRomspFecTtIrRosscpoepcyt.rFoTscIoRpayn.aFlyTsIiRs wanaaslpyesirsfowrmasedpebryfoartmteneduabteydatotetanluraetfleedctiotnalFroeufrleiecr-
+ transform infrared spectroscopy (ATR-FTIR, FTIR-4700 with ATR PRO ONE fitted with a
+tion Fourier transform infrared spectroscopy (ATR-FTIR, FTIR-4700 with ATR PRO ONE
+diamond prism; Jasco Co., Tokyo, Japan) which had a resolution of 4 cm−1 and including−1 fitted with a diamond prism; Jasco Co., Tokyo, Japan) which had a resolution of 4 cm
+100 scans. Spectral acquisition and pre-processing of raw data by baseline subtraction,
+and including 100 scans. Spectral acquisition and pre-processing of raw data by baseline
+smoothing, normalization and fitting methods were conducted in commercial software
+subtraction, smoothing, normalization and fitting methods were conducted in commercial
+(Origin 8.5, OriginLab Co., Northampton, MA, USA, and LabSpec, Horiba/Jobin-Yvon,
+software (Origin 8.5, OriginLab Co., Northampton, MA, USA, and LabSpec, Horiba/JobinKyoto, Japan).
+Yvon, Kyoto, Japan).
+3. Experimental Results
+3. Experimental Results
+3.1. Effect of Thermal Modification on Physical Changes
+3.1. Effect of Thermal Modification on Physical Changes
+◦
+◦
+◦The visual changes in test specimens subjected heat treatment at 100 °C, 150 °C and
+The visual changes in test specimens subjected heat treatment at 100
+200 C following a 48-h duration could be clearly discerned as displayed in Figure 4.
+200 °C following a 48-h duration could be clearly discerned as displayed in Figure 4. The
+The black color in stage IV correspond to partial carbonization of bamboo specimen
+black c◦olor in stage IV correspond to partial carbonization of bamboo specimen at 200 °C. at 200 C.
+C, 150
+C and
+ (a) (b)
+Figure 4. Visual changes following heat treatment in test specimen: (a) with epidermis and (b)
+Figure 4. Visual changes following heat treatment in test specimen: (a) with epidermis and (b) with with planed epidermis. Stages I, II, III and IV correspond to heat treatment a◦t 25 °C,◦100 °C, ◦150 °C
+planed epidermis. Stages I, II, III and IV correspond to heat treatment at 25 C, 100 C, 150 C and
+and 200 °C, respectively, following a 48-h duration.
+200 ◦C, respectively, following a 48-h duration.
+The following observations in weight loss were made during the shrinkage experiThe following observations in weight loss were made during the shrinkage experiment.
+ment. A non-linear increase in weight loss was observed with increasing temperature. The
+A non-linear increase in weight loss was observed with increasing temperature. The
+exponential function, which is used to represent the trend line in Figure 5 and relates the
+exponential function, which is used to represent the trend line in Figure 5 and relates the weight loss to temperature, is given by:
+W = AeBT (1) W = AeBT (1)
+where W is the weight loss (%), T is the temperature (◦C) and A and B represents the where W is the weight loss (%), T is the temperature (°C) and A and B represents the
+weight loss to temperature, is given by:
+coefficients obtained by curve fitting. The rate of weight loss significantly increased after
+coefficients obtained by curve fitting. The rate of weight loss significantly increased after
+150 ◦C. Only slight increase in weight loss was observed between the 24-h to 48-h treatment 150 °C. Only slight increase in weight loss was observed between the 24-h to 48-h treatperiod as compared to the first 24-h treatment period. The mean and coefficient of variation
+ment period as compared to the first 24-h treatment period. The mean and coefficient of
+(COV) of weight loss in 24- and 48-h treatment periods are given in Table 1.
+variation (COV) of weight loss in 24- and 48-h treatment periods are given in Table 1.
+
+Materials 2021, 14, 974
+Materials 2020, 13, x FOR PEER REVIEW
+6 of 16
+6 of 16
+  (b)
+Figure 5. The percentage weight loss (including R values) of test specimen: (a) with epidermis and (b) with planed
+(a)
+Figure 5. The percentage weight loss (including R2 v2alues) of test specimen: (a) with epidermis and (b) with planed epidermis subjected to heat treatment at three different temperatures for 24- and 48-h duration.
+epidermis subjected to heat treatment at three different temperatures for 24- and 48-h duration.
+Table 1. Weight and dimensional changes of Moso bamboo specimens during thermal modification at three different Table 1. Weight and dimensional changes of Moso bamboo specimens during thermal modification at three different temperatures
+temperatures (Mn and CV represent the mean and coefficient of variance, respectively).
+(Mn and CV represent the mean and coefficient of variance, respectively).
+ T◦ e m p / Specimen Temp/ C
+24 h
+24 h
+48 h
+a g e / %
+24 h
+48 h
+24 h
+48 h
+Weight tLoLsos/s%s/%
+Radial ShrinkRadial Shrinkage/%
+TangTaenngteinatilalSShrinkkagaeg/%e/% LongLiotnugdituindianlalSShrinkkagaeg/%e/%
+ Specimen
+°C
+24 h 48 h
+  With Epidermis
+3.3 0.03 3.3 0.03 0.7 0.31 1.1 0.10 1.0 0.17 1.2 0.13 0.2 0.82 0.3 0.43
+With Epidermis
+150 9.9 0.04 15 0.03 1.3 0.12 2.7 0.20 1.7 0.13 2.8 0.04 0.1 0.50 0.9 0.07
+100 150 200
+Mn CV Mn CV Mn CV Mn CV
+Mn CV
+Mn CV Mn CV
+Mn CV
+Mn CV
+48 h
+24 h 48 h
+24 h
+48 h
+24 h
+48 h
+Mn CV Mn CV Mn CV
+Mn CV
+Mn CV
+Mn CV
+Mn CV
+9.9 0.04 15 0.03 1.3 0.12 2.7 0.20 1.7 0.13 2.8 0.04 0.1 0.50 0.9 0.07
+100 3.3 0.03 3.3 0.03 0.7 0.31 1.1 0.10 1.0 0.17 1.2 0.13 0.2 0.82 0.3 0.43
+41 0.03 50 0.03 17 0.03 23 0.01 18 0.08 23 0.12 0.6 0.52 1.1 0.10
+ Without Epidermis
+100 150 200
+3.4 0.01 3.4 0.01 0.6 0.35 0.7 0.30 0.9 0.14 1.1 0.16 0.3 0.65 0.4 0.74 10.0 0.03 16 0.02 1.2 0.81 1.6 0.52 0.9 0.49 2.1 0.12 0.2 0.22 0.7 0.20
+200 41 0.03 50 0.03 17 0.03 23 0.01 18 0.08 23 0.12 0.6 0.52 1.1 0.10
+41 0.03 51 0.02 18 0.18 24 0.06 18 0.09 25 0.06 0.1 0.91 1.1 0.10
+ Without Epider- mis
+100 3.4 0.01 3.4 0.01 0.6 0.35 0.7 0.30 0.9 0.14 1.1 0.16 0.3 0.65 0.4 0.74
+150 10.0 0.03 16 0.02 1.2 0.81 1.6 0.52 0.9 0.49 2.1 0.12 0.2 0.22 0.7 0.20
+The following observations in terms of dimensional changes in the radial, tangential,
+200 41 0.03 51 0.02 18 0.18 24 0.06 18 0.09 25 0.06 0.1 0.91 1.1 0.10
+and longitudinal directions were made during the shrinkage experiment. Similar to the
+observation made in weight loss, a non-linear increase in shrinkage principally occurred
+The following observations in terms of dimensional changes in the radial, tangential,
+in radial and tangential dimensions with increasing temperature, for which the rate sigand longitudinal directions were made during the shrinkage experiment. Similar to the
+nificantly increased after 150 ◦C as shown in Figure 6. The shrinkage in the radial and observation made in weight loss, a non-linear increase in shrinkage principally occurred
+tangential directions considerably exceeded the shrinkage in the longitudinal direction.
+in radial and tangential dimensions with increasing temperature, for which the rate sigMaterials 2020, 13, x FOR PEER REVIETWhis difference further increased with increasing temperature. 7 of 16 nificantly increased after 150 °C as shown in Figure 6. The shrinkage in the radial and
+tangential directions considerably exceeded the shrinkage in the longitudinal direction. This difference further increased with increasing temperature.
+The ratio of shrinkage in the radial and tangential directions to that in longitudinal direction significantly increased with temperature. Only slight increase in shrinkage was observed between the 24-h to 48-h treatment period. It can be deduced that substantial shrinkage occurred within the first 24-h treatment period. Secondly, the shrinkage differ- ence between specimens with and without epidermis layer in all three directions was found to be negligible. The mean and coefficient of variation (COV) of dimensional changes in 24- and 48-h treatment periods are given in Table 1.
+  (a)
+Figure6.Thedimensionalchangesduetoshrinkage(includingR values)inradial,tangentialandlongitudinaldirections
+(b) Figure6.Thedimensionalchangesduetoshrinkage(includingR values)inradial,tangentialandlongitudinaldirectionsof
+of test specimen: (a) with epidermis and (b) with planed epidermis subjected to heat treatment at three different tempertest specimen: (a) with epidermis and (b) with planed epidermis subjected to heat treatment at three different temperatures
+atures for 24- and 48-h duration.
+for 24- and 48-h duration.
+3.2. FTIR Analysis
+The effect of thermal modification on the main cellular constituent of bamboo such as cellulose, hemicellulose and lignin was qualitatively assessed by relative comparison
+       of FTIR spectra. Two specific ranges of the spectrum were considered, namely 400–1800
+
+  Materials 2021, 14, 974
+7 of 16
+ The ratio of shrinkage in the radial and tangential directions to that in longitudinal
+direction significantly increased with temperature. Only slight increase in shrinkage was
+observed between the 24-h to 48-h treatment period. It can be deduced that substantial
+(a) (b)
+shrinkage occurred within the first 24-h treatment period. Secondly, the shrinkage differFigure 6. The dimensional changes due to shrinkage (including R2 values) in radial, tangential and longitudinal directions ence between specimens with and without epidermis layer in all three directions was found
+of test specimen: (a) with epidermis and (b) with planed epidermis subjected to heat treatment at three different temperto be negligible. The mean and coefficient of variation (COV) of dimensional changes in 24atures for 24- and 48-h duration.
+and 48-h treatment periods are given in Table 1. 3.2. FTIR Analysis
+3.2. FTIR Analysis
+The effect of thermal modification on the main cellular constituent of bamboo such
+The effect of thermal modification on the main cellular constituent of bamboo such as
+as cellulose, hemicellulose and lignin was qualitatively assessed by relative comparison
+cellulose, hemicellulose and lignin was qualitatively assessed by relative comparison of −1
+oFfTFIRTIsRpescpterac.trTaw. Towspoescpifiecirfaicngraesngoefsthoefstphecstrpuemctrwuemrewcoernesicdoenresid,enraemd,enlyam40e0l–y14800–c1m800 −1 −1 −1
+camnd 2a2n8d0–2326800–3cm600 camnd andy dainsytindcitstcihnactngchesaningepseainkspoefakFsTIoRf sFpTeIcRtrsapwecetreahwigehrelighhigtehd- laignhdtnedumanbderneudmacbceorredinagcclyoradsinshgolywans isnhFoiwgunrien7F. igure 7.
+ (a)
+(b)
+Figure 7. FTIR spectra of untreated and thermally modified bamboo at three different temperatures for a 48-h duration in two Figure 7. FTIR spectra of untreated and thermally modified bamboo at three different temperatures for a 48-h duration in specific ranges, namely: (a) 400–1800 cm−1 and (b) 2280–3600 cm−1.
+two specific ranges, namely: (a) 400–1800 cm−1 and (b) 2280–3600 cm−1.
+Cellulose was stable until 150 °C and degraded with further increase in temperature
+Cellulose was stable until 150 ◦C and degraded with further increase in tempera- toward 200 °C as indicated by the decrease in intensity of peaks 3 (897 cm−1) and 9 (2945 ture toward 200 ◦C as indicated by the decrease in intensity of peaks 3 (897 cm−1) and cm−1) which contribute to the cellulose molecule in bamboo as per the assignment shown
+9 (2945 cm−1) which contribute to the cellulose molecule in bamboo as per the assign- in Table 2. Similar trend in terms of intensity of peaks 4 (1039 cm−1) and 6 (1242 cm−1) which ment shown in Table 2. Similar trend in terms of intensity of peaks 4 (1039 cm−1) and correspond to high proportion of guaiacyl units in lignin molecule of bamboo was ob- 6 (1242 cm−1) which correspond to high proportion of guaiacyl units in lignin molecule served up to 150 °C followed by their considerable reduction toward 200 °C. Notable deg- of bamboo was observed up to 150 ◦C followed by their considerable reduction toward radation in hemicellulose was also demonstrated by the flattened peaks 5 (1160 cm−1), 6 200 ◦C. Notable degradation in hemicellulose was also demonstrated by the flattened (1242 cm−1), 7 (1730 cm−1) and 9 (2945 cm−1) at 200 °C which are associated with hemicellu- peaks 5 (1160 cm−1), 6 (1242 cm−1), 7 (1730 cm−1) and 9 (2945 cm−1) at 200 ◦C which are lose molecule in bamboo as per the assignment in Table 2. Based on the trend in degrada- associated with hemicellulose molecule in bamboo as per the assignment in Table 2. Based
+on the trend in degradation among the main chemical constituents of bamboo as observed with increasing temperature between the range of 150 ◦C to 200 ◦C, thermal modification within that range severely compromised its mechanical characteristics. The mechanical properties are predominantly governed by cellulose and lignin components which accounts for 44 and 20 %, respectively in terms of chemical constituent of bamboo [23].
+
+Materials 2021, 14, 974
+8 of 16
+ Table 2. Characteristic bands of FTIR spectra of bamboo samples in the frequency interval of 400 to 3600 cm−1.
+ Peak
+1 2
+4 5
+7
+8 9
+11
+Assignment
+C-C deformation
+C-H deformation in cellulose C-H deformation of glucose ring in cellulose and hemicellulose
+C-O, C-H primary alcohol, guaiacyl (lignin) C-O-C Carbohydrate from hemicellulose Guaiacyl ring breathing with CO-stretching (lignin and hemicelluloses), esters C=O free carbonyl groups, Stretching of acetyl or carboxylic acid (hemicelluloses) Adsorbed CO2
+C-H in Cellulose and hemicellulose stretching O-H stretching in Alcohols, phenols, acids, and weakly bounded absorbed water from lignin.
+O-H stretching of adsorbed water and intermolecular bonded OH.
+Frequency (cm−1) 423
+References
+[40] [40]
+[40] [40,41]
+[40–42]
+[40–45] [46]
+[41,45,47] [41,45,47]
+[46]
+ 2317,
+3566,
+605 897
+1039 1160
+1730
+2351, 2372 2945
+3597, 3618
+ Additionally, the reduction in weight during thermal modification at 200 ◦C occurs as a result of condensation reaction which lowers the amount of OH groups as shown by the decrease in intensity of peak 10 (3400 cm−1) which is linked to weakly bounded absorbed water as per the assignment in Table 2 [41]. Furthermore, as reported in previ- ous investigation, increase in amount of adsorbed carbon dioxide, as evidenced by peak 8 (2320–2370 cm−1), also results in an increase in desorption of water content [46]. Inter- estingly, color change with increasing temperature as shown in Figure 4, occurs due to the formation of new chromophores such as carbonyl and carboxyl groups as a result of bond cleavage and subsequent oxidation and dehydration in polysaccharides. The high number of extractives responsible for color change occurs with higher temperature leading to cleavage in lignin bond and methoxyl groups as evidenced by peaks 4 (1039 cm−1), 10 (3400 cm−1) and 11 (3560–3620 cm−1).
+4. Investigation of Thermal Contraction by FEM
+4.1. Shrinkage Modeling
+Here, the fracture mechanisms in full-culm bamboo structure due to shrinkage were modeled by FEM. The effective stress or Von-Mises stress have previously been used to in- vestigate the deformation mechanisms in numerically simulated bamboo models [30,48,49]. In this study, the effective strain distribution was considered to investigate the deformation due to thermal contraction.
+The data from previous studies, and as observed in experimental investigation in the previous section, showed that the shrinkage effect clearly varies along and across sections of bamboo culms as shown in Figure 8 [14,15,20]. In this investigation, an exponential shrinkage model in terms of variation in thermal contraction was assumed across the cross-section of bamboo, which is in line with the graded distribution of its vascular bundles [50].
+
+    Materials 2021, 14, 974
+Materials 2020, 13, x FOR PEER REVIEW
+9 of 16
+9 of 16 9 of 16
+Figure 8. Schematic illustration of culm shrinkage model showing dimensional changes between inner and outer layers Fiigurre88..SScchheemaatitcicililulusstrtaratitoionnooffcuculmlmshsrhirniknakgaegemmodoedleslhsohwoiwngindgimdiemnesniosnioanlachlacnhganesgebsetbweetweneeinnienrnaenrdanodutoerultaeyrelarsyebrys
+by considering an increasing exponential gradient of thermal expansion. cboynsciodnesriidnegriangianncrienacsrienagsienxgpoexnpenotnieanltgiraaldgireandtioenfthoefrtmhearlmexaplaenxspiaons.ion.
+The coefficient of linear thermal expansion 𝛼 was determined from the following ex- The coefficient of linear thermal expansion α was determined from the following The coefficient of linear thermal expansion 𝛼 was determined from the following exMaterials 2020, 13, x FOR PEER REVIEW
+   pression:
+expression:
+pression:
+􏱫 1∆L􏱬 1 ∆𝐿
+α = 1 ∆𝐿 􏱨𝛼 􏱩 􏱪
+(2)
+L ∆T 􏱨𝛼􏱩 􏱪
+(2) (2)
+−1
+where 𝛼α is the coeffificient of thermal expansion in K−1,,L iis the origiinall length,, Δ∆L is the
+where 𝛼 is the coefficient of thermal expansion in K−1, L is the original length, ΔL is the change in llength and Δ∆T rrepresents the change iin ttemperature. To conffiirm the hypothesis
+change in length and ΔT represents the change in temperature. To confirm the hypothesis
+aboutt the contriibutiion of graded variation of thermal contraction (Figure 9a) across wall about the contribution of graded variation of thermal contraction (Figure 9a) across wall
+thickness of bamboo culm on its mechanisms of longitudinal split, two other shrinkage
+thickness of bamboo culm on its mechanisms of longitudinal split, two other shrinkage thickness of bamboo culm on its mechanisms of longitudinal split, two other shrinkage
+models were considered. They were linear and constant shrinkage models as shown in
+models were considered. They were linear and constant shrinkage models as shown in models were considered. They were linear and constant shrinkage models as shown in
+Figure 9b,c respectively. Figure 9b,c respectively.
+Figure 9b,c respectively.
+𝐿 ∆𝑇 𝐿 ∆𝑇
+  (a) (b) (c) (a) (b) (c)
+Figure 9. Three types of shrinkage models investigated: (a) exponential, (b) linear and (c) constant shrinkage models. Figure 9. Three types of shrinkage models investigated: (a) exponential, (b) linear and (c) constant shrinkage models.
+Figure 9. Three types of shrinkage models investigated: (a) exponential, (b) linear and (c) constant shrinkage models.
+4.2. Material Parameters 4.2. Material Parameters 4.2. Material Parameters
+FEM simulation was conducted to determine the instant of crack initiation due to FEM simulation was conducted to determine the instant of crack initiation due to
+FEM simulation was conducted to determine the instant of crack initiation due to effect
+effect of thermal changes on shrinkage of bamboo culm. Based on the shrinkage experi- effect of thermal changes on shrinkage of bamboo culm. Based on the shrinkage experiof thermal changes on shrinkage of bamboo culm. Based on the shrinkage experiment
+ment conducted in a 24- and 48-h period, the changes in dimensional values obtained ment conducted in a 24- and 48-h period, the changes in dimensional values obtained
+conducted in a 24- and 48-h period, the changes in dimensional values obtained were
+were adjusted by considering a factor of 5 in order to simulate shrinkage behavior within were adjusted by considering a factor of 5 in order to simulate shrinkage behavior within
+adjusted by considering a factor of 5 in order to simulate shrinkage behavior within the
+the first few hours of treatment. The change in temperature for thermal modification was
+the first few hours of treatment. The change in temperature for thermal modification was
+first few hours of treatment. The change in temperature for thermal modification was taken
+taken as 200 °C. The adjusted dimensional values and their corresponding coefficient of
+taken a◦s 200 °C. The adjusted dimensional values and their corresponding coefficient of as 200 C. The adjusted dimensional values and their corresponding coefficient of thermal
+thermal expansion determined by Equation (2) are listed in Table 3.
+thermal expansion determined by Equation (2) are listed in Table 3.
+expansion determined by Equation (2) are listed in Table 3.
+
+                         Materials 2021, 14, 974
+Materials 2020, 13, x FOR PEER REVIEW
+Table 3. Thermal expansion parameters used in FEM simulation.
+10 of 16
+10 of 16
+  Parameter
+Radial
+Radial
+Tangential Longitudinal
+Parameter
+Node
+ThTehremrmaallEExxpansion Paarraameteetresrs
+ Internode
+Internode
+Tangential Longitudinal
+Node
+ Radial Tangential
+Longitudinal
+Radial
+Tangential
+Longitudinal
+Change in Length ΔL (%) 2.17 1.67 Change in Length ∆L (%) 2.17 1.67
+0.17
+−8.33 × 10−6 −8.67 × 10−5 −6.67 × 10−5
+ Coefficient of Thermal Expansion α (K−1) −1.08 × 10−4 −8.33 × 10−5
+−6.67 × 10−6
+Coefficient of Thermal Expansion α (K−1)
+−6.67 × 10−6 Bamboo culm has a unique hollow morphology consisting of nodes and internodes
+which provide structural support to its uppermost section [32]. The shrinkage of the node
+0.17
+1.73
+1.33
+0.13
+1.73
+−1.08 × 10−4 −8.33 × 10−5 −8.33 × 10−6 −8.67 × 10−5 −6.67 × 10−5
+1.33
+0.13
+  Bamboo culm has a unique hollow morphology consisting of nodes and internodes
+section was assumed to be 25 percent lower than that of the internode section based on
+which provide structural support to its uppermost section [32]. The shrinkage of the node the observation made by Huang et al. (2018) in a previous study [14]. Here, the node, section was assumed to be 25 percent lower than that of the internode section based on the which has a structural significance by improving the lateral stability and stiffness of the observation made by Huang et al. (2018) in a previous study [14]. Here, the node, which culm structure, was assumed as the strongest part as was the case in previous studies has a structural significance by improving the lateral stability and stiffness of the culm [2,20,32]. Thus, it was modeled as a stiffer section by assigning with material data twice
+and υT in the longitudinal and transverse directions were determined as 0.3 and 0.0135, determined as 15 and 0.675 GPa, respectively [32]. The Poisson’s ratio υL and υT in the
+structure, was assumed as the strongest part as was the case in previous studies [2,20,32]. of that of the internode section as indicated in Table 4. The engineering constants of the Thus, it was modeled as a stiffer section by assigning with material data twice of that of orthotropic material parameters of the internode as indicated in Table 4 was taken from the internode section as indicated in Table 4. The engineering constants of the orthotropic previous study whereby the modulus of elasticity in the longitudinal and transverse di- material parameters of the internode as indicated in Table 4 was taken from previous rections were determined as 15 and 0.675 GPa, respectively [32]. The Poisson’s ratio υL study whereby the modulus of elasticity in the longitudinal and transverse directions were
+respectively from past literature data [28,32]. The shear modulus of the internode section
+longitudinal and transverse directions were determined as 0.3 and 0.0135, respectively
+was taken as 630 MPa from previous study [32].
+from past literature data [28,32]. The shear modulus of the internode section was taken as 630 MPa from previous study [32].
+Table 4. Orthotropic material parameters used in FEM simulation. Table 4. Orthotropic material parameters used in FEM simulation.
+Orthotropic Material Parameters
+  Elastic Modulus Elastic M(oMduPluas)(MPa)
+Internode PoiIsnstoern’osdeRaPoisstoino’s Ratio
+Orthotropic Material Parameters
+Shear Modulus Elastic Modulus Shea(Mr MPoad)ulus (MPa) Elastic(MoPdual)us (MPa)
+Node PoissNoond’es RaPoisstoino’s Ratio
+Shear Modulus Shear(ModPualu)s (MPa)
+  EEννGEEννG LETEνLνT GL EL ETνLνT GL
+15,000
+0.3 0.0135 630 30,000 1350 0.3 0.0135 1260
+LTLT L LTLT L
+ 15,000 675
+0.3 0.0135 630 30,000 1350 0.3 0.0135 1260
+ 4.3. Geometrical Modeling and Boundary Conditions
+4.3. Geometrical Modeling and Boundary Conditions
+The outer diameter, wall thickness and intermodal length of the physical model were
+The outer diameter, wall thickness and intermodal length of the physical model were taken as 100, 12 and 450 mm, respectively based on the morphological data of Madake bamboowitihthaannavaevreargaegientinertnerondoedceouconutnoft1o8f[1580][.5T0o].siTmouslaimteuthlaetehothlleowhoblalomwboboamstrbuoco- tsutrue,ctaucrye,liancdyrliicnadlrmicoadlmelowdietlhwthitihckth-wicakl-lwedalsledctsioenctiwonaswuasseuds.eTdh.eTbhoeubnoduanrdyacroyncdointdiointisonosf tohfethsehrsihnrkiangkeagseimsiumlautliaotnioanrearsehsohwonwnininFiFgiugruere101.0.TThheeeeffefeccttoffthermall contraction on shrinkage was simulated onLS--DYNAFEMsoffttware((Version R9.3.1, Livermore Software Technology,, Livermore,,CA,,USA)),,byconsiiderriingattherrmallexpanssiionmaatteerriiaallmodeell..
+ (a)
+(b)
+Figure 10. (a) Longitudinal section showing dimension outline of solid cylindrical model and (b) coordinate system in Figure 10. (a) Longitudinal section showing dimension outline of solid cylindrical model and (b) coordinate system in cross-sectional view.
+cross-sectional view.
+
+  Materials 2021, 14, 974 11 of 16
+MMataetreirailasls2022002,01, 31,3x, xFFOORRPPEEERRRREEVVIEIEWW 111oof f1616 4.4. FE Mesh
+ 44.4.4. .FFEEMesehsh
+A finite element modeling and post processing (FEMAP) software (Siemens Digital
+AAfifninitieteeelelemeennt tmooddeelilninggaannddppoosst tpprorocceesssiningg(F(FEEMAAPP) )ssooftfwtwaarere(S(SieiemeennssDDigigitiatal l
+Industries Software, Plano, TX, USA) was used to design the model. The meshed domain
+InIndduusstrtireiessSSooftfwtwaarere, ,PPlalannoo, ,TTXX, ,UUSSAA) )waassuusseeddtotoddeessigignnththeemooddeel.l.TThheemeesshheeddddoomaainin
+was discretized into 101556 nodes and 89280 elements by applying hexahedral mesh solid
+waassddisisccreretitzizeeddinintoto11001155566nnooddeessaanndd8899228800eelelemeenntstsbbyyaappplylyiningghheexxaahheeddraral lmeesshhssoolildid
+as displayed in Figure 11. aassddisispplalayyeeddininFFigiguurere111. .
+ (a
+)
+FFigiguurere111. .(a(a) )HHeexxaahheeddraral lmmeeshshsosolildidoof fininteternrnooddaal luunnititoof fbbaammbbooommooddeel l(n(nuummbbeer roof feelelemmeenntst:s:
+(a
+(b
+)
+(b
+Figure 11. (a) Hexahedral mesh solid of internodal unit of bamboo model (number of elements: 8899228800, ,nnuummbbeer roof fnnooddees:s:11001155566) )aanndd(b(b) )ilillulustsrtaratitoionnoof f88-l-alayyeerereddwwaallllsesectcitoionn. .
+55.1.1. .SttrraaininFFieieldldAnnaalylyssisis 5.1. Strain Field Analysis
+TThheevariiationofeffectiivesstrtraaininininbabmamboboocuclumlmomdoedledludeutoeetoffeecftfeocftthoefrtmhearlmcoanl- The variation of effective strain in bamboo culm model due to effect of thermal conctornactrtiaocntioisnililsuisltlruasterdatiendFiinguFirgeu1r2e. 1T2h.eTdhiespdliasypeldaymedodmelosdienlsFignuFrieg1u2rew1e2rewaesrseigansseidgnweidth traction is illustrated in Figure 12. The displayed models in Figure 12 were assigned with
+waitdhisapldaicsepmlaecnetmsceanlte sfcaaclteorfaocfto1r0 otof 1e0mtpoheamsizpehoasnizthe eonothiceeanbolteicseharbinleksahgreinekffaegcte ceafufescetd a displacement scale factor of 10 to emphasize on the noticeable shrinkage effect caused
+cbayustehderbmyatlhceornmtraalcctoionnt.raTchtieocno.nTthraesctointfrainstgienpflrointsgoefpFliogtusroef1F2iag–ucreoc1c2uar–rcedocacsuarredsualstaof by thermal contraction. The contrast in fringe plots of Figure 12a–c occurred as a result of
+89280, number of nodes: 101556) and (b) illustration of 8-layered wall section. 55. .NumeeririciccaallReessultltstss
+result of variation in gradient of thermal expansion coefficient. Distinct regions of strain
+vvaariraiatitoionnininggraraddieiennt toof fththeermrmaal leexxppaannssioionnccooeeffifcicieiennt.t.DDisistitnincct trereggioionnssoof fsstrtaraininccoonncceenn- -
+concentration can be clearly discerned in Figure 12a,b. As demonstrated in Figure 12a, the trtaratitoionnccaannbbeeccleleaarlrylyddisiscceernrneeddininFFigiguurere1122aa,b,b. .AAssddeemoonnsstrtarateteddininFFigiguurere1122aa, ,ththeeddisis--
+distinctive narrowed region of strain concentration is in line with previous observation
+titnincctitviveennaarroroweeddrereggioionnoof fsstrtaraininccoonncceenntrtaratitoionnisisininlilnineewitihthpprerevvioiouussoobbsseervrvaatitoionnmaaddee
+made about splitting along bamboo culm during shrinkage [51]. aabboouut tssppliltititninggaalolonnggbbaambboooccuulmlmdduurirninggsshhrirninkkaaggee[5[511].].
+( a( a) ) ( b( b) ) ( c( c) )
+FFigiguurere1122. .FFrirninggeepplolotstsoof feeffefectcitviveestsrtaraininoof:f:(a(a) )eexxppoonneenntitaial;l;(b(b) )lilnineeaar raanndd(c()c)coconnstsatannt tshshrirninkkaaggeemmooddeelslsinininintetermrmooddaal l
+Figure 12. Fringe plots of effective strain of: (a) exponential; (b) linear and (c) constant shrinkage models in intermodal unit uunnititoof fbbaammbbooocuculmlmdduueetotoeeffefectctoof fththeermrmaal lcoconntrtaractcitoionn. .
+of bamboo culm due to effect of thermal contraction.
+)
+)
+ TThheeuunneevveennsshhrirninkkaaggeeaaccrorosssbbaambbooolalayyeersrsinindduucceeddaareresstrtaraininininggeeffefecct tleleaaddininggtoto
+The uneven shrinkage across bamboo layers induced a restraining effect leading to
+bbuuilidlduuppoof ftetennssilielefoforcrceessininththeeoouutetermrmoosst tlalayyeersrs, ,hheenncceeggivivininggrirsiseetotoththeerereggioionnoof fsstrtarainin
+build up of tensile forces in the outermost layers, hence giving rise to the region of strain
+ccoonncceenntrtaratitoionnaassoobbsseervrveeddininFFigiguurere1122aa. .InInFFigiguurere1122cchhooweevveer,r,whhicichhisisththeeccoonntrtorol l
+concentration as observed in Figure 12a. In Figure 12c however, which is the control mooddeel lwitihthaaccoonnsstatannt tththeermrmaal leexxppaannssioionnccooeeffifcicieiennt taaccrorosssitistswaalllththicickknneesss, ,aauunnifioformrm model with a constant thermal expansion coefficient across its wall thickness, a uniform ddisistrtirbibuutitoionnoof feeffefecctitviveesstrtaraininwaassoobbsseervrveeddaaccrorosssitistslalayyeersrs. .Heennccee, ,ititccaannbbeeddeedduucceedd distribution of effective strain was observed across its layers. Hence, it can be deduced ththaat tththeeeexxisistetenncceeoof faaggraraddieiennt tininththeermrmaal leexxppaannssioionnaaccrorosssbbaambbooowaalllsseecctitoionnaaffefecctsts that the existence of a gradient in thermal expansion across bamboo wall section affects its
+itistsuunnifioformrmccoonntrtaracctitoionnwitihthininccrereaassininggtetemppeeraratuturere. .
+uniform contraction with increasing temperature.
+
+Materials 2020, 13, x FOR PEER REVIEW 12 of 16
+Materials 2021, 14, 974
+12 of 16
+ 5.2. Analysis of Effective Strain Distribution
+(a) (b) (c)
+Figure 13. Distribution of effective strain in terms of azimuthal angle, θ at transverse sections 1, 2 and 3 in three types of shrinkFigure 13. Distribution of effective strain in terms of azimuthal angle, θ at transverse Sections 1–3 in three types of shrinkage age models corresponding to: (a) exponential gradient, (b) linear gradient and (c) constant gradient.
+5.2. Analysis of Effective Strain Distribution
+The shrinkage due to variation in gradient of thermal expansion coefficient is quan- titativTehlye sahssrienskseadgeodnuaentaolyvzairnigattiohne ienffgecratidvienstroafinthdeirsmtraibluetxipoannisniotnhecoeuftfiecrimenotsitspqeuraipnhti-- etarytivoeflythaessienstseerdmondalncaulylmzin-sgecthtieone.ffTechteivdeistraibinutdioisntroibfuetfifoenctiinvethsetroauinterinmotesrtmpseroipfhaezriy- mofutthealinatnergmleo,dθa,laclounlmg-tsheecttiroan.sTvheresdeisltirciebdutSioenctoiofnesff1e–ct3iv(eFisgturarien1i0nat)erismrsepofreaszeinmteudthianl Fainggulree,θ1,3a.lTohnegatzhiemturathnaslvaenrsgelesliiscetadkSeencatisocnlsoc1k–w3i(sFeiginuref1e0rae)nicserteoptrheseevnetretdicianl aFxigisure13. (TFhigeuarzeim10ubt)h.al angle is taken as clockwise in reference to the vertical axis (Figure 10b).
+  models corresponding to: (a) exponential gradient, (b) linear gradient and (c) constant gradient.
+The increase in peaks at azimuthal angle of 0° and 180° (Figure 13a–c) indicates the
+The increase in peaks at azimuthal angle of 0◦ and 180◦ (Figure 13a–c) indicates the onset of fracture during shrinkage. Based on the results of Figure 13c, the effective strain onset of fracture during shrinkage. Based on the results of Figure 13c, the effective strain distribution was confirmed to be constant around azimuthal angle θ at transverse Section
+distribution was confirmed to be constant around azimuthal angle θ at transverse Section 2. 2. Thus, the constant thermal gradient across the wall thickness was assumed to reduce Thus, the constant thermal gradient across the wall thickness was assumed to reduce the
+the propensity to cracking due to the absence of distinct area of strain concentration.
+propensity to cracking due to the absence of distinct area of strain concentration.
+From Figure 13a,b, the similarity in the distribution of effective strain at transverse
+From Figure 13a,b, the similarity in the distribution of effective strain at transverse section 2 in comparison to transverse sections 1 and 3, indicates distinct regions along full Section 2 in comparison to transverse Sections 1 and 3, indicates distinct regions along full intermodal length, which are subjected to either compressive or tensile forces. The graded intermodal length, which are subjected to either compressive or tensile forces. The graded variation in thermal expansion coefficient can thus be associated with the inducement of variation in thermal expansion coefficient can thus be associated with the inducement of internal forces, namely tensile and compressive forces, at specific regions along the culm internal forces, namely tensile and compressive forces, at specific regions along the culm
+length, which eventually leads to sudden split.
+length, which eventually leads to sudden split.
+5.3. Analysis of Bamboo Fracture Mechanisms due to Thermal Contraction
+5.3. Analysis of Bamboo Fracture Mechanisms due to Thermal Contraction
+Besides the non-linear increase in dimensional changes with increasing temperature,
+Besides the non-linear increase in dimensional changes with increasing temperature,
+the notable difference which prevailed between radial-tangential directions in comparison
+the notable difference which prevailed between radial-tangential directions in comparito longitudinal one, significantly influenced its shrinkage behavior in the formerly menson to longitudinal one, significantly influenced its shrinkage behavior in the formerly
+tioned directions. As observed from FTIR results, the principal cellular constituents of
+mentioned directions. As observed from FTIR results, the principal cellular constituents boafmbabmoobostorustcrtucretu, rnea,mnaemlyecleyllcuelloluselo, she,mhiecmelilcuellolsueloasnedalnigdnling,nwinh, iwchiacrhe arcecoauccnotaubnlteabfoler
+iftosrhiitgshmigehcmhaencihcanlisctarelnstgrtehn,gutnhd,uerngdoermgaojomracjhoarncgheasnagteeslaetvealtevdatemdptemraptueraetbuertewbeetwn1ee5n0 ◦◦
+°1C50anCda2n0d0 2°C00. SChr.iSnhkraignekaegffecetffaetctealetvealteevdattedmtpeemrapteurraetuwreaswnaostincoetaibceleabalseasreasurelstuolft wofewigehitglhotsslobsysrbeydruecdtiuocntionnwineawkleyakbolyubnoduwnadtewratnedraincdreianscereiansdeeisnodrpetsiornpotifownaotferwcaotner- tceonntt.eBnet.siBdesi,dMesC, MwCaswraesproerptoedrtetdo tboebfeurfuthrethrerrerdeudcuecdedasasaarerseusultltoofftthheerrmalldegradation of hemicelllullose whiich allso contriibutted to an increase in brittleness due to increase in arrangement of crystalline cellulose [52,53].
+Theccorrreesspoonnddininggmmeechchananisimsmssasassoscoicaitaetdedwiwthitthhetheeffefcftescotsf sopfescpifeicicfihcacnhgaensginesthine
+rtahdeiaraldainadlatnandgteantgiaelndtiiarlecdtiroencstionsthonestherinshkraignekabgeehabveihoarvoiofrboamfbaomobwoaoswfuarsthfuerthexerexplored by FEM by considering various shrinkage models. Based on the exponential
+plored by FEM by considering various shrinkage models. Based on the exponential
+shrinkage model, the extent of difference in terms of contraction which prevailed between
+shrinkage model, the extent of difference in terms of contraction which prevailed between the innermost and outermost layers as a result of non-uniform thermal gradients led to
+
+Materials 2021, 14, 974 13 of 16
+ Materials 2020, 13, x FOR PEER REVIEW 13 of 16 the innermost and outermost layers as a result of non-uniform thermal gradients led to tetennssilielesstrtreesssbbuiilldupininththeelalattteerraassililulussttrraatteedininFFigigurree1144b..BBootthhththeeoouuteterrsshhrraannkklalayyeerrss aannddnnooddeessaarreeaasssuumeeddtotopprroomooteterreessididuuaallssttrreesssbbuuilidld--uuppwitithhinintthheeccuulmlmssttrruuccttuurreebbyy
+eexxeerrtitninggaarreessttrraaininininggeefffeeccttooniittssrreemaiiniingsseccttiion..
+(a) (b) (c)
+ Figure 14. Failure mechanisms of bamboo due to shrinkage: (a) fringe plot of effective strain of internode section in expo- Figure 14. Failure mechanisms of bamboo due to shrinkage: (a) fringe plot of effective strain of internode section in
+nential shrinkage model depicting crack initiation and propagation by implementing an element erosion technique; (b) exponential shrinkage model depicting crack initiation and propagation by implementing an element erosion technique; (b)
+node-internode transverse section showing layered innermost and outermost regions induced with compressive and tennode-internode transverse section showing layered innermost and outermost regions induced with compressive and tensile
+sile forces, respectively and (c) longitudinal split in natural bamboo. forces, respectively and (c) longitudinal split in natural bamboo.
+Figure 14a illustrates the failure mechanisms observed in bamboo culm due to effect
+Figure 14a illustrates the failure mechanisms observed in bamboo culm due to effect of thermal contraction. The stages of crack initiation and propagation as depicted in
+of thermal contraction. The stages of crack initiation and propagation as depicted in
+Figure 14a were visualized by implementing an element erosion technique on LS-DYNA.
+Figure 14a were visualized by implementing an element erosion technique on LS-DYNA. Non-uniform shrinkage across its wall thickness induced compressive and tensile forces
+Non-uniform shrinkage across its wall thickness induced compressive and tensile forces in
+in the layered innermost and outermost regions, respectively as shown at the node-interthe layered innermost and outermost regions, respectively as shown at the node-internode
+node transverse section in Figure 14b. Hence, split due to shrinkage is assumed to origitransverse section in Figure 14b. Hence, split due to shrinkage is assumed to originate nate from the outermost layer of the node-internode section of the culm structure as prefrom the outermost layer of the node-internode section of the culm structure as predicted
+dicted in a previous investigation by Hone et al. [51]. This is assumed to be the critical
+in a previous investigation by Hone et al. [51]. This is assumed to be the critical location of location of crack initiation point which is preceded by the longitudinal propagation with
+crack initiation point which is preceded by the longitudinal propagation with minimum
+minimum resistance along the intermodal length.
+resistance along the intermodal length.
+5.4. Future Recommendation
+5.4. Future Recommendation
+In addition to the variation in gradient of thermal expansion coefficient, another imIn addition to the variation in gradient of thermal expansion coefficient, another
+portant factor not investigated in this study could significantly influence the instance of
+important factor not investigated in this study could significantly influence the instance
+crack initiation: the rate of temperature increase. Additionally, as evidenced by FTIR reof crack initiation: the rate of temperature increase. Additionally, as evidenced by FTIR
+sults, the molecules responsible for color change in bamboo could be further investigated.
+results, the molecules responsible for color change in bamboo could be further investigated. PPrreeccisiseemoonnitiotorrininggooffccoololorrcchhaannggeeccoouuldldaasssisisttininprreediiccttioionnoffanopttiimumttrreattmeentt tetemppeerraatuturerewitihthoouutteennggeennddeerrininggirirreevveerrssibiblelecchaannggeessbyttherrmall degradattiion.. Reemottee aannddnon--destructive control offththeeaactcutualalchcehmemiciaclasltastaetaenadntdhuths uosf tohfetshteresntgrethngctohulcdoualsdo ablseocobmeceopmoesspiobslesiubpleounpmononmitonriintogrtihneg ctherocmhroopmhorpeheomreisesmioinssinonreianl rbeuailldbiunigldsi.ngs.
+6. Conclusions
+6. Conclusions
+Bamboo recurrently absorb or desorb moisture to attain an EMC as a result of its
+Bamboo recurrently absorb or desorb moisture to attain an EMC as a result of its
+hygroscopic nature. For improved dimensional stability, heat treatment was found to be an
+hygroscopic nature. For improved dimensional stability, heat treatment was found to be
+effective measure in lowering the rate of water absorption; however, it came at the expense
+an effective measure in lowering the rate of water absorption; however, it came at the
+of non-uniform shrinkage and sudden split. From investigation of thermal modification,
+expense of non-uniform shrinkage and sudden split. From investigation of thermal modcorrelation between the dimensional changes in the three principal directions of bamboo
+ification, correlation between the dimensional changes in the three principal directions of
+and its orthotropic characteristic was established. Shrinkage in the radial and tangential
+bamboo and its orthotropic characteristic was established. Shrinkage in the radial and tandirections significantly exceeded that in the longitudinal direction. Similar trend in terms
+gential directions significantly exceeded that in the longitudinal direction. Similar trend
+of exponential change in weight decrement was observed with increasing temperature.
+in terms of exponential change in weight decrement was observed with increasing temFrom FTIR results, noticeable shrinkage occurred as result of weight loss by reduction in
+perature. From FTIR results, noticeable shrinkage occurred as result of weight loss by reweakly bound water and increase in desorption of water content while alteration to its
+duction in weakly bound water and increase in desorption of water content while altera- tion to its mechanical properties was attributed to changes in cellulose, hemicellulose, and lignin between temperature range of 150 °C to 200 °C.
+Secondly, the effect of graded hierarchical structure on shrinkage behaviour of bam- boo could be clearly discerned by considering variation in gradient of thermal expansion
+
+Materials 2021, 14, 974
+14 of 16
+ References
+mechanical properties was attributed to changes in cellulose, hemicellulose, and lignin between temperature range of 150 ◦C to 200 ◦C.
+Secondly, the effect of graded hierarchical structure on shrinkage behaviour of bamboo could be clearly discerned by considering variation in gradient of thermal expansion coefficient across its wall thickness in numerical simulations. The exponential thermal gradient model was found to yield a narrowed region of strain concentration, which is associated with the longitudinal crack propagation pathway along the intermodal length. From this investigation, it could be concluded that despite its beneficial trait of enhancing the dimensional stability of the culms, the corresponding effects of thermal modification on the highly orthotropic nature of bamboo can inadvertently trigger an adverse effect across its wall thickness thereby leading to split. Results of this study can be useful in order to achieve optimized durability during the modification stage of bamboo construction material as well as monitoring of its color change in response to alteration of its durability during its service lifetime.
+Author Contributions: Conceptualization, R.R.; methodology, R.R.; software, R.R.; validation, R.R., T.P.M.S. and W.Z.; formal analysis, R.R.; investigation, R.R. and T.P.M.S.; resources, R.R.; writing— original draft preparation, R.R.; writing—review and editing, G.P.; visualization, R.R.; supervision, G.P. All authors have read and agreed to the published version of the manuscript.
+Funding: This research received no external funding.
+Institutional Review Board Statement: Not applicable.
+Informed Consent Statement: Not applicable.
+Data Availability Statement: The data presented in this study are available on request from the corresponding author. The data are not publicly available due to private restrictions.
+Conflicts of Interest: The authors declare no conflict of interest.
+1. Sassu, M.; De Falco, A.; Giresini, L.; Puppio, M.L. Structural solutions for low-cost bamboo frames: Experimental tests and constructive assessments. Materials 2016, 9, 346. [CrossRef] [PubMed]
+2. Van der Lugt, P.; van den Dobbelsteen, A.A.J.F.; Janssen, J.J. An environmental, economic and practical assessment of bamboo as a building material for supporting structures. Constr. Build. Mater. 2006, 20, 648–656. [CrossRef]
+3. Ghavami, K. Bamboo: Low cost and energy saving construction materials. In Proceedings of the International Conference on Modern Bamboo Structures, Changsha, China, 28–30 October 2008.
+4. Shao, Z.; Wang, F. Fracture Mechanics of Plant Materials; Science Press: Beijing, China, 2012.
+5. Kappel, R.; Mattheck, C.; Bethge, K.; Tesari, I. Bamboo as a composite structure and its mechanical failure behaviour.
+Wit Trans. Ecol. Environ. 2004, 73, 9.
+6. Huang, Y.S.; Hsu, F.L.; Lee, C.M.; Juang, J.Y. Failure mechanism of hollow tree trunks due to cross-sectional flattening.
+R. Soc. Open Sci. 2017, 4, 160972. [CrossRef] [PubMed]
+7. Spatz, H.C.; Niklas, K.J. Modes of failure in tubular plant organs. Am. J. Bot. 2013, 100, 332–336. [CrossRef] [PubMed]
+8. Trujillo, D.; Jangra, S.; Gibson, J.M. Flexural properties as a basis for bamboo strength grading. Proc. Inst. Civ. Eng. Struct. Build.
+2017, 170, 284–294. [CrossRef]
+9. Ribeiro, R.A.; Ribeiro, M.G.; Miranda, I.P. Bending strength and nondestructive evaluation of structural bamboo.
+Constr. Build. Mater. 2017, 146, 38–42. [CrossRef]
+10. Schott, W. Bamboo in the Laboratory. Tech. Np. Schott 2006. Available online: http://www.powerfibers.com/assets/files/
+BAMBOO%20IN%20THE%20LABORATORY.pdf (accessed on 12 November 2020).
+11. Dietsch, P.; Gamper, A.; Merk, M.; Winter, S. Monitoring building climate and timber moisture gradient in large-span timber
+structures. J. Civ. Struct. Health Monit. 2014, 5, 153–165. [CrossRef]
+12. Li, H.; Xian, Y.; Deng, J.; Cheng, H.; Chen, F.; Wang, G. Evaluation of water absorption and its influence on the physical-mechanical
+properties of bamboo-bundle laminated veneer lumber. BioResources 2016, 11, 1359–1368. [CrossRef]
+13. Chen, K.; Qiu, H.; Sun, M.; Lam, F. Experimental and numerical study of moisture distribution and shrinkage crack propagation
+in cross section of timber members. Constr. Build. Mater. 2019, 221, 219–231. [CrossRef]
+14. Huang, P.; Chang, W.S.; Ansell, M.P.; Bowen, C.R.; Chew, J.Y.; Adamaki, V. Thermal and hygroscopic expansion characteristics of
+bamboo. Proc. Inst. Civ. Eng. Struct. Build. 2018, 171, 463–471. [CrossRef]
+15. Azadeh, A.; Ghavami, K. The influence of heat on shrinkage and water absorption of Dendrocalamus giganteus bamboo as a
+functionally graded material. Constr. Build. Mater. 2018, 186, 145–154. [CrossRef]
+
+Materials 2021, 14, 974 15 of 16
+ 16. Xu, Q.; Harries, K.; Li, X.; Liu, Q.; Gottron, J. Mechanical properties of structural bamboo following immersion in water. Eng. Struct. 2014, 81, 230–239. [CrossRef]
+17. Jiang, Z.; Wang, H.; Tian, G.; Yu, Y. Sensitivity of several selected mechanical properties of moso bamboo to moisture content change under the fibre saturation point. BioResources 2012, 7, 5048–5058. [CrossRef]
+18. Motoi, O. Study on the properties of bamboo stem (part 9): On the relation between compressive strength parallel to grain and moisture content of bamboo splint. Bull. Kyushu Univ. For. 1953, 22, 87–108.
+19. Zhang, Y.M.; Yu, Y.L.; Yu, W.J. Effect of thermal treatment on the physical and mechanical properties of Phyllostachys pubescen bamboo. Eur. J. Wood Wood Prod. 2013, 71, 61–67. [CrossRef]
+20. Yu, H.Q.; Jiang, Z.H.; Hse, C.Y.; Shupe, T.F. Selected physical and mechanical properties of moso bamboo (Phyllostachys pubescens). J. Trop. For. Sci. 2008, 1, 258–263.
+21. Lv, H.; Chen, M.; Ma, X.; Li, J.; Zhang, B.; Fang, C.; Fei, B. Effects of Different Drying Methods on Bamboo’s Physical and Mechanical Properties. For. Prod. J. 2018, 68, 445–451.
+22. Yang, T.H.; Lee, C.H.; Lee, C.J.; Cheng, Y.W. Effects of different thermal modification media on physical and mechanical properties of moso bamboo. Constr. Build. Mater. 2016, 119, 251–259. [CrossRef]
+23. Taylor, D.; Kinane, B.; Sweeney, C.; Sweetnam, D.; O’Reilly, P.; Duan, K. The biomechanics of bamboo: Investigating the role of the nodes. Wood Sci. Technol. 2015, 49, 345–357. [CrossRef]
+24. Amada, S.; Munekata, T.; Nagase, Y.; Ichikawa, Y.; Kirigai, A.; Zhifei, Y. The mechanical structures of bamboos in viewpoint of functionally gradient and composite materials. J. Compos. Mater. 1996, 30, 800–819. [CrossRef]
+25. Liese, W. Protection of bamboo in service. World Bamboo Ratt. 2003, 1, 29–33.
+26. Liese, W. Preservation of a bamboo culm in relation to its structure. World Bamboo Ratt. 2005, 3, 17–21.
+27. Janssen, J.J. Designing and Building with Bamboo; International Network for Bamboo and Rattan; Technical University of Eindhoven:
+Eindhoven, The Netherlands, 2000.
+28. Liese, W.; Kumar, S. Bamboo Preservation Compendium; CIBART: New Delhi, India, 2003.
+29. Askarinejad, S.; Kotowski, P.; Shalchy, F.; Rahbar, N. Effects of humidity on shear behavior of bamboo. Theor. Appl. Mech. Lett.
+2015, 5, 236–243. [CrossRef]
+30. Silva, E.C.; Walters, M.C.; Paulino, G.H. Modeling bamboo as a functionally graded material: Lessons for the analysis of affordable
+materials. J. Mater. Sci. 2006, 41, 6991–7004. [CrossRef]
+31. Keogh, L.; O’Hanlon, P.; O’Reilly, P.; Taylor, D. Fatigue in bamboo. Int. J. Fatigue 2015, 75, 51–56. [CrossRef]
+32. Adhikari, R.C.; Wood, D.H.; Sudak, L. Low-cost bamboo lattice towers for small wind turbines. Energy Sustain. Dev. 2015, 28,
+21–28. [CrossRef]
+33. Paraskeva, T.S.; Grigoropoulos, G.; Dimitrakopoulos, E.G. Design and experimental verification of easily constructible bamboo
+footbridges for rural areas. Eng. Struct. 2017, 143, 540–548. [CrossRef]
+34. Molari, L.; García, J.J. On the radial variation of the transverse mechanical properties of bamboo. J. Build. Eng. 2021, 33, 101557.
+[CrossRef]
+35. Ramful, R.; Sakuma, A. Investigation of the effect of inhomogeneous material on the fracture mechanisms of bamboo by finite
+element method. Materials 2020, 13, 5039. [CrossRef] [PubMed]
+36. Tjeerdsma, B.F.; Boonstra, M.; Pizzi, A.; Tekely, P.; Militz, H. Characterisation of thermally modified wood: Molecular reasons for
+wood performance improvement. Holz Als Roh Und Werkst. 1998, 56, 149. [CrossRef]
+37. Boonstra, M.J.; Tjeerdsma, B. Chemical analysis of heat treated softwoods. Holz Als Roh Und Werkst. 2006, 64, 204. [CrossRef]
+38. Khalil, H.A.; Bhat, I.U.; Jawaid, M.; Zaidon, A.; Hermawan, D.; Hadi, Y.S. Bamboo fibre reinforced biocomposites: A review.
+Mater. Des. 2012, 42, 353–368. [CrossRef]
+39. Zaman, A.; Alén, R.; Kotilainen, R. Thermal Behavior of Scots Pine (Pinus Sylvestris) and Silver Birch (Betula Pendula) at 200-230.
+Wood Fiber Sci. 2007, 32, 138–143.
+40. Xu, G.; Wang, L.; Liu, J.; Wu, J. FTIR and XPS analysis of the changes in bamboo chemical structure decayed by white-rot and
+brown-rot fungi. Appl. Surf. Sci. 2013, 280, 799–805. [CrossRef]
+41. Emmanuel, V.; Odile, B.; Céline, R. FTIR spectroscopy of woods: A new approach to study the weathering of the carving face of a
+sculpture. Spectrochim. Acta Part A Mol. Biomol. Spectrosc. 2015, 136, 1255–1259. [CrossRef]
+42. Lao, W.; Li, G.; Zhou, Q.; Qin, T. Quantitative analysis of biomass in three types of wood-plastic composites by FTIR spectroscopy.
+BioResources 2014, 9, 6073–6086. [CrossRef]
+43. Cheng, S.; Huang, A.; Wang, S.; Zhang, Q. Effect of different heat treatment temperatures on the chemical composition and
+structure of Chinese fir wood. BioResources 2016, 11, 4006–4016. [CrossRef]
+44. Sikora, A.; Kacˇík, F.; Gaff, M.; Vondrová, V.; Bubeníková, T.; Kubovský, I. Impact of thermal modification on color and chemical
+changes of spruce and oak wood. J. Wood Sci. 2018, 64, 406–416. [CrossRef]
+45. Veiga, T.R.; Lima, J.T.; Dessimoni, A.L.; Pego, M.F.; Soares, J.R.; Trugilho, P.F. Different plant biomass characterizations for biochar
+production. Cerne 2017, 23, 529–536. [CrossRef]
+46. Dantas, T.L.; Rodrigues, A.E.; Moreira, R.F. Separation of carbon dioxide from flue gas using adsorption on porous solids.
+In Greenhouse Gases: Capturing, Utilization and Reduction; Liu, G., Ed.; IntechOpen Limited: London, UK, 2012; pp. 57–80.
+47. Afrin, T.; Tsuzuki, T.; Wang, X. UV absorption property of bamboo. J. Text. Inst. 2012, 103, 394–399. [CrossRef]
+
+Materials 2021, 14, 974 16 of 16
+ 48. Palombini, F.L.; de Araujo Mariath, J.E.; de Oliveira, B.F. Bionic design of thin-walled structure based on the geometry of the vascular bundles of bamboo. Thin Walled Struct. 2020, 155, 106936. [CrossRef]
+49. Askarinejad, S.; Kotowski, P.; Youssefian, S.; Rahbar, N. Fracture and mixed-mode resistance curve behavior of bamboo. Mech. Res. Commun. 2016, 78, 79–85. [CrossRef]
+50. Ghavami, K. Introduction to nonconventional materials and an historic retrospective of the field. In Nonconventional and Vernacular Construction Materials; Harries, K.A., Sharma, B., Eds.; Woodhead Publishing: Cambridge, UK, 2016; pp. 37–61.
+51. Hone, T.; Cahill, L.; Robinson, A.; Korde, C.; Taylor, D. The splitting of bamboo in response to changes in humidity and temperature. J. Mech. Behav. Biomed. Mater. 2020, 111, 103990. [CrossRef] [PubMed]
+52. Boonstra, M.J.; Van Acker, J.; Kegel, E.; Stevens, M. Optimisation of a two-stage heat treatment process: Durability aspects. Wood Sci. Technol. 2007, 41, 31–57. [CrossRef]
+53. Tang, T.; Zhang, B.; Liu, X.; Wang, W.; Chen, X.; Fei, B. Synergistic effects of tung oil and heat treatment on physicochemical properties of bamboo materials. Sci. Rep. 2019, 9, 1–11. [CrossRef] [PubMed]

@@ -1,25 +1,30 @@
 ---
 projeto: Mulheres Que Tecem a Floresta
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Documento Técnico
-referencia: FICHA_Nota_Tecnica_001_BIOECONOMIA_CTI_Bioeconomia_no_Amazonas
-status: Status Ready
-author:
-- name: Consórcio UnB/UFRR/UFAC
-date: '2026-03-26'
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: FICHA_Nota_Tecnica_001_BIOECONOMIA_CTI_Bioeconomia_no_Amazonas.md
+status: Consolidado
 ---
+
+<p align="right"><i>"O homem é o estilo."<br>— Machado de Assis</i></p>
+
+### <img src="../../../assets/patterns/square_05_cyan.svg" width="22px">&nbsp; Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: FICHA_Nota_Tecnica_001_BIOECONOMIA_CTI_Bioeconomia_no_Amazonas.md
+*   **Status**: Consolidado
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+
+<p align="right"><i>"O homem é o estilo."<br>— Machado de Assis</i></p>
+
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 ![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
 <p align="right"><i>"O homem é o estilo."<br>— Machado de Assis</i></p>
 
-### <img src="../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
-*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
-*   **Instituição**: Consórcio UnB / UFRR / UFAC
-*   **Referência**: FICHA_Nota_Tecnica_001_BIOECONOMIA_CTI_Bioeconomia_no_Amazonas.md
-*   **Status**: Status Consoliado
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 27 de Março de 2026
 
 ## FICHA CIENTÍFICA ESTRUTURADA
 
@@ -133,6 +138,4 @@ SILVA, L. H. P. da; PINTO, L. C. L.; TEIXEIRA, S. A. de Melo; DRUMOND, M. A. Peq
 ---
 
 ---
-
----
-<p align="center"><img src="../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

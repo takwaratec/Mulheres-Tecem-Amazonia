@@ -1,25 +1,20 @@
 ---
-projeto: Mulheres Que Tecem a Floresta 
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Pesquisa: Inovação Social (PES)
-referencia: PES-SOCIO-003-2026
-status: Status Ready
-author:
-- name: Consórcio UnB/UFRR/UFAC
-date: '2026-03-24'
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: Sonia Marise.md
+status: Consolidado
 ---
-
-![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
 <p align="right"><i>"O real não está na saída nem na chegada: ele se dispõe para a gente é no meio da travessia."<br>— Guimarães Rosa</i></p>
 
-### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../assets/patterns/square_05_cyan.svg" width="22px">&nbsp; Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: Sonia Marise.md
-*   **Status**: Status Consoliado
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 27 de Março de 2026
+*   **Status**: Consolidado
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 # **Dossiê Técnico-Científico: Sonia Marise Salles Carvalho – Inovação Social, Bioeconomia e Redes de Emancipação na Amazônia e no Cerrado**
 A análise da trajetória e da produção intelectual de Sonia Marise Salles Carvalho revela uma atuação estratégica na intersecção entre a sociologia aplicada, a gestão da inovação tecnológica e o desenvolvimento de tecnologias sociais voltadas para populações vulnerabilizadas. Doutora em Sociologia pela Universidade de Brasília (UnB) e mestre pela Universidade Federal do Rio Grande do Norte (UFRN), Carvalho consolidou sua carreira como uma ponte entre o rigor acadêmico e a aplicabilidade prática no ecossistema de inovação brasileiro.1 Originalmente vinculada à Universidade Federal do Amazonas (UFAM), sua cessão à UnB permitiu a liderança de iniciativas fundamentais no Centro de Apoio ao Desenvolvimento Tecnológico (CDT), onde coordena a Incubadora de Tecnologia Social e a Escola de Empreendedorismo.1
@@ -112,10 +107,10 @@ Uma contribuição técnica significativa de Sonia Marise Salles Carvalho é o d
 
 No campo da gestão estratégica, Carvalho utiliza a ferramenta "FIVE-V" para o reposicionamento de modelos de negócio em diversas instituições. Exemplos de aplicação incluem:
 
-* <img src="../../../../assets/icons/human_14_black.svg" width="18px"> **SENAI-DF:** <img src="../../../../assets/icons/human_14_black.svg" width="18px"> Reposicionamento estratégico do modelo de negócio.6  
-* <img src="../../../../assets/icons/human_16_black.svg" width="18px"> **SEBRAE Nacional:** <img src="../../../../assets/icons/human_16_black.svg" width="18px"> Inovação na distribuição de processos de contratação na assessoria jurídica.6  
-* <img src="../../../../assets/icons/human_12_black.svg" width="18px"> **Cooperativas de Catadores:** <img src="../../../../assets/icons/human_12_black.svg" width="18px"> Conexões entre a ferramenta FIVE-V e a teoria da hierarquia das necessidades para melhorar a gestão e a dignidade do trabalho.6  
-* <img src="../../../../assets/icons/human_18_black.svg" width="18px"> **Startups:** <img src="../../../../assets/icons/human_18_black.svg" width="18px"> Desenvolvimento de competências empreendedoras e inovação de modelos de negócio, como no caso da Brasil Startups.6
+* <img src="../../assets/icons/human_14_black.svg" width="18px"> **SENAI-DF:** <img src="../../assets/icons/human_14_black.svg" width="18px"> Reposicionamento estratégico do modelo de negócio.6  
+* <img src="../../assets/icons/human_16_black.svg" width="18px"> **SEBRAE Nacional:** <img src="../../assets/icons/human_16_black.svg" width="18px"> Inovação na distribuição de processos de contratação na assessoria jurídica.6  
+* <img src="../../assets/icons/human_12_black.svg" width="18px"> **Cooperativas de Catadores:** <img src="../../assets/icons/human_12_black.svg" width="18px"> Conexões entre a ferramenta FIVE-V e a teoria da hierarquia das necessidades para melhorar a gestão e a dignidade do trabalho.6  
+* <img src="../../assets/icons/human_18_black.svg" width="18px"> **Startups:** <img src="../../assets/icons/human_18_black.svg" width="18px"> Desenvolvimento de competências empreendedoras e inovação de modelos de negócio, como no caso da Brasil Startups.6
 
 Essa versatilidade metodológica permite que a pesquisadora transite entre a alta tecnologia da defesa nacional e a tecnologia social das cooperativas de base, sempre focando na eficiência e no impacto real das soluções propostas.
 
@@ -195,6 +190,4 @@ As evidências coletadas demonstram que o alinhamento entre a UnB, o PROFNIT e a
 ---
 
 ---
-
----
-<p align="center"><img src="../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

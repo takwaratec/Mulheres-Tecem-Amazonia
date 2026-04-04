@@ -1,36 +1,20 @@
 ---
-author:
-- affiliation: Universidade de Brasília / Núcleo Institucional
-  name: Institucional, Fabio Resck
-  orcid: 0000-0001-8815-3885
-date: '2026-03-13'
-doi: 10.5281/zenodo.18827106
-keywords:
-- orçamento
-- CNC
-- poliuretano
-- parceiros
-- desenvolvimento
-language: pt
-license: CC BY 4.0
-series: Tecnologia Institucional — Gestão e Desenvolvimento
-status: Ativo
-title: 'Guia de Orçamento e Desenvolvimento: Moldes de Precisão em PP'
-type: Guia Operacional
-version: '2.2.2'
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: RES_guia-orcamento-desenvolvimento.md
+status: Em Revisão
 ---
-
-![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 <p align="right"><i>"A vida é curta, a arte é longa."<br>— Machado de Assis</i></p>
 
-### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../assets/patterns/square_05_green.svg" width="22px">&nbsp; Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: RES_guia-orcamento-desenvolvimento.md
-*   **Status**: Status Em Revisão
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 27 de Março de 2026
+*   **Status**: Em Revisão
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 # Guia de Orçamento e Desenvolvimento: Moldes de Precisão em PP
 
@@ -82,6 +66,4 @@ O Polipropileno foi selecionado como material padrão por sua performance superi
 ---
 
 ---
-
----
-<p align="center"><img src="../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

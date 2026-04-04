@@ -1,25 +1,20 @@
 ---
 projeto: Mulheres Que Tecem a Floresta
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Governança e Estratégia
-referencia: GOV_GLOSSARIO_PREFIXOS
-status: Status Ready
-author:
-- name: Consórcio UnB/UFRR/UFAC
-date: '2026-03-26'
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: GOV_GLOSSARIO_PREFIXOS.md
+status: Consolidado
 ---
-
-![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
 <p align="right"><i>"Não se faz ciência sem amor ao próximo."<br>— Oswaldo Cruz</i></p>
 
-### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../assets/patterns/square_05_cyan.svg" width="22px">&nbsp; Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: GOV_GLOSSARIO_PREFIXOS.md
-*   **Status**: Status Consoliado
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 27 de Março de 2026
+*   **Status**: Consolidado
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 # Glossário de Prefixos e Protocolo de Status (Mulheres que Tecem a Floresta)
 
@@ -67,7 +62,7 @@ tipo: [CATEGORIA DO GLOSSÁRIO]
 referencia: [PREFIXO]-[ID]-[ANO]
 status: Status Ready
 author:
-- <img src="../../../../assets/icons/human_11_black.svg" width="18px"> name: [NOME DO AUTOR ou Consórcio UnB/UFRR/UFAC]
+- <img src="../../assets/icons/human_11_black.svg" width="18px"> name: [NOME DO AUTOR ou Consórcio UnB/UFRR/UFAC]
   affiliation: [APENAS SE HOUVER DOI]
   orcid: [APENAS SE HOUVER DOI]
 date: '2026-03-24'
@@ -89,10 +84,10 @@ Seguiremos o fluxo de revisão por blocos de diretórios para garantir o rigor e
 4.  **Bloco 4: 02_DIAGNOSTICO%20DE%20AREA**: Estudos, pesquisas e bibliografia.
 
 **Cada ciclo de revisão inclui:**
-- <img src="../../../../assets/icons/human_16_black.svg" width="18px"> Aplicação do cabeçalho YAML padronizado.
-- <img src="../../../../assets/icons/human_09_black.svg" width="18px"> Inserção do badge `Status Ready` abaixo do título H1.
-- <img src="../../../../assets/icons/human_07_black.svg" width="18px"> Higiene Editorial (Substituição de "WTF" e reset de versões para v1.0).
-- <img src="../../../../assets/icons/human_20_black.svg" width="18px"> Correção de tabelas Markdown.
+- <img src="../../assets/icons/human_16_black.svg" width="18px"> Aplicação do cabeçalho YAML padronizado.
+- <img src="../../assets/icons/human_09_black.svg" width="18px"> Inserção do badge `Status Ready` abaixo do título H1.
+- <img src="../../assets/icons/human_07_black.svg" width="18px"> Higiene Editorial (Substituição de "WTF" e reset de versões para v1.0).
+- <img src="../../assets/icons/human_20_black.svg" width="18px"> Correção de tabelas Markdown.
 > [!NOTE]
 > O badge de status deve ser colocado logo abaixo do título principal (#) no corpo do documento Markdown.
 
@@ -107,6 +102,4 @@ Seguiremos o fluxo de revisão por blocos de diretórios para garantir o rigor e
 ---
 
 ---
-
----
-<p align="center"><img src="../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

@@ -1,31 +1,20 @@
 ---
-title: "Análise Integrada das Florestas de Bambu no Acre"
-description: "Dinâmicas Ecológicas, Mapeamento por Geoprocessamento e Governança Socioambiental (IFAC, UFAC e IMAC)"
-author: "Coordenação Técnica"
-type: "research"
-version: "v2.2.2"
-status: "approved"
-doi: 10.5281/zenodo.18827106
-license: CC BY 4.0
-translations:
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: RES_pesquisa-bambu-indigenas-georreferenciamento.md
+status: Em Revisão
 ---
-
-![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 <p align="right"><i>"O homem é o estilo."<br>— Machado de Assis</i></p>
 
-### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../assets/patterns/square_05_green.svg" width="22px">&nbsp; Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: RES_pesquisa-bambu-indigenas-georreferenciamento.md
-*   **Status**: Status Em Revisão
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 27 de Março de 2026
+*   **Status**: Em Revisão
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![<img src="../../../../assets/icons/human_01_red.svg" width="18px"><img src="../../../../assets/icons/human_01_red.svg" width="18px"> PT](https://img.shields.io/badge/<img src="../../../../assets/icons/human_01_red.svg" width="18px"><img src="../../../../assets/icons/human_01_red.svg" width="18px">-Português-green)](./RES_pesquisa-bambu-indigenas-georreferenciamento.md)
-![Status](https://img.shields.io/badge/status-V2.2.2%20(Advocacy%205.1)-blue)
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 # **Análise Integrada das Florestas de Bambu no Acre: Dinâmicas Ecológicas, Mapeamento por Geoprocessamento e a Governança Socioambiental entre IFAC, UFAC e IMAC**
 
@@ -69,9 +58,9 @@ A compreensão do gênero *Guadua* é central para qualquer esforço de mapeamen
 
 As espécies do gênero *Guadua* no Acre possuem características morfológicas que facilitam sua identificação em campo, embora o mapeamento remoto exija técnicas mais refinadas.
 
-* <img src="../../../../assets/icons/human_16_black.svg" width="18px"> **Guadua weberbaueri**: Caracteriza-se por colmos densos e arqueados, dominando vastas áreas de clareiras (DALY et al., 2007). Sua morte em massa após a floração abre espaço para processos sucessionais, mas muitas vezes a regeneração é dominada pela própria espécie (DALY et al., 2007).  
-* <img src="../../../../assets/icons/human_03_black.svg" width="18px"> **Guadua sarcocarpa**: Frequentemente associada à *G. weberbaueri*, exerce forte influência na mortalidade de árvores vizinhas devido ao peso de suas copas e à competição por luz no sub-bosque (MINISTÉRIO DO MEIO AMBIENTE, 2017).  
-* <img src="../../../../assets/icons/human_05_black.svg" width="18px"> **Guadua superba**: Ocorre em áreas mais restritas, frequentemente ligadas a solos temporariamente alagados ou baixos platôs (DALY et al., 2007).
+* <img src="../../assets/icons/human_16_black.svg" width="18px"> **Guadua weberbaueri**: Caracteriza-se por colmos densos e arqueados, dominando vastas áreas de clareiras (DALY et al., 2007). Sua morte em massa após a floração abre espaço para processos sucessionais, mas muitas vezes a regeneração é dominada pela própria espécie (DALY et al., 2007).  
+* <img src="../../assets/icons/human_03_black.svg" width="18px"> **Guadua sarcocarpa**: Frequentemente associada à *G. weberbaueri*, exerce forte influência na mortalidade de árvores vizinhas devido ao peso de suas copas e à competição por luz no sub-bosque (MINISTÉRIO DO MEIO AMBIENTE, 2017).  
+* <img src="../../assets/icons/human_05_black.svg" width="18px"> **Guadua superba**: Ocorre em áreas mais restritas, frequentemente ligadas a solos temporariamente alagados ou baixos platôs (DALY et al., 2007).
 
 A dinâmica populacional dessas espécies é marcada por um ciclo de vida que alterna fases de colonização agressiva com períodos de declínio senescente. Durante a fase de expansão, a densidade de colmos pode inviabilizar o crescimento de espécies arbóreas comerciais, o que torna o mapeamento dessas "florestas não manejadas" uma prioridade para o ordenamento territorial (CARVALHO, 2024).
 
@@ -95,8 +84,8 @@ O mapeamento das florestas de bambu no Acre utiliza ferramentas avançadas de se
 
 Pesquisas realizadas no âmbito dos programas de pós-graduação da UFAC testaram diversos algoritmos de classificação supervisionada em cenas de satélite. Os melhores resultados de acurácia global foram obtidos pelo método de Mapeamento pelo Ângulo Espectral (SAM), alcançando 95% de precisão (OLIVEIRA, 2024). Outros métodos, como a Máxima Verossimilhança (MAXVER) e a Distância Mínima (MINDIS), também apresentaram resultados robustos, com acurácias em torno de 91% e 90%, respectivamente (PEREIRA, 2024).
 
-* <img src="../../../../assets/icons/human_04_black.svg" width="18px"> **MINDIS**: Apresentou equivalência na classificação de vegetação e hidrografia, capturando cerca de 12,26% da classe de bambu em áreas específicas (PEREIRA, 2024).  
-* <img src="../../../../assets/icons/human_12_black.svg" width="18px"> **MAXVER**: Mostrou-se superior na classificação de florestas densas (92%), mas ligeiramente menos sensível às manchas de bambu puro em comparação ao MINDIS em certas condições espectrais (PEREIRA, 2024).
+* <img src="../../assets/icons/human_04_black.svg" width="18px"> **MINDIS**: Apresentou equivalência na classificação de vegetação e hidrografia, capturando cerca de 12,26% da classe de bambu em áreas específicas (PEREIRA, 2024).  
+* <img src="../../assets/icons/human_12_black.svg" width="18px"> **MAXVER**: Mostrou-se superior na classificação de florestas densas (92%), mas ligeiramente menos sensível às manchas de bambu puro em comparação ao MINDIS em certas condições espectrais (PEREIRA, 2024).
 
 ### **Georreferenciamento e Zoneamento Ecológico-Econômico (ZEE)**
 
@@ -227,6 +216,4 @@ O estado do Acre encontra-se em uma posição privilegiada para liderar a bioeco
 ---
 
 ---
-
----
-<p align="center"><img src="../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

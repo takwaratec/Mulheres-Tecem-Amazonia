@@ -1,25 +1,20 @@
 ---
 projeto: Mulheres Que Tecem a Floresta
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Documento Técnico
-referencia: ANEXO_II_CARTAS_ANUENCIA
-status: Status Ready
-author:
-- name: Consórcio UnB/UFRR/UFAC
-date: '2026-03-26'
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: ANEXO_II_CARTAS_ANUENCIA.md
+status: Consolidado
 ---
-
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 <p align="right"><i>"Viver é muito perigoso."<br>— Guimarães Rosa</i></p>
 
-### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../assets/patterns/square_05_cyan.svg" width="22px">&nbsp; Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: ANEXO_II_CARTAS_ANUENCIA.md
-*   **Status**: Status Consolidado
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 27 de Março de 2026
+*   **Status**: Consolidado
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 # ANEXO II: Cartas de Anuência e Termos de Aceite (Modelos)
 
@@ -28,7 +23,7 @@ date: '2026-03-26'
 
 ---
 
-## <img src="../../../../assets/icons/human_01_red.svg" width="18px"> Modelo A — Carta de Anuência (Cooperativas e Associações)
+## <img src="../../assets/icons/human_01_red.svg" width="18px"> Modelo A — Carta de Anuência (Cooperativas e Associações)
 
 **À Coordenação Geral do Projeto "Mulheres Que Tecem a Floresta"**
 **Att: Profa. Dra. Tânia Cruz (Universidade de Brasília)**
@@ -54,7 +49,7 @@ __________________________________________
 
 ---
 
-## <img src="../../../../assets/icons/human_03_red.svg" width="18px"> Modelo B — Termo de Aceite e Contrapartida (Instituições Parceiras — Hubs N2)
+## <img src="../../assets/icons/human_03_red.svg" width="18px"> Modelo B — Termo de Aceite e Contrapartida (Instituições Parceiras — Hubs N2)
 
 **À Coordenação Geral do Projeto "Mulheres Que Tecem a Floresta"**
 **Att: Profa. Dra. Tânia Cruz (Universidade de Brasília)**
@@ -95,4 +90,4 @@ __________________________________________
 [CNPJ da Instituição]
 
 ---
-<p align="center"><img src="../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

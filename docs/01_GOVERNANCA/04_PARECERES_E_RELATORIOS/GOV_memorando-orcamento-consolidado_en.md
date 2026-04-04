@@ -1,33 +1,20 @@
 ---
-author:
-- affiliation: Universidade de Brasília / Núcleo Institucional
-  name: Institucional, Fabio Resck
-  orcid: 0000-0001-8815-3885
-date: '2026-03-04'
-doi: 10.5281/zenodo.18827106
-language: en
-license: CC BY 4.0
-series: Financial Management
-title: 'Technical Memorandum: Consolidated Budget and Critical Pending Issues'
-translations:
-  en: GOV_memorando-orcamento-consolidado_en.md
-  es: GOV_memorando-orcamento-consolidado_es.md
-  pt: GOV_memorando-orcamento-consolidado.md
-type: Governance
-version: '2.2.2'
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: GOV_memorando-orcamento-consolidado_en.md
+status: Em Revisão
 ---
-
-![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
 <p align="right"><i>"A vida é curta, a arte é longa."<br>— Machado de Assis</i></p>
 
-### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../assets/patterns/square_05_cyan.svg" width="22px">&nbsp; Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: GOV_memorando-orcamento-consolidado_en.md
-*   **Status**: Status Consoliado
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 27 de Março de 2026
+*   **Status**: Em Revisão
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 # Technical Memorandum: Budget and Pending Issues
 **Series:** Governance | **Version:** 1.0 | **Date:** 2026-03-24 | **Author:** Coordenação Técnica | **Status:** Status Ready
@@ -38,13 +25,13 @@ This memorandum summarizes the current state of the consolidated budget for the 
 
 ## 2. Summary of Consolidated Budget (48 months)
 
-- <img src="../../../../assets/icons/human_12_black.svg" width="18px"> **Estimated global value:** <img src="../../../../assets/icons/human_12_black.svg" width="18px"> ~R$ 20 million over 48 months.
-- <img src="../../../../assets/icons/human_01_black.svg" width="18px"> **CAPEX:** <img src="../../../../assets/icons/human_01_black.svg" width="18px"> ~R$ 5.27 million (biorefinery, NR-13 reactor, UBPs, domes, facilities).
-- <img src="../../../../assets/icons/human_02_black.svg" width="18px"> **OPEX:** <img src="../../../../assets/icons/human_02_black.svg" width="18px"> ~R$ 14.75 million (full HR, logistics, inputs, certifications).
-- <img src="../../../../assets/icons/human_13_black.svg" width="18px"> **Tranche structure:**
-    - <img src="../../../../assets/icons/human_19_black.svg" width="18px"> Tranche 1: Lower risk core (biorefinery, UBPs). Includes an allocation of **R$ 1,022,500** <img src="../../../../assets/icons/human_19_black.svg" width="18px"> for Industrial Machinery (NR-13 reactor and dual cylindrical chambers).
-    - <img src="../../../../assets/icons/human_17_black.svg" width="18px"> Tranche 2: Scaling (composites, greenhouse domes).
-    - <img src="../../../../assets/icons/human_06_black.svg" width="18px"> Tranche 3: Consolidation and regional replication.
+- <img src="../../assets/icons/human_12_black.svg" width="18px"> **Estimated global value:** <img src="../../assets/icons/human_12_black.svg" width="18px"> ~R$ 20 million over 48 months.
+- <img src="../../assets/icons/human_01_black.svg" width="18px"> **CAPEX:** <img src="../../assets/icons/human_01_black.svg" width="18px"> ~R$ 5.27 million (biorefinery, NR-13 reactor, UBPs, domes, facilities).
+- <img src="../../assets/icons/human_02_black.svg" width="18px"> **OPEX:** <img src="../../assets/icons/human_02_black.svg" width="18px"> ~R$ 14.75 million (full HR, logistics, inputs, certifications).
+- <img src="../../assets/icons/human_13_black.svg" width="18px"> **Tranche structure:**
+    - <img src="../../assets/icons/human_19_black.svg" width="18px"> Tranche 1: Lower risk core (biorefinery, UBPs). Includes an allocation of **R$ 1,022,500** <img src="../../assets/icons/human_19_black.svg" width="18px"> for Industrial Machinery (NR-13 reactor and dual cylindrical chambers).
+    - <img src="../../assets/icons/human_17_black.svg" width="18px"> Tranche 2: Scaling (composites, greenhouse domes).
+    - <img src="../../assets/icons/human_06_black.svg" width="18px"> Tranche 3: Consolidation and regional replication.
 
 ## 3. Critical Pending Issues to be Addressed with UnB
 
@@ -79,6 +66,4 @@ Preparation of asset valuation reports and draft counterpart commitment letters.
 ---
 
 ---
-
----
-<p align="center"><img src="../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

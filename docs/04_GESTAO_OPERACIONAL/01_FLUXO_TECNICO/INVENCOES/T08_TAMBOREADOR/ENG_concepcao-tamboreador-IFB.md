@@ -1,35 +1,20 @@
 ---
-author:
-- affiliation: Universidade de Brasília / Núcleo Institucional / IFB
-  name: Institucional, Fabio Resck
-  orcid: 0000-0001-8815-3885
-date: '2026-03-06'
-H.5281/zenodo.18827106
-keywords:
-- tamboreador artesanal
-- areia quente
-- IFB/UnB
-- bambu
-- tecnologia social
-language: pt
-license: CC BY 4.0
-series: Série Projetos de Engenharia — Maquinário Proprietário
-title: 'Conceituação Técnica: Protótipo Tamboreador IFB/UnB (Areia Quente)'
-type: Nota Técnica
-version: '5.1'
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: ENG_concepcao-tamboreador-IFB.md
+status: Em Revisão
 ---
-
-![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 <p align="right"><i>"O povo é o único soberano."<br>— João Ubaldo Ribeiro</i></p>
 
-### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../assets/patterns/square_05_red.svg" width="22px">&nbsp; Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: ENG_concepcao-tamboreador-IFB.md
-*   **Status**: Status Em Revisão
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 27 de Março de 2026
+*   **Status**: Em Revisão
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 # Conceituação Técnica: Protótipo Tamboreador IFB/UnB (Areia Quente)
 
@@ -42,9 +27,9 @@ Este documento resgata o design do **protótipo original** desenvolvido no Labor
 
 ## 2. O Diferencial Técnico: Abrasão por Areia Quente
 Diferente dos modelos puramente mecânicos, o protótipo IFB utiliza a **mídia granular (areia) como vetor térmico**:
-* <img src="../../../../../../assets/icons/human_06_black.svg" width="18px">   **Aquecimento:** <img src="../../../../../../assets/icons/human_06_black.svg" width="18px"> Uma fornalha tipo Rocket Stove aquece o cilindro metálico por baixo.
-* <img src="../../../../../../assets/icons/human_10_black.svg" width="18px">   **Ação Química/Física:** <img src="../../../../../../assets/icons/human_10_black.svg" width="18px"> O calor da areia (aprox. 80°C - <img src="../../../../../../assets/icons/human_10_black.svg" width="18px"> 100°C) amolece a cerosidade superficial do bambu enquanto a fricção mecânica remove a sílica.
-* <img src="../../../../../../assets/icons/human_14_black.svg" width="18px">   **Reuso:** <img src="../../../../../../assets/icons/human_14_black.svg" width="18px"> Utilização de tambores de ferro de 200L como câmara de processamento.
+* <img src="../../../../assets/icons/human_06_black.svg" width="18px">   **Aquecimento:** <img src="../../../../assets/icons/human_06_black.svg" width="18px"> Uma fornalha tipo Rocket Stove aquece o cilindro metálico por baixo.
+* <img src="../../../../assets/icons/human_10_black.svg" width="18px">   **Ação Química/Física:** <img src="../../../../assets/icons/human_10_black.svg" width="18px"> O calor da areia (aprox. 80°C - <img src="../../../../assets/icons/human_10_black.svg" width="18px"> 100°C) amolece a cerosidade superficial do bambu enquanto a fricção mecânica remove a sílica.
+* <img src="../../../../assets/icons/human_14_black.svg" width="18px">   **Reuso:** <img src="../../../../assets/icons/human_14_black.svg" width="18px"> Utilização de tambores de ferro de 200L como câmara de processamento.
 
 ## 3. Memorial Visual de Alta Fidelidade (Concepção Imagética)
 
@@ -79,6 +64,4 @@ Takwara, F. R. (2026). *Conceituação Técnica: Protótipo Tamboreador IFB/UnB 
 ---
 
 ---
-
----
-<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

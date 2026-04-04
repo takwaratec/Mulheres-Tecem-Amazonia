@@ -1,31 +1,30 @@
 ---
 projeto: Mulheres Que Tecem a Floresta
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Relatório de Edital Internacional — Curadoria Soberana
-referencia: EDT-011
-fonte: Zayed Sustainability Prize (Emirados Árabes Unidos)
-status: ATIVO ✅
-prazo_submissao: "22/06/2026"
-autor:
-- name: Curadoria Soberana MQTF
-date: '2026-04-02'
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: EDT-011-ZAYED-PRIZE.md
+status: Em Revisão
 ---
-
-![Status: ATIVO](https://img.shields.io/badge/Status-ATIVO%20✅-brightgreen) ![Prazo: 22/06/2026](https://img.shields.io/badge/Prazo-22%2F06%2F2026-orange) ![Investimento: US$ 1M](https://img.shields.io/badge/Pr%C3%AAmio-US%24%201%2C000%2C000-blue)
 
 <p align="right"><i>"Inspiring the next generation of sustainability pioneers."<br>— Zayed Sustainability Prize</i></p>
 
----
+### <img src="../../assets/patterns/square_05_red.svg" width="22px">&nbsp; Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: EDT-011-ZAYED-PRIZE.md
+*   **Status**: Em Revisão
 
-# 📋 EDT-011 — Zayed Sustainability Prize 2027
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+#  EDT-011 — Zayed Sustainability Prize 2027
 
 **Categorias Sugeridas: Food (Sociobiodiversidade) / Energy (Bioenergia)**
 
-[🔗 Acessar Site Oficial](https://www.zayedsustainabilityprize.com)
+[ Acessar Site Oficial](https://www.zayedsustainabilityprize.com)
 
 ---
 
-## 💰 Análise Financeira (Câmbio 02/04/2026)
+##  Análise Financeira (Câmbio 02/04/2026)
 
 | Moeda Original | Valor | Cotação (BRL) | Valor Total em Reais |
 |---|---|---|---|
@@ -36,7 +35,7 @@ date: '2026-04-02'
 
 ---
 
-## 📌 Requisitos de Elegibilidade
+##  Requisitos de Elegibilidade
 
 - **Proponentes**: Organizações Sem Fins Lucrativos (NPOs) e Pequenas e Médias Empresas (SMEs). O Consórcio UnB (via fundação de apoio) é plenamente elegível.
 - **Categorias**: Health, Food, Energy, Water, Climate Action.
@@ -47,7 +46,7 @@ date: '2026-04-02'
 
 ---
 
-## 🎯 Aderência MQTF
+##  Aderência MQTF
 
 | Critério | Avaliação | Score |
 |---|---|---|
@@ -66,7 +65,7 @@ Para este edital, o MQTF deve ser apresentado como um **"Ecossistema de Soluçõ
 
 ---
 
-## 🚀 Roteiro de Submissão e Governança
+##  Roteiro de Submissão e Governança
 
 1. **UEI/SAM.gov**: Requisito fundamental para fomento internacional. Ver [GUIA_REGISTRO_SAM_GOV_UNB.md](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/docs/01_GOVERNANCA/GUIA_REGISTRO_SAM_GOV_UNB.md).
 2. **Impact Metrics**: Preparar dados de quantas famílias e hectares de floresta são impactados diretamente.
@@ -74,12 +73,11 @@ Para este edital, o MQTF deve ser apresentado como um **"Ecossistema de Soluçõ
 
 ---
 
-## 📚 Referências Bibliográficas (Mestra MQTF)
+##  Referências Bibliográficas (Mestra MQTF)
 
 - ZAYED PRIZE. **Sustainability Champions: Global Submissions Guide 2027**. UAE, 2026.
 - UNB. **Relatório de Impacto Socioambiental MQTF**. Brasília, 2025.
 - WRI BRASIL. **Nova Economia da Amazônia**. 2023.
 
 ---
-
-<p align="center"><b>Mulheres Que Tecem a Floresta — MQTF</b><br>Consórcio Científico UnB/UFRR/UFAC<br><i>Coleta: 02/04/2026 · Operação Invisível V5.0</i></p>
+<p align='center'><img src='../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

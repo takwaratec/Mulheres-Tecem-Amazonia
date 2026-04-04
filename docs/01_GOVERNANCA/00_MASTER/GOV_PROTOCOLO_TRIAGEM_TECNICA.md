@@ -1,27 +1,20 @@
 ---
-projeto: Mulheres Que Tecem a Floresta 
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Documento de Governança
-referencia: GOV-DIR-001-2026
-status: CONSOLIDADO (Ready)
-author:
-- affiliation: Universidade de Brasília / Núcleo Institucional
-  name: Institucional, Fabio Resck
-  orcid: 0000-0001-8815-3885
-date: '2026-03-24'
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: GOV_PROTOCOLO_TRIAGEM_TECNICA.md
+status: Em Revisão
 ---
-
-![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
 <p align="right"><i>"A crise da educação no Brasil não é uma crise; é um projeto."<br>— Darcy Ribeiro</i></p>
 
-### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../assets/patterns/square_05_cyan.svg" width="22px">&nbsp; Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
-*   **Referência**: Protocolo de Triagem Técnica e Sincronização de Ativos (v1.0)
-*   **Status**: Status Consoliado
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 27 de Março de 2026
+*   **Referência**: GOV_PROTOCOLO_TRIAGEM_TECNICA.md
+*   **Status**: Em Revisão
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 # Protocolo de Triagem Técnica e Sincronização de Ativos (v1.0)
 
@@ -44,9 +37,9 @@ Todo documento promovido da Triagem Bruta deve seguir a taxonomia institucional:
 
 Para garantir a integridade do acervo, toda referência deve ser rastreável:
 
-- <img src="../../../../assets/icons/human_02_black.svg" width="18px"> **Links Absolutos**: Referências a arquivos locais devem usar o URI completo `file:///...`.
-- <img src="../../../../assets/icons/human_15_black.svg" width="18px"> **Ancoragem Bibliográfica**: Toda Nota Técnica deve citar explicitamente o Memorando Técnico de origem.
-- <img src="../../../../assets/icons/human_04_black.svg" width="18px"> **Catálogo de Ouro**: As referências externas (PDFs, Teses, Artigos) devem ser listadas com DOI ou link permanente na seção final de cada documento.
+- <img src="../../assets/icons/human_02_black.svg" width="18px"> **Links Absolutos**: Referências a arquivos locais devem usar o URI completo `file:///...`.
+- <img src="../../assets/icons/human_15_black.svg" width="18px"> **Ancoragem Bibliográfica**: Toda Nota Técnica deve citar explicitamente o Memorando Técnico de origem.
+- <img src="../../assets/icons/human_04_black.svg" width="18px"> **Catálogo de Ouro**: As referências externas (PDFs, Teses, Artigos) devem ser listadas com DOI ou link permanente na seção final de cada documento.
 
 ## 3. Critérios de Triagem "Cirúrgica"
 
@@ -63,7 +56,7 @@ tipo: Memorando Técnico
 referencia: ENG-MEM-XXX-2026
 status: CONSOLIDADO (Ready)
 author:
-- <img src="../../../../assets/icons/human_06_black.svg" width="18px"> affiliation: Universidade de Brasília / Núcleo Institucional
+- <img src="../../assets/icons/human_06_black.svg" width="18px"> affiliation: Universidade de Brasília / Núcleo Institucional
   name: Institucional, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-24'
@@ -85,6 +78,4 @@ date: '2026-03-24'
 ---
 
 ---
-
----
-<p align="center"><img src="../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

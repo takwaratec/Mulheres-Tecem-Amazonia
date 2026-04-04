@@ -1,34 +1,20 @@
 ---
-projeto: Mulheres Que Tecem a Floresta 
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Memorial de Patente Social (T08)
-referencia: ENG-MEM-T08-2026
-status: CONSOLIDADO (v1.0 Mulheres que Tecem a Floresta)
-author:
-- affiliation: Universidade de Brasília / Núcleo Institucional
-  name: Institucional, Fabio Resck
-  orcid: 0000-0001-8815-3885
-date: '2026-03-22'
-doi: 10.5281/zenodo.18827106
-keywords:
-- patente social
-- tamboreador
-- bambu guadua
-- lixamento mecânico
-- bioeconomia
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: ENG-MEM-T08_TAMBOREADOR.md
+status: Em Revisão
 ---
-
-![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 <p align="right"><i>"As invenções são o resultado de um trabalho teimoso."<br>— Santos Dumont</i></p>
 
-### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../assets/patterns/square_05_red.svg" width="22px">&nbsp; Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: ENG-MEM-T08_TAMBOREADOR.md
-*   **Status**: Status Em Revisão
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 27 de Março de 2026
+*   **Status**: Em Revisão
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 # Memorial Técnico: Tamboreador de Varas de Bambu com Abrasão Térmica T08
 
@@ -45,10 +31,10 @@ Equipamento industrial destinado ao processamento de colmos de bambu, provendo u
 O equipamento compreende um cilindro rotativo de aço carbono perfurado de **6 metros de comprimento por 1,2 metros de diâmetro**. A inovação reside no processamento simultâneo de um **lote de 24 varas de bambu por ciclo**, sincronizado para o abastecimento de duas unidades de Resinadores Rotativos (T03). O sistema utiliza a integração do **fluxo de calor residual** proveniente da vaporização para facilitar o atrito entre as varas e a mídia abrasiva (**Bio-Mídia de Castanha-do-Brasil**, conforme ENG-MEM-011), acoplado a um **ciclone de aspiração industrial** para captura de sílica.
 
 ## 2. Descrição Detalhada do Objeto
-* <img src="../../../../../../assets/icons/human_20_black.svg" width="18px">   **O Tambor:** <img src="../../../../../../assets/icons/human_20_black.svg" width="18px"> Chapa de aço A36 perfurada, permitindo a exaustão constante do pó.
-* <img src="../../../../../../assets/icons/human_11_black.svg" width="18px">   **As Aletas (Lifters):** <img src="../../../../../../assets/icons/human_11_black.svg" width="18px"> Dispostas helicoidalmente em ângulo de 15°, promovem o efeito cascata.
-* <img src="../../../../../../assets/icons/human_01_black.svg" width="18px">   **Transmissão:** <img src="../../../../../../assets/icons/human_01_black.svg" width="18px"> Motor elétrico de **5CV** <img src="../../../../../../assets/icons/human_01_black.svg" width="18px"> com redutor (1:40), rotação entre 15 e 30 RPM.
-* <img src="../../../../../../assets/icons/human_12_black.svg" width="18px">   **Exaustão:** <img src="../../../../../../assets/icons/human_12_black.svg" width="18px"> Coifa de isolamento conectada a um exaustor centrífugo com **Ciclone Separador**, garantindo a captura da sílica para reúso industrial.
+* <img src="../../../../assets/icons/human_20_black.svg" width="18px">   **O Tambor:** <img src="../../../../assets/icons/human_20_black.svg" width="18px"> Chapa de aço A36 perfurada, permitindo a exaustão constante do pó.
+* <img src="../../../../assets/icons/human_11_black.svg" width="18px">   **As Aletas (Lifters):** <img src="../../../../assets/icons/human_11_black.svg" width="18px"> Dispostas helicoidalmente em ângulo de 15°, promovem o efeito cascata.
+* <img src="../../../../assets/icons/human_01_black.svg" width="18px">   **Transmissão:** <img src="../../../../assets/icons/human_01_black.svg" width="18px"> Motor elétrico de **5CV** <img src="../../../../assets/icons/human_01_black.svg" width="18px"> com redutor (1:40), rotação entre 15 e 30 RPM.
+* <img src="../../../../assets/icons/human_12_black.svg" width="18px">   **Exaustão:** <img src="../../../../assets/icons/human_12_black.svg" width="18px"> Coifa de isolamento conectada a um exaustor centrífugo com **Ciclone Separador**, garantindo a captura da sílica para reúso industrial.
 
 ## 3. Quadro Reivindicatório
 1. **EQUIPAMENTO TAMBOREADOR DE VARAS DE BAMBU**, caracterizado por compreender um cilindro rotativo metálico perfurado (A36) com comprimento variável (1m a 6m), destinado à remoção da epiderme de sílica.
@@ -72,6 +58,4 @@ O equipamento compreende um cilindro rotativo de aço carbono perfurado de **6 m
 ---
 
 ---
-
----
-<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

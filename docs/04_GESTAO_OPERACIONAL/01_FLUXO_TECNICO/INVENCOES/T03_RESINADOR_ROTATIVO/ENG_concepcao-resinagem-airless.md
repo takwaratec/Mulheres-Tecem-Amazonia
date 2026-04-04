@@ -1,35 +1,20 @@
 ---
-author:
-- affiliation: Universidade de Brasília / Núcleo Institucional
-  name: Institucional, Fabio Resck
-  orcid: 0000-0001-8815-3885
-date: '2026-03-06'
-H.5281/zenodo.18827106
-keywords:
-- resinagem airless
-- poliuretano
-- UG132A
-- rotisserie
-- bioeconomia
-language: pt
-license: CC BY 4.0
-series: Série Projetos de Engenharia — Maquinário Proprietário
-title: 'Conceituação Técnica: Maquinário de Resinagem Airless ("Frangueira")'
-type: Nota Técnica
-version: '5.1'
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: ENG_concepcao-resinagem-airless.md
+status: Em Revisão
 ---
-
-![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 <p align="right"><i>"Ensinar não é transferir conhecimento, mas criar as possibilidades para a sua própria produção ou a sua construção."<br>— Paulo Freire</i></p>
 
-### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../assets/patterns/square_05_red.svg" width="22px">&nbsp; Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: ENG_concepcao-resinagem-airless.md
-*   **Status**: Status Em Revisão
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 27 de Março de 2026
+*   **Status**: Em Revisão
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 # Conceituação Técnica: Resinagem Airless e Resinador Rotativo (T03)
 
@@ -49,8 +34,8 @@ Inspirado no mecanismo de assadeiras de frango, este maquinário rotaciona as va
 2.  **Transmissão Sincronizada (Corrente):** Um sistema de **corrente única** (estilo motor de moto ou assadeira industrial) faz com que todos os eixos rotacionem simultaneamente a uma velocidade controlada por um único motor.
 3.  **Aplicação Airless:** Utilização de pistolas airless para atomização da resina UG132A em varas lixadas e secas (<12% umidade).
 4.  **Escalonamento por Lote:**
-    * <img src="../../../../../../assets/icons/human_19_black.svg" width="18px">   **Modelo de 3 Eixos:** <img src="../../../../../../assets/icons/human_19_black.svg" width="18px"> Para aplicação manual ou pequenos lotes.
-    * <img src="../../../../../../assets/icons/human_13_black.svg" width="18px">   **Modelo Multieixos:** <img src="../../../../../../assets/icons/human_13_black.svg" width="18px"> Para grandes lotes, aproveitando o volume total de PU misturado antes da polimerização.
+    * <img src="../../../../assets/icons/human_19_black.svg" width="18px">   **Modelo de 3 Eixos:** <img src="../../../../assets/icons/human_19_black.svg" width="18px"> Para aplicação manual ou pequenos lotes.
+    * <img src="../../../../assets/icons/human_13_black.svg" width="18px">   **Modelo Multieixos:** <img src="../../../../assets/icons/human_13_black.svg" width="18px"> Para grandes lotes, aproveitando o volume total de PU misturado antes da polimerização.
 
 ## 3. Cenário Imagético e Mapa Mental
 
@@ -77,6 +62,4 @@ Takwara, F. R. (2026). *Conceituação Técnica: Maquinário de Resinagem Airles
 ---
 
 ---
-
----
-<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

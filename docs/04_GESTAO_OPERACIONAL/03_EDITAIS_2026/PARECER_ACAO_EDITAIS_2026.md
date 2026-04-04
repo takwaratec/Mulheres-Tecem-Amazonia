@@ -1,15 +1,18 @@
 ---
 projeto: Mulheres Que Tecem a Floresta
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Parecer de Ação Operacional
-referencia: PARECER-EDITAIS-2026-001
-status: Ready
-autor:
-- name: Curadoria Soberana MQTF
-date: '2026-03-31'
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: PARECER_ACAO_EDITAIS_2026.md
+status: Consolidado
 ---
 
-![Status: Ready](https://img.shields.io/badge/Status-Ready-brightgreen)
+### <img src="../../assets/patterns/square_05_red.svg" width="22px">&nbsp; Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: PARECER_ACAO_EDITAIS_2026.md
+*   **Status**: Consolidado
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 # <img src="../../assets/patterns/square_title_red.svg" width="30px"> PARECER TÉCNICO: ESTRATÉGIA DE CURADORIA E ACOMPANHAMENTO (CICLO 2026)
 
@@ -46,4 +49,4 @@ A bioeconomia regenerativa não deve ser apenas "financiada", ela deve ser **sob
 - **Destaque de Links**: Todos os editais ativos agora possuem links de triagem destacados em metadados e bibliografia para facilitar a auditoria via Notebook LM.
 
 ---
-<p align="center"><img src="../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="45px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br>Consórcio Científico UnB / UFRR / UFAC<br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

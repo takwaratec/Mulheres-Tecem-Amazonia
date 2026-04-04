@@ -1,31 +1,20 @@
 ---
 projeto: Mulheres Que Tecem a Floresta
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Memorando Técnico
-referencia: WTF-DIAG-003-2026
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: WTF-DIAG-003_Rel_CNI_AGENDA_BIOECONOMIA.md
 status: Consolidado
-author:
-- affiliation: Universidade de Brasília / Núcleo Takwara
-  name: Institucional, Fabio Resck
-  orcid: 0000-0001-8815-3885
-date: '2026-03-29'
 ---
-
-![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 <p align="right"><i>"O espaço geográfico é o encontro de objetos e ações."<br>— Milton Santos</i></p>
 
+### <img src="../assets/patterns/square_05_green.svg" width="22px">&nbsp; Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: WTF-DIAG-003_Rel_CNI_AGENDA_BIOECONOMIA.md
+*   **Status**: Consolidado
 
-### <img src="../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
-**Projeto**: Mulheres Que Tecem a Floresta (MQTF)
-**Instituição**: Consórcio UnB / UFRR / UFAC
-**Referência**: WTF-DIAG-003_Rel_CNI_AGENDA_BIOECONOMIA.md
-**Status**: Status Em Revisão
-**Autor**: Consórcio UnB / UFRR / UFAC
-**Data**: 29 de March de 2026
-
----
-
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 # <img src="../assets/patterns/square_title_red.svg" width="30px"> BIOECONOMIA: UMA AGENDA PARA O BRASIL (CNI)
 
@@ -237,7 +226,5 @@ No entanto, o país possui vantagens comparativas significativas, como a biodive
 - <img src="../assets/icons/human_03_black.svg" width="18px"> ARAÚJO, V. F.; FERKO, G. P. S.; CARVALHO, S. M. S.; CRUZ, T. C. **VABICT: Componente-chave para Modelos de Negócio, ICTs e Lei de Inovação**. Omnis Scientia, 2024.
 - <img src="../assets/icons/human_06_black.svg" width="18px"> CARVALHO, S. M. S.; CRUZ, T. C. S. **General Law on Personal Data Protection and the Innovation Law in Amazonian Contexts**. e-TECH, 2023.
 
-
 ---
-
-<p align="center"><img src="../assets/logo_BQTF/logo_mqtf_soberana.svg" width="45px"><br><b>Mulheres Que Tecem a Floresta - MQTF -</b><br>Consórcio Científico UnB/UFRR/UFAC<br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

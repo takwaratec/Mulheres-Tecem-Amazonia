@@ -1,25 +1,30 @@
 ---
 projeto: Mulheres Que Tecem a Floresta
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Documento Técnico
-referencia: FICHA_Physical-mechanical properties and biological resistance of thermally modified juvenile Handroanthus chrysotrichuswood
-status: Status Ready
-author:
-- name: Consórcio UnB/UFRR/UFAC
-date: '2026-03-26'
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: FICHA_Physical-mechanical properties and biological resistance of thermally modified juvenile Handroanthus chrysotrichuswood.md
+status: Consolidado
 ---
+
+<p align="right"><i>"A força do lugar é a força do mundo."<br>— Milton Santos</i></p>
+
+### <img src="../../../assets/patterns/square_05_cyan.svg" width="22px">&nbsp; Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: FICHA_Physical-mechanical properties and biological resistance of thermally modified juvenile Handroanthus chrysotrichuswood.md
+*   **Status**: Consolidado
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+
+<p align="right"><i>"A força do lugar é a força do mundo."<br>— Milton Santos</i></p>
+
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 ![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
 <p align="right"><i>"A força do lugar é a força do mundo."<br>— Milton Santos</i></p>
 
-### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
-*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
-*   **Instituição**: Consórcio UnB / UFRR / UFAC
-*   **Referência**: FICHA_Physical-mechanical properties and biological resistance of thermally modified juvenile Handroanthus chrysotrichuswood.md
-*   **Status**: Status Consoliado
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 27 de Março de 2026
 
 Como Pesquisador Sênior e Analista de Dados do Projeto WTF, apresento a Ficha Científica Estruturada, com a análise e contextualização do estudo para os objetivos do nosso projeto.
 
@@ -27,11 +32,11 @@ Como Pesquisador Sênior e Analista de Dados do Projeto WTF, apresento a Ficha C
 
 ### 1. METADADOS E CABEÇALHO
 
-* <img src="../../../../../assets/icons/human_18_black.svg" width="18px">   **Projeto:** <img src="../../../../../assets/icons/human_18_black.svg" width="18px"> Mulheres Que Tecem a Floresta
-* <img src="../../../../../assets/icons/human_12_black.svg" width="18px">   **Instituição:** <img src="../../../../../assets/icons/human_12_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
-* <img src="../../../../../assets/icons/human_13_black.svg" width="18px">   **Tipo:** <img src="../../../../../assets/icons/human_13_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
-* <img src="../../../../../assets/icons/human_05_black.svg" width="18px">   **Referência Interna:** <img src="../../../../../assets/icons/human_05_black.svg" width="18px"> PES-TEC-5022-2026
-* <img src="../../../../../assets/icons/human_15_black.svg" width="18px">   **Status:** <img src="../../../../../assets/icons/human_15_black.svg" width="18px"> Ready
+* <img src="../../../assets/icons/human_18_black.svg" width="18px">   **Projeto:** <img src="../../../assets/icons/human_18_black.svg" width="18px"> Mulheres Que Tecem a Floresta
+* <img src="../../../assets/icons/human_12_black.svg" width="18px">   **Instituição:** <img src="../../../assets/icons/human_12_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
+* <img src="../../../assets/icons/human_13_black.svg" width="18px">   **Tipo:** <img src="../../../assets/icons/human_13_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
+* <img src="../../../assets/icons/human_05_black.svg" width="18px">   **Referência Interna:** <img src="../../../assets/icons/human_05_black.svg" width="18px"> PES-TEC-5022-2026
+* <img src="../../../assets/icons/human_15_black.svg" width="18px">   **Status:** <img src="../../../assets/icons/human_15_black.svg" width="18px"> Ready
 
 **REFERÊNCIA BIBLIOGRÁFICA (ABNT):**
 CANDATEN, L.; DALLA COSTA, H. W.; TREVISAN, R.; ELOY, E.; KULCYNSKI, S. M. Propriedades físico-mecânicas e resistência biológica da madeira de *Handroanthus chrysotrichus* jovem termicamente modificada. *Revista Ciência Agrária*, v. 63, 2020.
@@ -65,6 +70,4 @@ A madeira, em seu estado natural, é vulnerável a organismos xilófagos, demand
 ---
 
 ---
-
----
-<p align="center"><img src="../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

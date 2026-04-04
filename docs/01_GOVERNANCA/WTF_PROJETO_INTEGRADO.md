@@ -1,25 +1,20 @@
 ---
 projeto: Mulheres Que Tecem a Floresta
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Memorando Técnico e de Governança (GOV)
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
 referencia: WTF_PROJETO_INTEGRADO.md
-status: Status Em Revisão
-author:
-- name: Consórcio UnB/UFRR/UFAC
-date: '2026-03-28'
+status: Em Revisão
 ---
-
-![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 <p align="right"><i>"O povo é o único soberano."<br>— João Ubaldo Ribeiro</i></p>
 
-### <img src="../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
-**Projeto**: Mulheres Que Tecem a Floresta (MQTF)
-**Instituição**: Consórcio UnB / UFRR / UFAC
-**Referência**: WTF_PROJETO_INTEGRADO.md
-**Status**: Status Em Revisão
-**Autor**: Consórcio UnB / UFRR / UFAC
-**Data**: 28 de Março de 2026
+### <img src="../assets/patterns/square_05_cyan.svg" width="22px">&nbsp; Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: WTF_PROJETO_INTEGRADO.md
+*   **Status**: Em Revisão
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 # <img src="../assets/patterns/square_title_red.svg" width="30px"> MEMORANDO TÉCNICO E DE GOVERNANÇA: PROJETO MULHERES QUE TECEM A FLORESTA
 
@@ -231,4 +226,4 @@ Após 48 meses, o projeto opera com:
 <img src="../assets/icons/human_07_black.svg" width="18px"> **Consultoria técnica:** O núcleo presta serviços de engenharia, design e P&D para terceiros.
 
 ---
-<p align="center"><img src="../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

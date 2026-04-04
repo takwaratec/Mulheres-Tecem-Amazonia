@@ -1,29 +1,22 @@
 ---
 projeto: Mulheres Que Tecem a Floresta
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Memorial Descritivo (T10)
-referencia: ENG-MD-010-2026
-status: Ready
-author:
-- name: Consórcio UnB/UFRR/UFAC
-date: '2026-04-01'
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: ENG-MD-010_MEMORIAL-DESCRITIVO-BALSA.md
+status: Consolidado
 ---
-
-![Status: Ready](https://img.shields.io/badge/Status-Ready-brightgreen)
 
 <p align="right"><i>"Ciência é a investigação da verdade."<br>— Carlos Chagas</i></p>
 
-### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../assets/patterns/square_05_red.svg" width="22px">&nbsp; Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
-*   **Referência**: Memorial Descritivo — Catamarã Utilitário Solar T10 (Fase 1)
-*   **Status**: Ready (Consolidado)
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 01 de Abril de 2026
+*   **Referência**: ENG-MD-010_MEMORIAL-DESCRITIVO-BALSA.md
+*   **Status**: Consolidado
 
----
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
-# <img src="../../../../../../assets/patterns/square_title_red.svg" width="30px"> Memorial Descritivo: Catamarã Utilitário Solar — Elo de Engenharia Social (T10)
+# <img src="../../../../assets/patterns/square_title_red.svg" width="30px"> Memorial Descritivo: Catamarã Utilitário Solar — Elo de Engenharia Social (T10)
 
 ## 1. Contexto e Justificativa
 
@@ -116,9 +109,9 @@ A inovação estrutural reside na construção de um **casco monolítico** intei
 
 Características do compósito:
 
-- <img src="../../../../../../assets/icons/human_17_black.svg" width="18px"> **Núcleo de Preenchimento**: Mamonex RD70 (Dens. 70 kg/m³). Vedação hidrofóbica e isolamento térmico em corpo único.
-- <img src="../../../../../../assets/icons/human_04_black.svg" width="18px"> **Pele Estrutural**: Laminado de Bambu *Guadua weberbaueri* (Dens. 670 kg/m³) com resina de mamona, termorretificado a 160°C.
-- <img src="../../../../../../assets/icons/human_05_black.svg" width="18px"> **Densidade Média do Compósito**: **350 kg/m³** — redução de massa de **95%** em relação ao aço naval (7.800 kg/m³) e **87%** em relação ao alumínio (2.700 kg/m³).
+- <img src="../../../../assets/icons/human_17_black.svg" width="18px"> **Núcleo de Preenchimento**: Mamonex RD70 (Dens. 70 kg/m³). Vedação hidrofóbica e isolamento térmico em corpo único.
+- <img src="../../../../assets/icons/human_04_black.svg" width="18px"> **Pele Estrutural**: Laminado de Bambu *Guadua weberbaueri* (Dens. 670 kg/m³) com resina de mamona, termorretificado a 160°C.
+- <img src="../../../../assets/icons/human_05_black.svg" width="18px"> **Densidade Média do Compósito**: **350 kg/m³** — redução de massa de **95%** em relação ao aço naval (7.800 kg/m³) e **87%** em relação ao alumínio (2.700 kg/m³).
 
 > [!IMPORTANT]
 > **Política de Zero Aço Estrutural**: Nenhum elemento metálico é utilizado como componente estrutural. Os únicos elementos metálicos são: (a) **porcas olhal** de ancoragem/içamento (peças de fixação, não estruturais), (b) **amarrações com cabo flexível** em pontos específicos, (c) **parafusos de fixação** de equipamentos elétricos.
@@ -127,8 +120,8 @@ Características do compósito:
 
 O tratamento do bambu segue protocolo de neutralização e proteção biológica em dois estágios:
 
-1. **Banho de diquada de cinzas** (2h a 3h): Alcalinização e estabilização de pH com cinzas de madeiras taninosas (angico, barbatimão, aroeira) em vapor saturado.
-2. **Banho de ácido pirolenhoso** (30 min): Impregnação antifúngica e bactericida com extrato pirolenhoso (subproduto da carbonização controlada).
+1. **Banho de diquada de cinzas** (2h a 3h): Alcalinização e estabilização de pH utilizando cinzas de biomassa residual oriundas do **Reator T01/T02** (Rocket Stove) em vapor saturado. Ver detalhes no protocolo mestre [NT-005](../SISTEMAS_E_GEOPOLITICA/ENG-NT-005_PROTOCOLO-DIQUADA-PIROLENHOSO.md).
+2. **Banho de ácido pirolenhoso** (30 min): Impregnação antifúngica e bactericida com extrato pirolenhoso (subproduto da carbonização controlada também gerado na T01/T02).
 
 O protocolo elimina a dependência de reagentes industriais importados (NaOH, boro) e pode ser executado em fornos ecológicos de campo.
 
@@ -144,9 +137,9 @@ A embarcação opera com **dois motores elétricos de 60 HP** (15 kW contínuos 
 
 ### 3.1 Sistema Fotovoltaico
 
-- <img src="../../../../../../assets/icons/human_12_black.svg" width="18px"> **Teto Solar Plano**: 16 painéis monocristalinos de 450W em layout 4×4 sobre teto estrutural. Potência instalada: **7,2 kWp**.
-- <img src="../../../../../../assets/icons/human_09_black.svg" width="18px"> **Geração Diária Efetiva**: 27,0 kWh/dia (média anual, PR=0,75) a 20,5 kWh/dia (pior mês, fevereiro). Fonte: Atlas INPE/LABREN.
-- <img src="../../../../../../assets/icons/human_10_black.svg" width="18px"> **Armazenamento**: 2 bancos LiFePO4 48V/400Ah (38,4 kWh nominal, 30,7 kWh utilizáveis a 80% DoD).
+- <img src="../../../../assets/icons/human_12_black.svg" width="18px"> **Teto Solar Plano**: 16 painéis monocristalinos de 450W em layout 4×4 sobre teto estrutural. Potência instalada: **7,2 kWp**.
+- <img src="../../../../assets/icons/human_09_black.svg" width="18px"> **Geração Diária Efetiva**: 27,0 kWh/dia (média anual, PR=0,75) a 20,5 kWh/dia (pior mês, fevereiro). Fonte: Atlas INPE/LABREN.
+- <img src="../../../../assets/icons/human_10_black.svg" width="18px"> **Armazenamento**: 2 bancos LiFePO4 48V/400Ah (38,4 kWh nominal, 30,7 kWh utilizáveis a 80% DoD).
 - **Orçamento energético diário total**: **57,7 kWh** (média) / **51,2 kWh** (pior mês).
 
 ### 3.2 Roadmap (Fase 2)
@@ -220,12 +213,12 @@ O teto plano recebe uma **micro-inclinação de 1,5%** (1,5 cm/m) em direção �
 
 O convés do T10 é **totalmente livre de pilares centrais** — o vão de 4,8 m é vencido por treliças de bambu apoiadas nas muratas laterais. A configuração maximiza a flexibilidade operacional:
 
-- <img src="../../../../../../assets/icons/human_11_black.svg" width="18px"> **Logística BSM e Kits**: Capacidade para **4 Unidades BSM de carga** e 2 Kits de Construção por jornada (~4.400 kg). Içamento pelos olhais de teto.
-- <img src="../../../../../../assets/icons/human_06_black.svg" width="18px"> **BSM Fixa de Bordo** (popa-bombordo): 1 Unidade BSM permanente para tripulantes e passageiros. Compostagem seca com separação urina/sólidos.
-- <img src="../../../../../../assets/icons/human_03_black.svg" width="18px"> **Câmaras Frias Distribuídas (2,9 m³ total)**: Moldadas no corpo dos cascos, com condensadores submersos. Funcionam como **bancos de convés**. Consumo: ~4,2 kWh/dia (COP ~3,5 por resfriamento a água).
-- <img src="../../../../../../assets/icons/human_14_black.svg" width="18px"> **Redário Flexível (10+ redes)**: Suspensas entre quaisquer pares de **porcas olhal** (malha 3×3m, 15 pontos). Posições ajustáveis conforme a operação.
-- <img src="../../../../../../assets/icons/human_09_black.svg" width="18px"> **Água Potável a Bordo**: Tanque PU 500 L (moldado no casco) com potabilização em 4 estágios. Autonomia: 5–7 dias.
-- <img src="../../../../../../assets/icons/human_17_black.svg" width="18px"> **Soberania Energética e Hídrica**: Combustível fóssil: **R$ 0**. Água potável: **R$ 0**.
+- <img src="../../../../assets/icons/human_11_black.svg" width="18px"> **Logística BSM e Kits**: Capacidade para **4 Unidades BSM de carga** e 2 Kits de Construção por jornada (~4.400 kg). Içamento pelos olhais de teto.
+- <img src="../../../../assets/icons/human_06_black.svg" width="18px"> **BSM Fixa de Bordo** (popa-bombordo): 1 Unidade BSM permanente para tripulantes e passageiros. Compostagem seca com separação urina/sólidos.
+- <img src="../../../../assets/icons/human_03_black.svg" width="18px"> **Câmaras Frias Distribuídas (2,9 m³ total)**: Moldadas no corpo dos cascos, com condensadores submersos. Funcionam como **bancos de convés**. Consumo: ~4,2 kWh/dia (COP ~3,5 por resfriamento a água).
+- <img src="../../../../assets/icons/human_14_black.svg" width="18px"> **Redário Flexível (10+ redes)**: Suspensas entre quaisquer pares de **porcas olhal** (malha 3×3m, 15 pontos). Posições ajustáveis conforme a operação.
+- <img src="../../../../assets/icons/human_09_black.svg" width="18px"> **Água Potável a Bordo**: Tanque PU 500 L (moldado no casco) com potabilização em 4 estágios. Autonomia: 5–7 dias.
+- <img src="../../../../assets/icons/human_17_black.svg" width="18px"> **Soberania Energética e Hídrica**: Combustível fóssil: **R$ 0**. Água potável: **R$ 0**.
 
 ### 5.2 Arranjo de Convés — Treliças, Olhais e Câmaras-Banco
 
@@ -326,4 +319,4 @@ A embarcação em sua configuração de Fase 1 (solar/elétrica) opera sem calde
 | Kit primeiros socorros | 1 | Timoneiro |
 
 ---
-<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br>Consórcio Científico UnB / UFRR / UFAC<br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

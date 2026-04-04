@@ -1,27 +1,20 @@
 ---
-projeto: Mulheres Que Tecem a Floresta 
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Orientação Técnica
-referencia: EDT-000-INSTRUCAO-2025
-status: Ready
-author:
-- affiliation: Institucional Tec
-  name: Fabio Takwara
-date: '2026-03-31'
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: EDT-000-INSTRUCAO-2025.md
+status: Consolidado
 ---
-
-![Status: Ready](https://img.shields.io/badge/Status-Ready-brightgreen)
 
 <p align="right"><i>"A educação é o projeto mais audacioso de um povo que quer se fazer futuro."<br>— Darcy Ribeiro</i></p>
 
-### <img src="../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../assets/patterns/square_05_red.svg" width="22px">&nbsp; Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
-*   **Referência**: Guia de Oportunidades e Formulação (2025)
-*   **Status**: Ready (Consolidação Técnica)
-*   **Objetivo**: Orientação para equipes de campo e gestão sobre a rede de recursos.
+*   **Referência**: EDT-000-INSTRUCAO-2025.md
+*   **Status**: Consolidado
 
----
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 # <img src="../../assets/patterns/square_title_red.svg" width="35px"> Guia de Oportunidades e Formulação (2025)
 
@@ -60,7 +53,7 @@ A equipe de redação técnica deve observar os seguintes critérios de **Sobera
 | HIST-002 | [Sanear Amazônia](https://www.fundoamazonia.gov.br/pt/como-apresentar-projetos/chamadas-publicas/sanear-amazonia/) | BNDES/FA | **Encerrado** | Referência para Bioarquitetura/Saneamento Ecológico. |
 | HIST-003 | [Lidera Cientista (AM)](https://www.fapeam.am.gov.br/editais/edital-n-o-0142026-programa-de-apoio-a-lideranca-feminina-na-inovacao-e-sustentabilidade-da-amazonia-lidera-cientistaam/) | FAPEAM | **ATIVO** ✅ | Foco Doutoras. Ver `EDT-001` para execução. |
 | HIST-004 | [PROFIX-RH (AM)](https://www.fapeam.am.gov.br/editais/edital-no-0112026-programa-de-fixacao-de-recursos-humanos-para-o-interior-do-estado-mestres-e-doutores-por-calha-de-rio-profix-rh-edicao-2026/) | FAPEAM | **ATIVO** ⚠️ | Interior/Calhas. Ver `EDT-002` para execução. |
-| HIST-005 | [CONAB Amazônia Viva](https://www.conab.gov.br/agricultura-familiar/amazonia-viva) | BNDES/FA | **PREVIEW** 🟡 | Monitorar lançamento 2026. Ver `EDT-003`. |
+| HIST-005 | [CONAB Amazônia Viva](https://www.conab.gov.br/agricultura-familiar/amazonia-viva) | BNDES/FA | **PREVIEW**  | Monitorar lançamento 2026. Ver `EDT-003`. |
 | HIST-006 | [Escola Suas – Luiza de Marilac (AC)](https://agencia.ac.gov.br/em-memoria-e-reconhecimento-ao-legado-de-luiza-de-marilac-pioneira-da-assistencia-social-governo-cria-escola-suas-com-seu-nome/) | FAPAC | **Concluído** | Infraestrutura pública AC. Monitorar parcerias institucionais. |
 | HIST-007 | [Bolsistas Ieptec (AC)](https://agencia.ac.gov.br/ieptec-convoca-profissionais-bolsistas-docentes-e-nao-docentes-de-rio-branco-e-tarauaca/) | Ieptec | **Interno** | Fluxo de contratação de pesquisadores para o interior. |
 
@@ -70,4 +63,4 @@ A equipe de redação técnica deve observar os seguintes critérios de **Sobera
 - **PAA/CONAB**: Garantir que as associações de mulheres MQTF estejam com o DAP/CAF ativo para a chamada Amazônia Viva.
 
 ---
-<p align="center"><img src="../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="45px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br>Consórcio Científico UnB / UFRR / UFAC<br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

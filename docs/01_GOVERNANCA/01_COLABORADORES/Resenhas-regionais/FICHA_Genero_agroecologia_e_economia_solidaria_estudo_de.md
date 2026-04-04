@@ -1,46 +1,37 @@
 ---
 projeto: Mulheres Que Tecem a Floresta
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Documento Técnico
-referencia: FICHA_Genero_agroecologia_e_economia_solidaria_estudo_de
-status: Status Ready
-author:
-- name: Consórcio UnB/UFRR/UFAC
-date: '2026-03-26'
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: FICHA_Genero_agroecologia_e_economia_solidaria_estudo_de.md
+status: Consolidado
 ---
-
-![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
 <p align="right"><i>"Ciência é a investigação da verdade."<br>— Carlos Chagas</i></p>
 
-### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../assets/patterns/square_05_cyan.svg" width="22px">&nbsp; Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_Genero_agroecologia_e_economia_solidaria_estudo_de.md
-*   **Status**: Status Consoliado
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 27 de Março de 2026
+*   **Status**: Consolidado
 
-Prezado Consórcio UnB/UFRR/UFAC,
-
-Como Pesquisador Sênior e Analista de Dados do Projeto WTF (Mulheres Que Tecem a Floresta), apresento a seguir a ficha científica estruturada com base no texto bruto fornecido, visando integrar suas descobertas com os objetivos do nosso projeto.
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 # FICHA CIENTÍFICA ESTRUTURADA - PROJETO WTF
 
 ### 1. METADADOS E CABEÇALHO
 
-* <img src="../../../../../assets/icons/human_02_black.svg" width="18px">   **projeto:** <img src="../../../../../assets/icons/human_02_black.svg" width="18px"> Mulheres Que Tecem a Floresta
-* <img src="../../../../../assets/icons/human_16_black.svg" width="18px">   **instituicao:** <img src="../../../../../assets/icons/human_16_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
-* <img src="../../../../../assets/icons/human_13_black.svg" width="18px">   **tipo:** <img src="../../../../../assets/icons/human_13_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
-* <img src="../../../../../assets/icons/human_12_black.svg" width="18px">   **referencia_interna:** <img src="../../../../../assets/icons/human_12_black.svg" width="18px"> PES-TEC-4976-2026
-* <img src="../../../../../assets/icons/human_14_black.svg" width="18px">   **status:** <img src="../../../../../assets/icons/human_14_black.svg" width="18px"> Ready
+* <img src="../../../assets/icons/human_02_black.svg" width="18px">   **projeto:** <img src="../../../assets/icons/human_02_black.svg" width="18px"> Mulheres Que Tecem a Floresta
+* <img src="../../../assets/icons/human_16_black.svg" width="18px">   **instituicao:** <img src="../../../assets/icons/human_16_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
+* <img src="../../../assets/icons/human_13_black.svg" width="18px">   **tipo:** <img src="../../../assets/icons/human_13_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
+* <img src="../../../assets/icons/human_12_black.svg" width="18px">   **referencia_interna:** <img src="../../../assets/icons/human_12_black.svg" width="18px"> PES-TEC-4976-2026
+* <img src="../../../assets/icons/human_14_black.svg" width="18px">   **status:** <img src="../../../assets/icons/human_14_black.svg" width="18px"> Ready
 
 **REFERÊNCIA BIBLIOGRÁFICA (ABNT):**
 
 SILVA, Flávia Regina Fernandes. Gênero, agroecologia e economia solidária: estudo de caso do grupo de mulheres do Acampamento Recanto da Natureza em Laranjeiras do Sul – PR. **Desenvolvimento e Meio Ambiente**, Curitiba, v. 39, p. 115-132, dez. 2016. DOI: 10.5380/dma.v39i0.45697.
 
-* <img src="../../../../../assets/icons/human_03_black.svg" width="18px">   **name:** <img src="../../../../../assets/icons/human_03_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
-* <img src="../../../../../assets/icons/human_10_black.svg" width="18px">   **date:** <img src="../../../../../assets/icons/human_10_black.svg" width="18px"> '2026-03-24'
+* <img src="../../../assets/icons/human_03_black.svg" width="18px">   **name:** <img src="../../../assets/icons/human_03_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
+* <img src="../../../assets/icons/human_10_black.svg" width="18px">   **date:** <img src="../../../assets/icons/human_10_black.svg" width="18px"> '2026-03-24'
 
 ### 2. TRADUÇÃO E SÍNTESE TÉCNICA
 
@@ -68,6 +59,4 @@ A lógica produtivista e mercadológica dominante no processo de modernização 
 ---
 
 ---
-
----
-<p align="center"><img src="../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

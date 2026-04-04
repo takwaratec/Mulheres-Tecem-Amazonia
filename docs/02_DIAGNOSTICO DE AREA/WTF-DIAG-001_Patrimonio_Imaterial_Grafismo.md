@@ -1,27 +1,20 @@
 ---
 projeto: Mulheres Que Tecem a Floresta
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Diagnóstico de Área (Patrimônio Imaterial)
-referencia: WTF-DIAG-001
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: WTF-DIAG-001_Patrimonio_Imaterial_Grafismo.md
 status: Em Revisão
-author:
-- name: Consórcio UnB / UFRR / UFAC
-date: '2026-03-30'
 ---
-
-![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 <p align="right"><i>"Se as pessoas não tiverem vínculos profundos com sua memória ancestral,<br>com as referências que dão sustentação à sua essência identitária,<br>ficarão loucas neste mundo maluco compartilhado."<br>— Ailton Krenak, <b>Ideias para Adiar o Fim do Mundo</b> (2020)</i></p>
 
-### <img src="../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
-**Projeto**: Mulheres Que Tecem a Floresta (MQTF)
-**Instituição**: Consórcio UnB / UFRR / UFAC
-**Referência**: WTF-DIAG-001 (Série Diagnósticos de Área)
-**Status**: Em Revisão
-**Curadoria**: Consórcio Científico MQTF
-**Data**: 30 de Março de 2026
+### <img src="../assets/patterns/square_05_green.svg" width="22px">&nbsp; Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: WTF-DIAG-001_Patrimonio_Imaterial_Grafismo.md
+*   **Status**: Em Revisão
 
----
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 # <img src="../assets/patterns/square_title_red.svg" width="30px"> A Gramática Visual dos Povos Indígenas como Infraestrutura de Soberania
 
@@ -172,4 +165,4 @@ O Consórcio Científico MQTF, ao incorporar esta gramática visual em sua ident
 - <img src="../assets/icons/human_06_red.svg" width="18px"> **VIVEIROS DE CASTRO**, Eduardo. *Os Pronomes Cosmológicos e o Perspectivismo Ameríndio*. Mana, v. 2, n. 2, p. 115-144, 1996. Disponível em: [https://doi.org/10.1590/S0104-93131996000200005](https://doi.org/10.1590/S0104-93131996000200005).
 
 ---
-<p align="center"><img src="../assets/logo_BQTF/logo_mqtf_soberana.svg" width="45px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br>Consórcio Científico UnB / UFRR / UFAC<br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

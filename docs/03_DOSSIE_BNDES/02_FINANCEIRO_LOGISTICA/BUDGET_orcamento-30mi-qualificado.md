@@ -1,21 +1,20 @@
 ---
-title: "Orçamento Detalhado Qualificado - Mulheres que Tecem a Floresta"
-version: 3.2
-status: "Finalizado"
-tags: ["Orçamento", "BNDES", "Fundo Amazônia", "Gestão", "OPEX", "CAPEX", "Qualificação 5.1"]
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: BUDGET_orcamento-30mi-qualificado.md
+status: Em Revisão
 ---
-
-![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 <p align="right"><i>"Só se aprende o que se pratica."<br>— Anísio Teixeira</i></p>
 
-### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../assets/patterns/square_05_red.svg" width="22px">&nbsp; Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: BUDGET_orcamento-30mi-qualificado.md
-*   **Status**: Status Em Revisão
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 27 de Março de 2026
+*   **Status**: Em Revisão
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 # Projeto Mulheres que Tecem a Floresta
 **Planilha Orçamentária Detalhada – 48 meses / R$ 30.000.000**
@@ -87,9 +86,9 @@ tags: ["Orçamento", "BNDES", "Fundo Amazônia", "Gestão", "OPEX", "CAPEX", "Qu
 
 ## CONTRAPARTIDA E INDICADORES
 
-- <img src="../../../../assets/icons/human_18_black.svg" width="18px"> **Contrapartida Não Financeira:** <img src="../../../../assets/icons/human_18_black.svg" width="18px"> R$ 4.000.000
-- <img src="../../../../assets/icons/human_01_black.svg" width="18px"> **Valor Total do Projeto (com contrapartida):** <img src="../../../../assets/icons/human_01_black.svg" width="18px"> **R$ 34.000.000**
-- <img src="../../../../assets/icons/human_14_black.svg" width="18px"> **Solicitação ao BNDES/Fundo Amazônia:** <img src="../../../../assets/icons/human_14_black.svg" width="18px"> **R$ 30.000.000**
+- <img src="../../assets/icons/human_18_black.svg" width="18px"> **Contrapartida Não Financeira:** <img src="../../assets/icons/human_18_black.svg" width="18px"> R$ 4.000.000
+- <img src="../../assets/icons/human_01_black.svg" width="18px"> **Valor Total do Projeto (com contrapartida):** <img src="../../assets/icons/human_01_black.svg" width="18px"> **R$ 34.000.000**
+- <img src="../../assets/icons/human_14_black.svg" width="18px"> **Solicitação ao BNDES/Fundo Amazônia:** <img src="../../assets/icons/human_14_black.svg" width="18px"> **R$ 30.000.000**
 
 > [!NOTE]
 > **INDICADORES DE EFICIÊNCIA:**
@@ -106,6 +105,4 @@ tags: ["Orçamento", "BNDES", "Fundo Amazônia", "Gestão", "OPEX", "CAPEX", "Qu
 ---
 
 ---
-
----
-<p align="center"><img src="../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

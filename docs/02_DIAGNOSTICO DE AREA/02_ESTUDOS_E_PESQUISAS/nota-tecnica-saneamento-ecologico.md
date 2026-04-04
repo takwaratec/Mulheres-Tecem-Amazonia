@@ -1,46 +1,20 @@
 ---
-status: Ready
-author:
-- affiliation: Universidade de Brasília / Núcleo Institucional
-  name: Institucional, Fabio Resck
-  orcid: 0000-0001-8815-3885
-date: '2026-03-04'
-doi: 10.5281/zenodo.18827106
-doi: 10.5281/zenodo.18827106
-keywords:
-- saneamento ecológico
-- turismo
-- banheiros secos
-- wetlands
-- saúde pública
-- Amazônia
-- Chapada Diamantina
-- ANA NR 8/2024
-language: pt
-license: CC BY 4.0
-related_works:
-- 10.5281/zenodo.18827106
-- 10.5281/zenodo.18827106
-series: Série Técnica Mulheres Que Tecem a Floresta — Pesquisa e Desenvolvimento
-subtitle: Relatório de Infraestrutura, Saúde Pública e Crescimento Turístico
-title: 'Nota Técnica: Saneamento Ecológico e Bio-resiliência Turística'
-translations:
-  pt: nota-tecnica-saneamento-ecologico.md
-type: Boletim Técnico-Científico
-version: '2.2.2'
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: nota-tecnica-saneamento-ecologico.md
+status: Consolidado
 ---
-
-![Status: Ready](https://img.shields.io/badge/Status-Ready-brightgreen)
 
 <p align="right"><i>"O real não está na saída nem na chegada: ele se dispõe para a gente é no meio da travessia."<br>— Guimarães Rosa</i></p>
 
-### <img src="../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../assets/patterns/square_05_green.svg" width="22px">&nbsp; Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
-*   **Referência**: Nota Técnica — Saneamento Ecológico e Bio-resiliência Turística
-*   **Status**: Ready
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 27 de Março de 2026
+*   **Referência**: nota-tecnica-saneamento-ecologico.md
+*   **Status**: Consolidado
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 # Nota Técnica: Saneamento Ecológico e Bio-resiliência Turística
 
@@ -219,6 +193,4 @@ Somente destinos que tratarem seu esgoto com seriedade técnica e inovação des
 ---
 
 ---
-
----
-<p align="center"><img src="../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

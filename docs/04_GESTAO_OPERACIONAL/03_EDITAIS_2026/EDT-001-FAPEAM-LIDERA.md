@@ -1,22 +1,20 @@
 ---
 projeto: Mulheres Que Tecem a Floresta
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Relatório de Edital — Curadoria Soberana
-referencia: EDT-001
-fonte: FAPEAM – Fundação de Amparo à Pesquisa do Estado do Amazonas
-status: Ready
-prazo_submissao: "14/05/2026 às 17h (horário de Manaus)"
-link_oficial: "fapeam.am.gov.br/editais/edital-n-o-0142026-programa-de-apoio-a-lideranca-feminina-na-inovacao-e-sustentabilidade-da-amazonia-lidera-cientistaam/"
-autor:
-- name: Curadoria Soberana MQTF
-date: '2026-03-31'
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: EDT-001-FAPEAM-LIDERA.md
+status: Consolidado
 ---
-
-![Status: Ready](https://img.shields.io/badge/Status-Ready-brightgreen) ![Prazo: 14/05/2026](https://img.shields.io/badge/Prazo-14%2F05%2F2026-orange) ![Aderência: 92/100](https://img.shields.io/badge/Ader%C3%AAncia-92%2F100-blue)
 
 <p align="right"><i>"A floresta que tecemos é a mesma que nos sustenta."<br>— Curadoria Soberana MQTF</i></p>
 
----
+### <img src="../../assets/patterns/square_05_red.svg" width="22px">&nbsp; Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: EDT-001-FAPEAM-LIDERA.md
+*   **Status**: Consolidado
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 # <img src="../../assets/patterns/square_title_red.svg" width="30px"> EDT-001 — FAPEAM LIDERA CIENTISTA/AM (Edital N.º 014/2026)
 
@@ -99,4 +97,4 @@ O **Edital LIDERA CIENTISTA/AM** (agora **EDT-001**) é o mais alinhado ao DNA d
 - WRI BRASIL. **Nova Economia da Amazônia: Transição para a Base Florestal**. Brasília: WRI, 2023.
 
 ---
-<p align="center"><img src="../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="45px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br>Consórcio Científico UnB / UFRR / UFAC<br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

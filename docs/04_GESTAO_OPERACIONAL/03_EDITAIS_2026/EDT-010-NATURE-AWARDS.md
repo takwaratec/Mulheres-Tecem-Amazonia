@@ -1,34 +1,30 @@
 ---
 projeto: Mulheres Que Tecem a Floresta
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Relatório de Edital Internacional — Curadoria Soberana
-referencia: EDT-010
-fonte: Nature Awards for Inspiring Women in Science
-status: ATIVO ✅ — PRAZO CRÍTICO (6 DIAS)
-prazo_submissao: "08/04/2026"
-autor:
-- name: Curadoria Soberana MQTF
-date: '2026-04-02'
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: EDT-010-NATURE-AWARDS.md
+status: Em Revisão
 ---
-
-![Status: ATIVO](https://img.shields.io/badge/Status-ATIVO%20✅-brightgreen) ![URGENTE: 08/04/2026](https://img.shields.io/badge/⚠️%20URGENTE-08%2F04%2F2026-red) ![Investimento: US$ 50k](https://img.shields.io/badge/Pr%C3%AAmio-US%24%2050%2C000-blue)
 
 <p align="right"><i>"Science is not finished until it is shared."<br>— Nature Awards</i></p>
 
-> [!CAUTION]
-> **PRAZO FINAL EM 6 DIAS**: Submissão até **08/04/2026**. O relatório abaixo foca na viabilidade técnica para o consórcio MQTF.
+### <img src="../../assets/patterns/square_05_red.svg" width="22px">&nbsp; Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: EDT-010-NATURE-AWARDS.md
+*   **Status**: Em Revisão
 
----
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
-# 📋 EDT-010 — Nature Awards: Inspiring Women in Science
+#  EDT-010 — Nature Awards: Inspiring Women in Science
 
 **Categoria Sugerida: Science Outreach Award / Scientific Achievement**
 
-[🔗 Acessar Site Oficial](https://www.nature.com/immersive/inspiringwomeninscience/index.html)
+[ Acessar Site Oficial](https://www.nature.com/immersive/inspiringwomeninscience/index.html)
 
 ---
 
-## 💰 Análise Financeira (Câmbio 02/04/2026)
+##  Análise Financeira (Câmbio 02/04/2026)
 
 | Moeda Original | Valor | Cotação (BRL) | Valor Total em Reais |
 |---|---|---|---|
@@ -38,7 +34,7 @@ date: '2026-04-02'
 
 ---
 
-## 📌 Requisitos de Elegibilidade
+##  Requisitos de Elegibilidade
 
 - **Público-alvo**: Mulheres que se identificam como pesquisadoras ou organizações que promovam mulheres na ciência.
 - **Abrangência**: Global. O MQTF (Amazonas/Acre/Roraima) possui alta relevância geopolítica.
@@ -49,7 +45,7 @@ date: '2026-04-02'
 
 ---
 
-## 🎯 Aderência MQTF
+##  Aderência MQTF
 
 | Critério | Avaliação | Score |
 |---|---|---|
@@ -67,7 +63,7 @@ O MQTF não é apenas um projeto de conservação; é uma iniciativa de **Ciênc
 
 ---
 
-## 🚀 Roteiro de Submissão (Placeholder Filling)
+##  Roteiro de Submissão (Placeholder Filling)
 
 | Seção | Diretriz de Preenchimento | Limite (Est.) |
 |---|---|---|
@@ -77,12 +73,11 @@ O MQTF não é apenas um projeto de conservação; é uma iniciativa de **Ciênc
 
 ---
 
-## 📚 Referências Bibliográficas (Mestra MQTF)
+##  Referências Bibliográficas (Mestra MQTF)
 
 - NATURE. **Inspiring Women in Science Awards**. London: Spring Nature, 2026.
 - ARAÚJO, V. F. et al. **VABICT: Componente-chave para Modelos de Negócio, ICTs e Lei de Inovação**. *Omnis Scientia*, 2024.
 - WRI BRASIL. **Nova Economia da Amazônia**. 2023.
 
 ---
-
-<p align="center"><b>Mulheres Que Tecem a Floresta — MQTF</b><br>Consórcio Científico UnB/UFRR/UFAC<br><i>Coleta: 02/04/2026 · Operação Invisível V5.0</i></p>
+<p align='center'><img src='../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

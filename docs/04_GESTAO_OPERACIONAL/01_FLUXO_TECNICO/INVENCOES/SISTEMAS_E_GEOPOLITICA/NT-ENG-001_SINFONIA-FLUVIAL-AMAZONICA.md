@@ -1,25 +1,20 @@
 ---
-projeto: Mulheres Que Tecem a Floresta 
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Nota Técnica de Engenharia (ENG)
-referencia: NT-ENG-001-2026
-status: Status Ready
-author:
-- name: Consórcio UnB/UFRR/UFAC
-date: '2026-03-24'
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: NT-ENG-001_SINFONIA-FLUVIAL-AMAZONICA.md
+status: Consolidado
 ---
-
-![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 <p align="right"><i>"Arte sem ética não é arte."<br>— Ariano Suassuna</i></p>
 
-### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../assets/patterns/square_05_red.svg" width="22px">&nbsp; Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: NT-ENG-001_SINFONIA-FLUVIAL-AMAZONICA.md
-*   **Status**: Status Em Revisão
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 27 de Março de 2026
+*   **Status**: Consolidado
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 # Nota Técnica NT-ENG-001: Engenharia Fluvial Itinerante e Gestão de Resíduos
 ## 1. Justificativa e Escopo Logístico
@@ -43,15 +38,15 @@ O monitoramento geoespacial das embarcações integra os seguintes nós logísti
 
 Diferente do modelo de "indústria volante", a embarcação atua como o **transporte utilitário** e ponto de apoio itinerante:
 
-- <img src="../../../../../../assets/icons/human_03_black.svg" width="18px"> **Cadeia de Frio**: Estação de refrigeração solar para conservação de perecíveis processados nas Unidades de Terra.
-- <img src="../../../../../../assets/icons/human_11_black.svg" width="18px"> **Logística BSM/Kits**: Capacidade de transporte de **4,4 Toneladas** de convés, equivalente a 4 módulos BSM e 2 kits de habitação modular por viagem.
-- <img src="../../../../../../assets/icons/human_14_black.svg" width="18px"> **Ponto de Apoio Social**: Infraestrutura configurada com redários e saneamento básico para atendimento às populações vulneráveis em áreas de vazante extrema (Calado: 0,5m).
+- <img src="../../../../assets/icons/human_03_black.svg" width="18px"> **Cadeia de Frio**: Estação de refrigeração solar para conservação de perecíveis processados nas Unidades de Terra.
+- <img src="../../../../assets/icons/human_11_black.svg" width="18px"> **Logística BSM/Kits**: Capacidade de transporte de **4,4 Toneladas** de convés, equivalente a 4 módulos BSM e 2 kits de habitação modular por viagem.
+- <img src="../../../../assets/icons/human_14_black.svg" width="18px"> **Ponto de Apoio Social**: Infraestrutura configurada com redários e saneamento básico para atendimento às populações vulneráveis em áreas de vazante extrema (Calado: 0,5m).
 
 ## 4. Viabilidade Financeira (CAPEX/OPEX Fase 1)
 
-- <img src="../../../../../../assets/icons/human_17_black.svg" width="18px"> **CAPEX Unidade de Terra (N1/N2)**: **R$ 125.000,00** (Inclui reator, prensa e pasteurizadora descentralizada).
-- <img src="../../../../../../assets/icons/human_02_black.svg" width="18px"> **CAPEX Catamarã Utilitário**: **R$ 18.500,00** (Estrutura bambu termorretificado + PU Mamonex RD70).
-- <img src="../../../../../../assets/icons/human_14_black.svg" width="18px"> **Impacto Social**: Redução drástica da figura do atravessador e suporte direto ao **Canteiro Escola** regional.
+- <img src="../../../../assets/icons/human_17_black.svg" width="18px"> **CAPEX Unidade de Terra (N1/N2)**: **R$ 125.000,00** (Inclui reator, prensa e pasteurizadora descentralizada).
+- <img src="../../../../assets/icons/human_02_black.svg" width="18px"> **CAPEX Catamarã Utilitário**: **R$ 18.500,00** (Estrutura bambu termorretificado + PU Mamonex RD70).
+- <img src="../../../../assets/icons/human_14_black.svg" width="18px"> **Impacto Social**: Redução drástica da figura do atravessador e suporte direto ao **Canteiro Escola** regional.
 
 ## 5. Bibliografia e Sync-Link
 
@@ -72,6 +67,4 @@ Diferente do modelo de "indústria volante", a embarcação atua como o **transp
 ---
 
 ---
-
----
-<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

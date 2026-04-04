@@ -1,0 +1,18 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFAC/UFRR
+equipe: Gestão e Parceria Regional
+tipo: Acervo de Consulta (Ficha Técnica)
+autor_original: Not Identified
+equipe_tecnica: UnB/UFAC/UFRR
+ano_publicacao: '2025'
+---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"O Brasil, última nação a abrogar a escravidão, tem um compromisso terrível com o seu povo."<br>— Darcy Ribeiro</i></p>
+
+
+
+---
+<p align="center"><img src="../../../../../../assets/patterns/square_title_red.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

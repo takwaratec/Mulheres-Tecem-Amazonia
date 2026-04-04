@@ -1,35 +1,20 @@
 ---
-author:
-- affiliation: Universidade de Brasília / Núcleo Institucional
-  name: Institucional, Fabio Resck
-  orcid: 0000-0001-8815-3885
-date: '2026-03-06'
-doi: 10.5281/zenodo.18827106
-keywords:
-- patente
-- tamboreador
-- bambu guadua
-- lixamento mecânico
-- bioeconomia
-language: pt
-license: CC BY 4.0
-series: Série Projetos de Engenharia — Maquinário Proprietário
-title: 'Memorial de Patente: Tamboreador de Varas de Bambu com Abrasão Térmica'
-type: Memorial de Patente
-version: '5.1'
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: memorial-patente-tamboreador.md
+status: Em Revisão
 ---
-
-![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 <p align="right"><i>"O Brasil, última nação a abrogar a escravidão, tem um compromisso terrível com o seu povo."<br>— Darcy Ribeiro</i></p>
 
-### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../assets/patterns/square_05_red.svg" width="22px">&nbsp; Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: memorial-patente-tamboreador.md
-*   **Status**: Status Em Revisão
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 27 de Março de 2026
+*   **Status**: Em Revisão
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 # Memorial de Patente: Tamboreador de Varas de Bambu com Abrasão Térmica
 
@@ -57,9 +42,9 @@ O equipamento compreende um cilindro rotativo de aço carbono perfurado de **gra
 
 ### 2.1 Estrutura e Mecanismo
 O tamboreador é constituído por um cilindro de até 6 metros de comprimento e 1,2 metros de diâmetro, montado sobre roletes de carga. 
-* <img src="../../../../../../assets/icons/human_03_black.svg" width="18px">   **O Tambor:** <img src="../../../../../../assets/icons/human_03_black.svg" width="18px"> Fabricado em chapa de aço A36 perfurada, permitindo a exaustão constante do pó.
-* <img src="../../../../../../assets/icons/human_13_black.svg" width="18px">   **As Aletas (Lifters):** <img src="../../../../../../assets/icons/human_13_black.svg" width="18px"> Dispostas helicoidalmente em ângulo de 15°, promovem a elevação e queda controlada das varas, simulando um efeito cascata que maximiza os pontos de contato.
-* <img src="../../../../../../assets/icons/human_20_black.svg" width="18px">   **Transmissão:** <img src="../../../../../../assets/icons/human_20_black.svg" width="18px"> Motor elétrico de **5CV** <img src="../../../../../../assets/icons/human_20_black.svg" width="18px"> acoplado a um redutor de velocidade (1:40), garantindo torque elevado para a movimentação synchronizada do lote de **24 varas**, mantendo rotação constante entre 15 e 30 RPM.
+* <img src="../../../../assets/icons/human_03_black.svg" width="18px">   **O Tambor:** <img src="../../../../assets/icons/human_03_black.svg" width="18px"> Fabricado em chapa de aço A36 perfurada, permitindo a exaustão constante do pó.
+* <img src="../../../../assets/icons/human_13_black.svg" width="18px">   **As Aletas (Lifters):** <img src="../../../../assets/icons/human_13_black.svg" width="18px"> Dispostas helicoidalmente em ângulo de 15°, promovem a elevação e queda controlada das varas, simulando um efeito cascata que maximiza os pontos de contato.
+* <img src="../../../../assets/icons/human_20_black.svg" width="18px">   **Transmissão:** <img src="../../../../assets/icons/human_20_black.svg" width="18px"> Motor elétrico de **5CV** <img src="../../../../assets/icons/human_20_black.svg" width="18px"> acoplado a um redutor de velocidade (1:40), garantindo torque elevado para a movimentação synchronizada do lote de **24 varas**, mantendo rotação constante entre 15 e 30 RPM.
 
 ### 2.2 Sistema de Exaustão e Captura
 Uma coifa de isolamento envolve o tambor rotativo, conectada a um exaustor centrífugo de alta pressão subsidiado por um **Ciclone Separador**. Este subsistema garante a "Higiene de Ativos", impedindo que a sílica (altamente abrasiva para os pulmões e para o próprio maquinário) permaneça no ambiente, direcionando-a para uma moega de coleta inferior.
@@ -90,6 +75,4 @@ Institucional, F. R. (2026). *Memorial de Patente: Tamboreador de Varas de Bambu
 ---
 
 ---
-
----
-<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

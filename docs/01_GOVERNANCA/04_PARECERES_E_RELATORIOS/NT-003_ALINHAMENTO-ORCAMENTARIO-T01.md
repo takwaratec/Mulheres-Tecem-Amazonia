@@ -1,37 +1,32 @@
 ---
 projeto: Mulheres Que Tecem a Floresta
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Nota Técnica (Parecer Orçamentário)
-referencia: NT-003-2026
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: NT-003_ALINHAMENTO-ORCAMENTARIO-T01.md
 status: Em Revisão
-author:
-- name: Consórcio UnB/UFRR/UFAC
-date: '2026-04-02'
 ---
-
-![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 <p align="right"><i>"O espaço geográfico é o encontro de objetos e ações."<br>— Milton Santos</i></p>
 
-### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
-**Projeto**: Mulheres Que Tecem a Floresta (MQTF)
-**Instituição**: Consórcio UnB / UFRR / UFAC
-**Referência**: NT-003_ALINHAMENTO-ORCAMENTARIO-T01
-**Status**: Em Revisão
-**Autor**: Consórcio UnB / UFRR / UFAC
-**Data**: 02 de Abril de 2026
+### <img src="../../assets/patterns/square_05_cyan.svg" width="22px">&nbsp; Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: NT-003_ALINHAMENTO-ORCAMENTARIO-T01.md
+*   **Status**: Em Revisão
 
-# <img src="../../../../assets/patterns/square_title_red.svg" width="30px"> Nota Técnica NT-003: Alinhamento Orçamentário — T01 Biorrefinaria e Implantação dos Hubs N2
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+# <img src="../../assets/patterns/square_title_red.svg" width="30px"> Nota Técnica NT-003: Alinhamento Orçamentário — T01 Biorrefinaria e Implantação dos Hubs N2
 
 ---
 
-## <img src="../../../../assets/patterns/square_01_red.svg" width="22px"> 1. Objeto
+## <img src="../../assets/patterns/square_01_red.svg" width="22px"> 1. Objeto
 
 Esta Nota Técnica justifica e detalha o **CAPEX unitário revisado** da unidade T01 (Forno Ecológico / Biorrefinaria de Pequeno Porte) em **R$ 12.855,00** (CIF Rio Branco), bem como os custos adicionais de implantação nos novos Hubs N2 de **Manaus (AM)** e **Porto Velho (RO)**.
 
 ---
 
-## <img src="../../../../assets/patterns/square_03_black.svg" width="22px"> 2. Composição do CAPEX Unitário — T01
+## <img src="../../assets/patterns/square_03_black.svg" width="22px"> 2. Composição do CAPEX Unitário — T01
 
 O valor anterior (pré-revisão) de ~R$ 4.000,00 foi reavaliado após a inclusão de itens críticos de segurança, automação e isolamento, além do **Markup Amazônia** (logística remota e fornecedores regionais).
 
@@ -103,7 +98,7 @@ As câmaras de tratamento são **parte integrante** da unidade T01 — não infr
 
 ---
 
-## <img src="../../../../assets/patterns/square_04_black.svg" width="22px"> 3. Impacto no Inventário Mecânico (ENG-MEM-010)
+## <img src="../../assets/patterns/square_04_black.svg" width="22px"> 3. Impacto no Inventário Mecânico (ENG-MEM-010)
 
 | Item | Antes | Variante B | Variante A | Variante D |
 | :--- | ---: | ---: | ---: | ---: |
@@ -120,7 +115,7 @@ As câmaras de tratamento são **parte integrante** da unidade T01 — não infr
 
 ---
 
-## <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> 4. Adendo: Custos de Implantação dos Hubs N2
+## <img src="../../assets/patterns/square_05_red.svg" width="22px"> 4. Adendo: Custos de Implantação dos Hubs N2
 
 ### 4.1. Hub Manaus (AM) — Domo Voador 10m
 
@@ -157,11 +152,11 @@ As câmaras de tratamento são **parte integrante** da unidade T01 — não infr
 
 ---
 
-## <img src="../../../../assets/patterns/square_06_black.svg" width="22px"> 5. Recomendações
+## <img src="../../assets/patterns/square_06_black.svg" width="22px"> 5. Recomendações
 
 1. **Integrar** os valores desta NT ao Memorando de Orçamento Consolidado (`GOV_memorando-orcamento-consolidado`), rubrica de CAPEX.
 2. **Vincular** a implantação dos Hubs N2 ao cronograma de adesão dos parceiros (Plano de Atuação `PLAN-ATUACAO-POLOS-N2.md`).
 3. **Registrar** o aceite de contrapartida dos parceiros como ativo de contrapartida econômica (valoração de ativos — § 3.1 do Memorando de Orçamento).
 
 ---
-<p align="center"><img src="../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br>Consórcio Científico UnB / UFRR / UFAC<br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

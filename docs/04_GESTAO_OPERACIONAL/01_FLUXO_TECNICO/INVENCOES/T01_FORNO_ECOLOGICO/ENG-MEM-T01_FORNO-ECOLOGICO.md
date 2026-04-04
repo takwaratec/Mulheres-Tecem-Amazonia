@@ -1,37 +1,20 @@
 ---
-projeto: Mulheres Que Tecem a Floresta 
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Memorial de Patente Social (T01)
-referencia: ENG-MEM-T01-2026
-status: CONSOLIDADO (v2.0 Mulheres que Tecem a Floresta)
-author:
-- affiliation: Universidade de Brasília / Núcleo Institucional
-  name: Institucional, Fabio Resck
-  orcid: 0000-0001-8815-3885
-date: '2026-04-01'
-doi: 10.5281/zenodo.18827106
-keywords:
-- forno ecológico
-- rocket stove
-- serpentina
-- TEG
-- pirolenhoso
-- briquetes
-- purificação de água
-- soberania energética
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: ENG-MEM-T01_FORNO-ECOLOGICO.md
+status: Em Revisão
 ---
-
-![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-blue)
 
 <p align="right"><i>"A educação é o direito de todos e dever do Estado."<br>— Anísio Teixeira</i></p>
 
-### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../assets/patterns/square_05_red.svg" width="22px">&nbsp; Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: ENG-MEM-T01_FORNO-ECOLOGICO.md
-*   **Status**: Consolidado v2.0
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 01 de Abril de 2026
+*   **Status**: Em Revisão
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 # Memorial Técnico: Forno Ecológico T01 — Unidade Comunitária Replicável
 
@@ -48,10 +31,10 @@ O **Forno Ecológico T01** é uma unidade térmica compacta e replicável, proje
 
 O sistema integra em um único corpo construtivo:
 
-- <img src="../../../../../../assets/icons/human_05_black.svg" width="18px"> **Geração de vapor** (serpentina inox no riser) para tratamento de bambu e pasteurização de água
-- <img src="../../../../../../assets/icons/human_17_black.svg" width="18px"> **Geração de energia** (módulos TEG na carenagem cerâmica) para bombas, ventilador, iluminação e sensores
-- <img src="../../../../../../assets/icons/human_09_black.svg" width="18px"> **Condensação de pirolenhoso** (chaminé resfriada por plenum d'água) para defensivo agrícola e conservante de bambu
-- <img src="../../../../../../assets/icons/human_04_black.svg" width="18px"> **Secagem de fibras** (ar quente soprado via plenum) por soprador externo
+- <img src="../../../../assets/icons/human_05_black.svg" width="18px"> **Geração de vapor** (serpentina inox no riser) para tratamento de bambu e pasteurização de água
+- <img src="../../../../assets/icons/human_17_black.svg" width="18px"> **Geração de energia** (módulos TEG na carenagem cerâmica) para bombas, ventilador, iluminação e sensores
+- <img src="../../../../assets/icons/human_09_black.svg" width="18px"> **Condensação de pirolenhoso** (chaminé resfriada por plenum d'água) para defensivo agrícola e conservante de bambu
+- <img src="../../../../assets/icons/human_04_black.svg" width="18px"> **Secagem de fibras** (ar quente soprado via plenum) por soprador externo
 
 O T01 é a versão artesanal e de baixo CAPEX do sistema. Sua escala industrial (T02) difere apenas no **tamanho da fornalha** e na adição de uma **Retorta de Ativação Interna (RAI)** para produção de carvão ativado para filtros.
 
@@ -67,8 +50,8 @@ O sistema é encapsulado em uma **carenagem externa** (tambor metálico de aço,
 
 A inovação reside na **separação hermética** dos dois fluxos de gases:
 
-- <img src="../../../../../../assets/icons/human_04_black.svg" width="18px"> **Universo Sujo (Combustão)**: O riser em "L" confina a queima da biomassa, onde os gases atingem temperaturas de até **525°C**. Os voláteis e a fumaça são direcionados hermeticamente para o condensador.
-- <img src="../../../../../../assets/icons/human_19_black.svg" width="18px"> **Universo Limpo (Plenum)**: Um trocador de calor (plenum) envolve o riser. O ar é forçado por uma **ventoinha automotiva (12V)** regulada por **PWM via Arduino**, garantindo calor limpo para secagem e climatização sem contato com a fumaça.
+- <img src="../../../../assets/icons/human_04_black.svg" width="18px"> **Universo Sujo (Combustão)**: O riser em "L" confina a queima da biomassa, onde os gases atingem temperaturas de até **525°C**. Os voláteis e a fumaça são direcionados hermeticamente para o condensador.
+- <img src="../../../../assets/icons/human_19_black.svg" width="18px"> **Universo Limpo (Plenum)**: Um trocador de calor (plenum) envolve o riser. O ar é forçado por uma **ventoinha automotiva (12V)** regulada por **PWM via Arduino**, garantindo calor limpo para secagem e climatização sem contato com a fumaça.
 
 ### 2.3 Corte Transversal
 
@@ -109,7 +92,7 @@ A inovação reside na **separação hermética** dos dois fluxos de gases:
 |:---|:---|:---|:---|
 | **1. Riser** | Tubo inox 304 (Ø 150mm, h = 600mm) | 2 mm | Canal de tiragem ascendente |
 | **2. Serpentina** | Inox 304 (Ø tubo 15mm, 10 espiras) | — | Geração de vapor (flash tube) |
-| **3. Fibra cerâmica** | Manta cerâmica 1260°C | **30 mm** | Proteção TEGs + isolamento 1° |
+| **3. Fibra cerâmica** | Manta cerâmica 1260°C (CFD-Validated) | **30 mm** | Proteção TEGs + Eficiência Térmica (11,15% gain) |
 | **4. Módulos TEG** | BiTe/PbTe 40×40mm (8 unidades) | — | Calor → eletricidade (sem fuligem) |
 | **5. Lã de rocha** | Manta mineral | **30 mm** | Isolamento 2° (proteção estrutural) |
 | **6. PU + cinzas** | PU vegetal + cinzas (camadas) | ~20 mm | Isolamento complementar + massa térmica |
@@ -157,7 +140,15 @@ A câmara de combustão do T01 é **ampliada lateralmente** em relação a um ro
 | **Espiras** | 10 | Comprimento total: ~4,7 m de tubo |
 | **Passo entre espiras** | 60 mm | Altura total: 600 mm (= altura do riser) |
 | **Alimentação** | Gravitacional (coluna d'água suspensa) | Sem bomba — tanque elevado a 1,5–2,0 m |
-| **Produção de vapor** | ~15–25 L/h de vapor a 100–140°C | Suficiente para tratamento de 6–8 colmos/batelada |
+| **Produção de vapor** | ~15–25 L/h de vapor a 100–140°C | Eficiência sustentada por Fluência Térmica |
+
+### 4.3 Fluência Térmica e Desempenho CFD
+
+O design do T01 integra os achados de simulação de dinâmica de fluidos computacional (CFD) para maximizar a transferência de calor:
+
+- **Destaque Científico**: Conforme resenhado em **[RES_rocket-stove.md](../../../../02_DIAGNOSTICO DE AREA/02_ESTUDOS_E_PESQUISAS/RES_rocket-stove.md)**, a aplicação de isolamento em fibra cerâmica (30mm) eleva a temperatura na interface de trabalho para **452,94°C** (ganho de 11,15%).
+- **Fluência da Serpentina**: Esta temperatura crítica garante que o gradiente térmico entre os gases de exaustão e a serpentina inox seja máximo, forçando a fluência do vapor através das 10 espiras sem condensação prematura, mesmo em ambientes amazônicos de alta umidade.
+- **Estabilidade**: O isolamento atua como uma "bateria térmica", estabilizando a produção de vapor necessária para o protocolo soberano de 2-3h de banho.
 
 ### 4.2 Usos do Vapor
 
@@ -215,7 +206,7 @@ Os módulos Termoelétricos (TEG) são fixados na **face externa da carenagem ce
  ┌──────────────┐
  │  PLENUM DE   │ ← Tambor de 200L cheio d'água
  │  RESFRIAMENTO│    (chaminé passa por dentro)
- │    💧 💧 💧   │    Gases resfriam de ~300°C → ~40°C
+ │         │    Gases resfriam de ~300°C → ~40°C
  └──────┬───────┘
         │ (condensado por gravidade)
         ▼
@@ -423,9 +414,9 @@ Cada unidade T01 instalada em um ponto comunitário confere autonomia em:
 
 ## Documentos Relacionados
 
-- <img src="../../../../../../assets/icons/human_17_black.svg" width="18px"> **[T02 — Reator de Biorrefinaria Industrial](../T02_REATOR_BIORREFINARIA/ENG-MEM-T02_BIORREFINARIA-REATOR.md)**: Versão industrial com RAI para carvão ativado.
-- <img src="../../../../../../assets/icons/human_20_black.svg" width="18px"> **[Memorial Mestre: Coração Térmico](../../ENG-MEM-MASTER_CORACAO-TERMICO.md)**: Arquitetura unificada de cascateamento térmico.
-- <img src="../../../../../../assets/icons/human_09_black.svg" width="18px"> **[NT-002: Comparativo Fornos e Reatores](ENG-NT-002_COMPARATIVO-FORNOS-REATORES.md)**: Estudo comparativo com padrões industriais.
+- <img src="../../../../assets/icons/human_17_black.svg" width="18px"> **[T02 — Reator de Biorrefinaria Industrial](../T02_REATOR_BIORREFINARIA/ENG-MEM-T02_BIORREFINARIA-REATOR.md)**: Versão industrial com RAI para carvão ativado.
+- <img src="../../../../assets/icons/human_20_black.svg" width="18px"> **[Memorial Mestre: Coração Térmico](../../ENG-MEM-MASTER_CORACAO-TERMICO.md)**: Arquitetura unificada de cascateamento térmico.
+- <img src="../../../../assets/icons/human_09_black.svg" width="18px"> **[NT-002: Comparativo Fornos e Reatores](ENG-NT-002_COMPARATIVO-FORNOS-REATORES.md)**: Estudo comparativo com padrões industriais.
 
 ## Como Citar
 
@@ -433,4 +424,4 @@ Cada unidade T01 instalada em um ponto comunitário confere autonomia em:
 Takwara, F. R. (2026). *Memorial Técnico: Forno Ecológico T01 — Unidade Comunitária Replicável* (Versão 2.0). Projeto Mulheres Que Tecem a Floresta / Consórcio UnB/UFRR/UFAC. https://doi.org/10.5281/zenodo.18827106
 
 ---
-<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br>Consórcio Científico UnB / UFRR / UFAC<br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

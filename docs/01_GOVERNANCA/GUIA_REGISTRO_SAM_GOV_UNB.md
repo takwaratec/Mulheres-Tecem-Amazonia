@@ -1,27 +1,33 @@
 ---
 projeto: Mulheres Que Tecem a Floresta
-instituicao: Universidade de Brasília (UnB) — Gestora do Consórcio
-tipo: Guia de Governança Internacional
-referencia: GOV-SAM-001
-autor:
-- name: Curadoria Soberana MQTF
-date: '2026-04-02'
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: GUIA_REGISTRO_SAM_GOV_UNB.md
+status: Em Revisão
 ---
 
-# 🌐 Guia de Registro Internacional: SAM.gov e UEI
+### <img src="../assets/patterns/square_05_cyan.svg" width="22px">&nbsp; Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: GUIA_REGISTRO_SAM_GOV_UNB.md
+*   **Status**: Em Revisão
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+#  Guia de Registro Internacional: SAM.gov e UEI
 
 Este documento orienta o processo de registro da **Universidade de Brasília (UnB)** no System for Award Management (SAM) do governo federal dos Estados Unidos. Este registro é o pré-requisito para que a UnB, como gestora do consórcio MQTF, possa pleitear e receber recursos diretos de agências como PNUD, USAID e fundações americanas.
 
 ---
 
-## 🏛️ 1. O que é o SAM.gov e o UEI?
+## ️ 1. O que é o SAM.gov e o UEI?
 
 - **SAM.gov**: Portal centralizado de fornecedores e parceiros do governo dos EUA.
 - **UEI (Unique Entity ID)**: Um identificador alfanumérico de 12 caracteres que substituiu o antigo número DUNS. É o "CPF internacional" da instituição.
 
 ---
 
-## 🚀 2. Passo a Passo para a Profª Tânia (Gestão UnB)
+##  2. Passo a Passo para a Profª Tânia (Gestão UnB)
 
 ### Fase A: Preparação de Credenciais
 1.  **Login.gov**: Crie uma conta em [https://login.gov](https://login.gov) usando o e-mail institucional oficial. Este portal é a chave de segurança para todos os sistemas federais americanos.
@@ -51,7 +57,7 @@ Este documento orienta o processo de registro da **Universidade de Brasília (Un
 > [!WARNING]
 > **ASSISTÊNCIA GRATUITA**: O registro no SAM.gov é **gratuito**. Ignore e-mails de consultorias cobrando taxas para realizar o registro; o processo deve ser feito diretamente pelos servidores da UnB.
 
-## 🔗 3. Editais Prioritários para Encaminhamento (Profª Tânia)
+##  3. Editais Prioritários para Encaminhamento (Profª Tânia)
 
 Para que a UnB possa submeter as propostas curadas pelo Consórcio MQTF, é necessário que o registro UEI esteja avançado ou concluído para estes editais:
 
@@ -60,10 +66,9 @@ Para que a UnB possa submeter as propostas curadas pelo Consórcio MQTF, é nece
 
 ---
 
-## 🎯 Por que fazer agora?
+##  Por que fazer agora?
 
 Muitos editais de alto valor (como o **Zayed Sustainability Prize** e chamadas do **GEF/PNUD**) exigem o UEI ativo no ato da submissão ou na fase de due diligence. Ter o registro pronto posiciona a UnB como uma parceira de confiança técnica internacional, agilizando parcerias com o consórcio MQTF.
 
 ---
-
-<p align="center"><b>Curadoria Soberana MQTF</b><br>Equipe de Governança e Inteligência Territorial</p>
+<p align='center'><img src='../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

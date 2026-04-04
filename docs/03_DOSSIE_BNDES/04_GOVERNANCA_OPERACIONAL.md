@@ -1,25 +1,20 @@
 ---
 projeto: Mulheres Que Tecem a Floresta
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Governança e Estratégia
-referencia: 04_GOVERNANCA_OPERACIONAL
-status: Status Em Revisão
-author:
-- name: Consórcio UnB/UFRR/UFAC
-date: '2026-03-28'
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: 04_GOVERNANCA_OPERACIONAL.md
+status: Em Revisão
 ---
-
-![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 <p align="right"><i>"Nós somos a floresta que pensa."<br>— Davi Kopenawa</i></p>
 
-### <img src="../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
-**Projeto**: Mulheres Que Tecem a Floresta (MQTF)
-**Instituição**: Consórcio UnB / UFRR / UFAC
-**Referência**: 04_GOVERNANCA_OPERACIONAL.md
-**Status**: Status Em Revisão
-**Autor**: Consórcio UnB / UFRR / UFAC
-**Data**: 28 de Março de 2026
+### <img src="../assets/patterns/square_05_red.svg" width="22px">&nbsp; Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: 04_GOVERNANCA_OPERACIONAL.md
+*   **Status**: Em Revisão
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 # <img src="../assets/patterns/square_title_red.svg" width="30px"> Componente 4: Governança, Operacional e Financeiro
 
@@ -48,4 +43,4 @@ A viabilidade operacional do projeto é centralizada no **Canteiro-Escola de Rio
 A governança institucional garante total transparência na aplicação dos recursos do BNDES/Fundo Amazônia. Através de sistemas de Monitoramento, Relato e Verificação (MRV) geoespacial, o projeto rastreia os impactos em sequestro de carbono, regeneração de bambuzais e indicadores socioeconômicos, assegurando o cumprimento integral dos marcos regulatórios da biodiversidade (Lei 13.123/2015) e dos protocolos de consulta prévia.
 
 ---
-<p align="center"><img src="../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

@@ -1,35 +1,28 @@
 ---
 projeto: Mulheres Que Tecem a Floresta
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Bill of Materials (BoM-T10)
-referencia: ENG-BOM-T10-2026
-status: Ready
-author:
-- name: Consórcio UnB/UFRR/UFAC
-date: '2026-04-01'
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: ENG-BOM-T10_DETALHADO.md
+status: Consolidado
 ---
-
-![Status: Ready](https://img.shields.io/badge/Status-Ready-brightgreen)
 
 <p align="right"><i>"O Brasil, última nação a abrogar a escravidão, tem um compromisso terrível com o seu povo."<br>— Darcy Ribeiro</i></p>
 
-### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../../../assets/patterns/square_05_red.svg" width="22px">&nbsp; Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
-*   **Referência**: Bill of Materials — Catamarã Utilitário Solar T10 (Fase 1)
-*   **Status**: Ready (Consolidado)
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 01 de Abril de 2026
+*   **Referência**: ENG-BOM-T10_DETALHADO.md
+*   **Status**: Consolidado
 
----
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
-# <img src="../../../../../../assets/patterns/square_title_red.svg" width="30px"> BoM: Catamarã Utilitário Solar MQTF (Fase 1)
+# <img src="../../../../assets/patterns/square_title_red.svg" width="30px"> BoM: Catamarã Utilitário Solar MQTF (Fase 1)
 
 Este documento detalha o Bill of Materials para a construção do Catamarã Utilitário de **12,0 metros**, equipado com **propulsão dupla** (2 × 60 HP elétricos) para operação intercalada ou combinada, otimizado para logística de Unidades BSM e escoamento refrigerado via energia solar.
 
 ---
 
-## <img src="../../../../../../assets/patterns/square_01_red.svg" width="22px"> Premissa de Dimensionamento Solar
+## <img src="../../../../assets/patterns/square_01_red.svg" width="22px"> Premissa de Dimensionamento Solar
 
 ### Geometria do Teto e Captação
 
@@ -97,7 +90,7 @@ A irradiação global horizontal (GHI) na região do Alto Juruá apresenta a seg
 
 ---
 
-## <img src="../../../../../../assets/patterns/square_02_black.svg" width="22px"> 1. Módulos de Flutuação e Convés (Bio-Estrutural)
+## <img src="../../../../assets/patterns/square_02_black.svg" width="22px"> 1. Módulos de Flutuação e Convés (Bio-Estrutural)
 
 | Cód | Item | Descrição Técnica | Qtd | Unid | Custo Est. (R$) | Valuation (1.4x) |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -114,7 +107,7 @@ A irradiação global horizontal (GHI) na região do Alto Juruá apresenta a seg
 
 ---
 
-## <img src="../../../../../../assets/patterns/square_03_black.svg" width="22px"> 2. Propulsão Solar Dupla e Armazenamento (Fase 1)
+## <img src="../../../../assets/patterns/square_03_black.svg" width="22px"> 2. Propulsão Solar Dupla e Armazenamento (Fase 1)
 
 | Cód | Item | Descrição Técnica | Qtd | Unid | Custo Est. (R$) | Valuation (1.4x) |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -128,7 +121,7 @@ A irradiação global horizontal (GHI) na região do Alto Juruá apresenta a seg
 
 ---
 
-## <img src="../../../../../../assets/patterns/square_04_black.svg" width="22px"> 3. Câmara Fria e Logística Social
+## <img src="../../../../assets/patterns/square_04_black.svg" width="22px"> 3. Câmara Fria e Logística Social
 
 ### 3.0 Dimensionamento da Câmara Fria (Sob Convés)
 
@@ -177,7 +170,7 @@ A câmara fria é instalada **entre os cascos, sob o convés** — zona protegid
 
 ---
 
-## <img src="../../../../../../assets/patterns/square_06_black.svg" width="22px"> 4. Instrumentação e Navegação
+## <img src="../../../../assets/patterns/square_06_black.svg" width="22px"> 4. Instrumentação e Navegação
 
 | Cód | Item | Descrição Técnica | Qtd | Unid | Custo Est. (R$) | Valuation (1.4x) |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -191,7 +184,7 @@ A câmara fria é instalada **entre os cascos, sob o convés** — zona protegid
 
 ---
 
-## <img src="../../../../../../assets/patterns/square_07_black.svg" width="22px"> 5. Captação de Água e Potabilização
+## <img src="../../../../assets/patterns/square_07_black.svg" width="22px"> 5. Captação de Água e Potabilização
 
 | Cód | Item | Descrição Técnica | Qtd | Unid | Custo Est. (R$) | Valuation (1.4x) |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -209,7 +202,7 @@ A câmara fria é instalada **entre os cascos, sob o convés** — zona protegid
 
 ---
 
-## <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Resumo Financeiro — Catamarã T10 Solar (Fase 1 / Propulsão Dupla)
+## <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Resumo Financeiro — Catamarã T10 Solar (Fase 1 / Propulsão Dupla)
 
 | Módulo | CAPEX (R$) | Valuation 1.4x (R$) |
 |:---|:---|:---|
@@ -224,4 +217,4 @@ A câmara fria é instalada **entre os cascos, sob o convés** — zona protegid
 > **Soberania Energética e Hídrica**: Custo operacional de combustível fóssil: **R$ 0,00**. Custo de água potável: **R$ 0,00**. O T10 é autossuficiente em energia e água, com autonomia de 5–7 dias sem reabastecimento.
 
 ---
-<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br>Consórcio Científico UnB / UFRR / UFAC<br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

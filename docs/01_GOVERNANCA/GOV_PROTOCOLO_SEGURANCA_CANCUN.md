@@ -1,24 +1,20 @@
 ---
-projeto: Mulheres Que Tecem a Floresta 
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Documento de Governança (Salvaguardas)
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
 referencia: GOV_PROTOCOLO_SEGURANCA_CANCUN.md
-status: Status Em Revisão
-author:
-- name: Consórcio UnB/UFRR/UFAC
-date: '2026-03-28'
+status: Em Revisão
 ---
-
-![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 <p align="right"><i>"Soberania não se pede, se exerce."<br>— Princípio de Governança MQTF</i></p>
 
-### <img src="../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
-**Projeto**: Mulheres Que Tecem a Floresta (MQTF)
-**Instituição**: Consórcio UnB / UFRR / UFAC
-**Status**: Status Em Revisão (Apresentação GT Gestor)
-**Fundamentação**: Marco de Adaptação de Cancun & Convenção da Diversidade Biológica (CDB)
-**Data**: 28 de Março de 2026
+### <img src="../assets/patterns/square_05_cyan.svg" width="22px">&nbsp; Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: GOV_PROTOCOLO_SEGURANCA_CANCUN.md
+*   **Status**: Em Revisão
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 # <img src="../assets/patterns/square_title_red.svg" width="30px"> Protocolo Unificado de Governança e Salvaguardas de Cancún
 
@@ -71,4 +67,4 @@ A governança digital do projeto reflete a soberania política das comunidades:
 A admissibilidade de novas áreas depende da subscrição integral deste protocolo. Qualquer violação das salvaguardas implica na interrupção imediata das tranches de investimento e revisão do estatuto de parceria junto ao GT Gestor.
 
 ---
-<p align="center"><img src="../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

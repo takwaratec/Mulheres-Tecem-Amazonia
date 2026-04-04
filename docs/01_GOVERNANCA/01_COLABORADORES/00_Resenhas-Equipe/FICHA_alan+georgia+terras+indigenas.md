@@ -1,25 +1,30 @@
 ---
 projeto: Mulheres Que Tecem a Floresta
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Documento Técnico
-referencia: FICHA_alan+georgia+terras+indigenas
-status: Status Ready
-author:
-- name: Consórcio UnB/UFRR/UFAC
-date: '2026-03-26'
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: FICHA_alan+georgia+terras+indigenas.md
+status: Consolidado
 ---
+
+<p align="right"><i>"A educação não transforma o mundo. Educação muda as pessoas. Pessoas mudam o mundo."<br>— Paulo Freire</i></p>
+
+### <img src="../../../assets/patterns/square_05_cyan.svg" width="22px">&nbsp; Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: FICHA_alan+georgia+terras+indigenas.md
+*   **Status**: Consolidado
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+
+<p align="right"><i>"A educação não transforma o mundo. Educação muda as pessoas. Pessoas mudam o mundo."<br>— Paulo Freire</i></p>
+
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 ![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
 <p align="right"><i>"A educação não transforma o mundo. Educação muda as pessoas. Pessoas mudam o mundo."<br>— Paulo Freire</i></p>
 
-### <img src="../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
-*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
-*   **Instituição**: Consórcio UnB / UFRR / UFAC
-*   **Referência**: FICHA_alan+georgia+terras+indigenas.md
-*   **Status**: Status Consoliado
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 27 de Março de 2026
 
 Como Pesquisador Sênior e Analista de Dados do Projeto WTF (Mulheres Que Tecem a Floresta), apresento a FICHA CIENTÍFICA ESTRUTURADA do texto bruto fornecido, com a análise e conexão solicitadas.
 
@@ -27,11 +32,11 @@ Como Pesquisador Sênior e Analista de Dados do Projeto WTF (Mulheres Que Tecem 
 
 ### 1. METADADOS E CABEÇALHO
 
-* <img src="../../../../../assets/icons/human_03_black.svg" width="18px">   **projeto**: Mulheres Que Tecem a Floresta
-* <img src="../../../../../assets/icons/human_19_black.svg" width="18px">   **instituicao**: Consórcio UnB/UFRR/UFAC
-* <img src="../../../../../assets/icons/human_08_black.svg" width="18px">   **tipo**: Pesquisa: Amazônia Setentrional (PES)
-* <img src="../../../../../assets/icons/human_15_black.svg" width="18px">   **referencia**: PES-TEC-3899-2026
-* <img src="../../../../../assets/icons/human_01_black.svg" width="18px">   **status**: Ready
+* <img src="../../../assets/icons/human_03_black.svg" width="18px">   **projeto**: Mulheres Que Tecem a Floresta
+* <img src="../../../assets/icons/human_19_black.svg" width="18px">   **instituicao**: Consórcio UnB/UFRR/UFAC
+* <img src="../../../assets/icons/human_08_black.svg" width="18px">   **tipo**: Pesquisa: Amazônia Setentrional (PES)
+* <img src="../../../assets/icons/human_15_black.svg" width="18px">   **referencia**: PES-TEC-3899-2026
+* <img src="../../../assets/icons/human_01_black.svg" width="18px">   **status**: Ready
 
 **REFERÊNCIA BIBLIOGRÁFICA (ABNT):**
 
@@ -65,6 +70,4 @@ O fenômeno do turismo tem crescido em várias partes do mundo, considerado refl
 ---
 
 ---
-
----
-<p align="center"><img src="../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

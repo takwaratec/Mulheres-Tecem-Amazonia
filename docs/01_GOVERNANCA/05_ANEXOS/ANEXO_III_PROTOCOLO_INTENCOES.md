@@ -1,25 +1,20 @@
 ---
 projeto: Mulheres Que Tecem a Floresta
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Documento Técnico
-referencia: ANEXO_III_PROTOCOLO_INTENCOES
-status: Status Ready
-author:
-- name: Consórcio UnB/UFRR/UFAC
-date: '2026-03-26'
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: ANEXO_III_PROTOCOLO_INTENCOES.md
+status: Consolidado
 ---
-
-![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
 
 <p align="right"><i>"A vida é curta, a arte é longa."<br>— Machado de Assis</i></p>
 
-### <img src="../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
-**Projeto**: Mulheres Que Tecem a Floresta (MQTF)
-**Instituição**: Consórcio UnB / UFRR / UFAC
-**Referência**: ANEXO_III_PROTOCOLO_INTENCOES.md
-**Status**: Status Consoliado
-**Autor**: Consórcio UnB / UFRR / UFAC
-**Data**: 27 de Março de 2026
+### <img src="../../assets/patterns/square_05_cyan.svg" width="22px">&nbsp; Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: ANEXO_III_PROTOCOLO_INTENCOES.md
+*   **Status**: Consolidado
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 # <img src="../../assets/patterns/square_title_red.svg" width="30px"> ANEXO III: Protocolo de Intenções – Consórcio UnB/UFRR/UFAC
 
@@ -78,7 +73,7 @@ O processo de prospecção, negociação e formalização de adesões será coor
 
 | Eixo | Coordenadora GT | Vínculo | Estados |
 | :--- | :--- | :--- | :---: |
-| Cadeias de Valor e Bioeconomia | <img src="../../assets/icons/human_19_black.svg" width="18px"> **Profa. Dra. Sonia Marise Salles Carvalho** | UFAC | AM / RO |
+| Cadeias de Valor e Bioeconomia | <img src="../../assets/icons/human_19_black.svg" width="18px"> **Profa. Dra. Sonia Marise Salles Carvalho** | UnB | AM / RO |
 | Canteiro-Escola e Biorrefinaria | <img src="../../assets/icons/human_12_black.svg" width="18px"> **Profa. Dra. Tânia Cristina Cruz** | UnB / UFAC | AC |
 | Artesanato, Design e Bioeconomia Digital | <img src="../../assets/icons/human_16_black.svg" width="18px"> **Profa. Dra. Georgia Ferko** | UFRR | RR |
 
@@ -164,4 +159,4 @@ O processo de prospecção, negociação e formalização de adesões será coor
 <img src="../../assets/icons/human_07_black.svg" width="18px"> **6.3. Regulamentação Local**: A conformidade com regulamentações específicas dos estados do **Acre, Rondônia, Roraima e Amazonas** será objeto de verificação complementar durante o processo de adesão.
 
 ---
-<p align="center"><img src="../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

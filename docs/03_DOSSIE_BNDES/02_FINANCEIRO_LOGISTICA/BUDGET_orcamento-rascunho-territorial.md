@@ -1,25 +1,20 @@
 ---
 projeto: Mulheres Que Tecem a Floresta
-instituicao: Consórcio UnB/UFRR/UFAC
-tipo: Documento Técnico
-referencia: BUDGET_orcamento-rascunho-territorial
-status: Status Ready
-author:
-- name: Consórcio UnB/UFRR/UFAC
-date: '2026-03-26'
+instituicao: Consórcio UnB / UFRR / UFAC
+tipo: Documentação Técnica
+referencia: BUDGET_orcamento-rascunho-territorial.md
+status: Consolidado
 ---
-
-![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
 
 <p align="right"><i>"Não se faz ciência sem amor ao próximo."<br>— Oswaldo Cruz</i></p>
 
-### <img src="../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+### <img src="../../assets/patterns/square_05_red.svg" width="22px">&nbsp; Ficha Técnica e Metadados
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: BUDGET_orcamento-rascunho-territorial.md
-*   **Status**: Status Em Revisão
-*   **Autor**: Consórcio UnB / UFRR / UFAC
-*   **Data**: 27 de Março de 2026
+*   **Status**: Consolidado
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 # Orçamento: Mulheres Que Tecem a Floresta (R$ 30M)
 
@@ -83,9 +78,9 @@ O investimento em pessoas (OPEX) é desenhado para que, após 48 meses, a rede d
 ---
 
 ## Métricas de Controle
-- <img src="../../../../assets/icons/human_07_black.svg" width="18px">   **Alavancagem**: Cada R$ 1 investido em máquinas no Acre deve gerar capacidade produtiva para R$ 2 em serviços nos territórios.
-- <img src="../../../../assets/icons/human_11_black.svg" width="18px">   **Equidade**: Mínimo de 60% do orçamento de formação (Núcleo 2) destinado diretamente a mulheres e lideranças de base.
-- <img src="../../../../assets/icons/human_03_black.svg" width="18px">   **Carbono**: Custo por tonelada de CO2e removida monitorado via MRV automatizado.
+- <img src="../../assets/icons/human_07_black.svg" width="18px">   **Alavancagem**: Cada R$ 1 investido em máquinas no Acre deve gerar capacidade produtiva para R$ 2 em serviços nos territórios.
+- <img src="../../assets/icons/human_11_black.svg" width="18px">   **Equidade**: Mínimo de 60% do orçamento de formação (Núcleo 2) destinado diretamente a mulheres e lideranças de base.
+- <img src="../../assets/icons/human_03_black.svg" width="18px">   **Carbono**: Custo por tonelada de CO2e removida monitorado via MRV automatizado.
 
 ---
 
@@ -98,6 +93,4 @@ O investimento em pessoas (OPEX) é desenhado para que, após 48 meses, a rede d
 ---
 
 ---
-
----
-<p align="center"><img src="../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+<p align='center'><img src='../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

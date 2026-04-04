@@ -1,0 +1,44 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFAC/UFRR
+equipe: Gestão e Parceria Regional
+tipo: Acervo de Consulta (Ficha Técnica)
+autor_original: Not Identified
+equipe_tecnica: UnB/UFAC/UFRR
+ano_publicacao: '2025'
+---
+
+![Status: Em Revisão](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+
+<p align="right"><i>"Nós somos a floresta que pensa."<br>— Davi Kopenawa</i></p>
+
+### <img src="../../../../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: WTF_RES_aquecimento_global_bambu_urgente_um_tributo_a_al_gore.md
+*   **Status**: Status Em Revisão
+*   **Autor**: Consórcio UnB / UFRR / UFAC
+*   **Data**: 27 de Março de 2026
+
+<!-- image -->
+
+'O aquecimento global ocasionado pelo efeito estufa pode ser polêmico para alguns, porém é certo que nos últimos tempos a temperatura do planeta está aumentando. Uma das  causas  é  o  comportamento  humano  de  consumo desenfreado  dos  bens  naturais  sem  a  consciência  de restaura-lo. O reflorestamento com o Bambu, a meu ver, pode  contribuir  substancialmente  para  a  preservação  da natureza'.
+
+Izidoro Flumignan autor
+
+EDITOR : Izidoro de Hiroki Flum...
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+<p align="center"><img src="../../../../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>

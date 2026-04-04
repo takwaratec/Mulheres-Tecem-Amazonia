@@ -1,0 +1,660 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFAC/UFRR
+equipe: Gestão e Parceria Regional
+tipo: Acervo de Consulta RAW (Transcrição)
+autor: Acervo Digital Mulheres que Tecem a Floresta
+data: '2025'
+---
+UMA BIOECONOMIA INOVADORA PARA A AMAZÔNIA:
+CONCEITOS, LIMITES E TENDÊNCIAS PARA UMA DEFINIÇÃO
+APROPRIADA AO BIOMA FLORESTA TROPICAL
+FRANCISCO DE ASSIS COSTA, CARLOS NOBRE, CAROLINA GENIN, CAROLINE MEDEIROS ROCHA FRASSON, DANILO ARAÚJO FERNANDES, HARLEY SILVA, IARA VICENTE, INAIÊ TAKAES SANTOS, RAFAEL FELTRAN-BARBIERI, RAUL VENTURA NETO E RICARDO FOLHES
+D▪ESTAQUES
+Bioeconomia é um termo emergente, que oferece definições diferentes e ainda em disputa. Destaca-se nas agendas científica, política e econômica e tem
+▪ assumido importância crescente.
+As diferentes bioeconomias existentes devem ser
+avaliadas mais pelo seu processo produtivo do que
+▪ pelo produto em si.
+A bioeconomia em países industrializados emergiu como uma solução para a mitigação de emissões de gases de efeito estufa e a transição energética, mas não necessariamente voltada a valorizar ou
+▪ conservar a biodiversidade na Terra.
+Os valores principais de bioeconomia na Amazônia devem favorecer o fortalecimento de economias substantivamente enraizadas e compatíveis com um modelo de bioeconomia de floresta em pé e rios fluindo, com forte componente comunitário que valorize o conhecimento e os modos de vida das
+▪ populações tradicionais.
+As cidades amazônicas têm um papel fundamental para o desenvolvimento de uma bioeconomia bioecológica que tem como fim a conservação do bioma, pois os espaços urbanos são capazes de mediar e transformar as relações entre sociedade e natureza.
+   ÍNDICE
+Destaques .......................................................... 1
+Sumário executivo.................................................2
+1. Introdução........................................................2
+2. Definições atuais de bioeconomia ........................... 3
+3. Necessidades específicas de uma
+bioeconomia amazônica.........................................12
+4. Um conceito de bioeconomia apropriado para o bioma floresta tropical tendo como base a Amazônia brasileira....14
+5. Conclusões .....................................................16 Referências........................................................17 Notas.............................................................. 20
+Textos para discussão contêm análises, achados e recomendações preliminares. São divulgados para estimular discussões e comentários críticos, além de influenciar o debate sobre questões emergentes.
+Citação sugerida: Costa, F. et al. Uma bioeconomia inovadora para a Amazônia: conceitos, limites e tendências para uma definição apropriada ao bioma floresta tropical. Texto para discussão. São Paulo, Brasil: WRI Brasil. Disponível online em: https://wribrasil.org.br/pt/publicacoes
+   TEXTO PARA DISCUSSÃO | Junho de 2022 | 1
+ TEXTO PARA DISCUSSÃO
+
+ SUMÁRIO EXECUTIVO
+Este texto para discussão faz parte da iniciativa Nova Economia da Amazônia (NEA-BR) e pretende discutir o entendimento sobre bioeconomia no Brasil, suas conotações, limitações e tendências quando aplicadas à Amazônia Legal brasileira. Aponta também as necessidades específicas da bioeconomia nessa região – especialmente para o bioma floresta tropical –, quando se tem como objetivo salvaguardar e valorizar as diversidades biológica, cultural e social presentes na região.
+Bioeconomia é um termo emergente e com diferentes definições em disputa. Suas primeiras concepções
+e usos por instituições como a Organização para a Cooperação e Desenvolvimento Econômico (OCDE)
+e a União Europeia (UE) foram voltados à transição energética de economias dependentes de combustíveis fósseis para modelos baseados em insumos biológicos de origem agrícola, e não necessariamente biodiversas. Essas abordagens foram adotadas por instituições e setores econômicos brasileiros dedicados à produção de biocombustíveis e bioquímica em escala e são mais apropriadas a áreas agrícolas consolidadas.
+Recentemente a bioeconomia passou a ser identificada como um paradigma produtivo e reprodutivo relacionado a biomas de alta diversidade biológica, como as florestas tropicais, em especial a Amazônia. Entretanto, suas características divergem de uma bioeconomia voltada prioritariamente para uma transição energética e valorizam diversidades sociais, culturais e biológicas.
+Diante dessa nova fronteira do pensamento econômico e da necessidade de preservar o equilíbrio biótico e climático do planeta sem sacrificar o desenvolvimento local, entende-se que a bioeconomia em florestas tropicais como a Amazônia deve, principalmente,
+ter por fundamento a conservação integral do bioma
+– entendido como um sistema vivo, diverso e livre
+de desmatamento – e, ao mesmo tempo, integrar-se tanto a um sistema econômico como a uma paisagem socioecológica marcada pela interação com sociedades humanas e a floresta.
+Do ponto de vista socioecológico, a ideia de bioeconomia inclui a valorização dos conhecimentos dos povos tradicionais não linearmente acoplados aos conhecimentos científicos e tecnológicos. E mais que isso: contém a criação de uma parceria de alteridade, confiança e respeito recíproco entre as partes.
+O presente trabalho revisa diversas definições de bioeconomia e conclui que, entre as formulações disponíveis na literatura, a mais apropriada para
+uma floresta tropical como a Amazônia alinha-se prioritariamente com o conceito de bioeconomia bioecológica (Bugge, Hansen e Klitkou, 2016), fundamentada em um paradigma expresso em soluções locais apoiadas em diversidade, reúso de matéria e energia, manejo ecológico de espécies e das interações interespécies, redução de insumos e fontes de energia externas ao sistema e estratégias afins. Trata-se, portanto, de um conceito centrado na dinâmica econômica baseada nos fluxos de matéria e energia endogenamente produzidos, que busca diminuir o máximo possível qualquer tipo de dependência externa. A criação dessa dinâmica passa pelos espaços urbanos, pelo reconhecimento das cidades como fonte de criação econômica na região e por seu papel de mediador na interação entre sociedade e natureza.
+Por fim, são listadas condições sine qua non que o termo bioeconomia deveria buscar cumprir ao aterrissar nas áreas mais conservadas da Amazônia. O texto reconhece que é possível a implementação de diferentes tipos de bioeconomia nas áreas degradadas e de atividades rurais consolidadas na Amazônia Legal, mas, em áreas de floresta, uma bioeconomia inovadora e prioritariamente bioecológica deve prevalecer. Essa bioeconomia se diferencia das demais por ter como características: indução ao desmatamento zero; conservação da floresta; ordenamento territorial; combate a ilegalidades; manutenção dos direitos indígenas, de populações tradicionais e camponeses; distribuição justa de benefícios; investimentos em ciência e tecnologia e assistência técnica adequadas à sua produção. Essas condicionantes também devem ser adotadas por tomadores de decisão e investidores interessados em encorajar a bioeconomia na Amazônia, além de ser consideradas por esses tomadores de decisões como requisitos incontornáveis no desenvolvimento de uma bioeconomia amazônica inovadora e inclusiva.
+1. INTRODUÇÃO
+Considerando que se trata de um conceito em construção e sem ter a finalidade de defender uma definição única, inquestionável e inapelável, este texto para discussão busca comparar o entendimento sobre bioeconomia no Brasil, suas conotações, limitações e tendências quando aplicadas à Amazônia brasileira. Além disso, pretende apontar necessidades específicas da bioeconomia na Amazônia Legal – principalmente na sua parcela do bioma floresta tropical –, e questiona se as definições hoje em uso são adequadas à região
+ 2|
+
+quando se tem o objetivo de salvaguardar e valorizar as diversidades biológica, cultural e social presentes e preservar a integridade do bioma.
+Por fim, o documento reconhece que a bioeconomia que deveria prevalecer na região é a que segue a abordagem da bioeconomia bioecológica por ser mais aderente ao desafio de manter a floresta em pé e os rios fluindo, e ainda aponta condicionantes que tomadores de decisão e investidores interessados em encorajar a bioeconomia na Amazônia devem adotar.
+Mesmo como uma ideia emergente e que apresente definições diferentes ainda em disputa, a bioeconomia se destaca na agenda científica, política, econômica e ambiental e tem assumido importância crescente no início do século XXI.
+Embora o conceito tenha sido proposto nos anos
+1970 pelo economista romeno Nicholas Georgescu- Roegen, o debate foi retomado recentemente. Em 2017, pelo menos um país em cada continente tinha uma estratégia aprovada em bioeconomia, exceto na América Latina e na Austrália. Mas não necessariamente com definições convergentes. Entre os países biodiversos1, apenas Malásia, Tailândia e África do Sul tinham estratégias consolidadas. Na América Latina, a Costa Rica foi o primeiro país a publicar uma estratégia nacional dedicada à bioeconomia, em agosto de 2020 (IACGB, 2020). É um debate que nasce e é alimentado predominantemente em países desenvolvidos, para só depois ser adaptado para o contexto do sul global.
+Os debates internacionais sobre bioeconomia ganharam mais força depois que o termo passou a ser inserido
+em políticas de desenvolvimento econômico de nações europeias, dentro de estratégias que poderiam auxiliar o continente a migrar de uma economia dependente
+de combustíveis fósseis para uma economia baseada em insumos biológicos. Portanto, nesse contexto,
+a bioeconomia serviria como um instrumento de mitigação de emissões de gases de efeito estufa e transição energética, acompanhada da criação de novos empregos, tecnologias e abertura de mercados. Porém, essa proposta de bioeconomia não seria necessariamente voltada a valorizar ou conservar
+a biodiversidade na Terra ou um tipo de economia desenhado por e para regiões biodiversas como o Brasil, particularmente a Amazônia.
+2. DEFINIÇÕES ATUAIS DE BIOECONOMIA
+2.1 Bioeconomia: três linhas do debate contemporâneo
+Uma comparação entre as múltiplas definições de bioeconomia adotadas no Brasil e no exterior por diferentes setores e regiões revela como a palavra bioeconomia pode, às vezes, significar ideias bastante distintas – como, por um lado, uma monocultura
+ou, por outro lado, manejo sustentável de florestas nativas – para diferentes grupos de interesse e vertentes científicas. Conforme já apontado na literatura (Bugge, Hansen e Klitkou, 2016; Vivien et al., 2019), o prefixo bio carrega muita ambiguidade.
+Um estudo bibliométrico (Bugge, Hansen e Klitkou, 2016) identificou que se poderia classificar as definições de bioeconomia mais recorrentemente encontradas entre 2005 e 2014, em três abordagens: biotecnológica, de biorrecursos e bioecológica2. Os autores distinguem essas três rotas conceituais a partir de quatro critérios:
+a) Adesão dos objetivos básicos à sustentabilidade ou ao crescimento econômico;
+b) Principais estratégias de geração de excedente econômico;
+c) Principais vetores e mediadores de inovação;
+d) Abordagem espacial.
+De forma semelhante, Vivien et al. (2019) também identificam três tipos de visões ou narrativas sobre bioeconomia, com similaridades aos três tipos de Bugge, Hansen e Klitkou (2016). O primeiro tipo considera
+os limites da biosfera e se baseia principalmente nas ideias de Georgescu-Roegen (economia ecológica). O segundo tipo é baseado nas possibilidades de avanço científico, particularmente no desenvolvimento da biotecnologia, cujas ideias emergiram nos anos 1990 e 2000. Já o terceiro é orientado pela ideia de que a biomassa substituirá matérias-primas e combustíveis fósseis, por meio da adoção de modelos produtivos com processos análogos ou tecnologias similares (biorrefinarias).
+Mesmo sem assumir inteiramente a formulação e o recorte propostos por esses autores, as perspectivas que suscitam permitem uma ampla abordagem das diferentes agendas em bioeconomia hoje em discussão, conforme detalhado a seguir.
+Uma bioeconomia inovadora para a Amazônia
+  TEXTO PARA DISCUSSÃO | Junho de 2022 | 3
+
+ A bioeconomia biotecnológica tem como objetivo primordial o crescimento econômico e a geração de postos de trabalho e, secundariamente, o atendimento de critérios de sustentabilidade (Bugge, Hansen e Klitkou, 2016). Essa condição subordinada do critério ambiental apresentada pelos autores deriva da hipótese implícita de que a incorporação
+de tecnologias intensivas em ciência (no sentido do chamado modelo linear3) no processo de produção contribui para eficiência ambiental. Sendo mais intensivas em processos científicos de alta tecnologia, pressupõe-se que essas tecnologias e a economia que delas deriva sejam ambientalmente mais eficientes e, por consequência, sustentáveis4.
+Isso se ajusta à visão dos autores de que o debate da área assume um modelo de interação linear entre ciência, tecnologia e produção (Bugge, Hansen e Klitkou, 2016). A hipótese se estende também à eficiência produtiva, a qual seria crescente com a intensificação tecnológica. Assim, a aplicação de tecnologias na produção e sua penetração nos setores de comércio e serviços aparecem como principal fonte de criação de excedentes e dinamismo. O êxito do processo depende da existência de pesquisa e desenvolvimento tecnológico associados
+à ciência básica e aplicada. O progresso técnico é assumido como fonte da criação de novos processos, insumos, resolução de problemas de disponibilidade de recursos, aproveitamento e destinação de resíduos (Bugge, Hansen e Klitkou, 2016).
+Essa vertente da bioeconomia, na categorização proposta por Vivien et al. (2019), adota uma abordagem de “sustentabilidade fraca”, ou seja, não tem a integridade dos ecossistemas como uma premissa fundamental. Ela segue um paradigma tecnológico
+e produtivo em que o controle e degradação da integridade de um ecossistema é aceitável para fins de aumento de produtividade e eficiência de um processo econômico.
+A bioeconomia de biorrecursos se orienta pela necessidade de buscar maior equilíbrio na ponderação entre crescimento e sustentabilidade dos produtos e processos (Bugge, Hansen e Klitkou, 2016). Baseia-se na introdução de inovações de produtos provenientes da natureza, que são a principal fonte de criação
+de excedentes econômicos: inovação em materiais naturais; manejo e boas práticas extrativistas, redução e aproveitamento de resíduos; sistemas de uso em cascata5 das mesmas matérias-primas e opções similares. Tal qual a via biotecnológica, a via de biorrecursos é diretamente dependente de
+pesquisa e desenvolvimento científico, mas assume
+uma perspectiva mais aberta e abrangente em termos
+de campos de pesquisa. A interação e a colaboração entre setores intermediários, reunindo diferentes competências dentro das cadeias, passa a ser um elemento fundamental. Há aqui uma visão menos linear do processo pesquisa-ciência-desenvolvimento-consumo do que no caso da visão de biotecnologia, mas igualmente exigente em termos de custos e focada nos universos empresarial e científico.
+É notável que os autores não dediquem atenção à diversidade dos recursos e suas potenciais formas
+de inserção no mercado, ou seja, aos aspectos-chave da possibilidade de diversificação econômica com
+base na biodiversidade. Em contraste, o uso do solo é apresentado como elemento central na bioeconomia de biorrecursos. O aumento de produtividade e a intensificação do uso do solo, bem como a recuperação de áreas degradadas na produção de biocombustíveis, são apontados como vetores de inovação e crescimento (Bugge, Hansen e Klitkou, 2016). Processos que,
+no limite, levam a uma lógica mais ampla de homogeneização e não de diversificação.
+Na análise de Vivien et al. (2019), em relação a essa vertente da bioeconomia que se baseia na biomassa, é apontado o possível aumento de pressão sobre o uso de recursos naturais, incluindo os solos. Por esse motivo, essa concepção também está atrelada a uma abordagem de “sustentabilidade fraca”, uma vez que está vinculada às exigências de padronização e escala de um paradigma tecnológico e produtivo no qual produtividade e eficiência devem prevalecer sobre a conservação da integridade de um ecossistema.
+Já a bioeconomia bioecológica, na classificação de Bugge, Hansen e Klitkou (2016), diz respeito a sistemas econômicos nos quais o critério de sustentabilidade se sobrepõe aos de crescimento unilateral da economia. Trata-se aqui, a rigor, de um paradigma alternativo
+ao descrito nos dois casos anteriores, pois a criação de excedentes econômicos depende de processos em que prevalecem “promoção da biodiversidade, conservação dos ecossistemas, habilidade de prover serviços ecossistêmicos e prevenção de degradação do solo” (2016, p. 12). Nesses processos, o reúso e a reciclagem de resíduos, a redução de insumos externos a cada sistema produtivo, são assumidos como estratégias para criação de sistemas com intensa circulação interna de matéria, energia e valor econômico (Bugge, Hansen e Klitkou, 2016).
+ 4|
+
+Segundo os autores, os vetores de inovação, ganhos
+de produtividade e redução de custos na vertente bioecológica são práticas orgânicas e ecológicas, o
+que implica diminuir ou abandonar o uso de técnicas convencionais, intensivas em capital e de alto impacto ambiental negativo. Aqui também, pesquisa e inovação são aspectos-chave. No entanto, elas se dirigem para soluções locais, baseadas em diversidade, reúso
+de matéria e energia, além de manejo ecológico de espécies e de suas interações. É o caso de sistemas agrícolas que reduzem (ou eliminam) o uso de
+insumos agroquímicos e fontes de energia externas ao sistema. Predomina a busca de soluções produtivas/ reprodutivas baseadas em interações entre espécies e sistemas vivos, cujos resultados substituam parcial ou integralmente processos físicos, químicos e mecânicos convencionais, criando sistemas de ciclo completo, com forte componente de circularidade. A visão bioecológica apresentada converge com a vertente classificada por Vivien et al. (2019) como “compatível com os limites
+da biosfera”, uma abordagem de "sustentabilidade forte", em que a economia está limitada por restrições ecológicas estritas.
+Por fim, esses sistemas se caracterizam pela busca
+de protocolos de decisão, gestão e distribuição de excedentes com justiça social e inclusão (Bugge, Hansen e Klitkou, 2016). Bastos Lima e Palmer
+(2022), por exemplo, defendem uma bioeconomia restauradora, com ênfase não apenas na conservação e restauração dos ecossistemas, mas também nas melhorias de participação social e na distribuição de benefícios entre os diferentes atores que integram
+as cadeias de valor. Ademais, envolveria uma transformação de natureza ética, algo que também
+é mencionado como fator de inovação na visão bioecológica por Bugge, Hansen e Klitkou (2016) e outros autores brasileiros, como será discutido adiante.
+Soluções baseadas na natureza
+Importante destacar que a bioeconomia, às vezes, é associada a outro conceito polissêmico frequentemente mobilizado para qualificar princípios, produtos e serviços vinculados ao termo, chamado soluções baseadas na natureza (SBN). Grosso modo, SBN são entendidas como princípios e práticas econômicas
+que por se inspirarem ou copiarem processos naturais geram benefícios socioambientais. O portfólio de possibilidades encontrado na literatura é amplo, já
+que enquadra acordos internacionais e subnacionais para compensação de emissões de carbono por grandes corporações e países/regiões poluidores; produtos e
+serviços dirigidos à diminuição das emissões de carbono pelo agronegócio; infraestruturas verdes em áreas urbanas; criação de áreas de conservação públicas e privadas, entre muitas outras possibilidades.
+Pode-se indagar, com base nas três definições de bioeconomia já apresentadas nesta seção, que
+um conceito de SbN aplicável a uma bioeconomia bioecológica não deve subordinar de forma abstrata os processos ambientais às necessidades industriais ou financeiras do paradigma tecnológico e produtivo que prioriza produtividade e eficiência acima da integridade da natureza. Antes, deve estar atenta à promoção da biodiversidade por meio de soluções baseadas em diversidade relativas às especificidades socioecológicas do bioma e a uma ampla política de conhecimento dessas particularidades.
+Abordagem espacial
+Nesse momento, é importante destacar o quarto critério utilizado por Bugge, Hansen e Klitkou (2016) para distinguir as três rotas conceituais de bioeconomia:
+a abordagem espacial. Embora esse critério revele distintas implicações espaciais das propostas de bioeconomia, à luz deste documento, nenhuma se prova adequada para territórios sociobiodiversos, como a Amazônia.
+A inclusão por Bugge, Hansen e Klitkou (2016)
+do critério de distinção espacial permite discutir desdobramentos nos campos tecnológicos, agrários
+e urbanos dos três tipos de bioeconomia propostos.
+No entanto, tal critério tem vínculos implícitos com o aspecto básico da argumentação do trabalho que não
+é explorado pelos autores. Esse aspecto ainda é regido pelos papéis da ciência e da tecnologia presentes nessas formas de trabalho e que podem impactar diretamente a eficiência, a produtividade e a sustentabilidade das distintas bioeconomias em discussão. Por exemplo, a inclusão e a valorização do conhecimento e do trabalho dos povos originários não podem ser amplamente analisadas dentro dessas bioeconomias sem a inserção desse aspecto. Portanto, o critério espacial permite uma discussão sobre a importância que componentes sociais e tecnológicos têm de mediação entre sociedade e natureza, o que merece maior destaque em biomas povoados por diferentes culturas, como a Amazônia.
+No tratamento da linha biotecnológica, os autores destacam o protagonismo de plantas industriais de alto conteúdo tecnológico. Salientam a tendência à concentração empresarial e espacial dos segmentos
+Uma bioeconomia inovadora para a Amazônia
+  TEXTO PARA DISCUSSÃO | Junho de 2022 | 5
+
+ setoriais e técnicos protagonistas no processo, em função das exigências de escala, capacidade tecnológica e investimento. A pesquisa e o desenvolvimento das principais inovações tendem a concentrar-se em regiões especializadas, em torno dos principais agentes e aglomerações. A competição no ramo é internacional
+e se dá entre grandes agentes, que protagonizam e exercem influência sobre os mercados que lideram (Bugge, Hansen e Klitkou, 2016).
+Sem recorrer aos conceitos, os autores tratam de problemas conhecidos na literatura do desenvolvimento econômico regional: economias de aglomeração, economias externas e, menos explicitamente, o papel
+da vida urbana no dinamismo econômico. São questões recorrentes na literatura da área os papéis dessas forças econômicas emergentes6 nas aglomerações produtivas urbanas, na criação de inovações e tecnologia,
+na distribuição espacial de diferentes atividades econômicas e do próprio crescimento econômico.
+Em seguida, na discussão espacial das linhas
+de bioeconomia de biorrecursos e bioeconomia bioecológica, o trabalho as classifica como economias rurais e periféricas, mas se abstém de aprofundar
+a análise.
+Esse argumento é apresentado dentro de uma tipologia na qual se destaca o fato da bioeconomia biotecnológica possuir um padrão afeito ao “crescimento concentrado em um número limitado de regiões”, logo, oposto ao rural e ao periférico. Assim, a argumentação sugere que atividades do segmento de biorrecursos e bioecologia não têm associação com fenômenos econômicos espacialmente densos ou concentrados. Sugere também que a criação de economias de escala, aglomeração e urbanização não é típica ou não se ajusta a economias baseadas em biorrecursos ou de perfil bioecológico.
+A argumentação pode indicar ainda uma relação unidirecional entre atividades intensivas em ciência e tecnologia e aglomerações urbanas, que são economias dinâmicas, de maneira a insinuar que as primeiras geram as últimas, o que não é necessariamente verdadeiro.
+Na visão de bioeconomia bioecológica, que este trabalho adota para a Amazônia, o dinamismo presente nas aglomerações urbanas da região é fruto de uma relação bidirecional entre espaços rurais e urbanos, muitas vezes enraizadas na história da economia da região há pelo menos dois séculos, como mostra Silva (2017, 2021) para o caso do açaí.
+2.2 Bioeconomia: definições internacionais em disputa
+A União Europeia (UE) foi a grande propulsora do uso político recente do termo bioeconomia ao enxergar uma oportunidade estratégica de se investir em tecnologias baseadas em insumos de origem biológica (UE, 2007) alinhada à crescente demanda por revisões sustentáveis no paradigma produtivo atual à luz da crise climática. Políticas e estratégias econômicas foram desenvolvidas por diferentes países europeus desde o início dos anos 2000, com maior ou menor foco em inovação biotecnológica e energias renováveis. Em 2012, a UE apresentou a sua primeira estratégia dedicada à bioeconomia, cujo lema era “Inovando para o crescimento sustentável”, com foco orientado para
+o desenvolvimento de novas tecnologias e produtos,
+a abertura de novos mercados e empregos, além de manutenção da competitividade europeia, considerando a necessidade de reduzir dependência de energia fóssil e enfrentar as mudanças climáticas (EC, 2012).
+Entretanto, já a partir de 2009, o debate sobre a priorização do uso da terra para a produção de alimentos em vez de privilegiar a geração de energia levou a um enfraquecimento do apoio da opinião pública para os investimentos em biocombustíveis na Europa (Kaup e Selbmann, 2013; Purkus, Gawel, Thrän, 2017). Em 2018, uma nova estratégia foi publicada, ressaltando a natureza sustentável e circular da bioeconomia almejada, ainda que a primeira versão já trouxesse a necessidade de critérios de sustentabilidade (UE, 2018). Hoje, na Europa, os produtos que respondem pelos maiores valores de produção na bioeconomia (em sentido mais amplo, que inclui produção primária
+e alimentos e bebidas) são alimentos e rações
+(€ 1,17 trilhão), além de produtos industrializados baseados em recursos biológicos (bio-based industry) (€ 780 bilhões), que incluem produtos derivados de madeira, plásticos, químicos, farmacêuticos, papel e celulose, têxteis, biocombustíveis e bioenergia. Para fins de comparação, o PIB do bloco europeu em 2020 foi de € 15,3 trilhões (Banco Mundial, 2022).
+Nos Estados Unidos da América (EUA), em 2012, houve debate similar e a elaboração de uma estratégia nacional em bioeconomia (National Bioeconomy Blueprint) (White House, 2012), ocasião em que foi definida
+como “atividades econômicas impulsionadas pelo uso de pesquisa e inovação nas ciências biológicas” (p. 5), sugerindo que a bioeconomia ensejaria a descoberta de novos medicamentos e formas de diagnósticos para melhoria da saúde humana, variedades agrícolas de elevada produtividade, biocombustíveis para
+ 6|
+
+redução da dependência de petróleo e produtos da chamada química verde. Entre os objetivos estratégicos estavam: fortalecimento de P&D, acelerando a entrada de soluções de laboratório no mercado, redução de barreiras regulatórias, formação de força de trabalho e promoção de parcerias público-privadas.
+O surgimento da bioeconomia como um novo campo
+a moldar estratégias econômicas neste século também foi reforçado pela Organização para a Cooperação e Desenvolvimento Econômico (OCDE), que reconhece a existência de diferentes definições em uso no mundo e adota a de que o termo significa “uma série de atividades econômicas em que biotecnologia contribui centralmente para produção primária e a indústria. Especialmente em casos em que ciências biológicas avançadas são aplicadas para a conversão de biomassa em materiais, químicos e combustível” (OCDE, 2019). A OCDE também destaca a relevância da bioeconomia para a transição dos setores de energia, transporte e produção industrial para modelos menos dependentes em combustíveis fósseis.
+Na última edição do Global Bioeconomy Summit, em 2020, o relatório que descreve o status das políticas
+e estratégias nacionais dedicadas à bioeconomia reconhece que o termo ainda está em evolução e que os escopos e ênfases variam de acordo com o contexto e interesses de cada país. Nos países da América Latina
+e Caribe, o documento aponta uma tendência de associação da bioeconomia a um modelo alternativo para o desenvolvimento sustentável e crescimento verde e já reconhece avanços do estado do Amazonas no desenvolvimento de uma bioeconomia baseada em florestas tropicais (IACGB, 2020). Outro evento que é referência internacional na área – o World Bioeconomy Forum – foi realizado em 2021 no Brasil, pela primeira vez em um país tropical. A declaração final do evento7 afirma que bioeconomia é um processo que abrange muitas perspectivas e ecoa uma mensagem do Painel Científico para a Amazônia (Abramovay et al., 2021), qual seja a de que bioeconomia é mais do que um
+setor econômico; ela sintetiza um conjunto de valores ético-normativos sobre a relação entre a sociedade e a natureza e suas consequências.
+Em suma, o panorama global da bioeconomia se mostra extremamente dinâmico. Os intensos debates que colocaram em questão a sustentabilidade ambiental
+e social de produtos derivados do uso de biomassa
+em larga escala levaram ao desenvolvimento de inúmeras iniciativas e à própria revisão de conceitos e estratégias definidos nacionalmente. Nesse sentido, a Organização das Nações Unidas para a Alimentação e a
+Agricultura (FAO) tem mobilizado esforços para avançar em princípios que assegurem a sustentabilidade da bioeconomia. Tais princípios incluem a conservação de recursos naturais como água e solo, segurança alimentar e nutricional, além de mecanismos de governança para assegurar processos de consulta e gestão de riscos
+(FAO, 2021). De forma similar, a OCDE alerta que é necessário muito cuidado para que uma economia de base fóssil não seja substituída por uma bioeconomia não sustentável (OCDE, 2019, p. 70).
+2.3 Bioeconomia: definições nacionais em disputa
+Embora setores tradicionais com expressão na economia nacional, como o de bioenergia, tenham motivado o debate sobre bioeconomia no Brasil (IACGB, 2020), o país não possuía uma definição oficial até recentemente. Contudo, o termo já vem sendo trabalhado pelo
+governo federal brasileiro em diferentes ministérios, sendo o Ministério da Ciência, Tecnologia e Inovações (MCTI) aquele que mais se destaca por esses esforços recentes refletidos tanto no Plano de Ação em Ciência, Tecnologia e Inovação em Bioeconomia (MCTIC, 2018) quanto no projeto Oportunidades e Desafios da Bioeconomia (ODBio), conduzido com apoio do Centro de Gestão e Estudos Estratégicos (CGEE) entre 2020 e 2021 (CGEE, 2021).
+O documento de 2018 definiu bioeconomia como
+“o conjunto de atividades econômicas baseadas
+na utilização sustentável e inovadora de recursos biológicos renováveis (biomassa), em substituição às matérias-primas fósseis, para a produção de alimentos, rações, materiais, produtos químicos, combustíveis e energia produzidos por meio de processos biológicos, químicos, termoquímicos ou físicos, promovendo a saúde, o desenvolvimento sustentável, o crescimento nacional e o bem-estar da população” (MCTIC, 2018, p. 12). Na definição mais recente do ODBio, em que
+foi explorado o “espaço conceitual” da bioeconomia, a ênfase deixou de ser a substituição de matérias-primas fósseis, passando a ser “soluções eficientes no uso de recursos biológicos”, inclusive, serviços ambientais e proteção ambiental, “que promovem a transição para um novo modelo de desenvolvimento sustentável e de bem-estar da sociedade” (CGEE, 2021, p. 63). Ainda que seja uma definição abstrata, já denota a intenção de não se restringir a um objetivo estreito (mitigação de emissões de gases de efeito estufa) sob o qual corre o risco de promover ações que gerem impactos (ainda que não intencionais) prejudiciais ao bem-estar da sociedade, por exemplo.
+Uma bioeconomia inovadora para a Amazônia
+  TEXTO PARA DISCUSSÃO | Junho de 2022 | 7
+
+ Já o Ministério de Relações Exteriores (MRE) tem liderado a Plataforma Biofuturo8, cuja missão é
+acelerar a transição para uma bioeconomia global sustentável e de baixo carbono. A parceria com a Agência Internacional de Energia (AIE) já anuncia
+que a abordagem é fortemente associada à bioenergia.
+A definição de bioeconomia dessa iniciativa compreende “um conjunto de atividades econômicas relacionadas a invenção, desenvolvimento, produção e uso de produtos e/ou processos para a produção de energia renovável, materiais e químicos” (Biofuture Platform, 2018, p.12. Tradução nossa). Tal definição se associa fortemente ao paradigma dos biorrecursos.
+O Ministério da Agricultura, Pecuária e Abastecimento (Mapa), por sua vez, executa desde 2019 o programa Bioeconomia Brasil – Sociobiodiversidade por meio da Secretaria de Agricultura Familiar e Cooperativismo. O objetivo é ampliar a participação dos pequenos agricultores, agricultores familiares, povos e comunidades tradicionais e seus empreendimentos nos arranjos produtivos e econômicos que envolvam o campo da bioeconomia. Embora a portaria9 que cria
+o programa não apresente uma definição, um de seus objetivos é valorizar a diversidade biológica, social e cultural brasileira, além de apoiar a estruturação de arranjos produtivos e roteiros de integração em torno de produtos e atividades da sociobiodiversidade, de forma a contribuir para a geração de renda e inclusão produtiva. Além disso, trata-se de uma “bioeconomia que considere não apenas os avanços tecnológicos nos processos químicos, industriais e de engenharia genética,
+mas também aqueles resultantes do conhecimento tradicional e do uso sustentável da biodiversidade” (Mapa, 2019)10. Apesar de uma aparente aproximação com o paradigma bioecológico, é notável que a iniciativa conte com um orçamento de apenas R$ 15 milhões investidos diretamente pelo Mapa (2021a).
+No debate nacional, somam-se às iniciativas do governo projetos de relevantes entidades de classe. Argumenta-se que as atividades produtivas do agronegócio, por comercializarem ativos de origem biológica – plantas, animais, matéria orgânica e seus subprodutos –, seriam enquadradas na bioeconomia (Suinocultura industrial, 2020)11.Uma conceituação análoga a essa abordagem é a definição empregada pela Confederação Nacional da Indústria (CNI), em 2013, que compreende como “produção primária,
+ou agronegócio, que inclui a criação de plantas e animais e as aplicações veterinárias; produção de biocombustíveis; biotecnologia industrial, envolvendo o processamento e a produção de produtos químicos, plásticos e enzimas; aplicações ambientais, como
+biorremediação, biossensores e outros métodos
+para reduzir impactos ambientais; e saúde humana (particularmente biotecnologia médica), englobando novos procedimentos diagnósticos e terapêuticos, como farmacogenética, alimentos funcionais e equipamentos médicos” (Silva, Pereira e Martins, 2018, p. 287).
+Deve-se reconhecer a discordância de importantes representações de movimentos sociais e populares
+na Amazônia às noções atreladas à bioeconomia biotecnológica e de biorrecursos mobilizadas pelo debate nacional. Em documento elaborado pelo Conselho Nacional das Populações Extrativistas (CNS) e pela Coordenação das Organizações Indígenas da Amazônia Brasileira (Coiab), entre outras, durante o Encontro Amazônico da Sociobiodiversidade, realizado em Belém do Pará, em 2021, as críticas e preocupações foram explicitadas, sendo, grosso modo, dirigidas a processos de inovação e financiamento vinculados a homogeneização produtiva e desterritorializações.
+A Carta da Amazônia 2021 (Coiab, 2021)12 defende uma sociobioeconomia “alinhada com a ciência e a tecnologia para melhorar a coleta dos produtos florestais e
+da pesca, que permitam processar, armazenar e comercializar os produtos da sociobiodiversidade respeitando os nossos modos de vida”, opondo-se
+a “processos de inovação que resultem em pacotes tecnológicos e sistemas de produção de altos insumos, difundidos para substituir a floresta nativa por monocultivo de variedades geneticamente uniformes”.
+Outros exemplos são definições de governos e instituições subnacionais que também buscam diferenciar a bioeconomia da Amazônia das demais reconhecidas no país. O Governo do Estado do Amazonas estipula seu conceito de bioeconomia
+como “o conjunto de atividades econômicas de produção, fomento à produção, distribuição e consumo de bens e serviços provenientes de recursos da sociobiodiversidade amazônica de forma sustentável
+e inovadora” (Amazonas, 2016)13. Já a definição do Programa Prioritário de Bioeconomia (PPBio), iniciativa da Superintendência da Zona Franca de Manaus (Suframa), é “diversificar e impulsionar investimentos no contexto da política de incentivos fiscais, abrangendo soluções para a exploração econômica sustentável da biodiversidade” (Suframa, 2018)14.
+O Pará, por sua vez, vem desenvolvendo seu plano de bioeconomia com vistas “à transição econômica para matrizes de baixas emissões de gases de efeito estufa, resiliente aos impactos das mudanças climáticas, especialmente em um cenário de pós-pandemia,
+ 8|
+
+para geração de benefícios sociais, ambientais, econômicos e superação da pobreza por meio
+da sociobioeconomia”, com base em três eixos temáticos: i) pesquisa, desenvolvimento e inovação; ii) patrimônio genético e conhecimento tradicional associado; e iii) cadeias produtivas e negócios sustentáveis (Pará, 2021)15. O governo enfatiza
+que não se trata de “mera importação de conceitos
+de bioeconomia”, mas sim de uma construção dos amazônidas que responde às necessidades dos próprios amazônidas (Agência Pará, 2022).
+Se por um lado, os debates e as iniciativas citadas buscam aproximar o conceito de bioeconomia da realidade amazônica, introduzindo especificações e
+até mesmo orientando algumas atividades econômicas para a conservação do bioma e a valorização do conhecimento tradicional, por outro, é necessário reconhecer que eles ainda não têm tido impacto suficiente para fazer frente ao paradigma tecnológico e produtivo dominante, como tratado anteriormente, que hoje contribui para a degradação dos ecossistemas e das culturas locais.
+Os orçamentos dão a dimensão desse baixo impacto: enquanto o volume total do Plano Safra corresponde
+a R$ 251 bilhões (Mapa, 2021b), na Amazônia, o Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf) mobiliza cerca de R$ 2 bilhões ao ano, sendo que apenas R$ 55 milhões foram destinados a atividades de produção sustentável no bioma na safra 2019/20 (Pimenta, 2021). Já a Suframa, por exemplo, criou o Centro de Biotecnologia da Amazônia (CBA) há 20 anos para desenvolver a base científica e tecnológica para a bioeconomia biotecnológica, mas até hoje encontra dificuldades para produzir algo realmente inovador, enfrentando desde a falta de manutenção dos equipamentos até a indefinição de um modelo de gestão. Além disso, apesar de ser louvável a criação do PPBio, cabe notar que os recursos mobilizados nesse programa constituem um percentual ainda baixíssimo do volume total de contrapartidas financeiras estabelecidas pela Lei de Informática (Brasil, 2018) destinada a investimentos em Ciência, Tecnologia e Inovação. Entre 2020 e 2021, onze empresas investiram R$ 9,8 milhões vis-à-vis a aproximadamente R$ 700 milhões (Idesam, 2021a).
+2.4 Matriz comparativa
+Para auxiliar na compreensão das diferentes inclinações teóricas previstas na literatura e buscar um alinhamento com as principais tendências do debate mundial acerca do tema, este documento propõe uma matriz de análise que procura organizar uma representação gráfica dos principais atores e as características fundamentais
+das três vertentes mais relevantes do conceito de bioeconomia, conforme descritos por Bugge, Hansen e Klitkou (2016).
+Na matriz, estão organizadas as seguintes definições nacionais – Secretaria de Estado de Desenvolvimento Econômico, Ciência, Tecnologia e Inovação do Amazonas (Sedecti-AM), Painel Científico para a Amazônia, Amazônia 4.0, Ministério das Relações Exteriores (MRE), Secretaria de Agricultura Familiar e Cooperativismo do Ministério da Agricultura, Pecuária
+e Abastecimento (SAF/Mapa), Ministério da Ciência, Tecnologia e Inovações (MCTI) e Confederação Nacional da Indústria (CNI) – e internacionais – Comissão Europeia, Governo dos Estados Unidos, Organização para a Cooperação e Desenvolvimento Econômico (OCDE) e Organização das Nações Unidas para a Alimentação e a Agricultura (FAO).
+Além do aspecto geográfico, a matriz traz versões resumidas da definição de trabalho de cada uma dessas instituições, as fontes consultadas, o objetivo principal de cada iniciativa à qual a definição se vincula, o enfoque do território de origem, o quão importante é a inovação tecnológica para sua consolidação, sua relação com as diversas abordagens do tema sustentabilidade
+e a correspondência com as diversas tipologias trazidas pela literatura.
+O objetivo desse exercício é observar como o perfil de desenvolvimento aproxima determinados grupos de conceitos e as priorizações trazidas por eles e, também, quais são as diferenças entre as prioridades dos diversos grupos de interesse envolvidos nesse debate.
+Entre as referências internacionais, nota-se que
+poucas, para não dizer nenhuma, abordam questões que se mostram essenciais no contexto de uma floresta tropical como a Amazônia, sendo sua diversidade biológica e sociocultural a principal delas. Já no âmbito nacional, é possível identificar uma tendência recente de aproximação do conceito com a realidade amazônica, embora existam dúvidas, ou mesmo contradições,
+no que diz respeito à sua implementação, conforme descrito na seção anterior.
+Uma bioeconomia inovadora para a Amazônia
+  TEXTO PARA DISCUSSÃO | Junho de 2022 | 9
+
+Tabela 1 | Matriz comparativa de definições de bioeconomia
+Uma bioeconomia inovadora para a Amazônia
+                 ORGANIZAÇÃO
+FAO
+OCDE
+COMISSÃO EUROPEIA
+WHITE HOUSE
+MRE
+MAPA/SAF
+MCTI
+Toda a atividade econômica derivada de bioprocessos e bioprodutos que contribuem para soluções eficientes no uso de recursos biológicos – frente aos desafios em alimentação, produtos químicos, materiais, produção de energia, saúde, serviços ambientais e proteção ambiental – e que promovem a transição para um novo modelo de desenvolvimento sustentável e de bem-estar da sociedade.
+Inovação e uso sustentável dos recursos da diversidade biológica no Brasil.
+Inclui cidades, meios periurbanos, florestas e meio rural, pois contempla todo o território nacional.
+Central. A questão de inovação tecnológica é fundamental para o conceito.
+Do PACTI ao ODBio, parece ter havido um fortalecimento da preocupação com a conservação da biodiversidade, em adição à mitigação, completando o espectro da sustentabilidade.
+Combinação de elementos das três visões.
+Oportunidades e Desafios da Bioeconomia - Relatório ODBio Integrado (CGEE, 2021). https://www. cgee.org.br/documents/10195/6917123/ CGEE_ODBio_Rel_Int.pdf
+Desenvolvimento de uma nova indústria que se apropria das soluções desenvolvidas pela natureza para a produção de combustíveis, commodities químicas e moléculas de alto valor agregado, com aproveitamento tanto de recursos madeireiros quanto não madeireiros.
+Central. O documento foca em questões como a regulação do acesso a recursos genéticos, relação ICTs-empresa, propriedade intelectual e a concessão de patentes.
+Interiorização do desenvolvimento tecnológico e produtivo, beneficiando grupos sociais nos diversos níveis das cadeias produtivas.
+Central. Refletida nos princípios norteadores
+e no conceito de "redes de conhecimento produtivo" que integram saberes tradicionais e CT&I, de acordo com características próprias de cada território.
+Estímulo à "transição econômica para matrizes de baixas emissões de gases de efeito estufa, resiliente aos impactos das mudanças climáticas, (...), para geração de benefícios sociais, ambientais, econômicos e superação da pobreza por meio da sociobioeconomia."
+Central. A importância é refletida nos dois primeiros eixos temáticos, com destaque para o conhecimento tradicional associado aos recursos genéticos.
+Conservação do bioma, ao mesmo tempo em que permite tornar o Brasil uma liderança global em economia circular, aliando o conhecimento da biodiversidade com as possibilidades da Indústria 4.0.
+Central. Propõe-se a "fusão interativa de conhecimentos tradicionais, científicos e tecnológicos". Tem como um dos fundamentos o conhecimento intrínseco da floresta.
+Manutenção da integridade do bioma e dos povos que habitam a Amazônia.
+Central. Porém, conhecimento para inovar é mais importante que a tecnologia em si. As inovações podem ser de natureza social.
+Integridade dos ecossistemas (conservação e restauração de áreas degradadas), respeito e valorização dos conhecimentos tradicionais.
+Nesse sentido, as possibilidades de diversificação econômica devem se pautar na diversidade dos recursos existentes, e não em sua homogeneização.
+Central. Porém, de forma combinada com o conhecimento tradicional.
+CNI
+SEDECTI - AM
+SEMAS - PA
+AMAZÔNIA 4.0
+PAINEL CIENTÍFICO PARA A AMAZÔNIA
+NOVA ECONOMIA DA AMAZÔNIA (NEA-BR)
+                     ÂMBITO
+Definição de bioeconomia
+INTERNACIONAL
+Produção, utilização, conservação e regeneração de recursos biológicos – incluindo conhecimento relacionado, ciência, tecnologia e inovação – para fornecer soluções sustentáveis (informações, produtos, processos e serviços) em todas
+as áreas econômicas, possibilitando a transformação para uma economia sustentável (IACGB, 2020).
+INTERNACIONAL (PAÍSES INDUSTRIALIZADOS)
+Conjunto de atividades econômicas em que: i)
+a biotecnologia e as ciências da vida (também química e sua integração em particular) contribuem centralmente para a produção primária; e ii) a indústria contribui para construção da bioeconomia por meio da conversão de biomassa em alimentos, materiais, produtos químicos e combustíveis.
+REGIONAL
+Todos os setores e sistemas dependem
+de recursos biológicos (animais, plantas, microrganismos e biomassa derivada, incluindo resíduos orgânicos), suas funções
+e princípios. Inclui e interliga: ecossistemas terrestres e marinhos e os serviços que eles prestam. Assim, o conceito de bioeconomia é relacionado a todos os setores de produção primária que utilizam e produzem recursos biológicos (agricultura, silvicultura, pesca e aquicultura) e a todos os setores econômicos e industriais que usam recursos e processos biológicos para produzir alimentos, rações, produtos de base biológica, energia e serviços.
+NACIONAL (ESTADOS UNIDOS)
+Infraestrutura, inovação, produtos, tecnologia
+e dados derivados de processos e ciência biologicamente relacionados que impulsionam o crescimento econômico, melhoram a saúde pública, a agricultura, além de gerarem benefícios de segurança (security).
+NACIONAL (BRASIL)
+Conjunto de atividades econômicas relacionadas a invenção, desenvolvimento, produção e uso de produtos e/ou processos para a produção de energia renovável, materiais e químicos.
+Embora a portaria que define o programa Bioeconomia Brasil
+- Sociobiodiversidade não apresente o conceito, um de seus objetivos é valorizar a diversidade biológica, social e cultural brasileira, além de apoiar a estruturação de arranjos produtivos
+e roteiros de integração em torno de produtos e atividades da sociobiodiversidade de forma a contribuir para a geração de renda e inclusão produtiva. Considera não apenas os avanços tecnológicos nos processos químicos, industriais e de engenharia genética, mas também aqueles resultantes do conhecimento tradicional e do uso sustentável da biodiversidade.
+Atividades que empregam novas tecnologias a fim de originar uma ampla diversidade de produtos. Englobam as indústrias de processamento e serviços e estão relacionadas com o desenvolvimento e a produção de fármacos, vacinas, enzimas industriais, novas variedades vegetais e animais, bioplásticos e materiais compósitos, biocombustíveis, produtos químicos de base biológica, cosméticos, alimentos e fibras.
+Toda a cadeia de valor que é orientada pelo conhecimento científico avançado e a busca por inovações tecnológicas na aplicação de recursos biológicos e renováveis em processos industriais para gerar atividade econômica circular e benefício social e ambiental coletivo (ABBI).
+ESTADUAL - AMAZONAS
+Conjunto de atividades econômicas de produção, fomento à produção, distribuição
+e consumo de bens e serviços provenientes
+de recursos da sociobiodiversidade; além de estruturas de mercado (redes de conhecimento produtivo) pautadas em produtos e processos que partem de quatro princípios norteadores: 1) conservação da biodiversidade; 2) ciência
+e tecnologia voltadas ao uso sustentável
+da sociobiodiversidade; 3) diminuição das desigualdades sociais e territoriais; e 4) expansão das áreas florestadas biodiversas e sustentáveis.
+ESTADUAL - PARÁ
+Não há uma definição específica. O decreto
+que estabelece a estratégia para elaboração
+do plano estadual de bioeconomia tem como eixos temáticos: 1) pesquisa, desenvolvimento e inovação; 2) patrimônio genético e conhecimento tradicional associado; e 3) cadeias produtivas e negócios sustentáveis.
+BIOMA AMAZÔNICO
+Baseia-se em sete fundamentos:
+1) conhecimento acumulado representado pela biodiversidade amazônica; 2) habilidade de compreender o conhecimento intrínseco da floresta; 3) aplicação desse conhecimento acumulado para melhorar a vida humana;
+4) produção de bens e serviços a partir
+da biodiversidade; 5) construção de uma bioeconomia ao mesmo tempo local e global; 6) distribuição equitativa dos benefícios socioeconômicos; e 7) valorização intrínseca do bioma amazônico.
+BIOMA AMAZÔNICO
+Refere-se a uma bioeconomia de florestas em pé e rios fluindo, que se baseia em preceitos éticos e normativos para a transformação da relação entre sociedade e natureza, com apoio da ciência, tecnologia e inovação. Resume-se no lema: "mais que um setor, um imperativo ético".
+BIOMA AMAZÔNICO (BRASIL)
+    O projeto se concentra em uma bioeconomia
+de florestas em pé e rios fluindo. Nesse sentido,
+o conceito de bioeconomia é relacionado ao paradigma produtivo e reprodutivo (jeito de fazer), focado não no produto em si (açaí, bacaba ou castanha, por exemplo), mas sim no processo
+de produção (respeitando parâmetros de sociobiodiversidade, entre outros).
+ Objetivo primordial
+Alcance dos Objetivos de Desenvolvimento Sustentável (ODS), incluindo aqueles relacionados à produção e ao consumo sustentáveis, segurança alimentar
+e nutricional, mudanças climáticas, biodiversidade e meio ambiente. É possível gerar valor econcômico ao mesmo tempo em que melhora resultados ambientais e sociais.
+Crescimento econômico baseado na transição para uma economia de baixo carbono.
+Substituição de combustíveis e matérias- primas fósseis. Isso ocorreria por meio da redução de emissões de gases de efeito estufa, ao mesmo tempo em que haveria a criação de vantagem competitiva tecnológica.
+Desenvolvolvimento de atividades econômicas ligadas à biotecnologia e ao uso de biomassa produzida no país (ver relatório The Billion Ton Biomass (2016), que avaliou o potencial de produção e utilização de um bilhão de toneladas de biomassa renovável ao ano nos EUA).
+Promoção de energias renováveis e outros produtos a partir de biomassa.
+Desenvolvimento da agricultura familiar e do extrativismo.
+ Clusters nacionais com atividades industriais e de pesquisa científica.
+Integração de atividades no setor florestal (extrativismo) e de CT&I, por meio das "redes de conhecimento produtivo", em que as cidades desempenham papel relevante.
+Indefinido.
+Integração de atividades no setor
+florestal (extrativismo) e de CT&I sem necessariamente envolver centros urbanos. Um dos fundamentos é a "construção de uma bioeconomia ao mesmo tempo local e global".
+Integração de áreas urbanas e florestas.
+A infraestrutura urbana, tanto em grandes centros quanto em municípios rurais, é crítica para dinamizar a bioeconomia.
+Cidades como elemento de mediação da relação entre sociedade e natureza, visando conter sua fragmentação, e de geração e difusão de tecnologias, atuando como fonte de criação econômica.
+Enfoque territorial
+Integração de atividades do setor primário (meio rural) e indústria (meio urbano), visando os mercados de energia e materiais principalmente.
+ Relevância da tecnologia
+O documento trata de biodiversidade como um ativo para a quarta revolução industrial. Contudo, não há enfoque na sustentabilidade.
+A sustentabilidade é importante para essa vertente, tendo em vista os os princípios da bioeconomia amazônica listados acima.
+Indefinida ainda, porém potencialmente importante. O decreto remete à Lei Estadual
+no 9048/2020, de mudanças climáticas, cujas diretrizes incluem, entre outras, a "conservação da cobertura vegetal original e o combate
+à destruição de áreas de vegetação natural remanescente, para garantir a conservação da biodiversidade e o alto estoque de biomassa
+e carbono". Destaca-se também o caráter participativo da elaboração do plano.
+A sustentabilidade é importante para essa vertente. Além da integridade ecológica, visa a inclusão social e o respeito aos povos tradicionais amazônicos.
+A sustentabilidade é importante para essa vertente. Além da integridade ecológica,
+visa a inclusão social e o respeito aos povos tradicionais amazônicos, além da valorização cultural.
+A sustentabilidade é importante para essa
+vertente. A diversificação econômica é lastreada
+e impulsionada pela diversidade natural e social específicas do bioma. Além de ter a manutenção de sua integridade como objetivo primordial, essa visão adota como pré-requisitos: ordenamento territorial, respeito e valorização das culturas e conhecimentos tradicionais, inclusive pela combinação destes com ciência e inovações tecnológicas, distribuição justa de benefícios, entre outros.
+Relação com aspectos de sustentabilidade
+Atividades ligadas ao setor florestal e à agricultura, tanto em países desenvolvidos quanto em desenvolvimento.
+Não é central.
+Central. Biotecnologia e ciências biológicas são determinantes fundamentais de competitividade internacional.
+Central. Concepção voltada para o cultivo e processamento de biomassa. A definição da estratégia de 2018 exclui biomedicamentos e aplicações da biotecnologia na área de saúde.
+Central. Há preocupações relacionadas a segurança cibernética (dados) e defesa nacional, e os
+quatro vetores de desenvolvimento tecnológico:
+1) ciências da vida (biologia, botânica, agronomia, microbiologia etc.); 2) biotecnologia; 3) engenharia; e 4) ciência da computação e informática.
+Central. Concepção voltada para o cultivo e processamento da biomassa.
+Não é central. O conhecimento tradicional é o ponto focal dessa concepção.
+Visão integradora orientada pelos ODS.
+Clusters globais e regiões centrais urbanas com atividades industriais e de pesquisa científica.
+Centralidade na questão climática, sem observar explicitamente biodiversidade.
+Integração de atividades do setor primário (meio rural) e indústria (meio urbano), visando os mercados de energia e materiais principalmente.
+Os critérios de sustentabilidade e natureza circular da bioeconomia passaram a ter maior relevância com a revisão de 2018.
+Clusters globais e regiões centrais urbanas com atividades industriais e de pesquisa científica.
+Mitigação das mudanças climáticas é um dos objetivos a serem alcançados. A sustentabilidade é pressumida.
+Foco no objetivo de descarbonização
+das economias e nos critérios de sustentabilidade dos produtos baseados em biomassa.
+Áreas rurais ocupadas pela agricultura familiar.
+ A sustentabilidade é importante. Conservação da biodiversidade é prioritária em relação a mudanças climáticas.
+ Associação com tipologias de Bugge, Hansen e Klitkou (2016)
+Fontes
+Visão de biorrecursos com elementos da Visão de biorrecursos, focada nos múltiplos Combinação de elementos da visão biotecnológica Predominância da visão de biorrecursos,
+bioecológica. Visão biotecnológica. usos da biomassa. com a de biorrecursos. focada nos múltiplos usos da biomassa, com Visão bioecológica.
+aspectos da biotecnológica.
+Visão biotecnológica
+Visão bioecológica.
+Indefinida ainda, mas a referência à "sociobioeconomia" sugere uma aproximação com a visão bioecológica.
+Visão bioecológica.
+Visão bioecológica.
+Visão bioecológica prioritariamente.
+ Bioeconomy for a sustainable future (FAO, 2021). https://www.fao.org/ publications/card/en/c/CB6564EN
+Innovation systems in the Bioeconomy (OCDE, 2019). https://www.oecd-ilibrary.org/docserver/e2e3d8a1-en. pdf ?expires=1645193516&id=id&accname=guest&che- cksum=056E653DCC077E6CF9410CD23EC35D0A
+A sustainable bioeconomy for Europe
+(UE, 2018). https://op.europa.eu/en/ publication-detail/-/publication/edace3e3- e189-11e8-b690-01aa75ed71a1/language-en/ format-PDF/source-149755478
+Summary White House Summit on
+America’s Bioeconomy (White House, 2019). https://trumpwhitehouse.archives.gov/wp-content/ uploads/2019/10/Summary-of-White-House-Summit- on-Americas-Bioeconomy-October-2019.pdf
+Biofuture Platform. http://www.biofutureplatform.org/
+https://www.gov.br/agricultura/pt-br/assuntos/camaras-setoriais- tematicas/documentos/camaras-setoriais/hortalicas/2019/58a-ro/ bioeconomia-dep-saf-mapa.pdf
+Bioeconomia e a indústria brasileira (CNI, 2020). https:// www.portaldaindustria.com.br/publicacoes/2020/10/ bioeconomia-e-industria-brasileira/
+Diretrizes para a Construção Conceitual da Bioeconomia no Amazonas (SEDECTI, 2021). http://www.sedecti.am.gov.br/wp-content/ uploads/2021/12/Nota_Tecnica_001_ BIOECONOMIA_CTI_Bioeconomia_no_ Amazonas.pdf
+Decreto no 1.943, de 21 de outubro de 2021. https:// leisestaduais.com.br/pa/decreto-n-1943-2021-pa- ra-institui-a-estrategia-estadual-de-bioeconomia- -do-para-reconhece-o-grupo-de-trabalho-inte- rinstitucional-para-estrategia-estadual-de-bioeco- nomia-gteeb-e-da-outras-providencias-leia
+Projeto “Amazônia 4.0” (Nobre & Nobre, 2019). http://www.plataformademocratica. org/Arquivos/Futuribles2/Futuribles2_ ProjetoAmaz%C3%B4nia4.0.pdf
+Science Panel for the Amazon (2021). Amazon Assessment Report 2021. https://www.theamazonwewant.org/ wp-content/uploads/2021/11/211112-Amazon- Assessment-Report-2021-Part-III-reduced.pdf
+Este próprio texto para discussão.
+ 10 |
+TEXTO PARA DISCUSSÃO | Junho de 2022 | 11
+      
+ 3. NECESSIDADES ESPECÍFICAS DE UMA BIOECONOMIA AMAZÔNICA
+Para caracterizar a bioeconomia na Amazônia e
+suas principais contribuições e tendências, foram analisados os registros de diversos eventos realizados virtualmente16 e literatura sobre o tema. Essas atividades abertas ao público convocaram diversos grupos de interesse capazes de influenciar a agenda de bioeconomia, incluindo instituições públicas e privadas, organizações engajadas em atividades de elaboração de políticas públicas, de lobby e de pesquisa aplicada, bem como grupos de interesses promocionais de causas de diversas naturezas.
+Através da análise desses momentos privilegiados de interlocução, nota-se que três temas são constantes no debate sobre bioeconomia na Amazônia: a conservação do ativo florestal por meio da exploração sustentável de produtos florestais (principalmente não madeireiros); o ordenamento territorial com combate a ilegalidades, incluindo a grilagem de terras; e o reconhecimento às contribuições das comunidades indígenas, tradicionais, quilombolas e de agricultores familiares na viabilização dessa economia de base florestal no bioma amazônico e a distribuição justa de seus benefícios.
+3.1 A conservação e a regeneração do ativo florestal através do manejo sustentável
+Os debates explicitam que a conservação do ativo florestal deve ser prioridade dentro de qualquer
+modelo de crescimento econômico local atrelado
+à biodiversidade, mas requer investimentos em infraestrutura sustentável. A maior parte da produção florestal não madeireira está localizada em áreas florestais remotas, com dificuldades relativas a logística, conectividade e até mesmo disponibilidade de serviços básicos, como energia, água e telecomunicações.
+A distribuição de serviços essenciais na Amazônia
+não se sobrepõe aos hubs produtivos da ponta das cadeias florestais. Mesmo os mais elementares serviços de apoio aos negócios, como contabilidade, são complexos para serem acessados em regiões de maciços florestais17. Diminuir essa lacuna é essencial para que
+a gestão dos negócios florestais possa atingir níveis
+de capilaridade de forma sustentável na Amazônia profunda. Entre os principais pontos mencionados estão as necessidades de conectividade e energia elétrica descentralizada (mini-grids).
+Ao lado dessa condição fundamental, as demandas
+por tecnologia industrial e assistência técnica estão entre as principais necessidades dos empreendimentos locais para a conservação do ativo florestal através da exploração sustentável. Apenas 15% dos municípios da Amazônia brasileira possuem infraestrutura industrial para produzir matérias-primas, como gorduras, óleos e polpa (Brandão et al., 2021).
+O projeto Cidades Florestais, desenvolvido pelo Instituto de Conservação e Desenvolvimento Sustentável da Amazônia (Idesam), é um exemplo de como ciência, tecnologia e assistência técnica podem mudar a realidade. As ações de apoio a produção, gestão e comercialização junto a dez organizações sociais (associações e cooperativas), em diversos municípios
+do Amazonas, incluem a provisão de infraestrutura,
+de equipamentos e assistência técnica para instalação e operação de fábricas de processamento de produtos florestais não madeireiros, além de fomento ao manejo florestal comunitário madeireiro. O maquinário industrial aumentou a capacidade das organizações comunitárias de agregar valor aos produtos primários e de comercializar produtos como óleos de andiroba (Carapa spp.), breu (Protium sp), entre outros. Além da construção de miniusinas, o projeto investiu em procedimentos de licenciamento ambiental, segurança no trabalho, certificação florestal, tratamento de resíduos, reformas, ferramentas gerenciais, serviços
+de contabilidade e instalação de internet via satélite (Walendorff, 2020; Idesam, 2021b, 2022).
+Importante ressaltar que a valorização dos ativos florestais está calcada no uso dos bens e serviços oferecidos pela floresta em pé, mas também na reabilitação das paisagens florestais através da regeneração natural, da regeneração natural assistida e do manejo das capoeiras e juquiras via desenvolvimento dos sistemas agroflorestais (SAF). Dados do censo agropecuário de 2017 mostram que o Valor Bruto
+da Produção Agropecuária (VBP) de produtos da floresta em pé na Amazônia Legal é R$ 971 milhões
+(em 2017), quase metade do VBP do desmatamento, que soma R$ 2,2 bilhões. O papel da agricultura familiar é patente nesse processo de valorização da floresta. Agricultores familiares detêm 19% das florestas contidas nos estabelecimentos rurais da Amazônia,
+mas são responsáveis por nada menos do que 87% do VBP oriundo da extração de produtos da floresta em pé. Os dados não permitem avaliar o VBP oriundo dos SAF, mas o WRI Brasil estimou, utilizando regressões
+ 12 |
+
+espaciais (modelos SAR/SEM), que cada hectare de SAF trabalhado por agricultores familiares aumenta, significativamente, o VBP dos produtos extrativistas em R$ 506,04. Para produtores não familiares, o VBP marginal é de R$ 68,77 (IBGE, 2019).
+Por fim, a conservação do ativo florestal por meio da exploração sustentável de produtos florestais não exclui produção madeireira via concessões florestais ou para recuperação de terras degradadas (Brienza-Júnior et al., 2008). Porém, é preciso que as concessões florestais passem por profunda reforma a fim de atender as necessidades das populações locais e não reforçar a exploração predatória e perdulária (Brasil, 2006).
+3.2 Ordenamento territorial e combate à ilegalidade
+A questão do uso e ocupação do solo na região amazônica sempre foi matéria de disputas, em
+especial, disputas entre indivíduos privados. Na lógica da extração de madeira, a ilegalidade não ocorre em paralelo ao sistema posto, mas sim em decorrência dele. O modelo de extrativismo predatório é compatível com a extração ilegal de madeira, uma vez que os sistemas de fiscalização e certificação da madeira foram desenhados para que a regularidade seja custosa e
+de difícil alcance, e a irregularidade, ineficazmente combatida. Adicionalmente, as sucessivas mudanças
+no Código Florestal, que postergam a data final para que beneficiários de posses regularizem sua ocupação perante o Governo Federal, fomentam novas invasões e ondas de especulação fundiária (Observatório do Código Florestal, 2021).
+O fato de comunidades locais terem diversas vezes buscado desenvolver soluções para contribuir com
+o ordenamento territorial e o combate à ilegalidade demonstra a relevância desse tema. A luta pela demarcação de Reservas Extrativistas (Resex), e a própria criação do conceito de Resex pelo movimento dos seringueiros do Acre (Cunha, 2010), é um exemplo de solução para dilemas fundiários que nasce das emergências socioambientais e da agência das próprias comunidades afetadas (Oliveira, 2016). Através
+da criação do conceito de Resex e das Unidades de Conservação de Uso Sustentável, movimentos sociais, cientistas e sociedade civil organizada contribuíram para criar e consolidar mecanismos de ordenamento territorial que respondessem a questões complexas, como propriedade coletiva da terra, direitos geracionais difusos e proteção à floresta nativa e biodiversidade.
+Essas conquistas podem ser ainda mais fortalecidas
+por outras ações governamentais, a exemplo do que ocorreu recentemente no Amazonas, com a entrega pelo governo estadual de Concessões de Direito Real de Uso (CDRUs), inclusive, a comunidades que vivem fora de áreas protegidas, o que traz luz ao conceito de Território de Uso Comum (TUC)18.
+Na ausência de mecanismos de comando e controle estatais, especificamente de fiscalização ambiental em Áreas Protegidas, comunidades ribeirinhas também tomaram a frente da definição da proteção da natureza local, em especial do pescado, fonte de renda e alimentação principal dessas comunidades. É o caso dos Acordos de Pesca realizados no âmbito comunitário das várzeas do rio Amazonas (Oviedo et al., 2015; McGrath et al., 1999), onde comunidades ribeirinhas, parceiros de organizações não governamentais e outras instituições da sociedade civil se mobilizaram para criar alternativas para a gestão da pesca e das águas de seus territórios. Soluções que nasceram no âmbito civil foram, em alguns casos, incorporadas em soluções vinculadas ao poder público, como é o caso de zoneamentos específicos de determinadas regiões (D’Almeida, 2006).
+3.3 A distribuição justa de benefício e o reconhecimento das contribuições das comunidades indígenas e tradicionais à economia de base florestal e aos serviços ecossistêmicos
+Apesar dos termos bioeconomia amazônica e bioeconomia indígena serem relativamente novos, já existem processos produtivos relevantes conduzidos pelas próprias comunidades, com apoio de parceiros públicos e privados. Esses processos alimentam as economias local, nacional e internacional com produtos agrícolas, florestais, superalimentos e experiências culturais com fortes raízes nas formas tradicionais
+de organização comunitária. Além de promoverem serviços ecossistêmicos, como regulação do regime
+de chuvas, remoção de carbono por regeneração
+de áreas degradadas e pela própria manutenção da floresta primária.
+Um exemplo é a pimenta do tipo jiquitaia, produzida por povos do Alto Rio Negro, inclusive o povo Baniwa, e comercializada como artigo culinário de luxo no Brasil e no exterior (Pimenta Baniwa). A caminhada de um produto de consumo local até tornar-se uma iguaria comercial passou pelo trabalho das associações
+Uma bioeconomia inovadora para a Amazônia
+  TEXTO PARA DISCUSSÃO | Junho de 2022 | 13
+
+ indígenas de base comunitária, em especial da Organização Indígena da Bacia do Içana (Oibi), que
+há duas décadas trabalha para garantir os direitos
+dos povos da região, e da Federação das Organizações Indígenas do Rio Negro (FOIRN), com três décadas de experiência em prol dos 23 povos do rio Negro. Por essa articulação, o Sistema Agrícola Tradicional do Rio Negro foi reconhecido como Patrimônio Imaterial Brasileiro pelo Instituto do Patrimônio Histórico e Artístico Nacional (Iphan), em 2010, motivando a valorização,
+os esforços e a continuação da comercialização e divulgação da Pimenta Baniwa em mercados nacionais
+e internacionais.
+As unidades produtivas da Pimenta Baniwa, na condição de bem agroindustrial comercializado, são pequenas agroindústrias chamadas “Casas de Pimenta”, lideradas pelas estruturas de base comunitária da Oibi. Os produtos são embalados e comercializados nas próprias comunidades ao longo das margens do rio Içana em produção de baixa escala. É importante notar que,
+ainda que haja um relevante papel dos parceiros na viabilização das pimentas, a decisão pela comercialização está calcada nas prioridades definidas pela própria comunidade. Nas palavras de Franklin Baniwa: “as comunidades continuam intactas em termos ambientais, culturais e tradicionais, mas desenvolvidas do ponto
+de vista econômico, político e social (...) a Autonomia Política, Social e Econômica do Povo Baniwa ocorreu e ocorre por vontade e luta própria.” (Baniwa, 2016).
+Outro exemplo é a Cooperativa Central de Comercialização Extrativista do Acre (Cooperacre),
+que tem sede na capital acreana, Rio Branco, e três fábricas em operação que processam a produção de
+25 cooperativas e associações (da Fonseca, Cartaxo
+e Wadt, 2018) distribuídas por 12 municípios. De
+acordo com dados de 2015, a Cooperacre processava, por ano, 1,3 mil toneladas de castanha-da-amazônia (Bertholletia excelsa) e 400 mil toneladas de polpa de frutas, comercializando também o tradicional látex de seringueiras nativas (Oliveira, 2016). Sua fundação está diretamente ligada ao movimento de resistência contra
+a invasão de fazendeiros paulistas em áreas florestais
+no estado, que promoviam desmatamento e despejo
+de famílias seringueiras, forçando-as a se mudarem
+para as periferias das cidades. Dos processos sociais e políticos impulsionados pela resistência dos seringueiros vieram inovações como as Reservas Extrativistas e
+a estruturação de cadeias produtivas florestais não madeireiras, como as das cooperativas associadas à Cooperacre (Oliveira, 2016).
+4. UM CONCEITO DE BIOECONOMIA APROPRIADO PARA O BIOMA FLORESTA TROPICAL TENDO COMO BASE A AMAZÔNIA BRASILEIRA
+Como exposto, ainda que existam diferentes bioeconomias, apenas nas abordagens de bioeconomia bioecológica e bioeconomia restauradora o critério
+de sustentabilidade se sobrepõe ao de crescimento unilateral da economia.
+Uma bioeconomia na Amazônia representa, de
+certa forma, uma nova fronteira para o pensamento econômico se sua implementação tiver como premissa a conservação do equilíbrio biótico e climático do planeta sem prejudicar o desenvolvimento socioeconômico e
+o bem-estar das populações que vivem nesses biomas. Aqui, o conceito de escala de produção esbarra com o de escala de ecossistemas, onde o equilíbrio do bioma depende da conservação da biodiversidade terrestre e aquática de vastas áreas.
+Propõe-se que a bioeconomia em uma floresta tropical, como a Amazônia, deva ser um sistema econômico cujo fundamento é a existência concreta do bioma, considerado como um sistema vivo, diverso e livre de desmatamento, marcado por uma interação positiva, respeitosa e sustentável com sociedades humanas. Isso inclui a valorização e a inserção dos conhecimentos dos povos tradicionais no desenvolvimento dessa bioeconomia e sua ciência.
+Adicionalmente, entende-se que as cidades amazônicas exercem papel-chave na promoção dessa bioeconomia devido à sua capacidade de mediação entre sociedade
+e natureza. O atributo que áreas urbanas possuem de articular, intensificar, ampliar e criar tendências de diversificação econômica é estratégico para manter e viabilizar uma bioeconomia bioecológica na Amazônia.
+Antes que surgissem mercados autorregulados, indústrias e o Estado Moderno, as cidades e os assentamentos urbanos forneceram a plataforma de criação social e econômica que permitiu a relação de estabilidade das sociedades locais com a natureza.
+A emergência da interação indústria-mercado, com sua enorme ampliação de produtividade e intensificação da transformação do espaço, matéria e energia, deslocou a cidade da condição de mediação privilegiada.
+ 14 |
+
+Nesse sentido, é importante questionar se a mediação pela indústria, e sua infraestrutura correspondente, que tradicionalmente implica grande escala e
+elevada homogeneidade, entre outras características, é compatível, em médio ou longo prazo, com diversificação econômica baseada em biodiversidade, em especial em economias periféricas, como a amazônica, em relação ao resto do Brasil e ao mundo.
+Como visto na Seção 2, a distinção feita por Bugge, Hansen e Klitkou (2016) entre as três abordagens de bioeconomia inclui os desdobramentos regionais e urbanos associados a cada modalidade. Contudo, não exploram como os diversos aparatos espaciais e técnicos de mediação entre sociedade e natureza permitem
+às cidades assumirem diferentes configurações integradoras em cada uma dessas modalidades.
+Nota-se que na Amazônia, um dos fundamentos
+da criação social, técnica e econômica é sempre
+a diversidade do mundo natural19. Os registros históricos dão conta de que a vida urbana na região tradicionalmente articula e amplia as possibilidades sociais, técnicas e econômicas de relação entre sociedade e natureza. Esse é o sentido de considerar uma mediação urbana entre sociedade e natureza
+como fonte de criação econômica na região. Ou seja, considera-se que a riqueza e a flexibilidade das estruturas e práticas urbanas estão na origem da própria formação de mercados como estruturas de trocas recorrentes, descentralizadas e diversas.
+O trabalho não refuta que na Amazônia Legal brasileira é possível ter a implementação de diferentes abordagens de bioeconomia como estratégia de desenvolvimento regional contanto que sigam determinados princípios comuns amplamente acordados e debatidos. Porém, destaca-se a importância da bioeconomia bioecológica ser a abordagem predominante nas áreas de floresta tropical, principalmente onde há florestas biodiversas em pé e rios saudáveis fluindo, de forma a não
+impactar os ecossistemas terrestres e aquáticos.
+Logo, bem entendida, uma bioeconomia deve ser avaliada principalmente pelo seu processo produtivo e reprodutivo, mais do que pelo produto em si (açaí ou castanha, por exemplo).
+Isso significa que, na Amazônia, o fortalecimento, a expansão e a diversificação dos sistemas econômicos da região a partir de uma conexão enriquecedora, que considere a diversidade do bioma (e não em oposição a ele), serão um desafio e uma oportunidade para o desenvolvimento dessa bioeconomia.
+O propósito é que se constitua um padrão e um modelo de desenvolvimento no qual a diversificação econômica seja lastreada e impulsionada pelas diversidades natural e social presentes de maneira específica no bioma amazônico. Não se trata de somente trazer conhecimentos de fora, mas incorporar de maneira inovadora a junção de conhecimentos tradicionais, diversos e plenos àqueles trazidos pela ciência e tecnologia modernas.
+A necessidade do protagonismo das comunidades de base, das cooperativas e de suas lideranças na consolidação da bioeconomia é pauta constante das discussões do setor.
+As tecnologias sociais de fortalecimento comunitário podem ser desenvolvidas pelas próprias comunidades, frutos de parcerias com organizações de assistência técnica, organizações não governamentais, de processos de aceleração ou políticas públicas inovadoras.20 Portanto, novamente, a bioeconomia na Amazônia
+deve existir e ser estimulada como processo endógeno, impulsionado a partir de sua própria realidade, privilegiando conhecimento, contribuições e tecnologias desenvolvidas a partir da própria região.
+Entre as atividades econômicas estratégicas para
+essa bioeconomia estão o desenvolvimento rural agroecológico ou agroflorestal materializado em trajetórias fundamentadas em sistemas agroflorestais (SAF) (Costa et al., 2021); a exploração sustentável de produtos florestais não madeireiros com agregação de valor; a prospecção, descoberta e valorização de ativos farmacêuticos com repartição de benefícios em conformidade com o Protocolo de Nagoia; ecoturismo sustentável e outras modalidades não invasivas e coexistentes com as dinâmicas florestais.
+Conclusivamente, as últimas seções buscam mostrar que, quando aterrissa na Amazônia, o termo bioeconomia precisa observar algumas condições sine qua non:
+Uma bioeconomia inovadora para a Amazônia
+ ▪
+▪ restauração de áreas degradadas;
+Respeito e valorização dos povos indígenas, comunidades locais e agriculturas familiares, cujas culturas e conhecimentos tradicionais contribuem
+▪ para o uso sustentável dos recursos biológicos;
+Valorização de conhecimentos tradicionais como elementos norteadores da ciência e das inovações tecnológicas;
+Integridade dos ecossistemas, zero desmatamento e
+zero degradação florestal, conciliando conservação e
+ TEXTO PARA DISCUSSÃO | Junho de 2022 | 15
+
+ ▪ Ordenamento territorial, incluindo a destinação de terras públicas e a garantia dos direitos à terra dos povos indígenas, povos e comunidades tradicionais e agricultores familiares (Azevedo-Ramos et al.,
+▪ 2020; Moutinho et al., 2022);
+Distribuição justa dos benefícios gerados pela comercialização de produtos da floresta e pela valorização dos serviços ecossistêmicos (que não se
+▪ limitam à renda);
+Apoio aos povos indígenas e comunidades locais rurais e urbanas para o adensamento de suas economias locais por meio da valorização de
+suas diferentes formas de produção e integração econômica. Assim também, o fortalecimento de estratégia de verticalização da atividade produtiva com o intuito de gerar o maior nível de agregação de valor para os diversos produtos da biodiversidade
+▪ amazônica e de bem-estar para as comunidades;
+Criação de oportunidades econômicas que permitam fazer frente a atividades ilegais que destroem os ecossistemas e aumentam a violência, em especial, grilagem e exploração ilegal de madeira e ouro (Soares, Pereira e Pucci, 2021; Waisbich et
+▪ al., 2022);
+Implantação de uma infraestrutura sustentável de transportes, energia e telecomunicação compatível com a conservação dos ecossistemas terrestres e aquáticos da floresta, que respeite as territorialidades e atenda aos interesses
+e necessidades prioritários das economias substantivas dos indígenas, quilombolas, Parques Científicos e Tecnológicos (PCTs) e agricultores familiares.
+5. CONCLUSÕES
+Existem várias necessidades específicas para o desenvolvimento e a consolidação de uma bioeconomia prioritariamente bioecológica (Bugge, Hansen e Klitkou, 2016) na Amazônia. A conservação da floresta, o ordenamento territorial, o combate a ilegalidades, a manutenção dos direitos indígenas, a valorização dos conhecimentos locais e transgeracionais, a distribuição justa de benefícios, os investimentos em ciência e tecnologia e a assistência técnica são algumas das principais necessidades dos empreendedores locais ligados aos produtos florestais.
+Ações para viabilizar essas demandas, por meio de iniciativas públicas e privadas, são mais do que necessárias para desenvolver uma bioeconomia amazônica eficaz. E, por isso, devem se tornar
+condicionantes para tomadores de decisão e investidores interessados em encorajar a bioeconomia na Amazônia a partir de soluções amparadas em um paradigma de tecnologia e produção que coloque a integridade do bioma, incluindo sua sociobiodiversidade, como objeto central e não secundário de suas atividades.
+A organização social, por seu turno, é um elemento-chave da consolidação de uma bioeconomia amazônica. Ela requer conhecimentos e ferramentas variadas e multidisciplinares para planejar e gerenciar empresas, associações e cooperativas de produtos florestais. É importante considerar os custos da organização social nas propostas de bioeconomia bioecológica, tendo em vista que o Estado não irá unicamente garanti-los. Dessa forma, investimentos acoplados a uma organização social inovadora na Amazônia devem adquirir relevância na agenda política do desenvolvimento regional, a fim de expandir a autonomia das populações locais na gestão de
+seus territórios.
+Ao contrário de outros modelos econômicos de países em desenvolvimento – quase sempre copiados de modelos que deram certo em países desenvolvidos –, essa nova bioeconomia para a maior floresta tropical
+do planeta deve ser criativamente implantada, pois
+não existem outros países tropicais que a tenham desenvolvido. E as cidades amazônicas podem e
+devem ajudar a mediar esse processo de inovação
+entre sociedade e natureza. Esta é uma oportunidade única para o Brasil criar, de forma endógena, uma bioeconomia que poderá contribuir para salvar as florestas tropicais, combatendo as mudanças climáticas, a fome e a desigualdade e, ao mesmo tempo, valorizando os povos indígenas e as comunidades locais.
+ 16 |
+
+REFERÊNCIAS
+Abramovay et al. (2021). The new bioeconomy in the Amazon: Opportunities and challenges for a healthy standing forest and flowing rivers. Science Panel for the Amazon.
+Agência Pará (2022). Pará apresenta eixos estratégicos em evento virtual do Fórum Mundial de Bioeconomia, 8 abr. 2022. Disponível em: https:// agenciapara.com.br/noticia/36142/.
+Amazonas. Lei Estadual n° 4.419, de 29 de dezembro de 2016, publicado no DOE de 29.12.2016, Poder Executivo, p. 41.
+Azevedo-Ramos at al. (2020). Lawless land in no man’s land: The undesignated public forests in the Brazilian Amazon. Land use policy 99, 104863.
+Banco Mundial (2022). World Bank Open Data. https://data.worldbank.org/.
+Baniwa, F. (2016). Desenvolvimento sustentável e autonomia política social e econômica do Povo Baniwa, Brasil. Proceedings from the COMBIOSERVE Conference Community Conservation in Latin America: innovations in research and practice. Disponível em: https://www.global-diversity.org/ wp-content/uploads/2016/02/BaniwaFranklin-COMBIOSERVE-Desenvolvi mientoSustentavelBaniwaBrasil.pdf.
+Bastos Lima, M. G., e Palme, U. (2022). The Bioeconomy–Biodiversity Nexus: Enhancing or Undermining Nature’s Contributions to People? Conservation 2, p. 7–25. https://doi.org/10.3390/conservation2010002.
+Bergamo, D., Zerbini, O., Pinho, P., Moutinho, P. (2022). The Amazon bioeconomy: Beyond the use of forest products, Ecological Economics (no prelo), 107448.
+Biofuture Platform (2018). Creating the Biofuture: A Report on the State of the Low Carbon Bioeconomy. Brasília: Biofuture Platform. Disponível em: http://www.biofutureplatform.org/_files/ugd/dac106_ f28f692c4e9242d9b4552da29e612a74.pdf ?index=true.
+Brasil (2006). Lei de Gestão de Florestas Públicas (Lei N 11.284). Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11284. htm.
+___ (2018). Lei no 13.674, de 11 de junho de 2018. Lei da Informática.
+Brandão, D.O.; Barata, L.E.S.; Nobre, I.; Nobre, C.A. The effects of Amazon deforestation on non-timber forest products. Reg. Environ. Chang. 2021, 21, 122, doi:10.1007/s10113-021-01836-5.
+Brienza-Júnior, S. Pereira, J.F.; Yared, J.A.G.;Mourão-Júnior, M.; Gonçalves, D.A.; Galeão, R.R. Recuperação de áreas degradadas com base em sistema de produção florestal energético-madeireiro: indicadores de custos, produtividade e renda. Amazônia: Ci. & Desenv., v. 4, n. 7, 2008.
+Bugge, M. M., T. Hansen, e A. Klitkou (2016). “What is the
+bioeconomy? A review of the literature.” Sustainability 8.7: 691. https://doi. org/10.3390/su8070691.
+Centro de Gestão e Estudos Estratégicos - CGEE (2021). Oportunidades
+e Desafios da Bioeconomia - Relatório ODBio Integrado. Brasília: CGEE. Disponível em: https://www.cgee.org.br/documents/10195/6917123/CGEE_ ODBio_Rel_Int.pdf.
+Coiab (2021). Carta da Amazônia 2021: aos participantes da 26a Conferência das Nações Unidas sobre Mudanças Climáticas (COP26). Encontro Amazônico da Sociobiodiversidade. Belém, PA. Disponível em: https://coiab. org.br/documentos
+Confederação Nacional da Indústria – CNI (2020). Bioeconomia e a indústria brasileira. https://www.portaldaindustria.com.br/publicacoes/2020/10/ bioeconomia-e-industria-brasileira/
+Costa. F. A.; Ciasca, B.S.; Castro, E.C.C.; Barreiros, R.M.M.; Folhes, R.T.; Bergamini, L.L.; Solyno Sobrinho, S.A.; Cruz, A.; Costa, J. A.; Simões, J; Almeida, J.S; Souza, H.M. (2021). Bioeconomia da sociobiodiversidade no estado do Pará; The Nature Conservancy (TNC Brasil), Banco Interamericano de Desenvolvimento (BID), Natura: Brasília, DF, Brasil; pp. 1-37.
+Cunha, C. C. (2010). Reservas extrativistas: institucionalização e implementação no estado brasileiro dos anos 1990. Rio de Janeiro: UFRJ.
+D’Almeida, B.G. (2006). Os acordos de pesca na Amazônia: Uma perspectiva diferenciada de gestão das águas. In: XV Encontro Preparatório do Conselho Nacional de Pesquisa e Pós-graduação em Direito—Recife, CONPEDI, Recife, 1-15.
+Da Fonseca, F., Cartaxo, C.B.C., Wadt, L.H.O. (2018). Manejo de castanhais nativos no acre: aspectos ecológicos, econômicos e sociais. Third International Conference Agriculture and Food in an urbanizing Society, Porto Alegre/RS. Disponível em: https://ainfo.cnptia.embrapa.br/digital/ bitstream/item/194505/1/26786.pdf.
+European Commission, Directorate-General for Research and Innovation, Innovating for sustainable growth: a bioeconomy for Europe, Publications Office, 2012, https://data.europa.eu/doi/10.2777/6462.
+European Commission, Directorate-General for Research and Innovation, A sustainable bioeconomy for Europe : strengthening the connection between economy, society and the environment : updated bioeconomy strategy, Publications Office, 2018. https://data.europa.eu/ doi/10.2777/792130.
+Food and Agriculture Organization – FAO (2021). Aspirational principles and criteria for a sustainable bioeconomy. Roma: FAO. Disponível em: https:// www.fao.org/3/cb3706en/cb3706en.pdf.
+Instituto Brasileiro de Geografia e Estatística – IBGE (2019). Agropecuário, identificação e Localização do Estabelecimento. Censo Agropecuário 2017. Disponível em: https://sidra.ibge.gov.br/pesquisa/censo-agropecuario/ censo-agropecuario-2017
+International Advisory Council on Global Bioeconomy – IACGB (2020). Global Bioeconomy Policy Report (IV): A decade of bioeconomy policy development around the world. Disponível em: https://gbs2020.net/wp- content/uploads/2020/11/GBS-2020_Global-Bioeconomy-Policy-Report_ IV_web.pdf.
+Instituto de Conservação e Desenvolvimento Sustentável da Amazônia – Idesam (2021a). Apresentação geral PPBio – Estratégia de investimentos em Bioeconomia na Amazônia Ocidental e Amapá – Ciclo 2020-2021. Disponível em: https://bioeconomia.org.br/estatisticas/.
+Uma bioeconomia inovadora para a Amazônia
+  TEXTO PARA DISCUSSÃO | Junho de 2022 | 17
+
+ ___ (2021b). Cidades florestais. Disponível em: https://idesam.org/ projetos/cidades-florestais/.
+___ (2022). Associações celebram R$ 4,3 milhões em produtos vendidos via Cidades Florestais. Comunicação Idesam, 2 mai. 2022. Disponível em: https://idesam.org/noticia/associacoes-celebram-r-43-milhoes-em- produtos-vendidos-via-cidades-florestais/.
+Jacobs, J. (1969). The economy of cities. Random House.
+Kaup, F., Selbmann, K. (2013). The seesaw of Germany’s biofuel policy – Tracing the evolvement to its current state, Energy Policy 62, p. 513–521, https://doi.org/10.1016/j.enpol.2013.08.024.
+Lefebvre, H. (2014). The critique of everyday life: the one-volume edition. London: Verso Books.
+Liu, Y. et al. (2019). Cascade utilization of lignocellulosic biomass to high- value products. Green Chemistry, v. 21, n. 13, p. 3499-3535, 2019.
+McGrath D, de Castro F, Câmara E and Futemma C. (1999). Community Management of Floodplain Lakes and the Sustainable Development of Amazonian Fisheries. In Padoch C,Ayres JM, Pinedo-Vasquez M and Henderson A. Advances.
+Ministério da Agricultura, Pecuária e Abastecimento – Mapa (2019). Programa de bioeconomia Brasil: sociobiodiversidade. Disponível em: https://www.gov. br/agricultura/pt-br/assuntos/camaras-setoriais-tematicas/documentos/ camaras-setoriais/hortalicas/2019/58a-ro/bioeconomia-dep-saf-mapa.pdf
+___ (2021a). Bioeconomia Brasil leva capacitação e inovação para agricultores familiares desde 2019. 16 set. 2021. https://www.gov.br/ agricultura/pt-br/assuntos/noticias/bioeconomia-brasil-leva-capacitacao- e-inovacao-para-agricultores-familiares-desde-2019.
+___ (2021b). Plano Safra 2021/2022. Disponível em: https://www.gov.br/ agricultura/pt-br/assuntos/politica-agricola/plano-safra/2021-2022.
+Ministério da Ciência, Tecnologia, Inovações e Comunicações – MCTIC (2018). Plano de Ação em Ciência, Tecnologia e Inovação em Bioeconomia. Brasília: MCTIC.
+Moutinho, P. et al. (2022). Destinação de Florestas Públicas: Um meio
+de combate à grilagem e ao desmatamento ilegal na Amazônia. Projeto Amazônia 2030. Disponível em: https://amazonia2030.org.br/wp-content/ uploads/2022/03/AMZ2030_30.pdf.
+Nobre, I., & Nobre, C. (2019). Projeto ‘Amazônia 4.0’: Definindo uma Terceira Via para a Amazônia. Futuribles, São Paulo, (2), 7-20.
+___ , Encalada, A. et al., (2021). Amazon Assessment Report-2021. Science Panel for the Amazon Disponível em: www.theamazonwewant.org.
+Observatório do Código Florestal (2021). Código Florestal: avaliação 2017/2020. Disponível em: https://ipam.org.br/wp-content/uploads/2021/12/ O-avanco-da-implementacao-do-Codigo-Florestal-no-Brasil-IPAM_V11-1-1. pdf
+Organização para a Cooperação e o Desenvolvimento Econômico - OCDE (2019). Innovation systems in the Bioeconomy. Paris: OCDE. Disponível em: https://www.oecd-ilibrary.org/docserver/e2e3d8a1-en.pdf?expires=164519 3516&id=id&accname=guest&checksum=056E653DCC077E6CF9410CD23 EC35D0A.
+Oliveira, R. (2016). Relações interorganizacionais da cooperativa central de comercialização extrativista do Acre – Cooperacre. 2016. 143 f. Dissertação (Mestrado em Administração) - Programa de Pós-Graduação Mestrado em Administração (PPGA), Fundação Universidade Federal de Rondônia (UNIR), Porto Velho, 2016.
+Oviedo, F.P. et al. (2015). Agora sob nova administração: acordos de pesca nas várzeas da Amazônia brasileira. Ambiente & Sociedade, São Paulo, v.
+8, n. 4, p. 119-138, out./dez. 2015. Disponível em: http://www.scielo.br/scielo. php?script=sci_arttext&pid=S1414-753X2015000400008&lng=pt&nrm=iso.
+Pará. Decreto estadual no 1.943, de 21 de outubro de 2021.
+Pessoa Jr. O. (2013). Emergência e redução: uma introdução histórica e
+filosófica. Ciência e Cultura, v. 65, n. 4, p. 22-26.
+Pimenta, C. (2021). Finanças que impactam: estudo sobre oportunidades de financiamento para a cadeia da castanha-do-Brasil / Carina Pimenta, Monika Roper, Mauri Andrade. 1. ed. Belém, PA: Conexsus.
+Polanyi, K. (2012). A subsistência do homem e ensaios correlatos. Rio de Janeiro: Contraponto.
+Purkus, A., Gawel, E., Thrän, D. (2017). Addressing uncertainty in decarbonisation policy mixes – Lessons learned from German and European bioenergy policy, Energy Research and Social Science 33 (2017) 82–94, https://doi.org/10.1016/j.erss.2017.09.020.
+Science Panel for the Amazon – SPA (2021). Amazon Assessment
+Report 2021 – Part III. C. Nobre et al. (eds.) United Nations Sustainable Development Solutions Network, New York, USA. Disponível em: https:// www.theamazonwewant.org/wp-content/uploads/2021/11/211112-Amazon- Assessment-Report-2021-Part-III-reduced.pdf.
+Secretaria Executiva de Ciência, Tecnologia e Inovação do Estado do Amazonas / Secretaria de Estado de Desenvolvimento Econômico, Ciência, Tecnologia e Inovação do Amazonas – SEDECTI - AM (2021). Diretrizes para a Construção Conceitual da Bioeconomia no Amazonas. Notas Técnicas: Ciência, Tecnologia e Inovação na Bioeconomia Amazônica. Manaus: Governo do Amazonas. Disponível em: http://www.sedecti.am.gov.br/ wp-content/uploads/2021/07/NT_Bioconomia_01_SECTI-SEDECTI-AM_ Bioeconomia_no_Amazonas.pdf.
+Silva, H. (2017). Socialização da natureza e alternativas de desenvolvimento na Amazônia Brasileira. 2017. Tese (Doutorado em Economia) – Centro de Desenvolvimento e Planejamento Regional, Universidade Federal de Minas Gerais, Belo Horizonte.
+__ (2021). A economia do açaí em Belém-PA: vida urbana e biodiversidade em uma experiência singular de desenvolvimento econômico, Novos Cadernos NAEA v. 24, n. 3, p. 259-286.
+Silva, M. F. O., F. S. Pereira, e J. V. B. Martins. (2018). A bioeconomia brasileira em números. BNDES Setorial 47, p. 277-332. Rio de janeiro: BNDES.
+Soares, R.R., Pereira, L., Pucci, R. (2021). Ilegalidade e violência na Amazônia. Projeto Amazônia 2030. Disponível em: https://amazonia2030.org.br/ ilegalidade-e-violencia-na-amazonia/.
+Superintendência da Zona Franca de Manaus – Suframa (2018). Programa Prioritário de Bioeconomia – PPBioeconomia.
+ 18 |
+
+Suinocultura industrial. (04 de agosto de 2020). Entenda o que é a bioeconomia, que pode impulsionar o agro brasileiro. Fonte: Avicultura Industrial: https://www.aviculturaindustrial.com.br/imprensa/entenda-o- que-e-a-bioeconomia-que-pode-impulsionar-o-agro-brasileiro/20200804- 113257-a096
+União Europeia – UE (2007). En route to the knowledge-based bio-economy (“Cologne Paper”) German Presidency of the Council of the European Union (EU), Cologne.
+___ (2018). Uma bioeconomia sustentável para a Europa. https://op.europa. eu/en/publication-detail/-/publication/edace3e3-e189-11e8-b690- 01aa75ed71a1/language-en/format-PDF/source-149755478
+Vivien, F.-D., Nieddu, M., Befort, N., Debrefa R., Giampietro, M. (2019). The Hijacking of the Bioeconomy. Ecological Economics 159, p. 189-197. https:// doi.org/10.1016/j.ecolecon.2019.01.027.
+Waisbich, L.T., Risso, M., Husek, T., Brasil, L. (2022). O ecossistema do crime ambiental na Amazônia: uma análise das economias ilícitas da floresta. Artigo estratégico 55, fev. 2022, Instituto Igarapé. Disponível em: https:// igarape.org.br/wp-content/uploads/2022/03/AE-55_O-ecossistema-do- crime-ambiental-na-Amazonia.pdf.
+Walendorf, R. (2020). O sucesso dos óleos essenciais da Amazônia,
+Valor Econômico, 30 set. 2020. Disponível em: https://valor.globo.com/ agronegocios/noticia/2020/09/30/o-sucesso-dos-oleos-essenciais-da- amazonia.ghtml.
+WCBEF (World Bioeconomy Forum). 2021. “The World Bioeconomy Forum Declaration 2021.” October 20. https://wcbef.com/about-us/declarations/ declaration-2021/
+White House (2012). National Bioeconomy Blueprint. Washington, DC. Disponível em: https://obamawhitehouse.archives.gov/sites/default/files/ microsites/ostp/national_bioeconomy_blueprint_april_2012.pdf.
+___ (2019). Summary White House Summit on America’s Bioeconomy.
+https://trumpwhitehouse.archives.gov/wp-content/uploads/2019/10/ Summary-of-White-House-Summit-on-Americas-Bioeconomy-October-2019. pdf
+World Bank. 2022. World Bank Open Data. https://data.worldbank.org/.
+Uma bioeconomia inovadora para a Amazônia
+  TEXTO PARA DISCUSSÃO | Junho de 2022 | 19
+
+ NOTAS
+1. Tratam-se de países que abrigam larga variedade de organismos vivos de todas as origens, compreendendo, entre outros, os ecossistemas terrestres, marinhos e outros ecossistemas aquáticos. O Brasil ocupa o topo dessa lista, como o país que possui a maior diversidade biológica do mundo.
+2. Asdenominaçõesforamadaptadas.Nooriginal,ostermossãothe bio-technology vision; the bio-resource vision; the bio-ecology vision. Ver Bugge, Hansen e Klitkou (2016).
+3. Omodelolinearpressupõequeosprocessosdeinovaçãotêminício com a pesquisa científica a partir da qual se desenvolvem produtos e o processo produtivo em si e, em seguida, a comercialização.
+4. Note-sequeaassociaçãoentreeficiênciatecnológicae sustentabilidade é uma cadeia de argumentos lógicos, não uma articulação de eventos empíricos.
+5. Exemplodaindústriadamadeira:produtosdemadeirafolheada,após um ciclo de vida, tornam-se produtos à base de partículas que, então, tornam-se produtos à base de fibra que, então, tornam-se produtos químicos de base biológica que, então, tornam-se energia para eletricidade e calor. Ver Liu et al. (2019).
+6. Oconceitodeemergênciaprovémdapesquisaembiologiaefoi incorporado por outras ciências, as sociais inclusive. Segundo Pessoa Jr. (2013, p. 22): “o conceito refere-se a um estado de coisas no qual as propriedades de um certo domínio não se reduzem completamente às propriedades de outro domínio (seriam "autônomos"), apesar de serem, em algum sentido, produzidos por este outro domínio (ou serem "dependentes" deste)”.
+7. https://wcbef.com/about-us/declarations/declaration-2021/.
+8. http://www.biofutureplatform.org/.
+9. https://www.in.gov.br/web/dou/-/portaria-n-121-de-18-de- junho-de-2019-164325642.
+10. Disponível em: https://www.gov.br/agricultura/pt-br/assuntos/ camaras-setoriais-tematicas/documentos/camaras-setoriais/ hortalicas/2019/58a-ro/bioeconomia-dep-saf-mapa.pdf
+11. GessuilliAgribusiness–AviculturaIndustrial.Entendaoqueé bioeconomia e como pode impulsionar o agro brasileiro. https:// www.aviculturaindustrial.com.br/imprensa/entenda-o-que-e-a- bioeconomia-que-pode-impulsionar-o-agro-brasileiro/20200804- 113257-a096.
+12. Disponível em: https://coiab.org.br/conteudo/carta- da-amaz%C3%B4nia-2021-povos-ind%C3%ADgenas- popula%C3%A7%C3%B5es-e-comunidades- 1635878544811x948826752912719900.
+13. Lei Estadual do Amazonas n° 4.419, de 29 de dezembro de 2016, publicada no DOE de 29.12.2016, Poder Executivo, p. 41.
+14. PPBio Website https://bioeconomia.org.br/.
+15. Decreto estadual no 1.943, de 21 de outubro de 2021.
+16. Entre eles, o 1o Fórum de Inovação em Investimentos na Bioeconomia Amazônica (F2iBAM), o Encontro Amazônico da Sociobiodiversidade, organizado pelo Conselho Nacional das Populações Extrativistas (CNS) e pela Coordenação das Organizações Indígenas da Amazônia Brasileira (Coiab), e os Diálogos sobre Bioeconomia Amazônica e Comércio Internacional, promovidos pelo Observatório de Comércio e Ambiente na Amazônia (OCAA).
+17. Baseado na fala de Leonardo Letelier (Sitawi Finanças do Bem) no 7o Painel do F2iBAM.
+18. https://iieb.org.br/ieb-apoia-regularizacao-de-quase-10-milhoes-de- hectares-para-populacoes-tradicionais-do-amazonas/.
+19. Essa questão está no cerne da proposição de Jacobs (1969) em sua hipótese da anterioridade da vida urbana em relação ao campo, que é uma das fontes da nossa argumentação, ao lado de Lefebvre (2014) e Polanyi (2012), entre outros.
+20. Baseado na fala de Amiraldo Picanço, do Projeto Bailique, no 7o Painel do evento do F2iBAM.
+ 20 |
+
+AGRADECIMENTOS
+Os autores gostariam de agradecer a uma ampla gama de colegas
+do WRI, parceiros da NCE e especialistas, incluindo Elizabeth Farina, Paulo Camuri, Fabíola Zerbini, Henrique Corsi, Thiago Guimarães,
+Julio Alves e Toni Lindau (WRI Brasil). Do NCE, os autores expressam gratidão a Sara Ascher, Alex Simpkins, Andrea Mendez e Pandora Barta. Além deles, Paulo Moutinho (Ipam), Francisco Apurinã (Instituto Pupykary) e Tatiana Schor (Ufam), os membros do grupo de trabalho em bioeconomia da Uma Concertação pela Amazônia e os amigos do Instituto Arapyaú e do Ipam, que forneceram valiosos comentários
+e contribuições para uma versão anterior. No mais, quaisquer falhas ou erros são de responsabilidade exclusiva dos autores.
+SOBRE OS AUTORES
+Carlos Nobre é cientista do Earth System, pesquisador do IEA/USP e membro da Royal Society.
+Contato: cnobre.res@gmail.com
+Carolina Elia Genin é diretora do programa de Clima do WRI Brasil. Contato: carolina.genin@wri.org
+Caroline Medeiros Rocha Frasson é gerente do programa de Clima do WRI Brasil.
+Contato: caroline.rocha@wri.org
+Danilo Araújo Fernandes é coordenador do Programa de Pós-Graduação em Economia na Universidade Federal do Pará.
+Contato: daniloaraujo@ufpa.br
+Francisco de Assis Costa é professor titular do Núcleo de Altos Estudos Amazônicos (GPDadesa-NAEA) da Universidade Federal do Pará.
+Contato: francisco_de_assis_costa@yahoo.com.br
+Harley Silva é professor adjunto da Universidade Federal do Pará. Contato: harley74@gmail.com
+Iara Vicente é socióloga do programa de Clima do WRI Brasil. Contato: iara.vicente@wri.org
+Inaiê Takaes Santos é especialista em políticas de mudanças climáticas, governança e consultora no Instituto Arapyaú.
+Contato: inaietsantos@gmail.com
+Rafael Barbieri é economista sênior do WRI Brasil. Contato: rafael.barbieri@wri.org
+Raul Ventura Neto é professor adjunto da Universidade Federal do Pará. Contato: netoventuraraul@gmail.com
+Ricardo Folhes é professor adjunto da Universidade Federal do Pará. Contato: rfolhes@gmail.com
+SOBRE A NOVA ECONOMIA DA
+AMAZÔNIA BRASILEIRA
+A Nova Economia da Amazônia Brasileira (NEA-BR) é uma iniciativa desenvolvida pelo WRI Brasil, The New Climate Economy e mais de 50 pesquisadores brasileiros de organizações parceiras, entre elas a Universidade Federal do Pará (UFPA), Universidade de São Paulo (USP), Universidade Federal do Rio de Janeiro (UFRJ), Universidade Federal de Minas Gerais (UFMG), Instituto de Pesquisa Ambiental da Amazônia (Ipam), Center for Climate Crime Analysis (CCCA), Concertação pela Amazônia e o Instituto Contas Abertas.
+A iniciativa conta com o apoio financeiro do Instituto Clima e Sociedade (iCS), Ministério Federal do Meio Ambiente, Proteção da Natureza, Segurança Nuclear e Proteção do Consumidor
+da Alemanha, Governo da Dinamarca e Instituto Arapyaú.
+SOBRE O WRI BRASIL
+O WRI Brasil é um instituto de pesquisa que transforma grandes ideias em ações para promover a proteção do meio ambiente, oportunidades econômicas e bem-estar humano. Atua no desenvolvimento de estudos e implementação de soluções sustentáveis em clima, florestas e cidades. Alia excelência técnica a articulação política e trabalha em parceria com governos, empresas, academia e sociedade civil.
+O WRI Brasil faz parte do World Resources Institute (WRI), instituição global de pesquisa com atuação em mais de 60 países. O WRI conta com o conhecimento de aproximadamente 1.400 profissionais em escritórios no Brasil, China, Estados Unidos, Europa, México, Índia, Indonésia e África.
+SOBRE THE NEW CLIMATE ECONOMY
+A Comissão Global sobre Economia e Clima e seu projeto emblemático The New Climate Economy foram criados para ajudar governos, empresas e sociedade a tomarem decisões mais bem informadas sobre como alcançar a prosperidade e o desenvolvimento econômico ao mesmo tempo em que aborda as alterações climáticas.
+Supervisão de pesquisa
+Thiago Guimarães Rodrigues
+Coordenação editorial
+Joana Oliveira de Oliveira
+Revisão de texto
+André Caramori e Anaelena P. Lima
+Uma bioeconomia inovadora para a Amazônia
+            Diagramação
+Néktar Design
+ Copyrights 2022 World Resources Institute. Esta obra está licenciada com uma Licença Creative Commons Atribuição 4.0 Internacional. Para ver uma cópia da licença, visite http://creativecommons.org/licenses/by/4.0/
+https://doi.org/10.46830/wriwp.21.00168pt
+  TEXTO PARA DISCUSSÃO | Junho de 2022 | 21
