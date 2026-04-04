@@ -1,0 +1,458 @@
+---
+projeto: Mulheres Que Tecem a Floresta
+instituicao: Consórcio UnB/UFAC/UFRR
+equipe: Gestão e Parceria Regional
+tipo: Acervo de Consulta RAW (Transcrição)
+autor: Acervo Digital Mulheres que Tecem a Floresta
+data: '2025'
+---
+Original Article
+ Market prospects for biochar production and application in California
+Sonal K. Thengane , Department of Environmental Science, Policy, and Management, University
+of California Berkeley, Berkeley, CA, USA; Department of Hydro and Renewable Energy, IIT Roorkee, Roorkee, India
+Kevin Kung, Chemical and Biological Engineering, The University of British Columbia, Vancouver, Canada Josiah Hunt, Pacific Biochar Benefit Corporation, Santa Rosa, CA, USA
+Haris R. Gilani, Department of Environmental Science, Policy, and Management, University of California Berkeley, Berkeley, CA, USA
+C. Jim Lim, Shahabaddine Sokhansanj, Chemical and Biological Engineering, The University of British Columbia, Vancouver, Canada
+Daniel L. Sanchez, Department of Environmental Science, Policy, and Management, University of California Berkeley, Berkeley, CA, USA
+Received May 05 2021; Revised July 03 2021; Accepted July 27 2021; View online at Wiley Online Library (wileyonlinelibrary.com);
+DOI: 10.1002/bbb.2280; Biofuels, Bioprod. Bioref. (2021)
+Abstract: The state of California could play an important role in emerging markets for biochar, due in part to the availability of low-value biomass resources and their potential for use in agriculture sector. In this study, we assess the scale of production and use, and comment on potential markets for biochar
+in California. We explore various sectors for the application of biochar produced from local biomass using surveys and a market-sizing approach. A market-oriented approach for biochar innovation and the ecosystem around a biochar producer is also discussed. Next, we identify barriers to biochar market success in the present and the near future based on a survey of local producers. Among the barriers analyzed, access to capital investment for scale-up is the biggest barrier experienced by a majority of producers, followed by market and demand. When grouped under different categories, the extent of barriers decreased in the order: market > scale-up > technical > socio-political > environmental. Most producers anticipate that revenues from carbon offset credits would help them scale up their facilities and expand the biochar market. In the near future, soil-based applications of biochar could be the most likely market for biochar, followed by filtration, livestock feed, and manure management. As the industry evolves, rewarding carbon credits, increasing awareness and improving production processes are expected to help commercialize biochar. Finally, we offer recommendations to promote the growth of biochar in California. © 2021 Society of Chemical Industry and John Wiley & Sons, Ltd
+Supporting information may be found in the online version of this article.
+Key words: biochar market; biomass; biochar applications; carbon credits; California
+Correspondence to: Sonal K. Thengane, Department of Environmental Science, Policy, and Management, University of California Berkeley, Berkeley, CA, USA; Department of Hydro and Renewable Energy, IIT Roorkee, Roorkee, India. E-mail: sonalt@hre.iitr.ac.in
+  © 2021 Society of Chemical Industry and John Wiley & Sons, Ltd 1
+© 2021 Society of Chemical Industry and John Wiley & Sons, Ltd | Biofuels, Bioprod. Bioref. (2021); DOI: 10.1002/bbb.2280
+SK Thengane et al.
+Original Article: Market prospects for biochar in California
+Introduction
+Biochar is primarily obtained from the thermochemical conversion of biomass in an oxygen-limited environment, and technically defined as a carbon- rich solid material having organic carbon greater than
+10% and molar hydrogen-to-organic-carbon ratio of less than 0.7.1,2 It is a promising product in the food, soil, and agricultural sectors because of its composition and properties of retaining moisture and nutrients, and improving soil quality.3 Furthermore, this carbon-rich solid product can easily endure in soil for decades to centuries, making it a potential candidate to address issues of energy and climate change.4,5 After the Paris Agreement in 2016, biochar as
+well as bioenergy with carbon capture and storage (BECCS), have been widely presented as potential solutions that could contribute to the reduction of global warming.6 A recent special report of the IPCC has included biochar as one of the top six negative emission technologies in terms of achievable scale,7 with annual carbon sequestration potential of around 0.7–1.8 Gt CO2-Ce.8,9
+Biochar has received considerable attention in the literature during the last decade with numerous reports and publications focusing on ‘biochar production’, ‘biochar and climate change’, ‘soil quality and plant growth’, ‘organic pollutants removal’, and ‘heavy metals immobilization’.10 Considering the expected benefits and the potential availability of residual biomass in the world, many start­ ups and investors are interested to explore the biochar market. However, several challenges have been reported, ranging from procuring consistent feedstock and selecting appropriate technology to the affordability and the demand of specific biochars.11 As an emerging industry with applications in diverse sectors, there is a need to develop markets, policies, and appropriate ecosystems including
+a trade association for this multidimensional product.
+The International Biochar Initiative (IBI), established in 2006, has been working to create standards, coherence,
+and support for good industry practice, including a certification system designed to delineate a transparent and sustainable future for biochar.12 As of 2015, the initiative has collaborated with 326 companies, up from 175 in
+2013, showing a rapid increase in participation in the biochar field.1 The United States Biochar Initiative (USBI), established in 2009, is working in parallel with the IBI, but with a specific focus on North America.
+Numerous market research reports have been published over the past 5 years, covering various aspects of the biochar industry at regional and global levels. While there are different estimates of the total revenue, these reports have
+projected the global biochar market to grow at a compound annual growth rate (CAGR) of 13–17% during 2019–2025, mainly because of increasing food demand and the role
+of biochar in enhancing soil quality.13–15 A recent report estimated the biochar market to grow with a CAGR of 13.6% by revenue, and 11.2% by volume, during 2020–2028.16 The multi-dimensional ecosystem of biochar with respect to its production and application makes it a challenging task to identify the best market. A market for one region may not be replicable in other regions, and hence it is important
+to address the market issue in a geographical or a regional context. North America is the world’s largest market for biochar, primarily because of the increasing awareness of
+the long-term benefits of biochar in forestry and agriculture sectors along with increasing investments and environmental regulations. The state of California could play a pivotal role in the future production and application prospects of biochar due to the availability of large forest biomass resources and a conducive policy environment.
+We conduct this analysis in the context of California because this state is a leader in renewable energy generation and agricultural production in the USA. In addition, increased environmental regulations have generated commercial interest in biochar in the state. Biochar is being proposed by the industry proponents as one of the potential solutions to address climate change impacts in the state,
+such as droughts, wildfires, and highly variable weather. For example, the drought years from 2012 to 2016 were followed by an above-average wet year in 2017, which rapidly grew grasses and underbrush that eventually became fuel for 17 record-setting fires, consuming more than 730 000 acres. Biochar production offers a suitable management pathway for the excessive amounts of residual biomass generated in the forests of California. The process of biochar production can be energy positive, and can therefore contribute to the state’s renewable energy portfolio. When applied to land, biochar can improve water conservation and help regional farms and forests become more drought resilient, particularly in coarse soils.18 The utilization of biochar in agricultural soils can
+have long-term benefits for soil health and crop yield, helping increase revenues in one of California’s largest industries. Biochar produced from residual biomass and sequestered in soil also results in carbon dioxide removal (CDR), thereby helping California achieve its carbon neutrality goal by the year 2045.
+Figure 1 shows the types of land cover and the source-wise biomass distribution for the state of California. Most of the croplands is in the central region of the state surrounded
+by forestlands. California has about 25.3 million acres of 19 agricultural land and about 33 million acres of forestlands.
+
+Original Article: Market prospects for biochar in California
+SK Thengane et al.
+The forest density decreases gradually from north to south with the southern part comprising mainly deserted land. This justifies the existence of several biomass power plants in the central and northern part of the state. Total biomass potential of the state is about 78 million BDT/y and the availability on technically sustainable basis is 35.1 million BDT/y.20 Nearly 67% of the total biomass comes from agriculture and forestry sectors. This combination of attractive land cover types
+and biomass availability not only highlights the potential of using biomass for biochar production but also for biochar application within the state.
+Figure 2 shows an overview of different biochar production processes from different biomass sources and possible applications in different sectors in California. The major sources of biomass are agriculture, forestry, industrial, and residential sectors. Small-scale or farm level operators often employ incomplete combustion for biochar production, where a simple production method involves burning biomass in pits, and spraying water or restricting air to extinguish the fire. Other systematic approaches include smoldering combustion,21 use of flame cap kilns,22 or modifying boilers and furnaces for production and harvest of biochar.23 Pyrolysis is a process that allows for the
+near complete exclusion of oxygen, and is widely used in biochar production, where the heating rate and the reaction temperatures can shift the ratio of bio-oil to biochar, with lower values (< 50 °C/min, 300–400 °C) preferring the biochar. The process also produces syngas, which is either flared or utilized to provide heat for the reactor or for drying the biomass. Fast pyrolysis can have the heating rates as high
+as 1000 °C/min and the temperatures up to 700 °C or even higher.24 Similarly, biomass gasification is primarily focused on generating more syngas at higher temperatures (700–
+850 °C), and biochar produced is mostly a part of the ash-rich solid residue.25 A carbon-rich biochar could be produced through gasification at the cost of reduced syngas yield but caution should be taken to maintain smooth operation and consistent quality of syngas. Torrefaction or mild pyrolysis occurs in the range of 200–350 °C often under atmospheric pressure in the partial or complete absence of oxygen, and produces a solid product commonly referred to as ‘torrefied biomass’, but in some cases (e.g., severe torrefaction (270– 320 °C, residence time > 30 min), oxidative torrefaction),26 ‘biochar’.27–30 Some other processes like hydrothermal liquefaction,31 carbonation or gasification31,32 may also be employed to produce biochar. Each of these processes may involve certain pre-processing steps to improve the overall performance. Similarly, the biochar obtained from these processes may be subjected to certain post-processing before specific applications.
+In this paper, we explore the potential production, application, and market perspectives of biochar in the state of California. We examine the application of biochar produced in the state in different sectors. The approach to innovation of the product and the technology in the context of biochar and the ecosystem around a producer is also discussed. We identify the barriers to biochar market based on the survey of local producers and field experts. Finally, we provide recommendations to promote a sustainable market for biochar in California.
+  Figure 1. Land cover types in California (source: National Land Cover Database, USA) and biomass source distribution in California.20
+© 2021 Society of Chemical Industry and John Wiley & Sons, Ltd | Biofuels, Bioprod. Bioref. (2021); DOI: 10.1002/bbb.2280 3
+© 2021 Society of Chemical Industry and John Wiley & Sons, Ltd | Biofuels, Bioprod. Bioref. (2021); DOI: 10.1002/bbb.2280
+SK Thengane et al. Original Article: Market prospects for biochar in California
+  Figure 2. Overview of various components involved in biochar production and applications.
+Material and methods
+Biochar producers and applications
+We prepared a list of active biochar producers and biochar reactor manufacturers in California in consultation with
+the United States Department of Agriculture (USDA) and IBI. To understand the status of the company in the biochar market, we contacted these producers for more information and then broadly categorized the companies into three phases with respect to biochar: Phase 1: start-up stage with a small prototype and business plan in place; Phase 2: small-scale production (<500 kg/day) on a trial basis with very limited sales; Phase 3: commercial-scale production (>500 kg/day)
+on a continuous basis with normal market sales (>200 tons/ year).
+Biochar can be produced from biomass procured from various sources, but major focus has been on producing it from easily accessible biomass in agricultural and forestry sectors, the primary reasons being abundant availability and lower risk of contamination. Pacific Biochar has estimated the annual production of 1.43 million BDT of biochar (85% carbon) from the accessible 14.3 million BDT of forest
+biomass in California.33 In this study, we considered the biomass from agriculture and forestry sources for producing biochar. The application sectors included agriculture and forestry, groundwater, wastewater treatment, and livestock feed and manure management. On a dry basis, it is possible to obtain biochar with up to 90% carbon and up to 50% mass yield under moderate pyrolysis conditions.2 Hence, assuming a conservative value of 20% conversion efficiency of accessible biomass results in annual production of 4.7 million BDT biochar. It was assumed that each sector is independently able to utilize total biochar produced in
+the state. In the context of agriculture and forestry land in California, it is highly unlikely to have the similar biochar application rate throughout the state owing to different soil types. An average biochar application rate of 10 BDT/acre, based on reported values ranging from 0.4 to 20 BDT/acre, could be a reasonable estimate assuming its effect to last over at least a period of 10 years.34–36 Hence, on an annual basis, we chose 1 BDT/acre as a conservative estimate for average biochar application rate. Biochar stability must be accounted for during calculation of carbon sequestration potential of biochar. Several studies report the values in the range of 60–80% for the stability of most biochars over a period of
+
+Original Article: Market prospects for biochar in California
+SK Thengane et al.
+100 years,36 and about 85–95% over a period of 20 years.37 For greenhouse gas (GHG) emission savings, we assumed the biochar stability to be about 100% for a period of 1 year. Subsequently, we performed sensitivity analysis of the impact of biochar in the soil, water, and waste water sectors.
+Biochar ecosystem and market barriers analysis
+There is a potential understanding of the biochar market
+in the soil/land amendment sector, yet the advancement
+has not been as envisioned. A desirable approach should involve supporting technological efforts by refocusing the mainstream capital markets onto addressing the needs of both society and the environment. We proposed a modified innovation approach for biochar technology and the product based on the Roger’s theory of Diffusion of Innovations38 and the energy technology innovation system.39 Next, we identified a general ecosystem with biochar producer at
+the center but linked to a series of stakeholders ranging from investors to buyers through the exchange of material, information, money, or products.
+To understand and analyze the barriers to biochar
+market, we interviewed 20 local biochar producers and
+the associated field experts. About 75% interviews were conducted online using Skype/Zoom and telephone, whereas the remaining ones were in-person interviews.
+The list of barriers was prepared based on the literature review, and discussions with the personnel of USBI and
+IBI. The potential barriers include: access to capital; access to feedstock; low profit and high cost; competition; market size; consistent demand; access to labor; lack of reliable R&D; lack of market research or promotion; emissions, particulates, and waste; repair and maintenance issues; feedstock moisture and heterogeneity; health and safety; customer perceptions and knowledge; impact on food, wildlife, and land use; access to the site; market acceptance and resistance; compliance with permits and lack of policies; registration, trademarks or certification; technology/ product licensing; lack of consistent product quality. We used the tailored design method to design and administer the survey ((please see the supplementary material Part A) in the supplementary material).40 The primary objective
+of the survey was to understand the extent to which the identified factors act as a barrier for biochar market success. The responses for each factor were measured on the scale
+of 1–10 similar to Saaty’s analytic hierarchy process (AHP) scale of importance,41 and the final value for each factor was calculated as an arithmetic mean. The last question in the questionnaire requested the participants to identify the most preferred market for biochar in near future – say 3 years.
+Results and discussion
+Biochar producers and technology developers
+Table 1 shows the list of active biochar producers and the biochar reactor manufacturers in California. Almost all of them have either started as new ventures or included biochar in their existing products categories in the last decade. Most producers chose soil amendment as the primary application and targeted agriculture communities and home growers
+as their primary consumer. For water treatment, though some studies have proposed biochar as a potential filtration media,42,43 the carbon-based filter market is currently owned by activated carbon, which needs more sophisticated set-up and processing. Hence, very few companies like Puragen activated carbons (not mentioned in Table 1) are involved in either utilizing biochar for water treatment or as a precursor for activated carbons.
+Some companies may fall in Phase 3 category (>500 kg/ day) under other product categories such as activated carbon, reactors, and fuels. However, for biochar production, except for Pacific Biochar, all other companies are either in Phase
+1 or Phase 2, with a majority in the latter phase. Some companies procure biochar from primary suppliers and then sell or distribute it after certain modifications depending
+on the target applications. For instance, Full Circle Biochar (now bio365 LLC), and SymSoil, Inc. are engaged in biochar business but they are not primary producers. Few more companies may exist beyond this list, especially in Phase 1 (start-up stage), with their own or sourced technologies but yet to scale-up their prototypes. Depending on the technology and the capacity, the biochar production costs in California ranges from $200 to $1000 per ton, averaging about $400 for majority of producers. These figures corroborate with the values reported in literature on biochar production costs in the context of North America.44,45 The average market prices for biochar in the state varies from $600 to $1300 per ton ($90 to $200 per cubic yard),46 and have declined significantly from the average price of $2850 per ton in 2013.47 These prices are further reduced by about 20–40% for bulk buyers in the range of 1–10 tons. The evolving carbon credit markets are expected to offset biochar production costs with current prices equivalent at $193–$234 per dry ton of biochar.48
+This incentive would make it more affordable for small-scale customers. In addition to these companies and emerging start-ups, some local initiatives such as Sonoma Biochar Initiative and The California Biochar Association are also promoting awareness about biochar benefits, and assisting
+in field trials. A growing number of companies investing in the biochar industry demonstrates a growing interest and
+© 2021 Society of Chemical Industry and John Wiley & Sons, Ltd | Biofuels, Bioprod. Bioref. (2021); DOI: 10.1002/bbb.2280 5
+
+SK Thengane et al.
+Original Article: Market prospects for biochar in California
+  Table 1. List of active biochar producers in California.
+Biochar producers, Year City started
+Genesis industries, 2011 Redendo Beach
+Products
+Reactors, biochar
+Commercial product
+Biochar and bio­ stimulants
+Focus application sector
+Farming and gardening
+Main feedstock Status
+Nutshells, urban green Phase 2 waste
+  Pacific biochar, Santa 2014 Biochar BlackLite Agriculture Woody residues Phase 3 Rosa
+       Bioforcetech, 2012 Reactors, biochar Soil mix pro Organic waste Biosolids, manure, Phase 2 Redwood City management green waste
+       Carbo culture, 2017 Biochar (green Carbon services Climate & soil, Forestry waste Phase 1 Woodside landscaping) landscaping
+       Full circle biochar, San 2007 Biochar BioCore and Agriculture Wood waste from Phase 1 Francisco (bio365 LLC) BioCharge timber industry
+       Blue sky biochar, 2010 Biochar SEEK fertilizer Agriculture Pine, bamboo Phase 2 Thousand Oaks
+       Cool planet energy 2009 Biochar CoolTerra Agriculture Farm residues Phase 2 systems, Camarillo
+       Energy Anew IMC, San 2005 Biochar (solar-powered) Biocharm Vegetables, Wood chips Phase 2 Rafael flowers, fruit trees
+       Interra energy, INC, 2009 Biochar, fuels, reactor Interra Preta Agriculture, biofuels San Diego
+Trimmings, wood, Phase 2 timber & green waste
+       All power labs, 2007 Reactors, biochar, Chartainer, power Local carbon Woody residues Phase 2 Berkeley blends pallet network
+       Phoenix energy, San 2006 Reactors, biochar Reactor Agriculture Francisco
+Forest and woody Phase 2 residues
+       Tolero energy, LLC, 2009 Reactors, biochar, fuels, Tolero fuel Transportation, Urban biomass Phase 2 Sacramento activated carbons water treatment residues
+© 2021 Society of Chemical Industry and John Wiley & Sons, Ltd | Biofuels, Bioprod. Bioref. (2021); DOI: 10.1002/bbb.2280
+readiness in biochar business. However, the production and scale are significant challenges that will be discussed in the later section.
+Biochar applications
+Table 2 shows the annual biochar production potential from the agricultural and forestry sectors biomass, and
+the potential application impacts in different sectors
+of California. Figure 3 shows the sensitivity analysis of
+the impact of biochar in the soil, water, and waste water sectors considered in Table 2. The listed applications assume that produced biochar is totally consumed in each of these sectors. Other applications of biochar that may not be able to consume total produced biochar are discussed later.
+At the rate of 1 BDT/acre, it will take about 5 and 7 years to cover total cropland (25.3 million acres56) and forestland (33 million acres19), respectively, in the state. The application rate of biochar depends on the soil quality, and it is common to see the application rates at 10 BDT/acre or higher, which may take more than 100 years combined to cover the total cropland and forestland at the production rate referenced.
+Application of biochar in soil is expected to achieve CDR
+by 12.3 million-ton CO2-e, which is equivalent to 38.2%
+of the total annual GHG emissions from agriculture sector
+in California. However, this number has been estimated assuming the stability of 100% for each annual batch of fresh biochar added to the soil. Over a period of time (~100 years), the stability of biochar is expected to decline by 20–30%,36,37 which will eventually reduce the net CDR for the total period of time. For higher application rates and lower biochar yields, the time taken to amend the available land with biochar will be shorter (Fig. 3(a)). Similarly, higher biochar yields and higher carbon content in biochar increases the CDR that
+can offset more GHG emissions57 (Fig. 3(b)). This enhanced carbon sequestration-based soil management strategy of ‘carbon farming’ could help California develop resilience
+to climate change while reducing atmospheric greenhouse gases. Application of biochar to improve soil and reverse GHG emissions is considered to be a part of regenerative agriculture.58 Farmers in California are already considering regenerative agriculture to promote soil health and biodiversity, in addition to profitably producing good-quality farm products. Initiatives like the Conservation Stewardship
+
+Original Article: Market prospects for biochar in California
+SK Thengane et al.
+Program by USDA aim to motivate agricultural producers to include biochar in their woody waste management and soil health management strategies.59
+The agriculture sector in California has annual water consumption of 11.08 trillion gallons, accounting for nearly 80% of the total state consumption.51 When biochar is applied to the soil with the objective of increasing organic matter (OM) by 1% in the top 15 cm (i.e., 6 in.) of the soil, it also increases the water retention capacity of the soil.52 As
+the biochar application rate is increased from 1% to 10% (w/w) (i.e., 8.7 tons/acre to 87 tons/acre), the increment
+in water retention capacity increases from 1940 gal/acre to
+39 529 gal/acre.52 The higher the application rate of biochar, the greater will be the water-holding capacity of the soil60 (Fig. 3(c)). However, in practice, the rate of application will
+be limited by several factors such as soil type and properties, user objectives, and method of application. For normal soils or existing agricultural lands, 2% (w/w) biochar application has been proposed as a safe maximum by the California Department of Food and Agriculture (CDFA) Healthy Soils Program.61 At a 2% application rate (i.e., 17 tons/acre), 4.7 million BDT biochar can hold an additional 0.39 trillion gallons of water in the soil, which is roughly 3.54% of the total annual water consumption by the state in agriculture. When cultivated down to different depths of soil at about 60 cm, the applications up to 80 tons/acre may fall within the rates of
+2% (w/w). In a barren land, abandoned mining site or sandy soil, application rates as high as 10% (w/w) could be attained. In such a scenario, equivalent biochar can hold an additional 2.13 trillion gallons of water in the soil, which is roughly 19.26% of the total annual water consumption by the state in agriculture.
+With the annual generation of 1.46 trillion gallons waste water,53 many companies in various sectors in California, such as food, pharmaceutical, textiles are required by law to treat their wastewater to contain no more than 1000 mg/L
+of biodegradable organic compounds. Biochar filtration
+can be used as an effective contaminant removal system
+due to its ability to absorb heavy metals and other chemical contaminants.62 Hence, if the total quantity of produced biochar is applied to waste water treatment, it could treat up to 43.24% of the total waste water generated in the state. This percentage increases with the increase in biochar loading and the biochar yield as more waste water could be treated (Fig. 3(d)).
+One potential application of biochar involves livestock feed to help in digestion thereby improving meat production.
+In California, agriculture accounts for 7.6% of the total
+state GHG emissions, of which nearly 30–35% is attributed to each enteric fermentation and manure management.63
+  Table 2. Annual biochar production and application potential in different sectors of California.
+Biochar production
+Total biomass available (agriculture + forest) 52.26 Million BDT
+ Total accessible biomass available 23.52 Million BDT (agriculture + forest)20
+   Total biochar production (20% conversion) 4.70 Million BDT
+   Biochar application
+Agriculture and forestry
+ Land covered by biochar application 4.70 Million (1 BDT/acre) acres
+   Time required to cover total agricultural 5.38 Years land of state
+   Time required to cover total forest land of 7.02 Years state
+   GHG reduction
+   State total GHG annual emissions49 424.1 Million-ton CO2-e
+   State GHG annual emissions in agriculture 32.23 Million-ton sector49 CO2-e
+   Biochar carbon sequestration potential 12.08 Million-ton (average biochar carbon content: 70%)35 CO2-e
+   Soil N2O emission reduction (1 BDT/acre 0.22 Million-ton application)50 CO2-e
+   Portion of total state GHG emissions in 38.16 % agriculture sector
+   Groundwater
+   State annual water consumption in 11.08 Trillion agriculture51 gallons
+   Water holding capacity increment (2% 7275 Gallons/ (w/w) biochar application)52 acre
+   Total increased water holding52 0.39 Trillion gallons
+   Portion of total water consumption in 3.54 % agriculture
+   Wastewater treatment
+   State annual wastewater generation53 1.46 Trillion gallons
+   Portion of wastewater treated by biochar 43.24 % (0.51 kg/m3)54
+   Livestock feed and manure management
+ Livestock feed (1% biochar in daily feed w/w56 ~ 0.39 million BDT biochar)
+ Enteric fermentation (20% GHG 2.27 Million-ton reduction55) CO2-e
+   Manure management (13.6% w/w biochar 11.07 Million-ton in manure ~4.31 million BDT biochar) CO2-e
+   Portion of total state GHG emissions in 41.38 % agriculture sector
+   © 2021 Society of Chemical Industry and John Wiley & Sons, Ltd | Biofuels, Bioprod. Bioref. (2021); DOI: 10.1002/bbb.2280 7
+© 2021 Society of Chemical Industry and John Wiley & Sons, Ltd | Biofuels, Bioprod. Bioref. (2021); DOI: 10.1002/bbb.2280
+SK Thengane et al. Original Article: Market prospects for biochar in California
+  Figure 3. (a) Effect of biochar application rate (−AR) (at 20% conversion) and biomass to biochar conversion (-BC) (at 1 BDT/ acre) on the time required to cover total agricultural and forest lands in the state; (b) effect of biochar carbon content (at 20% conversion) and biomass to biochar conversion (at 70% C) on reduction of GHG emissions, presented as a portion of total state GHG emissions in agriculture sector; (c) effect of biochar application rate (at 20% conversion) and biomass to biochar conversion (at 2% application rate i.e., 17 tons/acre) on average water holding of the soil, presented as a portion of total water consumption in state agricultural operations; (d) effect of biochar loading (at 20% conversion) and biomass to biochar conversion (0.51 g/L or kg/m3) on the waste water treated, presented as a portion of total waste water generated in the state.
+A review of the relevant studies inferred that up to 1% addition of biochar in cattle feed (w/w) increases the weight of the animal by 10–20% and reduces methane emissions due to enteric fermentation by about 20%.55 However, this application accounts for only 7% of the biochar produced
+in the state. Several studies have investigated nutrient-rich biochar production from different types of animal manures as well as from filter manure effluents.64,65 When this biochar is applied to soil, it will not only lead to carbon sequestration
+but will also put the manure to better use. Other options include using biochar as an additive to compost and manure. Mixing 10% (w/w) biochar with compost has been found
+to reduce GHG emissions up to 32%,66 and mixing 10–20% (w/w) biochar in manure may result up to 20% reduction in soil GHG emissions.67 As shown in Table 2, the combination of livestock feed and manure management applications is able to consume the entire production of biochar in the state, resulting in total GHG reductions of 13.34 million
+
+Original Article: Market prospects for biochar in California
+SK Thengane et al.
+ton CO2-e. This value is about 3% higher than the GHG reductions when biochar is applied to the soil for sequestering carbon, primarily because of reduced CH4 emissions during enteric fermentation, which has about 32 times higher global warming potential (GWP) than CO2. When biochar is employed in livestock feed and manure management, it may lead to additional economic benefits including higher meat production and enhanced crop productivity.
+In addition to these applications, several other areas have been explored for utilizing biochar. For instance, biochar
+as an electrode or catalyst has promising prospects in microbial fuel cells,68,69 and production of electrochemical energy storage devices such as supercapacitors and lithium ion batteries.70,71 Stormwater management may be a future market for biochar as cities and residents look for ways to increase infiltration of water while reducing toxins.72 Other areas being investigated are the potential role of biochar as
+a catalyst support in chemical synthesis,73,74 as eco-friendly building materials and additives in construction sector,75,76 and as a filler or a cover in landfill areas.77 Instead of biochar production, the biomass considered could be used for energy and fuels.78 This would possibly offer a means of CDR if BECCS technologies are built and deployed. Using biochar as fuel for energy violates the purpose of defining ‘biochar’ separately from ‘charcoal’. Hence, biochar could not be used as a fuel for generating energy, unlike charcoal, although the volatiles generated during production process could be used for energy purposes.
+Biochar innovation and ecosystem
+Today, approximately 150 companies, mostly small garden supply and specialty retailers, with a few exceptions, sell biochar worldwide. There are emerging opportunities but overall the market is in its infancy with limited production and high cost.79,80 In California, significant opportunities
+to expand the biochar market exist due to the biomass availability, existing infrastructure, climate legislation, and the application sectors. However, most of the application sectors have established ecosystems with respect to fossil fuels and other competitive products such as synthetic fertilizers, compost, mulch, and pellets. Adapting to biochar will not only need a change in existing set-ups but it will also need a change in consumers’ and policymakers’ attitudes towards biochar as a market commodity. It would also depend on
+the extent of the upstream and downstream costs associated with the biochar ecosystem. Recent debates emphasize the financial rewards for carbon credits achieved because of biochar, which requires appropriate policy interventions and strategies for developing the market. Pacific Biochar
+estimated that a carbon credit in the range of $70 per ton CO2-e could be sufficient to offset their production cost fully.33 A recent study on biochar production from mobile units in California’s Jackson Forests estimated a carbon credit of about $100 per ton CO2-e for an optimized system.81
+For the purpose of comparison, the government of Canada imposes a carbon tax of $24 per ton CO2-e in 2020, set to increase by $8 annually up to $39/ton in 2023.82 Likewise, subsidies such as USDA’s Conservation Stewardship Program provide eligible landowners with $6183/acre for residues to be converted into biochar.59 Numerous studies have estimated the minimum selling price of biochar to be in the range of $150–600 per ton or higher.45
+There are several companies still at the start-up stage in California. According to a recent analysis of 100 start-ups
+by CB Insights, the top reason for failure of the majority of the start-ups is the lack of market and its understanding.83 Hence, there is a need to base the overall innovation approach around the market even in case of biochar. Fig. 4 shows the modified innovation approach for biochar technology and biochar product based on the Roger’s theory of Diffusion of Innovations38 and the energy technology innovation system.39
+According to the proposed approach, the R&D efforts on developing a biochar technology or producing biochar should start only if the preliminary regional market assessment identifies the need for a better technology. The findings from R&D may lead to the next stage of pilots and demonstrations, which can form a good basis for techno-economic assessment at a commercial scale. These estimates should be analyzed carefully along with re-assessing the market considering multiple aspects such as competitive products and the policies. The market is never stagnant and may change during the duration of R&D and pilots. Hence, before making the decision to adopt or reject the technology, it is important to re-assess the market and check if the innovation is on the right track. For a positive decision, the next steps would be implementation and diffusion. If the decision is not to adopt the technology, then the entire process could be repeated identifying the alternative market and strategies or one could directly reject the technology depending on the clarity of
+the findings. During all the stages, there are several actors, networks, institutions and decision makers involved who communicate with each other and keep providing feedback. The approach is applicable to the entity, which aims to either produce its own biochar or procure it from other producers and then improvise it depending on the market being targeted after preliminary assessment. Improvisation may include grinding, blending, or mixing with other additives, densification, and other similar processes. Irrespective of the scale or capacity, such entity should first produce a small
+© 2021 Society of Chemical Industry and John Wiley & Sons, Ltd | Biofuels, Bioprod. Bioref. (2021); DOI: 10.1002/bbb.2280 9
+© 2021 Society of Chemical Industry and John Wiley & Sons, Ltd | Biofuels, Bioprod. Bioref. (2021); DOI: 10.1002/bbb.2280
+SK Thengane et al. Original Article: Market prospects for biochar in California
+  Figure 4. Biochar innovation diffusion model based around market assessment.
+batch and demonstrate the effectiveness of the product at trade fairs, community markets, or similar expositions.
+After demonstration, an entity should re-assess the market before taking a decision for mass production and diffusion. As discussed earlier, if the profit of a biochar producing
+firm is going to rely on financial rewards for CDR, then it should be assessed as part of market analysis. In states having no policy or program in place for carbon credits, it would
+be challenging for an entrepreneur to set-up or scale up a biochar production unit if that is the crucial factor.
+To drive an industrial development in the initial stages
+of any product commercialization, all the concerned stakeholders should make a combined effort.84 For the biochar industry, a range of stakeholders on the supply side include reactor technology developers, biochar producers and distributors, government agencies, established
+bioenergy promoters, and researchers. On the demand
+side, stakeholders include farmers, forest owners, power plant operators, garden owners, and activated carbon manufacturers, to name a few. Hence, to identify the best market for biochar in present time, it is important to explore the decisions of multiple stakeholders both on the supply side and the demand side. Figure 5 shows a general ecosystem around a biochar producer, which consists of a series of stakeholders ranging from investors to buyers. Buyers may
+range from an individual home gardener to industrial-level buyers depending on the application and the context. This is an example ecosystem showing the flow or exchange of money, material, information, and products among the different stakeholders connected with the biochar producer. The routine product is a product generated after using biochar – e.g., routine product from farmers to customers can be fruit, vegetables, or grains. As biochar is recognized as a CDR pathway, it is important for the stakeholders on both supply side and demand side to discuss and propose a strategy to the policymakers for gaining carbon credits for production and utilization of biochar. If all the stakeholders are convinced of the environmental benefits of biochar, the main impediment delaying the implementation of carbon credit system would be a lack of proper estimation and validation methodologies in different scenarios.
+Barriers and biochar markets
+The multidimensional nature and diversity of biochar markets could increase the market scope and decrease risks when competing for well established markets such as agriculture and energy, but it could also blur focus at the initial stages when small but profitable specialty markets (example, horticulture, nurseries, water treatment, energy storage, and
+
+Original Article: Market prospects for biochar in California
+SK Thengane et al.
+  Figure 5. A typical biochar ecosystem around a biochar producer.
+activated carbon substitutes) have to be conquered.85 For entrepreneurs with limited time and resources, a focus on single-point selection at the initial stage is very important to achieve the best product–market fit.86 However, even after the choice of a market is made, there are several barriers associated with each market, which may slow the growth or sometimes shut down the business. In the biochar market, it is important to identify these barriers and analyze them carefully to find an appropriate solution for the producers.
+Figure 6 shows the relative extent of different factors posing as barriers based on the survey responses, where the higher values (>4) represent higher barriers and vice versa. The
+error bars indicate uncertainties in converting the qualitative responses to numerical values. The barriers could be classified as technical, economic, socio-political, and environmental, where economic barriers are split into market and scale-up barriers. Among individual factors, access to capital for initial investment or scaling up the biochar production facility is
+the biggest barrier indicated by majority of the producers, followed by the market and demand-related factors. When grouped under different categories, the extent of barriers
+for the collective factors decreased in the order: market > scale-up > technical > socio-political > environmental. Few factors that fell under multiple categories are adjusted based on their contribution to a particular category. For instance, low profit and high cost assumed 50% importance in market category and 50% importance in technical category. The
+findings imply that despite growing interests in biochar,
+the market is not yet clearly defined and the customers are not aware of the benefits of biochar. Other than market
+and scale-up barriers, technical barriers also exist in high proportions as there is very little clear and consistent field- level evidence or R&D reports on biochar impacts on soil. Varying availability and heterogeneity of feedstocks can make it challenging to produce biochar with consistent quality. This points to the need for advancement in the available technologies, which would incurs additional cost, and
+could lead to an increase in the production cost of biochar. There are some major concerns over the socio-political barriers because of the difficulties faced by the producers
+in complying with policies, regulations, and certification requirements. Serious concern among most producers is related to the policies regarding carbon credits generated from production and utilization of biochar. Obtaining financial reward for carbon credits would add to the profits and motivate producers to scale up their facilities and further expand the biochar market. Local producers are least worried about the environmental barriers associated with utilizing biomass and land use changes, as biochar is being promoted as a carbon sequestration solution in the state.
+Figure 7 shows the preference of various market/application sectors for biochar in next 3 years based on the collected responses (n = 20), where the higher value indicates the
+most preferred market, and lower value indicates the less
+© 2021 Society of Chemical Industry and John Wiley & Sons, Ltd | Biofuels, Bioprod. Bioref. (2021); DOI: 10.1002/bbb.2280 11
+
+SK Thengane et al. Original Article: Market prospects for biochar in California
+  Figure 6. Relative extents of different factors posing as barriers based on the collected responses (*X-axis higher value indicates the higher barrier and lower value indicates the lower barrier).
+Figure 7. Ranking of various market/application sectors for biochar in next 3 years (*X-axis higher value indicates the higher or most preferred market, and lower value indicates the less preferred market).
+© 2021 Society of Chemical Industry and John Wiley & Sons, Ltd | Biofuels, Bioprod. Bioref. (2021); DOI: 10.1002/bbb.2280
+
+Original Article: Market prospects for biochar in California
+SK Thengane et al.
+preferred market. Most producers believe that the soilbased applications of biochar will be the preferred market with agriculture and gardening leading the market. This is followed by the utilization of biochar in soil remediation of mines and landfills, followed by co-composting and manure management (which also then end up as soil application).
+In the case of livestock feed and manure management, it
+was earlier found that these applications result in maximum environmental and economic benefits. However, certain issues and national consensus are still pending with respect
+to utilizing biochar as a feeding material for cattle. Although biochar has been proved effective as a standalone filter as
+well as a good precursor for activated carbon,87 the filtration industry is moderately preferred in near future. Other upcoming avenues for utilizing biochar include construction and urban landscaping, and bioplastics and polymers. Finally, some efforts have been initiated to use biochar in energy storage and catalysis but most of the work in this area is still at R&D level. Hence, this will be the least preferred market for biochar in the next 3 years.
+Recommendations
+Our study found that soil-based applications will be the largest market for biochar and it is likely to be used primarily in high-end specialty markets because of its current high price. For example, farmers growing products that are high cost and generate high revenue per acre, such as marijuana, nuts, wines, expensive fruits and flowers, etc., could earn higher profits through soil-based biochar application. Organic growers and landowners with poor soil will have relatively higher inclination towards using more biochar
+than non-organic growers and landowners with good soil. In addition to these soil-based applications, there is a growing interest in developing biochar into new products to take advantage of its peculiar properties. As new companies come up and existing companies expand production, the price of biochar should decrease and the use of biochar could begin to be economical for a greater number of potential clients. Based on the activities undertaken in the present study, we propose the following recommendations to overcome most of the barriers to biochar market success:
+Collaboration and initiatives
+The collaboration among and between different industrial, academic, and other independent entities including unions or co-operative groups of various end users will accelerate the biochar industrial growth. For example, USDA provided a $9.8 million grant to Colorado State University to work with Cool Planet to convert diseased wood (from
+the pine bark beetle) into fuel and biochar.80 California Department of Conservation works together with the Natural Resources Agency and the Strategic Growth Council to implement the Sustainable Agricultural Lands Conservation (SALC) program for reducing greenhouse gas emissions, strengthening the economy, and improving public health
+and the environment, particularly in poor communities.88 USDA, USBI, and IBI have made strong efforts to improving the collaboration and information exchange on biochar. More such collaborations and initiatives will not only promote the production and application of biochar within the state but will also motivate new entrepreneurs and investors in the field.
+Market research and promotion
+Lack of market research for a specific region is one of the prime market-related barriers. As pointed out by Olivier,89 there are significant misunderstandings related to biochar market because of widely used do‐it‐yourself approaches, and the lack of reliable data and analyses. This may cause further headwinds against widespread market adoption. Recent efforts have focused on building biochar-based products through post-preparations such as co-composting, ionization, or activation. These efforts are essential for building products that are actually customized to market needs. Hence, there is a need for reliable and accessible data or analysis of biochar market status, trends, and predictions in different sectors. This will help to change customers’ perceptions towards biochar and encourage the producers to target appropriate customer segments in a specific geographical region. The only promotion being made at present for biochar is the net negative emissions technology but that, too, lacks clarity on how the offset emissions will be calculated and paid. For market success, promotions should also be based on the effectiveness of biochar in desired applications and impacts on the income of stakeholders and the state’s economy.
+Research and field trials
+Most of the research has focused primarily on determining the impacts of the raw material and process conditions on the biochar properties. The effects of biochar on soil, crops, and the environment were studied mainly in short-term and simulated experiments but limited studies report long-term field experiments. Long-term field trails should involve USDA Agricultural Research Service (ARS) as a partner. This would generate reliable environmental risk assessments and cumulative feedback effects of biochar application in real fields. Academic institutions and technology developers can carry out their research and develop prototypes but for long-term field trials, they should involve the actual biochar
+© 2021 Society of Chemical Industry and John Wiley & Sons, Ltd | Biofuels, Bioprod. Bioref. (2021); DOI: 10.1002/bbb.2280 13
+© 2021 Society of Chemical Industry and John Wiley & Sons, Ltd | Biofuels, Bioprod. Bioref. (2021); DOI: 10.1002/bbb.2280
+SK Thengane et al.
+Original Article: Market prospects for biochar in California
+end users in the process. For example, a farm owner owning 100 acres can be convinced to give 10% of his land for biochar trials with the assurance of appropriate compensation in an unlikely case of negative results. Initiatives like USBI and
+IBI can promote such collaborations, which would help to generate more evidence about biochar benefits. However, the government or private investors will have to be convinced to fund such projects, as universities and research institutes may not have the provision for risk compensation payments.
+Feedstock procurement
+Waste biomass and biomass residues from agriculture, forest, and waste sectors should be tapped as feedstock, without significantly affecting land use. Feedstock such as poultry and dairy waste,90 sludge from sewage and wastewater treatment plant,60 algae,91 and some components of municipal solid waste92 are being explored for biochar production. Biomass collection, transportation, and conversion costs have been identified as major challenges to the production of market- responsive bioproducts. Considering the distributed nature of biomass, the decentralized production of biochar (<0.5 ton/h) could be a better solution than a big centralized plant where raw biomass needs to be transported. Another benefit with decentralized small-scale units is consistent quality of biochar as the feedstock heterogeneity will be minimized in decentralized operations.93 However, for the sites with easy access to abundant biomass (e.g., rice mills, logging sites, etc.), even centralized plants could be advantageous and economical. Pretreatment processes such as size reduction, drying, torrefaction could have a significant impact on the biochar production economics, and should be evaluated. Depending on the biomass and the source, stationary or mobile decentralized drying or/and torrefaction units81,94 could be deployed not only to minimize transportation
+costs and emissions but also improve the performance of subsequent conversion process.
+Furthermore, the price at which the feedstock can be procured from biomass generators becomes a very important consideration. To the extent possible, feedstock should
+be selected where it carries a negative cost. For example, landowners with excess biomass residues in areas with high wildfire hazard are often willing to pay a premium to have their residues removed. As another example, in peri-urban wooded areas, regulations often impose a requirement to transport excess non-merchantable biomass feedstock to
+the landfill rather than allowing for open-air burning as a disposal method. In such cases, biochar production can often reap the financial benefit of the avoided tipping fees, which could run as high as $125/ton, with a median of $45/ton in California.95
+Polygeneration
+Polygeneration is the simultaneous generation of two or
+more energy products such as heat, power, hydrogen,
+char, etc., in a single integrated process.96 It is possible in biomass gasification or pyrolysis-based systems developed
+for generation of power and chemicals. For these plants, additional profit by selling the co-product biochar is an incentive. This may be best suited for centralized or stationary set-ups processing a higher amount of biomass (>2 tons/h).
+Definitions and standards
+Biochar can be of various types and produced from various processes, so it is important to have a standardized definition of biochar to avoid any confusion with charcoal and have
+a consensus. Organizations such as IBI and the European Biochar Certificate (EBC) have developed and promoted some standards of defining biochar but there is still a need for a single updated definition at global level. Based on interactions with the respondents, we would define ‘biochar’ as a carbon- rich solid product obtained from biomass with the objective of sequestering its original carbon irrespective of the application. Having a globally accepted definition with a common objective will help bring together academicians and entrepreneurs.
+Carbon credits
+Biochar, as a promising negative emissions technology, can flourish more if the stakeholders in the biochar ecosystem, especially the end users, are given due carbon credits for offset emissions. However, key issues associated with credits are identifying and evaluating the actual credits and the ownerships because of numerous components involved and absence of a standard protocol.97 For a localized biochar production and application case, the biochar producer can keep a record of where all the biochar is incorporated into soils.98 Carbon credits ownership should be worked out by contract, between the project proponents (i.e., feedstock supplier, biochar producer, and farmer) and the buyer.99 Recently released Microsoft carbon offset program selected more than 99% of the carbon removal volume through forest and soil projects.100 An emerging business model based on carbon transformation suggests that entities removing carbon are paid by the ones who neutralize their residual emissions with verified carbon removals. Pacific Biochar has secured the first carbon credits for biochar in the USA. Likewise, Puro. Earth, a B2B carbon marketplace, recently qualified biochar for carbon credit, and Carbo Culture became one of its first biochar companies available for carbon trading.101
+These are some of the recommendations based on the limited number of responses from the producers’ point of view in
+
+Original Article: Market prospects for biochar in California
+SK Thengane et al.
+California. The biochar market is a multi-faceted one involving several stakeholders and hence there is a huge scope to widen this study. The present analysis is focused on California as a case study but it is possible to apply a similar market sizing approach to other regions as well as at national and global levels. The biomass availability, policies, and hence the factors posing as barriers will be different in different regions. Moreover, we did not consider the biomass from municipal and industrial sectors in this analysis, which could potentially be used to produce biochar. Hence, the number of factors acting as barriers could be varied and analyzed using different tools
+of market assessment. Analysis similar to one presented in this study can be an efficient guide for the upcoming entrepreneurs, interested investors, and the policymakers in biochar area.
+Conclusions
+In this study, the scale of biochar production and application was assessed, and potential markets were identified for the state of California. Various sectors were explored for the application of biochar produced from local biomass using surveys and market sizing approach. Although the number of companies in biochar sector is increasing, most of them are in early stages with smaller prototypes and no stable demand or market assurance. In terms of economics and emissions, livestock feed and manure management have been found to be the most promising applications for biochar. However, existing trends are strongly inclined towards commercial agriculture, horticulture, and home gardening. As market is
+a major concern for small producers, it is important to assess the market at each stage to minimize the risks, particularly for the upcoming innovations in biochar product and technology.
+Our survey of the local producers and the field experts revealed that access to capital investment for scale-up is the biggest barrier reported by the majority of respondents, followed by the market and demand related factors. The extent of barriers to biochar success decreased in the order: market
+> scale-up > technical > socio-political > environmental. Soil-based applications of biochar are reported to be the most preferred market followed by filtration and livestock feed. Multi­ faceted applications with environmental benefits have already put the biochar on forefront of R&D and pilot scale investments. In terms of market, different strategies such as rewarding carbon credits, increasing awareness and improving production processes would further help commercialize biochar.
+Acknowledgement
+S.K.T. and D.S. are thankful to the California Department of Forestry and Fire Protection (Project Grant Number 70225)
+for funding and support. K.S.K. would like to acknowledge support from an Activate Fellowship and a Natural Sciences and Engineering Research Council Fellowship. This article reflects the views of the authors and does not necessarily reflect the view of the California Department of Forestry
+and Fire Protection. We are thankful to Larry Swan (USDA), Tom Miles (USBI), Pacific Biochar (California), and Takachar (Boston) for their inputs on the questionnaire and the information on biochar producers. Finally, we are thankful
+to NSF I-Corps 2019 San Francisco cohort program for training S.K.T. and K.S.K. on the importance of market in technological research, and to all the respondents to our questionnaire for their time and support throughout the study.
+References
+1. International Biochar Initiative. Available: https://biochar­ international.org/resources/ [3 March 2021].
+2. Manyà JJ, Pyrolysis for biochar purposes: a review to establish current knowledge gaps and research needs. Environ Sci Technol 46:7939–7954 (2012).
+3. Brown TR, Wright M and Brown RC, Estimating profitability of two biochar production scenarios: slow pyrolysis vs fast pyrolysis. Biofuels Bioprod Biorefin 5:54–68 (2011).
+4. Woolf D, Lehmann J and Lee DR, Optimal bioenergy power generation for climate change mitigation with or without carbon sequestration. Nat Commun 7:1–11 (2016).
+5. Thengane SK and Bandyopadhyay S, Biochar mines: panacea to climate change and energy crisis ? Clean Technol Environ Policy 22:1–5 (2020).
+6. Sanchez DL, Nelson JH, Johnston J, Mileva A and Kammen DM, Biomass enables the transition to a carbon-negative power system across western North America. Nat Clim Change 5:230–234 (2015).
+7. Rogelj J, Shindell D, Jiang K, Fifita S and Al E, Mitigation pathways compatible with 1.5°C of sustainable development, in Global Warming of 1.5°C. an IPCC Special Report on the Impacts of Global Warming of 1.5°C above Pre-Industrial Levels and Related Global Greenhouse Gas Emission Pathways, in the Context of Strengthening the Global Response to the Threat of Climate Change, Vol. 163. (2018).
+8. Woolf D, Amonette JE, Street-Perrott FA, Lehmann J and Joseph S, Sustainable biochar to mitigate global climate change. Nat Commun 1:56 (2010).
+9. Smith P, Soil carbon sequestration and biochar as negative emission technologies. Glob Chang Biol 22:1315–1324 (2016).
+10. Wu P, Ata-Ul-Karim ST, Singh BP, Wang H, Wu T, Liu C et al., A scientometric review of biochar research in the past 20years (1998–2018). Biochar 1:23–43 (2019).
+11. Baker, S. E., Stolaroff JK, Peridas G, Pang SH et al. Getting to Neutral-Options for Negative Carbon Emissions in California. Available: https://www.climateworks.org/programs/carbon­ dioxide-removal/getting-to-neutral/ [1 December 2020].
+12. Hawken P, Drawdown: The most Comprehensive Plan Ever Proposed to Reverse Global Warming. Penguin Books. Penguin Books, New York (2017). https://doi. org/10.1017/9781316337974.011.
+13. Global Biochar Market by Technology, by Application, by Region, Competition, Forecast & Opportunities, 2024 (2019). Available: https://www.reportlinker.com/p05757886/Global-Biochar­ Market-By-Technology-By-Application-By-Region-Competition­
+© 2021 Society of Chemical Industry and John Wiley & Sons, Ltd | Biofuels, Bioprod. Bioref. (2021); DOI: 10.1002/bbb.2280 15
+© 2021 Society of Chemical Industry and John Wiley & Sons, Ltd | Biofuels, Bioprod. Bioref. (2021); DOI: 10.1002/bbb.2280
+SK Thengane et al.
+Original Article: Market prospects for biochar in California
+Forecast-Opportunities.html?utm_source=PRN, 5757886 [12
+January 2021].
+14. Global Biochar Market Size, Share 2018 Report: Industry
+Demand, Segments, Trends, Analysis and Forecast, 2025 (2019). Available: https://www.zionmarketresearch.com/ sample/biochar-market [12 January 2021].
+15. Hoffman-Krull, K. Biochar Market Analysis for San Juan County and the Pacific Northwest (2019). Available: https:// www.nnrg.org/wp-content/uploads/2018/12/Biochar-Market- Research-Paper-FINAL.pdf.
+16. Global Biochar Market Forecast 2020–2028 (2020). Available: https://www.asdreports.com/market-research-report-499098/ global-biochar-market-forecast, ASDR-499098 [12 January 2021].
+17. Electricity Data. California Energy Commission. Available: https://ww2.energy.ca.gov/almanac/electricity_data/total_ system_power.html [23 December 2020].
+18. Koide RT, Nguyen BT, Skinner RH, Dell CJ, Peoples MS, Adler PR et al., Biochar amendment of soil improves resilience to climate change. GCB Bioenergy 7:1084–1091 (2015).
+19. Sanchez DL, Zimring T, Mater C and Harrell K, Literature Review and Evaluation of Research Gaps to Support Wood Products Innovation. California Board of Forestry and Fire Protection, Sacramento, California (2020).
+20. Aldas RE, Biomass in California’s energy portfolio: advancement through Research and Development, in Public Meeting of the Biomass Research and Development Technical Advisory Committee. California Energy Commission Research & Development, Sacramento, California (2017).
+21. Wyn HK, Zárate S, Carrascal J and Yermán L, A novel approach to the production of biochar with improved fuel characteristics from biomass waste. Waste Biomass Valorization 11:6467–6481 (2020).
+22. McAvoy D and Dettenmaier M, Hazardous Fuels Reduction Using Flame Cap Biochar Kilns. Utah State University Forestry Extension, Logan, Utah (2017) Available: https://forestry.usu. edu/files/utah-forest-facts/hazardous-fuels-reduction-using­ flame-cap-biochar-kilns.pdf.
+23. Amonette J, Sjoding D, Garcia-Perez M and Fuchs M, Biochar from Biomass and its Potential Agronomic and Environmental Use in Washington: A Promising Alternative to Drawdown Carbon from the Atmosphere and Develop a New Industry. Pacific Northwest National Lab, Richland, WA (2016).
+24. Neves D, Thunman H, Matos A, Tarelho L and Gómez-Barea A, Characterization and prediction of biomass pyrolysis products. Prog Energy Combust Sci 37:611–630 (2011).
+25. Chopra S and Jain AK, A review of fixed bed gasification systems for biomass. Agric Eng Int CIGR Ejournal IX:1–23 (2007).
+26. Kung KS, Thengane SK, Lim CJ, Sokhansanj S and Ghoniem AF, Thermal loss analysis and improvements for biomass conversion reactors. Energ Conver Manage 218:112924 (2020).
+27. Bourgeois JP and Doat J, Torrefied wood from temperate and tropical species. Advantages and prospects, in Bioenergy 84. Proceedings of Conference 15–21 June 1984, Volume III. Biomass Conversion Vol III, Goteborg, Sweden (1984).
+28. Pentananunt R, Rahman ANMM and Bhattacharya SC, Upgrading of biomass by means of torrefaction. Energy 15:1175–1179 (1990).
+29. Bates RB and Ghoniem AF, Biomass torrefaction: modeling of volatile and solid product evolution kinetics. Bioresour Technol 124:460–469 (2012).
+30. Kung KS, Shanbhogue S, Slocum AH and Ghoniem AF, A decentralized biomass torrefaction reactor concept. Part I: Multi-scale analysis and initial experimental validation. Biomass Bioenergy 125:196–203 (2019).
+31. Ponnusamy VK, Nagappan S, Bhosale RR, Lay CH, Duc Nguyen D, Pugazhendhi A et al., Review on sustainable
+production of biochar through hydrothermal liquefaction: physico-chemical properties and applications. Bioresour Technol 310:123414 (2020).
+32. Hills CD, Tripathi N, Singh RS, Carey PJ and Lowry F, Valorisation of agricultural biomass-ash with CO2. Sci Rep 10:13801 (2020).
+33. Hunt, J. & Mcintosh, C. The Big California Biochar Model: Forest Biomass Management, Carbon Drawdown, Drought Resiliency, and Nitrogen Conservation on a Statewide Scale. (2019).
+34. Dokoohaki H, Miguez FE, Laird D and Dumortier J, Where should we apply biochar? Environ Res Lett 14:044005 (2019).
+35. Galinato SP, Yoder JK and Granatstein D, The economic value of biochar in crop production and carbon sequestration. Energy Policy 39:6344–6350 (2011).
+36. Matuštík J, Hnátková T and Kočí V, Life cycle assessment of biochar-to-soil systems: a review. J Clean Prod 259:120998 (2020).
+37. Thers H, Djomo SN, Elsgaard L and Knudsen MT, Biochar potentially mitigates greenhouse gas emissions from cultivation of oilseed rape for biodiesel. Sci Total Environ 671:180–188 (2019).
+38. Rogers EM, Diffusion of Innovations. The Free Press, New York (1983).
+39. Gallagher KS, Grübler A, Kuhl L, Nemet G and Wilson C, The energy technology innovation system. Annu Rev Env Resour 37:137–162 (2012).
+40. Dillman DA, Mail and Internet Surveys: The Tailored Design Method. John Wiley, New York (2000).
+41. Saaty TL, The Analytic Hierarchy Process. McGraw Hill, New York (1980).
+42. Kaetzl K, Lübken M, Uzun G, Gehring T, Nettmann E, Stenchly K et al., On-farm wastewater treatment using biochar from local agroresidues reduces pathogens from irrigation water for safer food production in developing countries. Sci Total Environ 682:601–610 (2019).
+43. Barber ST, Yin J, Draper K and Trabold TA, Closing nutrient cycles with biochar- from filtration to fertilizer. J Clean Prod 197:1597–1606 (2018).
+44. Li S, Chan CY, Sharbatmaleki M, Trejo H and Delagah S, Engineered biochar production and its potential benefits in a closed-loop water-reuse agriculture system. Water 12:22 (2020).
+45. Sahoo K, Bilek E, Bergman R and Mani S, Techno-economic analysis of producing solid biofuels and biochar from forest residues using portable systems. Appl Energy 235:578–590 (2019).
+46. Young P and Lawrence J, Biochar Market Profile Report. Worcester Polytechnic Institute, Worcester (2019).
+47. State of the Biochar Industry 2015. Available: https://biochar­ international.org/commercialization/ [21 January 2021].
+48. Miles, T. United States Biochar Initiative. 1–7 (2020).
+49. GHG current California emission inventory data. California
+Air Resources Board 1–5 (2019). Available: https://ww2.arb.
+ca.gov/ghg-inventory-data [20 December 2020].
+50. Cayuela ML, van Zwieten L, Singh BP, Jeffery S, Roig A and
+Sánchez-Monedero MA, Biochar’s role in mitigating soil nitrous oxide emissions: a review and meta-analysis. Agric Ecosyst Environ 191:5–16 (2014).
+51. California Department of Water Resources. 1–3. Available: https://water.ca.gov/Programs/Water-Use-And-Efficiency/ Agricultural-Water-Use-Efficiency [24 December 2020].
+52. Yu OY, Raichle B and Sink S, Impact of biochar on the water holding capacity of loamy sand soil. Int J Energy Environ Eng 4:1–9 (2013).
+53. Nickles, C. Layperson’s Guide to California Wastewater, Sacramento, California (2013). Available: www.watereducation.org.
+54. Manyuchi MM, Mbohwa C and Muzenda E, Potential to use municipal waste bio char in wastewater treatment for nutrients recovery. Phys Chem Earth 107:92–95 (2018).
+55. Leng RA, Preston TR and Inthapanya S, Biochar reduces enteric methane and improves growth and feed conversion in
+
+Original Article: Market prospects for biochar in California
+SK Thengane et al.
+local ‘Yellow’ cattle fed cassava root chips and fresh cassava
+foliage. Livest Res Rural Dev 24:3–9 (2012).
+56. California Agricultural Production Statistics: 2018 Crop Year.
+California Department of Food and Agriculture (2018).
+57. Blanco-Canqui H, Laird DA, Heaton EA, Rathke S and
+Acharya BS, Soil carbon increased by twice the amount of biochar carbon applied after 6years: field evidence of negative priming. GCB Bioenergy 12:240–251 (2020).
+58. LaCanne CE and Lundgren JG, Regenerative agriculture: merging farming and natural resource conservation profitably. PeerJ 6:4428 (2018).
+59. Conservation stewardship program. USDA Natural Resources Conservation Service, California (2020). Available: https://www. nrcs.usda.gov/wps/portal/nrcs/main/ca/programs/financial/csp/.
+60. Vilas-Boas ACM, Tarelho LAC, Kamali M, Hauschild T
+et al., Biochar from slow pyrolysis of biological sludge from wastewater treatment: characteristics and effect as soil amendment. Biofuels Bioprod Biorefin 15:1054–1072 (2021). https://doi.org/10.1002/bbb.2220 [10 February 2021].
+61. Parikh S and Gelardi D, Evaluation of biochar for on-farm soil Management in California, in California Department of Food and Agriculture Fertilizer Research and Education Program Twenty Sixth Annual Conference, Seaside, California, pp. 48–52 (2018).
+62. Son EB, Poo KM, Chang JS and Chae KJ, Heavy metal removal from aqueous solutions using engineered magnetic biochars derived from waste marine macro-algal biomass. Sci Total Environ 615:161–168 (2018).
+63. California Greenhouse Gas Emissions for 2000 to 2017 (2019). Available: https://ww3.arb.ca.gov/cc/inventory/pubs/ reports/2000_2017/ghg_inventory_trends_00-17.pdf.
+64. Qambrani NA, Rahman MM, Won S, Shim S and Ra C, Biochar properties and eco-friendly applications for climate change mitigation, waste management, and wastewater treatment: a review. Renew Sustain Energy Rev 79:255–273 (2017). https://www.sciencedirect.com/science/article/pii/ S1364032117306937.
+65. Grossi G, Goglio P, Vitali A and Williams AG, Livestock and climate change: impact of livestock on climate and mitigation strategies. Anim Front 9:69–76 (2019).
+66. Steiner C, Sánchez-Monedero M and Kammann C, Biochar as an additive to compost and growing media, in Biochar for Environmental Management, ed. by Lehmann J and Joseph S. Rout, London, pp. 715–735 (2015). https://doi. org/10.4324/9780203762264-32.
+67. Yuan Y, Chen H, Yuan W, Williams D, Walker JT and Shi
+W, Is biochar-manure co-compost a better solution for soil health improvement and N2O emissions mitigation? Soil Biol Biochem 113:14–25 (2017).
+68. Deng LF, Dong G, Cai XX, Tang JH and Yuan HR, Biochar derived from the inner membrane of passion fruit as cathode catalyst of microbial fuel cells in neutral solution. J Fuel Chem Technol 46:120–128 (2018).
+69. Liu W-J, Jiang H and Yu H, Emerging applications of biochar­ based materials for energy storage and conversion. Energ Environ Sci 12:1751–1779 (2019). https://doi.org/10.1039/ c9ee00206e.
+70. Caguiat JN, Arpino G, Krigstin SG, Kirk DW and Jia CQ, Dependence of supercapacitor performance on macro- structure of monolithic biochar electrodes. Biomass Bioenergy 118:126–132 (2018).
+71. Gao Z, Zhang Y, Song N and Li X, Biomass-derived renewable carbon materials for electrochemical energy storage. Mater Res Lett 5:69–88 (2017).
+72. Draper K, Biochar: If You Make It, Will They Come? Biomass Magazine, Grand Forks, North Dakota, pp. 1–2 (2019).
+73. Shen Y and Fu Y, Advances in: in situ and ex situ tar reforming with biochar catalysts for clean energy production. Sustainable Energy Fuels 2:326–344 (2018).
+74. Zhang S, Yu Y, Sheng K, Liu J, E S, Jin C et al., Catalytic valorization of lignocellulosics: from bulk biofuels to value- added chemicals. Biofuels Bioprod Biorefin 15:592–608 (2021).
+75. Yang S, Wi S, Lee J, Lee H and Kim S, Biochar-red clay composites for energy efficiency as eco-friendly building materials: thermal and mechanical performance. J Hazard Mater 373:844–855 (2019).
+76. Wang L, Chen L, Tsang DCW, Kua HW, Yang J, Ok YS et al., The roles of biochar as green admixture for sediment-based construction products. Cem Concr Compos 104:103348 (2019).
+77. Chen XW, Wong JTF, Ng CWW and Wong MH, Feasibility of biochar application on a landfill final cover—a review on balancing ecology and shallow slope stability. Environ Sci Pollut Res 23:7111–7125 (2016).
+78. Sharma G, Kaur M, Punj S and Singh K, Biomass as a sustainable resource for value-added modern materials: a review. Biofuels Bioprod Biorefin 14:673–695 (2020).
+79. Banzaert A, Viability of Waste-based Cooking Fuels for Developing Countries: Combustion Emissions and Field Feasibility. Massachusetts Institute of Technology, Cambridge, Massachusetts (2013).
+80. Biochar: Prospects of Commercialization. USDA (2014). Available: http://cenusa.iastate.edu.
+81. Thengane SK, Kung K, York R, Sokhansanj S, Lim CJ and Sanchez DL, Technoeconomic and emissions evaluation of mobile in-woods biochar production. Energ Conver Manage 223:113305 (2020). https://www.sciencedirect.com/science/ article/pii/S0196890420308438.
+82. Putting a price on pollution: carbon pollution pricing systems across Canada. Government of Canada 1–3. Available: https:// www.canada.ca/en/environment-climate-change/services/ climate-change/pricing-pollution-how-it-will-work.html.
+83. Karo Olori, The Top 20 Reasons Startups Fail. CB Insights 1–9 (2019). Available: https://www.cbinsights.com/research/ startup-failure-reasons-top/ [30 October 2020].
+84. Fuchs, M., Garcia-Perez, M. & Sjoding, D. Biochar: Background & Early Steps to Market Development (2012). Available: https://fortress.wa.gov/ecy/publications/ SummaryPages/1207067.html.
+85. Whitfield, J. Getting the Biochar Industry up to Speed: What Can we Learn from the Pellet Business? (2020). Available: https://biochar-international.org/ gettingthebiocharindustryuptospeed/.
+86. Aulet B, Disciplined Entrepreneurship 24 Steps to a Successful Startup. John Wiley & Sons, Inc, New York (2017). https://www.d-eship.com/en/book-workbook/.
+87. Thompson KA, Shimabuku KK, Kearns JP, Knappe DRU, Summers RS and Cook SM, Environmental comparison of biochar and activated carbon for tertiary wastewater treatment. Environ Sci Technol 50:11253–11262 (2016).
+88. California Department of Conservation (2020). Available: https://www.conservation.ca.gov/dlrp/grant-programs/SALCP.
+89. Olivier P, Where is biochar’s killer app? in The Burning Question, New York pp. 1–6 (2021).
+90. Arefin MA, Nabi MN and McIntosh S, Harnessing energy from Australian dairy waste: utilizing five methodologies. Biofuels Bioprod Biorefin 14:1180–1196 (2020).
+91. Karthik V, Kumar PS, Vo DVN, Sindhu J, Sneka D, Subhashini B et al., Hydrothermal production of algal biochar for environmental and fertilizer applications: a review. Environ
+© 2021 Society of Chemical Industry and John Wiley & Sons, Ltd | Biofuels, Bioprod. Bioref. (2021); DOI: 10.1002/bbb.2280 17
+
+SK Thengane et al.
+Original Article: Market prospects for biochar in California
+Chem Lett 19:1025–1042 (2020). https://doi.org/10.1007/
+s10311-020-01139-x.
+92. Białowiec A, Micuda M and Koziel JA, Waste to carbon:
+densification of torrefied refuse-derived fuel. Energies
+11:1–20 (2018).
+93. Kleiner K, The bright prospect of biochar. Nat Clim Change
+1:72–74 (2009).
+94. Thengane SK, Burek J, Kung KS, Ghoniem AF and Sanchez
+DL, Life cycle assessment of rice husk torrefaction and prospects for decentralized facilities at rice mills. J Clean Prod 275:123177 (2020).
+95. Landfill Tipping Fees in California. California Department of Resources Recycling and Recovery, Sacramento, California (2015).
+96. Rong A and Lahdelma R, Role of polygeneration in sustainable energy system development challenges and opportunities from optimization viewpoints. Renew Sustain Energy Rev 53:363–372 (2016).
+97. Hansson A, Haikola S, Fridahl M, Yanda P et al., Biochar as multi-purpose sustainable technology: experiences from projects in Tanzania. Environ Dev Sustainability 23:5182– 5214 (2020). https://doi.org/10.1007/s10668-020-00809-8.
+98. Weisberg, P., Dalaney, M. & Hawkes, J. Carbon Market Investment Criteria for Biochar Projects. California Energy Commission, Sacramento, California (2014).
+99. De Gryze S, Cullen M and Durschinger L, Evaluation of the opportunities for generating carbon offsets from soil sequestration of biochar. Clim Action Reserv:1–99 (2010).
+100. Joppa, L. & Willmott, E. Microsoft carbon removal - Lessons from an early corporate purchase https://query.prod.cms. rt.microsoft.com/cms/api/am/binary/RE4MDlc [12 March 2021].
+101. Puro.Earth. Available: https://puro.earth/join [22 March 2021].
+  Josiah Hunt
+Josiah Hunt is a chief executive officer of Pacific Biochar. He graduated
+from the University of Hawaii (UH)
+Hilo in 2004 with a BS in agroecology and environmental quality. He has helped to pioneer methods for
+biochar production, processing, and application in farming systems since 2008.
+  Haris R. Gilani
+Haris R. Gilani is an assistant project scientist in the Department of Environmental Science, Policy, and Management at University of California, Berkeley. He earned his PhD in forest products marketing from the University of British Columbia, Vancouver. His
+research interests include bioenergy and biofuels, climate and energy policy, and forest economics.
+  C. Jim Lim
+C. Jim Lim is a professor in the Chemical and Biological Engineering Department, University of British Columbia, Vancouver. His research interests include biomass and fossil fuels, spouted bed, gas–particle system hydrodynamics, heat transfer, and hydrogen production.
+  Sonal K. Thengane
+Sonal K. Thengane is an assistant professor in the Hydro and Renewable Energy Department, Indian Institute of Technology (IIT), Roorkee. Earlier, he was a postdoc at University of California, Berkeley and Massachusetts Institute of Technology
+(MIT) working on developing decentralized biomass torrefaction systems. His research interests include waste management, biomass conversion and upgrading, and biochar applications.
+  Shahabaddine Sokhansanj
+Shahabaddine Sokhansanj is an adjunct professor in the Chemical and Biological Engineering Department, University of British Columbia, Vancouver. His core research is in feedstock engineering, focusing on harvesting, drying, fractionating, and
+the densification of cellulosic biomass. These processes add value to an otherwise low-value commodity.
+  Daniel L. Sanchez
+Daniel L. Sanchez is an assistant specialist in the Department of Environmental Science, Policy, and Management, and a Cooperative Extension Specialist, at the University of California, Berkeley. He was
+an American Association for the Advancement of Science Congressional Science and
+Engineering Fellow, and his interests include carbon dioxide removal, energy systems modeling, technology commercialization, and policy.
+  Kevin Kung
+Kevin Kung is a postdoc at the Chemical and Biological Engineering Department, University of British Columbia, Vancouver. He earned
+his PhD from MIT in 2017, and was a Cyclotron Road fellow affiliated with the Lawrence Berkeley National
+Laboratory, working on small-scale, decentralized biomass torrefaction systems.
+© 2021 Society of Chemical Industry and John Wiley & Sons, Ltd | Biofuels, Bioprod. Bioref. (2021); DOI: 10.1002/bbb.2280

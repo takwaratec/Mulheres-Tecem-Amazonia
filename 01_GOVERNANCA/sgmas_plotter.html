@@ -289,9 +289,9 @@
             background: none !important;
             border: none !important;
             box-shadow: none !important;
-            font-size: 0.55rem;
+            font-size: 0.65rem;
             font-weight: 700;
-            color: #D2042D;
+            color: #000;
             text-shadow: 1px 1px 0px #fff;
             margin-top: -22px !important;
             text-transform: uppercase;
@@ -299,6 +299,17 @@
             font-family: 'Inter', sans-serif !important;
         }
 
+        .dist-label {
+            background: rgba(255,255,255,0.9);
+            color: #dc2626;
+            border: 0.1px solid #dc2626;
+            padding: 2px 4px;
+            border-radius: 0px;
+            font-size: 0.6rem;
+            font-weight: 800;
+            font-family: 'Inter', sans-serif !important;
+            box-shadow: 2px 2px 0px rgba(220, 38, 38, 0.1);
+        }
 
         .vt-marker-filter {
             filter: drop-shadow(2px 4px 6px rgba(0,0,0,0.4));
@@ -542,8 +553,8 @@
                     </div>
                 </div>
                 <div class="header-stats" style="border-top:0.5px solid #000; padding-top:10px; margin-top:10px;">
-                    <span style="font-weight:900; color:#000;">1.150 FAMÍLIAS</span>
-                    <span style="font-weight:900; color:var(--accent);">R$ 30.0M GLOBAL | R$ 16.0M CAPEX</span>
+                    <span style="font-weight:900; color:#000;">1.050 FAMÍLIAS</span>
+                    <span style="font-weight:900; color:var(--accent);">R$ 25.0M CAPEX</span>
                 </div>
             </div>
             <div class="content">
@@ -605,11 +616,11 @@
         const masterData = [
             {
                 name: "Rio Branco (AC)", coords: [-9.974, -67.810], type: "Hub Mestre", pop: "413.418", idh: "0,727 (Medio)",
-                biomass: "Bambu Guadua (143,6 Mg/ha)", health: "TMI 16,2 (AC)", sanitary: "42% Gap", cost: "R$ 14.450.000,00",
+                biomass: "Bambu Guadua (143,6 Mg/ha)", health: "TMI 16,2 (AC)", sanitary: "42% Gap", cost: "R$ 8.500.000,00",
                 threats: "FEMINICÍDIO: Violência sexual 36,8% maior que média nacional; Crise hídrica severa; 38% cobertura AC.",
                 inventions: [
                     { id: "T01-09", name: "Canteiro-Escola Hub", trl: "9", icon: "../assets/icons/human_09_black.svg" },
-                    { id: "T02", name: "Reator Industrial 10m³ NR-13 (Coração Térmico)", trl: "7", icon: "../assets/icons/human_05_black.svg" }
+                    { id: "T02", name: "Reator Biorrefinaria", trl: "7", icon: "../assets/icons/human_05_black.svg" }
                 ],
                 partners: ["UnB", "UFAC", "Consórcio", "BNDES"],
                 roi: { carbon: "3.200 t", social: "R$ 16.2M" },
@@ -638,18 +649,17 @@
             },
             {
                 name: "Tarauacá (AC)", coords: [-8.156, -70.766], type: "Polo Regional", pop: "43.151", idh: "0,539 (Baixo)",
-                biomass: "Fibras / Castanha", health: "Precarizado", sanitary: "78% Gap", cost: "R$ 0,00",
+                biomass: "Fibras / Castanha", health: "Precarizado", sanitary: "78% Gap", cost: "R$ 4.000.000,00",
                 partners: ["Consórcio", "Cooperativas", "UFAC"],
                 roi: { carbon: "1.800 t", social: "R$ 6.2M" },
                 tech: [{ k: "Bio-Artesanato", v: "Unidade de beneficiamento de fibras e castanha; marca coletiva." }], chart: [15, 60, 25]
             },
             {
                 name: "Cruzeiro do Sul (AC)", coords: [-7.631, -72.670], type: "Polo Regional", pop: "98.382", idh: "0,666 (Medio-Baixo)",
-                biomass: "Miritizal / Acai", health: "Critico", sanitary: "65% Gap", cost: "R$ 209.145,00",
+                biomass: "Miritizal / Acai", health: "Critico", sanitary: "65% Gap", cost: "R$ 4.500.000,00",
                 inventions: [
                     { id: "T11", name: "Domo-Fábrica (3un)", trl: "8", icon: "../assets/icons/human_19_black.svg" },
-                    { id: "T12", name: "Banheiro Seco Modular (BSM)", trl: "9", icon: "../assets/icons/human_10_black.svg" },
-                    { id: "T10", name: "Balsa-Catamarã Naval", trl: "9", icon: "../assets/icons/human_03_black.svg" }
+                    { id: "T10", name: "Balsa-Catamarã Naval", trl: "9", icon: "../assets/icons/human_01_red.svg" }
                 ],
                 partners: ["UFAC", "Estaleiros Locais", "Consórcio"],
                 roi: { carbon: "2.100 t", social: "R$ 8.4M" },
@@ -660,7 +670,7 @@
                 biomass: "Isolamento / Tabocais", health: "TMI 16,9", sanitary: "34,9% Água Potável", cost: "R$ 0,00",
                 threats: "MORTICÍDIO: 68,7% domicílios em risco de inundação; 80% dependência CadÚnico; Isolamento extremo.",
                 inventions: [
-                    { id: "T10", name: "Balsa Logística (Rio)", trl: "9", icon: "../assets/icons/human_03_black.svg" }
+                    { id: "T10", name: "Balsa Logística (Rio)", trl: "9", icon: "../assets/icons/human_01_red.svg" }
                 ],
                 partners: ["MUQTF", "POVOS ORIGINARIOS", "Consórcio"],
                 tech: [{ k: "Emergência", v: "Acesso fluvial de 5 dias; isolamento logístico severo." }], chart: [10, 80, 10]
@@ -679,10 +689,7 @@
             },
             {
                 name: "Mâncio Lima (AC)", coords: [-7.614, -72.896], type: "Rede Técnica", pop: "19.300", idh: "0,625 (Medio)",
-                biomass: "Bambu", health: "Moderado", sanitary: "55% Gap", cost: "R$ 104.145,00",
-                inventions: [
-                    { id: "T12", name: "BSM Ribeirinho", trl: "9", icon: "../assets/icons/human_10_black.svg" }
-                ],
+                biomass: "Bambu", health: "Moderado", sanitary: "55% Gap", cost: "R$ 0,00",
                 partners: ["IFAC", "Consórcio"],
                 tech: [{ k: "Extremidade", v: "Ponto mais ocidental do Brasil; manejo sustentável." }], chart: [35, 35, 30]
             },
@@ -724,7 +731,7 @@
             },
             {
                 name: "Lábrea (AM)", coords: [-7.258, -64.800], type: "Polo Regional", pop: "46.882", idh: "0,527 (Baixo)",
-                biomass: "Acai / Purus", health: "TMI 17,2", sanitary: "70% Gap", cost: "R$ 0,00",
+                biomass: "Acai / Purus", health: "TMI 17,2", sanitary: "70% Gap", cost: "R$ 2.000.000,00",
                 threats: "75% Extração Ilegal na região AMACRO; Zona de expansão desordenada.",
                 partners: ["Consórcio", "Soberania", "UFAC"],
                 roi: { carbon: "950 t", social: "R$ 4.2M" },
@@ -738,14 +745,14 @@
             },
             {
                 name: "Porto Velho (RO)", coords: [-8.761, -63.900], type: "Polo Regional", pop: "548k", idh: "0,736 (Medio)",
-                biomass: "Guadua RO", health: "Moderado", sanitary: "55% Gap", cost: "R$ 78.800,00",
+                biomass: "Guadua RO", health: "Moderado", sanitary: "55% Gap", cost: "R$ 3.000.000,00",
                 partners: ["UnB", "Gov RO", "Consórcio"],
                 roi: { carbon: "1.100 t", social: "R$ 5.1M" },
                 tech: [{ k: "Escudo Verde", v: "Contenco de desmatamento via manejo sustentavel." }], chart: [20, 60, 20]
             },
             {
                 name: "Boa Vista (RR)", coords: [2.820, -60.673], type: "Polo Regional", pop: "419k", idh: "0,752 (Medio)",
-                biomass: "Fibras RR", health: "TMI 23,9 (Yanomami)", sanitary: "35% Gap", cost: "R$ 78.800,00",
+                biomass: "Fibras RR", health: "TMI 23,9 (Yanomami)", sanitary: "35% Gap", cost: "R$ 3.000.000,00",
                 threats: "MORTICÍDIO YANOMAMI (570 óbitos); Emergência humanitária; Garimpo Ilegal; Mercúrio.",
                 partners: ["UFRR", "Consórcio", "Indigenas RR"],
                 roi: { carbon: "850 t", social: "R$ 5.8M" },
@@ -753,7 +760,7 @@
             },
             {
                 name: "Manaus (AM)", coords: [-3.119, -60.022], type: "Rede Técnica", pop: "2.1M", idh: "0,737 (Medio)",
-                biomass: "Açaí Superfood (Export +15,000%)", health: "TMI 17,1 (AM)", sanitary: "25% Gap", cost: "R$ 90.000,00",
+                biomass: "Açaí Superfood (Export +15,000%)", health: "TMI 17,1 (AM)", sanitary: "25% Gap", cost: "R$ 0,00",
                 threats: "FEMINICÍDIO e Violência Sistêmica (AM); 62% Extração Ilegal de Madeira; Violência Crítica.",
                 partners: ["UEA", "IPAAM", "UnB"],
                 tech: [{ k: "Logística", v: "Hub de integração de polímeros e distribuição digital." }], chart: [45, 15, 40]
@@ -837,17 +844,13 @@
             document.getElementById('m-partners').innerHTML = n.partners.map(p => `<span class="tag">${p}</span>`).join('');
             document.getElementById('m-tech').innerHTML = n.tech.map(t => `<div class="tech-row"><span class="tech-key" style="color:var(--accent)">${t.k}</span><div class="tech-val">${t.v}</div></div>`).join('');
             
-            // Technology Matrix (v18.1)
-            const existingInv = document.getElementById('inv-matrix');
-            if (existingInv) existingInv.remove();
-
+            // Technology Matrix (v17.0 Inventions)
             if (n.inventions) {
                 const iDiv = document.createElement('div');
-                iDiv.id = 'inv-matrix';
                 iDiv.style.marginTop = '15px';
                 iDiv.style.borderTop = '1px solid #000';
                 iDiv.style.paddingTop = '10px';
-                iDiv.innerHTML = `<div style="font-size:0.6rem; font-weight:900; text-transform:uppercase; margin-bottom:8px; color:var(--n2)">Unidades Tecnológicas</div>`;
+                iDiv.innerHTML = `<div style="font-size:0.6rem; font-weight:900; text-transform:uppercase; margin-bottom:8px; color:var(--n2)">Unidades Tecnológicas (Invencionices)</div>`;
                 n.inventions.forEach(inv => {
                     iDiv.innerHTML += `
                         <div style="display:flex; align-items:center; gap:10px; margin-bottom:6px;">
@@ -932,11 +935,18 @@
         });
 
         // Restoring Trilha and Distance Logic
-        const rs = { color: '#0055a4', weight: 2.8, opacity: 0.9, dashArray: '6, 8', interactive: false };
-        const fs = { color: '#D2042D', weight: 2.2, opacity: 0.9, dashArray: '1, 15', interactive: false };
+        const rs = { color: '#94a3b8', weight: 1.8, opacity: 0.7, dashArray: '6, 8', interactive: false };
+        const fs = { color: '#dc2626', weight: 2.2, opacity: 0.8, dashArray: '1, 15', interactive: false };
 
         function path(l, c1, c2, d, s) { 
             L.polyline([c1, c2], s).addTo(l); 
+            if (d) {
+                const arrow = `<svg width="8" height="8" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="margin-right:3px; vertical-align:middle; transform: rotate(-45deg)"><path d="M5 12h14M12 5l7 7-7 7"/></svg>`;
+                L.marker([(c1[0] + c2[0]) / 2, (c1[1] + c2[1]) / 2], { 
+                    icon: L.divIcon({ className: 'dist-label', html: arrow + d, iconSize: [50, 16] }), 
+                    interactive: false 
+                }).addTo(l); 
+            }
         }
 
         // BR-364 Chain
@@ -982,12 +992,12 @@
 
                 <div style="font-weight:900; text-transform:uppercase; margin-bottom:6px; font-size:0.55rem; color:var(--secondary);">Unidades Tecnológicas</div>
                 <div style="display:flex; align-items:center; margin-bottom:4px;"><img src="../assets/icons/human_19_black.svg" width="12px" style="margin-right:10px; filter:grayscale(1)"> Domo Geodésico T11</div>
-                <div style="display:flex; align-items:center; margin-bottom:4px;"><img src="../assets/icons/human_05_black.svg" width="12px" style="margin-right:10px; filter:grayscale(1)"> Reator Industrial NR-13</div>
-                <div style="display:flex; align-items:center; margin-bottom:12px;"><img src="../assets/icons/human_03_black.svg" width="12px" style="margin-right:10px;"> Balsa/Móvel T10 (Juruá)</div>
+                <div style="display:flex; align-items:center; margin-bottom:4px;"><img src="../assets/icons/human_05_black.svg" width="12px" style="margin-right:10px; filter:grayscale(1)"> Reator Biorrefinaria T02</div>
+                <div style="display:flex; align-items:center; margin-bottom:12px;"><img src="../assets/icons/human_01_red.svg" width="12px" style="margin-right:10px;"> Balsa/Móvel T10 (Juruá)</div>
 
                 <div style="margin-top:5px; border-top:0.2px solid #eee; padding-top:5px;">
-                    <div style="display:flex; align-items:center; margin-bottom:5px;"><span style="width:20px; border-top:2.8px dashed #0055a4; display:inline-block; margin-right:10px;"></span> Percurso Rodoviário (Azul Escuro)</div>
-                    <div style="display:flex; align-items:center; margin-bottom:5px;"><span style="width:20px; border-top:2.2px dashed #D2042D; display:inline-block; margin-right:10px;"></span> Percurso Fluvial (Urucum)</div>
+                    <div style="display:flex; align-items:center; margin-bottom:5px;"><span style="width:20px; border-top:1.8px dashed #94a3b8; display:inline-block; margin-right:10px;"></span> Percurso Rodoviário</div>
+                    <div style="display:flex; align-items:center; margin-bottom:5px;"><span style="width:20px; border-top:2.2px dashed #dc2626; display:inline-block; margin-right:10px;"></span> Percurso Fluvial</div>
                 </div>
                 <div style="margin-top:10px; padding-top:10px; border-top:0.5px solid #000; display:flex; flex-direction:column; align-items:center; gap:5px;">
                     <img src="../assets/logo_BQTF/logo_mqtf_soberana.svg" width="35px" style="filter:grayscale(1);">
