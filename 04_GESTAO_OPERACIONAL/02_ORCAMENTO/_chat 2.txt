@@ -1,0 +1,198 @@
+[20/09/2023 14:38:17] ~peletvendas Maquinas de Biomassas: melhoras pra você
+[24/03/2026 09:58:56] Fabio Takwara: Bom dia
+[24/03/2026 09:59:08] ~peletvendas Maquinas de Biomassas: Olá! Bem Vindo! Fabricamos máquinas à partir de R$ 7.900,00.
+Para melhor atendê-lo responda as perguntas abaixo:
+
+1. QUAL SEU NOME? CIDADE E ESTADO?
+
+R.:
+
+
+2. MÁQUINAS PARA RAÇÃO, MADEIRA, FERTILIZANTE OU OUTRO?
+
+R.:
+
+
+3. QUAL MODELO DE MÁQUINA PRECISA? 
+R.:
+
+
+4. QUAL A DEMANDA SEMANAL EM KILOS?
+
+R.:
+[24/03/2026 10:02:01] Fabio Takwara: Fabio - Acre
+Pellets/briquetes de biomassa de bambu, castanha do Pará e açaí
+Planta experimental canteiro-escola UFAC - desenvolvimento de queimador para vapor e pirolenhoso
+5t semana
+[24/03/2026 10:09:27] ~peletvendas Maquinas de Biomassas: Bom dia tudo bem?
+[24/03/2026 10:09:31] ~peletvendas Maquinas de Biomassas: natyelle aqui
+[24/03/2026 10:09:54] Fabio Takwara: Sim, tudo bem. Já falei com vocês uns anos atrás.
+[24/03/2026 10:11:18] Fabio Takwara: Vcs me orçaram um queimador co extração de pirolenhoso que não concluímos.
+Mas tô de volta, precisando de um projeto e orçamento padrão BNDES.
+‎[24/03/2026 10:27:12] ~peletvendas Maquinas de Biomassas: ‎áudio ocultado
+[24/03/2026 11:10:24] ~peletvendas Maquinas de Biomassas: voce tem foto ou desenho de como seria esse queimador
+[24/03/2026 11:10:34] ~peletvendas Maquinas de Biomassas: porque precisariamos passar pro projetista
+[24/03/2026 16:23:06] ~peletvendas Maquinas de Biomassas: Boa tarde
+[24/03/2026 16:23:10] ~peletvendas Maquinas de Biomassas: Você tem?
+[24/03/2026 17:13:24] Fabio Takwara: oi! Ainda não. Tô esperando um projetista amigo fazer um rascunho.
+[24/03/2026 17:16:05] ~peletvendas Maquinas de Biomassas: Não estamos disponíveis no momento.
+Atendimento das 7:00 horas às 17:00 horas de segunda a quinta-feira e sexta-feira das 7:00 horas às 16:00 horas.
+[08/04/2026 13:13:21] Fabio Takwara: Boa tarde. Desculpe a demora. Estamos em pleno trabalho de planejamento. Podemos dar sequência?
+[08/04/2026 13:19:31] ~peletvendas Maquinas de Biomassas: Boa tarde tudo bem?
+[08/04/2026 13:19:34] ~peletvendas Maquinas de Biomassas: Podemos sim
+[08/04/2026 13:22:18] Fabio Takwara: ### 🎋 Termo de Referência (TR) para Sistema de Densificação de Biomassa
+**Objeto:** Aquisição de Kit Individual de Bioeconomia para Unidade de Beneficiamento Primário em Aldeias/Comunidades.
+
+#### 1. Especificações do Maquinário (Requisitos Mínimos)
+*   **01. Briquetadeira Mecânica**: Tipo volante/pistão, capacidade nominal entre **250 e 500 kg/h**. Motores entre **20 e 40 CV**. Deve permitir ajuste de pressão para diferentes densidades.
+*   **02. Prensa Peletizadora**: Matriz plana ou anelar, capacidade para **150-300 kg/h**. Motor entre **15 e 25 CV**.
+*   **03. Sistema de Moenda/Picagem**: Triturador de facas ou moinho de martelos capaz de reduzir materiais de alta dureza para granulometria **<10mm**.
+*   **04. Empacotadora**: Sistema de selagem industrial (preferencialmente a vácuo) para embalagens de **5 a 20 kg**.
+
+---
+
+#### 2. Caracterização Crítica das Biomassas
+O sistema deve ser projetado para operar com as seguintes matérias-primas (foco em abrasividade e densidade):
+
+| Biomassa | Densidade Est. | Dureza / Característica Mecânica | Risco Operacional |
+| :--- | :--- | :--- | :--- |
+| **Bambu Guadua** | 600 - 750 kg/m³ | **Alta Dureza** (Elevado teor de Sílica). Fibroso e abrasivo. | Desgaste prematuro de ferramentas de corte. |
+| **Caroço de Açaí** | 780 - 850 kg/m³ | **Extrema Abrasividade**. Granulado rígido e denso. | Exige matrizes de alta resistência térmica e mecânica. |
+| **Casca de Castanha** | 500 - 650 kg/m³ | **Células Lignificadas**. Material quebradiço, mas duro. | Geração de finos e calor excessivo na compressão. |
+
+#### 3. Condições Fixas de Fornecimento
+1.  **Engenharia de Materiais**: Todas as superfícies de contato (roscas, matrizes e pistões) devem possuir **tratamento térmico anti-desgaste** (nitretação ou similar) devido à sílica do bambu e abrasividade do açaí.
+2.  **Regime de Trabalho**: Configurações para operação em **regime severo/rural**.
+3.  **Logística**: Cotação em modal **CIF Rio Branco (AC)**.
+4.  **Treinamento**: Obrigatoriedade de treinamento operacional técnico preventivo para comunidades locais.
+
+---
+**Observação**: Não serão aceitas propostas que não comprovem o atendimento às normas brasileiras de segurança (**NR-12**) e eficiência energética.
+[08/04/2026 13:23:23] Fabio Takwara: Se tiver opções de menor calibre/produtividade, com alta durabilidade e baixa manutenção, eu aprecio também.
+‎[08/04/2026 13:30:51] ~peletvendas Maquinas de Biomassas: ‎áudio ocultado
+[08/04/2026 13:35:41] Fabio Takwara: São os equipamentos que vcs tem em prateleira. Kits que possam atender pequenas comunidades, como o Minas Gerais, Roraima, desde a moagem até a embalagem que precisa ser resistente a umidade. O que vc não tiver eu procuro em outro lugar. Modelos de máquinas compactas para laboratórios de testes também interessam.
+[08/04/2026 13:42:07] ~peletvendas Maquinas de Biomassas: para qual material seria?
+‎[08/04/2026 13:42:47] Fabio Takwara: ‎imagem ocultada
+[08/04/2026 13:43:13] Fabio Takwara: tá tudo aqui
+[08/04/2026 13:44:00] ~peletvendas Maquinas de Biomassas: ok
+[08/04/2026 13:44:08] ~peletvendas Maquinas de Biomassas: vou te passar os modelos que temos
+[08/04/2026 13:45:20] ~peletvendas Maquinas de Biomassas: *Briquetadeira*
+Motor 50cv trifásico 220v/380v
+*Valor: R$ 137.500,00*
+
+
+*Opcionais para processo completo:*
+
+Rosca dosadora 
+*Valor: R$ 27.390,00*
+
+Cortador de briquetes  *Valor: R$ 24.200,00*
+
+Forma de pagamento:
+50% no pedido 50% antes da coleta pela transportadora 
+
+Frete: FOB
+Prazo: até 60 dias para fabricação.
+
+Obs.: Aquisição de máquinas fora do estado de São Paulo operação sujeita a pagamento da Difal/ICMS na emissão da Nota Fiscal por conta do destinatário.
+
+Mais informações Vídeos e fotos acesse:
+https://www.pelet.com.br/briquetadeira/
+
+Fabrica de briquetes acesse: 
+https://www.pelet.com.br/fabrica-de-briquetes-30cv/
+[08/04/2026 13:45:23] ~peletvendas Maquinas de Biomassas: *Peletizadora MG200 7,5cv*
+Voltagem: monofásico ou trifasico
+
+-Produção: até 300kg/h Ração 
+-Produção: até 90kg/h Cama de Frango (p/ matriz 6mm)
+Ciclo de Trabalhos até 8 hora dia
+Bônus: 1 matriz 6mm
+Formas de aquisição:
+
+*VALOR: R$32.890,00*
+
+Matrizes Opcionais com medidas específicas e valores por unidade:
+-2.0mm valor - R$6.400,00
+-4.0mm valor - R$6.300,00
+-6.0mm valor - R$5.700,00
+-8.0mm valor - R$5.300,00
+
+FORMAS DE PAGAMENTO:
+50% no pedido e 50% antes da coleta pela transportadora.
+
+FRETE: FOB
++ Difal/ICMS na emissão da nota conforme a diferença de estado.
+
+Prazo de fabricação: até 60 dias
+
+
+Veja vídeos da máquina produzindo:
+https://www.pelet.com.br/peletizadora-minas-gerais-5-75hp/
+[08/04/2026 13:45:38] ~peletvendas Maquinas de Biomassas: *Moinho Plus ou Híbrido*
+
+*Moinho Plus 40cv - R$ 65.890,00* 
+
+*Moinho Hibrido 40cv - R$ 70.400,00*
+*POSSUI PICADOR LATERAL PARA RIPAS*
+
+Até 4.500kg/h na ração;
+Até 1.000kg/h na madeira;
+Até 550kg/h no coco babaçu.
+
+*Obs:* Capacidade pode variar conforme Granulometria inicial do material, umidade, densidade e peneira.
+
+*Opcionais pedido a parte:*
+
+Entrada de material:
+*Esteira Dosadora C3000 - R$ 15.900,00* 
+
+Saída de Material Moido:
+*Esteira "Z"  8 metros - R$ 32.000,00* 
+
+*Painel de acionamento - R$ 12.000,00*
+
+*Forma de Pagamento:*
+50% no pedido e 50% antes da coleta pela transportadora.
+
+*Prazo de fabricação:*
+Até 60 dias
+
+*Frete: FOB (+GNRE/DIFAL por conta do comprador)*
+
+*Garantia:* 
+Até 1 ano defeitos de fábrica (exceto martelos e peneira)
+
+Página Oficial Híbrido
+https://www.pelet.com.br/moinho-30cv-hibrido/
+
+Página Oficial Plus
+https://www.pelet.com.br/moinho-30cv/
+
+*Vídeos:*
+https://youtube.com/playlist?list=PL4wSIE9cA9pTxUdKh4L6sjVFphpmydV0o
+[08/04/2026 13:45:45] Fabio Takwara: monofásico
+[08/04/2026 13:45:58] ~peletvendas Maquinas de Biomassas: *📦 FÁBRICA DE ENSAQUE – ESTEIRA SILO E ENSACADEIRA PELET 📦*
+
+*Voltagem:* 220v/380v
+
+**Finalidade:** Resfriamento, classificação e armazenamento de:
+- Ração peletizada
+- Ração extrusada
+- Pellets diversos (casca de amendoim, sabugos, madeiras, feno, alfafa, adubos, algodão, etc.)
+
+*Valor: R$96.800,00*
+
+*Forma de Pagamento:*
+- 💵 50% no pedido e 50% antes da coleta pela transportadora.
+- 💳 Parcelamento Finame/BNDES/Banco do Nordeste
+
+*Frete:* FOB
++Difal/gnre conforme diferença de estado
+
+*Prazo de Fabricação:* Até 60 dias
+
+📲 **Imagens, Vídeos e Informações:** [Clique aqui](https://www.pelet.com.br/fabrica-de-ensaque-esteira-silo-e-ensacadeira-pelet/)
+[08/04/2026 13:46:25] ~peletvendas Maquinas de Biomassas: temos assim
+[08/04/2026 13:46:44] ~peletvendas Maquinas de Biomassas: monofasico só da pra fazer a peletizsadora e o moinho
+[08/04/2026 13:46:52] ~peletvendas Maquinas de Biomassas: o restante é tudo trifásico

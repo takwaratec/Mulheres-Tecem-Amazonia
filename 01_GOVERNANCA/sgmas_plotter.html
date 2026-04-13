@@ -161,15 +161,15 @@
 
         .metric-card label {
             display: block;
-            font-size: 0.6rem;
+            font-size: 0.55rem;
             color: var(--secondary);
             font-weight: 800;
-            margin-bottom: 3px;
+            margin-bottom: 2px;
             text-transform: uppercase;
         }
 
         .metric-card .val {
-            font-size: 0.85rem;
+            font-size: 0.75rem;
             font-weight: 800;
             color: #000;
         }
@@ -553,8 +553,8 @@
                     </div>
                 </div>
                 <div class="header-stats" style="border-top:0.5px solid #000; padding-top:10px; margin-top:10px;">
-                    <span style="font-weight:900; color:#000;">1.050 FAMÍLIAS</span>
-                    <span style="font-weight:900; color:var(--accent);">R$ 25.0M CAPEX</span>
+                    <span style="font-weight:900; color:#000;">1.150 FAMÍLIAS</span>
+                    <span style="font-weight:900; color:var(--accent);">R$ 9.2M CAPEX</span>
                 </div>
             </div>
             <div class="content">
@@ -567,6 +567,13 @@
                             Monitoramento de Impacto e Vulnerabilidade da Plataforma Mulheres que Tecem a Floresta. 
                             Dados consolidados para auditoria técnica e governança soberana.
                         </p>
+                        <div class="technical-entry" style="margin-top:15px; background:#fff1f2; border-color:var(--accent);">
+                            <div style="font-size:0.6rem; font-weight:900; text-transform:uppercase; margin-bottom:8px; color:var(--accent)">Contagem de Alcance Sistêmico (Rede N2)</div>
+                            <div style="display:flex; justify-content:space-between; margin-bottom:5px;"><span style="font-size:0.65rem; font-weight:700;">MUNICÍPIOS ALCANÇADOS:</span><span style="font-size:0.65rem; font-weight:900;">24</span></div>
+                            <div style="display:flex; justify-content:space-between; margin-bottom:5px;"><span style="font-size:0.65rem; font-weight:700;">CONTINGENTE POPULACIONAL:</span><span style="font-size:0.65rem; font-weight:900;">1.388.308</span></div>
+                            <div style="display:flex; justify-content:space-between; margin-bottom:5px;"><span style="font-size:0.65rem; font-weight:700;">VEÍCULOS DE CAPILARIDADE:</span><span style="font-size:0.65rem; font-weight:900;">Balsa Catamarã T10</span></div>
+                            <div style="display:flex; justify-content:space-between;"><span style="font-size:0.65rem; font-weight:700;">DIPLOMACIA TERRITORIAL:</span><span style="font-size:0.65rem; font-weight:900;">Unidades Móveis N0</span></div>
+                        </div>
                     </div>
                     <div id="details" style="display:none;">
                         <div class="node-header">
@@ -575,8 +582,12 @@
 
                         <div class="section-header">Indicadores de Vulnerabilidade</div>
                         <div class="metrics-grid">
+                            <div class="metric-card"><label>COORDEANDAS</label><div class="val" id="m-coords" style="font-size:0.6rem;">-</div></div>
                             <div class="metric-card"><label>DEMOGRAFIA (HAB)</label><div class="val" id="m-pop">-</div></div>
-                            <div class="metric-card"><label>SANEAMENTO (GAP)</label><div class="val" id="m-sanitary">-</div></div>
+                            <div class="metric-card"><label>GAP SANEAMENTO</label><div class="val" id="m-sanitary">-</div></div>
+                            <div class="metric-card"><label>GAP AGUA POTAVEL</label><div class="val" id="m-water">-</div></div>
+                            <div class="metric-card"><label>RENDA MINIMA</label><div class="val" id="m-renda">-</div></div>
+                            <div class="metric-card"><label>PIB PER CAPITA</label><div class="val" id="m-pib">-</div></div>
                             <div class="metric-card"><label>SAUDE (TMI/RISCO)</label><div class="val" id="m-health">-</div></div>
                             <div class="metric-card"><label>IDH (INDICE)</label><div class="val" id="m-idh">-</div></div>
                         </div>
@@ -615,59 +626,73 @@
 
         const masterData = [
             {
-                name: "Rio Branco (AC)", coords: [-9.974, -67.810], type: "Hub Mestre", pop: "413.418", idh: "0,727 (Medio)",
-                biomass: "Bambu Guadua (143,6 Mg/ha)", health: "TMI 16,2 (AC)", sanitary: "42% Gap", cost: "R$ 8.500.000,00",
-                threats: "FEMINICÍDIO: Violência sexual 36,8% maior que média nacional; Crise hídrica severa; 38% cobertura AC.",
+                name: "Rio Branco (AC)", coords: [-9.974, -67.810], type: "Hub Industrial N1", pop: "364.756", idh: "0,727 (Medio)",
+                biomass: "Bambu / Residuo Urbano", health: "Moderado", sanitary: "42% Gap", water: "12% Gap", renda: "R$ 2.840,00", pib: "R$ 24.500,00", cost: "R$ 3.019.438,60",
                 inventions: [
-                    { id: "T01-09", name: "Canteiro-Escola Hub", trl: "9", icon: "../assets/icons/human_09_black.svg" },
-                    { id: "T02", name: "Reator Biorrefinaria", trl: "7", icon: "../assets/icons/human_05_black.svg" }
+                    { id: "T01-09", name: "Canteiro-Escola Hub", trl: "9", icon: "../assets/icons/human_11_red.svg" },
+                    { id: "T10", name: "Fabricação T10 (Balsa)", trl: "8", icon: "../assets/icons/human_01_red.svg" },
+                    { id: "T11", name: "Fabricação T11 (Domo)", trl: "8", icon: "../assets/icons/human_19_black.svg" }
                 ],
-                partners: ["UnB", "UFAC", "Consórcio", "BNDES"],
+                partners: ["UnB", "UFAC", "BNDES"],
                 roi: { carbon: "3.200 t", social: "R$ 16.2M" },
                 tech: [
-                    { k: "Canteiro-Escola", v: "Fabricaçao soberana de modulos BSM e bioconstruçao (T01-T09)." },
-                    { k: "Soberania", v: "Nucleo permanente de formaçao tecnica e prototipagem industrial." }
+                    { k: "Matriz N1", v: "Unidade de Integração e Fabricação (UIF) Série T Completa." },
+                    { k: "Suporte", v: "Frotas Pesadas, Balsa T10 Matriz e Infraestrutura TI." },
+                    { k: "Transversal", v: "Oversight das Cadeias 1 e 2 + Apoio Logístico Global." }
                 ], chart: [40, 30, 30]
             },
             {
-                name: "Sena Madureira (AC)", coords: [-9.066, -68.657], type: "Rede Técnica", pop: "46.511", idh: "0,603 (Baixo)",
-                biomass: "Bambu / Guadua", health: "Moderado", sanitary: "58% Gap", cost: "R$ 0,00",
-                partners: ["IFAC", "UnB", "Consórcio"],
-                tech: [{ k: "Inovação", v: "Campus IFAC; desenvolvimento de nanotecnologia de bambu para saúde." }], chart: [30, 40, 30]
-            },
-            {
-                name: "Manoel Urbano (AC)", coords: [-8.839, -69.258], type: "Rede Técnica", pop: "9.581", idh: "0,522 (Baixo)",
-                biomass: "Manejo Florestal", health: "Precado", sanitary: "65% Gap", cost: "R$ 0,00",
-                partners: ["IMAC", "Consórcio"],
-                tech: [{ k: "Bioeconomia", v: "Inventário florestal de bambu; potencial de manejo sustentável." }], chart: [20, 50, 30]
-            },
-            {
-                name: "Feijó (AC)", coords: [-8.164, -70.353], type: "Instrumento de Denúncia", pop: "34.884", idh: "0,548 (Baixo)",
-                biomass: "Açaí / Fibras", health: "Crítico", sanitary: "85% Gap", cost: "R$ 0,00",
-                partners: ["Consórcio", "Povos Tradicionais"],
-                tech: [{ k: "Urgência", v: "Território com carência extrema de infraestrutura urbana e sanitária." }], chart: [10, 80, 10]
-            },
-            {
-                name: "Tarauacá (AC)", coords: [-8.156, -70.766], type: "Polo Regional", pop: "43.151", idh: "0,539 (Baixo)",
-                biomass: "Fibras / Castanha", health: "Precarizado", sanitary: "78% Gap", cost: "R$ 4.000.000,00",
-                partners: ["Consórcio", "Cooperativas", "UFAC"],
-                roi: { carbon: "1.800 t", social: "R$ 6.2M" },
-                tech: [{ k: "Bio-Artesanato", v: "Unidade de beneficiamento de fibras e castanha; marca coletiva." }], chart: [15, 60, 25]
-            },
-            {
-                name: "Cruzeiro do Sul (AC)", coords: [-7.631, -72.670], type: "Polo Regional", pop: "98.382", idh: "0,666 (Medio-Baixo)",
-                biomass: "Miritizal / Acai", health: "Critico", sanitary: "65% Gap", cost: "R$ 4.500.000,00",
+                name: "Cruzeiro do Sul (AC)", coords: [-7.631, -72.670], type: "Núcleo Fixo N2", pop: "91.888", idh: "0,666 (Medio-Baixo)",
+                biomass: "Miritizal / Acai", health: "Critico", sanitary: "65% Gap", water: "38% Gap", renda: "R$ 1.250,00", pib: "R$ 21.340,00", cost: "R$ 2.409.416,20",
                 inventions: [
-                    { id: "T11", name: "Domo-Fábrica (3un)", trl: "8", icon: "../assets/icons/human_19_black.svg" },
-                    { id: "T10", name: "Balsa-Catamarã Naval", trl: "9", icon: "../assets/icons/human_01_red.svg" }
+                    { id: "T02-09", name: "Lote Industrial", trl: "9", icon: "../assets/icons/human_09_black.svg" },
+                    { id: "T11", name: "Domo Fábrica 18m", trl: "8", icon: "../assets/icons/human_19_black.svg" },
+                    { id: "T12", name: "20x Unidades BSM", trl: "9", icon: "../assets/icons/human_18_black.svg" }
                 ],
-                partners: ["UFAC", "Estaleiros Locais", "Consórcio"],
+                partners: ["UFAC", "Consórcio"],
                 roi: { carbon: "2.100 t", social: "R$ 8.4M" },
-                tech: [{ k: "Polo Naval", v: "Produçao de Balsas T10 e Domos T11; mestres navais do Juruá." }], chart: [20, 50, 30]
+                tech: [
+                    { k: "Polo Juruá", v: "Domo Fábrica, Planta Biocombustão e TI Local." },
+                    { k: "Logística", v: "2x Balsas T10 Nativas e suporte à calha do Juruá." }
+                ], chart: [20, 50, 30]
             },
             {
-                name: "Jordão (AC)", coords: [-9.433, -71.883], type: "Instrumento de Denúncia", pop: "9.242", idh: "0,475 (Muito Baixo)",
-                biomass: "Isolamento / Tabocais", health: "TMI 16,9", sanitary: "34,9% Água Potável", cost: "R$ 0,00",
+                name: "Sena Madureira (AC)", coords: [-9.066, -68.657], type: "Núcleo Fixo N2", pop: "41.600", idh: "Baixo",
+                biomass: "Bambu / Guadua", health: "Moderado", sanitary: "78% Gap", water: "45% Gap", cost: "R$ 621.623,00",
+                partners: ["IFAC", "UnB"],
+                tech: [
+                    { k: "Vigilância", v: "Lote Vigilância T11 e TI Campo." },
+                    { k: "Artesanato", v: "Base Operativa de Apoio ao Artesanato (Comp. 2)." }
+                ], chart: [30, 40, 30]
+            },
+            {
+                name: "Boca do Acre (AM)", coords: [-8.752, -67.397], type: "Núcleo Fixo N2", pop: "29.576", idh: "Baixo",
+                biomass: "Expansão Agrícola", health: "Crítico", sanitary: "68% Gap", water: "58% Gap", cost: "R$ 621.623,00",
+                partners: ["MQTF", "Consórcio"],
+                tech: [
+                    { k: "Vigilância", v: "Lote Vigilância T11 e TI Campo." },
+                    { k: "Fitoativos", v: "Base Operativa de Apoio ao Açaí/Castanha (Comp. 1)." }
+                ], chart: [15, 70, 15]
+            },
+            {
+                name: "Lábrea (AM)", coords: [-7.258, -64.800], type: "Núcleo Fixo N2", pop: "46.882", idh: "0,527 (Baixo)",
+                biomass: "Acai / Purus", health: "TMI 17,2", sanitary: "70% Gap", water: "65% Gap", renda: "R$ 890,00", pib: "R$ 13.560,00", cost: "R$ 120.000,00",
+                inventions: [
+                    { id: "Peletização", name: "Kit Peletizadora", trl: "9", icon: "../assets/icons/human_09_black.svg" },
+                    { id: "T12", name: "BSM Pasteurizador", trl: "9", icon: "../assets/icons/human_18_black.svg" }
+                ],
+                partners: ["Consórcio", "Soberania", "UFAC"],
+                tech: [{ k: "Eixo AMACRO", v: "Suporte a Tapauá e Humaitá; mitigação de impacto de extraçao ilegal." }], chart: [15, 70, 15]
+            },
+            {
+                name: "Carauari (AM)", coords: [-4.881, -66.902], type: "Rede Técnica / Ponto de Apoio", pop: "28.557", idh: "0,580 (Baixo)",
+                biomass: "Gás Natural / Acai", health: "Critico", sanitary: "80% Gap", water: "55% Gap", renda: "R$ 1.050,00", pib: "R$ 38.440,00", cost: "R$ 0,00 (N/A)",
+                partners: ["MQTF", "Consórcio"],
+                tech: [{ k: "Suporte Florestal", v: "Nó de monitoramento hídrico e apoio logístico ao Médio Juruá." }], chart: [30, 40, 30]
+            },
+            {
+                name: "Jordão (AC)", coords: [-9.433, -71.883], type: "Ponto de Diagnóstico Crítico", pop: "9.242", idh: "0,475 (Muito Baixo)",
+                biomass: "Isolamento / Tabocais", health: "TMI 16,9", sanitary: "98% Gap", water: "92% Gap", renda: "R$ 520,00", pib: "R$ 9.870,00", cost: "CAPEX Satélite",
                 threats: "MORTICÍDIO: 68,7% domicílios em risco de inundação; 80% dependência CadÚnico; Isolamento extremo.",
                 inventions: [
                     { id: "T10", name: "Balsa Logística (Rio)", trl: "9", icon: "../assets/icons/human_01_red.svg" }
@@ -682,8 +707,7 @@
                 tech: [{ k: "Nó Fluvial", v: "Conexão isolada via Juruá; suporte logístico naval." }], chart: [15, 75, 10]
             },
             {
-                name: "Marechal Thaumaturgo (AC)", coords: [-8.940, -72.791], type: "Rede Técnica", pop: "19.233", idh: "0,432 (Muito Baixo)",
-                biomass: "Reserva", health: "Extremo", sanitary: "88% Gap", cost: "R$ 0,00",
+                name: "Marechal Thaumaturgo (AC)", coords: [-8.940, -72.791], type: "Rede Técnica", pop: "19.233", sanitary: "88% Gap", cost: "R$ 0,00",
                 partners: ["Consórcio", "Indígenas"],
                 tech: [{ k: "Fronteira", v: "Vulnerabilidade extrema; território tradicional isolado." }], chart: [10, 85, 5]
             },
@@ -730,8 +754,7 @@
                 tech: [{ k: "Impacto", v: "Zona de expansão desordenada; desmatamento ilegal severo." }], chart: [15, 70, 15]
             },
             {
-                name: "Lábrea (AM)", coords: [-7.258, -64.800], type: "Polo Regional", pop: "46.882", idh: "0,527 (Baixo)",
-                biomass: "Acai / Purus", health: "TMI 17,2", sanitary: "70% Gap", cost: "R$ 2.000.000,00",
+                name: "Lábrea (AM)", coords: [-7.258, -64.800], type: "Ponto de Apoio Territorial", pop: "46.882", sanitary: "70% Gap", cost: "R$ 0,00",
                 threats: "75% Extração Ilegal na região AMACRO; Zona de expansão desordenada.",
                 partners: ["Consórcio", "Soberania", "UFAC"],
                 roi: { carbon: "950 t", social: "R$ 4.2M" },
@@ -744,19 +767,22 @@
                 tech: [{ k: "Dilema", v: "Balsa-fábrica imobilizada; colapso do planejamento hídrico." }], chart: [20, 60, 20]
             },
             {
-                name: "Porto Velho (RO)", coords: [-8.761, -63.900], type: "Polo Regional", pop: "548k", idh: "0,736 (Medio)",
-                biomass: "Guadua RO", health: "Moderado", sanitary: "55% Gap", cost: "R$ 3.000.000,00",
-                partners: ["UnB", "Gov RO", "Consórcio"],
-                roi: { carbon: "1.100 t", social: "R$ 5.1M" },
-                tech: [{ k: "Escudo Verde", v: "Contenco de desmatamento via manejo sustentavel." }], chart: [20, 60, 20]
+                name: "Porto Velho (RO)", coords: [-8.761, -63.900], type: "Polo Regional / Hub N2", pop: "460.413", cost: "R$ 1.010.803,00",
+                partners: ["UnB", "Gov RO"],
+                tech: [
+                    { k: "Polo Logístico", v: "Módulo Industrial T11, Linhas Florestais T01 a T08." },
+                    { k: "Energia", v: "Peletizadora e TI Rondonia." }
+                ], chart: [20, 60, 20]
             },
             {
-                name: "Boa Vista (RR)", coords: [2.820, -60.673], type: "Polo Regional", pop: "419k", idh: "0,752 (Medio)",
-                biomass: "Fibras RR", health: "TMI 23,9 (Yanomami)", sanitary: "35% Gap", cost: "R$ 3.000.000,00",
-                threats: "MORTICÍDIO YANOMAMI (570 óbitos); Emergência humanitária; Garimpo Ilegal; Mercúrio.",
-                partners: ["UFRR", "Consórcio", "Indigenas RR"],
-                roi: { carbon: "850 t", social: "R$ 5.8M" },
-                tech: [{ k: "Emergencia", v: "Mapeamento Yanomami; bioeconomia alternativa ao garimpo." }], chart: [40, 20, 40]
+                name: "Boa Vista (RR)", coords: [2.820, -60.673], type: "Núcleo Fixo N2", pop: "413.418", idh: "Medio",
+                biomass: "Fibras RR", cost: "R$ 1.010.803,00",
+                threats: "URGÊNCIA YANOMAMI (Emergência Humanitária); Hub de soberania técnica em Roraima.",
+                partners: ["UFRR", "Indigenas RR"],
+                tech: [
+                    { k: "Hub Norte", v: "Módulo Industrial T11, Linhas Florestais T01 a T08." },
+                    { k: "Monitoramento", v: "Peletizadora e TI Roraima." }
+                ], chart: [40, 20, 40]
             },
             {
                 name: "Manaus (AM)", coords: [-3.119, -60.022], type: "Rede Técnica", pop: "2.1M", idh: "0,737 (Medio)",
@@ -811,17 +837,21 @@
         function updateSidebar(n) {
             document.getElementById('intro-view').style.display = 'none';
             document.getElementById('details').style.display = 'block';
-            document.getElementById('m-pop').innerText = n.pop;
+            document.getElementById('m-pop').innerText = n.pop || "N/A";
+            document.getElementById('m-coords').innerText = n.coords.join(', ');
             
-            const isPolo = n.cost !== "R$ 0,00 (N/A)";
+            const isPolo = n.type.includes('Polo') || n.type.includes('Hub') || n.type.includes('Núcleo');
             const badge = isPolo ? `<span style="font-size:0.6rem; background:var(--accent); color:#fff; padding:2px 8px; font-weight:900;">POLO INVESTIMENTO</span>` : `<span style="font-size:0.6rem; border:0.5px solid var(--accent); color:var(--accent); padding:2px 8px; font-weight:900;">INSTRUMENTO DE DENÚNCIA</span>`;
             document.getElementById('n-label').innerHTML = n.name + '<br>' + badge;
             
-            document.getElementById('m-idh').innerText = n.idh;
-            document.getElementById('m-biomass').innerText = n.biomass;
-            document.getElementById('m-health').innerText = n.health;
-            document.getElementById('m-sanitary').innerText = n.sanitary;
-            document.getElementById('m-cost').innerText = n.cost;
+            document.getElementById('m-idh').innerText = n.idh || "N/A";
+            document.getElementById('m-biomass').innerText = n.biomass || "N/A";
+            document.getElementById('m-health').innerText = n.health || "N/A";
+            document.getElementById('m-sanitary').innerText = n.sanitary || "N/A";
+            document.getElementById('m-water').innerText = n.water || "N/A";
+            document.getElementById('m-renda').innerText = n.renda || "N/A";
+            document.getElementById('m-pib').innerText = n.pib || "N/A";
+            document.getElementById('m-cost').innerText = n.cost || "R$ 0,00";
 
             const existingROI = document.getElementById('roi-dash');
             if (existingROI) existingROI.remove();
@@ -844,13 +874,13 @@
             document.getElementById('m-partners').innerHTML = n.partners.map(p => `<span class="tag">${p}</span>`).join('');
             document.getElementById('m-tech').innerHTML = n.tech.map(t => `<div class="tech-row"><span class="tech-key" style="color:var(--accent)">${t.k}</span><div class="tech-val">${t.v}</div></div>`).join('');
             
-            // Technology Matrix (v17.0 Inventions)
+            // Technology Matrix (v22.0 Institucional)
             if (n.inventions) {
                 const iDiv = document.createElement('div');
                 iDiv.style.marginTop = '15px';
                 iDiv.style.borderTop = '1px solid #000';
                 iDiv.style.paddingTop = '10px';
-                iDiv.innerHTML = `<div style="font-size:0.6rem; font-weight:900; text-transform:uppercase; margin-bottom:8px; color:var(--n2)">Unidades Tecnológicas (Invencionices)</div>`;
+                iDiv.innerHTML = `<div style="font-size:0.6rem; font-weight:900; text-transform:uppercase; margin-bottom:8px; color:var(--n2)">Unidades Tecnológicas</div>`;
                 n.inventions.forEach(inv => {
                     iDiv.innerHTML += `
                         <div style="display:flex; align-items:center; gap:10px; margin-bottom:6px;">
@@ -899,17 +929,17 @@
         }
 
         masterData.forEach(n => {
-            const isPolo = n.cost !== "R$ 0,00";
+            const isPolo = n.type.includes('Polo') || n.type.includes('Hub') || n.type.includes('Núcleo');
             const isDenuncia = n.type.includes('Instrumento');
             let iconPath = '../assets/icons/human_10_black.svg';
-            if (isPolo) iconPath = '../assets/icons/human_01_red.svg';
+            if (isPolo) iconPath = '../assets/icons/human_11_red.svg';
             else if (n.type.includes('Rede')) iconPath = '../assets/icons/human_13_green.svg';
 
             const m = L.marker(n.coords, { 
                 icon: L.icon({
                     iconUrl: iconPath,
-                    iconSize: isPolo ? [30, 30] : [21, 21],
-                    iconAnchor: [isPolo ? 15 : 10, isPolo ? 15 : 10],
+                    iconSize: isPolo ? [28, 28] : [21, 21],
+                    iconAnchor: [isPolo ? 14 : 10, isPolo ? 14 : 10],
                     className: 'vt-marker-filter'
                 }) 
             }).addTo(layers[isPolo ? 'n2' : (isDenuncia ? 'diag' : 'n1')]);
@@ -940,13 +970,7 @@
 
         function path(l, c1, c2, d, s) { 
             L.polyline([c1, c2], s).addTo(l); 
-            if (d) {
-                const arrow = `<svg width="8" height="8" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="margin-right:3px; vertical-align:middle; transform: rotate(-45deg)"><path d="M5 12h14M12 5l7 7-7 7"/></svg>`;
-                L.marker([(c1[0] + c2[0]) / 2, (c1[1] + c2[1]) / 2], { 
-                    icon: L.divIcon({ className: 'dist-label', html: arrow + d, iconSize: [50, 16] }), 
-                    interactive: false 
-                }).addTo(l); 
-            }
+            // Distance markers removed per v22.0 cleanup
         }
 
         // BR-364 Chain
@@ -981,7 +1005,8 @@
             d.style.fontSize = '0.65rem'; d.style.fontFamily = 'Inter, sans-serif'; d.style.boxShadow = '5px 5px 0px rgba(220, 38, 38, 0.1)';
             d.innerHTML = `
                 <div style="font-weight:900; text-transform:uppercase; margin-bottom:10px; border-bottom:0.5px solid #000; padding-bottom:5px;">Legendas</div>
-                <div style="display:flex; align-items:center; margin-bottom:8px;"><img src="../assets/icons/human_01_red.svg" width="16px" style="margin-right:10px;"> Polo de Investimento</div>
+                <div style="display:flex; align-items:center; margin-bottom:8px;"><img src="../assets/icons/human_11_red.svg" width="16px" style="margin-right:10px;"> Polo de Investimento N2</div>
+                <div style="display:flex; align-items:center; margin-bottom:8px;"><img src="../assets/icons/human_19_red.svg" width="16px" style="margin-right:10px;"> Diplomacia Territorial N0</div>
                 <div style="display:flex; align-items:center; margin-bottom:8px;"><img src="../assets/icons/human_13_green.svg" width="12px" style="margin-right:12px; margin-left:2px;"> Nó de Rede Técnica</div>
                 <div style="display:flex; align-items:center; margin-bottom:12px;"><img src="../assets/icons/human_10_black.svg" width="12px" style="margin-right:12px; margin-left:2px;"> Área de Abrangência</div>
                 

@@ -1,0 +1,25 @@
+ID;Hub / Polo Territorial;Calha Fluvial;Municípios Beneficiados (Abrangência Direta);CAPEX Aplicado (R$);Descrição da Infraestrutura Aplicada;Tipo de Atendimento
+;;;;;;
+--;BLOCO I: HUB MATRIZ N1 (CENTRALIDADE E FABRICAÇÃO);-------------------;-------------------;-;-------------------;-
+1;Hub Master N1 (Rio Branco);Acre Central / Purus;Rio Branco (Sede), Senador Guiomard, Porto Acre, Bujari, Plácido de Castro;3019438,60;Unidade de Integração e Fabricação (UIF) Série T Completa, Frotas Pesadas, Balsa T10 Matriz e Infraestrutura TI.;Matriz Industrial e Treinamento
+--;SUBTOTAL HUB N1;-------------------;-------------------;3019438,60;-;-
+;;;;;;
+--;BLOCO II: POLOS DE EXPANSÃO N2 (POLO ACRE/JURUÁ);-------------------;-------------------;-;-------------------;-
+2;Polo N2 Cruzeiro do Sul;Juruá e Tarauacá;Cruzeiro do Sul, Mâncio Lima, Rodrigues Alves, Jordão, Tarauacá, Feijó, Ipixuna, Eirunepé;2409416,20;Domo Fábrica 18m, Lote T02-T09, 20x Unidades T12, Planta Biocombustão, 2x Balsas T10 Nativas e TI Local.;Polo Bioindustrial do Juruá
+3;Polo N2 Sena Madureira;Iaco e Baixo Purus;Sena Madureira, Manoel Urbano, Santa Rosa do Purus, Bujari, Feijó, Tarauacá;621623,00;Lote Vigilância T11, Base Operativa de Apoio ao Artesanato (Comp. 2) e TI Campo.;Eixo Artesanato e Vigilância
+4;Polo N2 Boca do Acre;Médio Purus;Boca do Acre, Pauini, Lábrea, Canutama;621623,00;Lote Vigilância T11, Base Operativa de Apoio ao Açaí/Castanha (Comp. 1) e TI Campo.;Eixo Fitoativos e Vigilância
+--;SUBTOTAL N2 ACRE/AM;-------------------;-------------------;3652662,20;-;-
+;;;;;;
+--;BLOCO III: POLOS DE EXPANSÃO N2 (EXPANSÃO RODO-FLUVIAL);-------------------;-------------------;-;-------------------;-
+5;Polo N2 Porto Velho;Madeira;Porto Velho, Nova Mamoré, Guajará-Mirim, Humaitá, Tapauá, Acrelândia;1010803,00;Módulo Industrial T11, Linhas Florestais T01 a T08, Peletizadora e TI Rondonia.;Polo Logístico AMACRO
+6;Polo N2 Boa Vista;Branco e Roraima Norte;Boa Vista, Pacaraima, Bonfim, Cantá, Mucajaí, Amajari, Normandia, Caracaraí, Rorainópolis;1010803,00;Módulo Industrial T11, Linhas Florestais T01 a T08, Peletizadora e TI Roraima.;Polo Transfronteiriço Norte
+--;SUBTOTAL N2 RONDÔNIA/RORAIMA;-------------------;-------------------;2021606,00;-;-
+;;;;;;
+--;BLOCO IV: RECURSOS TRANSVERSAIS DE APOIO AOS COMPONENTES;-------------------;-------------------;-;-------------------;-
+7;Cadeia Açaí/Castanha (Comp. 1);Purus e Madeira;Atendimento nas 1.150 famílias beneficiárias (Fitoativos);250000,00;Conjunto de Unidades Industriais Inox (Despolpadoras/Câmeras) via Mercado comercial.;Agroindústria Alimentar
+8;Cadeia Artesanato (Comp. 2);Juruá e Iaco;Atendimento nas Associações de Mulheres Tecedoras e Biojoias;135000,00;15x Grandes Lotes de Ferramental Bateria (Kits X-Change) via Mercado comercial.;Micro-Manufatura Descentralizada
+9;Apoio Logístico e Sanitário;Territorial Global;Fiscalização e Saúde de todos os Hubs e Polos;125000,00;Imageamento Aéreo (Drones) e Kits Hospitalares de Campanha (Safe Amazon).;Segurança e Monitoramento
+--;SUBTOTAL TRANSVERSAL;-------------------;-------------------;510000,00;-;-
+;;;;;;
+--;RESUMO DE INVESTIMENTO TERRITORIAL AUDITADO (MQTF 2026);-------------------;-------------------;-;-------------------;-
+SOMA;TOTAL CONSOLIDADO POLOS;Brasil: AC, AM, RO, RR;28 Municípios Alcançados;9203706,80;Investimento direto em CAPEX Maquinário e Infraestrutura Territorial Fixa suportada pelo BNDES.;Consolidação Administrativa UnB

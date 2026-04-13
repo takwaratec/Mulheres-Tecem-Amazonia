@@ -1,0 +1,70 @@
+ID;Tipo;Núcleo / Componente;Descrição e Responsável;Quantidade;Valor Unitário;Valor Total;Justificativa
+;;;;;;;
+--;BLOCO I: GOVERNANÇA UNIVERSITÁRIA E P&D (UnB/UFRR/UFAC);-------------------;-------------------;-;-;-;-
+1;OPEX;Governança Acadêmica;Coordenação Geral da Operação Acadêmica e Logística. (Responsável: Consórcio UnB);48;14000,00;672000,00;Liderança acadêmica.
+2;OPEX;Governança Acadêmica;Coordenação de Implementação no Acre. (Responsável: UFAC);48;14000,00;672000,00;Polo matriz no Acre.
+3;OPEX;Governança Acadêmica;Coordenação de Implementação em Roraima. (Responsável: UFRR);48;14000,00;672000,00;Polo matriz em Roraima.
+4;OPEX;Governança Acadêmica;Assessoria Pedagógica. (Responsável: Eixo P&D);192;9000,00;1728000,00;Manuais técnicos.
+5;OPEX;Governança Acadêmica;Assessoria Científica e de Inovação. (Responsável: Eixo P&D);144;9000,00;1296000,00;Gestão de dados biométricos.
+6;OPEX;Governança Acadêmica;Técnicos Administrativos. (Responsável: UnB);144;3500,00;504000,00;Trâmites legais.
+7;OPEX;Governança Acadêmica;Auxiliares Técnicos. (Responsável: UnB);144;2500,00;360000,00;Logística.
+8;OPEX;Governança Acadêmica;Analistas de Gestão Ambiental e TS. (Responsável: UnB);192;4000,00;768000,00;Licenciamento ambiental.
+9;OPEX;Governança Acadêmica;Profissionais Graduados Manejo. (Responsável: UnB);384;2500,00;960000,00;Alojamentos satélites.
+10;OPEX;Governança Acadêmica;Analistas de Comunicação. (Responsável: MQTF);96;4000,00;384000,00;Prestação de contas.
+11;OPEX;Governança Acadêmica;Psicólogas Comunitárias. (Responsável: Eixo Saúde);96;4000,00;384000,00;Saúde mental.
+12;OPEX;Governança Acadêmica;Analistas de Campo e Levantamento. (Responsável: Eixo P&D);96;4000,00;384000,00;Medição física.
+=;SUBTOTAL GOVERNANÇA I;-------------------;-------------------;-;-;8784000,00;-
+;;;;;;;
+--;BLOCO II: OPERAÇÃO TERRITORIAL LOGÍSTICA E BOLSAS;-------------------;-------------------;-;-;-;-
+13;OPEX;Componentes 1 e 2 (Território);Bolsas Formativas Mulheres Extrativistas. (Responsável: Governança);3600;1250,00;4500000,00;100 quotas rotativas/36 meses.
+14;OPEX;Componente 3 (Série T);Operadores Fabris de Maquinário Bioarquitetura. (Responsável: Hub N1);48;12500,00;600000,00;Chão-de-fábrica logístico.
+15;OPEX;Frotas Logísticas Transversais;Motoristas Qualificados Categoria D/E. (Responsável: Hub N1);192;10000,00;1920000,00;Profissionais rodofluviais.
+16;OPEX;Frotas Logísticas Transversais;Combustível Manutenção e Transportes. (Responsável: Governança);48;47500,00;2280000,00;Diesel embarcações e ramais.
+17;OPEX;Serviços Transversais;Assistência Técnica Rural e MRV Carbono. (Responsável: Prateleira/Consultoria);1;4440000,00;4440000,00;Rastreabilidade Verra.
+=;SUBTOTAL OPERAÇÃO II;-------------------;-------------------;-;-;13740000,00;-
+;;;;;;;
+--;BLOCO III: EXPANSÃO DO COMPONENTE 3 - HUB FABRIL N1 (RIO BRANCO);-------------------;-------------------;-;-;-;-
+18;CAPEX;Componente 3 (Bioarquitetura Base);Kit Industrial Completo (T01 a T09). (Responsável: Produção Própria Hub N1);1;865727,00;865727,00;Manufatura mestre acreana.
+19;CAPEX;Componente 3 (Biocombustível);Reator Adicional Duplicação de Pirólise (T02). (Responsável: Produção Própria Hub N1);1;51446,00;51446,00;Estrato pirolenhoso.
+20;CAPEX;Componente 3 (Automação);Unidade Secadora Controlada (T11-S). (Responsável: Produção Própria Hub N1);1;152284,00;152284,00;Climatização de bambu.
+21;CAPEX;Componente 3 (Sanitarismo);Módulos Institucionais (T12). (Responsável: Produção Própria Hub N1);4;28000,00;112000,00;Instalações hidrossanitárias.
+22;CAPEX;Componente 3 (Densificação);Peletizadora Master. (Responsável: Prateleira / Mercado);1;389180,00;389180,00;Aglomerador de resíduos via mercado.
+23;CAPEX;Componente 3 (Ferramentaria);Ferramentaria Robusta Sierras/Motosserras. (Responsável: Prateleira / Mercado);1;125000,00;125000,00;Carpintaria fina modular via mercado.
+24;CAPEX;Frotas Logísticas N1;Trator Pesado + Carreta Florestal + Picador. (Responsável: Prateleira / Mercado);1;580000,00;580000,00;Tratorização florestal.
+25;CAPEX;Frotas Logísticas N1;Caminhonetes Pickups (Tração 4x4 Cabine Dupla). (Responsável: Prateleira / Mercado);2;162500,00;325000,00;Coordenação terrestre.
+26;CAPEX;Componente 3 (Navegação);Balsa Fluvial Logística (T10). (Responsável: Produção Própria Hub N1);1;333801,60;333801,60;Fábrica Naval MQTF.
+27;CAPEX;TI Transversal N1;Infraestrutura Informática (INF-ADM). (Responsável: Prateleira / Mercado);1;85000,00;85000,00;Redes rurais N1.
+=;SUBTOTAL HUB N1 (III);-------------------;-------------------;-;-;3019438,60;-
+;;;;;;;
+--;BLOCO IV: ATENDIMENTO AOS COMPONENTES 1 E 2 - POLOS TERRITORIAIS N2;-------------------;-------------------;-;-;-;-
+28;CAPEX;Componentes 1 e 2 (Polo N2 Cruzeiro do Sul);Domo Industrial T11 (Entrega Hub N1) | Setor: Calha do Juruá e Tarauacá | Municípios: Cruzeiro do Sul, Mâncio Lima, Tarauacá, Feijó e Eirunepé;1;152284,00;152284,00;Estrutura construtiva avançada entregue pronta por Rio Branco.
+29;CAPEX;Componentes 1 e 2 (Polo N2 Cruzeiro do Sul);Lote Processual T02-T09 (Entrega Hub N1) | Setor: Calha do Juruá e Tarauacá | Municípios: Cruzeiro do Sul, Feijó;1;815349,00;815349,00;Maquinário T para extração regional Juruá.
+30;CAPEX;Componentes 1 e 2 (Polo N2 Cruzeiro do Sul);Estruturas Sanitárias T12 (Entrega Hub N1) | Setor: Calha do Juruá e Tarauacá | Municípios: Aldeias isoladas no Juruá;20;18000,00;360000,00;Complexos sanitários fornecidos por R.B.
+31;CAPEX;Componentes 1 e 2 (Polo N2 Cruzeiro do Sul);Planta de Biocombustão (Prateleira / Mercado) | Setor: Calha do Juruá e Tarauacá | Municípios: Cruzeiro do Sul Matriz;1;389180,00;389180,00;Distribuição de Carga peletizada N2.
+32;CAPEX;Componentes 1 e 2 (Polo N2 Cruzeiro do Sul);Balsas Nativas T10 (Entrega Hub N1) | Setor: Baixo Juruá e Solimões | Municípios: Juruá e Calhas Amazonas afluentes;2;333801,60;667603,20;Catamarãs logísticos forjados pela Matriz.
+33;CAPEX;Componentes 1 e 2 (Polo N2 Cruzeiro do Sul);Baterias Informática INF-N2 (Prateleira / Mercado) | Setor: Calha do Juruá e Tarauacá | Municípios: Polos remotos acrianos;1;25000,00;25000,00;Starlink Juruá via mercado.
+34;CAPEX;Componente 1 (Polo N2 Porto Velho);Módulo T11-10m + Linhas Pelet (Entrega Hub N1 e Mercado) | Setor: Calha do Madeira | Municípios: Porto Velho, Nova Mamoré, Guajará-Mirim;1;985803,00;985803,00;Composição Extrativista de Açaí entregue por Rio Branco.
+35;CAPEX;Componente 1 (Polo N2 Porto Velho);Baterias Informática INF-N2 (Prateleira / Mercado) | Setor: Calha do Madeira | Municípios: Bases ribeirinhas rondonienses;1;25000,00;25000,00;Suporte Prateleira.
+36;CAPEX;Componente 1 e 2 (Polo N2 Boa Vista);Módulo T11-10m + Linhas Pelet (Entrega Hub N1 e Mercado) | Setor: Roraima Norte | Municípios: Boa Vista, Pacaraima, Bonfim, Cantá;1;985803,00;985803,00;Composição híbrida enviada por R.B para Raposa Serra do Sol e afins.
+37;CAPEX;Componente 1 e 2 (Polo N2 Boa Vista);Baterias Informática INF-N2 (Prateleira / Mercado) | Setor: Roraima Norte | Municípios: Comunidades Indígenas do Lavrado RR;1;25000,00;25000,00;Suporte Prateleira.
+38;CAPEX;Componente 2 / Artesanato (Polo N2 Sena M.);Lote Vigilância T11 (Entrega Hub N1) | Setor: Calha do Iaco e Purus | Municípios: Sena Madureira, Manoel Urbano, Santa Rosa do Purus;1;596623,00;596623,00;Apoio estrutural à rede de artesãs (Demanda Geórgia).
+39;CAPEX;Componente 2 / Artesanato (Polo N2 Sena M.);Baterias Informática INF-N2 (Prateleira / Mercado) | Setor: Calha do Iaco e Purus | Municípios: Bases de ramais Sena e Manoel Urbano;1;25000,00;25000,00;Suporte Mercado Sena M.
+40;CAPEX;Componente 1 / Açaí Castanha (Polo N2 Boca AC);Lote Vigilância T11 (Entrega Hub N1) | Setor: Calha do Purus | Municípios: Boca do Acre, Pauini, Lábrea;1;596623,00;596623,00;Apoio às coletoras de fitoativos via N1 (Demanda Sônia).
+41;CAPEX;Componente 1 / Açaí Castanha (Polo N2 Boca AC);Baterias Informática INF-N2 (Prateleira / Mercado) | Setor: Calha do Purus | Municípios: Frentes extrativistas de Lábrea e Boca;1;25000,00;25000,00;Suporte Mercado Boca do Acre.
+=;SUBTOTAL POLOS N2 (IV);-------------------;-------------------;-;-;5674268,20;-
+;;;;;;;
+--;BLOCO V: RECURSOS AGROINDUSTRIAIS COMPONENTES 1 E 2;-------------------;-------------------;-;-;-;-
+42;CAPEX;Componente 1 (Açaí / Castanha);Central Inox de Açaí (Prateleira / Mercado) | Alocação: Polos do Purus e Madeira | Exigência: Sônia Extrativismo;1;250000,00;250000,00;Linha comercial de despolpadeiras e câmaras isoladoras Anvisa.
+43;CAPEX;Componente 2 (Artesanato / Biojoias);Instrumental Manufatureiro Bateria. (Prateleira / Mercado) | Alocação: Juruá e Iaco | Exigência: Geórgia Artesãs;15;9000,00;135000,00;Kits X-Change comerciais para pulverização descentralizada de micro-fábricas.
+44;CAPEX;Serviços Transversais N1 e N2;Topografia e Drones. (Prateleira / Mercado);1;45000,00;45000,00;Mapeamento aéreo calhas fluviais referidas acima.
+45;CAPEX;Saúde Segurança Transversal N1 e N2;Parque Instrumental Sanitário. (Prateleira / Mercado);1;80000,00;80000,00;Segurança de frentes abertas Iaco Juruá Purus e Roraima.
+=;SUBTOTAL COMPONENTES V;-------------------;-------------------;-;-;510000,00;-
+;;;;;;;
+--;BLOCO VI: TRIBUTAÇÃO, FUNDAÇÃO E RISCOS INSTITUCIONAIS;-------------------;-------------------;-;-;-;-
+46;OPEX;Transversal Governança;Contrato Seguro Sinistros. (Mercado Regulado);1;125000,00;125000,00;Taxa preventiva rodofluvial.
+47;CAPEX;Transversal Logística;Taxa Custos Amazônicos / Fator CUB. (Provisão Interna BNDES);1;979197,78;979197,78;Reserva logística variação de preços.
+48;IMPOSTO;Governança Universitária;Tributário Fundação UnB. (Fundação UnB Institucional);1;5993131,60;5993131,60;Imposto 18% administrativo.
+=;SUBTOTAL TRIBUTAÇÃO VI;-------------------;-------------------;-;-;7097329,38;-
+;;;;;;;
+--;TOTALIZAÇÃO FINAL UNIFICADA;-------------------;-------------------;-;-;-;-
+49;SOMA GERAL;Total Pleito MQTF Auditado;Soma Aritmética Dinâmica Completa;1;38825036,18;38825036,18;Totalização soberana inegociável.
