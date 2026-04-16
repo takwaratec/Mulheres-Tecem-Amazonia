@@ -1,0 +1,141 @@
+TABELAS DO FORMULÁRIO FUNDO AMAZÔNIA — ROTEIRO GERAL (DOC 016);;;;;
+Projeto: Mulheres Que Tecem a Floresta (MQTF);;;;;
+Consórcio: UnB / UFRR / UFAC;;;;;
+Versão: Consolidada (V2) — Auditada em 14/04/2026;;;;;
+;;;;;
+==============================;;;;;
+TABELA 1: FICHA RESUMO DO PROJETO;;;;;
+==============================;;;;;
+Campo;Informação;;;;
+NOME DO CLIENTE;Universidade de Brasília (UnB);;;;
+NOME DO PROJETO;Mulheres Que Tecem a Floresta;;;;
+VALOR TOTAL (R$);38825036,18;;;;
+PRAZO DE EXECUÇÃO;48 meses;;;;
+ABRANGÊNCIA;28 municípios / 4 estados (AC AM RO RR);;;;
+PÚBLICO-ALVO DIRETO;1150 famílias (~5750 pessoas);;;;
+;;;;;
+==============================;;;;;
+TABELA 2: ABRANGÊNCIA GEOGRÁFICA E CAPEX POR POLO;;;;;
+==============================;;;;;
+Hub / Polo;Calha / Eixo;Municípios;CAPEX (R$);;
+Hub N1 (Rio Branco);Acre Central / Purus;Rio Branco Senador Guiomard Porto Acre Bujari Plácido de Castro;3019438,60;;
+Polo N2 Cruzeiro do Sul;Juruá e Tarauacá;Cruzeiro do Sul Mâncio Lima Rodrigues Alves Jordão Tarauacá Feijó Ipixuna Eirunepé;2409416,20;;
+Polo N2 Sena Madureira;Iaco e Baixo Purus;Sena Madureira Manoel Urbano Santa Rosa do Purus;621623,00;;
+Polo N2 Boca do Acre;Médio Purus;Boca do Acre Pauini Lábrea Canutama;621623,00;;
+Polo N2 Porto Velho;Madeira;Porto Velho Nova Mamoré Guajará-Mirim Humaitá Tapauá Acrelândia;1010803,00;;
+Polo N2 Boa Vista;Roraima Norte;Boa Vista Pacaraima Bonfim Cantá Mucajaí Amajari Normandia Caracaraí Rorainópolis;1010803,00;;
+TOTAL CAPEX TERRITORIAL;;;=SOMA(D23:D28);;
+;;;;;
+==============================;;;;;
+TABELA 3: DETALHAMENTO ORÇAMENTÁRIO — COMPONENTE 1 (ARTESANATO E BIOJOIAS);;;;;
+==============================;;;;;
+Rubrica;Descrição;Polo / Alocação;Qtd;Valor Unitário (R$);Valor Total (R$)
+38;Lote Vigilância T11 (Artesanato);N2 Sena Madureira;1;596623,00;=D35*E35
+39;Bateria Informática INF-N2;N2 Sena Madureira;1;25000,00;=D36*E36
+36;Módulo T11-10m + Linhas Pelet;N2 Boa Vista;1;985803,00;=D37*E37
+37;Bateria Informática INF-N2;N2 Boa Vista;1;25000,00;=D38*E38
+43;Instrumental Manufatureiro (Kits X-Change);Juruá e Iaco;15;9000,00;=D39*E39
+44;Topografia e Drones;Transversal N1/N2;1;45000,00;=D40*E40
+45;Parque Instrumental Sanitário;Transversal N1/N2;1;80000,00;=D41*E41
+;SUBTOTAL COMPONENTE 1;;;;"=SOMA(F35:F41)"
+;Nota: Bolsas formativas (R$ 4.500.000 — Rubrica 13) e ATER (R$ 4.440.000 — Rubrica 17) são transversais aos Comp. 1 e 2.;;;;
+;;;;;
+==============================;;;;;
+TABELA 4: DETALHAMENTO ORÇAMENTÁRIO — COMPONENTE 2 (AÇAÍ CASTANHA E FITOATIVOS);;;;;
+==============================;;;;;
+Rubrica;Descrição;Polo / Alocação;Qtd;Valor Unitário (R$);Valor Total (R$)
+28;Domo Industrial T11;N2 Cruzeiro do Sul;1;152284,00;=D49*E49
+29;Lote Processual T02-T09;N2 Cruzeiro do Sul;1;815349,00;=D50*E50
+30;Estruturas Sanitárias T12;N2 CzS (Aldeias Juruá);20;18000,00;=D51*E51
+31;Planta de Biocombustão (Peletizadora);N2 Cruzeiro do Sul;1;389180,00;=D52*E52
+32;Balsas Nativas T10;N2 CzS (Juruá / Solimões);2;333801,60;=D53*E53
+33;Bateria Informática INF-N2;N2 Cruzeiro do Sul;1;25000,00;=D54*E54
+34;Módulo T11-10m + Linhas Pelet;N2 Porto Velho;1;985803,00;=D55*E55
+35;Bateria Informática INF-N2;N2 Porto Velho;1;25000,00;=D56*E56
+40;Lote Vigilância T11 (Fitoativos);N2 Boca do Acre;1;596623,00;=D57*E57
+41;Bateria Informática INF-N2;N2 Boca do Acre;1;25000,00;=D58*E58
+42;Central Inox de Açaí (ANVISA);Polos Purus / Madeira;1;250000,00;=D59*E59
+;SUBTOTAL COMPONENTE 2;;;;"=SOMA(F49:F59)"
+;Nota: Topografia/Drones (R$ 45k) e Parque Sanitário (R$ 80k) são compartilhados com Comp. 1 e totalizados no Bloco V.;;;;
+;;;;;
+==============================;;;;;
+TABELA 5: DETALHAMENTO ORÇAMENTÁRIO — COMPONENTE 3 (BIOCONSTRUÇÃO E BIORREFINARIA);;;;;
+==============================;;;;;
+Rubrica;Descrição;Origem;Qtd;Valor Unitário (R$);Valor Total (R$)
+18;Kit Industrial Completo T01-T09;Produção Própria Hub N1;1;865727,00;=D67*E67
+19;Reator Adicional T02 (Duplicação Pirólise);Produção Própria Hub N1;1;51446,00;=D68*E68
+20;Unidade Secadora Controlada T11-S;Produção Própria Hub N1;1;152284,00;=D69*E69
+21;Módulos Institucionais T12;Produção Própria Hub N1;4;28000,00;=D70*E70
+22;Peletizadora Master;Prateleira / Mercado;1;389180,00;=D71*E71
+23;Ferramentaria Robusta (Sierras / Motosserras);Prateleira / Mercado;1;125000,00;=D72*E72
+24;Trator Pesado + Carreta Florestal + Picador;Prateleira / Mercado;1;580000,00;=D73*E73
+25;Caminhonetes Pick-ups 4x4 Cabine Dupla;Prateleira / Mercado;2;162500,00;=D74*E74
+26;Balsa Fluvial Logística T10;Produção Própria Hub N1;1;333801,60;=D75*E75
+27;Infraestrutura Informática INF-ADM;Prateleira / Mercado;1;85000,00;=D76*E76
+;SUBTOTAL COMPONENTE 3;;;;"=SOMA(F67:F76)"
+;;;;;
+==============================;;;;;
+TABELA 6: QUADRO DE EQUIPE DE GESTÃO (BLOCO I — GOVERNANÇA UNIVERSITÁRIA E P&D);;;;;
+==============================;;;;;
+Rubrica;Função;Vinculação;Qtd (Meses-Pessoa);Valor Mensal (R$);Valor Total (R$)
+1;Coordenação Geral Acadêmica e Logística;Consórcio UnB;48;14000,00;=D83*E83
+2;Coordenação de Implementação no Acre;UFAC;48;14000,00;=D84*E84
+3;Coordenação de Implementação em Roraima;UFRR;48;14000,00;=D85*E85
+4;Assessoria Pedagógica;Eixo P&D;192;9000,00;=D86*E86
+5;Assessoria Científica e de Inovação;Eixo P&D;144;9000,00;=D87*E87
+6;Técnicos Administrativos;UnB;144;3500,00;=D88*E88
+7;Auxiliares Técnicos;UnB;144;2500,00;=D89*E89
+8;Analistas de Gestão Ambiental e TS;UnB;192;4000,00;=D90*E90
+9;Profissionais Graduados de Manejo;UnB;384;2500,00;=D91*E91
+10;Analistas de Comunicação;MQTF;96;4000,00;=D92*E92
+11;Psicólogas Comunitárias;Eixo Saúde;96;4000,00;=D93*E93
+12;Analistas de Campo e Levantamento;Eixo P&D;96;4000,00;=D94*E94
+;SUBTOTAL BLOCO I (GESTÃO);;;;"=SOMA(F83:F94)"
+;;;;;
+==============================;;;;;
+TABELA 7: OPERAÇÃO TERRITORIAL LOGÍSTICA E BOLSAS (BLOCO II);;;;;
+==============================;;;;;
+Rubrica;Descrição;Responsável;Qtd;Valor Unitário (R$);Valor Total (R$)
+13;Bolsas Formativas Mulheres Extrativistas;Governança;3600;1250,00;=D101*E101
+14;Operadores Fabris de Maquinário Bioarquitetura;Hub N1;48;12500,00;=D102*E102
+15;Motoristas Qualificados Categoria D/E;Hub N1;192;10000,00;=D103*E103
+16;Combustível Manutenção e Transportes;Governança;48;47500,00;=D104*E104
+17;Assistência Técnica Rural e MRV Carbono;Prateleira / Consultoria;1;4440000,00;=D105*E105
+;SUBTOTAL BLOCO II (OPERAÇÃO);;;;"=SOMA(F101:F105)"
+;;;;;
+==============================;;;;;
+TABELA 8: TRIBUTAÇÃO FUNDAÇÃO E RISCOS INSTITUCIONAIS (BLOCO VI);;;;;
+==============================;;;;;
+Rubrica;Descrição;Responsável;Qtd;Valor Unitário (R$);Valor Total (R$)
+46;Contrato Seguro Sinistros;Mercado Regulado;1;125000,00;=D112*E112
+47;Taxa Custos Amazônicos / Fator CUB;Provisão Interna BNDES;1;979197,78;=D113*E113
+48;Tributário Fundação UnB (18% Administrativo);Fundação UnB Institucional;1;5993131,60;=D114*E114
+;SUBTOTAL BLOCO VI (TRIBUTAÇÃO);;;;"=SOMA(F112:F114)"
+;;;;;
+==============================;;;;;
+TABELA 9: RESUMO FINANCEIRO CONSOLIDADO (6 BLOCOS);;;;;
+==============================;;;;;
+Bloco;Descrição;Tipo;Valor (R$);% do Total;
+I;Governança Universitária e P&D (UnB/UFRR/UFAC);OPEX;=F95;=D122/D128*100;
+II;Operação Territorial Logística e Bolsas;OPEX;=F106;=D123/D128*100;
+III;Hub Fabril N1 (CAPEX Componente 3 — Série T);CAPEX;=F77;=D124/D128*100;
+IV;Polos N2 (CAPEX Componentes 1 e 2);CAPEX;=F42+F60;=D125/D128*100;
+V;Recursos Agroindustriais (Componentes 1 e 2);CAPEX;510000,00;=D126/D128*100;
+VI;Tributação Fundação UnB e Riscos Institucionais;OPEX/IMP;=F115;=D127/D128*100;
+;TOTALIZAÇÃO AUDITADA;;=SOMA(D122:D127);100,00;
+;VERIFICAÇÃO (deve ser igual a 38825036,18);;=D128-38825036,18;;
+;;;;;
+==============================;;;;;
+TABELA 10: CRONOGRAMA FÍSICO-FINANCEIRO (8 TRANCHES SEMESTRAIS);;;;;
+==============================;;;;;
+Tranche;Período;Marco Principal;Componentes;% Desembolso;Valor Estimado (R$)
+T1;Meses 1-6;Fase 0: Anamnese / CPLI / Aquisição de Frotas;3;15;=E135/100*$D$128
+T2;Meses 7-12;Fase 1: Implantação Hub N1 / Início Bolsas e Canteiro-Escola;1 2 3;15;=E136/100*$D$128
+T3;Meses 13-18;Fase 2: Montagem Polos N2 CzS e Sena Madureira;1 2 3;15;=E137/100*$D$128
+T4;Meses 19-24;Fase 2: Consolidação 3 Polos N2 + Avaliação Intermediária;1 2 3;15;=E138/100*$D$128
+T5;Meses 25-30;Fase 3: Montagem Polos N2 PV e BV;1 2 3;10;=E139/100*$D$128
+T6;Meses 31-36;Fase 3: Escala Comercial / Lançamento Marca Coletiva;1 2;10;=E140/100*$D$128
+T7;Meses 37-42;Fase 3: Certificação MRV / Selos NBR 15575 e 16828;1 2 3;10;=E141/100*$D$128
+T8;Meses 43-48;Fase 4: Transferência para Cooperativas / Relatório Final;1 2 3;10;=E142/100*$D$128
+;TOTAL;;;"=SOMA(E135:E142)";"=SOMA(F135:F142)"
+;VERIFICAÇÃO (% deve ser 100);;;=E143-100;;
